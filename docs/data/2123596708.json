@@ -1,0 +1,40 @@
+{
+  "character_id": 2123596708,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91943256,
+    "name": "Haix Exter",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 91943256,
+      "name": "Haix Exter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115515248,
+      "name": "Star Harrier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121535900,
+      "name": "airanv4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Danny Kent",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

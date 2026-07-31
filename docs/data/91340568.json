@@ -1,0 +1,52 @@
+{
+  "character_id": 91340568,
+  "total_losses": 32,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115066812,
+      "name": "DrFriend",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118743417,
+      "name": "Slippery Snake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91064731,
+      "name": "Winter Lee Wintershadow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eury Thorn",
+  "corporation_id": 98390504,
+  "alliance_id": null,
+  "corporation_name": "Enemy Anonymous",
+  "alliance_name": null
+}

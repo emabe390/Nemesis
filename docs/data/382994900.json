@@ -1,0 +1,52 @@
+{
+  "character_id": 382994900,
+  "total_losses": 24,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 1617602084,
+    "name": "Pirate Kiliran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1654995899,
+    "alliance_id": null,
+    "corporation_name": "Privateers Of Virtue",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1617602084,
+      "name": "Pirate Kiliran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116678395,
+      "name": "Kaj Orlenard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90119862,
+      "name": "Hans Zwaardhandler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90934350,
+      "name": "VIsus IronFox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serial ATA",
+  "corporation_id": 98438878,
+  "alliance_id": 99013537,
+  "corporation_name": "The Nordic Associates",
+  "alliance_name": "Insidious."
+}

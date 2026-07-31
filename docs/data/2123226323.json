@@ -1,0 +1,52 @@
+{
+  "character_id": 2123226323,
+  "total_losses": 72,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 10,
+    "final_blows": 8,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 10,
+      "final_blows": 8
+    },
+    {
+      "id": 2117766078,
+      "name": "Oata Huren",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 243941398,
+      "name": "masty",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Astraios 12",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

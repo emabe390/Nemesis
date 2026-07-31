@@ -1,0 +1,40 @@
+{
+  "character_id": 2123458672,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93314393,
+    "name": "shirogane cinerea",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98326740,
+    "alliance_id": null,
+    "corporation_name": "Theory of Mind",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93314393,
+      "name": "shirogane cinerea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 181181255,
+      "name": "Arona Tulk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123227214,
+      "name": "EII-A3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "el'Ko3a de'Pe3a",
+  "corporation_id": 98441032,
+  "alliance_id": 99012042,
+  "corporation_name": "Bloody Entertainment",
+  "alliance_name": "Fanatic Legion."
+}

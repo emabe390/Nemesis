@@ -1,0 +1,40 @@
+{
+  "character_id": 2124460611,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92990261,
+    "name": "Sarah Kerriganz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98557697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Lost Legends",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 92990261,
+      "name": "Sarah Kerriganz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96572934,
+      "name": "Getten",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 634915984,
+      "name": "BearThatCares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124460611",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

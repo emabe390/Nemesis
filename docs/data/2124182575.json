@@ -1,0 +1,52 @@
+{
+  "character_id": 2124182575,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2120340275,
+    "name": "HeavyTree",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98790733,
+    "alliance_id": null,
+    "corporation_name": "Heavy's Slaves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 119804125,
+      "name": "Rasitiln",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114301210,
+      "name": "cat Pink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ausur Ornulf",
+  "corporation_id": 98829947,
+  "alliance_id": 99014348,
+  "corporation_name": "Nebula-Industries",
+  "alliance_name": "K162 Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2117385288,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112938814,
+    "name": "Amara Denafel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 937664582,
+    "alliance_id": 99011426,
+    "corporation_name": "Shadow Legion X",
+    "alliance_name": "Seriously Suspicious"
+  },
+  "top_killers": [
+    {
+      "id": 2112938814,
+      "name": "Amara Denafel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122843458,
+      "name": "Glory Wings",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124043213,
+      "name": "Cato Starridere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kirito Battousai",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

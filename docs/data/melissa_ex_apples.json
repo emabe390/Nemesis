@@ -1,0 +1,40 @@
+{
+  "character_id": 2123141844,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118498181,
+    "name": "Scary Tomato",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118498181,
+      "name": "Scary Tomato",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116024316,
+      "name": "Delph Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123020919,
+      "name": "I Forgot Who",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Melissa Ex Apples",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

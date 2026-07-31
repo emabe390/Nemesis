@@ -1,0 +1,52 @@
+{
+  "character_id": 2122443250,
+  "total_losses": 21,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112583621,
+      "name": "mana jorell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113806262,
+      "name": "Satori Koishi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116641570,
+      "name": "CCleaner Opper",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Buniek",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

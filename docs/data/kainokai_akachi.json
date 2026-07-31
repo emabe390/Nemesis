@@ -1,0 +1,40 @@
+{
+  "character_id": 2121572158,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121665520,
+    "name": "Kae Udan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98703471,
+    "alliance_id": 933731581,
+    "corporation_name": "Short Bus Buccaneers",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2121665520,
+      "name": "Kae Udan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92854657,
+      "name": "Sundrota Sunder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113981455,
+      "name": "Mantus Otsolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kainokai Akachi",
+  "corporation_id": 98818839,
+  "alliance_id": null,
+  "corporation_name": "Lutherbraten",
+  "alliance_name": null
+}

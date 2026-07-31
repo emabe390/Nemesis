@@ -1,0 +1,52 @@
+{
+  "character_id": 2119467424,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 95609149,
+    "name": "shpees",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 95609149,
+      "name": "shpees",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93472626,
+      "name": "Cul Lix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93928163,
+      "name": "Arv Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spawn-rfc",
+  "corporation_id": 98139309,
+  "alliance_id": 99007879,
+  "corporation_name": "Don't Wake a sleeping bear",
+  "alliance_name": "TIME CRIT"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122127669,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90863272,
+      "name": "Joe Mangeiri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122127669,
+      "name": "ZeldaXX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZeldaXX",
+  "corporation_id": 98560652,
+  "alliance_id": 1354830081,
+  "corporation_name": "Miners Inn",
+  "alliance_name": "Goonswarm Federation"
+}

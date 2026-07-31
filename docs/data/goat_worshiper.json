@@ -1,0 +1,40 @@
+{
+  "character_id": 95151366,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1710359416,
+    "name": "Profschrauba",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 148763686,
+    "alliance_id": 1727758877,
+    "corporation_name": "Liga Freier Terraner",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 1710359416,
+      "name": "Profschrauba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120037091,
+      "name": "TestoSlaine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Goat Worshiper",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

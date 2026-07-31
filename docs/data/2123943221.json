@@ -1,0 +1,52 @@
+{
+  "character_id": 2123943221,
+  "total_losses": 30,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91630606,
+      "name": "William Follet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1000274203,
+      "name": "Lefiel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1894000332,
+      "name": "WhiteyUSMC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113684514,
+      "name": "Wesley Cruster",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Major D'fekt",
+  "corporation_id": 98820183,
+  "alliance_id": null,
+  "corporation_name": "D'fektive",
+  "alliance_name": null
+}

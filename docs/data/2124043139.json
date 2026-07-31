@@ -1,0 +1,52 @@
+{
+  "character_id": 2124043139,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122040903,
+    "name": "sizeable pigeon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670226,
+    "alliance_id": 99010756,
+    "corporation_name": "StratsCo",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2122040903,
+      "name": "sizeable pigeon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96035905,
+      "name": "Sam Punisher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 700583425,
+      "name": "Bobby Rush",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1204592565,
+      "name": "Victory Man",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GeneralRider",
+  "corporation_id": 98816795,
+  "alliance_id": null,
+  "corporation_name": "Wyscore Industries",
+  "alliance_name": null
+}

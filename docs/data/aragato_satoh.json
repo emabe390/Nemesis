@@ -1,0 +1,40 @@
+{
+  "character_id": 2123725401,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115649345,
+    "name": "jay feyza",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767024,
+    "alliance_id": 99013563,
+    "corporation_name": "Allied Exploration Front",
+    "alliance_name": "Allied Exploration Front AXXF"
+  },
+  "top_killers": [
+    {
+      "id": 2115649345,
+      "name": "jay feyza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117438241,
+      "name": "Mk18",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aragato Satoh",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

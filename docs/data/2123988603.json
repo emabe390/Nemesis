@@ -1,0 +1,52 @@
+{
+  "character_id": 2123988603,
+  "total_losses": 60,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115316446,
+      "name": "Showalk Sould",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94741222,
+      "name": "gmoney mcswaggins",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Thorin Hanover",
+  "corporation_id": 98824902,
+  "alliance_id": 99009163,
+  "corporation_name": "QuackOps",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123873837,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 899391981,
+    "name": "PAA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98816818,
+    "alliance_id": null,
+    "corporation_name": "We're Not AFK",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 899391981,
+      "name": "PAA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96376504,
+      "name": "Mark Teicher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 198615626,
+      "name": "Delta Flyer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eterna Rigg Torren",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

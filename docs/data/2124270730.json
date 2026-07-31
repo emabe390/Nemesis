@@ -1,0 +1,40 @@
+{
+  "character_id": 2124270730,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 166578912,
+    "name": "Kothar Ra",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98229028,
+    "alliance_id": 99015175,
+    "corporation_name": "Direct Action.",
+    "alliance_name": "Dust Up"
+  },
+  "top_killers": [
+    {
+      "id": 166578912,
+      "name": "Kothar Ra",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 215156053,
+      "name": "5thCoLuMn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119697585,
+      "name": "Sondith",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raze Redwake",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

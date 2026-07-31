@@ -1,0 +1,52 @@
+{
+  "character_id": 96099329,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 103010143,
+    "name": "KOST13",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98048470,
+    "alliance_id": 99010882,
+    "corporation_name": "Banana Republic inc.",
+    "alliance_name": "Nasty Watcher Group"
+  },
+  "top_killers": [
+    {
+      "id": 103010143,
+      "name": "KOST13",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020062,
+      "name": "Allecto Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93712073,
+      "name": "Donovan Aivoras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stardust Akiga",
+  "corporation_id": 98644650,
+  "alliance_id": 99010431,
+  "corporation_name": "Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

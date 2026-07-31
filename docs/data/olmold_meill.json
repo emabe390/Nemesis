@@ -1,0 +1,52 @@
+{
+  "character_id": 2121782007,
+  "total_losses": 24,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 3020007,
+    "name": "Cephisso Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123708560,
+      "name": "Arpasen Shaishi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94410347,
+      "name": "Jemma Rackner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94564223,
+      "name": "Bjorn Itonula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94564234,
+      "name": "Rainard Otsolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Olmold Meill",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112463270,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121813165,
+    "name": "Fime Auffrie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121813165,
+      "name": "Fime Auffrie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90583188,
+      "name": "Mac Ruder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92088325,
+      "name": "Dmitry Mekhov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 754341979,
+      "name": "Norman Dallas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kenshin Atari",
+  "corporation_id": 98133337,
+  "alliance_id": 99010468,
+  "corporation_name": "Evil Space Goblins",
+  "alliance_name": "Weapons Of Mass Production."
+}

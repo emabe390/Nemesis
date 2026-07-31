@@ -1,0 +1,52 @@
+{
+  "character_id": 2119882023,
+  "total_losses": 34,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 973576579,
+    "name": "Genning",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119450232,
+      "name": "GPSxVladimir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90465144,
+      "name": "Justin Jackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92371457,
+      "name": "Jake Skord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dude of IB",
+  "corporation_id": 98695839,
+  "alliance_id": 99003214,
+  "corporation_name": "South Sun Industries",
+  "alliance_name": "Brave Collective"
+}

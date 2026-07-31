@@ -1,0 +1,52 @@
+{
+  "character_id": 2123371365,
+  "total_losses": 24,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112498484,
+      "name": "Peter Yurgin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115595078,
+      "name": "Drama Prime",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Angmar Reacher",
+  "corporation_id": 98805043,
+  "alliance_id": null,
+  "corporation_name": "La Maisson d'Arnor",
+  "alliance_name": null
+}

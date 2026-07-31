@@ -1,0 +1,52 @@
+{
+  "character_id": 2123935662,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115238981,
+    "name": "lv2 saber",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98656114,
+    "alliance_id": 99014716,
+    "corporation_name": "Dead Fish Inc",
+    "alliance_name": "Tethys System"
+  },
+  "top_killers": [
+    {
+      "id": 2115238981,
+      "name": "lv2 saber",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90241015,
+      "name": "Chandoraa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1071521448,
+      "name": "Kasper Skov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1185432224,
+      "name": "eaer refta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115824208,
+      "name": "tom ACL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123935662",
+  "corporation_id": 98809241,
+  "alliance_id": 99014605,
+  "corporation_name": "Advanced Micro Devices Inc.",
+  "alliance_name": "Azur Lane Confederation"
+}

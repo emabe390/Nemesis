@@ -1,0 +1,52 @@
+{
+  "character_id": 2123899473,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1648763621,
+    "name": "Bruce Kemp",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 538004967,
+    "alliance_id": 99011258,
+    "corporation_name": "x13",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 1648763621,
+      "name": "Bruce Kemp",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97210253,
+      "name": "Father Nye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116443854,
+      "name": "GaiusOctavius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120481908,
+      "name": "Akora Itiya Sasen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90974043,
+      "name": "Daniel Alpena",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oasisa",
+  "corporation_id": 98743810,
+  "alliance_id": null,
+  "corporation_name": "Why So Sager",
+  "alliance_name": null
+}

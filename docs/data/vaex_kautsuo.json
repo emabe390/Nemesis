@@ -1,0 +1,52 @@
+{
+  "character_id": 2114160035,
+  "total_losses": 59,
+  "unique_killers": 57,
+  "nemesis": {
+    "id": 720593248,
+    "name": "Arthur McFredric",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 735865015,
+    "alliance_id": 1988009451,
+    "corporation_name": "Polaris Project",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 720593248,
+      "name": "Arthur McFredric",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90352186,
+      "name": "Ayuren Aakiwa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90799210,
+      "name": "SquidWhiskers Shikkoken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91009792,
+      "name": "Delgrin DelMont",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vaex Kautsuo",
+  "corporation_id": 98659321,
+  "alliance_id": null,
+  "corporation_name": "BamH1",
+  "alliance_name": null
+}

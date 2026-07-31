@@ -1,0 +1,40 @@
+{
+  "character_id": 2114449130,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95990061,
+    "name": "Character 95990061",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95990061,
+      "name": "Character 95990061",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113707288,
+      "name": "Eposz Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122972468,
+      "name": "Character 2122972468",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atmin",
+  "corporation_id": 98795819,
+  "alliance_id": 1900696668,
+  "corporation_name": "Solos Nexus",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123827184,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92523661,
+    "name": "Prophet Bathana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98633005,
+    "alliance_id": 99011372,
+    "corporation_name": "Protean Concept",
+    "alliance_name": "Moss Piglet Preservation Society"
+  },
+  "top_killers": [
+    {
+      "id": 92523661,
+      "name": "Prophet Bathana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1865272548,
+      "name": "Geodossi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114214813,
+      "name": "Character 2114214813",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xenn Zero",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

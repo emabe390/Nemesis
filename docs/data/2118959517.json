@@ -1,0 +1,40 @@
+{
+  "character_id": 2118959517,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90031699,
+    "name": "Lightning Theif",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695005,
+    "alliance_id": 1354830081,
+    "corporation_name": "Splintered Dreams",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90031699,
+      "name": "Lightning Theif",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121311065,
+      "name": "Tivalo Nolen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93550859,
+      "name": "ultranorth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rakuzad",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123824552,
+  "total_losses": 19,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90494078,
+    "name": "Rick Solette",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98765453,
+    "alliance_id": 1900696668,
+    "corporation_name": "Walrus Mafia",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90494078,
+      "name": "Rick Solette",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2112767695,
+      "name": "Trabicsek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123552780,
+      "name": "Cloe chvalier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123824552,
+      "name": "Avo Therion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avo Therion",
+  "corporation_id": 98277004,
+  "alliance_id": null,
+  "corporation_name": "Everybody do dah flop",
+  "alliance_name": null
+}

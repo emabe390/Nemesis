@@ -1,0 +1,52 @@
+{
+  "character_id": 145132132,
+  "total_losses": 19,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 92795470,
+    "name": "Plutus Astraeus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98475591,
+    "alliance_id": 99009927,
+    "corporation_name": "Integritas",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 92795470,
+      "name": "Plutus Astraeus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92550430,
+      "name": "Kaliandra Gor-Akhal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94117937,
+      "name": "TpeBoMaHka Dooley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94632939,
+      "name": "Tarkus Jedari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95228453,
+      "name": "William Weist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deros",
+  "corporation_id": 263585335,
+  "alliance_id": 498125261,
+  "corporation_name": "Black Omega Security",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123489916,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1392757657,
+    "name": "WE DELIVER",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 1392757657,
+      "name": "WE DELIVER",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1043386382,
+      "name": "eddie valvetino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mikhail Brenner",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

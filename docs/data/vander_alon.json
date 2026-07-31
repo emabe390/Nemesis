@@ -1,0 +1,52 @@
+{
+  "character_id": 2123674608,
+  "total_losses": 20,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92218393,
+      "name": "Morgan Lacerda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115627390,
+      "name": "Lapras Ortik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vander Alon",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

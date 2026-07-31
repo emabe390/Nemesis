@@ -1,0 +1,40 @@
+{
+  "character_id": 383247199,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113250901,
+    "name": "Larson Drak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 370425408,
+    "alliance_id": null,
+    "corporation_name": "Piratas Leprosos Guineanos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2116988196,
+      "name": "Zombi 2020",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tau Delta",
+  "corporation_id": 98687318,
+  "alliance_id": null,
+  "corporation_name": "Tau Capital Investments",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124330482,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 691261611,
+    "name": "Hans Vanburen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 691261611,
+      "name": "Hans Vanburen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 943701296,
+      "name": "Zigler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117339892,
+      "name": "Louh Jaynara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119114563,
+      "name": "Aleksandr Lord Junior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Runner Altai",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

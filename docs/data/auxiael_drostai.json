@@ -1,0 +1,40 @@
+{
+  "character_id": 1122653818,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112564598,
+    "name": "Entelligente Ente",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646775,
+    "alliance_id": 1727758877,
+    "corporation_name": "Banana-Republic.",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 2112564598,
+      "name": "Entelligente Ente",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1673545058,
+      "name": "PSIHO Dac",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120839627,
+      "name": "Deleted Database",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Auxiael Drostai",
+  "corporation_id": 98769603,
+  "alliance_id": null,
+  "corporation_name": "Lunaris Mechanical",
+  "alliance_name": null
+}

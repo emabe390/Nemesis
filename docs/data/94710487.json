@@ -1,0 +1,40 @@
+{
+  "character_id": 94710487,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90796316,
+    "name": "Panda Ostus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jerricho Bishop",
+  "corporation_id": 1000049,
+  "alliance_id": null,
+  "corporation_name": "Brutor Tribe",
+  "alliance_name": null
+}

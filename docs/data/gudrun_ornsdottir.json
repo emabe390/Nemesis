@@ -1,0 +1,40 @@
+{
+  "character_id": 2124335941,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118708902,
+    "name": "Anna-mariya",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118708902,
+      "name": "Anna-mariya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124038893,
+      "name": "Racie Adoudel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124292591,
+      "name": "SSSRT1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gudrun Ornsdottir",
+  "corporation_id": 98832525,
+  "alliance_id": 99010569,
+  "corporation_name": "Hird Arnar",
+  "alliance_name": "Safety."
+}

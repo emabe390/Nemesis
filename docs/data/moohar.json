@@ -1,0 +1,52 @@
+{
+  "character_id": 1757448980,
+  "total_losses": 23,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123599370,
+    "name": "Veltamore",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123599370,
+      "name": "Veltamore",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123633954,
+      "name": "Zapacitu Stragopulis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124239890,
+      "name": "Ohkiainen Makanen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MooHar",
+  "corporation_id": 98259161,
+  "alliance_id": 99003214,
+  "corporation_name": "Lone Star Warriors",
+  "alliance_name": "Brave Collective"
+}

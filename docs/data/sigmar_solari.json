@@ -1,0 +1,40 @@
+{
+  "character_id": 2122310630,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112827279,
+    "name": "Triel Kaundur",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98094779,
+    "alliance_id": 99009845,
+    "corporation_name": "Heretic Army",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2112827279,
+      "name": "Triel Kaundur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118583344,
+      "name": "XJ 19",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sigmar Solari",
+  "corporation_id": 263585335,
+  "alliance_id": 99011978,
+  "corporation_name": "Black Omega Security",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

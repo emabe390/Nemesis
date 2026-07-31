@@ -1,0 +1,52 @@
+{
+  "character_id": 2113552410,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 392247734,
+    "name": "X7000",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98764551,
+    "alliance_id": 99014027,
+    "corporation_name": "PLA Fleet",
+    "alliance_name": "People's Liberation Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 392247734,
+      "name": "X7000",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96810336,
+      "name": "Cal Devens",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96871790,
+      "name": "Guffor Atremi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 452054418,
+      "name": "goamatze",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cal Nokia",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

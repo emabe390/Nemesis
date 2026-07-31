@@ -1,0 +1,40 @@
+{
+  "character_id": 203630296,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 93081241,
+      "name": "Gorakhal the Relentless",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nemesis XIV",
+  "corporation_id": 98776703,
+  "alliance_id": 99013799,
+  "corporation_name": "Isolated Oasis",
+  "alliance_name": "Independent Enclave"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124457856,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91744644,
+    "name": "Catherine Kamensky",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98799892,
+    "alliance_id": 1042504553,
+    "corporation_name": "False Gods",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 91744644,
+      "name": "Catherine Kamensky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91982218,
+      "name": "Vasquez Ovilo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 341219273,
+      "name": "Tex Raynor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ravel Corvex",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

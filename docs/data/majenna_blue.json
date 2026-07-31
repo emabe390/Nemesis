@@ -1,0 +1,52 @@
+{
+  "character_id": 2123763849,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92513021,
+    "name": "Helena Wild",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92513021,
+      "name": "Helena Wild",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 727983343,
+      "name": "ARGEN TUNE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113567467,
+      "name": "Aegis Frost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113950415,
+      "name": "yodzik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119613888,
+      "name": "Dharveddin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Majenna Blue",
+  "corporation_id": 98224835,
+  "alliance_id": 99003214,
+  "corporation_name": "Star Nation",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123041857,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119977337,
+      "name": "Daraid Trilnos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ataru Servus",
+  "corporation_id": 98747372,
+  "alliance_id": 99013766,
+  "corporation_name": "Regrediens",
+  "alliance_name": "Death Legion of Capybaras"
+}

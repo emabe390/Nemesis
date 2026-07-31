@@ -1,0 +1,52 @@
+{
+  "character_id": 2118334575,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112395803,
+      "name": "mario Tawate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114767854,
+      "name": "Character 2114767854",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hunor",
+  "corporation_id": 98644069,
+  "alliance_id": 99003581,
+  "corporation_name": "Rusty Dragons",
+  "alliance_name": "Fraternity."
+}

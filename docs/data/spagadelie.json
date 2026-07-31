@@ -1,0 +1,52 @@
+{
+  "character_id": 2120840878,
+  "total_losses": 22,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 91894516,
+    "name": "Vladimir Ba",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 605796230,
+    "alliance_id": null,
+    "corporation_name": "Another War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120778556,
+      "name": "EF Zeta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Spagadelie",
+  "corporation_id": 98828039,
+  "alliance_id": null,
+  "corporation_name": "Double Slit Dynamics",
+  "alliance_name": null
+}

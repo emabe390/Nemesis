@@ -1,0 +1,52 @@
+{
+  "character_id": 2123554526,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2119027366,
+    "name": "Schadeck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755828,
+    "alliance_id": 1900696668,
+    "corporation_name": "A Leap Of Faith",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2119027366,
+      "name": "Schadeck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120070754,
+      "name": "TY-103",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121592034,
+      "name": "Rietanaisen Akkuo Yatolila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123673626,
+      "name": "Doctor Sylens",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Edbertx",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

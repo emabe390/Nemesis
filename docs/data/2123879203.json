@@ -1,0 +1,40 @@
+{
+  "character_id": 2123879203,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123879198,
+    "name": "0WLLL3",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98783407,
+    "alliance_id": 99003995,
+    "corporation_name": "Golden Fleece",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123879198,
+      "name": "0WLLL3",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123877886,
+      "name": "0WLL2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123877879,
+      "name": "0WLLL1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "0WLLL4",
+  "corporation_id": 98783407,
+  "alliance_id": 99003995,
+  "corporation_name": "Golden Fleece",
+  "alliance_name": "Invidia Gloriae Comes"
+}

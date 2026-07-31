@@ -1,0 +1,52 @@
+{
+  "character_id": 2123233309,
+  "total_losses": 41,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 97068585,
+    "name": "Reubanator",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98723996,
+    "alliance_id": null,
+    "corporation_name": "Entropic Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97068585,
+      "name": "Reubanator",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 92636028,
+      "name": "Jukio Saisima",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90480556,
+      "name": "Maxwell Smiles",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "xSven",
+  "corporation_id": 1340454813,
+  "alliance_id": 99003216,
+  "corporation_name": "Harbingers of Chaos Inc.",
+  "alliance_name": "Gentlemen's.Club"
+}

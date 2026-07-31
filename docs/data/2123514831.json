@@ -1,0 +1,34 @@
+{
+  "character_id": 2123514831,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121795973,
+    "name": "Drafou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 649254410,
+    "alliance_id": 1354830081,
+    "corporation_name": "ICE is Coming to EVE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121795973,
+      "name": "Drafou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1166789194,
+      "name": "Kira Fet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ryena Nalelmir",
+  "corporation_id": 98672533,
+  "alliance_id": 99005393,
+  "corporation_name": "BrainBox",
+  "alliance_name": "Blades of Grass"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123998513,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123786053,
+    "name": "Vainen Enaka",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98728397,
+    "alliance_id": 99014418,
+    "corporation_name": "HIGH SEC MINING CORP",
+    "alliance_name": "The Freeport Project"
+  },
+  "top_killers": [
+    {
+      "id": 2123786053,
+      "name": "Vainen Enaka",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114253498,
+      "name": "DF41AAA LING",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114600962,
+      "name": "kupa stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113906997,
+      "name": "Cer Bernarov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121376146,
+      "name": "Mordran Eram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dainen Enaka",
+  "corporation_id": 98828750,
+  "alliance_id": null,
+  "corporation_name": "Mining Sabre UniCorns",
+  "alliance_name": null
+}

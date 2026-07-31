@@ -1,0 +1,40 @@
+{
+  "character_id": 2122773842,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 569939453,
+    "name": "man'da'lore",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98637264,
+    "alliance_id": 99011223,
+    "corporation_name": "Sensible People",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 569939453,
+      "name": "man'da'lore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115540791,
+      "name": "Kirler Tru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120621356,
+      "name": "Tarocup",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gregor Paradise",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

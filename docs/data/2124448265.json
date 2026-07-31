@@ -1,0 +1,52 @@
+{
+  "character_id": 2124448265,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 235695799,
+    "name": "Agent 004",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 235695799,
+      "name": "Agent 004",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 339909252,
+      "name": "Verkrampte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114902768,
+      "name": "srridle nicha a",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123411306,
+      "name": "Character 2123411306",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mavrinac Fenesis",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

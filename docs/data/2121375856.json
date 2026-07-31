@@ -1,0 +1,40 @@
+{
+  "character_id": 2121375856,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112488080,
+    "name": "Elfsuf TFEC",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98765680,
+    "alliance_id": null,
+    "corporation_name": "The Fun Epic Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112488080,
+      "name": "Elfsuf TFEC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113921477,
+      "name": "Violet Oksaras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115068974,
+      "name": "Sigmond Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alia Al'ar",
+  "corporation_id": 98745140,
+  "alliance_id": null,
+  "corporation_name": "The Drone Zone",
+  "alliance_name": null
+}

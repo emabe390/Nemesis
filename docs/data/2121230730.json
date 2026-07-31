@@ -1,0 +1,40 @@
+{
+  "character_id": 2121230730,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121680510,
+    "name": "SciFox Sylvanus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776703,
+    "alliance_id": 99013799,
+    "corporation_name": "Isolated Oasis",
+    "alliance_name": "Independent Enclave"
+  },
+  "top_killers": [
+    {
+      "id": 2121680510,
+      "name": "SciFox Sylvanus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112839384,
+      "name": "Caroline Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114271517,
+      "name": "Pol Blackcrowner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pierre Antoine",
+  "corporation_id": 781729299,
+  "alliance_id": 99006820,
+  "corporation_name": "Exploration Frontier inc",
+  "alliance_name": "Tactical-Retreat"
+}

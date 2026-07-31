@@ -1,0 +1,40 @@
+{
+  "character_id": 2123619009,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93101724,
+    "name": "Alex Graysmith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798166,
+    "alliance_id": 99012019,
+    "corporation_name": "Twenty Minutes Adventure",
+    "alliance_name": "Can i bring my Drake..."
+  },
+  "top_killers": [
+    {
+      "id": 93101724,
+      "name": "Alex Graysmith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94345382,
+      "name": "higtf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114083627,
+      "name": "Mirco'Tor",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Obi Nais",
+  "corporation_id": 98817806,
+  "alliance_id": null,
+  "corporation_name": "Untamed Inc.",
+  "alliance_name": null
+}

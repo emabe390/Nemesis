@@ -1,0 +1,40 @@
+{
+  "character_id": 94478327,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 690429868,
+    "name": "Boy Scout",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 690429868,
+      "name": "Boy Scout",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113888017,
+      "name": "Rebel Rebel-Rebel Rebel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andreas Bukandara",
+  "corporation_id": 98598227,
+  "alliance_id": null,
+  "corporation_name": "Transtech",
+  "alliance_name": null
+}

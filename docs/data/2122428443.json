@@ -1,0 +1,52 @@
+{
+  "character_id": 2122428443,
+  "total_losses": 33,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2122576268,
+    "name": "misterrabbit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2122576268,
+      "name": "misterrabbit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92432857,
+      "name": "Count Szadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95154253,
+      "name": "Killa Kronik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96548383,
+      "name": "Optimus Mecca",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 197231124,
+      "name": "Urik Kahn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Isidorus Orissus",
+  "corporation_id": 98775617,
+  "alliance_id": null,
+  "corporation_name": "Comitia Centuriata",
+  "alliance_name": null
+}

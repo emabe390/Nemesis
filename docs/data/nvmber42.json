@@ -1,0 +1,40 @@
+{
+  "character_id": 2124572404,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124368745,
+    "name": "Oblivion Ascending",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98651050,
+    "alliance_id": 99009758,
+    "corporation_name": "Absolute Order XVIII",
+    "alliance_name": "Absolute Will"
+  },
+  "top_killers": [
+    {
+      "id": 2124368745,
+      "name": "Oblivion Ascending",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90532329,
+      "name": "Kitty Duval",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nvmber42",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

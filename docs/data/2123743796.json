@@ -1,0 +1,46 @@
+{
+  "character_id": 2123743796,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120817710,
+    "name": "Muh Mabebu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98653604,
+    "alliance_id": 99010102,
+    "corporation_name": "The Blood Raiders Children's Charity",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120989566,
+      "name": "Melina Elrin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121376146,
+      "name": "Mordran Eram",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capt Gial Ackbar",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

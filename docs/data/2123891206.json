@@ -1,0 +1,52 @@
+{
+  "character_id": 2123891206,
+  "total_losses": 156,
+  "unique_killers": 58,
+  "nemesis": {
+    "id": 2123578357,
+    "name": "PPBOOM",
+    "kill_count": 33,
+    "final_blows": 33,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123578357,
+      "name": "PPBOOM",
+      "kill_count": 33,
+      "final_blows": 33
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Wilfred Flowers",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

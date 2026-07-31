@@ -1,0 +1,52 @@
+{
+  "character_id": 2123467377,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115450756,
+    "name": "Rigel Mirand",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115450756,
+      "name": "Rigel Mirand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427854981,
+      "name": "Xyrx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119008248,
+      "name": "The Toe Rag",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122032390,
+      "name": "Cora Cain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123512295,
+      "name": "Alashalton",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Torsten Reichmann",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

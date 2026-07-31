@@ -1,0 +1,34 @@
+{
+  "character_id": 2124252341,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92851776,
+    "name": "Ern Thann",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98033544,
+    "alliance_id": null,
+    "corporation_name": "Yugoimport SDPR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92851776,
+      "name": "Ern Thann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95450790,
+      "name": "Hatai Khardula",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tallerin Scaledheart",
+  "corporation_id": 98833917,
+  "alliance_id": 99014221,
+  "corporation_name": "Highstellar Syndicate Logistics",
+  "alliance_name": "Weapons of Mass Logistics"
+}

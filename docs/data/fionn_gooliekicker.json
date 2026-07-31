@@ -1,0 +1,40 @@
+{
+  "character_id": 92001783,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92883483,
+    "name": "DarthPhilips",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98024658,
+    "alliance_id": 99000973,
+    "corporation_name": "treu republic",
+    "alliance_name": "Sons of Sylph"
+  },
+  "top_killers": [
+    {
+      "id": 92883483,
+      "name": "DarthPhilips",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 301464180,
+      "name": "Rozhkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fionn Gooliekicker",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

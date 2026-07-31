@@ -1,0 +1,40 @@
+{
+  "character_id": 2123672735,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96492613,
+    "name": "Evgene Timakov",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98826397,
+    "alliance_id": null,
+    "corporation_name": "BIBA and BOBA incorporated",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96492613,
+      "name": "Evgene Timakov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96572040,
+      "name": "Konrad Carter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 974337790,
+      "name": "Yskari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lipley",
+  "corporation_id": 98811006,
+  "alliance_id": null,
+  "corporation_name": "Ripper Construction Markers V",
+  "alliance_name": null
+}

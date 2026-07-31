@@ -1,0 +1,40 @@
+{
+  "character_id": 2123788740,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95995982,
+    "name": "Edgar Ottig",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95995982,
+      "name": "Edgar Ottig",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1928436443,
+      "name": "Shipasta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121980090,
+      "name": "Umbra Aphellion",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mitsyra Kai",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

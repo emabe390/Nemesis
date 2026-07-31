@@ -1,0 +1,52 @@
+{
+  "character_id": 2123740773,
+  "total_losses": 127,
+  "unique_killers": 96,
+  "nemesis": {
+    "id": 2122234314,
+    "name": "Brian Pigeon",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98808856,
+    "alliance_id": 99012940,
+    "corporation_name": "WelpDriveActive",
+    "alliance_name": "Meta Reloaded"
+  },
+  "top_killers": [
+    {
+      "id": 2122234314,
+      "name": "Brian Pigeon",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116105023,
+      "name": "Drithi Moonshae",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Braridur Tast Austrene",
+  "corporation_id": 98580971,
+  "alliance_id": 99007887,
+  "corporation_name": "Ambition Unlimited",
+  "alliance_name": "Brotherhood of Spacers"
+}

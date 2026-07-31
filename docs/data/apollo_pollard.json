@@ -1,0 +1,40 @@
+{
+  "character_id": 95740686,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95085654,
+    "name": "Tis-A-Shart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 95085654,
+      "name": "Tis-A-Shart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 577234161,
+      "name": "Logical Chaos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122169654,
+      "name": "lisa3366",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Apollo Pollard",
+  "corporation_id": 98817519,
+  "alliance_id": 99009163,
+  "corporation_name": "Echoes of Null",
+  "alliance_name": "Dracarys."
+}

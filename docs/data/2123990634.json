@@ -1,0 +1,46 @@
+{
+  "character_id": 2123990634,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120284627,
+    "name": "Lila Mercer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98782470,
+    "alliance_id": null,
+    "corporation_name": "The Intrinsic Ones",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120284627,
+      "name": "Lila Mercer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91152696,
+      "name": "JItaPink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122268201,
+      "name": "Ashley Sharts",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122806268,
+      "name": "Aurore Bellic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enguarred",
+  "corporation_id": 98361497,
+  "alliance_id": 1354830081,
+  "corporation_name": "True Faces Hungary",
+  "alliance_name": "Goonswarm Federation"
+}

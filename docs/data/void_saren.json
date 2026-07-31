@@ -1,0 +1,52 @@
+{
+  "character_id": 2123103081,
+  "total_losses": 150,
+  "unique_killers": 121,
+  "nemesis": {
+    "id": 2123600555,
+    "name": "Brick Saren",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98224835,
+    "alliance_id": 99003214,
+    "corporation_name": "Star Nation",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123600555,
+      "name": "Brick Saren",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93417319,
+      "name": "Dabragones",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Void Saren",
+  "corporation_id": 98224835,
+  "alliance_id": 99003214,
+  "corporation_name": "Star Nation",
+  "alliance_name": "Brave Collective"
+}

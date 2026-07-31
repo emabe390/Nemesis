@@ -1,0 +1,34 @@
+{
+  "character_id": 2114571355,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121679866,
+    "name": "River Pixies",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121679866,
+      "name": "River Pixies",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118366539,
+      "name": "Lok'tar Ogarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "King Delve",
+  "corporation_id": 1187207583,
+  "alliance_id": 1354830081,
+  "corporation_name": "Shocky Industries Ltd.",
+  "alliance_name": "Goonswarm Federation"
+}

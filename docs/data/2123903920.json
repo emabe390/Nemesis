@@ -1,0 +1,52 @@
+{
+  "character_id": 2123903920,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 93417319,
+    "name": "Dabragones",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98774251,
+    "alliance_id": null,
+    "corporation_name": "Ferrata Cohortis",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93417319,
+      "name": "Dabragones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90886916,
+      "name": "Midas Bartholomew",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94005278,
+      "name": "Nick Craf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1349880512,
+      "name": "Quick Bitt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114820390,
+      "name": "Character 2114820390",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Handsome Jack Bloodwheel",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

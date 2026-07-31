@@ -1,0 +1,52 @@
+{
+  "character_id": 2123123329,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 90001584,
+    "name": "Hroovitnir",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98381352,
+    "alliance_id": 99009331,
+    "corporation_name": "ScumLord Excavation and Evisceration",
+    "alliance_name": "Scumlords"
+  },
+  "top_killers": [
+    {
+      "id": 90001584,
+      "name": "Hroovitnir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 722930501,
+      "name": "GobiTodic17",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116216266,
+      "name": "Dagon Madeveda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95021670,
+      "name": "Benirm Illios",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ruslan ChEF",
+  "corporation_id": 98808533,
+  "alliance_id": null,
+  "corporation_name": "Ruslan ChEF Corporation",
+  "alliance_name": null
+}

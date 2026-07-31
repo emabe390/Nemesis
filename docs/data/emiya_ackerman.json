@@ -1,0 +1,52 @@
+{
+  "character_id": 2123874243,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121671728,
+    "name": "Parker Tan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798876,
+    "alliance_id": 99009927,
+    "corporation_name": "Family Guy.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2121671728,
+      "name": "Parker Tan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90424613,
+      "name": "Johen Croes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119710485,
+      "name": "63ck0",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119713127,
+      "name": "R3cko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emiya Ackerman",
+  "corporation_id": 98571607,
+  "alliance_id": null,
+  "corporation_name": "G.T.U.",
+  "alliance_name": null
+}

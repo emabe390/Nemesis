@@ -1,0 +1,52 @@
+{
+  "character_id": 841378027,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123503303,
+      "name": "BIack Annis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90627338,
+      "name": "muffin man3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94891606,
+      "name": "Sven Kion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96087744,
+      "name": "Involves Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lokaren",
+  "corporation_id": 98795819,
+  "alliance_id": 99005338,
+  "corporation_name": "Solos Nexus",
+  "alliance_name": "Pandemic Horde"
+}

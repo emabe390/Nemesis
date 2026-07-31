@@ -1,0 +1,52 @@
+{
+  "character_id": 2113183018,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 93663984,
+    "name": "Sam McTaylor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702288,
+    "alliance_id": 99013972,
+    "corporation_name": "Uncommon Horizon",
+    "alliance_name": "Vikings."
+  },
+  "top_killers": [
+    {
+      "id": 93663984,
+      "name": "Sam McTaylor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95112411,
+      "name": "Fever Terror",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1789626808,
+      "name": "Burn You",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 200546240,
+      "name": "Boroda M",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 418852582,
+      "name": "Hector Centauri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Col Harlaind Sanders",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

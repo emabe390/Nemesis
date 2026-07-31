@@ -1,0 +1,40 @@
+{
+  "character_id": 2123824867,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117310861,
+    "name": "Aria Stardancer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797544,
+    "alliance_id": null,
+    "corporation_name": "S I L E N C E",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117310861,
+      "name": "Aria Stardancer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1702326709,
+      "name": "Xyton Zatnox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112025104,
+      "name": "John2674 Housa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AngelCare",
+  "corporation_id": 98797524,
+  "alliance_id": 99013920,
+  "corporation_name": "Vestal Keepers",
+  "alliance_name": "Embers of the Void"
+}

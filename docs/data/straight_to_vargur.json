@@ -1,0 +1,40 @@
+{
+  "character_id": 2122806540,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120849073,
+    "name": "Zeen Artillery",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98665490,
+    "alliance_id": 99009883,
+    "corporation_name": "Domain Defenders",
+    "alliance_name": "Atomic Fusion Industries"
+  },
+  "top_killers": [
+    {
+      "id": 2120849073,
+      "name": "Zeen Artillery",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120631507,
+      "name": "banzo 5",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123432250,
+      "name": "banzo 13",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Straight to Vargur",
+  "corporation_id": 98792773,
+  "alliance_id": null,
+  "corporation_name": "No Sleep Till Starkman",
+  "alliance_name": null
+}

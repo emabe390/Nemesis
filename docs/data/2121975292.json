@@ -1,0 +1,40 @@
+{
+  "character_id": 2121975292,
+  "total_losses": 14,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94908023,
+    "name": "Deni Dallocort",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94908023,
+      "name": "Deni Dallocort",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118106252,
+      "name": "Vladislav Vetrovv",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SalttyFang",
+  "corporation_id": 98695839,
+  "alliance_id": 99003214,
+  "corporation_name": "South Sun Industries",
+  "alliance_name": "Brave Collective"
+}

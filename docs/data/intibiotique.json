@@ -1,0 +1,40 @@
+{
+  "character_id": 2123326919,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93206061,
+    "name": "Character 93206061",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98724821,
+    "alliance_id": null,
+    "corporation_name": "Garden of Shadows",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93206061,
+      "name": "Character 93206061",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116479455,
+      "name": "Zak Alleile",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "intibiotique",
+  "corporation_id": 98477226,
+  "alliance_id": 99012160,
+  "corporation_name": "hackers apprentices Corporation",
+  "alliance_name": "The fracture community"
+}

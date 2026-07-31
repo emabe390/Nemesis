@@ -1,0 +1,40 @@
+{
+  "character_id": 2121539205,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93475766,
+    "name": "Tidus Hanaya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120598336,
+      "name": "Africa Heras Gavilan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121404368,
+      "name": "Irakez",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Gut Jirapal",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

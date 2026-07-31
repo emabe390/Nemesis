@@ -1,0 +1,34 @@
+{
+  "character_id": 2123221725,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95894851,
+    "name": "Plass Gruvedrift",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 95894851,
+      "name": "Plass Gruvedrift",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 410555218,
+      "name": "Abbador",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DLR16",
+  "corporation_id": 98824611,
+  "alliance_id": 99014735,
+  "corporation_name": "Narrow Exit",
+  "alliance_name": "Psyno Theory"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 90459810,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94026258,
+    "name": "Filius Endo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94026258,
+      "name": "Filius Endo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 910552082,
+      "name": "Gorodrim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95205120,
+      "name": "One trick Pony",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Garfieldi Lasagnese",
+  "corporation_id": 1187207583,
+  "alliance_id": 1354830081,
+  "corporation_name": "Shocky Industries Ltd.",
+  "alliance_name": "Goonswarm Federation"
+}

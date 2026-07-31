@@ -1,0 +1,52 @@
+{
+  "character_id": 2117246946,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2119999764,
+    "name": "Alex Cattelan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 197097487,
+    "alliance_id": 1900696668,
+    "corporation_name": "4S Corporation",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2119999764,
+      "name": "Alex Cattelan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94052594,
+      "name": "Ghost Malkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94472974,
+      "name": "Sebastian Charantes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94647485,
+      "name": "Eric Podiene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cindar of Gol",
+  "corporation_id": 98695839,
+  "alliance_id": 99003214,
+  "corporation_name": "South Sun Industries",
+  "alliance_name": "Brave Collective"
+}

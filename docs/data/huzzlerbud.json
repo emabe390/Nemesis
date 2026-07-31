@@ -1,0 +1,52 @@
+{
+  "character_id": 2124263685,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121694378,
+    "name": "Character 2121694378",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93211750,
+      "name": "Aurynn Elarik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1823991089,
+      "name": "Jindo Kayle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93464870,
+      "name": "Jugis Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96296402,
+      "name": "Antinous Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Huzzlerbud",
+  "corporation_id": 98605031,
+  "alliance_id": null,
+  "corporation_name": "Phobos Enterprise",
+  "alliance_name": null
+}

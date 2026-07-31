@@ -1,0 +1,40 @@
+{
+  "character_id": 2121357915,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124051002,
+    "name": "Amphipteru",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815087,
+    "alliance_id": 99014495,
+    "corporation_name": "Tenebris Initiative",
+    "alliance_name": "Umbrella Initiative Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2124051002,
+      "name": "Amphipteru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118841957,
+      "name": "De Teis Vu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124366113,
+      "name": "800mm Quad Autocannon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iitori Barviainen",
+  "corporation_id": 98653547,
+  "alliance_id": 99014716,
+  "corporation_name": "Meituan takeout",
+  "alliance_name": "Tethys System"
+}

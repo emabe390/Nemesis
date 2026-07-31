@@ -1,0 +1,52 @@
+{
+  "character_id": 2123980104,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91807649,
+    "name": "Van Doe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96111074,
+      "name": "Asan K",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 796754948,
+      "name": "Ebola viral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118502403,
+      "name": "Raude Attey Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "K Tea",
+  "corporation_id": 98810098,
+  "alliance_id": 99014370,
+  "corporation_name": "High Sec Future Mining .INC",
+  "alliance_name": "Void Chapter Requiem"
+}

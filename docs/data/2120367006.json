@@ -1,0 +1,52 @@
+{
+  "character_id": 2120367006,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2116716343,
+    "name": "Empowered BlackWoman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2116716343,
+      "name": "Empowered BlackWoman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113050257,
+      "name": "Neliete Hidoi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114352637,
+      "name": "Ygritte Pava",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lost legend",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123592881,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2123255343,
+    "name": "Blood Raider Goomb",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2123255343,
+      "name": "Blood Raider Goomb",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1045499371,
+      "name": "RGC Godfather",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1573725812,
+      "name": "psilon2000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90700523,
+      "name": "Zaatron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92492138,
+      "name": "Uncertain Fate",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaligath Renalard Draklore",
+  "corporation_id": 98809029,
+  "alliance_id": null,
+  "corporation_name": "VoidForge Solutions",
+  "alliance_name": null
+}

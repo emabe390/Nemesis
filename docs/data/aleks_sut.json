@@ -1,0 +1,40 @@
+{
+  "character_id": 91161705,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1476742230,
+    "name": "Sap hazar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124121128,
+      "name": "Nana Deviluke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ALEKS SUT",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

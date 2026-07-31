@@ -1,0 +1,40 @@
+{
+  "character_id": 2117007572,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123107920,
+    "name": "Wizard of Idium",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98768799,
+    "alliance_id": 99013692,
+    "corporation_name": "Black Rats Securities",
+    "alliance_name": "Independent Miners Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123107920,
+      "name": "Wizard of Idium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93872166,
+      "name": "s33k3r Atram",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1097096513,
+      "name": "Surrey United",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doctorxx",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2114137488,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1305156897,
+    "name": "Sturack",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748599,
+    "alliance_id": 99012843,
+    "corporation_name": "Kenshin Industries.",
+    "alliance_name": "Kenshin Shogunate."
+  },
+  "top_killers": [
+    {
+      "id": 1305156897,
+      "name": "Sturack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Genis Seta",
+  "corporation_id": 98817264,
+  "alliance_id": null,
+  "corporation_name": "La Menorquina",
+  "alliance_name": null
+}

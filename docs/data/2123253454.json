@@ -1,0 +1,52 @@
+{
+  "character_id": 2123253454,
+  "total_losses": 20,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2118861292,
+    "name": "JINTSUU",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98347548,
+    "alliance_id": null,
+    "corporation_name": "Emergency Temporal Shift.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1756880362,
+      "name": "Nikalath",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1764047801,
+      "name": "Telissia Star",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118814274,
+      "name": "Aggressive Elk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120307642,
+      "name": "Casper Sullivan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ForTheKingdom",
+  "corporation_id": 98742946,
+  "alliance_id": 99003995,
+  "corporation_name": "Zhuque squad",
+  "alliance_name": "Invidia Gloriae Comes"
+}

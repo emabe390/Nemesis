@@ -1,0 +1,34 @@
+{
+  "character_id": 2123406590,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120900708,
+    "name": "Comte d'Artois",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98774590,
+    "alliance_id": null,
+    "corporation_name": "D'ARTOIS",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120900708,
+      "name": "Comte d'Artois",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95206400,
+      "name": "JT Krieger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Warcraph",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

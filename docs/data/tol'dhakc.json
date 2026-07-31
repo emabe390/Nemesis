@@ -1,0 +1,52 @@
+{
+  "character_id": 2113079529,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1743905848,
+    "name": "EF Delta",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120778556,
+      "name": "EF Zeta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91154239,
+      "name": "totenrage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92983822,
+      "name": "Philip Montagna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tol'dhakc",
+  "corporation_id": 98457318,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rotciv Rrama Industries",
+  "alliance_name": "Goonswarm Federation"
+}

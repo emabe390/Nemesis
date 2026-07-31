@@ -1,0 +1,34 @@
+{
+  "character_id": 2123407920,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115270103,
+    "name": "Fox Skytail",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98527075,
+    "alliance_id": 99004901,
+    "corporation_name": "The Stone Garden",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2115270103,
+      "name": "Fox Skytail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120480338,
+      "name": "Svexi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bump-Killer",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123040106,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92295539,
+    "name": "Krono Medugo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 92295539,
+      "name": "Krono Medugo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90983472,
+      "name": "Jaime Gomes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94111686,
+      "name": "Powder Q",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119658569,
+      "name": "Daughter of Ares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IllidariSoldier",
+  "corporation_id": 98800232,
+  "alliance_id": null,
+  "corporation_name": "IllidariSoldier Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123972091,
+  "total_losses": 22,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123300528,
+    "name": "Planetaarinen Vaihtoehto",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123300528,
+      "name": "Planetaarinen Vaihtoehto",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 768223865,
+      "name": "Ben Kerensky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124519792,
+      "name": "Cool Adam Friedland",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oorlam Meinnear",
+  "corporation_id": 98828090,
+  "alliance_id": 99014851,
+  "corporation_name": "Wormhole Campus",
+  "alliance_name": "10 Minutes' Notice"
+}

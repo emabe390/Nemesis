@@ -1,0 +1,40 @@
+{
+  "character_id": 2123468363,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1177440491,
+    "name": "hkmpseven",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98699012,
+    "alliance_id": 99000285,
+    "corporation_name": "Stain Train",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 1177440491,
+      "name": "hkmpseven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1601725609,
+      "name": "Morsimo Khan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113241012,
+      "name": "Katt Charante",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Praetor Alldem",
+  "corporation_id": 98813172,
+  "alliance_id": 99013539,
+  "corporation_name": "Six Dementions of Hell",
+  "alliance_name": "The Disciples of Space Piracy"
+}

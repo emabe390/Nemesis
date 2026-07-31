@@ -1,0 +1,40 @@
+{
+  "character_id": 2115690715,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120887441,
+    "name": "Hillbilly-3000",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98080440,
+    "alliance_id": 99010569,
+    "corporation_name": "Big Willies PVP Madness",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 2120887441,
+      "name": "Hillbilly-3000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121120454,
+      "name": "Firestorm Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122493759,
+      "name": "Bumping-Wont-Work",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cherry Cooles",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

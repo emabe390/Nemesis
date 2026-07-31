@@ -1,0 +1,40 @@
+{
+  "character_id": 2123848785,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1546532690,
+    "name": "Character 1546532690",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98606395,
+    "alliance_id": 99003995,
+    "corporation_name": "PICHATRON",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 1546532690,
+      "name": "Character 1546532690",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115070156,
+      "name": "Voreios Asteri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115693670,
+      "name": "UrTHysis Sharvas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blak0ut",
+  "corporation_id": 98662811,
+  "alliance_id": 99013537,
+  "corporation_name": "Ministry of Furious Retribution",
+  "alliance_name": "Insidious."
+}

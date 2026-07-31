@@ -1,0 +1,52 @@
+{
+  "character_id": 2121911055,
+  "total_losses": 33,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91522825,
+      "name": "Byrbeglin Alcantar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1584528558,
+      "name": "Character 1584528558",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121216716,
+      "name": "Incu Estidal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "konamaid01",
+  "corporation_id": 98780277,
+  "alliance_id": 99013251,
+  "corporation_name": "Echoes Industrial Zone",
+  "alliance_name": "Circle of Vheroka"
+}

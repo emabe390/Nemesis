@@ -1,0 +1,52 @@
+{
+  "character_id": 2121146160,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116050302,
+    "name": "Capo Joe Bananas",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98829366,
+    "alliance_id": null,
+    "corporation_name": "The K-5",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116050302,
+      "name": "Capo Joe Bananas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94030558,
+      "name": "Legend Edier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1392757657,
+      "name": "WE DELIVER",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sunday girl",
+  "corporation_id": 98764674,
+  "alliance_id": null,
+  "corporation_name": "Interstellar Hotel",
+  "alliance_name": null
+}

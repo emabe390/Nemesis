@@ -1,0 +1,52 @@
+{
+  "character_id": 2123312278,
+  "total_losses": 220,
+  "unique_killers": 173,
+  "nemesis": {
+    "id": 2118024720,
+    "name": "Character 2118024720",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98536418,
+    "alliance_id": null,
+    "corporation_name": "Academy of Russian Federation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118024720,
+      "name": "Character 2118024720",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 95121535,
+      "name": "Azira Aurilen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120407307,
+      "name": "Blood Sunset",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121849577,
+      "name": "Zver Razruchitel",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "WarpBurger",
+  "corporation_id": 98476260,
+  "alliance_id": null,
+  "corporation_name": "Enemy in System",
+  "alliance_name": null
+}

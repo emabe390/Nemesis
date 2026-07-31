@@ -1,0 +1,52 @@
+{
+  "character_id": 2123235554,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93452243,
+      "name": "Character 93452243",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117293630,
+      "name": "Small Enos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123985951,
+      "name": "Agathe Kuren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91730709,
+      "name": "Character 91730709",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lingitoh Jouhinen",
+  "corporation_id": 98698983,
+  "alliance_id": 99012122,
+  "corporation_name": "Scan Stakan",
+  "alliance_name": "HOLD MY PROBS"
+}

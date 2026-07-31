@@ -1,0 +1,52 @@
+{
+  "character_id": 555547733,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121092830,
+    "name": "Tank CE0",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 900063097,
+    "alliance_id": null,
+    "corporation_name": "Dark Cartel",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121092830,
+      "name": "Tank CE0",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91687283,
+      "name": "Alex Conrad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94815332,
+      "name": "Riki DeMaru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95301894,
+      "name": "Khruzad Spacerat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96551601,
+      "name": "Kied Saissore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caliga Locira",
+  "corporation_id": 98639548,
+  "alliance_id": 99011489,
+  "corporation_name": "United Caldari Navy",
+  "alliance_name": "United Caldari Space Command."
+}

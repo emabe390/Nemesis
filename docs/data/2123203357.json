@@ -1,0 +1,52 @@
+{
+  "character_id": 2123203357,
+  "total_losses": 73,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 627465761,
+    "name": "Hertom",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98673001,
+    "alliance_id": 99002685,
+    "corporation_name": "Space Beer Industry",
+    "alliance_name": "Synergy of Steel"
+  },
+  "top_killers": [
+    {
+      "id": 627465761,
+      "name": "Hertom",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 92280728,
+      "name": "Scarlet Khardula",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2115197153,
+      "name": "Fredericus Rer",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 145263997,
+      "name": "Yemen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1712179530,
+      "name": "Her Tom",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "CJR16",
+  "corporation_id": 98802363,
+  "alliance_id": null,
+  "corporation_name": "Eclipsing Dawn",
+  "alliance_name": null
+}

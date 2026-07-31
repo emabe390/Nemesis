@@ -1,0 +1,40 @@
+{
+  "character_id": 2123572301,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118344523,
+    "name": "Manny Iwama",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118344523,
+      "name": "Manny Iwama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96723543,
+      "name": "Sergei Malatov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Auroga Kyra",
+  "corporation_id": 98761984,
+  "alliance_id": null,
+  "corporation_name": "Schicksalsschmiede",
+  "alliance_name": null
+}

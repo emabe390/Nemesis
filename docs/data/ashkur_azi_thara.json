@@ -1,0 +1,40 @@
+{
+  "character_id": 2122031637,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92739305,
+    "name": "Tentakel Jack",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98571715,
+    "alliance_id": 1900696668,
+    "corporation_name": "Xynodyne",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 92739305,
+      "name": "Tentakel Jack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2009173866,
+      "name": "TORPILAS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114085089,
+      "name": "Daak Deninard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ashkur Azi Thara",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

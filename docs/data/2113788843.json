@@ -1,0 +1,52 @@
+{
+  "character_id": 2113788843,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96815299,
+    "name": "Evel Knieve",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98667813,
+    "alliance_id": null,
+    "corporation_name": "Imperium Inquisition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93078212,
+      "name": "Slay'n OnTheReg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 837515632,
+      "name": "Niobe Voorhees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90341014,
+      "name": "Gilou Lazair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93156751,
+      "name": "Zajic Zajicova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Annastra Sotken",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

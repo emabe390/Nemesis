@@ -1,0 +1,52 @@
+{
+  "character_id": 1111502125,
+  "total_losses": 47,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2124374276,
+    "name": "Movmax",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124374276,
+      "name": "Movmax",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 93783581,
+      "name": "Akai Sakura",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123366573,
+      "name": "ChickenJockey",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ephemeral Rei",
+  "corporation_id": 98835944,
+  "alliance_id": null,
+  "corporation_name": "Farm Bot Inc",
+  "alliance_name": null
+}

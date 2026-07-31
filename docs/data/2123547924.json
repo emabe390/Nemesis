@@ -1,0 +1,34 @@
+{
+  "character_id": 2123547924,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1853100615,
+    "name": "Robbo Midlandson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98005120,
+    "alliance_id": 99005338,
+    "corporation_name": "Brittas Empire",
+    "alliance_name": "Pandemic Horde"
+  },
+  "top_killers": [
+    {
+      "id": 1853100615,
+      "name": "Robbo Midlandson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95569887,
+      "name": "Nicolas Kion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scootieloo Indie McCapitalism",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

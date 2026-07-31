@@ -1,0 +1,52 @@
+{
+  "character_id": 2123381495,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 96247630,
+    "name": "One Attor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 803493697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Bohemian Veterans",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96247630,
+      "name": "One Attor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92818098,
+      "name": "Gregory Berr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112182331,
+      "name": "Artemeus Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118925649,
+      "name": "bkotsmsr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheMajorMayer",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

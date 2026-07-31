@@ -1,0 +1,40 @@
+{
+  "character_id": 2124528357,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119188224,
+    "name": "Mr Volk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630790,
+    "alliance_id": 99007203,
+    "corporation_name": "Wolframium",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2119188224,
+      "name": "Mr Volk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95856180,
+      "name": "Morphi StormSeeker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121701398,
+      "name": "BDSeMO4ka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Velundr",
+  "corporation_id": 98811833,
+  "alliance_id": null,
+  "corporation_name": "Russian Univers",
+  "alliance_name": null
+}

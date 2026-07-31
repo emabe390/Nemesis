@@ -1,0 +1,40 @@
+{
+  "character_id": 2121302942,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 800742448,
+    "name": "Squeaker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 296348918,
+    "alliance_id": null,
+    "corporation_name": "Bushwhackers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800742448,
+      "name": "Squeaker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1150496654,
+      "name": "DAX AKARRI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117862707,
+      "name": "Kuchikami Iriya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bees Nuts",
+  "corporation_id": 98700608,
+  "alliance_id": 1354830081,
+  "corporation_name": "KM Elm",
+  "alliance_name": "Goonswarm Federation"
+}

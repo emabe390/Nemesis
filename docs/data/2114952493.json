@@ -1,0 +1,34 @@
+{
+  "character_id": 2114952493,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96548190,
+    "name": "You Got Dunked",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96548190,
+      "name": "You Got Dunked",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122263104,
+      "name": "Velcro Xo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sir Stepalot",
+  "corporation_id": 98670233,
+  "alliance_id": 99010576,
+  "corporation_name": "Drifter Salvage Inc.",
+  "alliance_name": "Dreads Amongst Drifters"
+}

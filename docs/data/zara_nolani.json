@@ -1,0 +1,46 @@
+{
+  "character_id": 2123905991,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 145536783,
+    "name": "Vorn",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98643195,
+    "alliance_id": 99012239,
+    "corporation_name": "I'm Super Bad At This",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 145536783,
+      "name": "Vorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116599388,
+      "name": "Psyre 13",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118889780,
+      "name": "Nao San",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123802848,
+      "name": "Maven Kador",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zara Nolani",
+  "corporation_id": 98821024,
+  "alliance_id": 99010240,
+  "corporation_name": "Custodes Leonis Dentis",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

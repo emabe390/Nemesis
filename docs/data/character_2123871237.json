@@ -1,0 +1,52 @@
+{
+  "character_id": 2123871237,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112933147,
+    "name": "Katsuya Ren",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98605237,
+    "alliance_id": 99009889,
+    "corporation_name": "Seraphim Industrial Materials",
+    "alliance_name": "Zodiac-Syndicate"
+  },
+  "top_killers": [
+    {
+      "id": 2112933147,
+      "name": "Katsuya Ren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 91308825,
+      "name": "Esra Udan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95670717,
+      "name": "Theodore Mosby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123871237",
+  "corporation_id": 98816265,
+  "alliance_id": null,
+  "corporation_name": "Black Nova Operations",
+  "alliance_name": null
+}

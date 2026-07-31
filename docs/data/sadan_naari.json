@@ -1,0 +1,40 @@
+{
+  "character_id": 2124050223,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1114466717,
+    "name": "Switers",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 182775184,
+    "alliance_id": null,
+    "corporation_name": "Mindstar Labs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1114466717,
+      "name": "Switers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114720684,
+      "name": "Shoblerone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121463963,
+      "name": "ThinkMinka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sadan Naari",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

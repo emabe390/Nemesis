@@ -1,0 +1,40 @@
+{
+  "character_id": 2117483897,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116955155,
+    "name": "Drakarys Stark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833765,
+    "alliance_id": null,
+    "corporation_name": "The Long Night",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116955155,
+      "name": "Drakarys Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1257056663,
+      "name": "Zanco Ceal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rhizha Norsh",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123103683,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95277885,
+    "name": "Mark Bridges",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 220243444,
+    "alliance_id": 551692893,
+    "corporation_name": "Genos Occidere",
+    "alliance_name": "HYDRA RELOADED"
+  },
+  "top_killers": [
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115661792,
+      "name": "Mana Loutte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119957008,
+      "name": "GabrielTheAngel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Angel Of Creation",
+  "corporation_id": 98560652,
+  "alliance_id": 1354830081,
+  "corporation_name": "Miners Inn",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123078452,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123107920,
+    "name": "Wizard of Idium",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98768799,
+    "alliance_id": 99013692,
+    "corporation_name": "Black Rats Securities",
+    "alliance_name": "Independent Miners Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123107920,
+      "name": "Wizard of Idium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93742153,
+      "name": "Dorothy Galle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 703729843,
+      "name": "Brinn Yerdola",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Puckad",
+  "corporation_id": 98689962,
+  "alliance_id": null,
+  "corporation_name": "Black Market Seeding",
+  "alliance_name": null
+}

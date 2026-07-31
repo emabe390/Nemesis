@@ -1,0 +1,52 @@
+{
+  "character_id": 2123734800,
+  "total_losses": 33,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2120979190,
+    "name": "PlausibleJam",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98754011,
+    "alliance_id": 99013766,
+    "corporation_name": "Laddexperten",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2120979190,
+      "name": "PlausibleJam",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91891402,
+      "name": "Kuro Kakugo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121145636,
+      "name": "Omonoi Iwaira",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "YoGoKiss",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

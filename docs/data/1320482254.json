@@ -1,0 +1,52 @@
+{
+  "character_id": 1320482254,
+  "total_losses": 65,
+  "unique_killers": 62,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 2118907810,
+      "name": "Abc123RS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90686026,
+      "name": "death hops",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91307693,
+      "name": "Sativa Angel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dindil",
+  "corporation_id": 98805774,
+  "alliance_id": 99008985,
+  "corporation_name": "Royalty.",
+  "alliance_name": "Seker Matar"
+}

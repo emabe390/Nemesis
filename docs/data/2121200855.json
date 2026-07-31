@@ -1,0 +1,52 @@
+{
+  "character_id": 2121200855,
+  "total_losses": 52,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 1383518084,
+    "name": "Battlecraft",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98837070,
+    "alliance_id": 99010877,
+    "corporation_name": "Tactically Rejected.",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 1383518084,
+      "name": "Battlecraft",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117463498,
+      "name": "Dalt Verfit",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95004823,
+      "name": "Rahkesh Harshmallows",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91887310,
+      "name": "Disc Gear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94974181,
+      "name": "Galagar Nabonitzski",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "JH55",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

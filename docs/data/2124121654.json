@@ -1,0 +1,40 @@
+{
+  "character_id": 2124121654,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123908770,
+    "name": "spamhappy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98677509,
+    "alliance_id": 99010412,
+    "corporation_name": "Nisuwa Dairy Union",
+    "alliance_name": "Nisuwa Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2123908770,
+      "name": "spamhappy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 869280317,
+      "name": "True Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123355637,
+      "name": "Kazuni",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cruton",
+  "corporation_id": 98822344,
+  "alliance_id": null,
+  "corporation_name": "Newbro Industries",
+  "alliance_name": null
+}

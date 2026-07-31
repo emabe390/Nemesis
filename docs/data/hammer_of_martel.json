@@ -1,0 +1,52 @@
+{
+  "character_id": 2123642501,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 156157600,
+      "name": "AmoriA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118615208,
+      "name": "Makahaga Katelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119668259,
+      "name": "Unseen Cameltoe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90970753,
+      "name": "Jowemado Egivand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hammer of Martel",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

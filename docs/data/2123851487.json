@@ -1,0 +1,52 @@
+{
+  "character_id": 2123851487,
+  "total_losses": 75,
+  "unique_killers": 49,
+  "nemesis": {
+    "id": 1230562175,
+    "name": "Chaos's fist",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1230562175,
+      "name": "Chaos's fist",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95008756,
+      "name": "Ilary Agostini",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113160766,
+      "name": "kuo kuo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124092157,
+      "name": "Reed Collins",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92956147,
+      "name": "Vera Islamova",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jhon Silence",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

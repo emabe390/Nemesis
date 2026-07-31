@@ -1,0 +1,40 @@
+{
+  "character_id": 2119572100,
+  "total_losses": 25,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90420771,
+    "name": "Ellie Sade",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98763427,
+    "alliance_id": 99012852,
+    "corporation_name": "Catskull Horizons",
+    "alliance_name": "Grimskulls"
+  },
+  "top_killers": [
+    {
+      "id": 90420771,
+      "name": "Ellie Sade",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2121819425,
+      "name": "Gaige Yumbreon",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2122253320,
+      "name": "Naraiwe Artanis",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Not Royale",
+  "corporation_id": 98669072,
+  "alliance_id": null,
+  "corporation_name": "Wormhole Academy for Exploration and Yeet",
+  "alliance_name": null
+}

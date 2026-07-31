@@ -1,0 +1,52 @@
+{
+  "character_id": 2123777493,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1434519378,
+      "name": "Dr Wilson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115211062,
+      "name": "Large Quafe Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90727588,
+      "name": "Pu1per",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bub-Kino",
+  "corporation_id": 98705642,
+  "alliance_id": 99006406,
+  "corporation_name": "Chuangshi College",
+  "alliance_name": "Fraternity University"
+}

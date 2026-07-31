@@ -1,0 +1,52 @@
+{
+  "character_id": 2122052520,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 987468952,
+    "name": "NoGo Rose",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 987468952,
+      "name": "NoGo Rose",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93978834,
+      "name": "Euthymius Sagetus Remak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93265856,
+      "name": "Night Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1205752527,
+      "name": "Almagar Phog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1342819338,
+      "name": "M0RE P0WER",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paxonics",
+  "corporation_id": 98786083,
+  "alliance_id": 99014933,
+  "corporation_name": "Cosmic Nebula Cartel",
+  "alliance_name": "Expired Intelligence Booster"
+}

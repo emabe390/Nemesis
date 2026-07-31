@@ -1,0 +1,46 @@
+{
+  "character_id": 95581546,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 172786906,
+    "name": "Necronian",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1063360566,
+    "alliance_id": 1354830081,
+    "corporation_name": "SUNDERING",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 172786906,
+      "name": "Necronian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117292634,
+      "name": "TYAGI DAD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120093055,
+      "name": "Temple Founder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120569212,
+      "name": "Armor Dispenser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Black Hazard Aulx-Gao",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

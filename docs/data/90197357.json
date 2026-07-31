@@ -1,0 +1,40 @@
+{
+  "character_id": 90197357,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1681832424,
+    "name": "B Yotch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 1681832424,
+      "name": "B Yotch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117399805,
+      "name": "Atoria Avuli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145360232,
+      "name": "Wolfman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Test Pil0t",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

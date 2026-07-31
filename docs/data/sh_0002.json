@@ -1,0 +1,52 @@
+{
+  "character_id": 2124475465,
+  "total_losses": 18,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2124475452,
+    "name": "SH 0001",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98831386,
+    "alliance_id": 99010877,
+    "corporation_name": "Carouse",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2124475452,
+      "name": "SH 0001",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124475467,
+      "name": "SH 0003",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124475470,
+      "name": "SH 0004",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1767201684,
+      "name": "Angeltear",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115742692,
+      "name": "Julia Mordan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SH 0002",
+  "corporation_id": 98831386,
+  "alliance_id": 99010877,
+  "corporation_name": "Carouse",
+  "alliance_name": "Out of the Blue."
+}

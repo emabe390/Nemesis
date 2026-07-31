@@ -1,0 +1,40 @@
+{
+  "character_id": 2116215890,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1413346124,
+    "name": "drones man",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98687225,
+    "alliance_id": null,
+    "corporation_name": "The Ring Sting",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1413346124,
+      "name": "drones man",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1488204727,
+      "name": "dronkey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FeedMyGreed Pjeppergnome",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 95875619,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95865638,
+    "name": "William Chen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1091440439,
+    "alliance_id": 498125261,
+    "corporation_name": "AlcoDOTTE",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 95865638,
+      "name": "William Chen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1514842406,
+      "name": "Kayne Reincarnate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121147160,
+      "name": "Too En",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thondis Saisima",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

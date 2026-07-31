@@ -1,0 +1,40 @@
+{
+  "character_id": 2124454750,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112589661,
+    "name": "Altalar Maaktal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630716,
+    "alliance_id": 99009830,
+    "corporation_name": "Volantean Nation",
+    "alliance_name": "Lan'Tean Imperium"
+  },
+  "top_killers": [
+    {
+      "id": 2112589661,
+      "name": "Altalar Maaktal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116151177,
+      "name": "Chillso Ace",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121720352,
+      "name": "Beyond The Time",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaermis",
+  "corporation_id": 98819319,
+  "alliance_id": null,
+  "corporation_name": "New Eden Capsuleers",
+  "alliance_name": null
+}

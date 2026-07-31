@@ -1,0 +1,40 @@
+{
+  "character_id": 2121354932,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 147718219,
+    "name": "Keeves",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98143154,
+    "alliance_id": 99004818,
+    "corporation_name": "Estamos Solos Corporation",
+    "alliance_name": "Estamos Solos Alliance."
+  },
+  "top_killers": [
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122540573,
+      "name": "ethepheroin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123067538,
+      "name": "Tyeek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abigail Corvine",
+  "corporation_id": 1588647992,
+  "alliance_id": 99010240,
+  "corporation_name": "Xoth Inc",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

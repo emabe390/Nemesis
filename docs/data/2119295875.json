@@ -1,0 +1,46 @@
+{
+  "character_id": 2119295875,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119190048,
+    "name": "Zhags",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370339,
+    "alliance_id": 99012428,
+    "corporation_name": "D-sync",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121050391,
+      "name": "Toby Wolfenstein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122271544,
+      "name": "WLlng",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122580904,
+      "name": "QuafeCreamPie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Noctra Meadows",
+  "corporation_id": 98808541,
+  "alliance_id": 1354830081,
+  "corporation_name": "Meadow-Works Heavy Industries",
+  "alliance_name": "Goonswarm Federation"
+}

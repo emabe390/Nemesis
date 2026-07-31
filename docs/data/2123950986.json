@@ -1,0 +1,52 @@
+{
+  "character_id": 2123950986,
+  "total_losses": 68,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2123313793,
+    "name": "El Duderino Lebowski",
+    "kill_count": 23,
+    "final_blows": 23,
+    "corporation_id": 98686314,
+    "alliance_id": 99008985,
+    "corporation_name": "Violator The Clown",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 2123313793,
+      "name": "El Duderino Lebowski",
+      "kill_count": 23,
+      "final_blows": 23
+    },
+    {
+      "id": 2114926171,
+      "name": "Todhandler Prems",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2113626872,
+      "name": "Kalista Oksaras",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1865451022,
+      "name": "Unobatainum",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 97148128,
+      "name": "lore Dethahal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ananas Pina",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123117776,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2116701084,
+    "name": "Blondie Lee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117593,
+    "alliance_id": 1354830081,
+    "corporation_name": "Tritanium Industries and Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116701084,
+      "name": "Blondie Lee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92171642,
+      "name": "Dizel Kion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92878991,
+      "name": "Sara Habalu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94342468,
+      "name": "Friendly Raven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 310847228,
+      "name": "Dominikov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "absolutely not V",
+  "corporation_id": 98786824,
+  "alliance_id": null,
+  "corporation_name": "The Distracted Destroyers",
+  "alliance_name": null
+}

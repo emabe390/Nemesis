@@ -1,0 +1,40 @@
+{
+  "character_id": 666418503,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1573202061,
+    "name": "Unstopable Deadman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 197097487,
+    "alliance_id": 1900696668,
+    "corporation_name": "4S Corporation",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1573202061,
+      "name": "Unstopable Deadman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926327,
+      "name": "Kingababa Nyulo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122129023,
+      "name": "Seadog Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Novaya",
+  "corporation_id": 98117593,
+  "alliance_id": 1354830081,
+  "corporation_name": "Tritanium Industries and Technology",
+  "alliance_name": "Goonswarm Federation"
+}

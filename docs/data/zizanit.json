@@ -1,0 +1,40 @@
+{
+  "character_id": 2123387880,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115171275,
+    "name": "Bribarian Makanen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98581746,
+    "alliance_id": 99013014,
+    "corporation_name": "War Eagle Fleet",
+    "alliance_name": "D3LYRIUM"
+  },
+  "top_killers": [
+    {
+      "id": 2115171275,
+      "name": "Bribarian Makanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115600469,
+      "name": "yaxiu haines",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123841604,
+      "name": "carr knights",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zizanit",
+  "corporation_id": 98824597,
+  "alliance_id": null,
+  "corporation_name": "Arch Acolytes",
+  "alliance_name": null
+}

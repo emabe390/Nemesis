@@ -1,0 +1,40 @@
+{
+  "character_id": 2123923682,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95661362,
+    "name": "Bridget Bishop",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98433902,
+    "alliance_id": null,
+    "corporation_name": "Salem Historical Society",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95661362,
+      "name": "Bridget Bishop",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122032390,
+      "name": "Cora Cain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ABAGOF BEEF",
+  "corporation_id": 98818481,
+  "alliance_id": null,
+  "corporation_name": "ABAGOF",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123565483,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96871790,
+    "name": "Guffor Atremi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 96871790,
+      "name": "Guffor Atremi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91862367,
+      "name": "Nuke Blast",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96614471,
+      "name": "Afranius Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1613019230,
+      "name": "Roger Dodger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Athanasios Zitakis",
+  "corporation_id": 98244982,
+  "alliance_id": null,
+  "corporation_name": "Die Woge des Wahnsinns",
+  "alliance_name": null
+}

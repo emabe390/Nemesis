@@ -1,0 +1,40 @@
+{
+  "character_id": 2123530178,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 606378518,
+    "name": "Bukkar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 972194211,
+    "alliance_id": 1900696668,
+    "corporation_name": "Demonic Retribution",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 606378518,
+      "name": "Bukkar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95239988,
+      "name": "Black-Widow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kellarra",
+  "corporation_id": 98809547,
+  "alliance_id": null,
+  "corporation_name": "Wings of Rust",
+  "alliance_name": null
+}

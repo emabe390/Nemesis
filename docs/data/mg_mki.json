@@ -1,0 +1,52 @@
+{
+  "character_id": 2123845173,
+  "total_losses": 50,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 2123839258,
+    "name": "MG-MKIII",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98825941,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kun-Lun",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123839258,
+      "name": "MG-MKIII",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90752661,
+      "name": "Pietro Caspian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1394904373,
+      "name": "ComPitch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116413082,
+      "name": "Snow Chaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120142458,
+      "name": "kinopiZ",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MG-MKI",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

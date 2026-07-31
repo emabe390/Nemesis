@@ -1,0 +1,52 @@
+{
+  "character_id": 2123618036,
+  "total_losses": 60,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 408342471,
+      "name": "PherryRhodaSon",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 778105572,
+      "name": "Ryvian",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Koroc Jaoh",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

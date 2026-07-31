@@ -1,0 +1,52 @@
+{
+  "character_id": 2123412410,
+  "total_losses": 18,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2117527113,
+    "name": "Jeuno",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98456957,
+    "alliance_id": 99014643,
+    "corporation_name": "Perma Capped",
+    "alliance_name": "T0UCH GRASS"
+  },
+  "top_killers": [
+    {
+      "id": 2117527113,
+      "name": "Jeuno",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92968871,
+      "name": "Pandora Kalante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 207593363,
+      "name": "Rokh Stah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 762977248,
+      "name": "Ralph Makaev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 809483580,
+      "name": "Ostos Marek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123412410",
+  "corporation_id": 98827749,
+  "alliance_id": 99011372,
+  "corporation_name": "Event Horizon Surveyors",
+  "alliance_name": "Moss Piglet Preservation Society"
+}

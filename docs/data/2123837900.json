@@ -1,0 +1,52 @@
+{
+  "character_id": 2123837900,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 90493707,
+    "name": "katalysator Tadaruwa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 90493707,
+      "name": "katalysator Tadaruwa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113840835,
+      "name": "Turbine D",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91382032,
+      "name": "Archer Youngblood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heisenberg Beta A",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

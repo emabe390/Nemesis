@@ -1,0 +1,52 @@
+{
+  "character_id": 2123198025,
+  "total_losses": 53,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 2123717961,
+    "name": "Duskhound",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98778050,
+    "alliance_id": 99014445,
+    "corporation_name": "The Unspoken Ones",
+    "alliance_name": "Rolled Out."
+  },
+  "top_killers": [
+    {
+      "id": 2123717961,
+      "name": "Duskhound",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 770276385,
+      "name": "Lediria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92192494,
+      "name": "Trekta Smaik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pearl Eskimo",
+  "corporation_id": 98513961,
+  "alliance_id": 99006805,
+  "corporation_name": "Pagids Legion",
+  "alliance_name": "Wormageddon"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123543567,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123180842,
+    "name": "Cago 1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723884,
+    "alliance_id": null,
+    "corporation_name": "W-space guardians",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123180842,
+      "name": "Cago 1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95031260,
+      "name": "Prime Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95570172,
+      "name": "Joy Home",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113669816,
+      "name": "Haika Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122038309,
+      "name": "H3LLSCAPE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Osu de Sala",
+  "corporation_id": 98805915,
+  "alliance_id": null,
+  "corporation_name": "BeTep c Mop9I DyJI",
+  "alliance_name": null
+}

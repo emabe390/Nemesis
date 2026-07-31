@@ -1,0 +1,40 @@
+{
+  "character_id": 2117773092,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115825751,
+    "name": "Cyna Kraba",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791332,
+    "alliance_id": 1354830081,
+    "corporation_name": "Imperial Ghosts",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115825751,
+      "name": "Cyna Kraba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117436309,
+      "name": "xNic Goh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheKrabMachine",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

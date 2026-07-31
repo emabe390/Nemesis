@@ -1,0 +1,52 @@
+{
+  "character_id": 2113119198,
+  "total_losses": 195,
+  "unique_killers": 166,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1335805831,
+      "name": "The Deadalus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115519310,
+      "name": "Xarkon Arji",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90735907,
+      "name": "Inz4ne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91598294,
+      "name": "1hi2hi3hi2",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tyldek",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

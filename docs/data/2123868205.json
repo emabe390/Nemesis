@@ -1,0 +1,34 @@
+{
+  "character_id": 2123868205,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1675797635,
+    "name": "Zeulia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1675797635,
+      "name": "Zeulia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Imma Miss Take",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

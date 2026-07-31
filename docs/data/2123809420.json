@@ -1,0 +1,40 @@
+{
+  "character_id": 2123809420,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 736985155,
+    "name": "Himeko",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98612164,
+    "alliance_id": 99003581,
+    "corporation_name": "CENTURIONES IMPERIALES",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 736985155,
+      "name": "Himeko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1684604235,
+      "name": "Carrus Thrace",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Therof",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

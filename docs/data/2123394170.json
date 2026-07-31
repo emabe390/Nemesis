@@ -1,0 +1,40 @@
+{
+  "character_id": 2123394170,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95429547,
+    "name": "Jeppezon Zebina",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95429547,
+      "name": "Jeppezon Zebina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117019540,
+      "name": "Baku0",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121433862,
+      "name": "Okeen Hoake",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fake Tom Cruise",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

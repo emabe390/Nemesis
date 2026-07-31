@@ -1,0 +1,40 @@
+{
+  "character_id": 2123524980,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115649345,
+    "name": "jay feyza",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98767024,
+    "alliance_id": 99013563,
+    "corporation_name": "Allied Exploration Front",
+    "alliance_name": "Allied Exploration Front AXXF"
+  },
+  "top_killers": [
+    {
+      "id": 2115649345,
+      "name": "jay feyza",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123272379,
+      "name": "Airid Sertan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123619320,
+      "name": "Harkon Ironhide",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nohra Clarke",
+  "corporation_id": 98806602,
+  "alliance_id": 99013786,
+  "corporation_name": "Celestial Crucible",
+  "alliance_name": "Cryonic Origin Alliance"
+}

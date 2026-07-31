@@ -1,0 +1,52 @@
+{
+  "character_id": 2122203313,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2114060819,
+    "name": "Alice Aurgent",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 2114060819,
+      "name": "Alice Aurgent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94938303,
+      "name": "Asimus Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 371792633,
+      "name": "PsyBlade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 625199800,
+      "name": "DHB WildCat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1833362831,
+      "name": "AnderMask",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Markus Aurgent",
+  "corporation_id": 238942032,
+  "alliance_id": 99012042,
+  "corporation_name": "Alfa Corporation",
+  "alliance_name": "Fanatic Legion."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122846281,
+  "total_losses": 41,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2114450323,
+    "name": "Heavy Lifter",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98814023,
+    "alliance_id": 99014284,
+    "corporation_name": "Imperrors Children",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2114450323,
+      "name": "Heavy Lifter",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 556909011,
+      "name": "Namaxa Skurvensen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90711855,
+      "name": "Juktus Groth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119934760,
+      "name": "Vespa VanBuuren",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cherq Alaba",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

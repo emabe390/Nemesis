@@ -1,0 +1,40 @@
+{
+  "character_id": 2122890837,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120531259,
+    "name": "Barth Grooks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98730477,
+    "alliance_id": 99009163,
+    "corporation_name": "THE Death Space",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2120531259,
+      "name": "Barth Grooks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96421527,
+      "name": "Grave Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121256721,
+      "name": "Rufus Bray",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stone Eye",
+  "corporation_id": 98829602,
+  "alliance_id": 99013160,
+  "corporation_name": "Stone Eye Holdings",
+  "alliance_name": "Siberian Renters."
+}

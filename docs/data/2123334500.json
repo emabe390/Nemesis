@@ -1,0 +1,52 @@
+{
+  "character_id": 2123334500,
+  "total_losses": 153,
+  "unique_killers": 128,
+  "nemesis": {
+    "id": 2120823003,
+    "name": "VaaaaS",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98814748,
+    "alliance_id": 99003285,
+    "corporation_name": "Mountain Marauder",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2120823003,
+      "name": "VaaaaS",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122121274,
+      "name": "ChairmanMo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "GenaArmatura",
+  "corporation_id": 98814748,
+  "alliance_id": 99003285,
+  "corporation_name": "Mountain Marauder",
+  "alliance_name": "WarDogs League"
+}

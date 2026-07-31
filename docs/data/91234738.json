@@ -1,0 +1,52 @@
+{
+  "character_id": 91234738,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 355345049,
+    "name": "Once Bitten",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 785468758,
+    "alliance_id": null,
+    "corporation_name": "Inter Stellar Concordium",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 355345049,
+      "name": "Once Bitten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90959521,
+      "name": "SnoUP",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93244685,
+      "name": "Arasinya Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96313784,
+      "name": "After M1dnight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96836341,
+      "name": "Character 96836341",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaira Kamasi",
+  "corporation_id": 98603207,
+  "alliance_id": 99009698,
+  "corporation_name": "Zero To High",
+  "alliance_name": "Worst Alliance Ever"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119337215,
+  "total_losses": 75,
+  "unique_killers": 61,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 698404960,
+      "name": "Qutis Hanid",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1307353296,
+      "name": "TheUnpleasantOne",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94338443,
+      "name": "Rikko Solette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97007244,
+      "name": "Baikal 52rus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Victor Navorsky",
+  "corporation_id": 98177708,
+  "alliance_id": 1042504553,
+  "corporation_name": "Space Wolves ind.",
+  "alliance_name": "Solyaris Chtonium"
+}

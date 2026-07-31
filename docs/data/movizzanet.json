@@ -1,0 +1,52 @@
+{
+  "character_id": 2123720472,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 90658635,
+    "name": "Zaneti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98689658,
+    "alliance_id": null,
+    "corporation_name": "Concerned Gentlefolk of Eugales",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90658635,
+      "name": "Zaneti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93866785,
+      "name": "Rist Rolland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117562105,
+      "name": "msy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MovizZanet",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

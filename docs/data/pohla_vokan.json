@@ -1,0 +1,40 @@
+{
+  "character_id": 2121234703,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 781932988,
+    "name": "redcourse",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 781932988,
+      "name": "redcourse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112149192,
+      "name": "Kong iBUN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119337581,
+      "name": "Tupak Corvus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pohla Vokan",
+  "corporation_id": 98816782,
+  "alliance_id": null,
+  "corporation_name": "Amarrats",
+  "alliance_name": null
+}

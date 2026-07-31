@@ -1,0 +1,40 @@
+{
+  "character_id": 152419344,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 751816086,
+    "name": "The Pigeon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 751816086,
+      "name": "The Pigeon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116059680,
+      "name": "SaZzaS AuRuS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121075552,
+      "name": "Punishement",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Evino",
+  "corporation_id": 98571922,
+  "alliance_id": null,
+  "corporation_name": "First Axiom Brigade",
+  "alliance_name": null
+}

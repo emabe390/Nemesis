@@ -1,0 +1,40 @@
+{
+  "character_id": 2123135519,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 185294134,
+    "name": "Patrick Pulfer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 185294134,
+      "name": "Patrick Pulfer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120408402,
+      "name": "Snowan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121671728,
+      "name": "Parker Tan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ThcMiner1",
+  "corporation_id": 98044747,
+  "alliance_id": null,
+  "corporation_name": "Bikini Bottom Surfer",
+  "alliance_name": null
+}

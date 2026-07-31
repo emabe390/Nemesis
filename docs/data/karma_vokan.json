@@ -1,0 +1,52 @@
+{
+  "character_id": 2123004872,
+  "total_losses": 21,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 1194008533,
+    "name": "Evanga",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98343343,
+    "alliance_id": 99004567,
+    "corporation_name": "Anoikis Equilibrium",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 1194008533,
+      "name": "Evanga",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96837778,
+      "name": "brevery Purvanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115661792,
+      "name": "Mana Loutte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91143928,
+      "name": "Xanndros Yamato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karma Vokan",
+  "corporation_id": 98702127,
+  "alliance_id": 99010389,
+  "corporation_name": "HandelsGilde-De",
+  "alliance_name": "Outsmarted"
+}

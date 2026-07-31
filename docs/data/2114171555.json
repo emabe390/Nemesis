@@ -1,0 +1,40 @@
+{
+  "character_id": 2114171555,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112752661,
+    "name": "Atomic Bomberman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2112752661,
+      "name": "Atomic Bomberman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122687614,
+      "name": "Mr Outrageous",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kenia Aguirre",
+  "corporation_id": 98324520,
+  "alliance_id": 99014582,
+  "corporation_name": "300 Corporation",
+  "alliance_name": "Glacial Industrial Collective"
+}

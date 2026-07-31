@@ -1,0 +1,52 @@
+{
+  "character_id": 2117881353,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114722834,
+    "name": "Gozya Sama",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000066,
+    "alliance_id": null,
+    "corporation_name": "Viziam",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114722834,
+      "name": "Gozya Sama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96457872,
+      "name": "Hexator Gaming",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123550502,
+      "name": "Decimus krull",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221306,
+      "name": "WIndowLicker1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221314,
+      "name": "WindowLicker3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andromali",
+  "corporation_id": 98830473,
+  "alliance_id": null,
+  "corporation_name": "Triangle Corp",
+  "alliance_name": null
+}

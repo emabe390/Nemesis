@@ -1,0 +1,52 @@
+{
+  "character_id": 2123990532,
+  "total_losses": 27,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96579576,
+      "name": "Serene Audene",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Khrys Vox",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

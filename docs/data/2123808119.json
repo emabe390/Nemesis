@@ -1,0 +1,52 @@
+{
+  "character_id": 2123808119,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116105023,
+      "name": "Drithi Moonshae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122596675,
+      "name": "RavagerX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90828002,
+      "name": "Charlie Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Godam Juice",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

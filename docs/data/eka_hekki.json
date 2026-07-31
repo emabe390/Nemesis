@@ -1,0 +1,40 @@
+{
+  "character_id": 2122987556,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90497941,
+    "name": "BringIt On",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90497941,
+      "name": "BringIt On",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93396737,
+      "name": "Renny Lop",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96246402,
+      "name": "Grim Iskander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eka Hekki",
+  "corporation_id": 98809156,
+  "alliance_id": null,
+  "corporation_name": "Eka Hekki Corporation",
+  "alliance_name": null
+}

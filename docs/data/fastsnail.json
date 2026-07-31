@@ -1,0 +1,46 @@
+{
+  "character_id": 2112304180,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121909405,
+    "name": "Lets-Go",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98143374,
+    "alliance_id": 99000285,
+    "corporation_name": "DUST Expeditionary Team",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 2121909405,
+      "name": "Lets-Go",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1303552405,
+      "name": "shoeless JoeJackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121631462,
+      "name": "Breast Enlargement Enforcer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FastSnail",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

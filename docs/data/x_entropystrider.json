@@ -1,0 +1,40 @@
+{
+  "character_id": 2123727276,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96231833,
+    "name": "Jeff TheDude",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809880,
+    "alliance_id": 1988009451,
+    "corporation_name": "Tabou.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96231833,
+      "name": "Jeff TheDude",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121610951,
+      "name": "15 Roentgens",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112792018,
+      "name": "Airu Tekitsu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "X-EntropyStrider",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

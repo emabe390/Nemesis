@@ -1,0 +1,52 @@
+{
+  "character_id": 2117611586,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120302485,
+    "name": "locster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791332,
+    "alliance_id": 1354830081,
+    "corporation_name": "Imperial Ghosts",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120302485,
+      "name": "locster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91419334,
+      "name": "Gumi Vocaloid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113650207,
+      "name": "Duck Masick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122965316,
+      "name": "Captian Caine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123890890,
+      "name": "Loner Fera",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cam Dovenian",
+  "corporation_id": 98326241,
+  "alliance_id": 99009845,
+  "corporation_name": "Jerkasaurus Wrecks Inc.",
+  "alliance_name": "Sedition."
+}

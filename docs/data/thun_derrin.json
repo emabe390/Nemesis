@@ -1,0 +1,40 @@
+{
+  "character_id": 92431699,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 109249530,
+    "name": "Mobile Spaceunit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98135265,
+    "alliance_id": null,
+    "corporation_name": "Soylent Green Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 109249530,
+      "name": "Mobile Spaceunit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929776476,
+      "name": "Sherberetta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123356500,
+      "name": "Mo0nSh0t",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thun Derrin",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

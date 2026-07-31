@@ -1,0 +1,40 @@
+{
+  "character_id": 2124362899,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96161839,
+    "name": "Farmer en Welle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740032,
+    "alliance_id": null,
+    "corporation_name": "The Old Friends corp.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96161839,
+      "name": "Farmer en Welle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94358529,
+      "name": "Hali Brai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lelya Kuznetsova",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

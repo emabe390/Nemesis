@@ -1,0 +1,46 @@
+{
+  "character_id": 2123062521,
+  "total_losses": 15,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122626046,
+    "name": "Ustialod Aelin Adestur",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98794878,
+    "alliance_id": null,
+    "corporation_name": "Corp 668",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2114438127,
+      "name": "YiHan Yang",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2115143832,
+      "name": "LinKongC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120070385,
+      "name": "John Eunha",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MoonBirdChen",
+  "corporation_id": 98784786,
+  "alliance_id": 99014051,
+  "corporation_name": "Union Our Power",
+  "alliance_name": "K-Space Exile"
+}

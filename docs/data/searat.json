@@ -1,0 +1,52 @@
+{
+  "character_id": 2121713365,
+  "total_losses": 58,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 409301765,
+    "name": "The Templariarch",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 409301765,
+      "name": "The Templariarch",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90411867,
+      "name": "Von Vedel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93389269,
+      "name": "Kayra Nathuul",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Searat",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123563570,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92403216,
+    "name": "Kelevra Pax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98803894,
+    "alliance_id": null,
+    "corporation_name": "Der Verfassungsschutz.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92403216,
+      "name": "Kelevra Pax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121145636,
+      "name": "Omonoi Iwaira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 170180895,
+      "name": "EweWBA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "blahbooo1",
+  "corporation_id": 98665606,
+  "alliance_id": 99011144,
+  "corporation_name": "Lux Mundi Exploration Company",
+  "alliance_name": "Lux Collective"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123820088,
+  "total_losses": 47,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 90292313,
+    "name": "Nissan Truck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98124000,
+    "alliance_id": 99010240,
+    "corporation_name": "Abrasive Industries",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 90292313,
+      "name": "Nissan Truck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90659101,
+      "name": "Cirrus Constitution",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90940790,
+      "name": "Ri Zhik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96424385,
+      "name": "pel men",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96921440,
+      "name": "3sooham kukudas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nova Havocs",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

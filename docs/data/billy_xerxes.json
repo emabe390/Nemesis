@@ -1,0 +1,40 @@
+{
+  "character_id": 2121772771,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90133155,
+    "name": "Mark Reis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98558506,
+    "alliance_id": 1900696668,
+    "corporation_name": "A Blessed Bean",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90133155,
+      "name": "Mark Reis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95295190,
+      "name": "Zeek Pax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121265192,
+      "name": "Anni Bastanold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Billy Xerxes",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

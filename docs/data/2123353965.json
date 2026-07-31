@@ -1,0 +1,40 @@
+{
+  "character_id": 2123353965,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116477379,
+    "name": "Whiskey Erso",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98736562,
+    "alliance_id": 99012544,
+    "corporation_name": "Malt House Society",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113906405,
+      "name": "Late Altol",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Axel Varanis",
+  "corporation_id": 98808527,
+  "alliance_id": null,
+  "corporation_name": "V.A.R.R.I.C.",
+  "alliance_name": null
+}

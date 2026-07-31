@@ -1,0 +1,40 @@
+{
+  "character_id": 2123326877,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92481622,
+    "name": "Karolkens Chmura",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98622006,
+    "alliance_id": null,
+    "corporation_name": "Great Below",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 767137260,
+      "name": "Amfel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123800119,
+      "name": "hudcer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vpitivaem",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

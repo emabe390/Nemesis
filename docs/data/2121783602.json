@@ -1,0 +1,52 @@
+{
+  "character_id": 2121783602,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121701076,
+    "name": "DeathMagnet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121701076,
+      "name": "DeathMagnet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97164242,
+      "name": "Carrhy Datic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95753951,
+      "name": "typhoooon Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 187408451,
+      "name": "Doonwong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1701596726,
+      "name": "howling wind",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pyorn-krachzark",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

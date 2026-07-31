@@ -1,0 +1,40 @@
+{
+  "character_id": 2122164642,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117980392,
+    "name": "Dage The Evil",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740697,
+    "alliance_id": 99014676,
+    "corporation_name": "The Holy Church of the Barghest",
+    "alliance_name": "The Excommunicati"
+  },
+  "top_killers": [
+    {
+      "id": 2117980392,
+      "name": "Dage The Evil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114550192,
+      "name": "Lokajit Nakrar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120179050,
+      "name": "Viconia Kitikiti'sh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cardian",
+  "corporation_id": 98672562,
+  "alliance_id": null,
+  "corporation_name": "R.E.M.N.A.N.T.S",
+  "alliance_name": null
+}

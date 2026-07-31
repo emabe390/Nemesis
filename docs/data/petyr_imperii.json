@@ -1,0 +1,40 @@
+{
+  "character_id": 2123147492,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123189900,
+      "name": "Skora Vel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123708021,
+      "name": "Roger Bucky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Petyr Imperii",
+  "corporation_id": 98796303,
+  "alliance_id": null,
+  "corporation_name": "Platina Imperii",
+  "alliance_name": null
+}

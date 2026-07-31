@@ -1,0 +1,52 @@
+{
+  "character_id": 2123876494,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 693863860,
+    "name": "2Shae",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766678,
+    "alliance_id": 99004804,
+    "corporation_name": "Somos la Muerte",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 693863860,
+      "name": "2Shae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115223319,
+      "name": "Elisabeth Canary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95008831,
+      "name": "Geca Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96424441,
+      "name": "Kain ACE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96584048,
+      "name": "Sanadora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ite Askiras",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

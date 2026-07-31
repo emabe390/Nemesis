@@ -1,0 +1,40 @@
+{
+  "character_id": 2122800665,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91375037,
+    "name": "Zira Arjar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98707822,
+    "alliance_id": 99000580,
+    "corporation_name": "Intergalactic Brotherhood of Teamsters",
+    "alliance_name": "Ignore This."
+  },
+  "top_killers": [
+    {
+      "id": 91375037,
+      "name": "Zira Arjar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96665706,
+      "name": "Elvis Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beboulain Colis Audeles",
+  "corporation_id": 98791437,
+  "alliance_id": null,
+  "corporation_name": "Testigos del apocalipsis nuclear",
+  "alliance_name": null
+}

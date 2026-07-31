@@ -1,0 +1,40 @@
+{
+  "character_id": 2124211747,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91688135,
+    "name": "Timmil Amouh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 91688135,
+      "name": "Timmil Amouh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96269625,
+      "name": "Playtoy Draconian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113872043,
+      "name": "Dreux Daamia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Flynn Callaghan",
+  "corporation_id": 98827283,
+  "alliance_id": null,
+  "corporation_name": "Cobblestone Fortress",
+  "alliance_name": null
+}

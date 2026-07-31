@@ -1,0 +1,40 @@
+{
+  "character_id": 2123851509,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94992446,
+    "name": "Steven Cigall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571968,
+    "alliance_id": 99003581,
+    "corporation_name": "Cristicorpus",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 94992446,
+      "name": "Steven Cigall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90448041,
+      "name": "Skanny Aylet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 311856245,
+      "name": "Jeram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sehalia",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

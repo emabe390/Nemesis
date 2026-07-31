@@ -1,0 +1,52 @@
+{
+  "character_id": 2123860561,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 213585494,
+    "name": "Natasha Mzie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112082145,
+      "name": "Cater Amelana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120383311,
+      "name": "Hans Elemagor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Solanato Hekki",
+  "corporation_id": 98478896,
+  "alliance_id": 99012018,
+  "corporation_name": "Dark Knowledge.",
+  "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+}

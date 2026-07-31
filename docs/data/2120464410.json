@@ -1,0 +1,40 @@
+{
+  "character_id": 2120464410,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115140820,
+      "name": "Donny Chen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bretton",
+  "corporation_id": 98457239,
+  "alliance_id": 99008985,
+  "corporation_name": "Tempered Aggression",
+  "alliance_name": "Seker Matar"
+}

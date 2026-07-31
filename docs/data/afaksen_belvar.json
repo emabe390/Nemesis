@@ -1,0 +1,52 @@
+{
+  "character_id": 2122667903,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118798113,
+    "name": "SuperProwler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98708076,
+    "alliance_id": null,
+    "corporation_name": "CONTROL.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123352416,
+      "name": "Lieurenave Vynneve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123490847,
+      "name": "The'Architect",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Afaksen Belvar",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

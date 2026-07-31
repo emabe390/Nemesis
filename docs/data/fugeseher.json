@@ -1,0 +1,52 @@
+{
+  "character_id": 108368065,
+  "total_losses": 21,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2124390737,
+    "name": "Geseline",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124390737,
+      "name": "Geseline",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 802079700,
+      "name": "HabaHaba",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Fugeseher",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

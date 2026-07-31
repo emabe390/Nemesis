@@ -1,0 +1,40 @@
+{
+  "character_id": 2123598420,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119800548,
+    "name": "MettysM",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575932,
+    "alliance_id": 1354830081,
+    "corporation_name": "Strategically Bad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119800548,
+      "name": "MettysM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121767379,
+      "name": "Alina Hayashi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93751960,
+      "name": "Jaypaq",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paul Haldane",
+  "corporation_id": 98821769,
+  "alliance_id": 99013537,
+  "corporation_name": "Escalation Therapy",
+  "alliance_name": "Insidious."
+}

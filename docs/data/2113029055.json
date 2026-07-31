@@ -1,0 +1,52 @@
+{
+  "character_id": 2113029055,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 329034030,
+      "name": "Tugen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1013139228,
+      "name": "Wrok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113414069,
+      "name": "Walter Haut",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Canadian Lynx",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

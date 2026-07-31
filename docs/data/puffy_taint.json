@@ -1,0 +1,34 @@
+{
+  "character_id": 90293679,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114606780,
+    "name": "Wild Valenok",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662843,
+    "alliance_id": 99003557,
+    "corporation_name": "Interstellar Scum",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90293679,
+      "name": "Puffy Taint",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Puffy Taint",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

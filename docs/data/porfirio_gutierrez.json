@@ -1,0 +1,52 @@
+{
+  "character_id": 2123308484,
+  "total_losses": 45,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91786748,
+      "name": "Ado Felt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95639117,
+      "name": "Komod Drone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 156345365,
+      "name": "Gunni",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Porfirio Gutierrez",
+  "corporation_id": 98619206,
+  "alliance_id": 99003581,
+  "corporation_name": "OutLaws Corporation",
+  "alliance_name": "Fraternity."
+}

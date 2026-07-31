@@ -1,0 +1,40 @@
+{
+  "character_id": 420380086,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113832167,
+    "name": "Reinhard Arenzberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642916,
+    "alliance_id": 1354830081,
+    "corporation_name": "Arenzberger Trading Consortium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113832167,
+      "name": "Reinhard Arenzberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 960870668,
+      "name": "KillUJim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118866927,
+      "name": "MeowMeow Fuzzyface",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 420380086",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

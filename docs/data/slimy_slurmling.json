@@ -1,0 +1,52 @@
+{
+  "character_id": 2123133980,
+  "total_losses": 30,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 91317372,
+    "name": "Vayne Larsa",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98829369,
+    "alliance_id": null,
+    "corporation_name": "Bloody Smile",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96062629,
+      "name": "Tim Alland",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116897259,
+      "name": "Dippar Null",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118606224,
+      "name": "Rogue-Planet",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Slimy Slurmling",
+  "corporation_id": 98083089,
+  "alliance_id": 99003581,
+  "corporation_name": "Redhogs",
+  "alliance_name": "Fraternity."
+}

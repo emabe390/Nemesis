@@ -1,0 +1,40 @@
+{
+  "character_id": 2120839934,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113409641,
+    "name": "GrayHeart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2113409641,
+      "name": "GrayHeart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112135986,
+      "name": "Oh Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119746658,
+      "name": "Heck Lhor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KLXHNTR",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

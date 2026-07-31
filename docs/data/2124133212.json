@@ -1,0 +1,52 @@
+{
+  "character_id": 2124133212,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116291626,
+    "name": "Eva Starrchaser",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98745385,
+    "alliance_id": 99012544,
+    "corporation_name": "The God Hand.",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121576395,
+      "name": "NovaBrawler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123786129,
+      "name": "Mastaria Dawn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124007466,
+      "name": "Hadderach Atreides",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurora Imicus",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

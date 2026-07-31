@@ -1,0 +1,40 @@
+{
+  "character_id": 2123043608,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 155777228,
+    "name": "eXcs",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 155777228,
+      "name": "eXcs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1019520959,
+      "name": "Calette Zardina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122953636,
+      "name": "Syreac Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Syreac Beta",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

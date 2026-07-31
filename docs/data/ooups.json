@@ -1,0 +1,52 @@
+{
+  "character_id": 2121401641,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 5
+    },
+    {
+      "id": 92338468,
+      "name": "BillusKillus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94958233,
+      "name": "Nokautik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 226686100,
+      "name": "WillusKillus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120823013,
+      "name": "Xochy Kushat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ooups",
+  "corporation_id": 98833240,
+  "alliance_id": 99003995,
+  "corporation_name": "Dream Fleet",
+  "alliance_name": "Invidia Gloriae Comes"
+}

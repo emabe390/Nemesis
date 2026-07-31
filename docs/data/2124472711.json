@@ -1,0 +1,52 @@
+{
+  "character_id": 2124472711,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1711606704,
+    "name": "Demonski",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1632475871,
+    "alliance_id": null,
+    "corporation_name": "Ricochet Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1711606704,
+      "name": "Demonski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115595078,
+      "name": "Drama Prime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122344662,
+      "name": "Sublime Deluxe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122746751,
+      "name": "Warlo Stardust",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123469995,
+      "name": "Zoe Vaelendra",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Velgandt",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

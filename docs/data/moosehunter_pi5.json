@@ -1,0 +1,34 @@
+{
+  "character_id": 2123623672,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92838268,
+    "name": "Bro'dee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98505151,
+    "alliance_id": 1354830081,
+    "corporation_name": "Country House",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92838268,
+      "name": "Bro'dee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 578017118,
+      "name": "velanorila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MooseHunter PI5",
+  "corporation_id": 98800958,
+  "alliance_id": null,
+  "corporation_name": "Hatstand Inc",
+  "alliance_name": null
+}

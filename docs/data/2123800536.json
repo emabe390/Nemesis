@@ -1,0 +1,40 @@
+{
+  "character_id": 2123800536,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95719847,
+    "name": "Icarus Casablancas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119193060,
+      "name": "Ahbazon Prime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119947844,
+      "name": "Aladar Krahn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Petale Faucon",
+  "corporation_id": 699362691,
+  "alliance_id": null,
+  "corporation_name": "Compressed Space Technology",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122743866,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91382032,
+    "name": "Archer Youngblood",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815561,
+    "alliance_id": null,
+    "corporation_name": "Straight Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91382032,
+      "name": "Archer Youngblood",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93468510,
+      "name": "Alex DeWalker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122743866",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

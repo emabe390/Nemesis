@@ -1,0 +1,52 @@
+{
+  "character_id": 2123853885,
+  "total_losses": 32,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 90107819,
+    "name": "Oxinome",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98818593,
+    "alliance_id": 99009845,
+    "corporation_name": "Bangzhu Cartel",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90542081,
+      "name": "Londo Tian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117040955,
+      "name": "Scorpius Snapcaster",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Litheane",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

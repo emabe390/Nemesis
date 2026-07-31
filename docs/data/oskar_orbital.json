@@ -1,0 +1,52 @@
+{
+  "character_id": 2122862976,
+  "total_losses": 18,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116815965,
+    "name": "Wigand Gunnarson",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98640970,
+    "alliance_id": 99010015,
+    "corporation_name": "N-E-U-T",
+    "alliance_name": "BLACKFLAG."
+  },
+  "top_killers": [
+    {
+      "id": 2116815965,
+      "name": "Wigand Gunnarson",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 90215243,
+      "name": "Glavior",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1609387042,
+      "name": "Lola Nira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 312168979,
+      "name": "Jah'bastah II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120178812,
+      "name": "Alipuh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oskar Orbital",
+  "corporation_id": 98785258,
+  "alliance_id": 99013831,
+  "corporation_name": "Redshift Horizon",
+  "alliance_name": "Sleeper Protocol"
+}

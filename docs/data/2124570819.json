@@ -1,0 +1,40 @@
+{
+  "character_id": 2124570819,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90737395,
+    "name": "Feth Dethahal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 90737395,
+      "name": "Feth Dethahal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1227994980,
+      "name": "Yellow Jackal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124070071,
+      "name": "MMingMing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karog Garmock",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96632596,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 289374601,
+    "name": "Den'orm",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98643195,
+    "alliance_id": 99012239,
+    "corporation_name": "I'm Super Bad At This",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120877476,
+      "name": "REAL Hideo Kojima",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123087486,
+      "name": "Klotild Miklos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charlie Blackwood",
+  "corporation_id": 98431610,
+  "alliance_id": null,
+  "corporation_name": "LibertyAboveAll",
+  "alliance_name": null
+}

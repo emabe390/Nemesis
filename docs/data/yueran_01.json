@@ -1,0 +1,52 @@
+{
+  "character_id": 2124307484,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2116050302,
+    "name": "Capo Joe Bananas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829366,
+    "alliance_id": null,
+    "corporation_name": "The K-5",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116050302,
+      "name": "Capo Joe Bananas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1253161475,
+      "name": "4eGanG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112765539,
+      "name": "Arcadis Inkura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115452828,
+      "name": "Hoot Has",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yueran-01",
+  "corporation_id": 98811002,
+  "alliance_id": 99014187,
+  "corporation_name": "Northern Crusades",
+  "alliance_name": "Dawn's Light"
+}

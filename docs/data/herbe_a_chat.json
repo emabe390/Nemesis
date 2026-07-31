@@ -1,0 +1,34 @@
+{
+  "character_id": 2123196340,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121849329,
+    "name": "Decklan Starchaser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98285854,
+    "alliance_id": 1988009451,
+    "corporation_name": "Ember Inc.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121849329,
+      "name": "Decklan Starchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121263069,
+      "name": "Karl Malachov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Herbe a chat",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123423577,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92513021,
+    "name": "Helena Wild",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92513021,
+      "name": "Helena Wild",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113780370,
+      "name": "Vakirian Duruodo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118698556,
+      "name": "HellBentApoc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alino Milaniare",
+  "corporation_id": 98830167,
+  "alliance_id": 99009163,
+  "corporation_name": "Vanguard of the Abyss",
+  "alliance_name": "Dracarys."
+}

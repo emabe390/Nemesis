@@ -1,0 +1,40 @@
+{
+  "character_id": 2120823181,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1021830239,
+    "name": "Roland 99",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 712577137,
+    "alliance_id": 99010015,
+    "corporation_name": "Commonwealth Mercenaries",
+    "alliance_name": "BLACKFLAG."
+  },
+  "top_killers": [
+    {
+      "id": 1021830239,
+      "name": "Roland 99",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120171038,
+      "name": "Teletha' Testarossa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120860770,
+      "name": "ImPickle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bob McKay",
+  "corporation_id": 98735807,
+  "alliance_id": null,
+  "corporation_name": "Tom McKay Corporation",
+  "alliance_name": null
+}

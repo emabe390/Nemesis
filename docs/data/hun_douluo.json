@@ -1,0 +1,52 @@
+{
+  "character_id": 2115024748,
+  "total_losses": 23,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124287343,
+      "name": "Lewy Ackerman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91606365,
+      "name": "Ferril Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92240946,
+      "name": "SkrudJ Makdak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95507299,
+      "name": "Aethenix Draco",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hun Douluo",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

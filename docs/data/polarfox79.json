@@ -1,0 +1,40 @@
+{
+  "character_id": 2123501787,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114612392,
+    "name": "Kim Jong-hyun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776010,
+    "alliance_id": 99014894,
+    "corporation_name": "Quantum Dynamics.",
+    "alliance_name": "From Lost To The Wormhole."
+  },
+  "top_killers": [
+    {
+      "id": 2114612392,
+      "name": "Kim Jong-hyun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118404812,
+      "name": "Baldry Hogex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 455004094,
+      "name": "Felis Snake",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PolarFox79",
+  "corporation_id": 98554826,
+  "alliance_id": null,
+  "corporation_name": "Pervaya mezhgalakticheskaya torgovaya korporaciya",
+  "alliance_name": null
+}

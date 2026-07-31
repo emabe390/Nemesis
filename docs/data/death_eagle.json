@@ -1,0 +1,52 @@
+{
+  "character_id": 1777714132,
+  "total_losses": 31,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2121259078,
+    "name": "Na Mene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778275,
+    "alliance_id": null,
+    "corporation_name": "Casually drifting",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121259078,
+      "name": "Na Mene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90347082,
+      "name": "Ostap benderberei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90809476,
+      "name": "TightLeash Antollare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95355821,
+      "name": "STDs Given",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95367062,
+      "name": "Spark SkyTracker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Death Eagle",
+  "corporation_id": 98826453,
+  "alliance_id": 99005393,
+  "corporation_name": "Dragon Aeternum",
+  "alliance_name": "Blades of Grass"
+}

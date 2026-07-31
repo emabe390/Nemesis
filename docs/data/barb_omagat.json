@@ -1,0 +1,40 @@
+{
+  "character_id": 2121428311,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 321701230,
+    "name": "ThePuce Moose",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98688527,
+    "alliance_id": 99013113,
+    "corporation_name": "Starline Enterprises",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 321701230,
+      "name": "ThePuce Moose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122877221,
+      "name": "Beastofnata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Barb Omagat",
+  "corporation_id": 98795383,
+  "alliance_id": 99003956,
+  "corporation_name": "PushX Beacon Network",
+  "alliance_name": "Push Interstellar Network"
+}

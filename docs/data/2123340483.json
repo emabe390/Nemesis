@@ -1,0 +1,52 @@
+{
+  "character_id": 2123340483,
+  "total_losses": 20,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 93164360,
+    "name": "Lucan Aakiwa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797544,
+    "alliance_id": 99014977,
+    "corporation_name": "S I L E N C E",
+    "alliance_name": "Without a Sound"
+  },
+  "top_killers": [
+    {
+      "id": 93164360,
+      "name": "Lucan Aakiwa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114762971,
+      "name": "Koneko Breau",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120979873,
+      "name": "UR-PP e3e976",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94572062,
+      "name": "Thanatos Olacar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95777322,
+      "name": "Janos Sazas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deldin",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

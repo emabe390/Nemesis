@@ -1,0 +1,40 @@
+{
+  "character_id": 92345375,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124176171,
+    "name": "Character 2124176171",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820670,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladius Tenebris",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2124176171,
+      "name": "Character 2124176171",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1271566099,
+      "name": "Dehee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121688522,
+      "name": "Dolores Del Tacos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "I LikePonies",
+  "corporation_id": 321780148,
+  "alliance_id": null,
+  "corporation_name": "The Awesome Corp",
+  "alliance_name": null
+}

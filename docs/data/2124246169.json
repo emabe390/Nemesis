@@ -1,0 +1,52 @@
+{
+  "character_id": 2124246169,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112375804,
+    "name": "Luisa Maria",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98405694,
+    "alliance_id": null,
+    "corporation_name": "Falling Angels INC.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112375804,
+      "name": "Luisa Maria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91172788,
+      "name": "Orion Imperator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1176124973,
+      "name": "Zrye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Torn Vanguard",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

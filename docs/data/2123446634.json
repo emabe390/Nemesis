@@ -1,0 +1,40 @@
+{
+  "character_id": 2123446634,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116589877,
+    "name": "JY Wang",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767366,
+    "alliance_id": null,
+    "corporation_name": "Science Hall",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116589877,
+      "name": "JY Wang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93314527,
+      "name": "Luke Swampwalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 963217069,
+      "name": "Jogyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Magimace",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

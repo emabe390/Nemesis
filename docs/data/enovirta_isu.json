@@ -1,0 +1,52 @@
+{
+  "character_id": 2122543965,
+  "total_losses": 53,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123892628,
+      "name": "Grim-Gangsters",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93852060,
+      "name": "Agent13 Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1408513141,
+      "name": "Bob Veers",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Enovirta Isu",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124424350,
+  "total_losses": 31,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123926469,
+    "name": "china su",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123926469,
+      "name": "china su",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123637325,
+      "name": "Sirikka Soikutsu",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123642587,
+      "name": "Sirikka Doikutsu",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123929087,
+      "name": "china wei",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124292472,
+      "name": "A-ZW-03",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "China LongGee",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

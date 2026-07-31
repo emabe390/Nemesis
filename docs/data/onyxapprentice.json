@@ -1,0 +1,40 @@
+{
+  "character_id": 2122269433,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119821206,
+    "name": "JadedApprentice",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1860753927,
+    "alliance_id": 1644918530,
+    "corporation_name": "Minmatar Death Squad",
+    "alliance_name": "Broken Chains Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2119821206,
+      "name": "JadedApprentice",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94270831,
+      "name": "Estilad Grenrum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 720630252,
+      "name": "Sk Fawn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OnyxApprentice",
+  "corporation_id": 1860753927,
+  "alliance_id": 1644918530,
+  "corporation_name": "Minmatar Death Squad",
+  "alliance_name": "Broken Chains Alliance"
+}

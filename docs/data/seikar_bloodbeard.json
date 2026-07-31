@@ -1,0 +1,40 @@
+{
+  "character_id": 2120658259,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115519310,
+    "name": "Xarkon Arji",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2115519310,
+      "name": "Xarkon Arji",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 392987520,
+      "name": "Beta Page",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515774978,
+      "name": "Markoh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seikar Bloodbeard",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

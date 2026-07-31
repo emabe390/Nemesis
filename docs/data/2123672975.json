@@ -1,0 +1,40 @@
+{
+  "character_id": 2123672975,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123338332,
+    "name": "fifty twone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98819994,
+    "alliance_id": null,
+    "corporation_name": "The Horizon Jurisdiction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123338332,
+      "name": "fifty twone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121174501,
+      "name": "WarmFanta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ninkasa Maskim",
+  "corporation_id": 98668149,
+  "alliance_id": 99011387,
+  "corporation_name": "Alternate Intention",
+  "alliance_name": "ZERG REBORN"
+}

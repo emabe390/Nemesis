@@ -1,0 +1,40 @@
+{
+  "character_id": 2124305881,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122847801,
+    "name": "BabyYoda 8733",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799729,
+    "alliance_id": 1900696668,
+    "corporation_name": "Splash Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2122847801,
+      "name": "BabyYoda 8733",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118758169,
+      "name": "Vennine Gina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122224606,
+      "name": "Kings-123",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scafog",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

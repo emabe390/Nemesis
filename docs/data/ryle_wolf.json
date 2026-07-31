@@ -1,0 +1,40 @@
+{
+  "character_id": 2123345448,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92556846,
+    "name": "TinkerbeI",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98739552,
+    "alliance_id": null,
+    "corporation_name": "Cosmos lil'Rascals",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92556846,
+      "name": "TinkerbeI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 490145331,
+      "name": "Aqiz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1646278653,
+      "name": "Fuzojix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ryle Wolf",
+  "corporation_id": 98747133,
+  "alliance_id": 99010240,
+  "corporation_name": "Space Monkey'z llc",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

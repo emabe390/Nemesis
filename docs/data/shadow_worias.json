@@ -1,0 +1,46 @@
+{
+  "character_id": 2123372582,
+  "total_losses": 13,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 96143629,
+      "name": "Robert xHendleyx",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95367944,
+      "name": "Lokey Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120027296,
+      "name": "Enara Sharisa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadow Worias",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

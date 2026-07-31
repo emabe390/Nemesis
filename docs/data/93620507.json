@@ -1,0 +1,40 @@
+{
+  "character_id": 93620507,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112029369,
+      "name": "Saya Ammarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baron von Blomberg",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

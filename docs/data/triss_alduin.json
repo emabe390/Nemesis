@@ -1,0 +1,40 @@
+{
+  "character_id": 91091928,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 812049218,
+    "name": "Vladimir Norkoff",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 325241964,
+    "alliance_id": 99010569,
+    "corporation_name": "Income Redistribution Service",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 857241266,
+      "name": "Exelon Bei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118222299,
+      "name": "Mark Borrigan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Triss Alduin",
+  "corporation_id": 98807654,
+  "alliance_id": null,
+  "corporation_name": "Arquebus Corp",
+  "alliance_name": null
+}

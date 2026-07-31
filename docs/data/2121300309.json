@@ -1,0 +1,40 @@
+{
+  "character_id": 2121300309,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 895203114,
+    "name": "Psyk",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 344934382,
+    "alliance_id": null,
+    "corporation_name": "Rogue Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1885133150,
+      "name": "Ynot Eyob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sturgill Rockwell",
+  "corporation_id": 98795237,
+  "alliance_id": 99009845,
+  "corporation_name": "Center For Mexican Studies",
+  "alliance_name": "Sedition."
+}

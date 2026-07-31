@@ -1,0 +1,40 @@
+{
+  "character_id": 2123372497,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121527583,
+    "name": "don't warp",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2121527583,
+      "name": "don't warp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121676163,
+      "name": "Character 2121676163",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123605072,
+      "name": "TexasOmertosa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neverland09",
+  "corporation_id": 98802243,
+  "alliance_id": null,
+  "corporation_name": "Asigned",
+  "alliance_name": null
+}

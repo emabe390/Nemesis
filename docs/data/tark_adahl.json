@@ -1,0 +1,52 @@
+{
+  "character_id": 2123829161,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1105980003,
+    "name": "WvW",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 1105980003,
+      "name": "WvW",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1762537159,
+      "name": "Elissa Swan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118758169,
+      "name": "Vennine Gina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123541264,
+      "name": "BH95h",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90199124,
+      "name": "Ariesbrand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tark Adahl",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

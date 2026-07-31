@@ -1,0 +1,40 @@
+{
+  "character_id": 2123866458,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91119149,
+    "name": "Gerski",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98724774,
+    "alliance_id": 99012369,
+    "corporation_name": "T H E . K R A K E N",
+    "alliance_name": "OUT OF THE DEEP"
+  },
+  "top_killers": [
+    {
+      "id": 91119149,
+      "name": "Gerski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123312278,
+      "name": "WarpBurger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miner Yaken",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

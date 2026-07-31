@@ -1,0 +1,52 @@
+{
+  "character_id": 2121175873,
+  "total_losses": 45,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 2121256550,
+    "name": "Obotei Motsu",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2121256550,
+      "name": "Obotei Motsu",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91156883,
+      "name": "Seb Alguswari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91161962,
+      "name": "Ringall Shaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91256825,
+      "name": "Sonic 37",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omier Binchiette",
+  "corporation_id": 772638496,
+  "alliance_id": 99006249,
+  "corporation_name": "Disaster Area",
+  "alliance_name": "DISASTER Delivery Service"
+}

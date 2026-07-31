@@ -1,0 +1,40 @@
+{
+  "character_id": 2124134616,
+  "total_losses": 26,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124126850,
+    "name": "Sofi Laurence",
+    "kill_count": 22,
+    "final_blows": 22,
+    "corporation_id": 1000044,
+    "alliance_id": null,
+    "corporation_name": "School of Applied Knowledge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124126850,
+      "name": "Sofi Laurence",
+      "kill_count": 22,
+      "final_blows": 22
+    },
+    {
+      "id": 2114900896,
+      "name": "Domian Flashlight",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120049967,
+      "name": "Undercovernuke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lea The Princess",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

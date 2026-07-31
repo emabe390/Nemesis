@@ -1,0 +1,40 @@
+{
+  "character_id": 2122198031,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113120600,
+    "name": "Danny Helmsworth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2113120600,
+      "name": "Danny Helmsworth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122977457,
+      "name": "Jace-Beleren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121315579,
+      "name": "Character 2121315579",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rowdy Nimrod",
+  "corporation_id": 98811071,
+  "alliance_id": 99014691,
+  "corporation_name": "All You Can Eat Holes",
+  "alliance_name": "All You Can"
+}

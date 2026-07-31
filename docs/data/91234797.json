@@ -1,0 +1,52 @@
+{
+  "character_id": 91234797,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93324090,
+    "name": "Kijn Kalad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98444440,
+    "alliance_id": 99015024,
+    "corporation_name": "Fly Sideways",
+    "alliance_name": "Low Class"
+  },
+  "top_killers": [
+    {
+      "id": 93324090,
+      "name": "Kijn Kalad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1859762827,
+      "name": "HagMc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93118681,
+      "name": "StefanMcCormack McCormack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95880559,
+      "name": "Max GrimFang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120474268,
+      "name": "Xan Sav",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shutan Mikakka",
+  "corporation_id": 98823719,
+  "alliance_id": 99012664,
+  "corporation_name": "Beyond the Static",
+  "alliance_name": "Recursive Horizons"
+}

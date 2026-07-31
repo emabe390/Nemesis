@@ -1,0 +1,40 @@
+{
+  "character_id": 985312470,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90222257,
+    "name": "Character 90222257",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93651418,
+      "name": "Duo Roman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97017656,
+      "name": "Bogdan Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Musico",
+  "corporation_id": 1181475407,
+  "alliance_id": null,
+  "corporation_name": "House Of Troy",
+  "alliance_name": null
+}

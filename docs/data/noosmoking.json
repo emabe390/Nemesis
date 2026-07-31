@@ -1,0 +1,40 @@
+{
+  "character_id": 100524947,
+  "total_losses": 17,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96319032,
+    "name": "Ethan Zoromir",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98806658,
+    "alliance_id": null,
+    "corporation_name": "Xelrak Enclave",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96319032,
+      "name": "Ethan Zoromir",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 96247520,
+      "name": "Haemmer Oramara",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92546881,
+      "name": "andrew Tzash",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "noosmoking",
+  "corporation_id": 98713156,
+  "alliance_id": 99012500,
+  "corporation_name": "Sunspear.",
+  "alliance_name": "The Ascendants"
+}

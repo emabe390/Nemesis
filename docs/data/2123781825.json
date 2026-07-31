@@ -1,0 +1,52 @@
+{
+  "character_id": 2123781825,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122961721,
+    "name": "pechenkakys",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822254,
+    "alliance_id": 99014664,
+    "corporation_name": "Bulka Republic",
+    "alliance_name": "Aperture Science Enterprise"
+  },
+  "top_killers": [
+    {
+      "id": 2122961721,
+      "name": "pechenkakys",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90738916,
+      "name": "Qshar Green",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94091130,
+      "name": "Burzumer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1977650210,
+      "name": "Jackson Davis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erus Andrard",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 97135153,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96393511,
+    "name": "Metronom Russ",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98502043,
+    "alliance_id": 1614483120,
+    "corporation_name": "SAPCO",
+    "alliance_name": "Bright Side of Death"
+  },
+  "top_killers": [
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112222637,
+      "name": "Alina Matruyenkom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120646800,
+      "name": "Neisseria G0n0rrhoeae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alina Matruyenko",
+  "corporation_id": 98628015,
+  "alliance_id": 99003581,
+  "corporation_name": "Hollow United Garuda",
+  "alliance_name": "Fraternity."
+}

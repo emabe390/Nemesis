@@ -1,0 +1,52 @@
+{
+  "character_id": 2124192766,
+  "total_losses": 42,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2124152353,
+    "name": "Otto Erstschlag",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98795756,
+    "alliance_id": 99011416,
+    "corporation_name": "Dark Path",
+    "alliance_name": "LinkNet"
+  },
+  "top_killers": [
+    {
+      "id": 2124152353,
+      "name": "Otto Erstschlag",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92470684,
+      "name": "Bega Hadah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94834100,
+      "name": "Ikaros Cremory",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96623225,
+      "name": "Jova Stelen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 488247946,
+      "name": "Minami Ikuta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hornen Sunji",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

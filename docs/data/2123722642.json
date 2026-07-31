@@ -1,0 +1,52 @@
+{
+  "character_id": 2123722642,
+  "total_losses": 27,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2122785190,
+    "name": "Razor8lade",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98775251,
+    "alliance_id": null,
+    "corporation_name": "Opus Dei.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 263317426,
+      "name": "Maratan",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93447971,
+      "name": "Jessie Fox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96723543,
+      "name": "Sergei Malatov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Astral Eighth",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123988800,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123556267,
+    "name": "Yasud Bathana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744491,
+    "alliance_id": 99013330,
+    "corporation_name": "URSA PRIMUS",
+    "alliance_name": "URSA."
+  },
+  "top_killers": [
+    {
+      "id": 2123556267,
+      "name": "Yasud Bathana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90526637,
+      "name": "Alex Champ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92089166,
+      "name": "Egoiste Aele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 891847798,
+      "name": "Cauldron Marr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113212229,
+      "name": "Ishikawa Cosi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Admiral Rai",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121524338,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2116337992,
+    "name": "Sol Sands",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116337992,
+      "name": "Sol Sands",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123989340,
+      "name": "Goves Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92883235,
+      "name": "Mister Ducky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93246817,
+      "name": "Jil Mabata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grano de Avena",
+  "corporation_id": 98525766,
+  "alliance_id": 99011223,
+  "corporation_name": "Vanguardia DR",
+  "alliance_name": "Sigma Grindset"
+}

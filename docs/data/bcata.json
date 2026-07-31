@@ -1,0 +1,52 @@
+{
+  "character_id": 2121572628,
+  "total_losses": 37,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 97022363,
+    "name": "Therron Krukov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97022363,
+      "name": "Therron Krukov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97114927,
+      "name": "Kiarason Davis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90403373,
+      "name": "Mikki Saissore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90429215,
+      "name": "Hektor Raskolnikov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92418259,
+      "name": "Iro Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BCata",
+  "corporation_id": 98692733,
+  "alliance_id": 99013823,
+  "corporation_name": "Mr Meows Disco Studio",
+  "alliance_name": "Cat Scratch Fevers"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123684563,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113779574,
+      "name": "Autophysian Lancer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95823863,
+      "name": "Francie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NighthawkAlt",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123536090,
+  "total_losses": 72,
+  "unique_killers": 66,
+  "nemesis": {
+    "id": 2116964688,
+    "name": "Mastic the Cator",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116964688,
+      "name": "Mastic the Cator",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123027821,
+      "name": "Kikimori",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121891480,
+      "name": "SkullyFR",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90533540,
+      "name": "Keriani Noban",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nomadic Minmatar",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

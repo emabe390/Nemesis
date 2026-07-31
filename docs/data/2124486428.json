@@ -1,0 +1,34 @@
+{
+  "character_id": 2124486428,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122589247,
+      "name": "calypso per",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stiff Collins",
+  "corporation_id": 98289471,
+  "alliance_id": 99011223,
+  "corporation_name": "Hounds Of Haides",
+  "alliance_name": "Sigma Grindset"
+}

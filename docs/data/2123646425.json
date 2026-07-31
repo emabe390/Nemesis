@@ -1,0 +1,52 @@
+{
+  "character_id": 2123646425,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93254361,
+      "name": "Joey Aele",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Governor Mack",
+  "corporation_id": 98835709,
+  "alliance_id": 99014995,
+  "corporation_name": "Amarrian Rednecks",
+  "alliance_name": "Star Fleet Union"
+}

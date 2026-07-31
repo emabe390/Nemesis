@@ -1,0 +1,40 @@
+{
+  "character_id": 2124023279,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 609879808,
+    "name": "Armid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98672446,
+    "alliance_id": 99008412,
+    "corporation_name": "Target Solution",
+    "alliance_name": "Lost and Clowned"
+  },
+  "top_killers": [
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95270508,
+      "name": "Kya Il",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119056148,
+      "name": "Sun Gon Dye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cursed By Design",
+  "corporation_id": 98259725,
+  "alliance_id": null,
+  "corporation_name": "Cacciatore Inc.",
+  "alliance_name": null
+}

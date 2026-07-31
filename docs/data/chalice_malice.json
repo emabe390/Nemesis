@@ -1,0 +1,52 @@
+{
+  "character_id": 671214409,
+  "total_losses": 77,
+  "unique_killers": 68,
+  "nemesis": {
+    "id": 91254567,
+    "name": "Norman Seversky",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91254567,
+      "name": "Norman Seversky",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1916938553,
+      "name": "Zack Armstrong",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92668441,
+      "name": "Iv d'Este",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93316564,
+      "name": "Njunja",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1845121228,
+      "name": "Phantomite",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chalice Malice",
+  "corporation_id": 1010670598,
+  "alliance_id": null,
+  "corporation_name": "Fire Mandrill",
+  "alliance_name": null
+}

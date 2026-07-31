@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321227,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91601112,
+    "name": "Teqq Cruiser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 91601112,
+      "name": "Teqq Cruiser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118758169,
+      "name": "Vennine Gina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96218049,
+      "name": "Rize Iwasawa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112697705,
+      "name": "Demmon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121195484,
+      "name": "Buttercup of Florin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kottak Farstrider",
+  "corporation_id": 98607337,
+  "alliance_id": null,
+  "corporation_name": "Fellow Travelers",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123677630,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122610576,
+    "name": "Komyta Herovato",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98656870,
+    "alliance_id": 99012019,
+    "corporation_name": "Slavic Totem",
+    "alliance_name": "Can i bring my Drake..."
+  },
+  "top_killers": [
+    {
+      "id": 2122610576,
+      "name": "Komyta Herovato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122348670,
+      "name": "Evelgene Rabos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Realidad Deformada",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

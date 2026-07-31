@@ -1,0 +1,52 @@
+{
+  "character_id": 2119441760,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92433021,
+    "name": "Elo Estemaire",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92433021,
+      "name": "Elo Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96642069,
+      "name": "Alexis Starbuck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114265636,
+      "name": "ATF-94",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115665221,
+      "name": "sATIVO Saraki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115788538,
+      "name": "Fluorite Lang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "God-K",
+  "corporation_id": 98626494,
+  "alliance_id": 99003581,
+  "corporation_name": "STARCHASER Inc",
+  "alliance_name": "Fraternity."
+}

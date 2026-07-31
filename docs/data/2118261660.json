@@ -1,0 +1,40 @@
+{
+  "character_id": 2118261660,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119825232,
+    "name": "Character 2119825232",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98721330,
+    "alliance_id": null,
+    "corporation_name": "Rapid Exploration Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119825232,
+      "name": "Character 2119825232",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91375241,
+      "name": "Regithros Raylanar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121589899,
+      "name": "Dima Osobii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tronnins",
+  "corporation_id": 98696403,
+  "alliance_id": null,
+  "corporation_name": "Tactical Scanning and Probes Deployment",
+  "alliance_name": null
+}

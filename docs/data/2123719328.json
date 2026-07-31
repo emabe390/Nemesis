@@ -1,0 +1,40 @@
+{
+  "character_id": 2123719328,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96213099,
+    "name": "Usuba Zateki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750959,
+    "alliance_id": null,
+    "corporation_name": "Usuba PVP Delivery Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96213099,
+      "name": "Usuba Zateki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121725082,
+      "name": "NE55U5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BLXB",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

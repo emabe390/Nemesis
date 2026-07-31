@@ -1,0 +1,40 @@
+{
+  "character_id": 1805099558,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117149855,
+      "name": "taclerina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124000866,
+      "name": "Roysen Jasmone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bloobird",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

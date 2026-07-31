@@ -1,0 +1,52 @@
+{
+  "character_id": 2123644341,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92180062,
+    "name": "Shilliam Watner",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96987132,
+      "name": "Zhanibek Kafshaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97058001,
+      "name": "Kane Valentine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117244013,
+      "name": "Mikael Shilliamsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117247924,
+      "name": "Hjalmar Svennsen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Billy Katagiri",
+  "corporation_id": 98825830,
+  "alliance_id": null,
+  "corporation_name": "Invictus Aeternum Trust",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124326536,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 242489909,
+    "name": "cl1de",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 242489909,
+      "name": "cl1de",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 484393809,
+      "name": "MacGybo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122180761,
+      "name": "Ms Malaise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91606701,
+      "name": "Lordee Vaille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112564598,
+      "name": "Entelligente Ente",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ragnar Anders Haldan",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

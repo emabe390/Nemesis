@@ -1,0 +1,40 @@
+{
+  "character_id": 2124366254,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92666749,
+    "name": "Balthazar Rios",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 92666749,
+      "name": "Balthazar Rios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93329161,
+      "name": "Skeld Ataru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faiton-Simbacka",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

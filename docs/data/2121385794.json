@@ -1,0 +1,40 @@
+{
+  "character_id": 2121385794,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113013879,
+    "name": "Britt Trin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98585716,
+    "alliance_id": null,
+    "corporation_name": "Snuggly Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113013879,
+      "name": "Britt Trin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113582864,
+      "name": "Aryoryus Nahrnid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114803408,
+      "name": "Boby Warm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sarah Cermail",
+  "corporation_id": 98807190,
+  "alliance_id": 99014591,
+  "corporation_name": "Strizzis",
+  "alliance_name": "Gooner Goblins"
+}

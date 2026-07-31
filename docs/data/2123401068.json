@@ -1,0 +1,52 @@
+{
+  "character_id": 2123401068,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2112269642,
+    "name": "Internet Wizard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98672155,
+    "alliance_id": 99010421,
+    "corporation_name": "Slavers Union",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2112269642,
+      "name": "Internet Wizard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116926607,
+      "name": "Cmdr Nybbas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119046916,
+      "name": "Dr4kka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122255851,
+      "name": "L Bozo 08",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yareman",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96576977,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90352186,
+      "name": "Ayuren Aakiwa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Weyland Smith",
+  "corporation_id": 98777747,
+  "alliance_id": 99002826,
+  "corporation_name": "Zero Endeavors Inc.",
+  "alliance_name": "KIA Alliance"
+}

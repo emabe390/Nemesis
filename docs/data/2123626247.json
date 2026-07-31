@@ -1,0 +1,52 @@
+{
+  "character_id": 2123626247,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2113408632,
+    "name": "pensoo box",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630398,
+    "alliance_id": 99012827,
+    "corporation_name": "White Night Dragon Ride",
+    "alliance_name": "Imperial Dragon Riders Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2113408632,
+      "name": "pensoo box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114454539,
+      "name": "Urbalist",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123626251,
+      "name": "Stefan Klotz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90700523,
+      "name": "Zaatron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90856705,
+      "name": "Bob Cork",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kurt Keule",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

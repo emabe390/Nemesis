@@ -1,0 +1,40 @@
+{
+  "character_id": 2120069618,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94593302,
+    "name": "Scotty Omerta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98473415,
+    "alliance_id": 99014341,
+    "corporation_name": "The Simorian Order",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 94593302,
+      "name": "Scotty Omerta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94970808,
+      "name": "Related K",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115806515,
+      "name": "Diablo DeFuego",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marta Acami",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

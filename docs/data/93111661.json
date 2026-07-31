@@ -1,0 +1,40 @@
+{
+  "character_id": 93111661,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113500314,
+    "name": "Maximus Hnus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113810774,
+      "name": "Levedi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Breaking Fast",
+  "corporation_id": 98766258,
+  "alliance_id": 99010321,
+  "corporation_name": "District 21 Resource Acquisition Services",
+  "alliance_name": "B.E.A.R.S."
+}

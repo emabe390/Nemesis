@@ -1,0 +1,40 @@
+{
+  "character_id": 95379857,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95003469,
+    "name": "0strog",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98676166,
+    "alliance_id": 99011973,
+    "corporation_name": "Really Power Blob.",
+    "alliance_name": "Really Power Blob. Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95003469,
+      "name": "0strog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113120481,
+      "name": "Kal Jadox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117319162,
+      "name": "Eric C Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ivan Isk",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

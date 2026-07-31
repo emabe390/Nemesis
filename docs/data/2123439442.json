@@ -1,0 +1,52 @@
+{
+  "character_id": 2123439442,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114657949,
+    "name": "Tak Litari",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98786656,
+    "alliance_id": null,
+    "corporation_name": "Astrometric Aggression",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114657949,
+      "name": "Tak Litari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123541841,
+      "name": "Inferno Nosha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112124651,
+      "name": "Mark Huunuras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116932625,
+      "name": "Kas Vortex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122138654,
+      "name": "Lima Oscar Mike",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sigur da Guerra",
+  "corporation_id": 98631060,
+  "alliance_id": 99012070,
+  "corporation_name": "Russian Space Academy",
+  "alliance_name": "PEPE SQUAD"
+}

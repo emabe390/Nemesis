@@ -1,0 +1,40 @@
+{
+  "character_id": 96693065,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96424385,
+    "name": "pel men",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98601573,
+    "alliance_id": 99013537,
+    "corporation_name": "SPACE FAMILY",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 96424385,
+      "name": "pel men",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97157890,
+      "name": "Leon Vivenosky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Demian Nardieu",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

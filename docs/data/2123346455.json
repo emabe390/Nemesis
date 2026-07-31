@@ -1,0 +1,52 @@
+{
+  "character_id": 2123346455,
+  "total_losses": 26,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121789540,
+    "name": "Empire Scumbags",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98754993,
+    "alliance_id": null,
+    "corporation_name": "Scopophobia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121789540,
+      "name": "Empire Scumbags",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2117841981,
+      "name": "Illusaria Rhodan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96243221,
+      "name": "am justa normalguy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123346455",
+  "corporation_id": 98715582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Emperor Scythes",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119952563,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117003961,
+    "name": "Dawn Johnson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796019,
+    "alliance_id": 99013884,
+    "corporation_name": "Vertex Tactical",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 2117003961,
+      "name": "Dawn Johnson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112558085,
+      "name": "Dred Roberts",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ardealescu",
+  "corporation_id": 98663247,
+  "alliance_id": 99011193,
+  "corporation_name": "ThunderStrike Corp",
+  "alliance_name": "Pewgilism."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121667856,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117370383,
+    "name": "Ronen Uitra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 2117370383,
+      "name": "Ronen Uitra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92666749,
+      "name": "Balthazar Rios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95883803,
+      "name": "Firstlife",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Flying Banuman",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

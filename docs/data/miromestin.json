@@ -1,0 +1,52 @@
+{
+  "character_id": 2123684042,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93856334,
+    "name": "Aleister Carver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 93856334,
+      "name": "Aleister Carver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120214192,
+      "name": "Another Toralen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 138582146,
+      "name": "Auronius Tiberius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120836853,
+      "name": "WITAKERR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miromestin",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

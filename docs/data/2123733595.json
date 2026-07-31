@@ -1,0 +1,46 @@
+{
+  "character_id": 2123733595,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119959114,
+      "name": "Jinx Alvarez",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121652371,
+      "name": "Are Dass",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122660403,
+      "name": "Malenia Risk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123733595",
+  "corporation_id": 98660791,
+  "alliance_id": 99010877,
+  "corporation_name": "Inner Legacy",
+  "alliance_name": "Out of the Blue."
+}

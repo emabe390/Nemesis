@@ -1,0 +1,40 @@
+{
+  "character_id": 95655140,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 640595536,
+    "name": "Avarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120466671,
+      "name": "ZZ-777",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123173792,
+      "name": "Broken Heart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gregle Jackels",
+  "corporation_id": 1234259884,
+  "alliance_id": 154104258,
+  "corporation_name": "Vesuvian Fleet",
+  "alliance_name": "Apocalypse Now."
+}

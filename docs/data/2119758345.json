@@ -1,0 +1,52 @@
+{
+  "character_id": 2119758345,
+  "total_losses": 25,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2113475822,
+    "name": "Harvey Oramara",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98806658,
+    "alliance_id": null,
+    "corporation_name": "Xelrak Enclave",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113475822,
+      "name": "Harvey Oramara",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 237911048,
+      "name": "Camar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121492327,
+      "name": "WEIyunzhao",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121695427,
+      "name": "Product Manager 001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122598836,
+      "name": "Yabuta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Echo 7",
+  "corporation_id": 98713156,
+  "alliance_id": 99012891,
+  "corporation_name": "Sunspear.",
+  "alliance_name": "Leviathan."
+}

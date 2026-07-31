@@ -1,0 +1,40 @@
+{
+  "character_id": 2123757129,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115107587,
+    "name": "Character 2115107587",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98815625,
+    "alliance_id": 99011127,
+    "corporation_name": "Speaker for the Dead",
+    "alliance_name": "Stay Feral"
+  },
+  "top_killers": [
+    {
+      "id": 2115107587,
+      "name": "Character 2115107587",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93608660,
+      "name": "Character 93608660",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yorrik-Hunt",
+  "corporation_id": 98807925,
+  "alliance_id": null,
+  "corporation_name": "Drill-And-Kill",
+  "alliance_name": null
+}

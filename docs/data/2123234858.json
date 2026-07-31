@@ -1,0 +1,46 @@
+{
+  "character_id": 2123234858,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96815299,
+    "name": "Evel Knieve",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98667813,
+    "alliance_id": null,
+    "corporation_name": "Imperium Inquisition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 775851151,
+      "name": "Krumholz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 902973613,
+      "name": "glukzero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116497140,
+      "name": "d00m r1der",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neptune VIII",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

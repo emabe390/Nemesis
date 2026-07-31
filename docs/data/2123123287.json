@@ -1,0 +1,52 @@
+{
+  "character_id": 2123123287,
+  "total_losses": 22,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2121365255,
+    "name": "Angher Boirelle",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98777162,
+    "alliance_id": 1354830081,
+    "corporation_name": "TRIGLAVIAN EXECUYIR",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121365255,
+      "name": "Angher Boirelle",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2114002659,
+      "name": "Choice Of Fate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115176524,
+      "name": "Nessu One",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "cp1919810",
+  "corporation_id": 98777162,
+  "alliance_id": 1354830081,
+  "corporation_name": "TRIGLAVIAN EXECUYIR",
+  "alliance_name": "Goonswarm Federation"
+}

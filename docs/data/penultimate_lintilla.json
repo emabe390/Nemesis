@@ -1,0 +1,40 @@
+{
+  "character_id": 2122053307,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94787728,
+    "name": "capo Ridolfo",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98795819,
+    "alliance_id": 1900696668,
+    "corporation_name": "Solos Nexus",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 94787728,
+      "name": "capo Ridolfo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90564066,
+      "name": "Lintilla Allitnil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92977896,
+      "name": "AfterGod Seer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Penultimate Lintilla",
+  "corporation_id": 98730812,
+  "alliance_id": 99011206,
+  "corporation_name": "Fungeon Industries",
+  "alliance_name": "APOC Fleet Auxiliary"
+}

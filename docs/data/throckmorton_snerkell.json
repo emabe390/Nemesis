@@ -1,0 +1,52 @@
+{
+  "character_id": 2116543654,
+  "total_losses": 74,
+  "unique_killers": 50,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92304254,
+      "name": "Aleks Ohmiras",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 671625259,
+      "name": "ZigZagMan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Throckmorton Snerkell",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

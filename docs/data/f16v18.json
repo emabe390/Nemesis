@@ -1,0 +1,52 @@
+{
+  "character_id": 2123076307,
+  "total_losses": 48,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2123329346,
+    "name": "Kartofeltrader",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98615046,
+    "alliance_id": null,
+    "corporation_name": "KarmaFleet University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123329346,
+      "name": "Kartofeltrader",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92198971,
+      "name": "Colin McFry",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95132663,
+      "name": "Sinistra Nanaki",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "f16v18",
+  "corporation_id": 98144843,
+  "alliance_id": null,
+  "corporation_name": "Leucite",
+  "alliance_name": null
+}

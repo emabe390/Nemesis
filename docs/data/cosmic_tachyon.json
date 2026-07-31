@@ -1,0 +1,40 @@
+{
+  "character_id": 2123895219,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123345873,
+      "name": "Character 2123345873",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cosmic-Tachyon",
+  "corporation_id": 98637550,
+  "alliance_id": null,
+  "corporation_name": "Cosmic Tachyon Technology",
+  "alliance_name": null
+}

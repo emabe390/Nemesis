@@ -1,0 +1,40 @@
+{
+  "character_id": 2123644938,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 952615377,
+    "name": "kashaiBR",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98028546,
+    "alliance_id": 99003214,
+    "corporation_name": "Forcas armadas",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 952615377,
+      "name": "kashaiBR",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 778315873,
+      "name": "Kloria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116941046,
+      "name": "Ermintrude Viliana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ageidams",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

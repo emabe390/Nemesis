@@ -1,0 +1,52 @@
+{
+  "character_id": 2123241962,
+  "total_losses": 14,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123815319,
+    "name": "Akkre-Ten",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98811855,
+    "alliance_id": null,
+    "corporation_name": "StinkeZwergs Buddys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123815319,
+      "name": "Akkre-Ten",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93998571,
+      "name": "Ro Fenrios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92146600,
+      "name": "Tim Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1923705826,
+      "name": "Duetron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Graf Conrad Curz",
+  "corporation_id": 98682508,
+  "alliance_id": 99012018,
+  "corporation_name": "EDENCOM Section 7",
+  "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 91982959,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91254567,
+    "name": "Norman Seversky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91254567,
+      "name": "Norman Seversky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 705943331,
+      "name": "woRt HoG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 232400017,
+      "name": "Dimna Khaarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 747907447,
+      "name": "Drew Atlasxtype",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lizeth Yvor",
+  "corporation_id": 98411227,
+  "alliance_id": 99010597,
+  "corporation_name": "Hideaway Hunters",
+  "alliance_name": "The Hideaway."
+}

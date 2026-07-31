@@ -1,0 +1,52 @@
+{
+  "character_id": 2123902407,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120340275,
+    "name": "HeavyTree",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790733,
+    "alliance_id": null,
+    "corporation_name": "Heavy's Slaves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117381670,
+      "name": "Newbie LV",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121475667,
+      "name": "Yollicio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121801051,
+      "name": "Sl1mJ1m",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123858288,
+      "name": "Shakiel Ahs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DawnDream",
+  "corporation_id": 98525262,
+  "alliance_id": 99003581,
+  "corporation_name": "Liberal heavy cavalry",
+  "alliance_name": "Fraternity."
+}

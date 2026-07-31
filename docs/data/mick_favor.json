@@ -1,0 +1,40 @@
+{
+  "character_id": 2117111214,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95779000,
+    "name": "Dwark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594202,
+    "alliance_id": 99010457,
+    "corporation_name": "Harmonist",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95779000,
+      "name": "Dwark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93265856,
+      "name": "Night Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95612313,
+      "name": "XCuseMeMadam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mick Favor",
+  "corporation_id": 98611983,
+  "alliance_id": 99004344,
+  "corporation_name": "SecOps Matter",
+  "alliance_name": "Hole Control"
+}

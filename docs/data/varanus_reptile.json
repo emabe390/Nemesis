@@ -1,0 +1,52 @@
+{
+  "character_id": 2123310130,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121161341,
+    "name": "metrox77",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98818355,
+    "alliance_id": 99013766,
+    "corporation_name": "Capys Legion",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121161341,
+      "name": "metrox77",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115761730,
+      "name": "Chuave Subelza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112942219,
+      "name": "MajorasVII Semah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124089172,
+      "name": "Regem Occidere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varanus Reptile",
+  "corporation_id": 98765611,
+  "alliance_id": 99013092,
+  "corporation_name": "Spectre Geese",
+  "alliance_name": "Spectre Flock"
+}

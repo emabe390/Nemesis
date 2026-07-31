@@ -1,0 +1,40 @@
+{
+  "character_id": 2123012999,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 272405573,
+    "name": "Tukuarikan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 763838205,
+    "alliance_id": null,
+    "corporation_name": "Appetite 4 Destruction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 272405573,
+      "name": "Tukuarikan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116458362,
+      "name": "Mlala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118146380,
+      "name": "NaRad Dad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ninja Bozo 06",
+  "corporation_id": 98791996,
+  "alliance_id": 99014284,
+  "corporation_name": "Ninjas School For Kids Who Cant Bomb Good",
+  "alliance_name": "7.62"
+}

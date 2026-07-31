@@ -1,0 +1,52 @@
+{
+  "character_id": 2122304562,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95141153,
+    "name": "Jarvis Aurelius",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 475430891,
+      "name": "Character 475430891",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94868616,
+      "name": "BigJoshua",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112418201,
+      "name": "Milton Seeley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116886824,
+      "name": "Aaron Roos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Althea Hurtini",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

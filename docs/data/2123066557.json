@@ -1,0 +1,40 @@
+{
+  "character_id": 2123066557,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94971120,
+    "name": "Daniel Corsairs",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98407753,
+    "alliance_id": 99014161,
+    "corporation_name": "Void Corsairs Inc.",
+    "alliance_name": "Zombie Ninja Space Bears"
+  },
+  "top_killers": [
+    {
+      "id": 94971120,
+      "name": "Daniel Corsairs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115757745,
+      "name": "Amrakqi Arangay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123066564,
+      "name": "Marquis Xan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marquis Yan",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

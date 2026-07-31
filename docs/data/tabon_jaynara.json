@@ -1,0 +1,40 @@
+{
+  "character_id": 2124451210,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1865272548,
+    "name": "Geodossi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98350364,
+    "alliance_id": null,
+    "corporation_name": "Sungrazers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1865272548,
+      "name": "Geodossi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114966462,
+      "name": "Fiiona Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117487427,
+      "name": "Dosille Cleyn Pareleru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tabon Jaynara",
+  "corporation_id": 98835499,
+  "alliance_id": null,
+  "corporation_name": "Wormlife Liberation Force United",
+  "alliance_name": null
+}

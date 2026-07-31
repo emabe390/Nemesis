@@ -1,0 +1,40 @@
+{
+  "character_id": 2121045938,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 517826599,
+    "name": "Soul Pahan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98089975,
+    "alliance_id": 99005034,
+    "corporation_name": "ANCIENT SYNDICATE",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 517826599,
+      "name": "Soul Pahan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95391100,
+      "name": "Camulus Ghasha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95795956,
+      "name": "Chichi Ivanova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MIMIR Seven",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

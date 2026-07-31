@@ -1,0 +1,52 @@
+{
+  "character_id": 2123683016,
+  "total_losses": 32,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2122751283,
+    "name": "Caleeen",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98810872,
+    "alliance_id": null,
+    "corporation_name": "Caleeris",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 96211030,
+      "name": "Aamp Kira",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2121697723,
+      "name": "LewsTherinTelamon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91393718,
+      "name": "Seika Skramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91695574,
+      "name": "Interwebz Copernicus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atrophic",
+  "corporation_id": 98811318,
+  "alliance_id": null,
+  "corporation_name": "Slipstream Horizons",
+  "alliance_name": null
+}

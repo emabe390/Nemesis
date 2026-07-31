@@ -1,0 +1,52 @@
+{
+  "character_id": 2123475606,
+  "total_losses": 81,
+  "unique_killers": 61,
+  "nemesis": {
+    "id": 91317372,
+    "name": "Vayne Larsa",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98829369,
+    "alliance_id": null,
+    "corporation_name": "Bloody Smile",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90934350,
+      "name": "VIsus IronFox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92218393,
+      "name": "Morgan Lacerda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95630568,
+      "name": "John LiWang",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Elena Gilbert III",
+  "corporation_id": 230445889,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mindstar Technology",
+  "alliance_name": "Goonswarm Federation"
+}

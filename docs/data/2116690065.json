@@ -1,0 +1,52 @@
+{
+  "character_id": 2116690065,
+  "total_losses": 33,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 1192491827,
+    "name": "Suitonia",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98718357,
+    "alliance_id": null,
+    "corporation_name": "Order of the Red Kestrel",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1192491827,
+      "name": "Suitonia",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121807973,
+      "name": "Liz Zoe",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91785706,
+      "name": "Kuruk Arnook",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96570738,
+      "name": "Chad Flame",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1363441224,
+      "name": "Fenris Colt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Saturn Sacred",
+  "corporation_id": 98662137,
+  "alliance_id": null,
+  "corporation_name": "Sacred Legend Mining Corporation",
+  "alliance_name": null
+}

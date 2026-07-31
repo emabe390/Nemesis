@@ -1,0 +1,52 @@
+{
+  "character_id": 2123994793,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123762294,
+    "name": "Lumina25",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123762294,
+      "name": "Lumina25",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96172084,
+      "name": "Xenon Aspirse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 775851151,
+      "name": "Krumholz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 888587438,
+      "name": "Vargo17b",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112650453,
+      "name": "DromethiusAI rubicon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mike Aevron",
+  "corporation_id": 98663709,
+  "alliance_id": null,
+  "corporation_name": "2012 Says Hi",
+  "alliance_name": null
+}

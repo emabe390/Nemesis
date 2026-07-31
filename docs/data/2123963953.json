@@ -1,0 +1,52 @@
+{
+  "character_id": 2123963953,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 95068538,
+    "name": "Carlos Bandolier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451057,
+    "alliance_id": 99014193,
+    "corporation_name": "Fibonacci Futures",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 945697769,
+      "name": "Character 945697769",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91628341,
+      "name": "Cat Berry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91809545,
+      "name": "Holly Kleric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vincent Ryan Becker",
+  "corporation_id": 98819427,
+  "alliance_id": null,
+  "corporation_name": "Phoenix Frontier Consortium",
+  "alliance_name": null
+}

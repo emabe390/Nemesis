@@ -1,0 +1,52 @@
+{
+  "character_id": 2123470014,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1432724316,
+    "name": "Idryn Obric",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 278034578,
+    "alliance_id": null,
+    "corporation_name": "Digital Fury Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1432724316,
+      "name": "Idryn Obric",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92887285,
+      "name": "yokozunacz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114405561,
+      "name": "Sigurd Rudr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116815965,
+      "name": "Wigand Gunnarson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123015067,
+      "name": "Shattered Ring",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RING5",
+  "corporation_id": 98748388,
+  "alliance_id": null,
+  "corporation_name": "Embers Ad Infinitum",
+  "alliance_name": null
+}

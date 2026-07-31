@@ -1,0 +1,40 @@
+{
+  "character_id": 2124104456,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112271320,
+    "name": "Dante Custer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112271320,
+      "name": "Dante Custer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116716343,
+      "name": "Empowered BlackWoman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amraki",
+  "corporation_id": 98804373,
+  "alliance_id": null,
+  "corporation_name": "Lumen Aeternum Ex Astris",
+  "alliance_name": null
+}

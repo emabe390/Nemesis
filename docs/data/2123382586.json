@@ -1,0 +1,52 @@
+{
+  "character_id": 2123382586,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 295303607,
+    "name": "Character 295303607",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98722042,
+    "alliance_id": null,
+    "corporation_name": "Digital Ghosts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121820540,
+      "name": "munsking003",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146528804,
+      "name": "Andri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 282415299,
+      "name": "OttoVonKatz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115031715,
+      "name": "ban Usoko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gilat Namor",
+  "corporation_id": 98767134,
+  "alliance_id": 99013502,
+  "corporation_name": "ETBL Industries",
+  "alliance_name": "Itty Bitty Asteroid Committee"
+}

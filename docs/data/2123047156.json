@@ -1,0 +1,40 @@
+{
+  "character_id": 2123047156,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119352858,
+    "name": "Sirko Xors",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2119352858,
+      "name": "Sirko Xors",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120069895,
+      "name": "3 Of Several",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121037550,
+      "name": "Epoxy Pudding",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morgan Ravenstar",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

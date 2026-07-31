@@ -1,0 +1,52 @@
+{
+  "character_id": 1897362024,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2117669210,
+    "name": "Dorben Kalas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98652228,
+    "alliance_id": 99003214,
+    "corporation_name": "Space Hamsters CZ SK",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2117669210,
+      "name": "Dorben Kalas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90664774,
+      "name": "Paul Rem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92296184,
+      "name": "Misha Sily",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96321861,
+      "name": "Grie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1685853583,
+      "name": "Cameron22",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CosmoDriver",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

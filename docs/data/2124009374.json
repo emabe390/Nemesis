@@ -1,0 +1,40 @@
+{
+  "character_id": 2124009374,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113586232,
+    "name": "Sister Clocks",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98591829,
+    "alliance_id": 99012042,
+    "corporation_name": "Cyber Collapse.",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 2113586232,
+      "name": "Sister Clocks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119635638,
+      "name": "Speedy Billy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124009374,
+      "name": "Too Sharp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Too Sharp",
+  "corporation_id": 98824965,
+  "alliance_id": 99010240,
+  "corporation_name": "Aurelion Frame",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

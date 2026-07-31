@@ -1,0 +1,40 @@
+{
+  "character_id": 2122829722,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123504388,
+    "name": "VVEK",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98836422,
+    "alliance_id": null,
+    "corporation_name": "VVEK Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123504388,
+      "name": "VVEK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118250350,
+      "name": "TsunamiXoX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124043213,
+      "name": "Cato Starridere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sugner Leusten",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

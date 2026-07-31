@@ -1,0 +1,52 @@
+{
+  "character_id": 2123634556,
+  "total_losses": 20,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1285785033,
+    "name": "Pirogronium",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98088416,
+    "alliance_id": 99006750,
+    "corporation_name": "Bean-shidh",
+    "alliance_name": "The Nameless Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1285785033,
+      "name": "Pirogronium",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 114397553,
+      "name": "Daniel Grim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1001591785,
+      "name": "RoscoUK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113775126,
+      "name": "Quantum DarkMatter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121367043,
+      "name": "KrustyRusty1",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Commander Zerak Skorne",
+  "corporation_id": 98817697,
+  "alliance_id": 99011279,
+  "corporation_name": "Night Workers",
+  "alliance_name": "Naval Defence Alliance"
+}

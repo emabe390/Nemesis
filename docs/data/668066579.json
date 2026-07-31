@@ -1,0 +1,52 @@
+{
+  "character_id": 668066579,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90832792,
+      "name": "Fusada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 788926772,
+      "name": "Maetan Vagn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2083443837,
+      "name": "Kugga'r",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115112220,
+      "name": "Elena Held",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DEV0STAT0R",
+  "corporation_id": 98350512,
+  "alliance_id": 99007203,
+  "corporation_name": "The Serious Business",
+  "alliance_name": "Siberian Squads"
+}

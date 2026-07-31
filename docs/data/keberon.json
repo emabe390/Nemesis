@@ -1,0 +1,52 @@
+{
+  "character_id": 1430535646,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92248620,
+    "name": "Brother Zebediah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92248620,
+      "name": "Brother Zebediah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95368011,
+      "name": "solo fleet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117470403,
+      "name": "Devar-Toi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keberon",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

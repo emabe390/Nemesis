@@ -1,0 +1,40 @@
+{
+  "character_id": 2118977433,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93456181,
+    "name": "Eikin Skjald",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831045,
+    "alliance_id": 99012982,
+    "corporation_name": "Irradiated",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 93456181,
+      "name": "Eikin Skjald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121423114,
+      "name": "Yarl Phoenix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123553253,
+      "name": "John Milne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Black-Hawk",
+  "corporation_id": 98804852,
+  "alliance_id": 99014101,
+  "corporation_name": "Blackstar Foundries",
+  "alliance_name": "Reckless Empire"
+}

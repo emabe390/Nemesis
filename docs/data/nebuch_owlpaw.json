@@ -1,0 +1,40 @@
+{
+  "character_id": 2115421269,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115180373,
+    "name": "Liza Podlizza",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98746138,
+    "alliance_id": null,
+    "corporation_name": "One Plus Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115180373,
+      "name": "Liza Podlizza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113987818,
+      "name": "Shinobu Re",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124058308,
+      "name": "Voidborn Specter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nebuch Owlpaw",
+  "corporation_id": 98809547,
+  "alliance_id": null,
+  "corporation_name": "Wings of Rust",
+  "alliance_name": null
+}

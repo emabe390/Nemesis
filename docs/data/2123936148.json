@@ -1,0 +1,52 @@
+{
+  "character_id": 2123936148,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123908183,
+    "name": "LingHai",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98749162,
+    "alliance_id": 99009163,
+    "corporation_name": "De Vliegende Hollander.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123908183,
+      "name": "LingHai",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1486007602,
+      "name": "Maximas Deridian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112478988,
+      "name": "Katsume",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117825129,
+      "name": "Mecha Omnissiah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123936153,
+      "name": "Character 2123936153",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123936148",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

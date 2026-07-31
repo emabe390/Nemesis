@@ -1,0 +1,46 @@
+{
+  "character_id": 2123430454,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112340943,
+    "name": "Milenium",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112340943,
+      "name": "Milenium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114881733,
+      "name": "xiang yi Dave",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90106951,
+      "name": "Kiijo Ho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91737658,
+      "name": "Omek Scarsdale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Barakeer Anstian",
+  "corporation_id": 98814441,
+  "alliance_id": 1042504553,
+  "corporation_name": "Infinite Directive",
+  "alliance_name": "Solyaris Chtonium"
+}

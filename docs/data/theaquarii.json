@@ -1,0 +1,40 @@
+{
+  "character_id": 2123922211,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123388006,
+    "name": "MadNick",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98824437,
+    "alliance_id": 99003285,
+    "corporation_name": "Space Tramps of New Eden",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2123388006,
+      "name": "MadNick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1832120163,
+      "name": "Sly Jr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121126192,
+      "name": "M42T",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheAquarii",
+  "corporation_id": 98818717,
+  "alliance_id": null,
+  "corporation_name": "Scrapheap Junkies",
+  "alliance_name": null
+}

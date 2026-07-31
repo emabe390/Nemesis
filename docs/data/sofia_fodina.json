@@ -1,0 +1,52 @@
+{
+  "character_id": 2124026664,
+  "total_losses": 21,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 512051360,
+      "name": "bryanbc",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92223941,
+      "name": "Kormik Deldaine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sofia Fodina",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

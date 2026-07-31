@@ -1,0 +1,52 @@
+{
+  "character_id": 2123568818,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 912054032,
+    "name": "The Aggressor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 912054032,
+      "name": "The Aggressor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 986110931,
+      "name": "Daressek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90907107,
+      "name": "Ariadne Nestea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91092533,
+      "name": "Hussain Al-Zaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92153304,
+      "name": "Ambitions Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carsha",
+  "corporation_id": 98782672,
+  "alliance_id": 99003006,
+  "corporation_name": "The rebellious rebel",
+  "alliance_name": "Brothers of Tangra"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119483210,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91427841,
+    "name": "Davion Dragonfall",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 91427841,
+      "name": "Davion Dragonfall",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92854657,
+      "name": "Sundrota Sunder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93217177,
+      "name": "Telli Isk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ilmur Attor",
+  "corporation_id": 98820741,
+  "alliance_id": 99014711,
+  "corporation_name": "Nightforge Voidworks",
+  "alliance_name": "Forge Eternal"
+}

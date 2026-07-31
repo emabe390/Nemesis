@@ -1,0 +1,34 @@
+{
+  "character_id": 2123063147,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113049548,
+    "name": "Eric Venture",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783587,
+    "alliance_id": 99014595,
+    "corporation_name": "A Rough Idea.",
+    "alliance_name": "No Clue."
+  },
+  "top_killers": [
+    {
+      "id": 2113049548,
+      "name": "Eric Venture",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124367469,
+      "name": "Cernoshi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Janine Li",
+  "corporation_id": 98711360,
+  "alliance_id": null,
+  "corporation_name": "Peralta Inc",
+  "alliance_name": null
+}

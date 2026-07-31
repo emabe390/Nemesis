@@ -1,0 +1,40 @@
+{
+  "character_id": 2123018829,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90976235,
+    "name": "pos Skord",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000049,
+    "alliance_id": null,
+    "corporation_name": "Brutor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90976235,
+      "name": "pos Skord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91760414,
+      "name": "Freya Alabel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117938949,
+      "name": "Charmaan Rand-Feng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Naphtha Pava",
+  "corporation_id": 98637389,
+  "alliance_id": null,
+  "corporation_name": "Knights of Zeon",
+  "alliance_name": null
+}

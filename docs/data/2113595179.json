@@ -1,0 +1,40 @@
+{
+  "character_id": 2113595179,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2051916136,
+    "name": "mellifera",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98077648,
+    "alliance_id": 99014878,
+    "corporation_name": "Island Assault Force",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2051916136,
+      "name": "mellifera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91194792,
+      "name": "Baratoz Erata",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121679866,
+      "name": "River Pixies",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GuyTerror Beddelver",
+  "corporation_id": 98787023,
+  "alliance_id": 99013747,
+  "corporation_name": "Nova Prospect Enterprises",
+  "alliance_name": "Missile Militia"
+}

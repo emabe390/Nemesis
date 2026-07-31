@@ -1,0 +1,40 @@
+{
+  "character_id": 2120522048,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93909577,
+    "name": "Praxx Estemaire",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1998288402,
+    "alliance_id": 1900696668,
+    "corporation_name": "First Legion",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93909577,
+      "name": "Praxx Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1383451942,
+      "name": "Sgt Turok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124264412,
+      "name": "Urlur Tian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Horde Spy",
+  "corporation_id": 98673653,
+  "alliance_id": null,
+  "corporation_name": "Little Nightmares",
+  "alliance_name": null
+}

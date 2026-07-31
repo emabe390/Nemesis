@@ -1,0 +1,46 @@
+{
+  "character_id": 2124273968,
+  "total_losses": 21,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1062354749,
+    "name": "DeltaTwo",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98776703,
+    "alliance_id": 99013799,
+    "corporation_name": "Isolated Oasis",
+    "alliance_name": "Independent Enclave"
+  },
+  "top_killers": [
+    {
+      "id": 1062354749,
+      "name": "DeltaTwo",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2124229378,
+      "name": "Toward Claw",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124301305,
+      "name": "Shugsy Dino",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117366973,
+      "name": "CapnRat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "lonaria",
+  "corporation_id": 98776703,
+  "alliance_id": 99013799,
+  "corporation_name": "Isolated Oasis",
+  "alliance_name": "Independent Enclave"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 268488758,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112337597,
+    "name": "Character 2112337597",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98830650,
+    "alliance_id": null,
+    "corporation_name": "Gistii Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112337597,
+      "name": "Character 2112337597",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91601112,
+      "name": "Teqq Cruiser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92956893,
+      "name": "Iwata s",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 434989723,
+      "name": "Afric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Red Radian",
+  "corporation_id": 98185698,
+  "alliance_id": 99004567,
+  "corporation_name": "Trillium Invariant",
+  "alliance_name": "Honorable Third Party"
+}

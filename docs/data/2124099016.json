@@ -1,0 +1,52 @@
+{
+  "character_id": 2124099016,
+  "total_losses": 142,
+  "unique_killers": 102,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92338468,
+      "name": "BillusKillus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1227055492,
+      "name": "Rathin",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Fatloer",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

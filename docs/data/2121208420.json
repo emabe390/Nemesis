@@ -1,0 +1,52 @@
+{
+  "character_id": 2121208420,
+  "total_losses": 15,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93734952,
+      "name": "Frost Alari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94144502,
+      "name": "Nasty Person",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95348551,
+      "name": "TeachKal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96304094,
+      "name": "Caitlin Viliana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mira9e",
+  "corporation_id": 98550682,
+  "alliance_id": 99003581,
+  "corporation_name": "Stardust-Guardian",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123477935,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 2
+    },
+    {
+      "id": 2112306189,
+      "name": "Jadeen Korr Korr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121366978,
+      "name": "Hillbilly-6000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121807973,
+      "name": "Liz Zoe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ellamel Brinalle",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

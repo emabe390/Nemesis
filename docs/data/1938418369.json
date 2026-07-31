@@ -1,0 +1,40 @@
+{
+  "character_id": 1938418369,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116517717,
+    "name": "Wolf Stormcaller",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 2116517717,
+      "name": "Wolf Stormcaller",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112665657,
+      "name": "Strelok Holmes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stauner",
+  "corporation_id": 98813870,
+  "alliance_id": null,
+  "corporation_name": "Alterior Horizons",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904407,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123732937,
+    "name": "Character 2123732937",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98830225,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Silver Wing Holding",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123732937,
+      "name": "Character 2123732937",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115046375,
+      "name": "Firebon Orlenard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123907745,
+      "name": "TheDesperateTrader",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 725386886,
+      "name": "Alekseyev Karrde",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122895427,
+      "name": "Adohre",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The2ndMechantofJita",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

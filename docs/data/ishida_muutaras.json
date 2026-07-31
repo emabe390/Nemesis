@@ -1,0 +1,34 @@
+{
+  "character_id": 2124221666,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1342077492,
+    "name": "Character 1342077492",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98337432,
+    "alliance_id": null,
+    "corporation_name": "Inheritance Cycle",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1342077492,
+      "name": "Character 1342077492",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishida Muutaras",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

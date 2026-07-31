@@ -1,0 +1,46 @@
+{
+  "character_id": 2123270908,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 138302040,
+    "name": "Captain Slackbladder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1326553713,
+      "name": "Buzz Tard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zielmarker",
+  "corporation_id": 98835989,
+  "alliance_id": 99014081,
+  "corporation_name": "PINK-Production and Logistic Service",
+  "alliance_name": "Synergy of Support"
+}

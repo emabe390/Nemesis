@@ -1,0 +1,40 @@
+{
+  "character_id": 2123179275,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120471651,
+    "name": "SilverVanilla",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755298,
+    "alliance_id": 1727758877,
+    "corporation_name": "Fox of Resistance",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 2120471651,
+      "name": "SilverVanilla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121591974,
+      "name": "Gigabin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "broken-branch02",
+  "corporation_id": 98805340,
+  "alliance_id": null,
+  "corporation_name": "DUZI250",
+  "alliance_name": null
+}

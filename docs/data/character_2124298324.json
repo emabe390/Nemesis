@@ -1,0 +1,52 @@
+{
+  "character_id": 2124298324,
+  "total_losses": 34,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 711226775,
+    "name": "Liquid Sifer",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98820420,
+    "alliance_id": null,
+    "corporation_name": "Control Group",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 711226775,
+      "name": "Liquid Sifer",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 917321728,
+      "name": "Ender James",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2114912722,
+      "name": "Tonic Gin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1822052106,
+      "name": "Commander Azzag",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2124298324",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

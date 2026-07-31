@@ -1,0 +1,52 @@
+{
+  "character_id": 2124353023,
+  "total_losses": 30,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2118118047,
+    "name": "Leyo Desp",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98654305,
+    "alliance_id": null,
+    "corporation_name": "Trident Alpha",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94540873,
+      "name": "Inonization Metal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ozaz",
+  "corporation_id": 98500968,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cuervos Imperiales",
+  "alliance_name": "Goonswarm Federation"
+}

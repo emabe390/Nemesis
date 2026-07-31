@@ -1,0 +1,40 @@
+{
+  "character_id": 2122861989,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1110036237,
+    "name": "Una Zuming",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98753041,
+    "alliance_id": 99011223,
+    "corporation_name": "Mostly Cap Stable",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 1110036237,
+      "name": "Una Zuming",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122169243,
+      "name": "Robbb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123127533,
+      "name": "Character 2123127533",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sinat Jr",
+  "corporation_id": 98787844,
+  "alliance_id": null,
+  "corporation_name": "Wolves within",
+  "alliance_name": null
+}

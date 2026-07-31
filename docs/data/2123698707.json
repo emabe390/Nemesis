@@ -1,0 +1,40 @@
+{
+  "character_id": 2123698707,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96707175,
+    "name": "Octavia Septimus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98720096,
+    "alliance_id": 99012019,
+    "corporation_name": "RUNA CORP",
+    "alliance_name": "Can i bring my Drake..."
+  },
+  "top_killers": [
+    {
+      "id": 96707175,
+      "name": "Octavia Septimus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 889556619,
+      "name": "Ava Baby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123192010,
+      "name": "Gnarly Gimli",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brynja Hrafn",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

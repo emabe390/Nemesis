@@ -1,0 +1,40 @@
+{
+  "character_id": 96123730,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115883529,
+      "name": "mine grande",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117940306,
+      "name": "Welchs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arctus Nuavula",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

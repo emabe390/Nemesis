@@ -1,0 +1,52 @@
+{
+  "character_id": 1080567367,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120256848,
+    "name": "Kirtu Nashk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720107,
+    "alliance_id": null,
+    "corporation_name": "Mystic Spectrum",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120256848,
+      "name": "Kirtu Nashk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90100519,
+      "name": "Mighty Bk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112253086,
+      "name": "Marlborow Hosay-Bay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116792796,
+      "name": "OpsGreen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ShadowKnight2",
+  "corporation_id": 98826309,
+  "alliance_id": 99014284,
+  "corporation_name": "ORK War Party",
+  "alliance_name": "7.62"
+}

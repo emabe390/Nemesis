@@ -1,0 +1,52 @@
+{
+  "character_id": 2123662434,
+  "total_losses": 22,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 91455988,
+    "name": "Barkura Kane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 528258379,
+      "name": "Vogels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 912291025,
+      "name": "Faye Tirea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116947057,
+      "name": "Znaxar Lemmont",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117282870,
+      "name": "Jackey Fang",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ol'Dirt McGirt",
+  "corporation_id": 98761471,
+  "alliance_id": 99013637,
+  "corporation_name": "2 Days to Mine",
+  "alliance_name": "The Worst Alliance"
+}

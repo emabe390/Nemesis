@@ -1,0 +1,40 @@
+{
+  "character_id": 2113148985,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113237500,
+    "name": "EmperorVeles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98772776,
+    "alliance_id": 99013846,
+    "corporation_name": "Totality Squad",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93112952,
+      "name": "Character 93112952",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113813883,
+      "name": "AlDar Zamayid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kari Ataru",
+  "corporation_id": 98789228,
+  "alliance_id": 99004344,
+  "corporation_name": "Sleepless Watchmen",
+  "alliance_name": "Hole Control"
+}

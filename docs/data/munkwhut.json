@@ -1,0 +1,52 @@
+{
+  "character_id": 1238901621,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 293907879,
+    "name": "Rikeka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480050,
+    "alliance_id": 1900696668,
+    "corporation_name": "Fancypants Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 293907879,
+      "name": "Rikeka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121875740,
+      "name": "Gerard98",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90635307,
+      "name": "Mr. Burke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91519196,
+      "name": "Karlote",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Munkwhut",
+  "corporation_id": 98315666,
+  "alliance_id": 1354830081,
+  "corporation_name": "The Night Watchmen",
+  "alliance_name": "Goonswarm Federation"
+}

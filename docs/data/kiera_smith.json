@@ -1,0 +1,52 @@
+{
+  "character_id": 2123269534,
+  "total_losses": 28,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1202859987,
+    "name": "Lai Menn",
+    "kill_count": 18,
+    "final_blows": 18,
+    "corporation_id": 98812470,
+    "alliance_id": null,
+    "corporation_name": "Moonways Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1202859987,
+      "name": "Lai Menn",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 1449928021,
+      "name": "Yakumo Chidori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113471075,
+      "name": "FrozenHam Thiesant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118231323,
+      "name": "IndyPowerPla 3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kiera Smith",
+  "corporation_id": 635210548,
+  "alliance_id": 99003581,
+  "corporation_name": "Fusion Enterprises Ltd",
+  "alliance_name": "Fraternity."
+}

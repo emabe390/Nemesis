@@ -1,0 +1,40 @@
+{
+  "character_id": 96485684,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92220713,
+    "name": "Wei Hunng",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98648361,
+    "alliance_id": 1354830081,
+    "corporation_name": "Deadspace Excavations",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92220713,
+      "name": "Wei Hunng",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 212320596,
+      "name": "EvilDoomer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117689840,
+      "name": "Anohkan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DMMB Moreno",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

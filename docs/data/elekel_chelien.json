@@ -1,0 +1,34 @@
+{
+  "character_id": 2123901815,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121195895,
+    "name": "Cailin Dioltas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789668,
+    "alliance_id": 99013790,
+    "corporation_name": "Documenting",
+    "alliance_name": "Just Documenting"
+  },
+  "top_killers": [
+    {
+      "id": 2121195895,
+      "name": "Cailin Dioltas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120037091,
+      "name": "TestoSlaine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elekel Chelien",
+  "corporation_id": 98811142,
+  "alliance_id": 99009991,
+  "corporation_name": "Hammer and Sickle Factory Co",
+  "alliance_name": "Intaki-Business Logistics Union"
+}

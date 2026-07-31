@@ -1,0 +1,52 @@
+{
+  "character_id": 2123789710,
+  "total_losses": 30,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1020130539,
+      "name": "White Drop",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1242962572,
+      "name": "BoomBangGone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119411817,
+      "name": "Liliana Nideah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123388006,
+      "name": "MadNick",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "KoLit",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2113064487,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1511492146,
+    "name": "Thom Grimmar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1511492146,
+      "name": "Thom Grimmar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2124042491,
+      "name": "HE BXIIIHUK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Bliden",
+  "corporation_id": 98788012,
+  "alliance_id": 99013690,
+  "corporation_name": "The Edge of Heretics",
+  "alliance_name": "Critical. Mass."
+}

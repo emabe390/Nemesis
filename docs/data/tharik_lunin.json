@@ -1,0 +1,40 @@
+{
+  "character_id": 2118374115,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122234314,
+    "name": "Brian Pigeon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808856,
+    "alliance_id": 99012940,
+    "corporation_name": "WelpDriveActive",
+    "alliance_name": "Meta Reloaded"
+  },
+  "top_killers": [
+    {
+      "id": 2122234314,
+      "name": "Brian Pigeon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 792279671,
+      "name": "Ezekial Haven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1033212109,
+      "name": "BC Hastings",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tharik Lunin",
+  "corporation_id": 98823459,
+  "alliance_id": null,
+  "corporation_name": "Totally Legal Tax Avoidance LLP",
+  "alliance_name": null
+}

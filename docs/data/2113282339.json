@@ -1,0 +1,52 @@
+{
+  "character_id": 2113282339,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1584259058,
+    "name": "Kelgor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1584259058,
+      "name": "Kelgor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113553121,
+      "name": "Malinois Mali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118617567,
+      "name": "Reaper JO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120214192,
+      "name": "Another Toralen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123099218,
+      "name": "Praksimys",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Myduck",
+  "corporation_id": 98603207,
+  "alliance_id": 99009698,
+  "corporation_name": "Zero To High",
+  "alliance_name": "Worst Alliance Ever"
+}

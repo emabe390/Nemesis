@@ -1,0 +1,34 @@
+{
+  "character_id": 2117320267,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 301464180,
+    "name": "Rozhkov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806804,
+    "alliance_id": 99014431,
+    "corporation_name": "Scrapyard Artificer's",
+    "alliance_name": "Just Lizard"
+  },
+  "top_killers": [
+    {
+      "id": 301464180,
+      "name": "Rozhkov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 824555409,
+      "name": "Alma Balzitch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daria Demoney",
+  "corporation_id": 98654554,
+  "alliance_id": null,
+  "corporation_name": "Free Ship Rewards",
+  "alliance_name": null
+}

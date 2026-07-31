@@ -1,0 +1,40 @@
+{
+  "character_id": 2123397413,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114785735,
+    "name": "Puff LY",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98537981,
+    "alliance_id": 99003581,
+    "corporation_name": "Galactic Empire Co LTD",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114785735,
+      "name": "Puff LY",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114980900,
+      "name": "Uncle Wired",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122579254,
+      "name": "Nikolai Nikolayevich Polikarpov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trinkas",
+  "corporation_id": 98792986,
+  "alliance_id": 99003995,
+  "corporation_name": "Orion Syndicate inc",
+  "alliance_name": "Invidia Gloriae Comes"
+}

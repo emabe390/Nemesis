@@ -1,0 +1,52 @@
+{
+  "character_id": 2119659731,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121345502,
+    "name": "Boltrom",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1287498641,
+      "name": "Liz Aun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112117260,
+      "name": "Character 2112117260",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119909765,
+      "name": "Captain-Pororo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121422394,
+      "name": "Mana Paradise",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Major Jamieson",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

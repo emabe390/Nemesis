@@ -1,0 +1,52 @@
+{
+  "character_id": 2124148180,
+  "total_losses": 20,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 839599653,
+    "name": "StineControl",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98161365,
+    "alliance_id": null,
+    "corporation_name": "Carbon 7",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 839599653,
+      "name": "StineControl",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94608723,
+      "name": "George Titanium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 187568404,
+      "name": "Icarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1454310883,
+      "name": "Dammit McFly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115425092,
+      "name": "Pierien Saissore",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Maerceus",
+  "corporation_id": 98817357,
+  "alliance_id": null,
+  "corporation_name": "Khanid Karnivale",
+  "alliance_name": null
+}

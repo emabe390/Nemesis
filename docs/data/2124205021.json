@@ -1,0 +1,52 @@
+{
+  "character_id": 2124205021,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 94666788,
+    "name": "Renee Varis",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94666788,
+      "name": "Renee Varis",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96238497,
+      "name": "Steve Ramone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123950751,
+      "name": "Zenomm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124205021",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

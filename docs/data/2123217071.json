@@ -1,0 +1,46 @@
+{
+  "character_id": 2123217071,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 809629893,
+    "name": "Character 809629893",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98731763,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amped.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 809629893,
+      "name": "Character 809629893",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 621495549,
+      "name": "webkert",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116858954,
+      "name": "Emissa Curious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117832343,
+      "name": "Emissa Enigmatic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emissa Arrogant",
+  "corporation_id": 98427812,
+  "alliance_id": 99007203,
+  "corporation_name": "Siberian Squad",
+  "alliance_name": "Siberian Squads"
+}

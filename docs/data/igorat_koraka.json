@@ -1,0 +1,52 @@
+{
+  "character_id": 2123610048,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91657434,
+    "name": "Genesis Ahashion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797553,
+    "alliance_id": null,
+    "corporation_name": "Umbrella Asset Management",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91657434,
+      "name": "Genesis Ahashion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1683357828,
+      "name": "Khamul Corleone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119475062,
+      "name": "Sukken Sasen Kalkoken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119798817,
+      "name": "andjelka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123318117,
+      "name": "Interfector Apis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Igorat Koraka",
+  "corporation_id": 98775860,
+  "alliance_id": 99014081,
+  "corporation_name": "Marauders Logistic",
+  "alliance_name": "Synergy of Support"
+}

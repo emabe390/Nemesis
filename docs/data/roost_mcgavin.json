@@ -1,0 +1,40 @@
+{
+  "character_id": 2118519288,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95786847,
+    "name": "Character 95786847",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 95786847,
+      "name": "Character 95786847",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123882660,
+      "name": "BORG UNIT 86",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118889780,
+      "name": "Nao San",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roost Mcgavin",
+  "corporation_id": 98687730,
+  "alliance_id": 99010937,
+  "corporation_name": "Arcanum Pharmakon",
+  "alliance_name": "Fright Factory"
+}

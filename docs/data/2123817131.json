@@ -1,0 +1,40 @@
+{
+  "character_id": 2123817131,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 116081192,
+    "name": "inVictu5",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818341,
+    "alliance_id": null,
+    "corporation_name": "No Tread on Snek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 116081192,
+      "name": "inVictu5",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121163869,
+      "name": "Amir GHAN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Melty Melromarc",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

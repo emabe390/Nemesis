@@ -1,0 +1,52 @@
+{
+  "character_id": 2123740548,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116805953,
+    "name": "Doron Zahire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98474987,
+    "alliance_id": 1727758877,
+    "corporation_name": "The Black Crow Bandits",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 2116805953,
+      "name": "Doron Zahire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122410459,
+      "name": "Hana Idris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122601876,
+      "name": "Character 2122601876",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1582804333,
+      "name": "Alethoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118802814,
+      "name": "Bootstrap Outlaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BZLY",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

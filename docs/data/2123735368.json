@@ -1,0 +1,52 @@
+{
+  "character_id": 2123735368,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113693507,
+      "name": "Zack Ryanke",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117572364,
+      "name": "Proxey",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94317464,
+      "name": "Jack Firm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hedge Meister General",
+  "corporation_id": 98651048,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order XVI",
+  "alliance_name": "Absolute Honor"
+}

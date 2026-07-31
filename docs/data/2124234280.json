@@ -1,0 +1,46 @@
+{
+  "character_id": 2124234280,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 360125848,
+    "name": "muila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820670,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladius Tenebris",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 360125848,
+      "name": "muila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116106639,
+      "name": "Xyros Wavecrest",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91900089,
+      "name": "Edward Brodeur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114697171,
+      "name": "Tim Carbarator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TankTR",
+  "corporation_id": 98754600,
+  "alliance_id": 99011119,
+  "corporation_name": "Zeta Reticuli Blackpill Alliance",
+  "alliance_name": "Absolute Glory"
+}

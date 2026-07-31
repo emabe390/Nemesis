@@ -1,0 +1,52 @@
+{
+  "character_id": 2124456705,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 326254586,
+    "name": "Prion Crassiros",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 326254586,
+      "name": "Prion Crassiros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112698901,
+      "name": "Alexandr Zaitcev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 283593376,
+      "name": "FastFlight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 306436359,
+      "name": "Deathtrooper2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116872759,
+      "name": "Orion Renald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Levi Isayama",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123464274,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 95719847,
+    "name": "Icarus Casablancas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119450232,
+      "name": "GPSxVladimir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95194808,
+      "name": "Yar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raskaltaone",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

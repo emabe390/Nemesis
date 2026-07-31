@@ -1,0 +1,40 @@
+{
+  "character_id": 557817812,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90905217,
+    "name": "Ises Mande",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98831204,
+    "alliance_id": null,
+    "corporation_name": "Nine Lives Privateering Company",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90905217,
+      "name": "Ises Mande",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116737842,
+      "name": "saber lv1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122898695,
+      "name": "Konruri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orr Gallente",
+  "corporation_id": 98380820,
+  "alliance_id": 99009511,
+  "corporation_name": "Exit-Strategy",
+  "alliance_name": "Unchained Alliance"
+}

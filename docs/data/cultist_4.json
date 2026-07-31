@@ -1,0 +1,52 @@
+{
+  "character_id": 2121046162,
+  "total_losses": 17,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116956622,
+      "name": "menoaa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121050517,
+      "name": "Stcake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91258437,
+      "name": "Zaratun Positive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93915550,
+      "name": "Euel Perne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cultist 4",
+  "corporation_id": 98335809,
+  "alliance_id": 99003581,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Fraternity."
+}

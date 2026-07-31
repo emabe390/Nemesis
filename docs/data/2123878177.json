@@ -1,0 +1,52 @@
+{
+  "character_id": 2123878177,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120481908,
+    "name": "Akora Itiya Sasen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98784883,
+    "alliance_id": 99015133,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "GOBLIN FLEET"
+  },
+  "top_killers": [
+    {
+      "id": 2120481908,
+      "name": "Akora Itiya Sasen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92402356,
+      "name": "Les Routiers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95028519,
+      "name": "Unnamed Frozenhearth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 511244909,
+      "name": "Thorin Matarielle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113015934,
+      "name": "Brusik Brusnitsyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krokodell",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

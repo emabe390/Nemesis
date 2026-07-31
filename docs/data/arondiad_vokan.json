@@ -1,0 +1,34 @@
+{
+  "character_id": 2123872245,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95857969,
+    "name": "Johnny Molou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704863,
+    "alliance_id": null,
+    "corporation_name": "Pinky and the Brain.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95857969,
+      "name": "Johnny Molou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 812081275,
+      "name": "SinthEmortal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arondiad Vokan",
+  "corporation_id": 98795383,
+  "alliance_id": 99003956,
+  "corporation_name": "PushX Beacon Network",
+  "alliance_name": "Push Interstellar Network"
+}

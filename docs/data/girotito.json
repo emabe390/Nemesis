@@ -1,0 +1,52 @@
+{
+  "character_id": 2124384785,
+  "total_losses": 44,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2121230133,
+    "name": "Fylexus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98694483,
+    "alliance_id": 99014695,
+    "corporation_name": "Cockroaches of the Syndicate",
+    "alliance_name": "Blackout Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 2121230133,
+      "name": "Fylexus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91809357,
+      "name": "Abraham Solis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94105136,
+      "name": "ALLEN GONG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1451034696,
+      "name": "Roger Stillsmoking",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Girotito",
+  "corporation_id": 98829471,
+  "alliance_id": null,
+  "corporation_name": "Brigada 49",
+  "alliance_name": null
+}

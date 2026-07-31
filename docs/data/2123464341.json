@@ -1,0 +1,40 @@
+{
+  "character_id": 2123464341,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 401202623,
+    "name": "El Peligro",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 967501471,
+    "alliance_id": 99004804,
+    "corporation_name": "SoT",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 401202623,
+      "name": "El Peligro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1975750706,
+      "name": "FearCult",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115497940,
+      "name": "FeiFa-ChenYi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kula Outo Arji",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

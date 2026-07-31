@@ -1,0 +1,40 @@
+{
+  "character_id": 2122604934,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119416470,
+    "name": "OzzySBR",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98814748,
+    "alliance_id": 99003285,
+    "corporation_name": "Mountain Marauder",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2119416470,
+      "name": "OzzySBR",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123374053,
+      "name": "Fun-Regulation-Agency",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Badgernaut",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

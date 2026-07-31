@@ -1,0 +1,40 @@
+{
+  "character_id": 2123943005,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1168442397,
+    "name": "Ainllo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 705444291,
+    "alliance_id": 1966049571,
+    "corporation_name": "T.R.I.A.D",
+    "alliance_name": "Ushra'Khan"
+  },
+  "top_killers": [
+    {
+      "id": 1168442397,
+      "name": "Ainllo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93771517,
+      "name": "Rofgar Aivenmayer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Demi Manifest",
+  "corporation_id": 98818417,
+  "alliance_id": null,
+  "corporation_name": "Sophie Manifest Family Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115015985,
+  "total_losses": 28,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121107461,
+      "name": "Someon3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91495101,
+      "name": "Valnara Maricadie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91946649,
+      "name": "Luka Skywalkera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92304254,
+      "name": "Aleks Ohmiras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ezra Jakuard",
+  "corporation_id": 98755037,
+  "alliance_id": 99013537,
+  "corporation_name": "Vogar Industrial",
+  "alliance_name": "Insidious."
+}

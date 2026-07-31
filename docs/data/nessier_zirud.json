@@ -1,0 +1,40 @@
+{
+  "character_id": 2123986313,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95628457,
+    "name": "Jina Zirud",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98743227,
+    "alliance_id": 99013548,
+    "corporation_name": "Enigma Expanse",
+    "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+  },
+  "top_killers": [
+    {
+      "id": 95628457,
+      "name": "Jina Zirud",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 802497868,
+      "name": "holcanis2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nessier Zirud",
+  "corporation_id": 98743227,
+  "alliance_id": 99013548,
+  "corporation_name": "Enigma Expanse",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124462285,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91593456,
+    "name": "Character 91593456",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725773,
+    "alliance_id": 99013390,
+    "corporation_name": "Vapor Lock.",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 91593456,
+      "name": "Character 91593456",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112574637,
+      "name": "Pelucia Natatroll",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121587357,
+      "name": "March 7th",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96328342,
+      "name": "Maskim Xul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96532322,
+      "name": "ELF Prince",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bartholomew The Black",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

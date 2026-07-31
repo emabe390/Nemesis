@@ -1,0 +1,52 @@
+{
+  "character_id": 2123667188,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119734096,
+    "name": "Beyond Survival",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98814817,
+    "alliance_id": 99003581,
+    "corporation_name": "Clown Swords.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119734096,
+      "name": "Beyond Survival",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91258437,
+      "name": "Zaratun Positive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96387946,
+      "name": "Wanderkraft",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120142458,
+      "name": "kinopiZ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121634451,
+      "name": "Arviri Aguilar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Micah Galaxy",
+  "corporation_id": 98549595,
+  "alliance_id": 99005338,
+  "corporation_name": "Squid Inc.",
+  "alliance_name": "Pandemic Horde"
+}

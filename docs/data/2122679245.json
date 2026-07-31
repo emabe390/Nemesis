@@ -1,0 +1,40 @@
+{
+  "character_id": 2122679245,
+  "total_losses": 34,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122070105,
+    "name": "Anata no Usiro",
+    "kill_count": 28,
+    "final_blows": 28,
+    "corporation_id": 98826107,
+    "alliance_id": 99012697,
+    "corporation_name": "SmilePort",
+    "alliance_name": "High Elements Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2122070105,
+      "name": "Anata no Usiro",
+      "kill_count": 28,
+      "final_blows": 28
+    },
+    {
+      "id": 2122679264,
+      "name": "Arozainen Ikira Oriki",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90606716,
+      "name": "Lissa Suares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Juhenius Ezu Mabata",
+  "corporation_id": 98799733,
+  "alliance_id": 498125261,
+  "corporation_name": "Drip Inc.",
+  "alliance_name": "Test Alliance Please Ignore"
+}

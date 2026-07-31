@@ -1,0 +1,40 @@
+{
+  "character_id": 2116751983,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116465305,
+    "name": "Niko Pan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645589,
+    "alliance_id": 99009163,
+    "corporation_name": "Faceless.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2116465305,
+      "name": "Niko Pan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116758717,
+      "name": "NRU Quark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119382109,
+      "name": "Den Quaker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PBU Quark",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

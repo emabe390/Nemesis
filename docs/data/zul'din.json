@@ -1,0 +1,52 @@
+{
+  "character_id": 2123740261,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 90828002,
+    "name": "Charlie Severasse",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 90828002,
+      "name": "Charlie Severasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 299762341,
+      "name": "Destropia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113405126,
+      "name": "Liza Dee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92600043,
+      "name": "Boris Vodka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92915130,
+      "name": "Strizz von Aviemore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zul'din",
+  "corporation_id": 98407112,
+  "alliance_id": null,
+  "corporation_name": "New Eden Police Force",
+  "alliance_name": null
+}

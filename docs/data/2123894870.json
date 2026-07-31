@@ -1,0 +1,52 @@
+{
+  "character_id": 2123894870,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112784748,
+    "name": "Colton California",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 2112784748,
+      "name": "Colton California",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122725669,
+      "name": "Character 2122725669",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 299286127,
+      "name": "Fariius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 835806057,
+      "name": "Vengeful Shade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vanlessa Lindsao",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

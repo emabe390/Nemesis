@@ -1,0 +1,52 @@
+{
+  "character_id": 2115617715,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2122126738,
+    "name": "Captain Droolbeard",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98821131,
+    "alliance_id": null,
+    "corporation_name": "Moose Mining Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122126738,
+      "name": "Captain Droolbeard",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 250026850,
+      "name": "Serifex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 836855814,
+      "name": "Vincent Ikari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117822650,
+      "name": "Attalus Zilch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120786452,
+      "name": "AlectoCarrow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bozzy",
+  "corporation_id": 98827667,
+  "alliance_id": null,
+  "corporation_name": "LASTSIGN",
+  "alliance_name": null
+}

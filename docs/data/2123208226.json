@@ -1,0 +1,52 @@
+{
+  "character_id": 2123208226,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1240252644,
+    "name": "Aeon Noblemagus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98576805,
+    "alliance_id": null,
+    "corporation_name": "Dardy Bird Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1240252644,
+      "name": "Aeon Noblemagus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90547537,
+      "name": "Darius Caliente",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91950897,
+      "name": "Cata Entro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 760188261,
+      "name": "Bren MacKay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1176550484,
+      "name": "Dave Lash",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123208226",
+  "corporation_id": 98618881,
+  "alliance_id": 99013537,
+  "corporation_name": "Ni Industries",
+  "alliance_name": "Insidious."
+}

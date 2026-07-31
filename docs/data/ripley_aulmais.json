@@ -1,0 +1,40 @@
+{
+  "character_id": 2113774661,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2017931313,
+    "name": "Harks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2017931313,
+      "name": "Harks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95551439,
+      "name": "Breakneck Bjarni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 372565165,
+      "name": "Max Crognard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ripley Aulmais",
+  "corporation_id": 98603312,
+  "alliance_id": null,
+  "corporation_name": "Sid's Used Rorqual Imporium",
+  "alliance_name": null
+}

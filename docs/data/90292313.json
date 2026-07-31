@@ -1,0 +1,52 @@
+{
+  "character_id": 90292313,
+  "total_losses": 35,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 96368500,
+    "name": "Karl Ecnal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98812263,
+    "alliance_id": null,
+    "corporation_name": "Beyond Destruction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96368500,
+      "name": "Karl Ecnal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90934350,
+      "name": "VIsus IronFox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94365053,
+      "name": "Devesta Julii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96837778,
+      "name": "brevery Purvanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nissan Truck",
+  "corporation_id": 98124000,
+  "alliance_id": 99010240,
+  "corporation_name": "Abrasive Industries",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123881757,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92181174,
+    "name": "Slade Antonius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1126669495,
+    "alliance_id": 99011952,
+    "corporation_name": "Quantum Cats Syndicate",
+    "alliance_name": "Of Essence"
+  },
+  "top_killers": [
+    {
+      "id": 92181174,
+      "name": "Slade Antonius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117796100,
+      "name": "Eva Mpire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ageless Witch",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 693236569,
+  "total_losses": 41,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 2116024316,
+    "name": "Delph Pollard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116024316,
+      "name": "Delph Pollard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91032543,
+      "name": "Eik Centaurus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93035890,
+      "name": "Kaesch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94846227,
+      "name": "Lutar Torax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ronon Rax",
+  "corporation_id": 724997872,
+  "alliance_id": 1354830081,
+  "corporation_name": "EVE-RO",
+  "alliance_name": "Goonswarm Federation"
+}

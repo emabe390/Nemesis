@@ -1,0 +1,40 @@
+{
+  "character_id": 2118336362,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1268848494,
+    "name": "Commissar keerik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98075412,
+    "alliance_id": 99001969,
+    "corporation_name": "Grimm Hounds",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 1268848494,
+      "name": "Commissar keerik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121699066,
+      "name": "Signora Alena",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123173792,
+      "name": "Broken Heart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Big Eggplant",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

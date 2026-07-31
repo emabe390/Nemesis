@@ -1,0 +1,52 @@
+{
+  "character_id": 2123234580,
+  "total_losses": 37,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2118828921,
+    "name": "Xantia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98451927,
+    "alliance_id": 99011119,
+    "corporation_name": "HALO - United Nations Space Command",
+    "alliance_name": "Absolute Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2118828921,
+      "name": "Xantia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93484010,
+      "name": "Stephen Hawk King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95940713,
+      "name": "Alex Jantex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DeepSick",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

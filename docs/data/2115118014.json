@@ -1,0 +1,52 @@
+{
+  "character_id": 2115118014,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116698275,
+      "name": "Leonidas Kartoffel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121892481,
+      "name": "Silent Service KI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93041548,
+      "name": "Lucho IYI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95390904,
+      "name": "Mist Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mitra Merf",
+  "corporation_id": 98279775,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deep Space Conquerors",
+  "alliance_name": "Goonswarm Federation"
+}

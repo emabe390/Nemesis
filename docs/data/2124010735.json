@@ -1,0 +1,40 @@
+{
+  "character_id": 2124010735,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113013879,
+    "name": "Britt Trin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98585716,
+    "alliance_id": null,
+    "corporation_name": "Snuggly Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113013879,
+      "name": "Britt Trin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119246409,
+      "name": "Oodle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GrandMp",
+  "corporation_id": 98760261,
+  "alliance_id": 99013915,
+  "corporation_name": "ATAKA academy",
+  "alliance_name": "Wings of Independence."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123993109,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122963042,
+    "name": "Here I am",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98535868,
+    "alliance_id": 99014783,
+    "corporation_name": "ChuangShi",
+    "alliance_name": "Wings Freedom."
+  },
+  "top_killers": [
+    {
+      "id": 2122963042,
+      "name": "Here I am",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113187040,
+      "name": "Iamfish fishfish",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114265636,
+      "name": "ATF-94",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MeteoriteFall",
+  "corporation_id": 98598483,
+  "alliance_id": 1900696668,
+  "corporation_name": "Stars Corporate Group",
+  "alliance_name": "The Initiative."
+}

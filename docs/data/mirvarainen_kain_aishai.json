@@ -1,0 +1,52 @@
+{
+  "character_id": 2119752345,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121885800,
+    "name": "Prince Moloch",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98757839,
+    "alliance_id": null,
+    "corporation_name": "Baphomet Atrium",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121885800,
+      "name": "Prince Moloch",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 924320597,
+      "name": "David Dyran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96623225,
+      "name": "Jova Stelen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118896662,
+      "name": "Raygr Olclor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mirvarainen Kain Aishai",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

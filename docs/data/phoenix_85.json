@@ -1,0 +1,52 @@
+{
+  "character_id": 2123971847,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123971061,
+    "name": "Nebula 85",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98632833,
+    "alliance_id": null,
+    "corporation_name": "Katolis",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123971061,
+      "name": "Nebula 85",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124365601,
+      "name": "Tweedle Dum 85",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 152292085,
+      "name": "Zodicar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2085443749,
+      "name": "Bleichrodt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114044639,
+      "name": "Tica Here",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phoenix 85",
+  "corporation_id": 98632833,
+  "alliance_id": null,
+  "corporation_name": "Katolis",
+  "alliance_name": null
+}

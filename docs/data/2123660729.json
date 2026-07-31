@@ -1,0 +1,40 @@
+{
+  "character_id": 2123660729,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 555532474,
+      "name": "Enki Rhodan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 576477934,
+      "name": "Character 576477934",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elizabeth Cain",
+  "corporation_id": 98626718,
+  "alliance_id": 99009163,
+  "corporation_name": "Kuan.Dai.Shan",
+  "alliance_name": "Dracarys."
+}

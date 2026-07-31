@@ -1,0 +1,52 @@
+{
+  "character_id": 2123489700,
+  "total_losses": 18,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94123966,
+      "name": "Duff Akiin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113817330,
+      "name": "Esinhart Ohmiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114453889,
+      "name": "MrPRO",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Adelbad Atruin",
+  "corporation_id": 98811966,
+  "alliance_id": null,
+  "corporation_name": "Space Drifter's",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123637132,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122543037,
+    "name": "SniperQuality",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98656901,
+    "alliance_id": 495729389,
+    "corporation_name": "Ganja Clade",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2122543037,
+      "name": "SniperQuality",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113771229,
+      "name": "Character 2113771229",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121050391,
+      "name": "Toby Wolfenstein",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PhoenixSonata1",
+  "corporation_id": 1599371034,
+  "alliance_id": 1354830081,
+  "corporation_name": "SovNarKom.",
+  "alliance_name": "Goonswarm Federation"
+}

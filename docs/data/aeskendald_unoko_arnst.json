@@ -1,0 +1,40 @@
+{
+  "character_id": 2123741778,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 640595536,
+    "name": "Avarr",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1136289547,
+      "name": "Vytone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1716498864,
+      "name": "Character 1716498864",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aeskendald Unoko Arnst",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

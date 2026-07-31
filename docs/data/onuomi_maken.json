@@ -1,0 +1,52 @@
+{
+  "character_id": 2123896231,
+  "total_losses": 45,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2113820721,
+    "name": "Dain Tarkus",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113820721,
+      "name": "Dain Tarkus",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 92288265,
+      "name": "Zver Izvergovich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 227443434,
+      "name": "Hydro0",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113135788,
+      "name": "Zumodenabo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115632304,
+      "name": "Character 2115632304",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Onuomi Maken",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

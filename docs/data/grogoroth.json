@@ -1,0 +1,40 @@
+{
+  "character_id": 2122911757,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121256680,
+    "name": "Marlowe Conrad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1239884823,
+    "alliance_id": 933731581,
+    "corporation_name": "Noir.",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2121256680,
+      "name": "Marlowe Conrad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92521281,
+      "name": "Lt Lunar Lazair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121638796,
+      "name": "Agent Krieg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GroGoroth",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

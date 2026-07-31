@@ -1,0 +1,40 @@
+{
+  "character_id": 2115040670,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112578169,
+    "name": "Beldrulf Ituin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 2112578169,
+      "name": "Beldrulf Ituin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114174071,
+      "name": "Elsa Portois",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mager Nardieu",
+  "corporation_id": 98836045,
+  "alliance_id": null,
+  "corporation_name": "Mager Nardieu Corporation",
+  "alliance_name": null
+}

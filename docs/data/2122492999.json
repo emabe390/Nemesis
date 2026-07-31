@@ -1,0 +1,40 @@
+{
+  "character_id": 2122492999,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93835199,
+    "name": "Zekdek Demented",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98634861,
+    "alliance_id": null,
+    "corporation_name": "No tax for me Company",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93835199,
+      "name": "Zekdek Demented",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1646777024,
+      "name": "GReZZo SKy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116119005,
+      "name": "Konrad Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kodamailen Talvanen",
+  "corporation_id": 98600350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Watch Eagle",
+  "alliance_name": "Goonswarm Federation"
+}

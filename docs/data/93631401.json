@@ -1,0 +1,40 @@
+{
+  "character_id": 93631401,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91657844,
+    "name": "Prometheus Dormiens",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1062104492,
+    "alliance_id": null,
+    "corporation_name": "Deep South Confederate Rebel Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91657844,
+      "name": "Prometheus Dormiens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bopi U'kre",
+  "corporation_id": 98366746,
+  "alliance_id": null,
+  "corporation_name": "Entropic Lifeform Operations Network",
+  "alliance_name": null
+}

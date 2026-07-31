@@ -1,0 +1,52 @@
+{
+  "character_id": 2115124201,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 214665328,
+    "name": "Mr Dima",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 509673609,
+      "name": "Qvatra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1051877666,
+      "name": "Splithorizon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117912196,
+      "name": "Character 2117912196",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bruce Wobble",
+  "corporation_id": 98457033,
+  "alliance_id": 99007887,
+  "corporation_name": "United Mining and Hauling Inc",
+  "alliance_name": "Brotherhood of Spacers"
+}

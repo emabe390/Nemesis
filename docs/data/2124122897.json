@@ -1,0 +1,40 @@
+{
+  "character_id": 2124122897,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 771498253,
+    "name": "DarhtVaderrin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98462095,
+    "alliance_id": 99007408,
+    "corporation_name": "Cargo Operations",
+    "alliance_name": "Come in and freak out"
+  },
+  "top_killers": [
+    {
+      "id": 771498253,
+      "name": "DarhtVaderrin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113396727,
+      "name": "Nikolay Perun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hesatdin",
+  "corporation_id": 98663773,
+  "alliance_id": 99012181,
+  "corporation_name": "Perun pantheon",
+  "alliance_name": "Alea jacta est."
+}

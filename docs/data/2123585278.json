@@ -1,0 +1,40 @@
+{
+  "character_id": 2123585278,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112803636,
+    "name": "Rudzin Ska",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112803636,
+      "name": "Rudzin Ska",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122502764,
+      "name": "recall past",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123177822,
+      "name": "Trauma Team IV",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Catice",
+  "corporation_id": 98808195,
+  "alliance_id": 99014284,
+  "corporation_name": "Bringers of Light into the Darkness of Pochven",
+  "alliance_name": "7.62"
+}

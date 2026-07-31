@@ -1,0 +1,40 @@
+{
+  "character_id": 2120437543,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1743905749,
+    "name": "EF Gamma",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124167815,
+      "name": "taxrates3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saint Paisios",
+  "corporation_id": 693106145,
+  "alliance_id": 99010709,
+  "corporation_name": "ExoGen Foundation",
+  "alliance_name": "New Miner's Union"
+}

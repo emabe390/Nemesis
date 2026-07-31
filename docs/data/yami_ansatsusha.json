@@ -1,0 +1,46 @@
+{
+  "character_id": 2123721043,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113435273,
+    "name": "Ilya Alekseev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98693786,
+    "alliance_id": null,
+    "corporation_name": "Friendship.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113435273,
+      "name": "Ilya Alekseev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 543101799,
+      "name": "gallen2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 898115249,
+      "name": "atalanti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1991432800,
+      "name": "extremedeath",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yami Ansatsusha",
+  "corporation_id": 98289471,
+  "alliance_id": 99011223,
+  "corporation_name": "Hounds Of Haides",
+  "alliance_name": "Sigma Grindset"
+}

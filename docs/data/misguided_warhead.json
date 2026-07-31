@@ -1,0 +1,52 @@
+{
+  "character_id": 2118980601,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121986378,
+    "name": "Samus Aran Zero",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98828424,
+    "alliance_id": null,
+    "corporation_name": "Weyland-Yutani Corp B.B.W.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123662125,
+      "name": "Hades Feyza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 927473147,
+      "name": "Elijah Ghost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123753003,
+      "name": "Jessica Atreides Dama",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Misguided Warhead",
+  "corporation_id": 98802626,
+  "alliance_id": null,
+  "corporation_name": "Vat-grown people",
+  "alliance_name": null
+}

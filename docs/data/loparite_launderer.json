@@ -1,0 +1,52 @@
+{
+  "character_id": 2120865244,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2119468559,
+    "name": "Ibaka Wilkins",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98739896,
+    "alliance_id": null,
+    "corporation_name": "Justice League of Republic",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119468559,
+      "name": "Ibaka Wilkins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91776359,
+      "name": "Valcent Vintine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96612352,
+      "name": "Hagen Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96848714,
+      "name": "Brushnevskiy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loparite Launderer",
+  "corporation_id": 98748883,
+  "alliance_id": 99014390,
+  "corporation_name": "Brigand Astrogeology Industry and Trade Union",
+  "alliance_name": "The Kraken's Lair"
+}

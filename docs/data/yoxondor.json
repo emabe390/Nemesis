@@ -1,0 +1,40 @@
+{
+  "character_id": 2123568423,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93169480,
+    "name": "Exilens",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 641435244,
+    "alliance_id": null,
+    "corporation_name": "The Hackenings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93169480,
+      "name": "Exilens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121539947,
+      "name": "Nazra Tens Pares",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124138639,
+      "name": "Rian Jorund",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YoXondor",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

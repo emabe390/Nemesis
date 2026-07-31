@@ -1,0 +1,34 @@
+{
+  "character_id": 2123775424,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1825929942,
+    "name": "Benos Pop",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829294,
+    "alliance_id": 99015041,
+    "corporation_name": "Even Odds Theory",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1825929942,
+      "name": "Benos Pop",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123176456,
+      "name": "Adm Jimi Pierdziawa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victoria 'Joy' Cortez",
+  "corporation_id": 98523162,
+  "alliance_id": 99012611,
+  "corporation_name": "BoneSquad",
+  "alliance_name": "Black Rabbit."
+}

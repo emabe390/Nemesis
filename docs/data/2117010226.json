@@ -1,0 +1,46 @@
+{
+  "character_id": 2117010226,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122751283,
+    "name": "Caleeen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98810872,
+    "alliance_id": null,
+    "corporation_name": "Caleeris",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123204379,
+      "name": "Sarah Kerrigan Louise",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123811257,
+      "name": "Osemenyan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Robert Pulson",
+  "corporation_id": 98620000,
+  "alliance_id": 99010077,
+  "corporation_name": "Veretasium",
+  "alliance_name": "Wielders"
+}

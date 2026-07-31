@@ -1,0 +1,40 @@
+{
+  "character_id": 2114554542,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117697168,
+    "name": "Handsome Jacob",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98502097,
+    "alliance_id": null,
+    "corporation_name": "Deep Space Chill Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117697168,
+      "name": "Handsome Jacob",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112024292,
+      "name": "Bon bon Vyvorant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121665667,
+      "name": "J0e M0m",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spike In-Local",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

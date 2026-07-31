@@ -1,0 +1,52 @@
+{
+  "character_id": 542674988,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 315151368,
+    "name": "Orbixx",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799733,
+    "alliance_id": 498125261,
+    "corporation_name": "Drip Inc.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 315151368,
+      "name": "Orbixx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94740677,
+      "name": "Korvin Wowkar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95130444,
+      "name": "Katia Senegit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95940713,
+      "name": "Alex Jantex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1771225809,
+      "name": "Randal Dawkins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stish",
+  "corporation_id": 1000080,
+  "alliance_id": null,
+  "corporation_name": "Ministry of War",
+  "alliance_name": null
+}

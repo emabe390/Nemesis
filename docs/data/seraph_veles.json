@@ -1,0 +1,40 @@
+{
+  "character_id": 2123858921,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91235264,
+    "name": "Oscar Cartel",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98646775,
+    "alliance_id": 1727758877,
+    "corporation_name": "Banana-Republic.",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 91235264,
+      "name": "Oscar Cartel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 775694970,
+      "name": "Kania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113921651,
+      "name": "Gaylok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seraph Veles",
+  "corporation_id": 98671662,
+  "alliance_id": null,
+  "corporation_name": "Agonizers",
+  "alliance_name": null
+}

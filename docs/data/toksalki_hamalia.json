@@ -1,0 +1,40 @@
+{
+  "character_id": 2123744500,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115157279,
+    "name": "V Jban",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2115157279,
+      "name": "V Jban",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121485889,
+      "name": "Youzai Cloud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toksalki Hamalia",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

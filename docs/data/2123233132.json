@@ -1,0 +1,40 @@
+{
+  "character_id": 2123233132,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1704271169,
+    "name": "Kronos Hopeslayer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98522659,
+    "alliance_id": 99003214,
+    "corporation_name": "Incredible.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 1704271169,
+      "name": "Kronos Hopeslayer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118542570,
+      "name": "OVO Beast",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tax Season",
+  "corporation_id": 98815913,
+  "alliance_id": null,
+  "corporation_name": "LaQueefa's Quafe and Boosters",
+  "alliance_name": null
+}

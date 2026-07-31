@@ -1,0 +1,52 @@
+{
+  "character_id": 2123472188,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90583188,
+      "name": "Mac Ruder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120783862,
+      "name": "InTrosky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "xiongthree",
+  "corporation_id": 98738067,
+  "alliance_id": 99009163,
+  "corporation_name": "Why So Sage",
+  "alliance_name": "Dracarys."
+}

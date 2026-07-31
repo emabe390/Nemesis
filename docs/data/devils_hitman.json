@@ -1,0 +1,52 @@
+{
+  "character_id": 90114021,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91671017,
+    "name": "Nem Alar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630992,
+    "alliance_id": null,
+    "corporation_name": "Dream RuCorp inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91671017,
+      "name": "Nem Alar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 514421292,
+      "name": "KARnagionus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120080560,
+      "name": "Alan Atlas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123111944,
+      "name": "EII-M4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Devils Hitman",
+  "corporation_id": 98747372,
+  "alliance_id": 99013766,
+  "corporation_name": "Regrediens",
+  "alliance_name": "Death Legion of Capybaras"
+}

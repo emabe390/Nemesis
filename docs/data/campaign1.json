@@ -1,0 +1,52 @@
+{
+  "character_id": 2123787015,
+  "total_losses": 13,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 383636737,
+    "name": "The CloudyOne",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1975749457,
+    "alliance_id": 933731581,
+    "corporation_name": "No.Mercy",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 383636737,
+      "name": "The CloudyOne",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94363742,
+      "name": "Hot Habanero Jaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123066842,
+      "name": "lune Delacroix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124058308,
+      "name": "Voidborn Specter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117898041,
+      "name": "Goonas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Campaign1",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

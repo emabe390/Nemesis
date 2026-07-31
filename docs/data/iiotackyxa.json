@@ -1,0 +1,40 @@
+{
+  "character_id": 2123778474,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1743892884,
+    "name": "EF Alpha",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113639002,
+      "name": "Agriotes Hakaari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117278800,
+      "name": "Schnarph",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IIOTACKYXA",
+  "corporation_id": 98808830,
+  "alliance_id": null,
+  "corporation_name": "Yamato Protocol Dominion",
+  "alliance_name": null
+}

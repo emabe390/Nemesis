@@ -1,0 +1,46 @@
+{
+  "character_id": 2123022637,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97071489,
+      "name": "Greg Russ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 404850015,
+      "name": "Janissik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2017183838,
+      "name": "Orunis Sobek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valentina Swan",
+  "corporation_id": 98734001,
+  "alliance_id": 99013690,
+  "corporation_name": "S.A. NERV",
+  "alliance_name": "Critical. Mass."
+}

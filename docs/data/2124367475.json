@@ -1,0 +1,40 @@
+{
+  "character_id": 2124367475,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91578428,
+    "name": "Johnie Stark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98343297,
+    "alliance_id": 99004901,
+    "corporation_name": "Lowlife.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 91578428,
+      "name": "Johnie Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 283795666,
+      "name": "Celephix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121757801,
+      "name": "PA-28-181",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ximir",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

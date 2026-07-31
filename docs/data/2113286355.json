@@ -1,0 +1,46 @@
+{
+  "character_id": 2113286355,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95367062,
+    "name": "Spark SkyTracker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95367062,
+      "name": "Spark SkyTracker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1320866393,
+      "name": "Herny Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112431483,
+      "name": "Epsilon Tzestu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124271550,
+      "name": "Clive Standisch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ryan Seacrest",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

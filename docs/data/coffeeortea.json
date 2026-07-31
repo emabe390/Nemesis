@@ -1,0 +1,52 @@
+{
+  "character_id": 2122842471,
+  "total_losses": 221,
+  "unique_killers": 135,
+  "nemesis": {
+    "id": 2118518412,
+    "name": "Captain Orkey",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98815869,
+    "alliance_id": null,
+    "corporation_name": "Gulmogorod Cartel",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118518412,
+      "name": "Captain Orkey",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2122422795,
+      "name": "Number 95",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "CoffeeOrTea",
+  "corporation_id": 98816688,
+  "alliance_id": 99014768,
+  "corporation_name": "NanYiChaShe",
+  "alliance_name": "Storm Petrel Alliance"
+}

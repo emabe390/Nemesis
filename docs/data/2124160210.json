@@ -1,0 +1,52 @@
+{
+  "character_id": 2124160210,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1222401549,
+    "name": "Skototounta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1222401549,
+      "name": "Skototounta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92479966,
+      "name": "Raphael Vinters",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95704127,
+      "name": "Not Allowed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96234114,
+      "name": "Miss Jade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96589587,
+      "name": "Red Sabre",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Perc Rodgers",
+  "corporation_id": 98198930,
+  "alliance_id": null,
+  "corporation_name": "SA77",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123643072,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121002622,
+    "name": "Secret Butter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825616,
+    "alliance_id": 933731581,
+    "corporation_name": "Renegade Raccoons",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2121002622,
+      "name": "Secret Butter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121168241,
+      "name": "Bangla Bold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1210068557,
+      "name": "Scaeva",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Niviler",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

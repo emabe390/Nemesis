@@ -1,0 +1,40 @@
+{
+  "character_id": 902570307,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123623341,
+    "name": "Falyne",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98795860,
+    "alliance_id": 99014124,
+    "corporation_name": "Super Earth Spatial Industries",
+    "alliance_name": "Heavensfall Reapers"
+  },
+  "top_killers": [
+    {
+      "id": 2123623341,
+      "name": "Falyne",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117890816,
+      "name": "Hidetoshi Okamura",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blyze",
+  "corporation_id": 98388312,
+  "alliance_id": null,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": null
+}

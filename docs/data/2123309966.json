@@ -1,0 +1,40 @@
+{
+  "character_id": 2123309966,
+  "total_losses": 13,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123309568,
+    "name": "Malf AI",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98736378,
+    "alliance_id": null,
+    "corporation_name": "Stealth Strategy Style",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123309568,
+      "name": "Malf AI",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2112141806,
+      "name": "Geliya Estemaire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Botanist Ling",
+  "corporation_id": 98736378,
+  "alliance_id": null,
+  "corporation_name": "Stealth Strategy Style",
+  "alliance_name": null
+}

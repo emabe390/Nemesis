@@ -1,0 +1,52 @@
+{
+  "character_id": 92424699,
+  "total_losses": 25,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120037091,
+    "name": "TestoSlaine",
+    "kill_count": 18,
+    "final_blows": 18,
+    "corporation_id": 98684420,
+    "alliance_id": 99011416,
+    "corporation_name": "Silent Vale",
+    "alliance_name": "LinkNet"
+  },
+  "top_killers": [
+    {
+      "id": 2120037091,
+      "name": "TestoSlaine",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929103832,
+      "name": "YangSham Po",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1829359560,
+      "name": "Sangora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Euren Molten",
+  "corporation_id": 98440109,
+  "alliance_id": null,
+  "corporation_name": "Lost Drone Relocation Program",
+  "alliance_name": null
+}

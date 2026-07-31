@@ -1,0 +1,52 @@
+{
+  "character_id": 2123986738,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1661880308,
+    "name": "Miss Leeloo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045540,
+    "alliance_id": 99013072,
+    "corporation_name": "Stain Forever",
+    "alliance_name": "Stain Neurodiverse Democracy"
+  },
+  "top_killers": [
+    {
+      "id": 1661880308,
+      "name": "Miss Leeloo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113612003,
+      "name": "Pirri FromStain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118465788,
+      "name": "war bug",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123883904,
+      "name": "Den of Earth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122818299,
+      "name": "Droop Dead",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "floating zombie",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

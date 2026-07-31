@@ -1,0 +1,34 @@
+{
+  "character_id": 2123619044,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96070543,
+    "name": "Eleanor D'Oblige",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96070543,
+      "name": "Eleanor D'Oblige",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Colt Haes",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

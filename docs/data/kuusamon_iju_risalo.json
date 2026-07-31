@@ -1,0 +1,52 @@
+{
+  "character_id": 2123561201,
+  "total_losses": 65,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 90488196,
+    "name": "8U11ET",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90488196,
+      "name": "8U11ET",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 1816417415,
+      "name": "MantelGlobalIndustries",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1366766598,
+      "name": "Mekirel",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91282513,
+      "name": "Jayarr Altol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92540651,
+      "name": "Niong Estemaire",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kuusamon Iju Risalo",
+  "corporation_id": 98731553,
+  "alliance_id": 99013881,
+  "corporation_name": "0000 0111 1110 0111",
+  "alliance_name": "Gesheft protocol"
+}

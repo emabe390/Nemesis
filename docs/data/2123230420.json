@@ -1,0 +1,52 @@
+{
+  "character_id": 2123230420,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123364892,
+    "name": "Arthur Hayle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451927,
+    "alliance_id": 99011119,
+    "corporation_name": "HALO - United Nations Space Command",
+    "alliance_name": "Absolute Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2123364892,
+      "name": "Arthur Hayle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90117368,
+      "name": "Evezer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90566318,
+      "name": "Avirik Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93670961,
+      "name": "Ionis en Gravonere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113211681,
+      "name": "Johnny Farstriker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adrianus25",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123903123,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90255812,
+      "name": "Rock Vogel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92044786,
+      "name": "Murgs Nakti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92099164,
+      "name": "NayerSkeyak Vyvorant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96422430,
+      "name": "Seung Koo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rarah Alar",
+  "corporation_id": 98647591,
+  "alliance_id": 99014050,
+  "corporation_name": "Incognito Phantoms",
+  "alliance_name": "Lunar Luminescence"
+}

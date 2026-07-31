@@ -1,0 +1,40 @@
+{
+  "character_id": 2122520620,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95378365,
+    "name": "Slate Musclechest",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98663870,
+    "alliance_id": 99010431,
+    "corporation_name": "Ohnivak of Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 95378365,
+      "name": "Slate Musclechest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96421527,
+      "name": "Grave Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oguzhan Bolat",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

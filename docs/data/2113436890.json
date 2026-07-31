@@ -1,0 +1,52 @@
+{
+  "character_id": 2113436890,
+  "total_losses": 98,
+  "unique_killers": 80,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90151749,
+      "name": "Zjorg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90152610,
+      "name": "umnikar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92523684,
+      "name": "Disciple Amphal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Phaulkon Rinah",
+  "corporation_id": 98823719,
+  "alliance_id": 99012664,
+  "corporation_name": "Beyond the Static",
+  "alliance_name": "Recursive Horizons"
+}

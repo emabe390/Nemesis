@@ -1,0 +1,52 @@
+{
+  "character_id": 2115012390,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1069878505,
+    "name": "Wallymarts",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98497733,
+    "alliance_id": null,
+    "corporation_name": "Drop the Soap",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1069878505,
+      "name": "Wallymarts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120681480,
+      "name": "Arst239",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92972924,
+      "name": "Serena Anderson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 579350656,
+      "name": "Seygrath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 719834366,
+      "name": "Narcotic XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ariana Rin",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

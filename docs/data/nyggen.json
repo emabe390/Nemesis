@@ -1,0 +1,52 @@
+{
+  "character_id": 2123805115,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115056769,
+      "name": "alex soban",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116950143,
+      "name": "Rasta Junk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122643843,
+      "name": "Gemato Sedly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121035166,
+      "name": "Shean en Bauldry",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nyggen",
+  "corporation_id": 98817248,
+  "alliance_id": null,
+  "corporation_name": "Nyggens Corporation",
+  "alliance_name": null
+}

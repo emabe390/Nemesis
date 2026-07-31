@@ -1,0 +1,52 @@
+{
+  "character_id": 2123978382,
+  "total_losses": 109,
+  "unique_killers": 82,
+  "nemesis": {
+    "id": 2122296089,
+    "name": "Spac Maid",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 2042491468,
+    "alliance_id": 99012702,
+    "corporation_name": "Inevitable Outcome",
+    "alliance_name": "E.C.H.O"
+  },
+  "top_killers": [
+    {
+      "id": 2122296089,
+      "name": "Spac Maid",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2118098465,
+      "name": "Grimm van Pak",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90338555,
+      "name": "Cereale Grahams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93911976,
+      "name": "Babbs Cor",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SpacLove",
+  "corporation_id": 2042491468,
+  "alliance_id": 99012702,
+  "corporation_name": "Inevitable Outcome",
+  "alliance_name": "E.C.H.O"
+}

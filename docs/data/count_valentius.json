@@ -1,0 +1,52 @@
+{
+  "character_id": 1234837297,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94012723,
+    "name": "Pixis Margoses",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817519,
+    "alliance_id": 99009163,
+    "corporation_name": "Echoes of Null",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 94012723,
+      "name": "Pixis Margoses",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92993073,
+      "name": "Itaer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94479441,
+      "name": "Grey Veil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 829813395,
+      "name": "Fride Daylee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114327469,
+      "name": "huanying phantom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Count Valentius",
+  "corporation_id": 98812037,
+  "alliance_id": 99009163,
+  "corporation_name": "Steel Legion Brotherhood",
+  "alliance_name": "Dracarys."
+}

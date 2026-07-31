@@ -1,0 +1,46 @@
+{
+  "character_id": 2123081601,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 830785119,
+    "name": "Character 830785119",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98764904,
+    "alliance_id": null,
+    "corporation_name": "Fierce Guardians",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 830785119,
+      "name": "Character 830785119",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117339892,
+      "name": "Louh Jaynara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122851179,
+      "name": "Pyromancer Firovsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MrGabel",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

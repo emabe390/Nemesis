@@ -1,0 +1,40 @@
+{
+  "character_id": 2123965655,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116291626,
+    "name": "Eva Starrchaser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98745385,
+    "alliance_id": 99012544,
+    "corporation_name": "The God Hand.",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95221140,
+      "name": "Hiroshi Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OttoVagon",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

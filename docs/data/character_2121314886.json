@@ -1,0 +1,40 @@
+{
+  "character_id": 2121314886,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91279102,
+    "name": "Sniper Isu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117112,
+    "alliance_id": null,
+    "corporation_name": "PIROCOR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113614845,
+      "name": "LIJaman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123245912,
+      "name": "Babuins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121314886",
+  "corporation_id": 98709054,
+  "alliance_id": null,
+  "corporation_name": "Null Therom",
+  "alliance_name": null
+}

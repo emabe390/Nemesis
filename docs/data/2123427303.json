@@ -1,0 +1,52 @@
+{
+  "character_id": 2123427303,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 93488784,
+    "name": "Icarus Tendris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1239884823,
+    "alliance_id": 933731581,
+    "corporation_name": "Noir.",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 93488784,
+      "name": "Icarus Tendris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1123616315,
+      "name": "Cutter Slade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91469611,
+      "name": "drol tack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 165332291,
+      "name": "Hunter Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rey Palpatine Skywalker",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

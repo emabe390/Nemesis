@@ -1,0 +1,52 @@
+{
+  "character_id": 2124288568,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96232935,
+    "name": "Dark Lorelei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98774989,
+    "alliance_id": 99013797,
+    "corporation_name": "Fourth District Sentinels",
+    "alliance_name": "The Caldari Fourth District"
+  },
+  "top_killers": [
+    {
+      "id": 96232935,
+      "name": "Dark Lorelei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92382945,
+      "name": "Mr Pragma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95409605,
+      "name": "Joey Zahm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117003961,
+      "name": "Dawn Johnson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Redamari Amami",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

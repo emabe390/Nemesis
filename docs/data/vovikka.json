@@ -1,0 +1,52 @@
+{
+  "character_id": 2124469831,
+  "total_losses": 65,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2113270573,
+      "name": "Joey Belvar",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117293630,
+      "name": "Small Enos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90340797,
+      "name": "Connor Sheen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vovikka",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

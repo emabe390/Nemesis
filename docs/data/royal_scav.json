@@ -1,0 +1,40 @@
+{
+  "character_id": 2124339593,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 139583059,
+    "name": "DeGaspa",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98785258,
+    "alliance_id": 99013831,
+    "corporation_name": "Redshift Horizon",
+    "alliance_name": "Sleeper Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 139583059,
+      "name": "DeGaspa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114346858,
+      "name": "XereCard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Royal Scav",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

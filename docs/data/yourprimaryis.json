@@ -1,0 +1,40 @@
+{
+  "character_id": 1337105303,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93422769,
+    "name": "SabersKunk Dallocort",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98491871,
+    "alliance_id": 99007887,
+    "corporation_name": "Incognito Mode",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 93422769,
+      "name": "SabersKunk Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 924320597,
+      "name": "David Dyran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94163301,
+      "name": "Xurri Peretung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YourPrimaryIs",
+  "corporation_id": 98665644,
+  "alliance_id": 99005830,
+  "corporation_name": "MASS-Logistics",
+  "alliance_name": "Memento Moriendo"
+}

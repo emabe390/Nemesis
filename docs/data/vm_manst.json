@@ -1,0 +1,52 @@
+{
+  "character_id": 2122896248,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1006626020,
+    "name": "Cosmic Cowboy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98682376,
+    "alliance_id": null,
+    "corporation_name": "Poltergeist III.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1006626020,
+      "name": "Cosmic Cowboy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118806050,
+      "name": "pokong okaski1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 109577214,
+      "name": "Efva",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 685842359,
+      "name": "Anshau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119977337,
+      "name": "Daraid Trilnos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VM-Manst",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

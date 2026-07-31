@@ -1,0 +1,52 @@
+{
+  "character_id": 2123356549,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 95834600,
+    "name": "OkoSarumana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98757703,
+    "alliance_id": 99012042,
+    "corporation_name": "Flash of darkness",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 95834600,
+      "name": "OkoSarumana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 805448002,
+      "name": "iniquitious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91463511,
+      "name": "Lee Gemulus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91676397,
+      "name": "Donnie Shardani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92760000,
+      "name": "Ergoj Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Larz Denland",
+  "corporation_id": 98755037,
+  "alliance_id": 99013537,
+  "corporation_name": "Vogar Industrial",
+  "alliance_name": "Insidious."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122505470,
+  "total_losses": 15,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92838401,
+      "name": "Roger Y0ung",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 691241676,
+      "name": "Kolt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123727390,
+      "name": "Iwara Isaka Muvila",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Deep Ranger",
+  "corporation_id": 98380820,
+  "alliance_id": 99009511,
+  "corporation_name": "Exit-Strategy",
+  "alliance_name": "Unchained Alliance"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2116649681,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123027538,
+    "name": "Bob Skibbido",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 2123027538,
+      "name": "Bob Skibbido",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120149310,
+      "name": "Marcha Soda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123225319,
+      "name": "Amarr Slave 3212",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123866678,
+      "name": "Amarr slave 3344",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caratacus Black Crendraven",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

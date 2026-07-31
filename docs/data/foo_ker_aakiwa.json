@@ -1,0 +1,40 @@
+{
+  "character_id": 2115485625,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92422334,
+    "name": "Ciri Ferro",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92422334,
+      "name": "Ciri Ferro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114523818,
+      "name": "Ax Norvega",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123228070,
+      "name": "Neekee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Foo Ker Aakiwa",
+  "corporation_id": 98249443,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Icarus Expedition",
+  "alliance_name": "Solyaris Chtonium"
+}

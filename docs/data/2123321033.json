@@ -1,0 +1,40 @@
+{
+  "character_id": 2123321033,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121040628,
+    "name": "Yana Rev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780050,
+    "alliance_id": 99012654,
+    "corporation_name": "Pocket Tiger",
+    "alliance_name": "Ant Tiger"
+  },
+  "top_killers": [
+    {
+      "id": 2121040628,
+      "name": "Yana Rev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117755123,
+      "name": "Kuharin Dima",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "August Valorum",
+  "corporation_id": 98508891,
+  "alliance_id": 99013780,
+  "corporation_name": "Aperture Void Corporation",
+  "alliance_name": "Advent Coalition"
+}

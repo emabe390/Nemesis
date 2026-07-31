@@ -1,0 +1,34 @@
+{
+  "character_id": 2123585662,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121092830,
+    "name": "Tank CE0",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 900063097,
+    "alliance_id": null,
+    "corporation_name": "Dark Cartel",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121092830,
+      "name": "Tank CE0",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94105304,
+      "name": "Ayaka Iida",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kirin-V",
+  "corporation_id": 98800613,
+  "alliance_id": null,
+  "corporation_name": "Emperor Scythes Academy",
+  "alliance_name": null
+}

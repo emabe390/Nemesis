@@ -1,0 +1,52 @@
+{
+  "character_id": 2122870346,
+  "total_losses": 27,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 429615026,
+    "name": "Aline Kia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98335809,
+    "alliance_id": 99003581,
+    "corporation_name": "The Northerners",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 429615026,
+      "name": "Aline Kia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020062,
+      "name": "Allecto Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95201474,
+      "name": "Nikol Dern",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95631062,
+      "name": "Teddy KGB",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kitty Driver",
+  "corporation_id": 98818418,
+  "alliance_id": 99014548,
+  "corporation_name": "The Ouroboros Collective",
+  "alliance_name": "Project Oasis"
+}

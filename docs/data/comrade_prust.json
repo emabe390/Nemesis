@@ -1,0 +1,52 @@
+{
+  "character_id": 2123914043,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 149849961,
+    "name": "Zmey Gorynich",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98535701,
+    "alliance_id": 99013851,
+    "corporation_name": "Geto-Dacii",
+    "alliance_name": "M A C U L A"
+  },
+  "top_killers": [
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92954126,
+      "name": "Redal Seith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1860945203,
+      "name": "Serpeys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120407307,
+      "name": "Blood Sunset",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Comrade Prust",
+  "corporation_id": 98476260,
+  "alliance_id": null,
+  "corporation_name": "Enemy in System",
+  "alliance_name": null
+}

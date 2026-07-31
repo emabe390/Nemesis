@@ -1,0 +1,34 @@
+{
+  "character_id": 2123210630,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92621545,
+    "name": "Eli Patrouette",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98836815,
+    "alliance_id": 99015107,
+    "corporation_name": "We Touch Tips",
+    "alliance_name": "Suspiciously Well-Oiled Gamers"
+  },
+  "top_killers": [
+    {
+      "id": 92621545,
+      "name": "Eli Patrouette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120908244,
+      "name": "barbun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FastestHandInTheWildWest",
+  "corporation_id": 98736441,
+  "alliance_id": 99003581,
+  "corporation_name": "Splendid Rockertunities",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123233658,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 90598539,
+    "name": "Tyler Aurilen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98657999,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rage Confederacy",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90598539,
+      "name": "Tyler Aurilen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91358754,
+      "name": "Anunak Raholan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90245071,
+      "name": "Drekmir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92000736,
+      "name": "Scott Auscent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agent Karthus",
+  "corporation_id": 98630716,
+  "alliance_id": 99009830,
+  "corporation_name": "Volantean Nation",
+  "alliance_name": "Lan'Tean Imperium"
+}

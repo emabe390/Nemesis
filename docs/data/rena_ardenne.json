@@ -1,0 +1,52 @@
+{
+  "character_id": 2123666679,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 95613383,
+    "name": "Fiudovy Tekitsu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98613346,
+    "alliance_id": null,
+    "corporation_name": "Piou",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95613383,
+      "name": "Fiudovy Tekitsu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1517736627,
+      "name": "Princess Osiris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 224846390,
+      "name": "Bluedagger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 248885645,
+      "name": "VeiledFlare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rena Ardenne",
+  "corporation_id": 98325373,
+  "alliance_id": 99012982,
+  "corporation_name": "Running with Dogs",
+  "alliance_name": "OnlyFleets."
+}

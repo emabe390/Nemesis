@@ -1,0 +1,52 @@
+{
+  "character_id": 2123549505,
+  "total_losses": 51,
+  "unique_killers": 45,
+  "nemesis": {
+    "id": 2123354342,
+    "name": "Zevi Marque",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98096929,
+    "alliance_id": 99014101,
+    "corporation_name": "Reckless Entity Enterprises",
+    "alliance_name": "Reckless Empire"
+  },
+  "top_killers": [
+    {
+      "id": 2123354342,
+      "name": "Zevi Marque",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1714992864,
+      "name": "assasain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121701872,
+      "name": "Keith helper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90261464,
+      "name": "Leojj",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Imperial Vader",
+  "corporation_id": 98096929,
+  "alliance_id": 99014101,
+  "corporation_name": "Reckless Entity Enterprises",
+  "alliance_name": "Reckless Empire"
+}

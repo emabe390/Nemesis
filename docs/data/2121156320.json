@@ -1,0 +1,40 @@
+{
+  "character_id": 2121156320,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 114101458,
+    "name": "Irllandi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 625591217,
+    "alliance_id": null,
+    "corporation_name": "Sovetsky Soyuz",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 114101458,
+      "name": "Irllandi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124290222,
+      "name": "Boiled One",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Franz Hariere",
+  "corporation_id": 98158071,
+  "alliance_id": null,
+  "corporation_name": "Free The Mineral",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 861802011,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 90323169,
+    "name": "Aeth Gemulus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 553310352,
+    "alliance_id": null,
+    "corporation_name": "The Hatchery",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90323169,
+      "name": "Aeth Gemulus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94846856,
+      "name": "Phineas McLintock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Br'krr On'ein",
+  "corporation_id": 98658625,
+  "alliance_id": 99011957,
+  "corporation_name": "Goosefleet",
+  "alliance_name": "Gooseflock Featheration"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114261657,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 340188630,
+    "name": "TOUNSI",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 340188630,
+      "name": "TOUNSI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114352637,
+      "name": "Ygritte Pava",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Key Orion",
+  "corporation_id": 98751036,
+  "alliance_id": 99014431,
+  "corporation_name": "For All Intents and Porpoises",
+  "alliance_name": "Just Lizard"
+}

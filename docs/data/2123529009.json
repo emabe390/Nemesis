@@ -1,0 +1,46 @@
+{
+  "character_id": 2123529009,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116269816,
+    "name": "Arkos Haginen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705562,
+    "alliance_id": null,
+    "corporation_name": "Halotherapy.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116269816,
+      "name": "Arkos Haginen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119313972,
+      "name": "AisPobo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123318530,
+      "name": "ST Tristram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kalax-83",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123478962,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 600085184,
+    "name": "vbcb",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98311523,
+    "alliance_id": 498125261,
+    "corporation_name": "Machiavellian Empire",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 600085184,
+      "name": "vbcb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94421702,
+      "name": "Subject 51",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122181219,
+      "name": "Cecil B Dinger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123338155,
+      "name": "Nyanya Kittypaw",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91192391,
+      "name": "Yusuf Alkindy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ulbame Rarz Shakiel",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

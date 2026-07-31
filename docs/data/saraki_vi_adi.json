@@ -1,0 +1,34 @@
+{
+  "character_id": 2124101205,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92256155,
+    "name": "Lee Blackwood",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117305443,
+      "name": "Ava Sabori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saraki Vi Adi",
+  "corporation_id": 98824787,
+  "alliance_id": null,
+  "corporation_name": "Highsec Ants",
+  "alliance_name": null
+}

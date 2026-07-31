@@ -1,0 +1,52 @@
+{
+  "character_id": 2121651190,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1299455473,
+    "name": "Garnoo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 211551078,
+    "alliance_id": 1354830081,
+    "corporation_name": "Eternity INC.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1299455473,
+      "name": "Garnoo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 901077280,
+      "name": "ReapersTears",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1771809185,
+      "name": "Darmarkus XI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hirtan Avada",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

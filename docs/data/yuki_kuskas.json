@@ -1,0 +1,52 @@
+{
+  "character_id": 2115116237,
+  "total_losses": 76,
+  "unique_killers": 59,
+  "nemesis": {
+    "id": 1181303075,
+    "name": "Malodon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 221232882,
+    "alliance_id": null,
+    "corporation_name": "The Eden Trading International Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1181303075,
+      "name": "Malodon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92367833,
+      "name": "Altor Bones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93233273,
+      "name": "Yumi MeiJin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95630568,
+      "name": "John LiWang",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yuki Kuskas",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

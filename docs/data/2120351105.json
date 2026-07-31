@@ -1,0 +1,40 @@
+{
+  "character_id": 2120351105,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118382338,
+    "name": "Talarie",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98732877,
+    "alliance_id": 1354830081,
+    "corporation_name": "Iron Whales",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2118382338,
+      "name": "Talarie",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1350013104,
+      "name": "Renegats",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1802097633,
+      "name": "nye 2k",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2120351105",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113711027,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 274620610,
+    "name": "Colonel Santiago",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 274620610,
+      "name": "Colonel Santiago",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120929404,
+      "name": "Julanez",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123311915,
+      "name": "Julaeth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GeoGuy Sertan",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

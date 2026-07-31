@@ -1,0 +1,40 @@
+{
+  "character_id": 2123803363,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116393724,
+    "name": "Character 2116393724",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679345,
+    "alliance_id": null,
+    "corporation_name": "KOT u CTADO",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116393724,
+      "name": "Character 2116393724",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92524847,
+      "name": "Ann Karas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93223345,
+      "name": "Character 93223345",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DeHauler",
+  "corporation_id": 98575255,
+  "alliance_id": 99005338,
+  "corporation_name": "Dragon.",
+  "alliance_name": "Pandemic Horde"
+}

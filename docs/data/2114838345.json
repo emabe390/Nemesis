@@ -1,0 +1,52 @@
+{
+  "character_id": 2114838345,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114523818,
+    "name": "Ax Norvega",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833924,
+    "alliance_id": 99014828,
+    "corporation_name": "Null Point.",
+    "alliance_name": "Singularity..."
+  },
+  "top_killers": [
+    {
+      "id": 2114523818,
+      "name": "Ax Norvega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122730568,
+      "name": "Lagtrain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123656303,
+      "name": "Glitch Effect",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121749208,
+      "name": "PretAManager",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vallkyrie Askold",
+  "corporation_id": 98406548,
+  "alliance_id": null,
+  "corporation_name": "Insurrection",
+  "alliance_name": null
+}

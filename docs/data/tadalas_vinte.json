@@ -1,0 +1,34 @@
+{
+  "character_id": 2123325853,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113207246,
+    "name": "Ross Philips",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113207246,
+      "name": "Ross Philips",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Tadalas Vinte",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

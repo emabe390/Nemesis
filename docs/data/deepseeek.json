@@ -1,0 +1,40 @@
+{
+  "character_id": 2124385352,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124070335,
+    "name": "Outoku Aihaken",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98640194,
+    "alliance_id": 99014738,
+    "corporation_name": "Salted Fish Inc",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2124070335,
+      "name": "Outoku Aihaken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 798459743,
+      "name": "Jaaek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "deepseeek",
+  "corporation_id": 98824507,
+  "alliance_id": 99013541,
+  "corporation_name": "Fuxi Military Academy",
+  "alliance_name": "Fraternity Auxiliary"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123799170,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123416613,
+      "name": "Berlera Leusten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92714556,
+      "name": "The Rozmar's Prophet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kisu Ururune",
+  "corporation_id": 996967969,
+  "alliance_id": null,
+  "corporation_name": "ZONA ATX",
+  "alliance_name": null
+}

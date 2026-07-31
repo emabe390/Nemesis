@@ -1,0 +1,40 @@
+{
+  "character_id": 516157572,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 895203114,
+    "name": "Psyk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 344934382,
+    "alliance_id": null,
+    "corporation_name": "Rogue Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 893658789,
+      "name": "Nahkanuudeli",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zzars",
+  "corporation_id": 98711479,
+  "alliance_id": null,
+  "corporation_name": "Medicinal Lobster",
+  "alliance_name": null
+}

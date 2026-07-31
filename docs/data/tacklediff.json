@@ -1,0 +1,52 @@
+{
+  "character_id": 2121559479,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91113617,
+      "name": "Tear Junkie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94944102,
+      "name": "Coballo Blanco",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115710633,
+      "name": "Kair Nayr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116267484,
+      "name": "Leland Altol",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TackleDiff",
+  "corporation_id": 98633005,
+  "alliance_id": 99011372,
+  "corporation_name": "Protean Concept",
+  "alliance_name": "Moss Piglet Preservation Society"
+}

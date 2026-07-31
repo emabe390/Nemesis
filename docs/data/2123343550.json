@@ -1,0 +1,40 @@
+{
+  "character_id": 2123343550,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116150785,
+    "name": "Kanaad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740697,
+    "alliance_id": 99014676,
+    "corporation_name": "The Holy Church of the Barghest",
+    "alliance_name": "The Excommunicati"
+  },
+  "top_killers": [
+    {
+      "id": 2116150785,
+      "name": "Kanaad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91611270,
+      "name": "Tony Goalardo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115614181,
+      "name": "dark rance",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yumeno Mumei",
+  "corporation_id": 98803200,
+  "alliance_id": 99013541,
+  "corporation_name": "Foredawn Sentinel",
+  "alliance_name": "Fraternity Auxiliary"
+}

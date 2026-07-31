@@ -1,0 +1,40 @@
+{
+  "character_id": 2124455582,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118649343,
+    "name": "Randon Deimos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98672060,
+    "alliance_id": 99009845,
+    "corporation_name": "Relentless Miners",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2118649343,
+      "name": "Randon Deimos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124025868,
+      "name": "Markus Wahlenyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124499460,
+      "name": "Kronar Skular",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sylvaenourend Nullounaerihex",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

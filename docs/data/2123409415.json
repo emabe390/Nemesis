@@ -1,0 +1,46 @@
+{
+  "character_id": 2123409415,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118716808,
+    "name": "Ezhowski",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98825059,
+    "alliance_id": 99014671,
+    "corporation_name": "Hel Vegen.",
+    "alliance_name": "NecroSphere."
+  },
+  "top_killers": [
+    {
+      "id": 2118716808,
+      "name": "Ezhowski",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92819557,
+      "name": "Furyan Saikabara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 329675294,
+      "name": "MysticMonk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 348161728,
+      "name": "Joey Zasa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heathcliff Zeromir",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123146419,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122925935,
+    "name": "SmellyBear",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98729554,
+    "alliance_id": null,
+    "corporation_name": "Pink Romance Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122925935,
+      "name": "SmellyBear",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92474259,
+      "name": "C0RPZE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122703146,
+      "name": "Rehe8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91807078,
+      "name": "Kremar Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1243432790,
+      "name": "Mina Zaster",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brel Eyrou",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

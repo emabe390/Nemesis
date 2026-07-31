@@ -1,0 +1,40 @@
+{
+  "character_id": 2121788660,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116117957,
+      "name": "Naruto Yuribayashi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117521615,
+      "name": "Todrold Atavuli",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Siapas",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

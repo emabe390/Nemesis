@@ -1,0 +1,52 @@
+{
+  "character_id": 2123489888,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123717031,
+    "name": "AAA-jiancai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123717031,
+      "name": "AAA-jiancai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90382217,
+      "name": "WEXOR Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 686600719,
+      "name": "Silver GreyZone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 811374433,
+      "name": "Barking Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Whispers Dawn",
+  "corporation_id": 98178881,
+  "alliance_id": 99003581,
+  "corporation_name": "Nuwa Foundation",
+  "alliance_name": "Fraternity."
+}

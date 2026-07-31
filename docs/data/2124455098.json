@@ -1,0 +1,52 @@
+{
+  "character_id": 2124455098,
+  "total_losses": 26,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2123504388,
+    "name": "VVEK",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98836422,
+    "alliance_id": null,
+    "corporation_name": "VVEK Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123504388,
+      "name": "VVEK",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 95345275,
+      "name": "Captain Zimbala",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95569299,
+      "name": "Rattsy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124149515,
+      "name": "Mike Jevron",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ferdinand Clon Magellan",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

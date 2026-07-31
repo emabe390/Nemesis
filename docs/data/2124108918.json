@@ -1,0 +1,40 @@
+{
+  "character_id": 2124108918,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96136256,
+    "name": "Colisa vonLeipzig",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96136256,
+      "name": "Colisa vonLeipzig",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123971269,
+      "name": "Egon Kowalski Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Onoras Iesen Kion",
+  "corporation_id": 278888243,
+  "alliance_id": null,
+  "corporation_name": "Wild Card Corp.",
+  "alliance_name": null
+}

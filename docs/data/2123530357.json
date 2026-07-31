@@ -1,0 +1,52 @@
+{
+  "character_id": 2123530357,
+  "total_losses": 38,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2112048738,
+    "name": "JohnCurtis Holmes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802230,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mad goofies and goonies",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112048738,
+      "name": "JohnCurtis Holmes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119479763,
+      "name": "Kola Awalah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92233476,
+      "name": "Saynos Shana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93355639,
+      "name": "Friday Baldwine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95168075,
+      "name": "Alo AluiAltum",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Salegar",
+  "corporation_id": 98763473,
+  "alliance_id": 99013212,
+  "corporation_name": "The Free Mining Alliance Refugees",
+  "alliance_name": "Crimson Interstellar Alliance"
+}

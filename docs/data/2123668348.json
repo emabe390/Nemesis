@@ -1,0 +1,46 @@
+{
+  "character_id": 2123668348,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1503395585,
+    "name": "Edward Harris",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 251593602,
+    "alliance_id": null,
+    "corporation_name": "Inner Geek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1503395585,
+      "name": "Edward Harris",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 589604136,
+      "name": "General Xance",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 287252163,
+      "name": "Dillinger Cel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123949269,
+      "name": "Kaas Hanoma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyra Thalasson",
+  "corporation_id": 98810684,
+  "alliance_id": 99013285,
+  "corporation_name": "Quiet night gas co",
+  "alliance_name": "Incorporeal Conglomerate Society"
+}

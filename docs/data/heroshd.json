@@ -1,0 +1,40 @@
+{
+  "character_id": 2123825594,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92655600,
+    "name": "Guybertini",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98155447,
+    "alliance_id": 99002775,
+    "corporation_name": "New Order Logistics",
+    "alliance_name": "CODE."
+  },
+  "top_killers": [
+    {
+      "id": 92655600,
+      "name": "Guybertini",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119373257,
+      "name": "Uematsu Ijuin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119702529,
+      "name": "Ayuri Shimazu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HerosHD",
+  "corporation_id": 98798932,
+  "alliance_id": 99013823,
+  "corporation_name": "Ore and Order",
+  "alliance_name": "Cat Scratch Fevers"
+}

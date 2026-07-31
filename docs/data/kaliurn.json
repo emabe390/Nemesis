@@ -1,0 +1,40 @@
+{
+  "character_id": 96748951,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95389433,
+    "name": "shootyou longtyme",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 669795117,
+    "alliance_id": 131511956,
+    "corporation_name": "Systems High Guard",
+    "alliance_name": "Tactical Narcotics Team"
+  },
+  "top_killers": [
+    {
+      "id": 95389433,
+      "name": "shootyou longtyme",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95779000,
+      "name": "Dwark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 337840305,
+      "name": "Malarkai Densuri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaliurn",
+  "corporation_id": 1000060,
+  "alliance_id": null,
+  "corporation_name": "Native Freshfood",
+  "alliance_name": null
+}

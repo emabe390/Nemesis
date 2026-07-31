@@ -1,0 +1,52 @@
+{
+  "character_id": 2119684491,
+  "total_losses": 38,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 1722982209,
+    "name": "human calculator",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98704266,
+    "alliance_id": null,
+    "corporation_name": "Mongolian Fire Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1722982209,
+      "name": "human calculator",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2121891605,
+      "name": "AIDAN ALDRICH",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 91431478,
+      "name": "Calaan Stormwind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92340523,
+      "name": "Choku Dori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92556571,
+      "name": "Pennycorn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Livio Sgravo",
+  "corporation_id": 98683163,
+  "alliance_id": 99011223,
+  "corporation_name": "Arial Enterprise",
+  "alliance_name": "Sigma Grindset"
+}

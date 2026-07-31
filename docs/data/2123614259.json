@@ -1,0 +1,52 @@
+{
+  "character_id": 2123614259,
+  "total_losses": 55,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 35,
+    "final_blows": 35,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 35,
+      "final_blows": 35
+    },
+    {
+      "id": 92010825,
+      "name": "Elbow Star's",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 743627802,
+      "name": "Virus Knight",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116826354,
+      "name": "Joanna Bayrid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aruma Odunen",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

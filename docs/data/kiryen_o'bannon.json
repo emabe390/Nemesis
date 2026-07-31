@@ -1,0 +1,52 @@
+{
+  "character_id": 90773180,
+  "total_losses": 83,
+  "unique_killers": 71,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 94814220,
+      "name": "Rima Ambraelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 249261834,
+      "name": "Pax Sex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1430179709,
+      "name": "Avitus Angelos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kiryen O'Bannon",
+  "corporation_id": 1063360566,
+  "alliance_id": 1354830081,
+  "corporation_name": "SUNDERING",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123848214,
+  "total_losses": 24,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2123851676,
+    "name": "Brokksecond",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98740495,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Peacekeeper",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123851676,
+      "name": "Brokksecond",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96930800,
+      "name": "Gertoni Macaroni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1075598849,
+      "name": "Character 1075598849",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Brokkone",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

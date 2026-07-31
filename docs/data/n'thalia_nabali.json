@@ -1,0 +1,46 @@
+{
+  "character_id": 2114523211,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123825535,
+    "name": "The Guided One",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 185057989,
+      "name": "LEXER",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 790021397,
+      "name": "Heldrum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124153771,
+      "name": "Shadow-of-Sundered-Star",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "N'thalia Nabali",
+  "corporation_id": 98718076,
+  "alliance_id": 1354830081,
+  "corporation_name": "GSF Logistics and Posting Reserves",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123646009,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92661291,
+      "name": "Smosh Cringe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 237348528,
+      "name": "Apokrophys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113990459,
+      "name": "Sparck Plagueis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115370784,
+      "name": "Randy Tong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ghost Magician",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

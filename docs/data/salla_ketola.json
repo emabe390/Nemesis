@@ -1,0 +1,40 @@
+{
+  "character_id": 2123590025,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2029780168,
+    "name": "Feson",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 2029780168,
+      "name": "Feson",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1714496940,
+      "name": "Enzee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Salla Ketola",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

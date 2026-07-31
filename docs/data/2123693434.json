@@ -1,0 +1,46 @@
+{
+  "character_id": 2123693434,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 744537204,
+    "name": "Hunter Dredd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 744537204,
+      "name": "Hunter Dredd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90872042,
+      "name": "Aorra Mentek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123582330,
+      "name": "Ryvixa Arylia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sous Udan",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

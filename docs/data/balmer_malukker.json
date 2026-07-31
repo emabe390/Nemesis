@@ -1,0 +1,52 @@
+{
+  "character_id": 2121412395,
+  "total_losses": 21,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2121820354,
+    "name": "Inghomyne Muync",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817717,
+    "alliance_id": 99014632,
+    "corporation_name": "1 2 3 4 5 6 7 8 9 0",
+    "alliance_name": "A B C D E F G H I 0"
+  },
+  "top_killers": [
+    {
+      "id": 2121820354,
+      "name": "Inghomyne Muync",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122319382,
+      "name": "Kara Mele",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124401321,
+      "name": "Belvar Malukker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95990061,
+      "name": "Character 95990061",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Balmer Malukker",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

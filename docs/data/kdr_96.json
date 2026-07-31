@@ -1,0 +1,34 @@
+{
+  "character_id": 2124206520,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95642579,
+    "name": "Lawlocaust",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 693378155,
+    "alliance_id": 498125261,
+    "corporation_name": "Unholy Knights of Cthulhu",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 95642579,
+      "name": "Lawlocaust",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96014296,
+      "name": "SuperTrubA",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "KDR-96",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

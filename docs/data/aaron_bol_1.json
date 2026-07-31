@@ -1,0 +1,40 @@
+{
+  "character_id": 2123361631,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115810919,
+    "name": "F-435454 UAV injury-devic",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2115810919,
+      "name": "F-435454 UAV injury-devic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116211529,
+      "name": "Caldari TT-Phoenix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122229025,
+      "name": "OBJ195",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aaron Bol 1",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

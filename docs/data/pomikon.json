@@ -1,0 +1,52 @@
+{
+  "character_id": 2123693259,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113409641,
+    "name": "GrayHeart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2113409641,
+      "name": "GrayHeart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122238065,
+      "name": "FoxTheUnicone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93176064,
+      "name": "serega birukov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96163306,
+      "name": "Dean Gabos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1041670596,
+      "name": "Toot Maimington",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pomikon",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

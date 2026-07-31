@@ -1,0 +1,52 @@
+{
+  "character_id": 2123825593,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1743905655,
+    "name": "EF Beta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121849329,
+      "name": "Decklan Starchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96906637,
+      "name": "necro prince",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ano Mal",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

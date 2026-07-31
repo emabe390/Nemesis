@@ -1,0 +1,46 @@
+{
+  "character_id": 2123118789,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96080132,
+      "name": "VpFalcon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122087120,
+      "name": "Smth01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123118788,
+      "name": "Tedhav Hamu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tedlew Hamu",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123095583,
+  "total_losses": 79,
+  "unique_killers": 57,
+  "nemesis": {
+    "id": 2118645041,
+    "name": "Kiki Of Merri",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 2118645041,
+      "name": "Kiki Of Merri",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90794980,
+      "name": "Quark Curneth",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117662957,
+      "name": "Viola Alexandria",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118064495,
+      "name": "Riot Mar",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Orphan Obliterator",
+  "corporation_id": 98780178,
+  "alliance_id": null,
+  "corporation_name": "Tide of Carnage",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2117752055,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117725082,
+    "name": "Deon Deadmeat",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662707,
+    "alliance_id": null,
+    "corporation_name": "Farmer Nextdoor",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117725082,
+      "name": "Deon Deadmeat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117765010,
+      "name": "Gho0st",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117071903,
+      "name": "Hurmere Ossel Viliana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Constitutional Peasant",
+  "corporation_id": 98345858,
+  "alliance_id": 99004344,
+  "corporation_name": "Black Powder Ballistics",
+  "alliance_name": "Hole Control"
+}

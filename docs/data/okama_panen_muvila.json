@@ -1,0 +1,40 @@
+{
+  "character_id": 2123910709,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 977054475,
+    "name": "Manfred Stahler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91751307,
+      "name": "Anastasia Erquilenne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118489008,
+      "name": "Anun Naku",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okama Panen Muvila",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

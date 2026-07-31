@@ -1,0 +1,40 @@
+{
+  "character_id": 2120091035,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 239900208,
+    "name": "Thorsten Kabrinski",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 246216857,
+    "alliance_id": null,
+    "corporation_name": "Multiversal Enterprise Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 239900208,
+      "name": "Thorsten Kabrinski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 904892827,
+      "name": "GDaemon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118866441,
+      "name": "Alda Malukker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jakanerva Okaski",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

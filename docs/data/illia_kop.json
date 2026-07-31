@@ -1,0 +1,40 @@
+{
+  "character_id": 2122195426,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90525678,
+    "name": "Arkezar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 90525678,
+      "name": "Arkezar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95551897,
+      "name": "Fleur Levesque",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Illia Kop",
+  "corporation_id": 98736256,
+  "alliance_id": 99012161,
+  "corporation_name": "Should Not Explode",
+  "alliance_name": "SHOULD NOT EXPLODE..."
+}

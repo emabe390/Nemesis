@@ -1,0 +1,40 @@
+{
+  "character_id": 95460324,
+  "total_losses": 20,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95783946,
+    "name": "CryptoSporidium",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95783946,
+      "name": "CryptoSporidium",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 95998810,
+      "name": "Extreme Wayz",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95783854,
+      "name": "Zusan Ivanova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cozmo Datus",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

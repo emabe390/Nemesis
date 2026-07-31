@@ -1,0 +1,52 @@
+{
+  "character_id": 2124255300,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 95060080,
+    "name": "Aysel Marakin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95060080,
+      "name": "Aysel Marakin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113138194,
+      "name": "Strive",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92968955,
+      "name": "Robyn lynx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 999734578,
+      "name": "leshrak cabot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "jollystorm",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

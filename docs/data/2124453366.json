@@ -1,0 +1,40 @@
+{
+  "character_id": 2124453366,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90554173,
+    "name": "Piotr Pole",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124294551,
+      "name": "Dark Serraphim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emelie Lavellan",
+  "corporation_id": 98323234,
+  "alliance_id": 99013251,
+  "corporation_name": "Randsektor Schutzgruppe",
+  "alliance_name": "Circle of Vheroka"
+}

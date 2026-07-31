@@ -1,0 +1,52 @@
+{
+  "character_id": 2122938543,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123750860,
+      "name": "Joy Divis1on",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92374001,
+      "name": "Yiliana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94389072,
+      "name": "Johanis Cal-dahari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95260085,
+      "name": "Sammy Sprinkl3r",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pinioro",
+  "corporation_id": 98678807,
+  "alliance_id": 99013766,
+  "corporation_name": "Settlers Inc.",
+  "alliance_name": "Death Legion of Capybaras"
+}

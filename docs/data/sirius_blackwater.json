@@ -1,0 +1,40 @@
+{
+  "character_id": 2116509387,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 850452726,
+    "name": "Gaius Ceasar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1005661681,
+    "alliance_id": 495729389,
+    "corporation_name": "Sonnenlegion",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 850452726,
+      "name": "Gaius Ceasar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116944001,
+      "name": "Omar Abduhl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121795384,
+      "name": "Asanias",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sirius Blackwater",
+  "corporation_id": 98635369,
+  "alliance_id": null,
+  "corporation_name": "Blackwater Industries Space solutions",
+  "alliance_name": null
+}

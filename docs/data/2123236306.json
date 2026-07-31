@@ -1,0 +1,40 @@
+{
+  "character_id": 2123236306,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92981308,
+    "name": "Infernalia Endorda",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98571715,
+    "alliance_id": 1900696668,
+    "corporation_name": "Xynodyne",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 92981308,
+      "name": "Infernalia Endorda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114233115,
+      "name": "Akane Kiyokoo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118161251,
+      "name": "Kord Erkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baral Tomoe",
+  "corporation_id": 98784489,
+  "alliance_id": 99014050,
+  "corporation_name": "Forge Foundation",
+  "alliance_name": "Lunar Luminescence"
+}

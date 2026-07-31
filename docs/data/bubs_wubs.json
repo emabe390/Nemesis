@@ -1,0 +1,52 @@
+{
+  "character_id": 2124251022,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115768319,
+    "name": "Dema1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115768319,
+      "name": "Dema1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116344600,
+      "name": "Nicrophorus Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120518402,
+      "name": "MogDog Wells",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123960094,
+      "name": "Sarge Stedenko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bubs Wubs",
+  "corporation_id": 98818689,
+  "alliance_id": null,
+  "corporation_name": "Dudes Recruiting Dudes To Hang Out With Dudes.",
+  "alliance_name": null
+}

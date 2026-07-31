@@ -1,0 +1,40 @@
+{
+  "character_id": 2124326426,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1551040737,
+    "name": "Uma Thurman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1551040737,
+      "name": "Uma Thurman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118420895,
+      "name": "Drunken Goat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miss Lucky Prime",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

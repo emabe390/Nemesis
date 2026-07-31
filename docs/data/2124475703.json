@@ -1,0 +1,52 @@
+{
+  "character_id": 2124475703,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2124292588,
+    "name": "A-ZW-05",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124292588,
+      "name": "A-ZW-05",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118715325,
+      "name": "WSQQ4",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112807765,
+      "name": "TC10086",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116344600,
+      "name": "Nicrophorus Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122462807,
+      "name": "Voiras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "autofei",
+  "corporation_id": 98764551,
+  "alliance_id": 99014027,
+  "corporation_name": "PLA Fleet",
+  "alliance_name": "People's Liberation Alliance"
+}

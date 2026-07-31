@@ -1,0 +1,52 @@
+{
+  "character_id": 2123929179,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 96393147,
+    "name": "Double XL",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98434706,
+    "alliance_id": null,
+    "corporation_name": "Dismas Holdings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96393147,
+      "name": "Double XL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1727163722,
+      "name": "Mr Knife",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91603660,
+      "name": "Lee Flint",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93813131,
+      "name": "Kong GukSoo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WhiteSunset",
+  "corporation_id": 98705642,
+  "alliance_id": 99006406,
+  "corporation_name": "Chuangshi College",
+  "alliance_name": "Fraternity University"
+}

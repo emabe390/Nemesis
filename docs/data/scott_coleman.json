@@ -1,0 +1,40 @@
+{
+  "character_id": 1322127629,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 214665328,
+    "name": "Mr Dima",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121384583,
+      "name": "Jeanne Arris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1322127629,
+      "name": "Scott Coleman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scott Coleman",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

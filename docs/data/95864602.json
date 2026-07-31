@@ -1,0 +1,52 @@
+{
+  "character_id": 95864602,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 604362129,
+    "name": "Kojiro Haza",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 604362129,
+      "name": "Kojiro Haza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116485636,
+      "name": "Navar Askold",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123072453,
+      "name": "Lee Shank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123180054,
+      "name": "Splinter Askold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gajs Jylius",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

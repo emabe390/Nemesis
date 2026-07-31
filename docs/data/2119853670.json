@@ -1,0 +1,52 @@
+{
+  "character_id": 2119853670,
+  "total_losses": 90,
+  "unique_killers": 60,
+  "nemesis": {
+    "id": 1722982209,
+    "name": "human calculator",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98704266,
+    "alliance_id": null,
+    "corporation_name": "Mongolian Fire Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1722982209,
+      "name": "human calculator",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MedusaCascade4",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121547483,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 810739761,
+    "name": "Cizani",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1056867436,
+    "alliance_id": 99003581,
+    "corporation_name": "Super Villains",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 810739761,
+      "name": "Cizani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1542940128,
+      "name": "Lucian Veridan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1830007514,
+      "name": "Cristalo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grimmar Zen",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123592430,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96103372,
+    "name": "WhatThePissTrainee",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98258093,
+    "alliance_id": 99009268,
+    "corporation_name": "Strategic Exploration and Development Corp",
+    "alliance_name": "Silent Company"
+  },
+  "top_killers": [
+    {
+      "id": 96103372,
+      "name": "WhatThePissTrainee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PutridPest",
+  "corporation_id": 98808051,
+  "alliance_id": null,
+  "corporation_name": "Null'n'Void",
+  "alliance_name": null
+}

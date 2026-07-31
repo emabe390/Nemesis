@@ -1,0 +1,46 @@
+{
+  "character_id": 2118182842,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119131489,
+    "name": "Jeff Kali",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119131489,
+      "name": "Jeff Kali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 964710202,
+      "name": "Arch Raptor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118237463,
+      "name": "Skunnr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122895006,
+      "name": "Yatken Nutsu Itinen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SabreRattling",
+  "corporation_id": 98487359,
+  "alliance_id": 99011614,
+  "corporation_name": "Ronin ONE",
+  "alliance_name": "Ronin Reloaded"
+}

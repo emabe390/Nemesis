@@ -1,0 +1,52 @@
+{
+  "character_id": 2123877123,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 929103832,
+    "name": "YangSham Po",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98195116,
+    "alliance_id": null,
+    "corporation_name": "Suicide Girlz",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 929103832,
+      "name": "YangSham Po",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115402830,
+      "name": "Character 2115402830",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92399285,
+      "name": "Jimm DeCrizz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93088717,
+      "name": "Exhunt HD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Velen Morgulis",
+  "corporation_id": 866918391,
+  "alliance_id": 99012604,
+  "corporation_name": "X-Zest Voyage",
+  "alliance_name": "X - Z E S T"
+}

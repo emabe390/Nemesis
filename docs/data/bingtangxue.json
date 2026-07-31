@@ -1,0 +1,52 @@
+{
+  "character_id": 2123230009,
+  "total_losses": 30,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123350822,
+    "name": "Bombardio Crocodilo",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98819994,
+    "alliance_id": null,
+    "corporation_name": "The Horizon Jurisdiction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123350822,
+      "name": "Bombardio Crocodilo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116690528,
+      "name": "CNMoon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121504419,
+      "name": "Wang Jiu Y",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121530547,
+      "name": "Lalka Caller",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "bingtangxue",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

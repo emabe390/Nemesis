@@ -1,0 +1,52 @@
+{
+  "character_id": 2124155306,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 471666446,
+      "name": "Warang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1014706762,
+      "name": "credokat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113955001,
+      "name": "wicked-welk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekvario",
+  "corporation_id": 98279775,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deep Space Conquerors",
+  "alliance_name": "Goonswarm Federation"
+}

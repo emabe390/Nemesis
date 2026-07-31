@@ -1,0 +1,40 @@
+{
+  "character_id": 2124415083,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92750988,
+    "name": "Soulweave",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 92750988,
+      "name": "Soulweave",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124110725,
+      "name": "Leopard 2K",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Meredith Ishida",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

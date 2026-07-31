@@ -1,0 +1,52 @@
+{
+  "character_id": 2123765256,
+  "total_losses": 55,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2119726240,
+      "name": "Ms Prism",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92702537,
+      "name": "Kot A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96437707,
+      "name": "Lord AARP",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Logost Kalveyt",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

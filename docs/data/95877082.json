@@ -1,0 +1,52 @@
+{
+  "character_id": 95877082,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121650980,
+      "name": "Lt Karl Hagerman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123318117,
+      "name": "Interfector Apis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123683134,
+      "name": "Galinreth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91351253,
+      "name": "Dryss Dru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akitobi Andico",
+  "corporation_id": 98750990,
+  "alliance_id": 99010756,
+  "corporation_name": "New Eden Exploration and Uprising Syndicate",
+  "alliance_name": "Pretenders"
+}

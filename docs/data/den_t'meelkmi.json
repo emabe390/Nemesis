@@ -1,0 +1,40 @@
+{
+  "character_id": 134478046,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96791469,
+    "name": "Etein",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 96791469,
+      "name": "Etein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 229869451,
+      "name": "Cusano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116040731,
+      "name": "Sagrad Aspi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Den T'Meelkmi",
+  "corporation_id": 1000049,
+  "alliance_id": null,
+  "corporation_name": "Brutor Tribe",
+  "alliance_name": null
+}

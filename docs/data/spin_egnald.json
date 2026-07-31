@@ -1,0 +1,40 @@
+{
+  "character_id": 2124180146,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92814450,
+    "name": "Xenon Motsu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 92814450,
+      "name": "Xenon Motsu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96901445,
+      "name": "Rozo Druprime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123673626,
+      "name": "Doctor Sylens",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spin Egnald",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 92274205,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2124118869,
+    "name": "Vandris Skord",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98663820,
+    "alliance_id": null,
+    "corporation_name": "13th Revelation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124118869,
+      "name": "Vandris Skord",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92529977,
+      "name": "Hanksy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victor Sternberg",
+  "corporation_id": 609450050,
+  "alliance_id": 1988009451,
+  "corporation_name": "Cohortes Vigilum",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

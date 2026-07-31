@@ -1,0 +1,40 @@
+{
+  "character_id": 2123751657,
+  "total_losses": 18,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94759746,
+    "name": "Tanya Decker",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98740495,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Peacekeeper",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94759746,
+      "name": "Tanya Decker",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 92498479,
+      "name": "Xaltra Udan",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sloknar Drux",
+  "corporation_id": 98740495,
+  "alliance_id": null,
+  "corporation_name": "Next Frontier Peacekeeper",
+  "alliance_name": null
+}

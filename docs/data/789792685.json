@@ -1,0 +1,40 @@
+{
+  "character_id": 789792685,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1542883592,
+    "name": "BloodHummer",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98833454,
+    "alliance_id": null,
+    "corporation_name": "HeIIFire Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1542883592,
+      "name": "BloodHummer",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124010678,
+      "name": "kholops 04",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010679,
+      "name": "kholops 03",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "xUnnamedx",
+  "corporation_id": 1000060,
+  "alliance_id": null,
+  "corporation_name": "Native Freshfood",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123571081,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116896838,
+    "name": "Rats Degouts",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116896838,
+      "name": "Rats Degouts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94843529,
+      "name": "Fenrir Nordson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1876418473,
+      "name": "AdiDasler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116312739,
+      "name": "Zaer Dorgiers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven La-Lee",
+  "corporation_id": 1165671007,
+  "alliance_id": 99013759,
+  "corporation_name": "Edge of Reason",
+  "alliance_name": "Imurukka Conglomerate"
+}

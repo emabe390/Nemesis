@@ -1,0 +1,40 @@
+{
+  "character_id": 2122813090,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122399333,
+    "name": "The Jazz Cabbage",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98388312,
+    "alliance_id": null,
+    "corporation_name": "Pandemic Horde Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122399333,
+      "name": "The Jazz Cabbage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122422795,
+      "name": "Number 95",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124038272,
+      "name": "TitanDReam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekagi Sunji",
+  "corporation_id": 98817310,
+  "alliance_id": 99009163,
+  "corporation_name": "Dusk dreadnought.",
+  "alliance_name": "Dracarys."
+}

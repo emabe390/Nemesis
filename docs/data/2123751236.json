@@ -1,0 +1,34 @@
+{
+  "character_id": 2123751236,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123752692,
+    "name": "TUROP 222",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98813850,
+    "alliance_id": null,
+    "corporation_name": "Sol Ringen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123752692,
+      "name": "TUROP 222",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 275909629,
+      "name": "Ira Warwick",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TUROP 22",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

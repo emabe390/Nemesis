@@ -1,0 +1,40 @@
+{
+  "character_id": 2115615250,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91195587,
+    "name": "Raaveer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751878,
+    "alliance_id": 99012831,
+    "corporation_name": "The Frog Pond",
+    "alliance_name": "Ribbit."
+  },
+  "top_killers": [
+    {
+      "id": 91195587,
+      "name": "Raaveer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112002135,
+      "name": "Kirschgruen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bisnes Sucios",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112526940,
+  "total_losses": 42,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 90751220,
+    "name": "Julia Connor",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98821769,
+    "alliance_id": 99013537,
+    "corporation_name": "Escalation Therapy",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 90751220,
+      "name": "Julia Connor",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 441830301,
+      "name": "Tepanyaki",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 731398258,
+      "name": "Rossarii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1307353296,
+      "name": "TheUnpleasantOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1847519312,
+      "name": "Eve Mendes",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "James McClamrock",
+  "corporation_id": 98801067,
+  "alliance_id": null,
+  "corporation_name": "Voidcharter Industries",
+  "alliance_name": null
+}

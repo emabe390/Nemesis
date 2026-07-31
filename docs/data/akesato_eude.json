@@ -1,0 +1,52 @@
+{
+  "character_id": 2115702462,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95968751,
+      "name": "Zac Tsero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1902051600,
+      "name": "ZeusCommander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119093305,
+      "name": "green ducks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751918,
+      "name": "DemonicMandem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akesato Eude",
+  "corporation_id": 98783021,
+  "alliance_id": null,
+  "corporation_name": "BEI-ZHEN-FUSI",
+  "alliance_name": null
+}

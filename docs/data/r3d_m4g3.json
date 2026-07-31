@@ -1,0 +1,34 @@
+{
+  "character_id": 2123158532,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 924610593,
+    "name": "Sicks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1262577328,
+    "alliance_id": 99006975,
+    "corporation_name": "Doom Generation",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640170087,
+      "name": "JK Shadow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "R3D M4G3",
+  "corporation_id": 98752603,
+  "alliance_id": null,
+  "corporation_name": "BobVult",
+  "alliance_name": null
+}

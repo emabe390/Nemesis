@@ -1,0 +1,52 @@
+{
+  "character_id": 2123786869,
+  "total_losses": 32,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 2122545256,
+    "name": "Beethoven 9th-Symphony 4th-Movement",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750364,
+    "alliance_id": null,
+    "corporation_name": "SIT LUX",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122545256,
+      "name": "Beethoven 9th-Symphony 4th-Movement",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122692404,
+      "name": "Haduken Hakiri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123784840,
+      "name": "TAIWAN-GINO-B1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123901990,
+      "name": "TAIWAN-GINO-B5",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019584,
+      "name": "Hikanta Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TAIWAN-GINO-B4",
+  "corporation_id": 98777162,
+  "alliance_id": 1354830081,
+  "corporation_name": "TRIGLAVIAN EXECUYIR",
+  "alliance_name": "Goonswarm Federation"
+}

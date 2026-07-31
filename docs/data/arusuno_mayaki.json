@@ -1,0 +1,52 @@
+{
+  "character_id": 2123329309,
+  "total_losses": 27,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2115049942,
+    "name": "Cly Patrouette",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98837449,
+    "alliance_id": null,
+    "corporation_name": "Sound Of Madness",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115049942,
+      "name": "Cly Patrouette",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1709838750,
+      "name": "Tau Ra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121440086,
+      "name": "L Ron Hoyabende",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121634451,
+      "name": "Arviri Aguilar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97048783,
+      "name": "Working Class Man",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arusuno Mayaki",
+  "corporation_id": 98770326,
+  "alliance_id": 99009163,
+  "corporation_name": "Qui tacet consentit",
+  "alliance_name": "Dracarys."
+}

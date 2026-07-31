@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321337,
+  "total_losses": 142,
+  "unique_killers": 125,
+  "nemesis": {
+    "id": 2113915950,
+    "name": "Netalon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113915950,
+      "name": "Netalon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96809418,
+      "name": "Ooklay Agbay",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1250064068,
+      "name": "Jun Jr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112559323,
+      "name": "R0NlN BIA",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Arthur-K",
+  "corporation_id": 98807451,
+  "alliance_id": 99009163,
+  "corporation_name": "Night Garden",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124143681,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 350000799,
+    "name": "Kveto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1022815351,
+    "alliance_id": null,
+    "corporation_name": "korpa pYco",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93984695,
+      "name": "Iedan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120342475,
+      "name": "Goodvibez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avoon Omaristos",
+  "corporation_id": 98795383,
+  "alliance_id": 99003956,
+  "corporation_name": "PushX Beacon Network",
+  "alliance_name": "Push Interstellar Network"
+}

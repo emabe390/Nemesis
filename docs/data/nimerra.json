@@ -1,0 +1,52 @@
+{
+  "character_id": 2123943213,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 92549367,
+    "name": "Lando Egdald",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98422578,
+    "alliance_id": 99010787,
+    "corporation_name": "Almost Dangerous",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 92549367,
+      "name": "Lando Egdald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116958462,
+      "name": "Character 2116958462",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121927569,
+      "name": "Zhadim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92800489,
+      "name": "Lilith Nyane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96736155,
+      "name": "Raven Macmillian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nimerra",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

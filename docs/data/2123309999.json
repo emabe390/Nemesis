@@ -1,0 +1,52 @@
+{
+  "character_id": 2123309999,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122171120,
+    "name": "Death To Lazerhawks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122171120,
+      "name": "Death To Lazerhawks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96874601,
+      "name": "Charles De Hobo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120083453,
+      "name": "ols2150",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120384709,
+      "name": "Sky Lordbozo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucy D Naoyab",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

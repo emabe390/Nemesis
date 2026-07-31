@@ -1,0 +1,34 @@
+{
+  "character_id": 2124223032,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1290709513,
+    "name": "Mike Kisiel",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121650980,
+      "name": "Lt Karl Hagerman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Robert Isen",
+  "corporation_id": 98828934,
+  "alliance_id": 99014770,
+  "corporation_name": "V.E.C.T.O.R",
+  "alliance_name": "Cleyd Free Trade Alliance"
+}

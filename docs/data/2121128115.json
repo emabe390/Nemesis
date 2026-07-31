@@ -1,0 +1,52 @@
+{
+  "character_id": 2121128115,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 913171352,
+    "name": "Hellrazer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98298938,
+    "alliance_id": 917526329,
+    "corporation_name": "Captain's Quarters",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94681124,
+      "name": "Hallor Sinclair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95251975,
+      "name": "Michael Gil Rockefeller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 538502533,
+      "name": "TriKamRed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 589252559,
+      "name": "Futility 101",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarHauler",
+  "corporation_id": 98716997,
+  "alliance_id": 99010152,
+  "corporation_name": "Children of Einherjar",
+  "alliance_name": "Disaster Strikes"
+}

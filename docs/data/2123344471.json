@@ -1,0 +1,40 @@
+{
+  "character_id": 2123344471,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94278611,
+    "name": "Jason Baros",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 94278611,
+      "name": "Jason Baros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122841443,
+      "name": "Freyja Ezkiel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114435087,
+      "name": "Makentoshi Blow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aimi Rika",
+  "corporation_id": 98802686,
+  "alliance_id": 99014783,
+  "corporation_name": "CN Soul Reaper",
+  "alliance_name": "Wings Freedom."
+}

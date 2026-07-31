@@ -1,0 +1,40 @@
+{
+  "character_id": 2123338991,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1701596726,
+    "name": "howling wind",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1831131676,
+    "alliance_id": 99005839,
+    "corporation_name": "V0LTA",
+    "alliance_name": "WE FORM V0LTA"
+  },
+  "top_killers": [
+    {
+      "id": 1701596726,
+      "name": "howling wind",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 493167923,
+      "name": "Paul Orcanus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1532903269,
+      "name": "FonsterKajare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Altminer003",
+  "corporation_id": 98723608,
+  "alliance_id": 1354830081,
+  "corporation_name": "Alt Beanix Fuel Cartel",
+  "alliance_name": "Goonswarm Federation"
+}

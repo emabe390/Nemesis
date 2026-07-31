@@ -1,0 +1,40 @@
+{
+  "character_id": 2124217180,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 179004085,
+    "name": "Peter Powers",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1664427021,
+    "alliance_id": 99000818,
+    "corporation_name": "Terrorists of Dimensions",
+    "alliance_name": "HORSE-KILLERS"
+  },
+  "top_killers": [
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 190925406,
+      "name": "Stickelback",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119706667,
+      "name": "Dr Infernal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Survey",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

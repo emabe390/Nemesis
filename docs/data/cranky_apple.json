@@ -1,0 +1,46 @@
+{
+  "character_id": 2124145613,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121259486,
+    "name": "Cranky German",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98657999,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rage Confederacy",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121259486,
+      "name": "Cranky German",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 273213517,
+      "name": "Zoyya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115048350,
+      "name": "Miss Triglavian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123864080,
+      "name": "Cranky Zapper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cranky Apple",
+  "corporation_id": 98809144,
+  "alliance_id": 1354830081,
+  "corporation_name": "No Friends Just Alts",
+  "alliance_name": "Goonswarm Federation"
+}

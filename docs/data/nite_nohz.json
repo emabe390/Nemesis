@@ -1,0 +1,52 @@
+{
+  "character_id": 2112021314,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2122033636,
+    "name": "Ada-in-the-Box",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838350,
+    "alliance_id": null,
+    "corporation_name": "Harmony's Garden",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123906774,
+      "name": "J Q K",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91139097,
+      "name": "Kin Waru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92071360,
+      "name": "Grim Reaper Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nite Nohz",
+  "corporation_id": 98624572,
+  "alliance_id": 99011223,
+  "corporation_name": "Industrial Mining and Mayhem",
+  "alliance_name": "Sigma Grindset"
+}

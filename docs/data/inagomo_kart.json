@@ -1,0 +1,34 @@
+{
+  "character_id": 2121971000,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 628791257,
+    "name": "Ize Coold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1632475871,
+    "alliance_id": null,
+    "corporation_name": "Ricochet Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 628791257,
+      "name": "Ize Coold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114354000,
+      "name": "Character 2114354000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inagomo Kart",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

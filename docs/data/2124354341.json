@@ -1,0 +1,40 @@
+{
+  "character_id": 2124354341,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 251410196,
+    "name": "John Shepard21",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 251410196,
+      "name": "John Shepard21",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92444174,
+      "name": "Watson Crick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124223282,
+      "name": "Anubix-7",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sovereign Aiushtha",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

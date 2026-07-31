@@ -1,0 +1,34 @@
+{
+  "character_id": 2124360110,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94867614,
+    "name": "Fourteenth Seat",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790080,
+    "alliance_id": null,
+    "corporation_name": "Rainbow Fleet",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94867614,
+      "name": "Fourteenth Seat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vespris Othelena",
+  "corporation_id": 98810604,
+  "alliance_id": 99013823,
+  "corporation_name": "Federation of New Eden",
+  "alliance_name": "Cat Scratch Fevers"
+}

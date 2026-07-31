@@ -1,0 +1,52 @@
+{
+  "character_id": 2112938213,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123405645,
+    "name": "Eratostenee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781795,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Unlimited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123405645,
+      "name": "Eratostenee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92770227,
+      "name": "Girl Space",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 357100765,
+      "name": "Syzygium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112548228,
+      "name": "Ezreal Tadaruwa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LastGuard",
+  "corporation_id": 98718910,
+  "alliance_id": null,
+  "corporation_name": "Last Guardian's",
+  "alliance_name": null
+}

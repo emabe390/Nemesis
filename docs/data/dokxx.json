@@ -1,0 +1,34 @@
+{
+  "character_id": 2123314642,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93617564,
+    "name": "Experian O'Leary",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788616,
+    "alliance_id": 99007636,
+    "corporation_name": "Minor Threats",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 93617564,
+      "name": "Experian O'Leary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118838746,
+      "name": "Ebie Bayard",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "dokxx",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

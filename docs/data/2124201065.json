@@ -1,0 +1,52 @@
+{
+  "character_id": 2124201065,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 96415685,
+    "name": "Dirty Thukker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98058678,
+    "alliance_id": null,
+    "corporation_name": "The Hollow Men",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96415685,
+      "name": "Dirty Thukker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121663755,
+      "name": "Probing Halfax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90604044,
+      "name": "Charon Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94277551,
+      "name": "Lucasi Schortino",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Martell Doomwood",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

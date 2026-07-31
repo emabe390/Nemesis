@@ -1,0 +1,40 @@
+{
+  "character_id": 2112303814,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112345735,
+    "name": "Catherine Laartii",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98750082,
+    "alliance_id": 99009163,
+    "corporation_name": "NOT HALF BAD",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2112345735,
+      "name": "Catherine Laartii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122645464,
+      "name": "BH94",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123700281,
+      "name": "LiYue01",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agent 4C",
+  "corporation_id": 98325945,
+  "alliance_id": 99013885,
+  "corporation_name": "Venom and Bullet Corporation",
+  "alliance_name": "Metropolis Defense"
+}

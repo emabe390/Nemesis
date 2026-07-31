@@ -1,0 +1,40 @@
+{
+  "character_id": 445023901,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91779680,
+    "name": "VanHellin Krovchenko",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98136895,
+    "alliance_id": 99000852,
+    "corporation_name": "The Vikings of Valhalla",
+    "alliance_name": "Exodus."
+  },
+  "top_killers": [
+    {
+      "id": 91779680,
+      "name": "VanHellin Krovchenko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112435546,
+      "name": "Splash Panacan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122344341,
+      "name": "Le Dud3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Knights Fury",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

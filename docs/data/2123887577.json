@@ -1,0 +1,34 @@
+{
+  "character_id": 2123887577,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2020941753,
+    "name": "KATASH1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98180825,
+    "alliance_id": 99013803,
+    "corporation_name": "Burning-Technologies",
+    "alliance_name": "Wicked Goats Enterprises"
+  },
+  "top_killers": [
+    {
+      "id": 2020941753,
+      "name": "KATASH1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114017032,
+      "name": "Vasilios",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SpideySence",
+  "corporation_id": 384667640,
+  "alliance_id": 1496500070,
+  "corporation_name": "Black Frog Logistics",
+  "alliance_name": "Red-Frog"
+}

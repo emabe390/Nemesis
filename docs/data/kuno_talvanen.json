@@ -1,0 +1,40 @@
+{
+  "character_id": 2123477400,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96624838,
+    "name": "Sentieal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778431,
+    "alliance_id": 99014309,
+    "corporation_name": "Cursed Legacy Keepers",
+    "alliance_name": "Bright Side of Life"
+  },
+  "top_killers": [
+    {
+      "id": 96624838,
+      "name": "Sentieal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113008243,
+      "name": "Nico Franklin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124411450,
+      "name": "Hell Faer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kuno Talvanen",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

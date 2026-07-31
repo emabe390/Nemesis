@@ -1,0 +1,52 @@
+{
+  "character_id": 2123250220,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2113098301,
+    "name": "Parcival Utarii",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113098301,
+      "name": "Parcival Utarii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118019056,
+      "name": "LieLow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90703254,
+      "name": "Xynta TT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91054731,
+      "name": "Andrew Eriker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Venom",
+  "corporation_id": 98800997,
+  "alliance_id": 99003581,
+  "corporation_name": "Vigil Indomitus",
+  "alliance_name": "Fraternity."
+}

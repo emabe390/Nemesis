@@ -1,0 +1,52 @@
+{
+  "character_id": 2123779511,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91212666,
+    "name": "K-tusha Yakoma",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1831383486,
+    "alliance_id": 1900696668,
+    "corporation_name": "TEMPLAR.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91212666,
+      "name": "K-tusha Yakoma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 311546360,
+      "name": "Glong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121209929,
+      "name": "Karjus Ilkke Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121650980,
+      "name": "Lt Karl Hagerman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123797322,
+      "name": "Infertile Kayalar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Kayalar",
+  "corporation_id": 98506105,
+  "alliance_id": 99005178,
+  "corporation_name": "HAMMER of TITAN",
+  "alliance_name": "Domain Research and Mining Inst."
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123944650,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118010313,
+    "name": "tilsiter Cheese",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98252033,
+    "alliance_id": 99004344,
+    "corporation_name": "Vision Inc",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 2118010313,
+      "name": "tilsiter Cheese",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123726137,
+      "name": "Nova Takemi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Halberat",
+  "corporation_id": 98817549,
+  "alliance_id": null,
+  "corporation_name": "Erzfeind AG",
+  "alliance_name": null
+}

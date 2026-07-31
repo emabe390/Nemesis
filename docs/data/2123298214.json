@@ -1,0 +1,52 @@
+{
+  "character_id": 2123298214,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2117664923,
+    "name": "AAmy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826555,
+    "alliance_id": null,
+    "corporation_name": "Spaceport Engineers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117664923,
+      "name": "AAmy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90447488,
+      "name": "Kiramati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 241369959,
+      "name": "ChertiZlo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1758100131,
+      "name": "Mr Qyou",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miku Slave",
+  "corporation_id": 98826555,
+  "alliance_id": null,
+  "corporation_name": "Spaceport Engineers",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123029402,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95356395,
+    "name": "Mick Wilde",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98832442,
+    "alliance_id": null,
+    "corporation_name": "CRAZY-GANG",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95356395,
+      "name": "Mick Wilde",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93837977,
+      "name": "Pain Suppression",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94753998,
+      "name": "Lie Group",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ivalilon Vaille",
+  "corporation_id": 98606395,
+  "alliance_id": 99003995,
+  "corporation_name": "PICHATRON",
+  "alliance_name": "Invidia Gloriae Comes"
+}

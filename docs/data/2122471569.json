@@ -1,0 +1,40 @@
+{
+  "character_id": 2122471569,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120979922,
+    "name": "Puppet 01",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98763807,
+    "alliance_id": 99012818,
+    "corporation_name": "The Avorbeau Menagerie",
+    "alliance_name": "The Avorbeau Estate"
+  },
+  "top_killers": [
+    {
+      "id": 2120979922,
+      "name": "Puppet 01",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 492042336,
+      "name": "Lefhamier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akura Crimson",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

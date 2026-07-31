@@ -1,0 +1,40 @@
+{
+  "character_id": 2123111097,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1486100897,
+    "name": "Dendarius",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1486100897,
+      "name": "Dendarius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117463498,
+      "name": "Dalt Verfit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117505677,
+      "name": "Spirit of Feminism",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cora Heinlein",
+  "corporation_id": 98798932,
+  "alliance_id": 99013823,
+  "corporation_name": "Ore and Order",
+  "alliance_name": "Cat Scratch Fevers"
+}

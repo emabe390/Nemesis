@@ -1,0 +1,40 @@
+{
+  "character_id": 2123871793,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96542872,
+    "name": "Umm Poof",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98687239,
+    "alliance_id": 99012617,
+    "corporation_name": "Forge of Chaos",
+    "alliance_name": "Great Wildlands Conservation Society"
+  },
+  "top_killers": [
+    {
+      "id": 96542872,
+      "name": "Umm Poof",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123951684,
+      "name": "BB Scar",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Character 2123871793",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

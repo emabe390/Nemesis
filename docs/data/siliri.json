@@ -1,0 +1,40 @@
+{
+  "character_id": 2121711398,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96728697,
+      "name": "Sziagzven Beotul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116753129,
+      "name": "Itara AKM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Siliri",
+  "corporation_id": 1187207583,
+  "alliance_id": 1354830081,
+  "corporation_name": "Shocky Industries Ltd.",
+  "alliance_name": "Goonswarm Federation"
+}

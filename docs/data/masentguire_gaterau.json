@@ -1,0 +1,52 @@
+{
+  "character_id": 2122214571,
+  "total_losses": 22,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 977054475,
+    "name": "Manfred Stahler",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115632304,
+      "name": "Character 2115632304",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90787299,
+      "name": "Lorine Torvale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91595117,
+      "name": "Nepravda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92208231,
+      "name": "Brain Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Masentguire Gaterau",
+  "corporation_id": 98613748,
+  "alliance_id": 99012995,
+  "corporation_name": "Silver Fog Dragon Ride",
+  "alliance_name": "Dragon Riders Legion"
+}

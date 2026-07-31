@@ -1,0 +1,52 @@
+{
+  "character_id": 2123289259,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115107469,
+    "name": "Character 2115107469",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805602,
+    "alliance_id": null,
+    "corporation_name": "Eve Online Eunuch Community",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115107469,
+      "name": "Character 2115107469",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1348110218,
+      "name": "Sashenka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116389822,
+      "name": "Ashenira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119897791,
+      "name": "Hyper Kiwi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abyss Bottom",
+  "corporation_id": 1613511511,
+  "alliance_id": 1354830081,
+  "corporation_name": "Russian ICE Bears",
+  "alliance_name": "Goonswarm Federation"
+}

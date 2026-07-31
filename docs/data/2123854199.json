@@ -1,0 +1,52 @@
+{
+  "character_id": 2123854199,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 322843081,
+    "name": "Felicia Ha'thor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 566825158,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladiators of Rage",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 322843081,
+      "name": "Felicia Ha'thor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114375223,
+      "name": "Richard Heraclid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118176049,
+      "name": "Barreiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123180054,
+      "name": "Splinter Askold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victoria Rex",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

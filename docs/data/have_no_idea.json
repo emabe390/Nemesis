@@ -1,0 +1,52 @@
+{
+  "character_id": 2120565807,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123321239,
+    "name": "DeJappe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2123321239,
+      "name": "DeJappe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95788463,
+      "name": "Elinoa Brutor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1408513141,
+      "name": "Bob Veers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117916065,
+      "name": "Avemette Gaterau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120273592,
+      "name": "PaidProgramming",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Have no idea",
+  "corporation_id": 98776010,
+  "alliance_id": null,
+  "corporation_name": "Quantum Dynamics.",
+  "alliance_name": null
+}

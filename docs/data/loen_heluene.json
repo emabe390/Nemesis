@@ -1,0 +1,40 @@
+{
+  "character_id": 2119044610,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116776670,
+    "name": "Alexx Grott",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98568321,
+    "alliance_id": null,
+    "corporation_name": "Get silents",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116776670,
+      "name": "Alexx Grott",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1570552560,
+      "name": "Max Churchill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122397166,
+      "name": "Griff Carlyle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loen Heluene",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

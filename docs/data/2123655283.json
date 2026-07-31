@@ -1,0 +1,52 @@
+{
+  "character_id": 2123655283,
+  "total_losses": 58,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 2120346524,
+    "name": "Omizto",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2120346524,
+      "name": "Omizto",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95270250,
+      "name": "Warhawk Richard",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Atcha Dimaloun",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

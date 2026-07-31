@@ -1,0 +1,40 @@
+{
+  "character_id": 2114381249,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90659782,
+    "name": "Gedeon Deka",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98698983,
+    "alliance_id": 99012122,
+    "corporation_name": "Scan Stakan",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 90659782,
+      "name": "Gedeon Deka",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115649567,
+      "name": "Potcheese",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116973330,
+      "name": "Rubico Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zoey Milkakka",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

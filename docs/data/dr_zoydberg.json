@@ -1,0 +1,52 @@
+{
+  "character_id": 2123198704,
+  "total_losses": 39,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2120657809,
+    "name": "Zoolex Oriki",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98403734,
+    "alliance_id": 99009885,
+    "corporation_name": "Subsidy H.R.S.",
+    "alliance_name": "Xagenic Freymvork"
+  },
+  "top_killers": [
+    {
+      "id": 2120657809,
+      "name": "Zoolex Oriki",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90703254,
+      "name": "Xynta TT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91698165,
+      "name": "Urs Blank",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dr Zoydberg",
+  "corporation_id": 98763087,
+  "alliance_id": null,
+  "corporation_name": "Net Positive Inc.",
+  "alliance_name": null
+}

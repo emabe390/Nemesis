@@ -1,0 +1,40 @@
+{
+  "character_id": 2119611115,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94176534,
+      "name": "Zuez Tuback",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116553252,
+      "name": "Mia Riddle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viala Utra",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

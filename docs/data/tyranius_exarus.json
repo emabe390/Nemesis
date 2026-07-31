@@ -1,0 +1,40 @@
+{
+  "character_id": 2113548682,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 351172102,
+    "name": "urban",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 351172102,
+      "name": "urban",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 145553063,
+      "name": "AllQ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tyranius Exarus",
+  "corporation_id": 98580930,
+  "alliance_id": 99010312,
+  "corporation_name": "Inner Circle of Penguins",
+  "alliance_name": "Diplomatic Incidents."
+}

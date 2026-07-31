@@ -1,0 +1,52 @@
+{
+  "character_id": 2123679462,
+  "total_losses": 67,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2114681165,
+    "name": "zatkiel",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98500968,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cuervos Imperiales",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2114681165,
+      "name": "zatkiel",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90465144,
+      "name": "Justin Jackson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123679462",
+  "corporation_id": 98500968,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cuervos Imperiales",
+  "alliance_name": "Goonswarm Federation"
+}

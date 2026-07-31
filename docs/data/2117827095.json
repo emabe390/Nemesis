@@ -1,0 +1,52 @@
+{
+  "character_id": 2117827095,
+  "total_losses": 18,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 1790811197,
+    "name": "ODD001",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000046,
+    "alliance_id": null,
+    "corporation_name": "Sebiestor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1790811197,
+      "name": "ODD001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96130170,
+      "name": "Dreidon Bloodborn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061967229,
+      "name": "Character 1061967229",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Verro Cerevis",
+  "corporation_id": 98633815,
+  "alliance_id": 99003995,
+  "corporation_name": "Ether Element",
+  "alliance_name": "Invidia Gloriae Comes"
+}

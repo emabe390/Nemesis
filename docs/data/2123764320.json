@@ -1,0 +1,40 @@
+{
+  "character_id": 2123764320,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 850452726,
+    "name": "Gaius Ceasar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1005661681,
+    "alliance_id": 495729389,
+    "corporation_name": "Sonnenlegion",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 850452726,
+      "name": "Gaius Ceasar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91609531,
+      "name": "ChaosDuke Mayhem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123651445,
+      "name": "Character 2123651445",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "To Zanarkand yingwu",
+  "corporation_id": 98800613,
+  "alliance_id": null,
+  "corporation_name": "Emperor Scythes Academy",
+  "alliance_name": null
+}

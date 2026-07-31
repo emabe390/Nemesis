@@ -1,0 +1,52 @@
+{
+  "character_id": 2123004757,
+  "total_losses": 20,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122866078,
+    "name": "Alivian",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98788164,
+    "alliance_id": null,
+    "corporation_name": "Ronek corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122866078,
+      "name": "Alivian",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 750993161,
+      "name": "DreamScythe",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121745279,
+      "name": "VeneroID",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1795784491,
+      "name": "Illana Krieken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1907645642,
+      "name": "Character 1907645642",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alex 1313",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

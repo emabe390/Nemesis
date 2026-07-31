@@ -1,0 +1,52 @@
+{
+  "character_id": 2121314106,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95957241,
+    "name": "Anastasiya Lisovskaya",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98426099,
+    "alliance_id": 99007326,
+    "corporation_name": "Special Expedition for Space Works",
+    "alliance_name": "Space Search and Rescue"
+  },
+  "top_killers": [
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94078213,
+      "name": "Logan Aldeland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117766078,
+      "name": "Oata Huren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121314106",
+  "corporation_id": 98795761,
+  "alliance_id": 99003214,
+  "corporation_name": "Romanian Assault Unit",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121224246,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91162180,
+    "name": "Detective W",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 91162180,
+      "name": "Detective W",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114518735,
+      "name": "Lashkeq",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Andealous",
+  "corporation_id": 98825882,
+  "alliance_id": 99014321,
+  "corporation_name": "Valerian Charter Company",
+  "alliance_name": "Tilean Dominium"
+}

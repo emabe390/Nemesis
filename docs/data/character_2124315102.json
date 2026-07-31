@@ -1,0 +1,34 @@
+{
+  "character_id": 2124315102,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 873212629,
+    "name": "Tarkin Karn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828090,
+    "alliance_id": 99014851,
+    "corporation_name": "Wormhole Campus",
+    "alliance_name": "10 Minutes' Notice"
+  },
+  "top_killers": [
+    {
+      "id": 873212629,
+      "name": "Tarkin Karn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1003998291,
+      "name": "Rubioh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124315102",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

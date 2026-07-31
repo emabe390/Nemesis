@@ -1,0 +1,52 @@
+{
+  "character_id": 2122263815,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96228292,
+      "name": "West of West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114105532,
+      "name": "Sir Tobias Helm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115711393,
+      "name": "WDNMLB991",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116285559,
+      "name": "Unknown Exception",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sararie Ovaert",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

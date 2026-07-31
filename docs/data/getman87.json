@@ -1,0 +1,52 @@
+{
+  "character_id": 2118388974,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1336894112,
+      "name": "CaptMcNeil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90208148,
+      "name": "Selusa Secundus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92621545,
+      "name": "Eli Patrouette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93088717,
+      "name": "Exhunt HD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "getman87",
+  "corporation_id": 98803587,
+  "alliance_id": 99014050,
+  "corporation_name": "Moonlight Academy",
+  "alliance_name": "Lunar Luminescence"
+}

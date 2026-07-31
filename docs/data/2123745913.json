@@ -1,0 +1,52 @@
+{
+  "character_id": 2123745913,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121936362,
+      "name": "Sapphire Wing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123627892,
+      "name": "Shermster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91055719,
+      "name": "MiniWeevil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93168326,
+      "name": "Kivakork Oskold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Twobraid",
+  "corporation_id": 98782283,
+  "alliance_id": 99010877,
+  "corporation_name": "Solidified Encounter",
+  "alliance_name": "Out of the Blue."
+}

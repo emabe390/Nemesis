@@ -1,0 +1,46 @@
+{
+  "character_id": 2113159208,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117049349,
+    "name": "Vanilla I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117049349,
+      "name": "Vanilla I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 275416626,
+      "name": "Mennox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1875163466,
+      "name": "TheLastSparton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116323897,
+      "name": "Dr Starlocke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tifa Maclaren",
+  "corporation_id": 98456980,
+  "alliance_id": 99003581,
+  "corporation_name": "Dragonborn of New Eden",
+  "alliance_name": "Fraternity."
+}

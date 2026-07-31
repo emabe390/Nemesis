@@ -1,0 +1,46 @@
+{
+  "character_id": 2124310326,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122095642,
+    "name": "La-da-da-da-da-da La-da-da-da-da-da",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98695005,
+    "alliance_id": 1354830081,
+    "corporation_name": "Splintered Dreams",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122095642,
+      "name": "La-da-da-da-da-da La-da-da-da-da-da",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123718691,
+      "name": "Odhedard Enat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124209899,
+      "name": "Hoosa Dahma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124224296,
+      "name": "Yustekk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Witty Von Aurora",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

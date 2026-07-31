@@ -1,0 +1,40 @@
+{
+  "character_id": 2123890918,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118421782,
+    "name": "ATX shtamm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789391,
+    "alliance_id": null,
+    "corporation_name": "Resident WH",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118421782,
+      "name": "ATX shtamm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 203409404,
+      "name": "Archaeda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maronetka",
+  "corporation_id": 98813850,
+  "alliance_id": null,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": null
+}

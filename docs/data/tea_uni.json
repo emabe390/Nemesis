@@ -1,0 +1,46 @@
+{
+  "character_id": 2124385940,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124408651,
+    "name": "NextDoor Lurker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837596,
+    "alliance_id": null,
+    "corporation_name": "DScan Disorder",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124408651,
+      "name": "NextDoor Lurker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90856678,
+      "name": "Lucas Rutter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113433777,
+      "name": "Elise Rotsuda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115805517,
+      "name": "Victoria San",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tea Uni",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

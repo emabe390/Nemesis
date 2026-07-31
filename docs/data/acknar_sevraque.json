@@ -1,0 +1,40 @@
+{
+  "character_id": 2123856223,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90436343,
+    "name": "Kais Alenzo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90436343,
+      "name": "Kais Alenzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 915192842,
+      "name": "Ni Jien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119871791,
+      "name": "Heist Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Acknar Sevraque",
+  "corporation_id": 98773416,
+  "alliance_id": 1900696668,
+  "corporation_name": "Primal Instinct Inc.",
+  "alliance_name": "The Initiative."
+}

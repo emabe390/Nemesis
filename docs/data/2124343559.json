@@ -1,0 +1,34 @@
+{
+  "character_id": 2124343559,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124343491,
+    "name": "AbyssGuard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783407,
+    "alliance_id": 99003995,
+    "corporation_name": "Golden Fleece",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2124343491,
+      "name": "AbyssGuard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124343546,
+      "name": "StillNebula",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "NightPulse",
+  "corporation_id": 98783407,
+  "alliance_id": 99003995,
+  "corporation_name": "Golden Fleece",
+  "alliance_name": "Invidia Gloriae Comes"
+}

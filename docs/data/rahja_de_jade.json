@@ -1,0 +1,46 @@
+{
+  "character_id": 2117115405,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121933518,
+    "name": "Aruulis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807127,
+    "alliance_id": null,
+    "corporation_name": "Corinthian Commune",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121933518,
+      "name": "Aruulis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 348161728,
+      "name": "Joey Zasa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2016417407,
+      "name": "Isabella VonDrak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113607739,
+      "name": "Marko Isidorovic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rahja de Jade",
+  "corporation_id": 98555959,
+  "alliance_id": 99005393,
+  "corporation_name": "TOCAIA",
+  "alliance_name": "Blades of Grass"
+}

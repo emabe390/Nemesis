@@ -1,0 +1,40 @@
+{
+  "character_id": 95715135,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95085654,
+    "name": "Tis-A-Shart",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 95085654,
+      "name": "Tis-A-Shart",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123237969,
+      "name": "PeachCreamPie",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122580904,
+      "name": "QuafeCreamPie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Valerian Moore",
+  "corporation_id": 98739589,
+  "alliance_id": null,
+  "corporation_name": "Rapid Unscheduled Disassembly.",
+  "alliance_name": null
+}

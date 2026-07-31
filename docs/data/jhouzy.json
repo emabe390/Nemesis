@@ -1,0 +1,52 @@
+{
+  "character_id": 2123601516,
+  "total_losses": 79,
+  "unique_killers": 66,
+  "nemesis": {
+    "id": 2123509210,
+    "name": "hou2zi",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123509210,
+      "name": "hou2zi",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93382112,
+      "name": "Boris Boroti",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "jhouzy",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

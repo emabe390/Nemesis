@@ -1,0 +1,52 @@
+{
+  "character_id": 2121183130,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92481622,
+    "name": "Karolkens Chmura",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98622006,
+    "alliance_id": null,
+    "corporation_name": "Great Below",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90694468,
+      "name": "Kari Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1422296594,
+      "name": "Zashiran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117000394,
+      "name": "I Want YourThorax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ka'el Fierabras",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123681570,
+  "total_losses": 24,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 332688972,
+    "name": "Meinah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98830650,
+    "alliance_id": null,
+    "corporation_name": "Gistii Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 332688972,
+      "name": "Meinah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93990861,
+      "name": "Perkutor Jakuard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94777675,
+      "name": "Mitchman Egivand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96301203,
+      "name": "Maz Malukker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 215373784,
+      "name": "ViolentDesire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HTN",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

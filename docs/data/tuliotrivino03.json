@@ -1,0 +1,40 @@
+{
+  "character_id": 2123869676,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121139162,
+    "name": "Metatarsalgia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98745385,
+    "alliance_id": 99012544,
+    "corporation_name": "The God Hand.",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2121139162,
+      "name": "Metatarsalgia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116056181,
+      "name": "Sly Arji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122502629,
+      "name": "Azarinth Healer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TulioTrivino03",
+  "corporation_id": 98815936,
+  "alliance_id": null,
+  "corporation_name": "Vortex Union",
+  "alliance_name": null
+}

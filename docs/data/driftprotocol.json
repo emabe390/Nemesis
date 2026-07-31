@@ -1,0 +1,40 @@
+{
+  "character_id": 2123976764,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96352572,
+    "name": "Character 96352572",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98416134,
+    "alliance_id": 99006941,
+    "corporation_name": "Sons of Black Rise",
+    "alliance_name": "Siege Green."
+  },
+  "top_killers": [
+    {
+      "id": 96352572,
+      "name": "Character 96352572",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96380813,
+      "name": "Lucas Ermanelos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122737934,
+      "name": "Frank Drebin hadnagy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DriftProtocol",
+  "corporation_id": 98808282,
+  "alliance_id": 99014557,
+  "corporation_name": "VELES CVLT",
+  "alliance_name": "SUETA UNIVERSE"
+}

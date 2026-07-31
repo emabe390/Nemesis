@@ -1,0 +1,52 @@
+{
+  "character_id": 2123700252,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 91441111,
+    "name": "Citizen 413587",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1660528141,
+      "name": "Pushko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91017278,
+      "name": "Ivy Kuznetsova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93133866,
+      "name": "Ivan Buhalo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93550859,
+      "name": "ultranorth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suge Toyon",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

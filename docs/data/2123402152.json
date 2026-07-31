@@ -1,0 +1,52 @@
+{
+  "character_id": 2123402152,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 885561527,
+    "name": "First Recon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 885561527,
+      "name": "First Recon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92153304,
+      "name": "Ambitions Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115544262,
+      "name": "Ragnnar Lothbruuk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123438846,
+      "name": "Endless Night Sky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tharion El Eterno",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

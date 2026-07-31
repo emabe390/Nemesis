@@ -1,0 +1,46 @@
+{
+  "character_id": 2123953846,
+  "total_losses": 23,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 961880050,
+    "name": "Korr'Tanas",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 961880050,
+      "name": "Korr'Tanas",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 2123909041,
+      "name": "Alex 'Chef' Deschain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123885254,
+      "name": "Zzzyc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123973385,
+      "name": "Vitaima",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Y1MM1",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

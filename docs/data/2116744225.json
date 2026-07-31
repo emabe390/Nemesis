@@ -1,0 +1,40 @@
+{
+  "character_id": 2116744225,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115000010,
+    "name": "Parsiska Ostus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98672533,
+    "alliance_id": 99005393,
+    "corporation_name": "BrainBox",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 2115000010,
+      "name": "Parsiska Ostus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90461175,
+      "name": "Cubewanos Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aihaken Aishai",
+  "corporation_id": 98639413,
+  "alliance_id": 1354830081,
+  "corporation_name": "Novium Industries",
+  "alliance_name": "Goonswarm Federation"
+}

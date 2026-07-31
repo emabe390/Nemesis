@@ -1,0 +1,52 @@
+{
+  "character_id": 2124009484,
+  "total_losses": 21,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 872240029,
+    "name": "Lain Piero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98068668,
+    "alliance_id": null,
+    "corporation_name": "Warp Scramed",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 872240029,
+      "name": "Lain Piero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1534514009,
+      "name": "VadQ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122142495,
+      "name": "Chobhame",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123255343,
+      "name": "Blood Raider Goomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aboshen",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

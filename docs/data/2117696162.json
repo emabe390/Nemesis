@@ -1,0 +1,52 @@
+{
+  "character_id": 2117696162,
+  "total_losses": 31,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 553174607,
+    "name": "shlen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98450785,
+    "alliance_id": 1354830081,
+    "corporation_name": "Siberian Alpha Fleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 553174607,
+      "name": "shlen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118677664,
+      "name": "OutbackSlayhouse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90010272,
+      "name": "Haniball Lecter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vengefull",
+  "corporation_id": 98721350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Midlife Aliens",
+  "alliance_name": "Goonswarm Federation"
+}

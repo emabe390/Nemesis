@@ -1,0 +1,52 @@
+{
+  "character_id": 2123574567,
+  "total_losses": 85,
+  "unique_killers": 66,
+  "nemesis": {
+    "id": 2118882640,
+    "name": "Ember Starfall",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98797544,
+    "alliance_id": null,
+    "corporation_name": "S I L E N C E",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118882640,
+      "name": "Ember Starfall",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90301943,
+      "name": "Felicia Nethers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94406097,
+      "name": "Bixtarqi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96041085,
+      "name": "Corvot Wolfram",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "roamer3",
+  "corporation_id": 98798924,
+  "alliance_id": 99014045,
+  "corporation_name": "guerrilla mafia",
+  "alliance_name": "guerrilla mafia Alliance"
+}

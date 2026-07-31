@@ -1,0 +1,46 @@
+{
+  "character_id": 2118920151,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117278800,
+    "name": "Schnarph",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98416553,
+    "alliance_id": 99012358,
+    "corporation_name": "Carcharodons Astra",
+    "alliance_name": "Travellers of the Void"
+  },
+  "top_killers": [
+    {
+      "id": 2117278800,
+      "name": "Schnarph",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90422934,
+      "name": "Elementology Illuminato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94749687,
+      "name": "Snow Yiggrite",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116332669,
+      "name": "DsCreate",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sam Kosho",
+  "corporation_id": 98343343,
+  "alliance_id": 99004567,
+  "corporation_name": "Anoikis Equilibrium",
+  "alliance_name": "Honorable Third Party"
+}

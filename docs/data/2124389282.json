@@ -1,0 +1,40 @@
+{
+  "character_id": 2124389282,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 289374601,
+    "name": "Den'orm",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98643195,
+    "alliance_id": 99012239,
+    "corporation_name": "I'm Super Bad At This",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 796699096,
+      "name": "hookk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1751690288,
+      "name": "Tyrolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ProdamGaraj",
+  "corporation_id": 98810231,
+  "alliance_id": null,
+  "corporation_name": "Your ad can be there",
+  "alliance_name": null
+}

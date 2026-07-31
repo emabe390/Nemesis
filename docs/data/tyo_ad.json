@@ -1,0 +1,40 @@
+{
+  "character_id": 2116651582,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120699004,
+    "name": "Ponkenen Igunen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98800761,
+    "alliance_id": null,
+    "corporation_name": "New Eden Corporation 98800761",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120699004,
+      "name": "Ponkenen Igunen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93168326,
+      "name": "Kivakork Oskold",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TYO AD",
+  "corporation_id": 98725234,
+  "alliance_id": 99005338,
+  "corporation_name": "Alkaid Broken Army",
+  "alliance_name": "Pandemic Horde"
+}

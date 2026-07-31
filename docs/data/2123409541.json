@@ -1,0 +1,52 @@
+{
+  "character_id": 2123409541,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123405612,
+    "name": "Christine Aryeh",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98651213,
+    "alliance_id": 99003214,
+    "corporation_name": "PulaLeeroy Br",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123405612,
+      "name": "Christine Aryeh",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123409415,
+      "name": "Heathcliff Zeromir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 945697769,
+      "name": "Character 945697769",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1069878505,
+      "name": "Wallymarts",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lorem Ipsylon",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

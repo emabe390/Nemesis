@@ -1,0 +1,52 @@
+{
+  "character_id": 2123389702,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1646278653,
+    "name": "Fuzojix",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98668936,
+    "alliance_id": 99011223,
+    "corporation_name": "The Awoken",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 1646278653,
+      "name": "Fuzojix",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91342144,
+      "name": "Olgidara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91659019,
+      "name": "deathzor Tsukaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93255801,
+      "name": "Atmora Green",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95186066,
+      "name": "Epictetus Sato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Angel Brigade",
+  "corporation_id": 98824267,
+  "alliance_id": 99014995,
+  "corporation_name": "Ferengi Commerce Consortium",
+  "alliance_name": "Star Fleet Union"
+}

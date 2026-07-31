@@ -1,0 +1,52 @@
+{
+  "character_id": 95544830,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 91649209,
+    "name": "Randolph Sykes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725594,
+    "alliance_id": null,
+    "corporation_name": "Yukkuri Pharmaceuticals",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91649209,
+      "name": "Randolph Sykes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90352186,
+      "name": "Ayuren Aakiwa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90404829,
+      "name": "Norman Trad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93322156,
+      "name": "Brom Maken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gecko Tank",
+  "corporation_id": 98822955,
+  "alliance_id": 99014360,
+  "corporation_name": "Gecko Tank Corporation",
+  "alliance_name": "Khanid Industrial Coalition"
+}

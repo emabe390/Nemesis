@@ -1,0 +1,52 @@
+{
+  "character_id": 2123187792,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91050943,
+      "name": "Edwin Winters",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91489150,
+      "name": "darkness reins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95230808,
+      "name": "Ragnar Mobius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zeninth007",
+  "corporation_id": 98799729,
+  "alliance_id": null,
+  "corporation_name": "Splash Inc.",
+  "alliance_name": null
+}

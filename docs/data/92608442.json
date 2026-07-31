@@ -1,0 +1,46 @@
+{
+  "character_id": 92608442,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91127627,
+    "name": "Character 91127627",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 840323545,
+    "alliance_id": 99011699,
+    "corporation_name": "The Forsakened Few",
+    "alliance_name": "We Forsakened Few"
+  },
+  "top_killers": [
+    {
+      "id": 91127627,
+      "name": "Character 91127627",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124023028,
+      "name": "Large Blaster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116627622,
+      "name": "Phyve Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Durden Tyl",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

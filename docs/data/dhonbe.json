@@ -1,0 +1,52 @@
+{
+  "character_id": 2123855151,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 95619747,
+    "name": "Tesh Dar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98280017,
+    "alliance_id": 99010877,
+    "corporation_name": "Into the Ether",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 95619747,
+      "name": "Tesh Dar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 726999195,
+      "name": "Chris Sunstroke",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120629508,
+      "name": "Akari Akiya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121876096,
+      "name": "Lao Viern",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96742092,
+      "name": "Avalon Lyons",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dhonbe",
+  "corporation_id": 98764120,
+  "alliance_id": null,
+  "corporation_name": "Eviction-Scout Inc.",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123195649,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 293072694,
+    "name": "Alice's Death",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 700394978,
+    "alliance_id": 99014391,
+    "corporation_name": "Black Sanctum",
+    "alliance_name": "Howitzers and Champagne"
+  },
+  "top_killers": [
+    {
+      "id": 293072694,
+      "name": "Alice's Death",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116003648,
+      "name": "Gophert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 475430891,
+      "name": "Character 475430891",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shimada Desu",
+  "corporation_id": 98550309,
+  "alliance_id": 1220922756,
+  "corporation_name": "Phoenix Tag.",
+  "alliance_name": "Red Alliance"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1518549912,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 304652582,
+    "name": "Malcolm Malicious",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767830,
+    "alliance_id": 1900696668,
+    "corporation_name": "Suddenly a Covert Cyno",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115171275,
+      "name": "Bribarian Makanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95233183,
+      "name": "Red Krest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Parachute Potter",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

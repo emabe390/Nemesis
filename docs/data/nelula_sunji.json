@@ -1,0 +1,40 @@
+{
+  "character_id": 2124533365,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96087632,
+      "name": "Grettir Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 860398303,
+      "name": "Khannn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nelula Sunji",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

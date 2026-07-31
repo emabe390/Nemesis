@@ -1,0 +1,52 @@
+{
+  "character_id": 2123906015,
+  "total_losses": 31,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 1829031415,
+    "name": "Character 1829031415",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98496411,
+    "alliance_id": 99003581,
+    "corporation_name": "WipeOut Inc.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1829031415,
+      "name": "Character 1829031415",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121705499,
+      "name": "Sistais",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123905982,
+      "name": "Sistais 001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123911214,
+      "name": "Sistais 004",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 272243056,
+      "name": "Lemmily",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sistais 002",
+  "corporation_id": 98599181,
+  "alliance_id": 99003581,
+  "corporation_name": "Attack On CALDARI",
+  "alliance_name": "Fraternity."
+}

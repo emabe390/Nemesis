@@ -1,0 +1,52 @@
+{
+  "character_id": 2122756741,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2113872043,
+    "name": "Dreux Daamia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822853,
+    "alliance_id": null,
+    "corporation_name": "The Third Horsemen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113872043,
+      "name": "Dreux Daamia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123397222,
+      "name": "Ahtunen Amsen Ohmiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92626933,
+      "name": "Cope Dogg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94479778,
+      "name": "Ventorderan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 334506380,
+      "name": "Mr Tingla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Donald Gummp",
+  "corporation_id": 98790350,
+  "alliance_id": 498125261,
+  "corporation_name": "Unprofitable Ventures Inc.",
+  "alliance_name": "Test Alliance Please Ignore"
+}

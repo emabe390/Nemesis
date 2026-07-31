@@ -1,0 +1,40 @@
+{
+  "character_id": 96361334,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1009853321,
+    "name": "Spirited",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122601948,
+      "name": "Character 2122601948",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123471998,
+      "name": "SyndicateX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tintin Nimnien",
+  "corporation_id": 98776752,
+  "alliance_id": null,
+  "corporation_name": "Regicide.",
+  "alliance_name": null
+}

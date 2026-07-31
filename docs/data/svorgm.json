@@ -1,0 +1,52 @@
+{
+  "character_id": 2123654722,
+  "total_losses": 58,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 95072774,
+    "name": "Bob the Fourth",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98814023,
+    "alliance_id": 99014284,
+    "corporation_name": "Imperrors Children",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114977750,
+      "name": "Ava Pellion",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92010825,
+      "name": "Elbow Star's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SvorgM",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

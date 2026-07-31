@@ -1,0 +1,46 @@
+{
+  "character_id": 1622389223,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95947458,
+    "name": "Liandre Damazi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98468755,
+    "alliance_id": null,
+    "corporation_name": "Very Angry Spiders",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95947458,
+      "name": "Liandre Damazi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90342647,
+      "name": "Morgan le Fey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116974299,
+      "name": "Corpi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123984779,
+      "name": "Shoran Forstar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Theodore Valis",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

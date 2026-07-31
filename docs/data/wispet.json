@@ -1,0 +1,52 @@
+{
+  "character_id": 2123905161,
+  "total_losses": 33,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 2117907675,
+    "name": "bonq",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2117907675,
+      "name": "bonq",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96237614,
+      "name": "Wezer Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97029825,
+      "name": "Amaryla Eldrik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94314331,
+      "name": "Dave Newdawn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 695618232,
+      "name": "Shichi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wispet",
+  "corporation_id": 98217119,
+  "alliance_id": 99014628,
+  "corporation_name": "SECURITY SQUAD",
+  "alliance_name": "Texas."
+}

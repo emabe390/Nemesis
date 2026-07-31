@@ -1,0 +1,52 @@
+{
+  "character_id": 2123953531,
+  "total_losses": 24,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122117516,
+    "name": "Bellum Commercium",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98769102,
+    "alliance_id": null,
+    "corporation_name": "Feigned Anarchy Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122117516,
+      "name": "Bellum Commercium",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2122172759,
+      "name": "Mister Feign",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115711459,
+      "name": "Rose Yosemite",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116639027,
+      "name": "Triss Aye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ronan Prime",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122067698,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120656059,
+    "name": "Gladius Humanitatis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752916,
+    "alliance_id": 99007252,
+    "corporation_name": "The Most Kind Corporation",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 2120656059,
+      "name": "Gladius Humanitatis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dan I",
+  "corporation_id": 98815732,
+  "alliance_id": null,
+  "corporation_name": "1 HellRaisers",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123961091,
+  "total_losses": 18,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118945340,
+    "name": "ThisIsAnAltYouKnow",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98757945,
+    "alliance_id": 99010321,
+    "corporation_name": "The Clyde Bank",
+    "alliance_name": "B.E.A.R.S."
+  },
+  "top_killers": [
+    {
+      "id": 2118945340,
+      "name": "ThisIsAnAltYouKnow",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2123173047,
+      "name": "Locke Farkles",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Locke Violet",
+  "corporation_id": 98757945,
+  "alliance_id": 99010321,
+  "corporation_name": "The Clyde Bank",
+  "alliance_name": "B.E.A.R.S."
+}

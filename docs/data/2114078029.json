@@ -1,0 +1,40 @@
+{
+  "character_id": 2114078029,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91262185,
+    "name": "Warrior Spec",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98127387,
+    "alliance_id": 1354830081,
+    "corporation_name": "Echelon Research",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91262185,
+      "name": "Warrior Spec",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121328796,
+      "name": "Satalama Iwaira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121779722,
+      "name": "Calming Storm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Feather Coin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123524524,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114783921,
+    "name": "g0uda",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1997839752,
+      "name": "Laki Onori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112780368,
+      "name": "Andolyn Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "George Michael 63",
+  "corporation_id": 98420548,
+  "alliance_id": null,
+  "corporation_name": "KribCorp",
+  "alliance_name": null
+}

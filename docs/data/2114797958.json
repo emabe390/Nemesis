@@ -1,0 +1,40 @@
+{
+  "character_id": 2114797958,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113250901,
+    "name": "Larson Drak",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 370425408,
+    "alliance_id": null,
+    "corporation_name": "Piratas Leprosos Guineanos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1883398545,
+      "name": "Juliter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "La Tigresse",
+  "corporation_id": 98518273,
+  "alliance_id": 99012009,
+  "corporation_name": "Freeside Heavy Industries",
+  "alliance_name": "Minmatar Fleet Associates"
+}

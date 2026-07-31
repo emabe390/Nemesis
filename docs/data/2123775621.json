@@ -1,0 +1,40 @@
+{
+  "character_id": 2123775621,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116849268,
+    "name": "Dmitri Mikatta",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98759762,
+    "alliance_id": 99013776,
+    "corporation_name": "Kronan Fleet",
+    "alliance_name": "Kronan Empire"
+  },
+  "top_killers": [
+    {
+      "id": 2116849268,
+      "name": "Dmitri Mikatta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120010381,
+      "name": "Character 2120010381",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121628802,
+      "name": "Rebellion 88",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishane",
+  "corporation_id": 98838833,
+  "alliance_id": 99014712,
+  "corporation_name": "The Cultist Pirates",
+  "alliance_name": "Congregation of Magiks"
+}

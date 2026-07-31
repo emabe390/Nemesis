@@ -1,0 +1,40 @@
+{
+  "character_id": 2124505848,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90267484,
+    "name": "Dominion Death",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98801661,
+    "alliance_id": 99013786,
+    "corporation_name": "DEEPSPACE somewhere",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90267484,
+      "name": "Dominion Death",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96056765,
+      "name": "Tarkay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124487163,
+      "name": "The Lawfather",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Follere en Welle",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

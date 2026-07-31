@@ -1,0 +1,52 @@
+{
+  "character_id": 2118720153,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 148667918,
+      "name": "Dade Hades",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96779602,
+      "name": "LadyBoffin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 376791933,
+      "name": "The Dexter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 703729843,
+      "name": "Brinn Yerdola",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alderaan Loed",
+  "corporation_id": 98005120,
+  "alliance_id": 498125261,
+  "corporation_name": "Brittas Empire",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121520754,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117699115,
+    "name": "Jabari Shepherd",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2117699115,
+      "name": "Jabari Shepherd",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120881547,
+      "name": "mEvok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120889802,
+      "name": "RUSFREAK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ted Miner 3",
+  "corporation_id": 98655229,
+  "alliance_id": 99005338,
+  "corporation_name": "cookies and capital",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123532656,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93401875,
+    "name": "Alisa Kuznetsova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766893,
+    "alliance_id": 99014761,
+    "corporation_name": "S E C T",
+    "alliance_name": "SANGUIS INVICTUS"
+  },
+  "top_killers": [
+    {
+      "id": 93401875,
+      "name": "Alisa Kuznetsova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 587783934,
+      "name": "Efista",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1028618139,
+      "name": "StoneDwarf",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Savia Rahis",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

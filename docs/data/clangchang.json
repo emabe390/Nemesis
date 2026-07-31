@@ -1,0 +1,52 @@
+{
+  "character_id": 2123875512,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1362076016,
+    "name": "Arcelian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724947,
+    "alliance_id": null,
+    "corporation_name": "0nus",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1362076016,
+      "name": "Arcelian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113941640,
+      "name": "Lord Baliron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115093652,
+      "name": "Another Human",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123974804,
+      "name": "LoontikZ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95108758,
+      "name": "Tnklstheredneck Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ClangChang",
+  "corporation_id": 98827893,
+  "alliance_id": 99013719,
+  "corporation_name": "Liminal Protocol",
+  "alliance_name": "Keys Network"
+}

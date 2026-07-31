@@ -1,0 +1,40 @@
+{
+  "character_id": 2124120279,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113435301,
+      "name": "HelpI'mTackled",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116322116,
+      "name": "Dizzy Acami",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aruk Tsero",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

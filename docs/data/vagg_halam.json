@@ -1,0 +1,46 @@
+{
+  "character_id": 2114714963,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122197846,
+    "name": "John The Spacewalker",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98825388,
+    "alliance_id": null,
+    "corporation_name": "Other Minds",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122197846,
+      "name": "John The Spacewalker",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114301210,
+      "name": "cat Pink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123474566,
+      "name": "V4NTA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vagg Halam",
+  "corporation_id": 98770714,
+  "alliance_id": null,
+  "corporation_name": "MK-Techno",
+  "alliance_name": null
+}

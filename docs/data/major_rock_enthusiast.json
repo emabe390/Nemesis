@@ -1,0 +1,52 @@
+{
+  "character_id": 2124170735,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2120411582,
+    "name": "Alpha SoJIaris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98757402,
+    "alliance_id": null,
+    "corporation_name": "Bloody Heretics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120411582,
+      "name": "Alpha SoJIaris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91637550,
+      "name": "ANAS AL-LIBY",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91895028,
+      "name": "Sholto Douglas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95605562,
+      "name": "Dark Di-Lord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 302631173,
+      "name": "Unicorn Skayn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Major Rock Enthusiast",
+  "corporation_id": 98799892,
+  "alliance_id": 99010468,
+  "corporation_name": "False Gods",
+  "alliance_name": "Weapons Of Mass Production."
+}

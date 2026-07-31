@@ -1,0 +1,52 @@
+{
+  "character_id": 1170266869,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90667092,
+      "name": "Florisel 1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97217855,
+      "name": "SulNite Bhyorgan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Etienne Towl",
+  "corporation_id": 98664079,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cosmos Collective",
+  "alliance_name": "Goonswarm Federation"
+}

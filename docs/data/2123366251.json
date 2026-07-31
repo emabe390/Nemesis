@@ -1,0 +1,52 @@
+{
+  "character_id": 2123366251,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 299762341,
+    "name": "Destropia",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 299762341,
+      "name": "Destropia",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95788278,
+      "name": "Stilte Starving",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97109576,
+      "name": "Spyke Spiegel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 170381092,
+      "name": "Frozen Fallout",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Voidflare",
+  "corporation_id": 197097487,
+  "alliance_id": 1900696668,
+  "corporation_name": "4S Corporation",
+  "alliance_name": "The Initiative."
+}

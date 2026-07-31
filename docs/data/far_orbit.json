@@ -1,0 +1,52 @@
+{
+  "character_id": 2123636533,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95865832,
+    "name": "John Clemson",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98784883,
+    "alliance_id": 99015133,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "GOBLIN FLEET"
+  },
+  "top_killers": [
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2077381896,
+      "name": "Maximus Valvus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112452452,
+      "name": "Mr Arthin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1127613567,
+      "name": "Exosphere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Far Orbit",
+  "corporation_id": 98615595,
+  "alliance_id": 99009614,
+  "corporation_name": "Dark Space Fleet",
+  "alliance_name": "C U L T"
+}

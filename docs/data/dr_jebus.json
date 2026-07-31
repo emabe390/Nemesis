@@ -1,0 +1,40 @@
+{
+  "character_id": 90979461,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 474017017,
+      "name": "Enthorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 224846390,
+      "name": "Bluedagger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dr Jebus",
+  "corporation_id": 98473459,
+  "alliance_id": 99013785,
+  "corporation_name": "Lethal Devotion",
+  "alliance_name": "Escalation Theory"
+}

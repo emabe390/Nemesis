@@ -1,0 +1,52 @@
+{
+  "character_id": 2120853522,
+  "total_losses": 20,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 95154253,
+    "name": "Killa Kronik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802730,
+    "alliance_id": null,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95154253,
+      "name": "Killa Kronik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96135698,
+      "name": "Mikal Vektor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113471075,
+      "name": "FrozenHam Thiesant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94585805,
+      "name": "Walter Petchkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "quasi-coherent",
+  "corporation_id": 98731854,
+  "alliance_id": 99009845,
+  "corporation_name": "Relapse Anonymous",
+  "alliance_name": "Sedition."
+}

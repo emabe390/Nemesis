@@ -1,0 +1,52 @@
+{
+  "character_id": 2122933900,
+  "total_losses": 165,
+  "unique_killers": 75,
+  "nemesis": {
+    "id": 1598152562,
+    "name": "Cown",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1170551053,
+    "alliance_id": null,
+    "corporation_name": "Clan'Destine",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1598152562,
+      "name": "Cown",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 727382616,
+      "name": "Villa Strangiato",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 737310186,
+      "name": "Eldorlon",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 988041720,
+      "name": "Mortuus Angelus",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1020130539,
+      "name": "White Drop",
+      "kill_count": 6,
+      "final_blows": 6
+    }
+  ],
+  "character_name": "Shadow Fantom",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

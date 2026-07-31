@@ -1,0 +1,52 @@
+{
+  "character_id": 2123124123,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 507459428,
+    "name": "Pippan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98427793,
+    "alliance_id": null,
+    "corporation_name": "MongStars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 507459428,
+      "name": "Pippan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 917181577,
+      "name": "Shade Millith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1391279202,
+      "name": "Precurseur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117188562,
+      "name": "MArcin-Locutus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119221744,
+      "name": "Aoife Divine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bijou Willis",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

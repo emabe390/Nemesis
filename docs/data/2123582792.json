@@ -1,0 +1,46 @@
+{
+  "character_id": 2123582792,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121679866,
+    "name": "River Pixies",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121679866,
+      "name": "River Pixies",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96809768,
+      "name": "Maurice Baka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 713141884,
+      "name": "Davey Oaks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122025935,
+      "name": "Niurtolen Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rhodo Dindon",
+  "corporation_id": 98557697,
+  "alliance_id": 1900696668,
+  "corporation_name": "Lost Legends",
+  "alliance_name": "The Initiative."
+}

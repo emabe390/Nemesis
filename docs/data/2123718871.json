@@ -1,0 +1,52 @@
+{
+  "character_id": 2123718871,
+  "total_losses": 41,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95704662,
+      "name": "Character 95704662",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96642069,
+      "name": "Alexis Starbuck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 259484485,
+      "name": "Destroyer Draxx",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chadecus Hestius",
+  "corporation_id": 98802736,
+  "alliance_id": 99001969,
+  "corporation_name": "Unpleasant Warriors",
+  "alliance_name": "SONS of BANE"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123953945,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92570017,
+    "name": "Cronos Egnald",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 402487260,
+    "alliance_id": 1727758877,
+    "corporation_name": "FinFleet",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 92570017,
+      "name": "Cronos Egnald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96623225,
+      "name": "Jova Stelen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 809740091,
+      "name": "MAXSuicide",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ellenor Poljus",
+  "corporation_id": 98765453,
+  "alliance_id": 1900696668,
+  "corporation_name": "Walrus Mafia",
+  "alliance_name": "The Initiative."
+}

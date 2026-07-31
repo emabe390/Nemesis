@@ -1,0 +1,34 @@
+{
+  "character_id": 2124092474,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94991178,
+    "name": "Dradda Alar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781795,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Unlimited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94991178,
+      "name": "Dradda Alar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93438378,
+      "name": "Dopare Enipra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baron Tanaka",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

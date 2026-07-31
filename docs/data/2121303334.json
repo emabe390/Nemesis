@@ -1,0 +1,52 @@
+{
+  "character_id": 2121303334,
+  "total_losses": 135,
+  "unique_killers": 106,
+  "nemesis": {
+    "id": 2115141660,
+    "name": "Alex Mixter",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98744893,
+    "alliance_id": null,
+    "corporation_name": "Mixter corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115141660,
+      "name": "Alex Mixter",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 93103770,
+      "name": "mr chunky",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 884060811,
+      "name": "mtitus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112366909,
+      "name": "Ori Akami",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112595609,
+      "name": "Kelan Hanomaa",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Darth Mcfly",
+  "corporation_id": 98750082,
+  "alliance_id": 99009163,
+  "corporation_name": "NOT HALF BAD",
+  "alliance_name": "Dracarys."
+}

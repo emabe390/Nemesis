@@ -1,0 +1,46 @@
+{
+  "character_id": 2123433944,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116014989,
+    "name": "BILSA Nardieu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116014989,
+      "name": "BILSA Nardieu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1816808241,
+      "name": "Adrastos Graecus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121463583,
+      "name": "Marcus Atriedes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121902764,
+      "name": "Omtriam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Margaret Thatcher",
+  "corporation_id": 98659051,
+  "alliance_id": null,
+  "corporation_name": "Red Spider Nebula",
+  "alliance_name": null
+}

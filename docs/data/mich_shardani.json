@@ -1,0 +1,52 @@
+{
+  "character_id": 2121303586,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 629760460,
+    "name": "Drake Trondor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90544271,
+      "name": "Character 90544271",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93041548,
+      "name": "Lucho IYI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95513315,
+      "name": "M41NFR4M3 nl War",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mich Shardani",
+  "corporation_id": 1297657426,
+  "alliance_id": 1354830081,
+  "corporation_name": "CBC Interstellar",
+  "alliance_name": "Goonswarm Federation"
+}

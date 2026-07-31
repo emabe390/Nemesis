@@ -1,0 +1,52 @@
+{
+  "character_id": 2119303140,
+  "total_losses": 39,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 7,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 7,
+      "final_blows": 1
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 91396516,
+      "name": "Norrin Radd Cervantes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113413280,
+      "name": "zutur Arody",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "October 3",
+  "corporation_id": 98825044,
+  "alliance_id": 99003581,
+  "corporation_name": "Navigators' Union",
+  "alliance_name": "Fraternity."
+}

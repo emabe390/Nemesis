@@ -1,0 +1,40 @@
+{
+  "character_id": 2123899064,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121158767,
+    "name": "AvataroftheBloodGod",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2121158767,
+      "name": "AvataroftheBloodGod",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94262198,
+      "name": "Karu Bringit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1716964112,
+      "name": "HellssAngell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dmitri Mikalov",
+  "corporation_id": 98819414,
+  "alliance_id": null,
+  "corporation_name": "KETER CO.",
+  "alliance_name": null
+}

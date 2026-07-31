@@ -1,0 +1,52 @@
+{
+  "character_id": 2122435632,
+  "total_losses": 147,
+  "unique_killers": 86,
+  "nemesis": {
+    "id": 95898321,
+    "name": "Peter Inkura",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98767682,
+    "alliance_id": 99011223,
+    "corporation_name": "Horizon Industries.",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 95898321,
+      "name": "Peter Inkura",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2115154580,
+      "name": "Helsi UA",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 437509777,
+      "name": "Skelee VI",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94307363,
+      "name": "Anika Petrokova",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96644215,
+      "name": "Eggorych",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Giglina",
+  "corporation_id": 98776724,
+  "alliance_id": null,
+  "corporation_name": "Bivector Foil",
+  "alliance_name": null
+}

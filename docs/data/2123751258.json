@@ -1,0 +1,52 @@
+{
+  "character_id": 2123751258,
+  "total_losses": 48,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 2123179889,
+    "name": "yashtola steamgrey",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98795415,
+    "alliance_id": null,
+    "corporation_name": "Reinforced Everyday",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123179889,
+      "name": "yashtola steamgrey",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2120980988,
+      "name": "Evalen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1475060547,
+      "name": "StarMelnik",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94332020,
+      "name": "Admentus Dragon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121423114,
+      "name": "Yarl Phoenix",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "AmyDojo",
+  "corporation_id": 98786083,
+  "alliance_id": 99014986,
+  "corporation_name": "Cosmic Nebula Cartel",
+  "alliance_name": "Kinetic Diplomacy"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123118212,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117471516,
+    "name": "project5z",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2042491468,
+    "alliance_id": 99012702,
+    "corporation_name": "Inevitable Outcome",
+    "alliance_name": "E.C.H.O"
+  },
+  "top_killers": [
+    {
+      "id": 2117471516,
+      "name": "project5z",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123075342,
+      "name": "Raphael LaSalle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123389224,
+      "name": "Wiencek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123672489,
+      "name": "Vasuda Manaan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stellar Overlord",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

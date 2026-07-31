@@ -1,0 +1,40 @@
+{
+  "character_id": 2123665002,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91772306,
+    "name": "Captain Fubu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780813,
+    "alliance_id": 99012608,
+    "corporation_name": "Spacesparkles Inc.",
+    "alliance_name": "S.N.O.T."
+  },
+  "top_killers": [
+    {
+      "id": 91772306,
+      "name": "Captain Fubu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93676885,
+      "name": "Chexue Erquilenne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1512855981,
+      "name": "Character 1512855981",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rough Bear",
+  "corporation_id": 98412304,
+  "alliance_id": 99014238,
+  "corporation_name": "7 White Horses",
+  "alliance_name": "Unbound Horizons"
+}

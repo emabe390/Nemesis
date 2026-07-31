@@ -1,0 +1,40 @@
+{
+  "character_id": 2123356291,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96246748,
+    "name": "Tiger space Thedark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807127,
+    "alliance_id": null,
+    "corporation_name": "Corinthian Commune",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96246748,
+      "name": "Tiger space Thedark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115731558,
+      "name": "Pup en Welle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "kynnahar",
+  "corporation_id": 98838000,
+  "alliance_id": null,
+  "corporation_name": "kynnahar Corporation",
+  "alliance_name": null
+}

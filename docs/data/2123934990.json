@@ -1,0 +1,46 @@
+{
+  "character_id": 2123934990,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 795994401,
+    "name": "Gravaton Cleric",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808934,
+    "alliance_id": null,
+    "corporation_name": "Project Schopenhauer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 795994401,
+      "name": "Gravaton Cleric",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118131835,
+      "name": "speedpro56",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119125567,
+      "name": "Val Arnoux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TentacleMonster",
+  "corporation_id": 98699553,
+  "alliance_id": 99014609,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative"
+}

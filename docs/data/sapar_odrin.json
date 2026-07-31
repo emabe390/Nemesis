@@ -1,0 +1,40 @@
+{
+  "character_id": 2123263326,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93610621,
+    "name": "Kerrghann",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98616777,
+    "alliance_id": null,
+    "corporation_name": "Orange Team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93610621,
+      "name": "Kerrghann",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94489571,
+      "name": "Alita Kaibonda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123641445,
+      "name": "StonefaceNL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sapar Odrin",
+  "corporation_id": 98074264,
+  "alliance_id": null,
+  "corporation_name": "London Elektricity",
+  "alliance_name": null
+}

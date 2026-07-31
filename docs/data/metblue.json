@@ -1,0 +1,40 @@
+{
+  "character_id": 2123682370,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 759532526,
+      "name": "Capt Cake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114206312,
+      "name": "Ginger Lickin Good",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "METBLUE",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

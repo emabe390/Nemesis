@@ -1,0 +1,40 @@
+{
+  "character_id": 2121894810,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112755038,
+    "name": "Captain Jack O'Neil",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98645589,
+    "alliance_id": 99009163,
+    "corporation_name": "Faceless.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2112755038,
+      "name": "Captain Jack O'Neil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112826041,
+      "name": "Captain Thor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121669649,
+      "name": "Vesnow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spodling Lima",
+  "corporation_id": 98183625,
+  "alliance_id": 1900696668,
+  "corporation_name": "420 Enterprises.",
+  "alliance_name": "The Initiative."
+}

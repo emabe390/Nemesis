@@ -1,0 +1,52 @@
+{
+  "character_id": 2124292559,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2124292423,
+    "name": "A-ZW-02",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124292423,
+      "name": "A-ZW-02",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1342819338,
+      "name": "M0RE P0WER",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92889682,
+      "name": "The Main Jihad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93319096,
+      "name": "Theo Keikira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112938814,
+      "name": "Amara Denafel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "A-ZW-04",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

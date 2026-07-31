@@ -1,0 +1,52 @@
+{
+  "character_id": 2123743572,
+  "total_losses": 23,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123743566,
+    "name": "Lois Lane Norris",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98806658,
+    "alliance_id": 99011279,
+    "corporation_name": "Xelrak Enclave",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123743566,
+      "name": "Lois Lane Norris",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 1389050509,
+      "name": "Lamasul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1303207230,
+      "name": "Celaton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121712510,
+      "name": "Jamie0239",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pepper Potts Tyson",
+  "corporation_id": 98808628,
+  "alliance_id": 99011281,
+  "corporation_name": "Xelrak Institute",
+  "alliance_name": "Naval Defence Institute"
+}

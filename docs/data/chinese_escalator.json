@@ -1,0 +1,40 @@
+{
+  "character_id": 2124326232,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1476742230,
+    "name": "Sap hazar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114498069,
+      "name": "Nasbashov Ibruin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120091670,
+      "name": "Prize Eyes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chinese Escalator",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

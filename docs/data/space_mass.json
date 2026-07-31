@@ -1,0 +1,52 @@
+{
+  "character_id": 91536283,
+  "total_losses": 14,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 102122718,
+    "name": "Fuzzanator",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 102122718,
+      "name": "Fuzzanator",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 497115760,
+      "name": "zywaar",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 332552662,
+      "name": "Tia'maat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114342174,
+      "name": "Nado Tsutola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Space Mass",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

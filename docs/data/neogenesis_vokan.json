@@ -1,0 +1,52 @@
+{
+  "character_id": 2113950014,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 159280380,
+    "name": "Hans I",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98779121,
+    "alliance_id": 99014341,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120858469,
+      "name": "Sadalbjar Arbosa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93162293,
+      "name": "Insaniac Greeneyes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115542787,
+      "name": "Gavril Beloved",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116625211,
+      "name": "Alex Drako",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neogenesis Vokan",
+  "corporation_id": 98779121,
+  "alliance_id": 99014341,
+  "corporation_name": "The Stellar Paradox",
+  "alliance_name": "CreepShow Entertainment"
+}

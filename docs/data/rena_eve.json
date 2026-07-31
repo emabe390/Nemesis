@@ -1,0 +1,40 @@
+{
+  "character_id": 2123673617,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123673510,
+    "name": "Rue Eve",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98748599,
+    "alliance_id": 99012843,
+    "corporation_name": "Kenshin Industries.",
+    "alliance_name": "Kenshin Shogunate."
+  },
+  "top_killers": [
+    {
+      "id": 2123673510,
+      "name": "Rue Eve",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95648191,
+      "name": "Razors Vankillsing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rena Eve",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

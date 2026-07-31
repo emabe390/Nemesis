@@ -1,0 +1,40 @@
+{
+  "character_id": 2123792668,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121870235,
+    "name": "Kyokiki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796357,
+    "alliance_id": null,
+    "corporation_name": "Strangle Hold",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121870235,
+      "name": "Kyokiki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 242501202,
+      "name": "Lord Egmond",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113433777,
+      "name": "Elise Rotsuda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Potato Chad Girl",
+  "corporation_id": 98335801,
+  "alliance_id": 117383987,
+  "corporation_name": "Dark Wormhole Industry",
+  "alliance_name": "Silent Infinity"
+}

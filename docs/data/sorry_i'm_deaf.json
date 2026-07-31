@@ -1,0 +1,52 @@
+{
+  "character_id": 2113191623,
+  "total_losses": 23,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2122196229,
+    "name": "Keith Aero",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122196229,
+      "name": "Keith Aero",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 222844749,
+      "name": "Templar Dane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90565732,
+      "name": "Rankka Ikkala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90605941,
+      "name": "Petroph",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90738916,
+      "name": "Qshar Green",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sorry I'm Deaf",
+  "corporation_id": 98672155,
+  "alliance_id": 99010421,
+  "corporation_name": "Slavers Union",
+  "alliance_name": "Something Really Pretentious"
+}

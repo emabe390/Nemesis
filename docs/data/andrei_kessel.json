@@ -1,0 +1,40 @@
+{
+  "character_id": 2124147056,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 322667668,
+    "name": "Echo Degnar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630945,
+    "alliance_id": 498125261,
+    "corporation_name": "something something cache stuff",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 322667668,
+      "name": "Echo Degnar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1673165310,
+      "name": "tradewarz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122151352,
+      "name": "Cinnamini Monster",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Andrei Kessel",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

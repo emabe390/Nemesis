@@ -1,0 +1,40 @@
+{
+  "character_id": 2123386872,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91606979,
+    "name": "Navarho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1490115377,
+    "alliance_id": 99002685,
+    "corporation_name": "Panta-Rhei",
+    "alliance_name": "Synergy of Steel"
+  },
+  "top_killers": [
+    {
+      "id": 91606979,
+      "name": "Navarho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 270556702,
+      "name": "Sir Howard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lira Karmikova",
+  "corporation_id": 98782672,
+  "alliance_id": 99003006,
+  "corporation_name": "The rebellious rebel",
+  "alliance_name": "Brothers of Tangra"
+}

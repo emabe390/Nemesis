@@ -1,0 +1,52 @@
+{
+  "character_id": 2112197972,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91630190,
+    "name": "Bedloun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91630190,
+      "name": "Bedloun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91943256,
+      "name": "Haix Exter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122186544,
+      "name": "Revenge for Apple",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123461858,
+      "name": "Arkin Maken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2112197972",
+  "corporation_id": 98531766,
+  "alliance_id": null,
+  "corporation_name": "Yautjas",
+  "alliance_name": null
+}

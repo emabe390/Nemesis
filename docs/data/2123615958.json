@@ -1,0 +1,52 @@
+{
+  "character_id": 2123615958,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96525633,
+    "name": "Kaivarian Coste",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833695,
+    "alliance_id": null,
+    "corporation_name": "Myyhera March",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 319042283,
+      "name": "Piolp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122506261,
+      "name": "Leave's sadness",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122662466,
+      "name": "Drake Azhog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123252030,
+      "name": "Ghostloket",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tarbi Dian",
+  "corporation_id": 98775860,
+  "alliance_id": 99014081,
+  "corporation_name": "Marauders Logistic",
+  "alliance_name": "Synergy of Support"
+}

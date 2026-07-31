@@ -1,0 +1,52 @@
+{
+  "character_id": 2123121484,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122585718,
+      "name": "Phoenix Corn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122703455,
+      "name": "Bobby Lee McGee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91076700,
+      "name": "HaVVKeye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92138826,
+      "name": "MrRokki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ProtAlex",
+  "corporation_id": 397943965,
+  "alliance_id": 154104258,
+  "corporation_name": "Phoenix Division",
+  "alliance_name": "Apocalypse Now."
+}

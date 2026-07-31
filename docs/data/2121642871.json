@@ -1,0 +1,40 @@
+{
+  "character_id": 2121642871,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1809243033,
+    "name": "Margie Moran",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98596271,
+    "alliance_id": 99010859,
+    "corporation_name": "AGGRO POD EXPRESS",
+    "alliance_name": "WooHooCo"
+  },
+  "top_killers": [
+    {
+      "id": 1809243033,
+      "name": "Margie Moran",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 854486695,
+      "name": "Mike Right",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121403451,
+      "name": "Dev Terran",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SVOYA IGRA",
+  "corporation_id": 98700577,
+  "alliance_id": 99011387,
+  "corporation_name": "WE ARE ZERGS",
+  "alliance_name": "ZERG REBORN"
+}

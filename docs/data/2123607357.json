@@ -1,0 +1,40 @@
+{
+  "character_id": 2123607357,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116054176,
+    "name": "Larnier Ormand",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487359,
+    "alliance_id": 99011614,
+    "corporation_name": "Ronin ONE",
+    "alliance_name": "Ronin Reloaded"
+  },
+  "top_killers": [
+    {
+      "id": 2116054176,
+      "name": "Larnier Ormand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93903530,
+      "name": "Ishtar Jesus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123129863,
+      "name": "Pav Gin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kenway Cinderfield",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

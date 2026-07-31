@@ -1,0 +1,52 @@
+{
+  "character_id": 2123050680,
+  "total_losses": 42,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2114739715,
+      "name": "Tornado Solo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122183801,
+      "name": "Johan Liebert33",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91695418,
+      "name": "CruelCodex Owasso",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sarahs Folly",
+  "corporation_id": 98154001,
+  "alliance_id": 99007887,
+  "corporation_name": "Iron Inquisition",
+  "alliance_name": "Brotherhood of Spacers"
+}

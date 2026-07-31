@@ -1,0 +1,52 @@
+{
+  "character_id": 2117327687,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2117642627,
+    "name": "Neene",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98608254,
+    "alliance_id": 99003581,
+    "corporation_name": "Elysian Technologies Enclave",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2117642627,
+      "name": "Neene",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113997419,
+      "name": "Gachi Aniki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116149926,
+      "name": "ferte Berodald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117530084,
+      "name": "Nin Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118046273,
+      "name": "Areel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clairee",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

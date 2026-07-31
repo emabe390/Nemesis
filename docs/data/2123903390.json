@@ -1,0 +1,40 @@
+{
+  "character_id": 2123903390,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119359606,
+    "name": "ANTI-MAGA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98713346,
+    "alliance_id": null,
+    "corporation_name": "New House of Flanders",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119359606,
+      "name": "ANTI-MAGA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117126658,
+      "name": "Haki Haklon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "S7-09-HOLLOW",
+  "corporation_id": 98792261,
+  "alliance_id": 99012005,
+  "corporation_name": "deTiNu sEcaNEm DLeIF",
+  "alliance_name": "Marsbar's Nugget Factory"
+}

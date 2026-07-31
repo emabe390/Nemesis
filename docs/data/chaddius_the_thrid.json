@@ -1,0 +1,34 @@
+{
+  "character_id": 2123078720,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1711606704,
+    "name": "Demonski",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1632475871,
+    "alliance_id": null,
+    "corporation_name": "Ricochet Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1711606704,
+      "name": "Demonski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95880559,
+      "name": "Max GrimFang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chaddius The Thrid",
+  "corporation_id": 98793911,
+  "alliance_id": 99014548,
+  "corporation_name": "evod logistics",
+  "alliance_name": "Project Oasis"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124498211,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 344812993,
+    "name": "Kirtak",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98757488,
+    "alliance_id": 99003581,
+    "corporation_name": "Jack Daniels Elite Squadron",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 344812993,
+      "name": "Kirtak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 692533395,
+      "name": "Caldor Gend",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117879226,
+      "name": "Reesiekups",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zorvan Kael",
+  "corporation_id": 98541758,
+  "alliance_id": null,
+  "corporation_name": "Emperor's Medical Corporation",
+  "alliance_name": null
+}

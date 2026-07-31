@@ -1,0 +1,52 @@
+{
+  "character_id": 2122786669,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121017163,
+    "name": "Adrakones",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2121017163,
+      "name": "Adrakones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115047707,
+      "name": "Pokerface sola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xi Dongfei",
+  "corporation_id": 98769251,
+  "alliance_id": null,
+  "corporation_name": "Lobotomized Gaming",
+  "alliance_name": null
+}

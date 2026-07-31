@@ -1,0 +1,40 @@
+{
+  "character_id": 2124172555,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 558857881,
+    "name": "Ambi Bambi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98595468,
+    "alliance_id": 99010990,
+    "corporation_name": "United Systems of Aridia",
+    "alliance_name": "United Systems of Avarice"
+  },
+  "top_killers": [
+    {
+      "id": 558857881,
+      "name": "Ambi Bambi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119217172,
+      "name": "Character 2119217172",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123558916,
+      "name": "Charls Darwin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Assault Mortis",
+  "corporation_id": 98632030,
+  "alliance_id": 99003581,
+  "corporation_name": "Red Scarf Humpback",
+  "alliance_name": "Fraternity."
+}

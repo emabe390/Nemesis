@@ -1,0 +1,52 @@
+{
+  "character_id": 2114415546,
+  "total_losses": 14,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90659278,
+      "name": "Riftation Nation",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94577030,
+      "name": "Michael Pancake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121393211,
+      "name": "Chira Shi Zushi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 625637028,
+      "name": "Catastrophic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roger Camionneur",
+  "corporation_id": 98444656,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Pos Boys",
+  "alliance_name": "Brave Collective"
+}

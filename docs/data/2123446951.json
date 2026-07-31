@@ -1,0 +1,46 @@
+{
+  "character_id": 2123446951,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 259230043,
+    "name": "U93AJAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98819864,
+    "alliance_id": null,
+    "corporation_name": "The Akker Navy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 259230043,
+      "name": "U93AJAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116716343,
+      "name": "Empowered BlackWoman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90611410,
+      "name": "Gorbachev Dostoevsky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 621178426,
+      "name": "Cypher V",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kodakerr",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121776108,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1905713025,
+    "name": "Avi Lee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807228,
+    "alliance_id": 99014873,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 1905713025,
+      "name": "Avi Lee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117117358,
+      "name": "Brettias Paynies",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121256680,
+      "name": "Marlowe Conrad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116503388,
+      "name": "Chuck Blevins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tal Snowday",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124361280,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95277885,
+    "name": "Mark Bridges",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 220243444,
+    "alliance_id": 551692893,
+    "corporation_name": "Genos Occidere",
+    "alliance_name": "HYDRA RELOADED"
+  },
+  "top_killers": [
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96720205,
+      "name": "SvipuI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97102875,
+      "name": "Prorok Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Patarala Katelo",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

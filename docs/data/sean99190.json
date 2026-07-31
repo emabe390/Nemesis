@@ -1,0 +1,52 @@
+{
+  "character_id": 2123431456,
+  "total_losses": 99,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2123431456,
+    "name": "Sean99190",
+    "kill_count": 44,
+    "final_blows": 44,
+    "corporation_id": 98049623,
+    "alliance_id": 99003581,
+    "corporation_name": "Formosa Research Center",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123431456,
+      "name": "Sean99190",
+      "kill_count": 44,
+      "final_blows": 44
+    },
+    {
+      "id": 2122342067,
+      "name": "Sean99187",
+      "kill_count": 30,
+      "final_blows": 30
+    },
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95291012,
+      "name": "Markus Error",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sean99190",
+  "corporation_id": 98049623,
+  "alliance_id": 99003581,
+  "corporation_name": "Formosa Research Center",
+  "alliance_name": "Fraternity."
+}

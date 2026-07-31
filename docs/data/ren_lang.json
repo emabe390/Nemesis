@@ -1,0 +1,40 @@
+{
+  "character_id": 96259835,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121602202,
+    "name": "Fred again",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98753876,
+    "alliance_id": null,
+    "corporation_name": "Dark Boiz",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121602202,
+      "name": "Fred again",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113767935,
+      "name": "Master Bazuka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120142458,
+      "name": "kinopiZ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ren Lang",
+  "corporation_id": 98668937,
+  "alliance_id": 99009764,
+  "corporation_name": "Wings of the Upwind",
+  "alliance_name": "Azure Citizen"
+}

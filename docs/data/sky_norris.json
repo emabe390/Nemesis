@@ -1,0 +1,52 @@
+{
+  "character_id": 2123632870,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96087208,
+    "name": "Ren Minagawa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98749126,
+    "alliance_id": 99011416,
+    "corporation_name": "Silent Knights.",
+    "alliance_name": "LinkNet"
+  },
+  "top_killers": [
+    {
+      "id": 96087208,
+      "name": "Ren Minagawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1394904373,
+      "name": "ComPitch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93189625,
+      "name": "One Two Buklemaschu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95115372,
+      "name": "Vance Desai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 391334192,
+      "name": "Hunter Darkside",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sky Norris",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

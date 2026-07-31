@@ -1,0 +1,52 @@
+{
+  "character_id": 2123670738,
+  "total_losses": 45,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 859606998,
+      "name": "Cal 7",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90711855,
+      "name": "Juktus Groth",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Commander Knight101",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

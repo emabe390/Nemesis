@@ -1,0 +1,52 @@
+{
+  "character_id": 91090418,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2119093305,
+    "name": "green ducks",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98676515,
+    "alliance_id": null,
+    "corporation_name": "The Cartel Of Solitude-Aridia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119093305,
+      "name": "green ducks",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 879104983,
+      "name": "Rhaeghar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 881777623,
+      "name": "Autumn Nature",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115255937,
+      "name": "Furore Meraxes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95872464,
+      "name": "Lukas Van Eind",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maesma Starhunter",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

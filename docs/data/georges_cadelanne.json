@@ -1,0 +1,40 @@
+{
+  "character_id": 2116261874,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95210276,
+    "name": "Character 95210276",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98427812,
+    "alliance_id": 99007203,
+    "corporation_name": "Siberian Squad",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 95210276,
+      "name": "Character 95210276",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122351738,
+      "name": "Angel Takenoko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121203347,
+      "name": "Xander Ryn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Georges Cadelanne",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

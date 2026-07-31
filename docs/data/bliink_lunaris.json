@@ -1,0 +1,52 @@
+{
+  "character_id": 2122228280,
+  "total_losses": 44,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 111505003,
+    "name": "Sapporo Ichiban",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98224639,
+    "alliance_id": 99005678,
+    "corporation_name": "Dirt 'n' Glitter",
+    "alliance_name": "Local Is Primary"
+  },
+  "top_killers": [
+    {
+      "id": 111505003,
+      "name": "Sapporo Ichiban",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 876684869,
+      "name": "Araeks Ellis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90074430,
+      "name": "Chaddington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90615166,
+      "name": "Eve Days CEO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92529233,
+      "name": "Kyritheous Zarin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bliink Lunaris",
+  "corporation_id": 98647659,
+  "alliance_id": 99011978,
+  "corporation_name": "Soltech Armada",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

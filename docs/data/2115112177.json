@@ -1,0 +1,40 @@
+{
+  "character_id": 2115112177,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1586642685,
+      "name": "Count Scary",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112979925,
+      "name": "Legit Capsuleer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "God Swing",
+  "corporation_id": 98286981,
+  "alliance_id": 99013541,
+  "corporation_name": "Bluehogs",
+  "alliance_name": "Fraternity Auxiliary"
+}

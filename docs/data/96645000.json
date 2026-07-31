@@ -1,0 +1,52 @@
+{
+  "character_id": 96645000,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 456120948,
+    "name": "Blood Stains",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1673385956,
+    "alliance_id": 99011223,
+    "corporation_name": "Syndicate Enterprise",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 456120948,
+      "name": "Blood Stains",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119392005,
+      "name": "SUS SUS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124152440,
+      "name": "CanUHelpMe StepBubbler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95908711,
+      "name": "Dreya Starhunt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 778315873,
+      "name": "Kloria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekaterina Razumovskaya",
+  "corporation_id": 98426099,
+  "alliance_id": 99007326,
+  "corporation_name": "Special Expedition for Space Works",
+  "alliance_name": "Space Search and Rescue"
+}

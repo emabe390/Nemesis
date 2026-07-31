@@ -1,0 +1,52 @@
+{
+  "character_id": 91535255,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92694343,
+    "name": "Atticus Finch Kelcyn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 92694343,
+      "name": "Atticus Finch Kelcyn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90166184,
+      "name": "Lindally",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91127751,
+      "name": "Character 91127751",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92221306,
+      "name": "Verdis deMosays",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abin Sharvas",
+  "corporation_id": 98657953,
+  "alliance_id": 99011291,
+  "corporation_name": "Cosmos Industrial",
+  "alliance_name": "Cosmos Origins"
+}

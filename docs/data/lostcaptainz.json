@@ -1,0 +1,46 @@
+{
+  "character_id": 2123949003,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123624064,
+    "name": "ProfiProfil",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810604,
+    "alliance_id": 99013823,
+    "corporation_name": "Federation of New Eden",
+    "alliance_name": "Cat Scratch Fevers"
+  },
+  "top_killers": [
+    {
+      "id": 2123624064,
+      "name": "ProfiProfil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 482709599,
+      "name": "zander killer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1156615136,
+      "name": "Death Killer21",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112784748,
+      "name": "Colton California",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LostCaptainz",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123998127,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90208148,
+    "name": "Selusa Secundus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98251840,
+    "alliance_id": 99010421,
+    "corporation_name": "Beyond Remorse.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 90208148,
+      "name": "Selusa Secundus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93716452,
+      "name": "Torgo Tahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124142055,
+      "name": "Torta Wrangler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cire Ianyer",
+  "corporation_id": 98816545,
+  "alliance_id": 99009163,
+  "corporation_name": "Spectrum Armada",
+  "alliance_name": "Dracarys."
+}

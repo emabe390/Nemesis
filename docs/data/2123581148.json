@@ -1,0 +1,52 @@
+{
+  "character_id": 2123581148,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532513629,
+      "name": "Nexium2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114363015,
+      "name": "Minaster Erquilenne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119880683,
+      "name": "Big Smelly",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121959206,
+      "name": "616sb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Celes Koriv",
+  "corporation_id": 98820553,
+  "alliance_id": null,
+  "corporation_name": "Koriv Survey and Signal Services",
+  "alliance_name": null
+}

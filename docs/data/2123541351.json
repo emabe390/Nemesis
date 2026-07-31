@@ -1,0 +1,52 @@
+{
+  "character_id": 2123541351,
+  "total_losses": 22,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123662420,
+    "name": "ClamsBomb",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98742946,
+    "alliance_id": 99003995,
+    "corporation_name": "Zhuque squad",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123662420,
+      "name": "ClamsBomb",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123538925,
+      "name": "FishBomb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123541289,
+      "name": "MosquitoBomb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114982983,
+      "name": "Lou Mir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93095895,
+      "name": "Artack35",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PanadaBomb",
+  "corporation_id": 98742946,
+  "alliance_id": 99003995,
+  "corporation_name": "Zhuque squad",
+  "alliance_name": "Invidia Gloriae Comes"
+}

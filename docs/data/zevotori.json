@@ -1,0 +1,52 @@
+{
+  "character_id": 2123543445,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 736177604,
+    "name": "Quax Ono",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 736177604,
+      "name": "Quax Ono",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 805804420,
+      "name": "Yuki Li",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 895508391,
+      "name": "Plainace",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119301903,
+      "name": "Character 2119301903",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120839638,
+      "name": "DP-01-25",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zevotori",
+  "corporation_id": 98798040,
+  "alliance_id": null,
+  "corporation_name": "Plasma Genolution Corporation",
+  "alliance_name": null
+}

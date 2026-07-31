@@ -1,0 +1,40 @@
+{
+  "character_id": 2122254438,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121750603,
+    "name": "Marianne Sten",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98360452,
+    "alliance_id": 99011279,
+    "corporation_name": "Naval Defence Force",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121750603,
+      "name": "Marianne Sten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93115017,
+      "name": "Crispy Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93886098,
+      "name": "One Sora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tithesmona",
+  "corporation_id": 98525262,
+  "alliance_id": 99003581,
+  "corporation_name": "Liberal heavy cavalry",
+  "alliance_name": "Fraternity."
+}

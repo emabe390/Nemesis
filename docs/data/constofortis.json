@@ -1,0 +1,46 @@
+{
+  "character_id": 2123609651,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90101389,
+      "name": "SomeoneStrange",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91667131,
+      "name": "Dreaksy Tyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123391777,
+      "name": "D4Ch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ConstoFortis",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

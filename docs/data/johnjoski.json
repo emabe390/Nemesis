@@ -1,0 +1,46 @@
+{
+  "character_id": 2123820201,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123668838,
+      "name": "Saint Huck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JohnJoski",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

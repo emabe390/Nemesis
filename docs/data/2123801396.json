@@ -1,0 +1,52 @@
+{
+  "character_id": 2123801396,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122711177,
+    "name": "Justin Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122711177,
+      "name": "Justin Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1204592565,
+      "name": "Victory Man",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1796328692,
+      "name": "GalaX StarFighter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okakuola Penken",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

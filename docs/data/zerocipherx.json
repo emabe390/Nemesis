@@ -1,0 +1,40 @@
+{
+  "character_id": 2123943717,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122169243,
+    "name": "Robbb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805225,
+    "alliance_id": 99014738,
+    "corporation_name": "Officio Assassinorum.",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2122169243,
+      "name": "Robbb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95122682,
+      "name": "Starlord Aschente",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 344652980,
+      "name": "Locke Beulve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZeroCipherX",
+  "corporation_id": 98714506,
+  "alliance_id": 1900696668,
+  "corporation_name": "E N I G M A",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123665154,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121475828,
+    "name": "HarmlessOne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 916057165,
+      "name": "Faye Valintein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118999220,
+      "name": "Frofr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sivarulf Atild",
+  "corporation_id": 98767024,
+  "alliance_id": 99013563,
+  "corporation_name": "Allied Exploration Front",
+  "alliance_name": "Allied Exploration Front AXXF"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115265667,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90327791,
+    "name": "Aeon Maps",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 90327791,
+      "name": "Aeon Maps",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sirren",
+  "corporation_id": 1000060,
+  "alliance_id": null,
+  "corporation_name": "Native Freshfood",
+  "alliance_name": null
+}

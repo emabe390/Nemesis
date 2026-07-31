@@ -1,0 +1,40 @@
+{
+  "character_id": 2123973117,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94130782,
+    "name": "Vael Praetorius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797147,
+    "alliance_id": null,
+    "corporation_name": "Kubinen Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94130782,
+      "name": "Vael Praetorius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112089383,
+      "name": "Spyke Austrene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119428404,
+      "name": "shion zenos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sapper-06",
+  "corporation_id": 98820963,
+  "alliance_id": null,
+  "corporation_name": "This Is Just a Corp",
+  "alliance_name": null
+}

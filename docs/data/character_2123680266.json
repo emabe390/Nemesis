@@ -1,0 +1,40 @@
+{
+  "character_id": 2123680266,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115798866,
+    "name": "BtsBma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788243,
+    "alliance_id": 99015041,
+    "corporation_name": "Hull Miners inc",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95377176,
+      "name": "Ragnard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1617793187,
+      "name": "Orion Serini",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123680266",
+  "corporation_id": 98016336,
+  "alliance_id": null,
+  "corporation_name": "Commie Buzzard",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 904484916,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1158235790,
+    "name": "Com Evestess",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98127387,
+    "alliance_id": 1354830081,
+    "corporation_name": "Echelon Research",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1158235790,
+      "name": "Com Evestess",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117797536,
+      "name": "UrThysisFW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119787403,
+      "name": "Black Akron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Namdor",
+  "corporation_id": 98729952,
+  "alliance_id": null,
+  "corporation_name": "Laser Focused",
+  "alliance_name": null
+}

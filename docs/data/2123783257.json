@@ -1,0 +1,40 @@
+{
+  "character_id": 2123783257,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120283726,
+    "name": "Tommas Drummer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98781943,
+    "alliance_id": null,
+    "corporation_name": "Damned Frogs Neighbours",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120283726,
+      "name": "Tommas Drummer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115485968,
+      "name": "Yabiza Yummara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122030871,
+      "name": "Jirqo'adai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lunareth",
+  "corporation_id": 98795860,
+  "alliance_id": null,
+  "corporation_name": "Super Earth Spatial Industries",
+  "alliance_name": null
+}

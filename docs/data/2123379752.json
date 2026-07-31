@@ -1,0 +1,52 @@
+{
+  "character_id": 2123379752,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115223319,
+    "name": "Elisabeth Canary",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115223319,
+      "name": "Elisabeth Canary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92300270,
+      "name": "Wurby Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93777665,
+      "name": "taylor parker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94184947,
+      "name": "lancelot Ellecon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 822886919,
+      "name": "Chip Flux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaira Triton",
+  "corporation_id": 98366365,
+  "alliance_id": 99013901,
+  "corporation_name": "The Golden Marauder Horde",
+  "alliance_name": "The Silent Syndicate"
+}

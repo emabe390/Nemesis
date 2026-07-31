@@ -1,0 +1,40 @@
+{
+  "character_id": 2124205636,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91526421,
+    "name": "Scout Omanid",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1268626349,
+    "alliance_id": 99012398,
+    "corporation_name": "Soul Takers",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 91526421,
+      "name": "Scout Omanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117488712,
+      "name": "Sir Bongwater Hackalung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118222299,
+      "name": "Mark Borrigan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sadine Kane",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

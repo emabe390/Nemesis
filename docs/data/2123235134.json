@@ -1,0 +1,52 @@
+{
+  "character_id": 2123235134,
+  "total_losses": 84,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 851352703,
+    "name": "Em Interference",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1262577328,
+    "alliance_id": 99006975,
+    "corporation_name": "Doom Generation",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 851352703,
+      "name": "Em Interference",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1292592102,
+      "name": "Marius Tisati",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95693664,
+      "name": "Blazen DaGanja",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Frost Usagiyama",
+  "corporation_id": 98838209,
+  "alliance_id": null,
+  "corporation_name": "Frozen Blizzard",
+  "alliance_name": null
+}

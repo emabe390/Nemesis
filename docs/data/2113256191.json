@@ -1,0 +1,40 @@
+{
+  "character_id": 2113256191,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115984474,
+    "name": "TS K",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98416134,
+    "alliance_id": 99006941,
+    "corporation_name": "Sons of Black Rise",
+    "alliance_name": "Siege Green."
+  },
+  "top_killers": [
+    {
+      "id": 2115984474,
+      "name": "TS K",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112628088,
+      "name": "Jeppezon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118069302,
+      "name": "Dalamar Argentt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Max Rockatanksy",
+  "corporation_id": 98693193,
+  "alliance_id": 99010930,
+  "corporation_name": "Caltech Institute of Technology",
+  "alliance_name": "Outback Krabhouse"
+}

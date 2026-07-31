@@ -1,0 +1,40 @@
+{
+  "character_id": 91442773,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1116453340,
+    "name": "Amakei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751312,
+    "alliance_id": 99012847,
+    "corporation_name": "Rage Against All Reds",
+    "alliance_name": "GunFam"
+  },
+  "top_killers": [
+    {
+      "id": 1116453340,
+      "name": "Amakei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 999734578,
+      "name": "leshrak cabot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123048609,
+      "name": "haydar halayyolu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Free Cyno",
+  "corporation_id": 98422157,
+  "alliance_id": 99014444,
+  "corporation_name": "DDoS.exe",
+  "alliance_name": "New Autistic Tactical Order"
+}

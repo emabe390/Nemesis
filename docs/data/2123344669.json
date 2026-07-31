@@ -1,0 +1,52 @@
+{
+  "character_id": 2123344669,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118326687,
+      "name": "nekozuki Futa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96949188,
+      "name": "PK Roses",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121014494,
+      "name": "DarkStorm96",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123434980,
+      "name": "Teach Trench",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ReviveHere",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

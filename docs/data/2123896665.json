@@ -1,0 +1,40 @@
+{
+  "character_id": 2123896665,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94443642,
+    "name": "Chronos Aion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603158,
+    "alliance_id": 99012611,
+    "corporation_name": "Kamikaze Inc..",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 94443642,
+      "name": "Chronos Aion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116705388,
+      "name": "Keisuke Schwarzman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122849876,
+      "name": "Blondie Emerald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jarengheere Erquilenne",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

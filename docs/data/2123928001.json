@@ -1,0 +1,40 @@
+{
+  "character_id": 2123928001,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119130785,
+    "name": "Bojeck hoursman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748221,
+    "alliance_id": 99012449,
+    "corporation_name": "Don't touch my wreck",
+    "alliance_name": "TOXIC PLAYERS."
+  },
+  "top_killers": [
+    {
+      "id": 2119130785,
+      "name": "Bojeck hoursman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122172759,
+      "name": "Mister Feign",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122728063,
+      "name": "Dr Emilia Nightingale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mason wells",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

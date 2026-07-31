@@ -1,0 +1,52 @@
+{
+  "character_id": 2119512683,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92968277,
+      "name": "Braskalin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94280900,
+      "name": "Xaifas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 321858034,
+      "name": "bluebrick",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mosley Scarface",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

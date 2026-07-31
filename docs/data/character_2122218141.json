@@ -1,0 +1,40 @@
+{
+  "character_id": 2122218141,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2115086392,
+      "name": "Fay Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122698701,
+      "name": "Tedius Kacynskus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122218141",
+  "corporation_id": 98726134,
+  "alliance_id": 99011978,
+  "corporation_name": "Rattini Tribe",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

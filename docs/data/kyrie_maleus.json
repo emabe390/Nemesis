@@ -1,0 +1,52 @@
+{
+  "character_id": 2124125101,
+  "total_losses": 21,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 930305047,
+      "name": "Sweet Trader",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118122089,
+      "name": "Yafshaj Hashur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123023820,
+      "name": "Arbame en Daire",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kyrie Maleus",
+  "corporation_id": 98826030,
+  "alliance_id": 99015170,
+  "corporation_name": "Dead Omega Society",
+  "alliance_name": "Iron Anchor Alliance"
+}

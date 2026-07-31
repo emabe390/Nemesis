@@ -1,0 +1,52 @@
+{
+  "character_id": 2123430111,
+  "total_losses": 25,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 97155806,
+    "name": "melichar agraelus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800166,
+    "alliance_id": 99011279,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 97155806,
+      "name": "melichar agraelus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 364393374,
+      "name": "brando wynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120286664,
+      "name": "Juni Jun'ko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121949493,
+      "name": "Adalheidis Baldajani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098265,
+      "name": "intoxicating innocence",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yarenmys Yanes",
+  "corporation_id": 98597588,
+  "alliance_id": null,
+  "corporation_name": "Clan McPherson",
+  "alliance_name": null
+}

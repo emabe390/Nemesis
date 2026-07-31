@@ -1,0 +1,40 @@
+{
+  "character_id": 2124119281,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123900177,
+    "name": "Arisucat",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98795232,
+    "alliance_id": 99009845,
+    "corporation_name": "Cozy Mischief",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2123900177,
+      "name": "Arisucat",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95636700,
+      "name": "Neutron Ronnie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 625550881,
+      "name": "Torothin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyrner",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

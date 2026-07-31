@@ -1,0 +1,52 @@
+{
+  "character_id": 2122230664,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118289644,
+      "name": "Dehitek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94676536,
+      "name": "Denim Fairweather",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95446544,
+      "name": "Cyrus Kurush",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 807750123,
+      "name": "Bronwolff LeCroix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rust Spencer Cohle",
+  "corporation_id": 803493697,
+  "alliance_id": 1900696668,
+  "corporation_name": "Bohemian Veterans",
+  "alliance_name": "The Initiative."
+}

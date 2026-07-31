@@ -1,0 +1,52 @@
+{
+  "character_id": 2123637816,
+  "total_losses": 13,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96417025,
+    "name": "Jimmy Michaels",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2113012566,
+      "name": "SirDrillsAlot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119558901,
+      "name": "Nia Raven",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1893485071,
+      "name": "Anarchynow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seeker 3D",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

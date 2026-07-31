@@ -1,0 +1,46 @@
+{
+  "character_id": 2123802749,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123802747,
+    "name": "NovaBun",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98524939,
+    "alliance_id": 1354830081,
+    "corporation_name": "Sing Hua",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123802747,
+      "name": "NovaBun",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 202442262,
+      "name": "Davian Loyalar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 768915824,
+      "name": "Kelon Darklight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113698429,
+      "name": "AbsinthS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LunarBun",
+  "corporation_id": 98524939,
+  "alliance_id": 1354830081,
+  "corporation_name": "Sing Hua",
+  "alliance_name": "Goonswarm Federation"
+}

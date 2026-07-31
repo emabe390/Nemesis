@@ -1,0 +1,46 @@
+{
+  "character_id": 2123687486,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121774870,
+    "name": "Chad Cooks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 2121774870,
+      "name": "Chad Cooks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114130917,
+      "name": "Nol Jojo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119166796,
+      "name": "Dark Evan Swan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121994931,
+      "name": "Zhopniy Caries",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tarble",
+  "corporation_id": 98794558,
+  "alliance_id": null,
+  "corporation_name": "Goin Postal",
+  "alliance_name": null
+}

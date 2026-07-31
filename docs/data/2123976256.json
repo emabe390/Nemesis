@@ -1,0 +1,52 @@
+{
+  "character_id": 2123976256,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2114229887,
+    "name": "Dmitry Starborn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98823487,
+    "alliance_id": null,
+    "corporation_name": "KOMAR GROUP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114229887,
+      "name": "Dmitry Starborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123560119,
+      "name": "Dank Angle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95603709,
+      "name": "Ictali Zadekk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96262419,
+      "name": "Odysseus Aubaris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Centoz",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

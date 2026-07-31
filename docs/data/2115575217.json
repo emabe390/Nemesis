@@ -1,0 +1,52 @@
+{
+  "character_id": 2115575217,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 614389879,
+    "name": "TROUB1",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 614389879,
+      "name": "TROUB1",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115631068,
+      "name": "Character 2115631068",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92817379,
+      "name": "Sp0nge BOMB",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93909577,
+      "name": "Praxx Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 380801879,
+      "name": "Dredx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elegie",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

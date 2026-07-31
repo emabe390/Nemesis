@@ -1,0 +1,52 @@
+{
+  "character_id": 2123909041,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2121750260,
+    "name": "Vosaullen Olerie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2121750260,
+      "name": "Vosaullen Olerie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92871474,
+      "name": "Aenox TK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93326443,
+      "name": "Paraboola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93358003,
+      "name": "Diego Broker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93838156,
+      "name": "Abu Galia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex 'Chef' Deschain",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

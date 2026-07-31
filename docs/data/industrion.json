@@ -1,0 +1,40 @@
+{
+  "character_id": 2122715660,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Industrion",
+  "corporation_id": 98089258,
+  "alliance_id": 1900696668,
+  "corporation_name": "Game of Drones",
+  "alliance_name": "The Initiative."
+}

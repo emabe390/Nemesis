@@ -1,0 +1,52 @@
+{
+  "character_id": 2124064305,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 574491333,
+    "name": "Judas Aralius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 557199155,
+    "alliance_id": 99011223,
+    "corporation_name": "The New Federation",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 574491333,
+      "name": "Judas Aralius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1945369594,
+      "name": "Flores Negras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91714999,
+      "name": "Lyam Anneto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93054714,
+      "name": "Nolx Tsasan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93188295,
+      "name": "Sparka Tizz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sam Barret",
+  "corporation_id": 263585335,
+  "alliance_id": 498125261,
+  "corporation_name": "Black Omega Security",
+  "alliance_name": "Test Alliance Please Ignore"
+}

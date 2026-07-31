@@ -1,0 +1,34 @@
+{
+  "character_id": 93473536,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121279313,
+    "name": "El Mandril",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778667,
+    "alliance_id": 99013327,
+    "corporation_name": "Hard Cuys Inc.",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2121279313,
+      "name": "El Mandril",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115699113,
+      "name": "Amanda Risalio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bo Ar'Kaian",
+  "corporation_id": 98807728,
+  "alliance_id": null,
+  "corporation_name": "Imperial Induction",
+  "alliance_name": null
+}

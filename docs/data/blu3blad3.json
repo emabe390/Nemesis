@@ -1,0 +1,40 @@
+{
+  "character_id": 2123283980,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121121389,
+    "name": "HARUDAY",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723000,
+    "alliance_id": 99012067,
+    "corporation_name": "Churu for you",
+    "alliance_name": "United Cats"
+  },
+  "top_killers": [
+    {
+      "id": 2121121389,
+      "name": "HARUDAY",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120338154,
+      "name": "Seamus McFarland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121681599,
+      "name": "LisaLT",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blu3blad3",
+  "corporation_id": 98725773,
+  "alliance_id": 99013390,
+  "corporation_name": "Vapor Lock.",
+  "alliance_name": "Vapor-Lock"
+}

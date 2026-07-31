@@ -1,0 +1,40 @@
+{
+  "character_id": 2115789509,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115311925,
+    "name": "Ivan Roger",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98558506,
+    "alliance_id": 1900696668,
+    "corporation_name": "A Blessed Bean",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2115311925,
+      "name": "Ivan Roger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120701013,
+      "name": "NekoLi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120918367,
+      "name": "No Snack",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Napber Brutor",
+  "corporation_id": 98746333,
+  "alliance_id": 99012437,
+  "corporation_name": "G-Force.",
+  "alliance_name": "Guinea Pigs Appreciation Society"
+}

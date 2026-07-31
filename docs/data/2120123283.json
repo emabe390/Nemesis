@@ -1,0 +1,40 @@
+{
+  "character_id": 2120123283,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93244624,
+    "name": "GATS HALF",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98735003,
+    "alliance_id": 99014747,
+    "corporation_name": "Fat Dragon Pirate Co.",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 93244624,
+      "name": "GATS HALF",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120326724,
+      "name": "Very Bad Wizard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122811148,
+      "name": "Shashanath Yutru Fera",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Voodoo Tosh",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

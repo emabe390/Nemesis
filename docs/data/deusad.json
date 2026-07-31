@@ -1,0 +1,52 @@
+{
+  "character_id": 2123918209,
+  "total_losses": 33,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 830867348,
+    "name": "Cyrise",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90883327,
+      "name": "Mia Wonder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114416122,
+      "name": "Boss Yaeger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116465031,
+      "name": "Shunsuke Amouh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90741945,
+      "name": "Slanzh'va",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DeusAd",
+  "corporation_id": 98350512,
+  "alliance_id": 99007203,
+  "corporation_name": "The Serious Business",
+  "alliance_name": "Siberian Squads"
+}

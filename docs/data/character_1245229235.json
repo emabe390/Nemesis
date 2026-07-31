@@ -1,0 +1,52 @@
+{
+  "character_id": 1245229235,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1099051589,
+    "name": "Picard X",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98606395,
+    "alliance_id": 99003995,
+    "corporation_name": "PICHATRON",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120798315,
+      "name": "Hornetchild",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93411336,
+      "name": "Gekko Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94629773,
+      "name": "Juana Cavin-Guang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 247355051,
+      "name": "Nikodi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1245229235",
+  "corporation_id": 98621865,
+  "alliance_id": 99013541,
+  "corporation_name": "Indirect approach",
+  "alliance_name": "Fraternity Auxiliary"
+}

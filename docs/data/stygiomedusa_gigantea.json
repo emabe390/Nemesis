@@ -1,0 +1,52 @@
+{
+  "character_id": 2123861111,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95353110,
+    "name": "Morathi II",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98729122,
+    "alliance_id": 99011489,
+    "corporation_name": "Sheriff.",
+    "alliance_name": "United Caldari Space Command."
+  },
+  "top_killers": [
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122905876,
+      "name": "Hanako Maekawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91517843,
+      "name": "Sam Chadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92574496,
+      "name": "Saint Michaels Soul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stygiomedusa gigantea",
+  "corporation_id": 98811002,
+  "alliance_id": 99014187,
+  "corporation_name": "Northern Crusades",
+  "alliance_name": "Dawn's Light"
+}

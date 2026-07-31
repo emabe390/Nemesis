@@ -1,0 +1,52 @@
+{
+  "character_id": 2123580974,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 1330070073,
+    "name": "xainder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451868,
+    "alliance_id": null,
+    "corporation_name": "Les Petits Pedestres",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1330070073,
+      "name": "xainder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122664146,
+      "name": "Zefane Rayl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96317331,
+      "name": "Frank LeTank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1171447259,
+      "name": "Chris Reeves",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sivari Janau",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

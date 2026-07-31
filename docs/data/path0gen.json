@@ -1,0 +1,40 @@
+{
+  "character_id": 179082132,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 893397831,
+    "name": "Koomji",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695839,
+    "alliance_id": 99003214,
+    "corporation_name": "South Sun Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 893397831,
+      "name": "Koomji",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1299744592,
+      "name": "Mr Lightt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123054077,
+      "name": "Gcrash",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Path0gen",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

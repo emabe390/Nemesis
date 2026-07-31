@@ -1,0 +1,40 @@
+{
+  "character_id": 2120512711,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120383991,
+    "name": "Morton Locke",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120383991,
+      "name": "Morton Locke",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1145772707,
+      "name": "BombingBob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1238989024,
+      "name": "Hieroglyphe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jimmy Mc",
+  "corporation_id": 98826013,
+  "alliance_id": null,
+  "corporation_name": "Dreadwake",
+  "alliance_name": null
+}

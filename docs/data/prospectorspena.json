@@ -1,0 +1,40 @@
+{
+  "character_id": 1007306869,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90148098,
+    "name": "BRIMTAK",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95014858,
+      "name": "Connor O'Ryan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124099638,
+      "name": "BATTLEFR0NT",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ProspectorSpena",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

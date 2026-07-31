@@ -1,0 +1,52 @@
+{
+  "character_id": 2123411137,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90105498,
+    "name": "Lauhees",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 393298330,
+      "name": "D White",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92173338,
+      "name": "Herman Levin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117274284,
+      "name": "Ishitura Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121592742,
+      "name": "Not Joy 1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123411137",
+  "corporation_id": 98470839,
+  "alliance_id": null,
+  "corporation_name": "Hearts of the Void",
+  "alliance_name": null
+}

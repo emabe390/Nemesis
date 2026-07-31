@@ -1,0 +1,40 @@
+{
+  "character_id": 2123367725,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124158759,
+    "name": "Requesting FlyBy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98819555,
+    "alliance_id": 99014823,
+    "corporation_name": "Galaxy Gas",
+    "alliance_name": "Hole Tanked"
+  },
+  "top_killers": [
+    {
+      "id": 2124158759,
+      "name": "Requesting FlyBy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1859353938,
+      "name": "Quix Unar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119979871,
+      "name": "StationACE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aryne en Bauldry",
+  "corporation_id": 98804373,
+  "alliance_id": null,
+  "corporation_name": "Lumen Aeternum Ex Astris",
+  "alliance_name": null
+}

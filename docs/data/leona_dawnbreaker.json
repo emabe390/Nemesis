@@ -1,0 +1,52 @@
+{
+  "character_id": 2114606820,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1743905848,
+    "name": "EF Delta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95590706,
+      "name": "Titus Lancaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leona Dawnbreaker",
+  "corporation_id": 98811882,
+  "alliance_id": null,
+  "corporation_name": "The Inter-Galactic Banking Clan",
+  "alliance_name": null
+}

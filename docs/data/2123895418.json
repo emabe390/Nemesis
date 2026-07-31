@@ -1,0 +1,46 @@
+{
+  "character_id": 2123895418,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1645472991,
+      "name": "Mike AntHunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dalhwa",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

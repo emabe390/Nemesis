@@ -1,0 +1,46 @@
+{
+  "character_id": 2123474060,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112289430,
+    "name": "TRlAGE GREEN",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 2112289430,
+      "name": "TRlAGE GREEN",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118272118,
+      "name": "Inquisitor69",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jukah",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

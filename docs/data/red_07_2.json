@@ -1,0 +1,40 @@
+{
+  "character_id": 2123827089,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114513018,
+    "name": "Eclipse47",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2114513018,
+      "name": "Eclipse47",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90751220,
+      "name": "Julia Connor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121363070,
+      "name": "Korrinn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Red 07-2",
+  "corporation_id": 98762098,
+  "alliance_id": 1900696668,
+  "corporation_name": "Aegis Victorium",
+  "alliance_name": "The Initiative."
+}

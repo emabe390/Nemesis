@@ -1,0 +1,52 @@
+{
+  "character_id": 2123989751,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123763885,
+    "name": "Freddy Lecter",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90833051,
+      "name": "pedro Kashuken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112478988,
+      "name": "Katsume",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94756147,
+      "name": "Kingsley Dongers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95204778,
+      "name": "Turil Pyrope",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krionix",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

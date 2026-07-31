@@ -1,0 +1,40 @@
+{
+  "character_id": 2123943791,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96929939,
+    "name": "Teresa Leventis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98001428,
+    "alliance_id": 99004804,
+    "corporation_name": "F.A.M.I.L.Y",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 96929939,
+      "name": "Teresa Leventis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123225319,
+      "name": "Amarr Slave 3212",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SaltyMustard",
+  "corporation_id": 98794368,
+  "alliance_id": null,
+  "corporation_name": "Arcfield Works",
+  "alliance_name": null
+}

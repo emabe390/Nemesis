@@ -1,0 +1,40 @@
+{
+  "character_id": 2123732994,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 761270465,
+    "name": "Raphyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 761270465,
+      "name": "Raphyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91864941,
+      "name": "Alpher Douglas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113204283,
+      "name": "Citrine Trekeir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123732994",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

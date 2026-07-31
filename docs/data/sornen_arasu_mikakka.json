@@ -1,0 +1,40 @@
+{
+  "character_id": 2124100863,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 253489928,
+    "name": "Dekkept",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98137817,
+    "alliance_id": null,
+    "corporation_name": "Damage Dealers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 253489928,
+      "name": "Dekkept",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124100866,
+      "name": "Ebika Erkkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124100868,
+      "name": "Herrigaiki Ourti Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sornen Arasu Mikakka",
+  "corporation_id": 98805140,
+  "alliance_id": 99013537,
+  "corporation_name": "Sunset Red Activity Club",
+  "alliance_name": "Insidious."
+}

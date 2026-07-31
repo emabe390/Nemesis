@@ -1,0 +1,52 @@
+{
+  "character_id": 2123857286,
+  "total_losses": 24,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123666930,
+    "name": "NoSpoonThereIs",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98427793,
+    "alliance_id": null,
+    "corporation_name": "MongStars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123666930,
+      "name": "NoSpoonThereIs",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123914867,
+      "name": "Nibnub",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123914879,
+      "name": "nibnab",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FlerpHerpNoBalls",
+  "corporation_id": 98427793,
+  "alliance_id": null,
+  "corporation_name": "MongStars",
+  "alliance_name": null
+}

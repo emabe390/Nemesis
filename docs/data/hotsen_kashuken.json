@@ -1,0 +1,40 @@
+{
+  "character_id": 2122705154,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122525765,
+    "name": "Redemer Kane",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98731732,
+    "alliance_id": null,
+    "corporation_name": "von Reibach Ore and More AG",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122525765,
+      "name": "Redemer Kane",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122173085,
+      "name": "Hoiksanen Adai",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123244626,
+      "name": "Muffin Lover ML",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hotsen Kashuken",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

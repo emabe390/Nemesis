@@ -1,0 +1,52 @@
+{
+  "character_id": 2120546541,
+  "total_losses": 29,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2121262041,
+    "name": "Fanacio",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98825388,
+    "alliance_id": null,
+    "corporation_name": "Other Minds",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121262041,
+      "name": "Fanacio",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 298321413,
+      "name": "Garbanis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122528218,
+      "name": "Xobaekk Aelthar Gao",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92109726,
+      "name": "Frank Zane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92187925,
+      "name": "Commander Varan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Syetolog",
+  "corporation_id": 98825388,
+  "alliance_id": null,
+  "corporation_name": "Other Minds",
+  "alliance_name": null
+}

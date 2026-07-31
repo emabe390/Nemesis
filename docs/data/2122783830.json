@@ -1,0 +1,52 @@
+{
+  "character_id": 2122783830,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 817602040,
+    "name": "General Biopsy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646925,
+    "alliance_id": 99012991,
+    "corporation_name": "Static Volatility",
+    "alliance_name": "Delectatio Morosa."
+  },
+  "top_killers": [
+    {
+      "id": 817602040,
+      "name": "General Biopsy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1228431467,
+      "name": "CorrinoGiovanni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113439037,
+      "name": "Adrameleth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116339550,
+      "name": "Character 2116339550",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116503388,
+      "name": "Chuck Blevins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Schattendoktor",
+  "corporation_id": 98811745,
+  "alliance_id": null,
+  "corporation_name": "Tales of Glory",
+  "alliance_name": null
+}

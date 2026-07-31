@@ -1,0 +1,34 @@
+{
+  "character_id": 2124187160,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94402306,
+    "name": "Petrochelidon Fuliginosa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98140406,
+    "alliance_id": 99007636,
+    "corporation_name": "Legion of the Black Knight",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 94402306,
+      "name": "Petrochelidon Fuliginosa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94586690,
+      "name": "Petrochelidon Fluvicola",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Magolwes",
+  "corporation_id": 98827773,
+  "alliance_id": null,
+  "corporation_name": "Blackfaust EMC",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124369088,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 334716679,
+    "name": "Daron Anik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 334716679,
+      "name": "Daron Anik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122197116,
+      "name": "Nyx Astraeus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kutsulen",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

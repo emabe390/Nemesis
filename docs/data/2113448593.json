@@ -1,0 +1,40 @@
+{
+  "character_id": 2113448593,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118378803,
+      "name": "Void1245",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 537900402,
+      "name": "Character 537900402",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Barrett Lynch",
+  "corporation_id": 98718236,
+  "alliance_id": 150097440,
+  "corporation_name": "Astrum Mechanica",
+  "alliance_name": "Get Off My Lawn"
+}

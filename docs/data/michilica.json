@@ -1,0 +1,52 @@
+{
+  "character_id": 2123539122,
+  "total_losses": 57,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 1632172778,
+    "name": "Hermann Wheeler",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98058678,
+    "alliance_id": null,
+    "corporation_name": "The Hollow Men",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1632172778,
+      "name": "Hermann Wheeler",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 930305047,
+      "name": "Sweet Trader",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92376720,
+      "name": "flippityflappity",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93925338,
+      "name": "Parca WhoCares",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95165725,
+      "name": "Php Onzo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Michilica",
+  "corporation_id": 98491899,
+  "alliance_id": 99015170,
+  "corporation_name": "Sister Maggie's Consignment",
+  "alliance_name": "Iron Anchor Alliance"
+}

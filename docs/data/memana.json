@@ -1,0 +1,40 @@
+{
+  "character_id": 2123728124,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121133863,
+    "name": "Baby Skulls",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799686,
+    "alliance_id": null,
+    "corporation_name": "Baby Invasion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121133863,
+      "name": "Baby Skulls",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121195895,
+      "name": "Cailin Dioltas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122544463,
+      "name": "Matkoma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Memana",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

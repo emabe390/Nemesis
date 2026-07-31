@@ -1,0 +1,52 @@
+{
+  "character_id": 2123621185,
+  "total_losses": 153,
+  "unique_killers": 115,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 15,
+    "final_blows": 12,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 15,
+      "final_blows": 12
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90074430,
+      "name": "Chaddington",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91049169,
+      "name": "JADRANKAKOSORJACA JACA",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Saryn D",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

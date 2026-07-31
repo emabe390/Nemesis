@@ -1,0 +1,52 @@
+{
+  "character_id": 2118111327,
+  "total_losses": 40,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 629760460,
+    "name": "Drake Trondor",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 96285608,
+      "name": "Darcozzi Asanari",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119509984,
+      "name": "Canis Majoris I",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91283907,
+      "name": "Asoka Grimmars",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91508722,
+      "name": "NIGHT Antollare",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Daxia Titan",
+  "corporation_id": 98506105,
+  "alliance_id": 99005178,
+  "corporation_name": "HAMMER of TITAN",
+  "alliance_name": "Domain Research and Mining Inst."
+}

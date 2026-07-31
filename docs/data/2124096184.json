@@ -1,0 +1,40 @@
+{
+  "character_id": 2124096184,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123889056,
+    "name": "Juno Octavia",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98819354,
+    "alliance_id": null,
+    "corporation_name": "Exactitude Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123889056,
+      "name": "Juno Octavia",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2112283020,
+      "name": "Raze Belvar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Waterever",
+  "corporation_id": 98819354,
+  "alliance_id": null,
+  "corporation_name": "Exactitude Syndicate",
+  "alliance_name": null
+}

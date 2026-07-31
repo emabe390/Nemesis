@@ -1,0 +1,52 @@
+{
+  "character_id": 2123052427,
+  "total_losses": 42,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2116721105,
+    "name": "D4RK BD 0000",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000044,
+    "alliance_id": null,
+    "corporation_name": "School of Applied Knowledge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116721105,
+      "name": "D4RK BD 0000",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96061297,
+      "name": "Jaxy Aldard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1952814195,
+      "name": "Character 1952814195",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Evores en Daire",
+  "corporation_id": 98793911,
+  "alliance_id": 99014548,
+  "corporation_name": "evod logistics",
+  "alliance_name": "Project Oasis"
+}

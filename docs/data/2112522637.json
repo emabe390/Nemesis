@@ -1,0 +1,40 @@
+{
+  "character_id": 2112522637,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1176550484,
+    "name": "Dave Lash",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1176550484,
+      "name": "Dave Lash",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2033763683,
+      "name": "fleaticus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119065205,
+      "name": "DefiantMorph",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viktor Barend",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124032432,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 322718659,
+    "name": "paul webster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98438347,
+    "alliance_id": null,
+    "corporation_name": "CollapseTrap",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 322718659,
+      "name": "paul webster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 765324395,
+      "name": "PMolkenthin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91327663,
+      "name": "Baskerviye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Schuscha",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1253807158,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 534559748,
+    "name": "Sakaras Lane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96098589,
+      "name": "Tari'elle sheridan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122568305,
+      "name": "Castration Victim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chuck Bukowski",
+  "corporation_id": 218448965,
+  "alliance_id": 99010240,
+  "corporation_name": "Bene Gesserit ChapterHouse",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

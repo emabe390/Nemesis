@@ -1,0 +1,40 @@
+{
+  "character_id": 2119410608,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116049537,
+    "name": "Megafega",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733881,
+    "alliance_id": null,
+    "corporation_name": "1000 Jahre Dunkelheit",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116049537,
+      "name": "Megafega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2122071377,
+      "name": "MOONLIAR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Catier Theyton",
+  "corporation_id": 98602781,
+  "alliance_id": null,
+  "corporation_name": "Trash Pandas of Kaunokka",
+  "alliance_name": null
+}

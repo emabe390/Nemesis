@@ -1,0 +1,40 @@
+{
+  "character_id": 2120095387,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96417025,
+    "name": "Jimmy Michaels",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115056026,
+      "name": "Zapalka Firn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120128822,
+      "name": "D P Shmot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ten Fifteen",
+  "corporation_id": 98723857,
+  "alliance_id": 99005338,
+  "corporation_name": "Rogue Inferno.",
+  "alliance_name": "Pandemic Horde"
+}

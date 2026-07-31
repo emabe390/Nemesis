@@ -1,0 +1,52 @@
+{
+  "character_id": 2116049569,
+  "total_losses": 19,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 733774415,
+    "name": "Gin Zeng",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 733774415,
+      "name": "Gin Zeng",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alistair Kruger",
+  "corporation_id": 98662323,
+  "alliance_id": 99010756,
+  "corporation_name": "Voidhounds",
+  "alliance_name": "Pretenders"
+}

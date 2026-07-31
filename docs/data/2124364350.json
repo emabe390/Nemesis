@@ -1,0 +1,40 @@
+{
+  "character_id": 2124364350,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119428404,
+    "name": "shion zenos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98609240,
+    "alliance_id": null,
+    "corporation_name": "Caladrius Hive",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119428404,
+      "name": "shion zenos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122272298,
+      "name": "Peronarva Ieka Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123717809,
+      "name": "Belathiel Shepard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arcyda",
+  "corporation_id": 98631060,
+  "alliance_id": 99012070,
+  "corporation_name": "Russian Space Academy",
+  "alliance_name": "PEPE SQUAD"
+}

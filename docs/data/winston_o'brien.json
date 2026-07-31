@@ -1,0 +1,40 @@
+{
+  "character_id": 2115798431,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90215243,
+    "name": "Glavior",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 90215243,
+      "name": "Glavior",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91364694,
+      "name": "Vladof Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112839173,
+      "name": "Vladlena Targanova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Winston O'Brien",
+  "corporation_id": 98190499,
+  "alliance_id": null,
+  "corporation_name": "INGSOC Public Relations",
+  "alliance_name": null
+}

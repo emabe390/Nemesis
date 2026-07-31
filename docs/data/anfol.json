@@ -1,0 +1,34 @@
+{
+  "character_id": 2124171462,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113592725,
+    "name": "John Takona",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760616,
+    "alliance_id": 99010079,
+    "corporation_name": "Brave Empire Inc.",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 2113592725,
+      "name": "John Takona",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122371403,
+      "name": "Tokuro Fujiwara",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Anfol",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

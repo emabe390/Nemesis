@@ -1,0 +1,40 @@
+{
+  "character_id": 2123717161,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 526282137,
+    "name": "Decimus James",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98737554,
+    "alliance_id": 99005178,
+    "corporation_name": "The Raravathians",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 526282137,
+      "name": "Decimus James",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116896838,
+      "name": "Rats Degouts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tiano Orchio",
+  "corporation_id": 98811748,
+  "alliance_id": null,
+  "corporation_name": "The Kretarian Korporation",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1035259233,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91441111,
+    "name": "Citizen 413587",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113730561,
+      "name": "Joan Darkside",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117459371,
+      "name": "Kaptin Tiberius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1035259233",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

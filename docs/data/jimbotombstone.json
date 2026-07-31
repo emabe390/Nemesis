@@ -1,0 +1,40 @@
+{
+  "character_id": 2122785437,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1337936148,
+    "name": "Minasar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98595110,
+    "alliance_id": 99010386,
+    "corporation_name": "Absolute Order",
+    "alliance_name": "Absolute Honor"
+  },
+  "top_killers": [
+    {
+      "id": 1337936148,
+      "name": "Minasar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119512062,
+      "name": "Cassilda Chambers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JimboTombstone",
+  "corporation_id": 98813997,
+  "alliance_id": null,
+  "corporation_name": "DAWN OF THE DARKPHOENIX",
+  "alliance_name": null
+}

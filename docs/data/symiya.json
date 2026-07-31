@@ -1,0 +1,52 @@
+{
+  "character_id": 2117108640,
+  "total_losses": 313,
+  "unique_killers": 232,
+  "nemesis": {
+    "id": 94026258,
+    "name": "Filius Endo",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94026258,
+      "name": "Filius Endo",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 963217069,
+      "name": "Jogyn",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Symiya",
+  "corporation_id": 98770637,
+  "alliance_id": 99010877,
+  "corporation_name": "UNITY S.A.R.L",
+  "alliance_name": "Out of the Blue."
+}

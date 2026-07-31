@@ -1,0 +1,40 @@
+{
+  "character_id": 2121912428,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90336608,
+    "name": "Arkio Astartes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760616,
+    "alliance_id": 99010079,
+    "corporation_name": "Brave Empire Inc.",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 90336608,
+      "name": "Arkio Astartes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92693449,
+      "name": "Halavin Galdove",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119346106,
+      "name": "Venoxius Waaskar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aelwara Mangeiri",
+  "corporation_id": 98759149,
+  "alliance_id": null,
+  "corporation_name": "Brighten Factor",
+  "alliance_name": null
+}

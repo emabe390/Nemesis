@@ -1,0 +1,52 @@
+{
+  "character_id": 2123670787,
+  "total_losses": 170,
+  "unique_killers": 57,
+  "nemesis": {
+    "id": 2122356012,
+    "name": "GN-Drive",
+    "kill_count": 29,
+    "final_blows": 29,
+    "corporation_id": 98772842,
+    "alliance_id": 99003581,
+    "corporation_name": "New Eden Light Point College",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122356012,
+      "name": "GN-Drive",
+      "kill_count": 29,
+      "final_blows": 29
+    },
+    {
+      "id": 2123670705,
+      "name": "GN-Drive2",
+      "kill_count": 21,
+      "final_blows": 21
+    },
+    {
+      "id": 2122355783,
+      "name": "GN Drive",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 2123667839,
+      "name": "GN-Drive1",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 2120512110,
+      "name": "BuggyTheClown",
+      "kill_count": 9,
+      "final_blows": 9
+    }
+  ],
+  "character_name": "GN-Drive3",
+  "corporation_id": 98772842,
+  "alliance_id": 99003581,
+  "corporation_name": "New Eden Light Point College",
+  "alliance_name": "Fraternity."
+}

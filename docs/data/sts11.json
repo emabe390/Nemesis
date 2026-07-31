@@ -1,0 +1,46 @@
+{
+  "character_id": 97203788,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 487193151,
+    "name": "Character 487193151",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802230,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mad goofies and goonies",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 487193151,
+      "name": "Character 487193151",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120369888,
+      "name": "Alcoholic Priest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751918,
+      "name": "DemonicMandem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751928,
+      "name": "DuctTape Diplomat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "sts11",
+  "corporation_id": 98814567,
+  "alliance_id": null,
+  "corporation_name": "11 Corporation",
+  "alliance_name": null
+}

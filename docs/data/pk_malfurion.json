@@ -1,0 +1,52 @@
+{
+  "character_id": 2115740283,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 152292085,
+      "name": "Zodicar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115740283,
+      "name": "PK Malfurion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120814886,
+      "name": "xJennyD",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PK Malfurion",
+  "corporation_id": 98640845,
+  "alliance_id": 99011277,
+  "corporation_name": "The Inf3cted",
+  "alliance_name": "Pathog3n"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2120255247,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 418264286,
+    "name": "Character 418264286",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98140706,
+    "alliance_id": null,
+    "corporation_name": "Trostus",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 418264286,
+      "name": "Character 418264286",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117862707,
+      "name": "Kuchikami Iriya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122389099,
+      "name": "Gybed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sea Nmne",
+  "corporation_id": 98749631,
+  "alliance_id": 99014963,
+  "corporation_name": "Copium Industries Inc.",
+  "alliance_name": "Intended Behavior"
+}

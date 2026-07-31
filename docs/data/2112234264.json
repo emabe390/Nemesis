@@ -1,0 +1,46 @@
+{
+  "character_id": 2112234264,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93193152,
+      "name": "Nihlius Bloodstone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1256427632,
+      "name": "Drake Iddon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112069773,
+      "name": "Lily Endel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gatil Gstone",
+  "corporation_id": 98652516,
+  "alliance_id": null,
+  "corporation_name": "Terminus Technologies Inc.",
+  "alliance_name": null
+}

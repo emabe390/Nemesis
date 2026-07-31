@@ -1,0 +1,52 @@
+{
+  "character_id": 2123798348,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121650980,
+    "name": "Lt Karl Hagerman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594481,
+    "alliance_id": null,
+    "corporation_name": "Frank's Fluids",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121650980,
+      "name": "Lt Karl Hagerman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95233183,
+      "name": "Red Krest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 755421293,
+      "name": "Haary",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Funk Fantabular",
+  "corporation_id": 98814261,
+  "alliance_id": null,
+  "corporation_name": "Tri-Net Industries",
+  "alliance_name": null
+}

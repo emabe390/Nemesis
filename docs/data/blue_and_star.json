@@ -1,0 +1,52 @@
+{
+  "character_id": 2123200505,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2112001085,
+    "name": "Mung Ming",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112001085,
+      "name": "Mung Ming",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117983337,
+      "name": "Jagerbomb04",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121681054,
+      "name": "Ivan Vasiliov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122495115,
+      "name": "Gluttony in themoonlight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123200482,
+      "name": "Blue-and-Star",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blue-and Star",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

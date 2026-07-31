@@ -1,0 +1,40 @@
+{
+  "character_id": 2124336323,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92090624,
+    "name": "James Rapture",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98277602,
+    "alliance_id": null,
+    "corporation_name": "Dead Star Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92090624,
+      "name": "James Rapture",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2069154248,
+      "name": "Character 2069154248",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119040499,
+      "name": "Bruhjad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LargeCola",
+  "corporation_id": 98832228,
+  "alliance_id": null,
+  "corporation_name": "Rnstein Uhlenbeck",
+  "alliance_name": null
+}

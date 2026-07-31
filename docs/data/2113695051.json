@@ -1,0 +1,40 @@
+{
+  "character_id": 2113695051,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121947082,
+    "name": "EF Sigma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92503956,
+      "name": "GREEN PHOBOS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96979414,
+      "name": "Kyrah Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tyrad Shihan",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

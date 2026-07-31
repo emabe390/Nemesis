@@ -1,0 +1,52 @@
+{
+  "character_id": 90331183,
+  "total_losses": 43,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 95865832,
+    "name": "John Clemson",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98784883,
+    "alliance_id": 99015133,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "GOBLIN FLEET"
+  },
+  "top_killers": [
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124374276,
+      "name": "Movmax",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90047488,
+      "name": "GeorgenLarusso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90542081,
+      "name": "Londo Tian",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yokuni Togashi",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

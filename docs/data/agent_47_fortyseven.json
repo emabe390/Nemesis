@@ -1,0 +1,46 @@
+{
+  "character_id": 2124401346,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91221257,
+    "name": "Tyr Vega",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1266832466,
+    "alliance_id": 99015022,
+    "corporation_name": "Drunken Beaver Mining",
+    "alliance_name": "Black Ribbit"
+  },
+  "top_killers": [
+    {
+      "id": 91221257,
+      "name": "Tyr Vega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agent 47 FortySeven",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

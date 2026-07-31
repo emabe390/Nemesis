@@ -1,0 +1,52 @@
+{
+  "character_id": 2115415712,
+  "total_losses": 29,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2122350203,
+    "name": "Carl Laron",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98798444,
+    "alliance_id": null,
+    "corporation_name": "Inauspicious Tidings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122350203,
+      "name": "Carl Laron",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116532685,
+      "name": "WeX SM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118951326,
+      "name": "Eyjafjalla p",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119915740,
+      "name": "The True Fengorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Scavengers taitan",
+  "corporation_id": 98718419,
+  "alliance_id": 99009163,
+  "corporation_name": "Cyber Violence Authority",
+  "alliance_name": "Dracarys."
+}

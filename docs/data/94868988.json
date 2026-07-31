@@ -1,0 +1,52 @@
+{
+  "character_id": 94868988,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93256759,
+    "name": "LLIeFF",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 605796230,
+    "alliance_id": null,
+    "corporation_name": "Another War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93256759,
+      "name": "LLIeFF",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116809541,
+      "name": "yearb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122369157,
+      "name": "The Law-OG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123959113,
+      "name": "vector-D",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clayton Anzomi",
+  "corporation_id": 98776703,
+  "alliance_id": 99013799,
+  "corporation_name": "Isolated Oasis",
+  "alliance_name": "Independent Enclave"
+}

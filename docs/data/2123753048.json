@@ -1,0 +1,40 @@
+{
+  "character_id": 2123753048,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 487193151,
+    "name": "Character 487193151",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802230,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mad goofies and goonies",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 487193151,
+      "name": "Character 487193151",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 343315557,
+      "name": "RoarkRangor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120394364,
+      "name": "Ghost-Pilot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Object In Mirror",
+  "corporation_id": 98807049,
+  "alliance_id": 99014594,
+  "corporation_name": "Konata Corp",
+  "alliance_name": "Naraka Syndicate"
+}

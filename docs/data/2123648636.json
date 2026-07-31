@@ -1,0 +1,52 @@
+{
+  "character_id": 2123648636,
+  "total_losses": 31,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96096291,
+      "name": "Prime Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cambridge Prince",
+  "corporation_id": 98811755,
+  "alliance_id": 99011456,
+  "corporation_name": "Bajoran War Orphans Fund",
+  "alliance_name": "Phoenixum Colligiturum"
+}

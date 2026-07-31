@@ -1,0 +1,40 @@
+{
+  "character_id": 2123204760,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90107819,
+    "name": "Oxinome",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818593,
+    "alliance_id": 99009845,
+    "corporation_name": "Bangzhu Cartel",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122842536,
+      "name": "KoffinsHero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123309588,
+      "name": "Joseph von Habsburrg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trinity-Darkstar",
+  "corporation_id": 98788477,
+  "alliance_id": 99010484,
+  "corporation_name": "High Fivers",
+  "alliance_name": "The Burning Contingent Alliance"
+}

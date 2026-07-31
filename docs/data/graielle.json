@@ -1,0 +1,40 @@
+{
+  "character_id": 2122190168,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 586453048,
+    "name": "Elinera",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98764120,
+    "alliance_id": null,
+    "corporation_name": "Eviction-Scout Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 586453048,
+      "name": "Elinera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1188623134,
+      "name": "Lascano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123820455,
+      "name": "Ariastra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Graielle",
+  "corporation_id": 98767878,
+  "alliance_id": 99012975,
+  "corporation_name": "Venalmo",
+  "alliance_name": "Hull Tanking Therapy"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123813668,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112211785,
+    "name": "Bubble Gate",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2112211785,
+      "name": "Bubble Gate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122965316,
+      "name": "Captian Caine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 193099457,
+      "name": "RTSAvalanche",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scion of Balance",
+  "corporation_id": 98811698,
+  "alliance_id": null,
+  "corporation_name": "Starship Groypers",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113591001,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113029788,
+    "name": "Ceasca Imparat",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98358580,
+    "alliance_id": 99013400,
+    "corporation_name": "Them Again...",
+    "alliance_name": "OnlyAlts."
+  },
+  "top_killers": [
+    {
+      "id": 2113029788,
+      "name": "Ceasca Imparat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 593378153,
+      "name": "Enchanter leading",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119765538,
+      "name": "Evelyn Rayner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Di Da",
+  "corporation_id": 98735560,
+  "alliance_id": null,
+  "corporation_name": "Cosmic Potion",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123835524,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123802570,
+    "name": "Revenge for Pen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98763901,
+    "alliance_id": 99013685,
+    "corporation_name": "Revenge of Destiny",
+    "alliance_name": "Just Revenge"
+  },
+  "top_killers": [
+    {
+      "id": 2123802570,
+      "name": "Revenge for Pen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1020045943,
+      "name": "Rexar WIlkinsonia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116784662,
+      "name": "Gay Pride BOOOOOM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekasvio Zeertan",
+  "corporation_id": 98412140,
+  "alliance_id": null,
+  "corporation_name": "JAGD Federation",
+  "alliance_name": null
+}

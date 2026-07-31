@@ -1,0 +1,52 @@
+{
+  "character_id": 2112939338,
+  "total_losses": 17,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123639413,
+    "name": "Jessica Solomon",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123639413,
+      "name": "Jessica Solomon",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91207297,
+      "name": "Character 91207297",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91500470,
+      "name": "Cheezy Armpit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93388390,
+      "name": "Arceleran Kisume",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95060080,
+      "name": "Aysel Marakin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zach Solomon",
+  "corporation_id": 98628015,
+  "alliance_id": 99005338,
+  "corporation_name": "Hollow United Garuda",
+  "alliance_name": "Pandemic Horde"
+}

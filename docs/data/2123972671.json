@@ -1,0 +1,40 @@
+{
+  "character_id": 2123972671,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 819004125,
+    "name": "Aaaarrgg",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98663472,
+    "alliance_id": 99002775,
+    "corporation_name": "Epic Ganking Time",
+    "alliance_name": "CODE."
+  },
+  "top_killers": [
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116600272,
+      "name": "Your Awesum Brutha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117181592,
+      "name": "Your Awesum Ganker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frederica Bernkstel",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

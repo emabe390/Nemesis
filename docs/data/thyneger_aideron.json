@@ -1,0 +1,40 @@
+{
+  "character_id": 2124289173,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90367348,
+    "name": "Charles Issier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98834411,
+    "alliance_id": 99015167,
+    "corporation_name": "Once More Unto The Breach",
+    "alliance_name": "Fratricide."
+  },
+  "top_killers": [
+    {
+      "id": 90367348,
+      "name": "Charles Issier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117627903,
+      "name": "Gio XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124121128,
+      "name": "Nana Deviluke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thyneger Aideron",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

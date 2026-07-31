@@ -1,0 +1,40 @@
+{
+  "character_id": 2124195454,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95290107,
+    "name": "John TheSergal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98344703,
+    "alliance_id": 1727758877,
+    "corporation_name": "Patriarch Of Destruction",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 95290107,
+      "name": "John TheSergal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113697610,
+      "name": "Zhu Feng F",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116201497,
+      "name": "Skywalker H",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Raathi",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

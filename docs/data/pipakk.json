@@ -1,0 +1,46 @@
+{
+  "character_id": 2124223285,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 305263755,
+    "name": "Arek Selkaion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1588647992,
+    "alliance_id": 99010240,
+    "corporation_name": "Xoth Inc",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 305263755,
+      "name": "Arek Selkaion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 197231124,
+      "name": "Urik Kahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 835806057,
+      "name": "Vengeful Shade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pipakk",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

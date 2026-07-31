@@ -1,0 +1,52 @@
+{
+  "character_id": 2122212054,
+  "total_losses": 12,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122252352,
+    "name": "Stardust Dragon",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122252352,
+      "name": "Stardust Dragon",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118206476,
+      "name": "Gunpowder Whiskey",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122211702,
+      "name": "Oisiree Codolle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1510701977,
+      "name": "Szilardis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dayelit Nahrnid",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

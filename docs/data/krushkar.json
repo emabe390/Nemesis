@@ -1,0 +1,46 @@
+{
+  "character_id": 892835348,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 5,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 5,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90700883,
+      "name": "Glados Shaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 223726310,
+      "name": "Beld Ermon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krushkar",
+  "corporation_id": 278034578,
+  "alliance_id": null,
+  "corporation_name": "Digital Fury Corporation",
+  "alliance_name": null
+}

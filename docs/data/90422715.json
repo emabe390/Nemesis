@@ -1,0 +1,52 @@
+{
+  "character_id": 90422715,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 90364875,
+    "name": "Illustrale Mortales",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1660528141,
+      "name": "Pushko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115711459,
+      "name": "Rose Yosemite",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90114202,
+      "name": "Lady Ati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93675443,
+      "name": "LEON SIN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Von Marine",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

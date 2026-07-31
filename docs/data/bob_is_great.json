@@ -1,0 +1,52 @@
+{
+  "character_id": 2120948644,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113672447,
+      "name": "Kinvex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bob Is Great",
+  "corporation_id": 98704284,
+  "alliance_id": 99009324,
+  "corporation_name": "Happy Hotel",
+  "alliance_name": "Wardec Mechanics"
+}

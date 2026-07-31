@@ -1,0 +1,52 @@
+{
+  "character_id": 2123182947,
+  "total_losses": 12,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115810723,
+    "name": "Takeda Oyamovich",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98754516,
+    "alliance_id": null,
+    "corporation_name": "LifeInWormhole",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115810723,
+      "name": "Takeda Oyamovich",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2123128058,
+      "name": "TimeLord IlIlIIll",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123128086,
+      "name": "TimeLord IIllIIIl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123128091,
+      "name": "TimeLord IlIlllII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123128093,
+      "name": "TimeLord lIIlIIIl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gremlingur",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

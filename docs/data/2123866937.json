@@ -1,0 +1,52 @@
+{
+  "character_id": 2123866937,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1396660463,
+    "name": "J'hrgryn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 1396660463,
+      "name": "J'hrgryn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121231782,
+      "name": "HIMARS M142",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94139672,
+      "name": "Gregor Goofusbane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stefan Guntermann",
+  "corporation_id": 98702953,
+  "alliance_id": null,
+  "corporation_name": "Space Rebels Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123002849,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90954972,
+    "name": "Sam Dust",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 197097487,
+    "alliance_id": 1900696668,
+    "corporation_name": "4S Corporation",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90954972,
+      "name": "Sam Dust",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 162702859,
+      "name": "vasile kitrosu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115869888,
+      "name": "Moon Tomas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eric Perry",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

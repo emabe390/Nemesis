@@ -1,0 +1,52 @@
+{
+  "character_id": 2112807115,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2112595609,
+    "name": "Kelan Hanomaa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747520,
+    "alliance_id": null,
+    "corporation_name": "Targets Locked",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112595609,
+      "name": "Kelan Hanomaa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116554980,
+      "name": "Thomas Mulholland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93468510,
+      "name": "Alex DeWalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93947598,
+      "name": "Falkner Hayato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96196522,
+      "name": "Nero Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lissare Niss",
+  "corporation_id": 98802320,
+  "alliance_id": null,
+  "corporation_name": "Last Hope Order",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123495266,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123495282,
+    "name": "Character 2123495282",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98825941,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kun-Lun",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123495282,
+      "name": "Character 2123495282",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95598725,
+      "name": "Andrea Wolfe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124096548,
+      "name": "jasuy3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123495266",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

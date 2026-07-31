@@ -1,0 +1,52 @@
+{
+  "character_id": 2121106592,
+  "total_losses": 23,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2124257616,
+    "name": "Character 2124257616",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2124257616,
+      "name": "Character 2124257616",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 1239938151,
+      "name": "God Forbid",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94733467,
+      "name": "Mike Eventide",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115611605,
+      "name": "Ragnar Kelt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "KaiMuller",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

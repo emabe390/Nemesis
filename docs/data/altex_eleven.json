@@ -1,0 +1,52 @@
+{
+  "character_id": 2123884546,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95680405,
+      "name": "Dangor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95680468,
+      "name": "Lob Lot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 298313416,
+      "name": "No'vac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Altex Eleven",
+  "corporation_id": 98816265,
+  "alliance_id": null,
+  "corporation_name": "Black Nova Operations",
+  "alliance_name": null
+}

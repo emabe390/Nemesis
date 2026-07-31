@@ -1,0 +1,34 @@
+{
+  "character_id": 2123894322,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121679866,
+    "name": "River Pixies",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121679866,
+      "name": "River Pixies",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ammo1",
+  "corporation_id": 98754582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Baba Yagas",
+  "alliance_name": "The Initiative."
+}

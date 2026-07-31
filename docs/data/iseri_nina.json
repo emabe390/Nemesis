@@ -1,0 +1,52 @@
+{
+  "character_id": 2122419965,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121144207,
+    "name": "Tower crane",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2121144207,
+      "name": "Tower crane",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90074699,
+      "name": "Saratist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95103283,
+      "name": "Negel Auduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95525344,
+      "name": "Kanye North",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114952750,
+      "name": "Jeff Mcjeffry",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iseri Nina",
+  "corporation_id": 98550682,
+  "alliance_id": 99003581,
+  "corporation_name": "Stardust-Guardian",
+  "alliance_name": "Fraternity."
+}

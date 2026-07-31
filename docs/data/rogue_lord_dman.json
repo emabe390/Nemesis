@@ -1,0 +1,40 @@
+{
+  "character_id": 2123910095,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2112299684,
+      "name": "Barbarella Hareka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123894422,
+      "name": "IzzyKitty",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rogue Lord Dman",
+  "corporation_id": 98768698,
+  "alliance_id": 99013615,
+  "corporation_name": "Hareka Mining and Extraction Inc.",
+  "alliance_name": "MlNER NEEDs"
+}

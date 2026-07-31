@@ -1,0 +1,52 @@
+{
+  "character_id": 2121477199,
+  "total_losses": 16,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121246285,
+    "name": "MLCG",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98808713,
+    "alliance_id": null,
+    "corporation_name": "Space Watermelons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121246285,
+      "name": "MLCG",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116874581,
+      "name": "Detlef Belvar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121606629,
+      "name": "Detlef Klok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93028146,
+      "name": "Absenta Serine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loris Edier",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

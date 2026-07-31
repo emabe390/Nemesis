@@ -1,0 +1,40 @@
+{
+  "character_id": 2124520255,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92945930,
+    "name": "Mal Warre",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98685256,
+    "alliance_id": null,
+    "corporation_name": "Merdur Masheen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96128422,
+      "name": "Sigrid Freud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 108368065,
+      "name": "Fugeseher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tahli Rhaya",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

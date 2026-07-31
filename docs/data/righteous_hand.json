@@ -1,0 +1,40 @@
+{
+  "character_id": 93957163,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118798113,
+    "name": "SuperProwler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98708076,
+    "alliance_id": null,
+    "corporation_name": "CONTROL.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96602200,
+      "name": "Kraiklyn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117071349,
+      "name": "Jamie Tott",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Righteous Hand",
+  "corporation_id": 1000080,
+  "alliance_id": null,
+  "corporation_name": "Ministry of War",
+  "alliance_name": null
+}

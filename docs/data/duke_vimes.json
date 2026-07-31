@@ -1,0 +1,52 @@
+{
+  "character_id": 745682125,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1985738497,
+    "name": "Gori Thane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98479815,
+    "alliance_id": null,
+    "corporation_name": "Cruisers Crew",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1985738497,
+      "name": "Gori Thane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93051837,
+      "name": "rogue venom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93866112,
+      "name": "Odontodactylus Maculata",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 798459743,
+      "name": "Jaaek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 873525366,
+      "name": "Ladel Teravada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duke Vimes",
+  "corporation_id": 98762429,
+  "alliance_id": 99012923,
+  "corporation_name": "161st SOAR A",
+  "alliance_name": "Divine Damnation"
+}

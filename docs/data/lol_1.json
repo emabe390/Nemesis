@@ -1,0 +1,40 @@
+{
+  "character_id": 2124026363,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124027013,
+    "name": "LOL-2",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98524939,
+    "alliance_id": 1354830081,
+    "corporation_name": "Sing Hua",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124027013,
+      "name": "LOL-2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116636710,
+      "name": "Markkkk Momaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124047141,
+      "name": "LOL-0",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LOL-1",
+  "corporation_id": 98524939,
+  "alliance_id": 1354830081,
+  "corporation_name": "Sing Hua",
+  "alliance_name": "Goonswarm Federation"
+}

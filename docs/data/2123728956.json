@@ -1,0 +1,40 @@
+{
+  "character_id": 2123728956,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121161848,
+    "name": "Rairt Adoulin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686505,
+    "alliance_id": 99010877,
+    "corporation_name": "Vaporem Structura Industria",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2121161848,
+      "name": "Rairt Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123637193,
+      "name": "Petri Truchevich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123689926,
+      "name": "Arcane Fury",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alayna Jadin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

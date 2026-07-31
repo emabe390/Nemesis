@@ -1,0 +1,46 @@
+{
+  "character_id": 2124382204,
+  "total_losses": 17,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123943765,
+    "name": "Tasen Aishai",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 98809234,
+    "alliance_id": 99014768,
+    "corporation_name": "Framgangur",
+    "alliance_name": "Storm Petrel Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123943765,
+      "name": "Tasen Aishai",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2116955155,
+      "name": "Drakarys Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116988271,
+      "name": "Eliiswyaux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121011889,
+      "name": "Raven Hallows",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Farewell",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

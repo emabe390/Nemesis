@@ -1,0 +1,34 @@
+{
+  "character_id": 2123504487,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116485636,
+    "name": "Navar Askold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796779,
+    "alliance_id": null,
+    "corporation_name": "n0madix",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116485636,
+      "name": "Navar Askold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92834650,
+      "name": "Kela Naari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lonuke",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

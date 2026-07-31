@@ -1,0 +1,40 @@
+{
+  "character_id": 2116182334,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91455988,
+    "name": "Barkura Kane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92192494,
+      "name": "Trekta Smaik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92821591,
+      "name": "Tumbaco Arellano",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hondie Murdisto",
+  "corporation_id": 98177708,
+  "alliance_id": 1042504553,
+  "corporation_name": "Space Wolves ind.",
+  "alliance_name": "Solyaris Chtonium"
+}

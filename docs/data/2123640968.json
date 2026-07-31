@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640968,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122348670,
+    "name": "Evelgene Rabos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98653604,
+    "alliance_id": 99010102,
+    "corporation_name": "The Blood Raiders Children's Charity",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 2122348670,
+      "name": "Evelgene Rabos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95221140,
+      "name": "Hiroshi Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 559883966,
+      "name": "ceyriot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118621858,
+      "name": "Kahn Dahtsuun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atoph Hamu",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

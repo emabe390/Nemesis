@@ -1,0 +1,40 @@
+{
+  "character_id": 2123829657,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1491195882,
+    "name": "Oren ishhi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 192743091,
+    "alliance_id": null,
+    "corporation_name": "Area 51 Assassins",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1491195882,
+      "name": "Oren ishhi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anrox",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

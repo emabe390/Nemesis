@@ -1,0 +1,52 @@
+{
+  "character_id": 2121262496,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 867579065,
+      "name": "Character 867579065",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1511331418,
+      "name": "John McHenry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119796548,
+      "name": "Kaleidoskopee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adakedaba27",
+  "corporation_id": 98799733,
+  "alliance_id": 498125261,
+  "corporation_name": "Drip Inc.",
+  "alliance_name": "Test Alliance Please Ignore"
+}

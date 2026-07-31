@@ -1,0 +1,40 @@
+{
+  "character_id": 2123128534,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113757078,
+    "name": "Dmitro D",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98306027,
+    "alliance_id": 99003581,
+    "corporation_name": "SpaceFire Holding",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113757078,
+      "name": "Dmitro D",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114601882,
+      "name": "Sem Online",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120731916,
+      "name": "Moonface",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heirtoma Yaken",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

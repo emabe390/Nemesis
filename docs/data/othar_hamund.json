@@ -1,0 +1,52 @@
+{
+  "character_id": 94600989,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92706224,
+      "name": "Nicolai Federov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 333957438,
+      "name": "Daft Skunk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1466289629,
+      "name": "Asar Kardde",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115439825,
+      "name": "Khale Erkkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Othar Hamund",
+  "corporation_id": 98311406,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Exchange Collective",
+  "alliance_name": "Solyaris Chtonium"
+}

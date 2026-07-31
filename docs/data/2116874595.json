@@ -1,0 +1,52 @@
+{
+  "character_id": 2116874595,
+  "total_losses": 16,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2116874581,
+    "name": "Detlef Belvar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98008663,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Angels Constructions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116874581,
+      "name": "Detlef Belvar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121246285,
+      "name": "MLCG",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116874590,
+      "name": "Detlef Andomer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121477199,
+      "name": "Loris Edier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121606629,
+      "name": "Detlef Klok",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Detlef Taron",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

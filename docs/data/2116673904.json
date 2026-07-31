@@ -1,0 +1,40 @@
+{
+  "character_id": 2116673904,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96525633,
+    "name": "Kaivarian Coste",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98833695,
+    "alliance_id": null,
+    "corporation_name": "Myyhera March",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 105608222,
+      "name": "Velag Emricus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1332724577,
+      "name": "Valkiriya BR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vogan Hussain",
+  "corporation_id": 98723609,
+  "alliance_id": 99013041,
+  "corporation_name": "Astrosphere",
+  "alliance_name": "Fjordariket"
+}

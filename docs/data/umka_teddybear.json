@@ -1,0 +1,52 @@
+{
+  "character_id": 2120484113,
+  "total_losses": 81,
+  "unique_killers": 65,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 91409079,
+      "name": "Jack Unionn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Umka-TeddyBear",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

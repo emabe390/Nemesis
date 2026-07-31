@@ -1,0 +1,52 @@
+{
+  "character_id": 2123526828,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2029780168,
+      "name": "Feson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 703302510,
+      "name": "Surrender Piero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skordia",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

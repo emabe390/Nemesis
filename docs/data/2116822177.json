@@ -1,0 +1,40 @@
+{
+  "character_id": 2116822177,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 751816086,
+    "name": "The Pigeon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 751816086,
+      "name": "The Pigeon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121489842,
+      "name": "Harbinger Vadum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122977562,
+      "name": "Robertus Fillimus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heisuke Minero",
+  "corporation_id": 98636089,
+  "alliance_id": 99005338,
+  "corporation_name": "Hispanic Revolution",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123005022,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 731113532,
+    "name": "fargorev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828868,
+    "alliance_id": null,
+    "corporation_name": "NO STRUCTURE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 731113532,
+      "name": "fargorev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90352186,
+      "name": "Ayuren Aakiwa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Watalenen Otsa Sasen",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

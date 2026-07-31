@@ -1,0 +1,40 @@
+{
+  "character_id": 2112717861,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119351492,
+      "name": "Almost Sabre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118512371,
+      "name": "Huricane Tom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jaqk Levatikyn",
+  "corporation_id": 1426833036,
+  "alliance_id": 99008448,
+  "corporation_name": "Copper Corp",
+  "alliance_name": "Aggressively Passive Bears"
+}

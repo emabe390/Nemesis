@@ -1,0 +1,40 @@
+{
+  "character_id": 2120548843,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124498202,
+    "name": "Kyrsan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98792004,
+    "alliance_id": 99007203,
+    "corporation_name": "Academy Siberian Squad",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2124498202,
+      "name": "Kyrsan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123531117,
+      "name": "Aines WG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Volosiki Nazad",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

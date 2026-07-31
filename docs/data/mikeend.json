@@ -1,0 +1,40 @@
+{
+  "character_id": 1544789383,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93112952,
+    "name": "Character 93112952",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 93112952,
+      "name": "Character 93112952",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 775694970,
+      "name": "Kania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123194984,
+      "name": "SpeEdRu1ner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MikeEnd",
+  "corporation_id": 1000111,
+  "alliance_id": null,
+  "corporation_name": "Aliastra",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124153172,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114606780,
+    "name": "Wild Valenok",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662843,
+    "alliance_id": 99003557,
+    "corporation_name": "Interstellar Scum",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115671729,
+      "name": "Shapka Flota",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117532348,
+      "name": "Vile Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117857125,
+      "name": "Lo leras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mun Airuta",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

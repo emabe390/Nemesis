@@ -1,0 +1,34 @@
+{
+  "character_id": 2123202553,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95470619,
+    "name": "Tim Painter",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98555281,
+    "alliance_id": 1354830081,
+    "corporation_name": "Painter Freight Services",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95470619,
+      "name": "Tim Painter",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113837299,
+      "name": "Avelmarle Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tainio Oksaras",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

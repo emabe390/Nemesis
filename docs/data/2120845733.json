@@ -1,0 +1,34 @@
+{
+  "character_id": 2120845733,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119193060,
+    "name": "Ahbazon Prime",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98065682,
+    "alliance_id": 99014549,
+    "corporation_name": "The Milkmen",
+    "alliance_name": "Warping The Pattern"
+  },
+  "top_killers": [
+    {
+      "id": 2119193060,
+      "name": "Ahbazon Prime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "STI DevRes",
+  "corporation_id": 98712127,
+  "alliance_id": 99013831,
+  "corporation_name": "Arbeitstitel",
+  "alliance_name": "Sleeper Protocol"
+}

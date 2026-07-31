@@ -1,0 +1,52 @@
+{
+  "character_id": 2123194009,
+  "total_losses": 25,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 92770445,
+      "name": "Boo Hill",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 673218275,
+      "name": "tick2000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 840095137,
+      "name": "Rinkos Alaine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119942097,
+      "name": "MCtimes",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Prodajnay Psina",
+  "corporation_id": 98780411,
+  "alliance_id": 917526329,
+  "corporation_name": "Alter Ego Holding",
+  "alliance_name": "Death or Glory"
+}

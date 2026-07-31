@@ -1,0 +1,52 @@
+{
+  "character_id": 2114329981,
+  "total_losses": 655,
+  "unique_killers": 476,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 26,
+    "final_blows": 26,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 26,
+      "final_blows": 26
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 2114355374,
+      "name": "EvemanLarry Warp",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112265101,
+      "name": "James Zachanassian",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "BadmanLarry Capsuleer",
+  "corporation_id": 98759282,
+  "alliance_id": 99013990,
+  "corporation_name": "SHRED.",
+  "alliance_name": "Drifter."
+}

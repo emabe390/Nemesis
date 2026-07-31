@@ -1,0 +1,40 @@
+{
+  "character_id": 2123394922,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 455387646,
+    "name": "Odeysseus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98126566,
+    "alliance_id": 99009539,
+    "corporation_name": "Exiled Kings",
+    "alliance_name": "Pain And Compliance"
+  },
+  "top_killers": [
+    {
+      "id": 455387646,
+      "name": "Odeysseus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115690343,
+      "name": "ALLADDIN CORPORATION 9999",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122822665,
+      "name": "Character 2122822665",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucius Lemmont",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

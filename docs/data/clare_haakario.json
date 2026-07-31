@@ -1,0 +1,52 @@
+{
+  "character_id": 2123693005,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91630190,
+    "name": "Bedloun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91630190,
+      "name": "Bedloun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122556047,
+      "name": "Anjeika",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119786600,
+      "name": "Ramesen Illat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120973443,
+      "name": "Tetrix x1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122592671,
+      "name": "TateMaxxer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clare Haakario",
+  "corporation_id": 98800220,
+  "alliance_id": 1354830081,
+  "corporation_name": "Haakario Imperial Militarum Manufactorum",
+  "alliance_name": "Goonswarm Federation"
+}

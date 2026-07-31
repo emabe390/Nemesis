@@ -1,0 +1,52 @@
+{
+  "character_id": 2124116733,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2124073840,
+    "name": "Kanava Pixel",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98784883,
+    "alliance_id": 99011387,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "ZERG REBORN"
+  },
+  "top_killers": [
+    {
+      "id": 2124073840,
+      "name": "Kanava Pixel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96650003,
+      "name": "Flower Fallen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anima Pixel",
+  "corporation_id": 98784883,
+  "alliance_id": 99011387,
+  "corporation_name": "G0lden Fleet.",
+  "alliance_name": "ZERG REBORN"
+}

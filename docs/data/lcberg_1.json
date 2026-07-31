@@ -1,0 +1,52 @@
+{
+  "character_id": 2123328744,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119750595,
+    "name": "Bob Matar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720402314,
+    "alliance_id": 99007629,
+    "corporation_name": "Iron Warriors Legion",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 2119750595,
+      "name": "Bob Matar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121989811,
+      "name": "Enturi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 193783242,
+      "name": "freddude",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1383451942,
+      "name": "Sgt Turok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113817330,
+      "name": "Esinhart Ohmiras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lcberg 1",
+  "corporation_id": 98801021,
+  "alliance_id": null,
+  "corporation_name": "Rosc Corporation",
+  "alliance_name": null
+}

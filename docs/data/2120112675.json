@@ -1,0 +1,40 @@
+{
+  "character_id": 2120112675,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93818426,
+      "name": "Seira Katsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113258428,
+      "name": "iujom Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maria Madalena",
+  "corporation_id": 98837836,
+  "alliance_id": 99014402,
+  "corporation_name": "Bureau of Unified Harvesting",
+  "alliance_name": "Plenitude Alliance"
+}

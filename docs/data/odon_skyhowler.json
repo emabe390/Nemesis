@@ -1,0 +1,52 @@
+{
+  "character_id": 2123153680,
+  "total_losses": 31,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 513992227,
+    "name": "Odon Skyrunner",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 513992227,
+      "name": "Odon Skyrunner",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 92963832,
+      "name": "Shaftmaster Mastershafts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 589558979,
+      "name": "Nikolai Kazansky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93745147,
+      "name": "Rist Ozuwara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94262198,
+      "name": "Karu Bringit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Odon Skyhowler",
+  "corporation_id": 98765257,
+  "alliance_id": 99010079,
+  "corporation_name": "Sky Turkey Inc.",
+  "alliance_name": "Brave United"
+}

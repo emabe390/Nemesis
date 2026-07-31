@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640286,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2113859149,
+    "name": "Briard Tissant",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98550658,
+    "alliance_id": null,
+    "corporation_name": "Medicinal Ore Protection Societies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113859149,
+      "name": "Briard Tissant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122687090,
+      "name": "Utaka Mabata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91119149,
+      "name": "Gerski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91591639,
+      "name": "Dr Chen Chen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1419619124,
+      "name": "Lach Danan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Murderer Light Yagami",
+  "corporation_id": 98721110,
+  "alliance_id": 99003581,
+  "corporation_name": "Nocte Vigilo",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123619422,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115513442,
+    "name": "Grey Ignis",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98745609,
+    "alliance_id": 99015029,
+    "corporation_name": "Tarnished Dragon",
+    "alliance_name": "Localized Apocalypse"
+  },
+  "top_killers": [
+    {
+      "id": 2115513442,
+      "name": "Grey Ignis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96335505,
+      "name": "Lena Dante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 698817710,
+      "name": "Mushroomcloud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122263187,
+      "name": "Fauux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nerg stasstar",
+  "corporation_id": 98834097,
+  "alliance_id": null,
+  "corporation_name": "ETERNAL SOULS",
+  "alliance_name": null
+}

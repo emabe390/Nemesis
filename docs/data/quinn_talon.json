@@ -1,0 +1,52 @@
+{
+  "character_id": 2122674020,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114953930,
+    "name": "Suzicide",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98140648,
+    "alliance_id": 99013806,
+    "corporation_name": "The Conference Elite",
+    "alliance_name": "The Conference"
+  },
+  "top_killers": [
+    {
+      "id": 2114953930,
+      "name": "Suzicide",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 162266737,
+      "name": "KayLe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112707456,
+      "name": "Titanium Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113318176,
+      "name": "Freyda Athonille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123168238,
+      "name": "Byron Pfister",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Quinn Talon",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

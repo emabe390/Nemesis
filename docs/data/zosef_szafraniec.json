@@ -1,0 +1,40 @@
+{
+  "character_id": 2112634676,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121996564,
+    "name": "Cwoo Long",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679485,
+    "alliance_id": 99011193,
+    "corporation_name": "Whispers in the Void",
+    "alliance_name": "Pewgilism."
+  },
+  "top_killers": [
+    {
+      "id": 2121996564,
+      "name": "Cwoo Long",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94493692,
+      "name": "Thornprick Sotken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96328342,
+      "name": "Maskim Xul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zosef Szafraniec",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

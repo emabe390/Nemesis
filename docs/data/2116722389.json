@@ -1,0 +1,40 @@
+{
+  "character_id": 2116722389,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116295593,
+    "name": "Valdik Galdik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747370,
+    "alliance_id": null,
+    "corporation_name": "AI Akedia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116295593,
+      "name": "Valdik Galdik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117898041,
+      "name": "Goonas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120009498,
+      "name": "Character 2120009498",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Black Morfine",
+  "corporation_id": 566825158,
+  "alliance_id": 99003581,
+  "corporation_name": "Gladiators of Rage",
+  "alliance_name": "Fraternity."
+}

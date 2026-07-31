@@ -1,0 +1,40 @@
+{
+  "character_id": 2124273969,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90148098,
+    "name": "BRIMTAK",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 727382616,
+      "name": "Villa Strangiato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YerbaMadre",
+  "corporation_id": 98831697,
+  "alliance_id": null,
+  "corporation_name": "Space Cat Gunners",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 93075768,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121526294,
+      "name": "Ysken Tsukaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082059,
+      "name": "Mea Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92347438,
+      "name": "Mireille Tadaruwa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95889970,
+      "name": "Stipe Miocic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cy Fi",
+  "corporation_id": 98644650,
+  "alliance_id": 99010431,
+  "corporation_name": "Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

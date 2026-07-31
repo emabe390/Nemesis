@@ -1,0 +1,52 @@
+{
+  "character_id": 2123728346,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1181303075,
+    "name": "Malodon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 221232882,
+    "alliance_id": null,
+    "corporation_name": "The Eden Trading International Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1181303075,
+      "name": "Malodon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119831838,
+      "name": "268425",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123770652,
+      "name": "BIG Beast5",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123562782,
+      "name": "LingYunTS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123624851,
+      "name": "Big-beast2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BIG beast3",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

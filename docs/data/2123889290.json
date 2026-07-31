@@ -1,0 +1,52 @@
+{
+  "character_id": 2123889290,
+  "total_losses": 23,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 606731607,
+      "name": "Character 606731607",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 726712472,
+      "name": "Renius",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Trente Tivianne",
+  "corporation_id": 98819891,
+  "alliance_id": null,
+  "corporation_name": "Dexys Inc",
+  "alliance_name": null
+}

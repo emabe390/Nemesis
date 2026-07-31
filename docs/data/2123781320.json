@@ -1,0 +1,40 @@
+{
+  "character_id": 2123781320,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92103849,
+    "name": "Reno Hakaari",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98813368,
+    "alliance_id": null,
+    "corporation_name": "Industrial Death Goats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92103849,
+      "name": "Reno Hakaari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92103867,
+      "name": "Capra Hakaari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113318176,
+      "name": "Freyda Athonille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daniel zu Hamburg",
+  "corporation_id": 98728397,
+  "alliance_id": 99012722,
+  "corporation_name": "HIGH SEC MINING CORP",
+  "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
+}

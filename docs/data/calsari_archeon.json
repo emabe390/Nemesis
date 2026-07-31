@@ -1,0 +1,40 @@
+{
+  "character_id": 2123467720,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121639534,
+    "name": "CalvinCross",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702065,
+    "alliance_id": 173714703,
+    "corporation_name": "Gjallarhorn Incorporated",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 2121639534,
+      "name": "CalvinCross",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118413925,
+      "name": "Vadros",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Calsari Archeon",
+  "corporation_id": 98806402,
+  "alliance_id": 99014448,
+  "corporation_name": "Wu-Tang Financial inc",
+  "alliance_name": "Forge Consortium"
+}

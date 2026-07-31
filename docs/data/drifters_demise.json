@@ -1,0 +1,46 @@
+{
+  "character_id": 2123322688,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91880510,
+    "name": "Character 91880510",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747372,
+    "alliance_id": 99013766,
+    "corporation_name": "Regrediens",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 91880510,
+      "name": "Character 91880510",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91145490,
+      "name": "Peter Johannsen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117572238,
+      "name": "DY HEII D",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122430704,
+      "name": "Luojia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drifters Demise",
+  "corporation_id": 98794448,
+  "alliance_id": null,
+  "corporation_name": "Sleeper Salvage Syndicate",
+  "alliance_name": null
+}

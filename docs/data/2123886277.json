@@ -1,0 +1,52 @@
+{
+  "character_id": 2123886277,
+  "total_losses": 42,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 4,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 0
+    },
+    {
+      "id": 95518651,
+      "name": "Markus Che",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1894887707,
+      "name": "Aleysk 05",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119234820,
+      "name": "Atlas Archon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122730938,
+      "name": "Sherman Jou",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tonol03",
+  "corporation_id": 98416134,
+  "alliance_id": 99006941,
+  "corporation_name": "Sons of Black Rise",
+  "alliance_name": "Siege Green."
+}

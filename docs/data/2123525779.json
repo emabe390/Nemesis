@@ -1,0 +1,40 @@
+{
+  "character_id": 2123525779,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112813055,
+    "name": "porkchop Agnon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98731358,
+    "alliance_id": 99012691,
+    "corporation_name": "Veldspar Ultras",
+    "alliance_name": "The Ninth Eye."
+  },
+  "top_killers": [
+    {
+      "id": 2112813055,
+      "name": "porkchop Agnon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113246853,
+      "name": "Character 2113246853",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123895836,
+      "name": "Taron voss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tasanimi Isimazu",
+  "corporation_id": 98806600,
+  "alliance_id": null,
+  "corporation_name": "BerdasPrivateCorp",
+  "alliance_name": null
+}

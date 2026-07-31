@@ -1,0 +1,40 @@
+{
+  "character_id": 2123275679,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 713141884,
+    "name": "Davey Oaks",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 713141884,
+      "name": "Davey Oaks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117200133,
+      "name": "YFX Torina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123523815,
+      "name": "RAVleiwen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hikari F",
+  "corporation_id": 98550682,
+  "alliance_id": 99003581,
+  "corporation_name": "Stardust-Guardian",
+  "alliance_name": "Fraternity."
+}

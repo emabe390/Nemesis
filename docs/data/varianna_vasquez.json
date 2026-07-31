@@ -1,0 +1,52 @@
+{
+  "character_id": 2123703412,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 773213117,
+    "name": "Jagtor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117627903,
+      "name": "Gio XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119221744,
+      "name": "Aoife Divine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119407067,
+      "name": "Valfir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varianna Vasquez",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

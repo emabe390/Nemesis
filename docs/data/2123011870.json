@@ -1,0 +1,40 @@
+{
+  "character_id": 2123011870,
+  "total_losses": 14,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 638035762,
+    "name": "alextanderson",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98762098,
+    "alliance_id": 1900696668,
+    "corporation_name": "Aegis Victorium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 638035762,
+      "name": "alextanderson",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2120777564,
+      "name": "Inverted Yield Curve",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96183510,
+      "name": "Narco Watson",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nameless Shady Contact",
+  "corporation_id": 98594143,
+  "alliance_id": null,
+  "corporation_name": "Taught or Tittle",
+  "alliance_name": null
+}

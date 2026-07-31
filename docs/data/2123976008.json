@@ -1,0 +1,52 @@
+{
+  "character_id": 2123976008,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116837057,
+    "name": "sophie lane",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98805016,
+    "alliance_id": null,
+    "corporation_name": "PBM Dynamics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116837057,
+      "name": "sophie lane",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96871790,
+      "name": "Guffor Atremi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1659548578,
+      "name": "Shrubbyp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 672612074,
+      "name": "Alan Bell2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118903192,
+      "name": "BLUEBEAM907",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yazeubi",
+  "corporation_id": 98820702,
+  "alliance_id": null,
+  "corporation_name": "Ghowsty Corporation",
+  "alliance_name": null
+}

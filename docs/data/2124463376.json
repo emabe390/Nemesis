@@ -1,0 +1,40 @@
+{
+  "character_id": 2124463376,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91478058,
+    "name": "Sco Nolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 91478058,
+      "name": "Sco Nolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96742092,
+      "name": "Avalon Lyons",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122389165,
+      "name": "Rodan Harlock",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silk Otter",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

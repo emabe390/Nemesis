@@ -1,0 +1,52 @@
+{
+  "character_id": 2120198010,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2112838533,
+    "name": "yeager rommel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1001562011,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sturmgrenadier Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112838533,
+      "name": "yeager rommel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119571177,
+      "name": "obsn8192G",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92288265,
+      "name": "Zver Izvergovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1844421120,
+      "name": "larthast",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WLQ-SS",
+  "corporation_id": 98806766,
+  "alliance_id": 99009163,
+  "corporation_name": "Spear of Morning Star",
+  "alliance_name": "Dracarys."
+}

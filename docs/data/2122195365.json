@@ -1,0 +1,40 @@
+{
+  "character_id": 2122195365,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 821619557,
+    "name": "Takurar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821498,
+    "alliance_id": 99014651,
+    "corporation_name": "TopGunMaverickInverted",
+    "alliance_name": "Inverted."
+  },
+  "top_killers": [
+    {
+      "id": 821619557,
+      "name": "Takurar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122195365,
+      "name": "John Max Payne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Max Payne",
+  "corporation_id": 98767725,
+  "alliance_id": null,
+  "corporation_name": "Ergruk Sternenschmiede",
+  "alliance_name": null
+}

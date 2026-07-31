@@ -1,0 +1,40 @@
+{
+  "character_id": 2122028082,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91003502,
+    "name": "Leet Man",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 91003502,
+      "name": "Leet Man",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95468474,
+      "name": "Eric Packer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95571075,
+      "name": "Jackboot Salvador",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BenjiFast",
+  "corporation_id": 98335809,
+  "alliance_id": 99005338,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Pandemic Horde"
+}

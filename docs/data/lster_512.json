@@ -1,0 +1,34 @@
+{
+  "character_id": 2123245610,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96269493,
+    "name": "Veran Shockblast",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96269493,
+      "name": "Veran Shockblast",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122765822,
+      "name": "REGl0NAL",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "LSTER-512",
+  "corporation_id": 98678807,
+  "alliance_id": 99013766,
+  "corporation_name": "Settlers Inc.",
+  "alliance_name": "Death Legion of Capybaras"
+}

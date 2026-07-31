@@ -1,0 +1,40 @@
+{
+  "character_id": 2123901488,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92081546,
+    "name": "Shiro Neutronica",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98443943,
+    "alliance_id": null,
+    "corporation_name": "Gilder HQ",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92081546,
+      "name": "Shiro Neutronica",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 260436269,
+      "name": "Boneafi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1058904581,
+      "name": "Character 1058904581",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "v4r01n",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

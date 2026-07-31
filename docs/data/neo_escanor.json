@@ -1,0 +1,40 @@
+{
+  "character_id": 2124225526,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114203306,
+    "name": "Copy-Cat KilIer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800343,
+    "alliance_id": 99015037,
+    "corporation_name": "Restricted Space",
+    "alliance_name": "LoveTaps"
+  },
+  "top_killers": [
+    {
+      "id": 2114203306,
+      "name": "Copy-Cat KilIer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113754774,
+      "name": "Mudaro Rogers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123778314,
+      "name": "golgoroth-orix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neo Escanor",
+  "corporation_id": 98820791,
+  "alliance_id": null,
+  "corporation_name": "Orbital EGQC",
+  "alliance_name": null
+}

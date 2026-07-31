@@ -1,0 +1,52 @@
+{
+  "character_id": 2117700883,
+  "total_losses": 49,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2123966728,
+    "name": "Bixbe",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123966728,
+      "name": "Bixbe",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2123080081,
+      "name": "Dogwelder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90542081,
+      "name": "Londo Tian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92941363,
+      "name": "Sam Lafisque",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94363754,
+      "name": "Sem Skord",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ostylk",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

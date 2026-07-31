@@ -1,0 +1,52 @@
+{
+  "character_id": 2124323761,
+  "total_losses": 24,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118917534,
+    "name": "Jasmine Green",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98734826,
+    "alliance_id": 99013331,
+    "corporation_name": "Bubblegum Bass Party",
+    "alliance_name": "Ironworks Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 2118917534,
+      "name": "Jasmine Green",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123076116,
+      "name": "Vlad D Nhalr",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 1388116682,
+      "name": "EMF Coldwarrior",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121455622,
+      "name": "Yngrid Zentra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Talwynn Atreides",
+  "corporation_id": 98743337,
+  "alliance_id": 99012862,
+  "corporation_name": "Mining Under the Influence",
+  "alliance_name": "Influential Operations"
+}

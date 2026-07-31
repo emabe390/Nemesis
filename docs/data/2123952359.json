@@ -1,0 +1,46 @@
+{
+  "character_id": 2123952359,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1497422838,
+      "name": "Mr GdCat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113027115,
+      "name": "Rudie DeNiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113471075,
+      "name": "FrozenHam Thiesant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nami Otsura",
+  "corporation_id": 98806313,
+  "alliance_id": null,
+  "corporation_name": "Veilwalkers",
+  "alliance_name": null
+}

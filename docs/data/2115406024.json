@@ -1,0 +1,40 @@
+{
+  "character_id": 2115406024,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94095389,
+    "name": "Willam Wells",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94095389,
+      "name": "Willam Wells",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119374884,
+      "name": "KGK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122983510,
+      "name": "Edvard Trading",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gary Gygaxx",
+  "corporation_id": 98582741,
+  "alliance_id": 99003214,
+  "corporation_name": "Blazing Capsules",
+  "alliance_name": "Brave Collective"
+}

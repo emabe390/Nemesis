@@ -1,0 +1,40 @@
+{
+  "character_id": 2121728159,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114720110,
+    "name": "Mike Clawfinger",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 2114720110,
+      "name": "Mike Clawfinger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120336885,
+      "name": "Omerus Blake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122773017,
+      "name": "Harttax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capital Mismanagement V",
+  "corporation_id": 98687904,
+  "alliance_id": null,
+  "corporation_name": "Hunter's Solace",
+  "alliance_name": null
+}

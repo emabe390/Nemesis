@@ -1,0 +1,40 @@
+{
+  "character_id": 2122182596,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92225865,
+    "name": "Gusar Tuz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98742693,
+    "alliance_id": null,
+    "corporation_name": "Haven Enjoyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92225865,
+      "name": "Gusar Tuz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92502882,
+      "name": "Star Wolft",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117237745,
+      "name": "Millarium",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Red Robinson",
+  "corporation_id": 98785283,
+  "alliance_id": null,
+  "corporation_name": "Starfleet Sector 31",
+  "alliance_name": null
+}

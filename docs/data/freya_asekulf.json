@@ -1,0 +1,40 @@
+{
+  "character_id": 2123260678,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95475581,
+      "name": "Rex Irae",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1196764859,
+      "name": "Ankhiris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Freya Asekulf",
+  "corporation_id": 1184675423,
+  "alliance_id": 1354830081,
+  "corporation_name": "Amok.",
+  "alliance_name": "Goonswarm Federation"
+}

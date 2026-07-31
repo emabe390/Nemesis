@@ -1,0 +1,52 @@
+{
+  "character_id": 2123004110,
+  "total_losses": 28,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 993607874,
+    "name": "TomHorn",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98670638,
+    "alliance_id": null,
+    "corporation_name": "Horn Brothers Holdings Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 993607874,
+      "name": "TomHorn",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117067014,
+      "name": "DeeVEK",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90305078,
+      "name": "Bubble Summer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1127444080,
+      "name": "Cold Abyss",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Arbippilier Arync Crendraven",
+  "corporation_id": 98777557,
+  "alliance_id": null,
+  "corporation_name": "Watch Eagle Academy",
+  "alliance_name": null
+}

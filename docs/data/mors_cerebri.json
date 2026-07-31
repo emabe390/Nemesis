@@ -1,0 +1,52 @@
+{
+  "character_id": 2124439073,
+  "total_losses": 63,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 864458378,
+    "name": "Skruff",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 864458378,
+      "name": "Skruff",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122543999,
+      "name": "li fenhua",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93140354,
+      "name": "Konradt Curze",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "mors cerebri",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

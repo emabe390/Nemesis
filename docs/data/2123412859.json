@@ -1,0 +1,34 @@
+{
+  "character_id": 2123412859,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 308388154,
+    "name": "CTPECC",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 308388154,
+      "name": "CTPECC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120610339,
+      "name": "Tutella Asovna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123412859",
+  "corporation_id": 98791107,
+  "alliance_id": null,
+  "corporation_name": "Kybuk3",
+  "alliance_name": null
+}

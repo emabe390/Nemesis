@@ -1,0 +1,52 @@
+{
+  "character_id": 2123208294,
+  "total_losses": 39,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 92585063,
+      "name": "alexander tournon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123244797,
+      "name": "xiaxiax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90100519,
+      "name": "Mighty Bk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91391986,
+      "name": "Arcanum Dra'sai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123208294",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115273846,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114236089,
+    "name": "RedHulk1",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98452319,
+    "alliance_id": 99014264,
+    "corporation_name": "SHAVED",
+    "alliance_name": "Vocate Draconis"
+  },
+  "top_killers": [
+    {
+      "id": 2114236089,
+      "name": "RedHulk1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010673,
+      "name": "kholops 09",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010679,
+      "name": "kholops 03",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caius Cactus",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

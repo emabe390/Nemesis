@@ -1,0 +1,52 @@
+{
+  "character_id": 2123696134,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1088333998,
+    "name": "Fat Zero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121270204,
+      "name": "Datene Esubria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93107163,
+      "name": "Givz Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nyssa Abraxas",
+  "corporation_id": 98817098,
+  "alliance_id": null,
+  "corporation_name": "Harmas Holdings",
+  "alliance_name": null
+}

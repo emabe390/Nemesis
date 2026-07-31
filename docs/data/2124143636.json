@@ -1,0 +1,52 @@
+{
+  "character_id": 2124143636,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 549063866,
+      "name": "Rayokashi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114739715,
+      "name": "Tornado Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114842208,
+      "name": "McBalls Taint",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123962675,
+      "name": "Shrekkiboy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Benjamin Leach",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

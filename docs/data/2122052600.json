@@ -1,0 +1,40 @@
+{
+  "character_id": 2122052600,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119234820,
+    "name": "Atlas Archon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98221538,
+    "alliance_id": 99003581,
+    "corporation_name": "C5 Flight",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119234820,
+      "name": "Atlas Archon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117311648,
+      "name": "Doov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117768913,
+      "name": "Emma de Carr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Piromanskii",
+  "corporation_id": 98639548,
+  "alliance_id": 99011489,
+  "corporation_name": "United Caldari Navy",
+  "alliance_name": "United Caldari Space Command."
+}

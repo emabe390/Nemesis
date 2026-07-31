@@ -1,0 +1,40 @@
+{
+  "character_id": 2123198360,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95071769,
+    "name": "Dexter Awake",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 95071769,
+      "name": "Dexter Awake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 814852043,
+      "name": "ZelRox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123378278,
+      "name": "Adarialis",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MrHappyMNMTR",
+  "corporation_id": 98412140,
+  "alliance_id": null,
+  "corporation_name": "JAGD Federation",
+  "alliance_name": null
+}

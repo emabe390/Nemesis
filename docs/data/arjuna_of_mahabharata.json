@@ -1,0 +1,52 @@
+{
+  "character_id": 2120422807,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2112721099,
+    "name": "tinde Erkkinen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112721099,
+      "name": "tinde Erkkinen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114132275,
+      "name": "Elena Patton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94812976,
+      "name": "Ionia Blade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94872713,
+      "name": "Ulatlar Brimfire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94946292,
+      "name": "Max Mahbem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arjuna Of Mahabharata",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96667572,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120497394,
+    "name": "MINIHAMES",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726046,
+    "alliance_id": 99012936,
+    "corporation_name": "Prostate Jackhammer",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 2120497394,
+      "name": "MINIHAMES",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Korben Dallace",
+  "corporation_id": 98809547,
+  "alliance_id": null,
+  "corporation_name": "Wings of Rust",
+  "alliance_name": null
+}

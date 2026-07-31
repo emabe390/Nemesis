@@ -1,0 +1,40 @@
+{
+  "character_id": 2123617901,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1415638999,
+    "name": "Erathris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 1415638999,
+      "name": "Erathris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119440309,
+      "name": "Huginn Odinseye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120214192,
+      "name": "Another Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alvis Skywalker",
+  "corporation_id": 98628015,
+  "alliance_id": 99003581,
+  "corporation_name": "Hollow United Garuda",
+  "alliance_name": "Fraternity."
+}

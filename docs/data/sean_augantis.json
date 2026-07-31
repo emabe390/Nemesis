@@ -1,0 +1,40 @@
+{
+  "character_id": 2123046075,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95355245,
+    "name": "Muon Farstrider",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98331648,
+    "alliance_id": 99007252,
+    "corporation_name": "Hidden Flame",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 95355245,
+      "name": "Muon Farstrider",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121819425,
+      "name": "Gaige Yumbreon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sean Augantis",
+  "corporation_id": 98793057,
+  "alliance_id": null,
+  "corporation_name": "Midnight 36",
+  "alliance_name": null
+}

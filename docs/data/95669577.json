@@ -1,0 +1,52 @@
+{
+  "character_id": 95669577,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 95611812,
+    "name": "Ale Machine",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1890306608,
+      "name": "Kazzell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123821615,
+      "name": "Iqratxib",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Drunk'n Sailor",
+  "corporation_id": 427125032,
+  "alliance_id": 1354830081,
+  "corporation_name": "TunDraGon",
+  "alliance_name": "Goonswarm Federation"
+}

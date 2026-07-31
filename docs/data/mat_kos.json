@@ -1,0 +1,52 @@
+{
+  "character_id": 2124343285,
+  "total_losses": 24,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2112111080,
+    "name": "Pio Meg",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98232099,
+    "alliance_id": 99002584,
+    "corporation_name": "Nomads of Republic",
+    "alliance_name": "Smile 'n' Wave"
+  },
+  "top_killers": [
+    {
+      "id": 2112111080,
+      "name": "Pio Meg",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 187568404,
+      "name": "Icarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 805804420,
+      "name": "Yuki Li",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1130628277,
+      "name": "Warlon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113642744,
+      "name": "Lucien Marcheciel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mat Kos",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

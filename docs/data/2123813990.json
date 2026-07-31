@@ -1,0 +1,52 @@
+{
+  "character_id": 2123813990,
+  "total_losses": 42,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 560468720,
+      "name": "Asbendale Silverblade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 573374598,
+      "name": "Emperial Templar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118457030,
+      "name": "Generalissimus Obvious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122529211,
+      "name": "Prehonel Aynie Stetille",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Helios mediate Corona",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

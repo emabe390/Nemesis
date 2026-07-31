@@ -1,0 +1,52 @@
+{
+  "character_id": 92280905,
+  "total_losses": 23,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 1171447259,
+    "name": "Chris Reeves",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98373312,
+    "alliance_id": null,
+    "corporation_name": "Silence now",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1171447259,
+      "name": "Chris Reeves",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95839455,
+      "name": "Comolon Sharp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 931014810,
+      "name": "Ron McIndustry",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112776089,
+      "name": "Sarg Crowins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95076173,
+      "name": "Dredd Imperious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mira Do'Urden",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

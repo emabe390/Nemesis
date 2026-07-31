@@ -1,0 +1,52 @@
+{
+  "character_id": 1427837888,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91481791,
+    "name": "Mike Magnolik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98315934,
+    "alliance_id": 99014936,
+    "corporation_name": "Stuff and Junk Enterprises",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 91481791,
+      "name": "Mike Magnolik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112055077,
+      "name": "Darareth Void",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114405588,
+      "name": "Tasty Beast",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116659899,
+      "name": "Tasty Crab",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122051744,
+      "name": "Mo0nlike",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "starjunk",
+  "corporation_id": 1756963505,
+  "alliance_id": null,
+  "corporation_name": "Mindforge Godmachines",
+  "alliance_name": null
+}

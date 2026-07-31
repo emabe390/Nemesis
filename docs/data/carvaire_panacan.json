@@ -1,0 +1,52 @@
+{
+  "character_id": 2123972467,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 96693989,
+    "name": "Adjust M",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98494391,
+    "alliance_id": 99009287,
+    "corporation_name": "Fish Vending Machine",
+    "alliance_name": "Beyond the Breach"
+  },
+  "top_killers": [
+    {
+      "id": 96693989,
+      "name": "Adjust M",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116944001,
+      "name": "Omar Abduhl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118474583,
+      "name": "Mayoshi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1937253034,
+      "name": "Dungheap",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carvaire Panacan",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

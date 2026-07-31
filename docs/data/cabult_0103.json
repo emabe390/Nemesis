@@ -1,0 +1,52 @@
+{
+  "character_id": 92530132,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 3019604,
+    "name": "Cassandra Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95221140,
+      "name": "Hiroshi Hattori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122788788,
+      "name": "Grant Fisher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92530132,
+      "name": "Cabult 0103",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92559407,
+      "name": "Character 92559407",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cabult 0103",
+  "corporation_id": 98786365,
+  "alliance_id": 99011223,
+  "corporation_name": "Zealot's",
+  "alliance_name": "Sigma Grindset"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2113345333,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2113315125,
+    "name": "Eat orange",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98783407,
+    "alliance_id": 99003995,
+    "corporation_name": "Golden Fleece",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2113315125,
+      "name": "Eat orange",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92493967,
+      "name": "Omnaria Kautsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93210671,
+      "name": "sdfj Bathan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94940242,
+      "name": "Rayor Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95045253,
+      "name": "Tar Lemmont",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eat blueberry",
+  "corporation_id": 98783407,
+  "alliance_id": 99003995,
+  "corporation_name": "Golden Fleece",
+  "alliance_name": "Invidia Gloriae Comes"
+}

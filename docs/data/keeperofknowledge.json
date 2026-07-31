@@ -1,0 +1,52 @@
+{
+  "character_id": 2123384058,
+  "total_losses": 25,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90606716,
+      "name": "Lissa Suares",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91658171,
+      "name": "Marus Hekki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93550544,
+      "name": "Jack Renekton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94280900,
+      "name": "Xaifas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KeeperOfKnowledge",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

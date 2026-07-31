@@ -1,0 +1,52 @@
+{
+  "character_id": 2123417039,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114624632,
+      "name": "Kit Chi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95173227,
+      "name": "IceVapir4ik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elis Skord",
+  "corporation_id": 98804676,
+  "alliance_id": null,
+  "corporation_name": "Huffin' Nomads",
+  "alliance_name": null
+}

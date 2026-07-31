@@ -1,0 +1,40 @@
+{
+  "character_id": 2119996604,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117485940,
+    "name": "Freakset",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813849,
+    "alliance_id": 99013690,
+    "corporation_name": "Biomass and other waste recycling corporation Edem",
+    "alliance_name": "Critical. Mass."
+  },
+  "top_killers": [
+    {
+      "id": 2117485940,
+      "name": "Freakset",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91369343,
+      "name": "Ix Tolo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96645416,
+      "name": "Aida Houssa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Calinas",
+  "corporation_id": 98093503,
+  "alliance_id": null,
+  "corporation_name": "Triton Solutions",
+  "alliance_name": null
+}

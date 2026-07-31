@@ -1,0 +1,40 @@
+{
+  "character_id": 2121424750,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93838156,
+    "name": "Abu Galia",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98695839,
+    "alliance_id": 99003214,
+    "corporation_name": "South Sun Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 93838156,
+      "name": "Abu Galia",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93075150,
+      "name": "Mackatoa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122701415,
+      "name": "Vediere Caderu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hill Mining1",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

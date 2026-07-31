@@ -1,0 +1,40 @@
+{
+  "character_id": 2122880053,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116708949,
+    "name": "Michael Canary",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98747271,
+    "alliance_id": null,
+    "corporation_name": "Canaries Advanced Species Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116708949,
+      "name": "Michael Canary",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119237390,
+      "name": "Rezorin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119621556,
+      "name": "Vonlia Enaka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lazaro Bernabeu",
+  "corporation_id": 98750080,
+  "alliance_id": null,
+  "corporation_name": "Alphas Industriales",
+  "alliance_name": null
+}

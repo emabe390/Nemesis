@@ -1,0 +1,52 @@
+{
+  "character_id": 2123941063,
+  "total_losses": 81,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 625550881,
+    "name": "Torothin",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98591932,
+    "alliance_id": 99014163,
+    "corporation_name": "Crimson Dawn Enterprises",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 625550881,
+      "name": "Torothin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96307776,
+      "name": "Chaz Beretta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92471923,
+      "name": "Brother Blood Fusion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93232991,
+      "name": "MarkeeDragon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mikka Onita",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

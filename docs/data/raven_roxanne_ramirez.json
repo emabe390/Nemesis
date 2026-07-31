@@ -1,0 +1,40 @@
+{
+  "character_id": 2124209923,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124179730,
+    "name": "Dominic Ramirez",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98669122,
+    "alliance_id": null,
+    "corporation_name": "Gruber und Partner GmbH",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124179730,
+      "name": "Dominic Ramirez",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119255398,
+      "name": "Saori Ijuin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119702529,
+      "name": "Ayuri Shimazu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven Roxanne Ramirez",
+  "corporation_id": 98831105,
+  "alliance_id": null,
+  "corporation_name": "Black Core Mining Holdings",
+  "alliance_name": null
+}

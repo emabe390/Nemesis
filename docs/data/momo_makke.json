@@ -1,0 +1,52 @@
+{
+  "character_id": 2120165674,
+  "total_losses": 26,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 930725828,
+    "name": "sarsa",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98820670,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladius Tenebris",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 930725828,
+      "name": "sarsa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90317580,
+      "name": "Thorn Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 282415299,
+      "name": "OttoVonKatz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 442404257,
+      "name": "Master Stig",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Momo Makke",
+  "corporation_id": 209540908,
+  "alliance_id": null,
+  "corporation_name": "Steel Battalion",
+  "alliance_name": null
+}

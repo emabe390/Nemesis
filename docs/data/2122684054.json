@@ -1,0 +1,40 @@
+{
+  "character_id": 2122684054,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115869888,
+    "name": "Moon Tomas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760849,
+    "alliance_id": 99010412,
+    "corporation_name": "NISUWAZ",
+    "alliance_name": "Nisuwa Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2115869888,
+      "name": "Moon Tomas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119027366,
+      "name": "Schadeck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119362676,
+      "name": "Ersolo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122684054",
+  "corporation_id": 98755298,
+  "alliance_id": 99005338,
+  "corporation_name": "Fox of Resistance",
+  "alliance_name": "Pandemic Horde"
+}

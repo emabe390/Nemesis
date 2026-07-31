@@ -1,0 +1,52 @@
+{
+  "character_id": 2123503413,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 977054475,
+    "name": "Manfred Stahler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93200262,
+      "name": "Evernight Shade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 212620763,
+      "name": "Character 212620763",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1346864939,
+      "name": "Ferret Lord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Telemah Rhade",
+  "corporation_id": 98799780,
+  "alliance_id": 99012279,
+  "corporation_name": "Walkurja",
+  "alliance_name": "Sportmodel"
+}

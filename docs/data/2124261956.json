@@ -1,0 +1,40 @@
+{
+  "character_id": 2124261956,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123850273,
+    "name": "Popsicle orange",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777401,
+    "alliance_id": 99009163,
+    "corporation_name": "Baby-Bus",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123850273,
+      "name": "Popsicle orange",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113407599,
+      "name": "Popsicle Kansene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121794905,
+      "name": "Popsicle tomato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Popsicle Tea",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120312813,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91251313,
+      "name": "Grunt Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92450968,
+      "name": "Kaiden Arsten",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95563880,
+      "name": "Flavius Heraclius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 617532662,
+      "name": "Maldora Z",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bazakiel",
+  "corporation_id": 98728366,
+  "alliance_id": 99014984,
+  "corporation_name": "The Mad Gasser",
+  "alliance_name": "Travelers of Both Time and Space"
+}

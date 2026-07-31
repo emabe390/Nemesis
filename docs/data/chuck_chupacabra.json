@@ -1,0 +1,40 @@
+{
+  "character_id": 2119397855,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114269177,
+    "name": "Andrea Rossix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176024,
+    "alliance_id": 99011880,
+    "corporation_name": "Pixel Navigators",
+    "alliance_name": "AimogMart"
+  },
+  "top_killers": [
+    {
+      "id": 2114269177,
+      "name": "Andrea Rossix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96401582,
+      "name": "Kae'loz Apache",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117305664,
+      "name": "Juuuzio Leoreyler Breau",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chuck Chupacabra",
+  "corporation_id": 98701815,
+  "alliance_id": null,
+  "corporation_name": "Evil Megacorp",
+  "alliance_name": null
+}

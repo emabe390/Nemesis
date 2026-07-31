@@ -1,0 +1,52 @@
+{
+  "character_id": 2124402324,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1242962572,
+      "name": "BoomBangGone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114657553,
+      "name": "Kharn Atruin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123535518,
+      "name": "Malcolm 41",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Eroduma Mayaki",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

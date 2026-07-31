@@ -1,0 +1,40 @@
+{
+  "character_id": 2122213890,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124146479,
+    "name": "Trice Lows",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98787157,
+    "alliance_id": 99008788,
+    "corporation_name": "Subterfuge Blackmail Sabotage Deception Network",
+    "alliance_name": "The Skeleton Crew"
+  },
+  "top_killers": [
+    {
+      "id": 2124146479,
+      "name": "Trice Lows",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91620309,
+      "name": "Dee Koy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93297943,
+      "name": "Icarus Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Safety Inspecter",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

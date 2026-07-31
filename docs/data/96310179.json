@@ -1,0 +1,40 @@
+{
+  "character_id": 96310179,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121959468,
+    "name": "Ahb Squatch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760758,
+    "alliance_id": null,
+    "corporation_name": "Squatch Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121959468,
+      "name": "Ahb Squatch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90570479,
+      "name": "Broseph Manmatar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121463583,
+      "name": "Marcus Atriedes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blade Okel",
+  "corporation_id": 98380820,
+  "alliance_id": 99009511,
+  "corporation_name": "Exit-Strategy",
+  "alliance_name": "Unchained Alliance"
+}

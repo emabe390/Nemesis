@@ -1,0 +1,40 @@
+{
+  "character_id": 2122225443,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118211681,
+    "name": "Tom Azwel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679896,
+    "alliance_id": 99013516,
+    "corporation_name": "The League of Tomination",
+    "alliance_name": "Mercenaires Sans Frontieres."
+  },
+  "top_killers": [
+    {
+      "id": 2118211681,
+      "name": "Tom Azwel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94699916,
+      "name": "Ayshland Sage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116521917,
+      "name": "Tom Harriet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heilash Natinde",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

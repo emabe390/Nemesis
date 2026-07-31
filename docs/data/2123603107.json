@@ -1,0 +1,52 @@
+{
+  "character_id": 2123603107,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 1854418554,
+    "name": "braque inis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752641,
+    "alliance_id": null,
+    "corporation_name": "Veldspar preservation society",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1854418554,
+      "name": "braque inis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115023340,
+      "name": "Character 2115023340",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120833050,
+      "name": "PalOtto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90726921,
+      "name": "shiro Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VI Exo",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

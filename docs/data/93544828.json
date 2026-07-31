@@ -1,0 +1,40 @@
+{
+  "character_id": 93544828,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 179004085,
+    "name": "Peter Powers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1664427021,
+    "alliance_id": 99000818,
+    "corporation_name": "Terrorists of Dimensions",
+    "alliance_name": "HORSE-KILLERS"
+  },
+  "top_killers": [
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122880279,
+      "name": "Space Skipper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rachel Ironhand",
+  "corporation_id": 98191827,
+  "alliance_id": null,
+  "corporation_name": "M.H.S.F.P.T.C.P.G.A.W.T.D.O.T.G.T.",
+  "alliance_name": null
+}

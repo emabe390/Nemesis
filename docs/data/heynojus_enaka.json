@@ -1,0 +1,46 @@
+{
+  "character_id": 2123169569,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 977054475,
+    "name": "Manfred Stahler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91960700,
+      "name": "Rintaro Okabe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92963832,
+      "name": "Shaftmaster Mastershafts",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1049813482,
+      "name": "Chung Mu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heynojus Enaka",
+  "corporation_id": 1116537731,
+  "alliance_id": 99010877,
+  "corporation_name": "Per astera ad astra",
+  "alliance_name": "Out of the Blue."
+}

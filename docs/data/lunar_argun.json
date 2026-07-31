@@ -1,0 +1,46 @@
+{
+  "character_id": 94235843,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93644993,
+    "name": "Hiashi Yenzyne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98773416,
+    "alliance_id": 1900696668,
+    "corporation_name": "Primal Instinct Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93644993,
+      "name": "Hiashi Yenzyne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117518049,
+      "name": "Michael Marsh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95446734,
+      "name": "Aventon Carboda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123737223,
+      "name": "Asgerder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lunar Argun",
+  "corporation_id": 98294758,
+  "alliance_id": null,
+  "corporation_name": "Per mortem ad Astra",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123150721,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 137158743,
+    "name": "Hereric Miz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98224639,
+    "alliance_id": 99005678,
+    "corporation_name": "Dirt 'n' Glitter",
+    "alliance_name": "Local Is Primary"
+  },
+  "top_killers": [
+    {
+      "id": 137158743,
+      "name": "Hereric Miz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1775391574,
+      "name": "Prosum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123813623,
+      "name": "Yor Novak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Will Mofei",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

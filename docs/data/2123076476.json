@@ -1,0 +1,52 @@
+{
+  "character_id": 2123076476,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 136248154,
+    "name": "VOLOND",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98692241,
+    "alliance_id": null,
+    "corporation_name": "Wolfostan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 136248154,
+      "name": "VOLOND",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1838900137,
+      "name": "Gyro DuAquin1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115627390,
+      "name": "Lapras Ortik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117825129,
+      "name": "Mecha Omnissiah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120077299,
+      "name": "Vekillo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HoodieHeavy",
+  "corporation_id": 98024275,
+  "alliance_id": 99003214,
+  "corporation_name": "Rational Chaos Inc.",
+  "alliance_name": "Brave Collective"
+}

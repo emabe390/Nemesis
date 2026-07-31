@@ -1,0 +1,40 @@
+{
+  "character_id": 2114780940,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92221297,
+    "name": "sebastion black",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98666541,
+    "alliance_id": 99003581,
+    "corporation_name": "Tactical Feed.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 92221297,
+      "name": "sebastion black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112586870,
+      "name": "Rai Padecain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116438125,
+      "name": "Divina Astra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucuis Castus",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

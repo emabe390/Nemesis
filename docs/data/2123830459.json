@@ -1,0 +1,52 @@
+{
+  "character_id": 2123830459,
+  "total_losses": 39,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2115281690,
+    "name": "Myx Froggy",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115281690,
+      "name": "Myx Froggy",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121647722,
+      "name": "Cobby00",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92004354,
+      "name": "Teysha Blackblade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94896011,
+      "name": "Raingondo Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Graph Fiti",
+  "corporation_id": 98802001,
+  "alliance_id": 99010995,
+  "corporation_name": "Empyrean Academy",
+  "alliance_name": "Empyrean Edict"
+}

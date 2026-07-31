@@ -1,0 +1,40 @@
+{
+  "character_id": 2112672466,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 237502558,
+    "name": "Grynewald",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98474028,
+    "alliance_id": 1900696668,
+    "corporation_name": "Veni Vidi Vici Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 237502558,
+      "name": "Grynewald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 524776277,
+      "name": "Mulm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113754774,
+      "name": "Mudaro Rogers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adorin",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

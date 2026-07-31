@@ -1,0 +1,40 @@
+{
+  "character_id": 333827951,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90040710,
+    "name": "kryjak",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98034457,
+    "alliance_id": null,
+    "corporation_name": "Fear Factor Prototype",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90040710,
+      "name": "kryjak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118465788,
+      "name": "war bug",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122829684,
+      "name": "Mother Coyote",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coby Sav",
+  "corporation_id": 98595960,
+  "alliance_id": 99010240,
+  "corporation_name": "Ember Interstellar Inc.",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

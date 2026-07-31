@@ -1,0 +1,52 @@
+{
+  "character_id": 2123836910,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91240348,
+      "name": "Kentak Melida",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91786123,
+      "name": "KracKstar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1725592402,
+      "name": "Frogs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ante Ayls Riraille",
+  "corporation_id": 98742704,
+  "alliance_id": 99013541,
+  "corporation_name": "SARD College",
+  "alliance_name": "Fraternity Auxiliary"
+}

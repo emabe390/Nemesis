@@ -1,0 +1,52 @@
+{
+  "character_id": 2123342466,
+  "total_losses": 54,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 1304618249,
+    "name": "Hybrid Carlin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 954325053,
+    "alliance_id": 99005239,
+    "corporation_name": "Exiles of Chaos",
+    "alliance_name": "Balcora Gatekeepers"
+  },
+  "top_killers": [
+    {
+      "id": 1304618249,
+      "name": "Hybrid Carlin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1399438560,
+      "name": "Pymous",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1584529233,
+      "name": "Chaotic Panda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90741945,
+      "name": "Slanzh'va",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90886916,
+      "name": "Midas Bartholomew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishtar Targaryen",
+  "corporation_id": 98525766,
+  "alliance_id": 99011223,
+  "corporation_name": "Vanguardia DR",
+  "alliance_name": "Sigma Grindset"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123721071,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113233546,
+    "name": "Sven Bauer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123351317,
+      "name": "The Zirninator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haskar Ostek",
+  "corporation_id": 98682702,
+  "alliance_id": 1900696668,
+  "corporation_name": "Vertex Armada",
+  "alliance_name": "The Initiative."
+}

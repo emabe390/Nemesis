@@ -1,0 +1,52 @@
+{
+  "character_id": 2119720820,
+  "total_losses": 51,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 2113065022,
+      "name": "Zed's Motorcycle",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91760414,
+      "name": "Freya Alabel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Elemfield",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

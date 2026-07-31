@@ -1,0 +1,40 @@
+{
+  "character_id": 2124278760,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94832397,
+    "name": "Lion Drome",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 94832397,
+      "name": "Lion Drome",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95335817,
+      "name": "Raglabas Bedklavar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skar Osmon",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

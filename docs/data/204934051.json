@@ -1,0 +1,40 @@
+{
+  "character_id": 204934051,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1870581767,
+    "name": "Dark Ducki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1870581767,
+      "name": "Dark Ducki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Conservation Program",
+  "corporation_id": 98005120,
+  "alliance_id": 1900696668,
+  "corporation_name": "Brittas Empire",
+  "alliance_name": "The Initiative."
+}

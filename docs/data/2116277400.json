@@ -1,0 +1,52 @@
+{
+  "character_id": 2116277400,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2112261889,
+    "name": "Harrold Oramara",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806658,
+    "alliance_id": null,
+    "corporation_name": "Xelrak Enclave",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112261889,
+      "name": "Harrold Oramara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113270573,
+      "name": "Joey Belvar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95222045,
+      "name": "jsaunders saunders",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96247520,
+      "name": "Haemmer Oramara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96849371,
+      "name": "Erdinhok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drasius Rift",
+  "corporation_id": 98776729,
+  "alliance_id": 99013390,
+  "corporation_name": "Tidal Lock",
+  "alliance_name": "Vapor-Lock"
+}

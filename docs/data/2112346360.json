@@ -1,0 +1,52 @@
+{
+  "character_id": 2112346360,
+  "total_losses": 43,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90401753,
+      "name": "Casha Andven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90570479,
+      "name": "Broseph Manmatar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91035048,
+      "name": "Lucy Alfrir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brooke Roden",
+  "corporation_id": 424525976,
+  "alliance_id": 99009927,
+  "corporation_name": "Criterion.",
+  "alliance_name": "Deepwater Hooligans"
+}

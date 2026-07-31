@@ -1,0 +1,52 @@
+{
+  "character_id": 2112344834,
+  "total_losses": 72,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2118951120,
+      "name": "Kilak Harza",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121777251,
+      "name": "GichRevived",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121927454,
+      "name": "Thick and hard",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Kato Cikaryc",
+  "corporation_id": 98595894,
+  "alliance_id": null,
+  "corporation_name": "SF Prom",
+  "alliance_name": null
+}

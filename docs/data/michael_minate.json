@@ -1,0 +1,52 @@
+{
+  "character_id": 2116295416,
+  "total_losses": 111,
+  "unique_killers": 82,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91786123,
+      "name": "KracKstar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91240348,
+      "name": "Kentak Melida",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91500692,
+      "name": "Old Shadowwalker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Michael Minate",
+  "corporation_id": 98816837,
+  "alliance_id": null,
+  "corporation_name": "Einherjar Foundation",
+  "alliance_name": null
+}

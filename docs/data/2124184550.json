@@ -1,0 +1,40 @@
+{
+  "character_id": 2124184550,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1548968926,
+    "name": "Chale'aan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1548968926,
+      "name": "Chale'aan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1963240456,
+      "name": "Biggles AU",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123020919,
+      "name": "I Forgot Who",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elfaen Caille",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

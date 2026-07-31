@@ -1,0 +1,52 @@
+{
+  "character_id": 2121292250,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2119333681,
+    "name": "astrx",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1297657426,
+    "alliance_id": 1354830081,
+    "corporation_name": "CBC Interstellar",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119333681,
+      "name": "astrx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90549811,
+      "name": "Wolfino",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96819178,
+      "name": "Corinnas flame",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 675157669,
+      "name": "Qudeta Partiz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charlie Katoro",
+  "corporation_id": 98744032,
+  "alliance_id": 99013537,
+  "corporation_name": "OTEX Special Forces",
+  "alliance_name": "Insidious."
+}

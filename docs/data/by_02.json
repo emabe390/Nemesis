@@ -1,0 +1,40 @@
+{
+  "character_id": 2123175294,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96644215,
+    "name": "Eggorych",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98488108,
+    "alliance_id": 1614483120,
+    "corporation_name": "Inoko incorporation",
+    "alliance_name": "Bright Side of Death"
+  },
+  "top_killers": [
+    {
+      "id": 96644215,
+      "name": "Eggorych",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 583926695,
+      "name": "Skillgannonn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BY-02",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

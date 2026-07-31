@@ -1,0 +1,52 @@
+{
+  "character_id": 2123812900,
+  "total_losses": 28,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2113845227,
+    "name": "Fury al-Shabazz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98685256,
+    "alliance_id": null,
+    "corporation_name": "Merdur Masheen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113845227,
+      "name": "Fury al-Shabazz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123294181,
+      "name": "Akipara Okanata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90974043,
+      "name": "Daniel Alpena",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91989146,
+      "name": "Milana Mark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95003469,
+      "name": "0strog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leondithas",
+  "corporation_id": 98457239,
+  "alliance_id": 99008985,
+  "corporation_name": "Tempered Aggression",
+  "alliance_name": "Seker Matar"
+}

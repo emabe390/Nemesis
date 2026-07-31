@@ -1,0 +1,34 @@
+{
+  "character_id": 2123859494,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123138120,
+      "name": "Artem S2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VIPER M",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

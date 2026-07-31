@@ -1,0 +1,34 @@
+{
+  "character_id": 2123051453,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123925416,
+    "name": "VIN-4",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837952,
+    "alliance_id": 99012122,
+    "corporation_name": "No Weather Here",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 2123925416,
+      "name": "VIN-4",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121077502,
+      "name": "Lord Yoshi Toranaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shovac Codel",
+  "corporation_id": 98763473,
+  "alliance_id": 99013212,
+  "corporation_name": "The Free Mining Alliance Refugees",
+  "alliance_name": "Crimson Interstellar Alliance"
+}

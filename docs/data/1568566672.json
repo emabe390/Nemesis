@@ -1,0 +1,40 @@
+{
+  "character_id": 1568566672,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121027256,
+    "name": "Strahlenkater",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98642009,
+    "alliance_id": 99013251,
+    "corporation_name": "Valentine Drone Design",
+    "alliance_name": "Circle of Vheroka"
+  },
+  "top_killers": [
+    {
+      "id": 2121027256,
+      "name": "Strahlenkater",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121152279,
+      "name": "Character 2121152279",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122196229,
+      "name": "Keith Aero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "hollywar",
+  "corporation_id": 98659809,
+  "alliance_id": null,
+  "corporation_name": "Private Mode",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123933370,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123933267,
+      "name": "sxjump0001",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123933329,
+      "name": "sxelec001",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "sxelec002",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

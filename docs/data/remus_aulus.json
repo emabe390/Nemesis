@@ -1,0 +1,52 @@
+{
+  "character_id": 2120302953,
+  "total_losses": 95,
+  "unique_killers": 79,
+  "nemesis": {
+    "id": 2124011344,
+    "name": "Cassia Orsellio",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98757033,
+    "alliance_id": null,
+    "corporation_name": "Umbra Hunters",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124011344,
+      "name": "Cassia Orsellio",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96374911,
+      "name": "Taylor Moon Mahyisti",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91517843,
+      "name": "Sam Chadelanne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92199037,
+      "name": "Kuzto Frelak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96106395,
+      "name": "Josh HDV5",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Remus Aulus",
+  "corporation_id": 98725367,
+  "alliance_id": 99014320,
+  "corporation_name": "Rift Watch",
+  "alliance_name": "Watchpoint"
+}

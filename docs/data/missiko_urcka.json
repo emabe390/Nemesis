@@ -1,0 +1,52 @@
+{
+  "character_id": 2122486536,
+  "total_losses": 44,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95970806,
+      "name": "Whiteout Voracis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 445755518,
+      "name": "Major Vincent",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Missiko Urcka",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

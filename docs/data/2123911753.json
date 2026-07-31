@@ -1,0 +1,46 @@
+{
+  "character_id": 2123911753,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114606780,
+    "name": "Wild Valenok",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662843,
+    "alliance_id": 99003557,
+    "corporation_name": "Interstellar Scum",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91833956,
+      "name": "Zent Alabel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95856180,
+      "name": "Morphi StormSeeker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113867207,
+      "name": "Natu Ral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KAN 001",
+  "corporation_id": 98762177,
+  "alliance_id": 99013675,
+  "corporation_name": "Destiny Bunys",
+  "alliance_name": "WhiteBlackCynoAlliance"
+}

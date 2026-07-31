@@ -1,0 +1,40 @@
+{
+  "character_id": 2114952377,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93500810,
+    "name": "James Pruitt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 953808580,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cloaked Goof",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93500810,
+      "name": "James Pruitt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120516093,
+      "name": "Sherrie Sky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bregesus Brigdin",
+  "corporation_id": 98548900,
+  "alliance_id": null,
+  "corporation_name": "Rookie Miners Coalition",
+  "alliance_name": null
+}

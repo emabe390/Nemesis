@@ -1,0 +1,40 @@
+{
+  "character_id": 2115058082,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122263187,
+    "name": "Fauux",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98825941,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kun-Lun",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122263187,
+      "name": "Fauux",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113065022,
+      "name": "Zed's Motorcycle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113291663,
+      "name": "Jonathan Apples",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Broodlord Garciaever",
+  "corporation_id": 98608254,
+  "alliance_id": 99003581,
+  "corporation_name": "Elysian Technologies Enclave",
+  "alliance_name": "Fraternity."
+}

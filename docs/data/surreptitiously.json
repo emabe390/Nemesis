@@ -1,0 +1,52 @@
+{
+  "character_id": 2123971889,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2119222039,
+    "name": "Koczer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119222039,
+      "name": "Koczer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122730568,
+      "name": "Lagtrain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123388006,
+      "name": "MadNick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93712073,
+      "name": "Donovan Aivoras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Surreptitiously",
+  "corporation_id": 248062481,
+  "alliance_id": null,
+  "corporation_name": "Spartan Industrial Manufacturing",
+  "alliance_name": null
+}

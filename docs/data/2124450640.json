@@ -1,0 +1,52 @@
+{
+  "character_id": 2124450640,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 422140620,
+    "name": "Khan Farshatok",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 544199803,
+    "alliance_id": 1727758877,
+    "corporation_name": "Macabre Votum",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 422140620,
+      "name": "Khan Farshatok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120409698,
+      "name": "sPACE BARRY",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93673127,
+      "name": "Jon Illat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Becky Kaname",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122200908,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116737842,
+    "name": "saber lv1",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98640194,
+    "alliance_id": 99014738,
+    "corporation_name": "Salted Fish Inc",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2116737842,
+      "name": "saber lv1",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113005327,
+      "name": "Akrios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114556556,
+      "name": "todd XDH-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122200908",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

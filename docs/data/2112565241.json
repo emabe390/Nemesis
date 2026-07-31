@@ -1,0 +1,52 @@
+{
+  "character_id": 2112565241,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1211665345,
+    "name": "Goremaker 2",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780082,
+    "alliance_id": null,
+    "corporation_name": "Blue Shadow Guard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1211665345,
+      "name": "Goremaker 2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92838401,
+      "name": "Roger Y0ung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112229096,
+      "name": "Dejmon Goro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115452828,
+      "name": "Hoot Has",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Azari Dragon",
+  "corporation_id": 98796236,
+  "alliance_id": 99012513,
+  "corporation_name": "Free Mercenary Space Corporation",
+  "alliance_name": "Tavern 4Crabs"
+}

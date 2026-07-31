@@ -1,0 +1,52 @@
+{
+  "character_id": 762471180,
+  "total_losses": 108,
+  "unique_killers": 97,
+  "nemesis": {
+    "id": 2122504209,
+    "name": "003 Guardian",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122504209,
+      "name": "003 Guardian",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93234697,
+      "name": "ChinDownEyesUp Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Arakk",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

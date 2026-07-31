@@ -1,0 +1,40 @@
+{
+  "character_id": 1144544264,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 712964505,
+    "name": "Tewilligar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1047198910,
+    "alliance_id": 99014163,
+    "corporation_name": "Operational Urban Zion Order",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 712964505,
+      "name": "Tewilligar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115815772,
+      "name": "Character 2115815772",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123273499,
+      "name": "firefly-02",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Naraei",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120005478,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120037091,
+    "name": "TestoSlaine",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98684420,
+    "alliance_id": 99011416,
+    "corporation_name": "Silent Vale",
+    "alliance_name": "LinkNet"
+  },
+  "top_killers": [
+    {
+      "id": 2120037091,
+      "name": "TestoSlaine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122351384,
+      "name": "Ernaras Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "zCez",
+  "corporation_id": 98454925,
+  "alliance_id": 1354830081,
+  "corporation_name": "Blackwater Task Forces",
+  "alliance_name": "Goonswarm Federation"
+}

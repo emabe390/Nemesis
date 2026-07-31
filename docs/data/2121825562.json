@@ -1,0 +1,52 @@
+{
+  "character_id": 2121825562,
+  "total_losses": 24,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2121071782,
+    "name": "VooDooXFalcon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98037408,
+    "alliance_id": null,
+    "corporation_name": "Corp name already in use",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121071782,
+      "name": "VooDooXFalcon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92010825,
+      "name": "Elbow Star's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94053076,
+      "name": "Ahab Svarog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115000757,
+      "name": "Moist Lipwig",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cyperium",
+  "corporation_id": 98798932,
+  "alliance_id": 99014978,
+  "corporation_name": "Ore and Order",
+  "alliance_name": "freie Flotte"
+}

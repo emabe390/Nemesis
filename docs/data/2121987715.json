@@ -1,0 +1,52 @@
+{
+  "character_id": 2121987715,
+  "total_losses": 98,
+  "unique_killers": 75,
+  "nemesis": {
+    "id": 159280380,
+    "name": "Hans I",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98779121,
+    "alliance_id": 99014341,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2116921386,
+      "name": "BK MBG",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2112555689,
+      "name": "Excalibur Asuna",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112798173,
+      "name": "BAPTISTHE",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121669649,
+      "name": "Vesnow",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Avriumora",
+  "corporation_id": 98807127,
+  "alliance_id": null,
+  "corporation_name": "Corinthian Commune",
+  "alliance_name": null
+}

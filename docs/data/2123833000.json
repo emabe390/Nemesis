@@ -1,0 +1,40 @@
+{
+  "character_id": 2123833000,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 474017017,
+    "name": "Enthorn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809108,
+    "alliance_id": 99009324,
+    "corporation_name": "336ers",
+    "alliance_name": "Wardec Mechanics"
+  },
+  "top_killers": [
+    {
+      "id": 474017017,
+      "name": "Enthorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123820178,
+      "name": "Murasaki Yoru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vydrachka",
+  "corporation_id": 98815705,
+  "alliance_id": null,
+  "corporation_name": "Placid Berner Farmers",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 91878760,
+  "total_losses": 32,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 92530216,
+    "name": "Paddy McDougle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000006,
+    "alliance_id": null,
+    "corporation_name": "Deep Core Mining Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92530216,
+      "name": "Paddy McDougle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90349988,
+      "name": "Branden Fort SENebula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90518626,
+      "name": "Gul Rivok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91343821,
+      "name": "Valen Craft",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91539465,
+      "name": "Character 91539465",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yogi Kion",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

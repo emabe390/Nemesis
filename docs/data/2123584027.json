@@ -1,0 +1,52 @@
+{
+  "character_id": 2123584027,
+  "total_losses": 68,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120893024,
+      "name": "Selene Verran",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90367348,
+      "name": "Charles Issier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95127862,
+      "name": "TabiNoTochuu Okanata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 741497342,
+      "name": "Snake UA",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Iegon",
+  "corporation_id": 98828846,
+  "alliance_id": null,
+  "corporation_name": "Broke Boys",
+  "alliance_name": null
+}

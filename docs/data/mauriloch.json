@@ -1,0 +1,52 @@
+{
+  "character_id": 2121305764,
+  "total_losses": 20,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 171275010,
+    "name": "Satana",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 171275010,
+      "name": "Satana",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 341108813,
+      "name": "Gareitonis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90033823,
+      "name": "Shoza'nax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90165208,
+      "name": "Travis117",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 118255555,
+      "name": "KAA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mauriloch",
+  "corporation_id": 98807921,
+  "alliance_id": null,
+  "corporation_name": "Ferro Extraction and Devastation Express",
+  "alliance_name": null
+}

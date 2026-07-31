@@ -1,0 +1,52 @@
+{
+  "character_id": 96622025,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94631050,
+      "name": "Stephan Weidner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94827841,
+      "name": "Cheese Grilled",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Surt Alexander",
+  "corporation_id": 98790508,
+  "alliance_id": 99014050,
+  "corporation_name": "Moonlight Mouse Hole",
+  "alliance_name": "Lunar Luminescence"
+}

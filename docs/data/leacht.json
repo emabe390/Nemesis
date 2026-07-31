@@ -1,0 +1,52 @@
+{
+  "character_id": 2123725620,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114156703,
+    "name": "MWR NOX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 803493697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Bohemian Veterans",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114156703,
+      "name": "MWR NOX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1147504430,
+      "name": "Opel Manta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116680658,
+      "name": "Character 2116680658",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leacht",
+  "corporation_id": 98812622,
+  "alliance_id": null,
+  "corporation_name": "Croissant Corp",
+  "alliance_name": null
+}

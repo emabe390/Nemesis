@@ -1,0 +1,52 @@
+{
+  "character_id": 2123810170,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123788448,
+    "name": "GoldArc",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98698983,
+    "alliance_id": 99012122,
+    "corporation_name": "Scan Stakan",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 2123788448,
+      "name": "GoldArc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94019721,
+      "name": "Black Anette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94932558,
+      "name": "ragabash Aurgnet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95567507,
+      "name": "Rogvolod Gorlex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114731739,
+      "name": "Ash Vitaker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atehno",
+  "corporation_id": 98813850,
+  "alliance_id": null,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": null
+}

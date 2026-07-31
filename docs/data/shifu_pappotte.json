@@ -1,0 +1,46 @@
+{
+  "character_id": 2114902161,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121139162,
+      "name": "Metatarsalgia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118628569,
+      "name": "Character 2118628569",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shifu Pappotte",
+  "corporation_id": 98776703,
+  "alliance_id": 99013799,
+  "corporation_name": "Isolated Oasis",
+  "alliance_name": "Independent Enclave"
+}

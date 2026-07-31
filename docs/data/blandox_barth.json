@@ -1,0 +1,52 @@
+{
+  "character_id": 2118122864,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 93090511,
+    "name": "Anubis Aureus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98337364,
+    "alliance_id": 99010240,
+    "corporation_name": "Aucaedu Unlimited",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 93090511,
+      "name": "Anubis Aureus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116388907,
+      "name": "Richard Swasey",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90330206,
+      "name": "Fibik Android",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94617634,
+      "name": "Great Cersei",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blandox Barth",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

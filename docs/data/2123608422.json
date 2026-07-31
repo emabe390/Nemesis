@@ -1,0 +1,52 @@
+{
+  "character_id": 2123608422,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 127181490,
+    "name": "Delanhunt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122002499,
+      "name": "Anita Ship",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95636243,
+      "name": "Harkonne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anaconda2",
+  "corporation_id": 98758015,
+  "alliance_id": null,
+  "corporation_name": "Argent Vanguard",
+  "alliance_name": null
+}

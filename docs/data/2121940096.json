@@ -1,0 +1,34 @@
+{
+  "character_id": 2121940096,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116054620,
+    "name": "Kush Alien",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116054620,
+      "name": "Kush Alien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115124409,
+      "name": "Hela Sebies",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adeanna Pie",
+  "corporation_id": 98749901,
+  "alliance_id": 99010004,
+  "corporation_name": "Gold Moon Industries",
+  "alliance_name": "DammFam"
+}

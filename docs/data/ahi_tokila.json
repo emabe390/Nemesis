@@ -1,0 +1,52 @@
+{
+  "character_id": 2123460858,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 961524632,
+    "name": "Character 961524632",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98186730,
+    "alliance_id": 1354830081,
+    "corporation_name": "Brothers of Tyr",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 961524632,
+      "name": "Character 961524632",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95116978,
+      "name": "Apeman Spaceman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 693863860,
+      "name": "2Shae",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahi Tokila",
+  "corporation_id": 98110767,
+  "alliance_id": 1042504553,
+  "corporation_name": "Lisnave",
+  "alliance_name": "Solyaris Chtonium"
+}

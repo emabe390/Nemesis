@@ -1,0 +1,52 @@
+{
+  "character_id": 2123423172,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1502160986,
+    "name": "Nenharma Hayabuza",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1502160986,
+      "name": "Nenharma Hayabuza",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96246748,
+      "name": "Tiger space Thedark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1839909858,
+      "name": "Deathwish Drang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113987818,
+      "name": "Shinobu Re",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114284744,
+      "name": "hisaka Ahishatsu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VasapeI",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

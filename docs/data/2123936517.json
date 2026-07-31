@@ -1,0 +1,52 @@
+{
+  "character_id": 2123936517,
+  "total_losses": 57,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2121833083,
+    "name": "Swarozhich",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98818209,
+    "alliance_id": null,
+    "corporation_name": "Night falcons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121833083,
+      "name": "Swarozhich",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94744686,
+      "name": "Arthem Fokusnik",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115212381,
+      "name": "Neo Zurab",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121592256,
+      "name": "Jean-Claude Jump Clone",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90974906,
+      "name": "DANGERUS4U DEAD",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123936517",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

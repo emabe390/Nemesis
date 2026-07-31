@@ -1,0 +1,52 @@
+{
+  "character_id": 2123456876,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116438814,
+    "name": "Sik4tric3",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2116438814,
+      "name": "Sik4tric3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117186823,
+      "name": "Sweaty Boatman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92089166,
+      "name": "Egoiste Aele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1421525175,
+      "name": "Wes S",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aras Ikas Aivoras",
+  "corporation_id": 98055531,
+  "alliance_id": 99010877,
+  "corporation_name": "Epidemic.",
+  "alliance_name": "Out of the Blue."
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2122172422,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121976750,
+    "name": "TuxHunt",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 98834183,
+    "alliance_id": 99009163,
+    "corporation_name": "Last Warning BR",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2121976750,
+      "name": "TuxHunt",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 2116356413,
+      "name": "WazaCommands OWazabi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TuxParrot",
+  "corporation_id": 98743592,
+  "alliance_id": 99010079,
+  "corporation_name": "PulaleeroyBr Incursions",
+  "alliance_name": "Brave United"
+}

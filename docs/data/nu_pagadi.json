@@ -1,0 +1,52 @@
+{
+  "character_id": 2113791776,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 900491443,
+    "name": "Count Gunnar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234259884,
+    "alliance_id": 154104258,
+    "corporation_name": "Vesuvian Fleet",
+    "alliance_name": "Apocalypse Now."
+  },
+  "top_killers": [
+    {
+      "id": 900491443,
+      "name": "Count Gunnar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117071903,
+      "name": "Hurmere Ossel Viliana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120044930,
+      "name": "TrueCorsar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020533,
+      "name": "Pao San",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95745932,
+      "name": "Bratney Spares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nu Pagadi",
+  "corporation_id": 98472643,
+  "alliance_id": null,
+  "corporation_name": "Nineteen Inch Nails",
+  "alliance_name": null
+}

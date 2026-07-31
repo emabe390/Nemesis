@@ -1,0 +1,52 @@
+{
+  "character_id": 2123365094,
+  "total_losses": 16,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2124232722,
+    "name": "Miktav",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98817245,
+    "alliance_id": 99010877,
+    "corporation_name": "Ascensio Per Bellum",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2124232722,
+      "name": "Miktav",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 90015214,
+      "name": "Hire Sword",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95356461,
+      "name": "Ymenoa Merenet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 731398258,
+      "name": "Rossarii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 845792293,
+      "name": "Trytonx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MiktarEVE",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

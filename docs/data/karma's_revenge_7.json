@@ -1,0 +1,40 @@
+{
+  "character_id": 2123999791,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95025012,
+    "name": "Character 95025012",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98694116,
+    "alliance_id": 99006260,
+    "corporation_name": "Investtan Inc.",
+    "alliance_name": "The Republic."
+  },
+  "top_killers": [
+    {
+      "id": 95025012,
+      "name": "Character 95025012",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113284613,
+      "name": "Ra-Horakhty M'aat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118682811,
+      "name": "Luna Faye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KARMA'S REVENGE 7",
+  "corporation_id": 98158909,
+  "alliance_id": 99007335,
+  "corporation_name": "Sokar Syndicate",
+  "alliance_name": "Habitual Chaos"
+}

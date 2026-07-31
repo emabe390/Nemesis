@@ -1,0 +1,52 @@
+{
+  "character_id": 2123875207,
+  "total_losses": 51,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91814090,
+      "name": "Major Kusunagi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Andiox Sparrock",
+  "corporation_id": 98743227,
+  "alliance_id": 99013548,
+  "corporation_name": "Enigma Expanse",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

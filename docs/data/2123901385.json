@@ -1,0 +1,52 @@
+{
+  "character_id": 2123901385,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2115104200,
+    "name": "SAMSUNG KoreaCompany",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98617815,
+    "alliance_id": null,
+    "corporation_name": "Space Oddities Join Us",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115104200,
+      "name": "SAMSUNG KoreaCompany",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113888600,
+      "name": "nosuko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94129694,
+      "name": "Kel Ataru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1156615136,
+      "name": "Death Killer21",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maxie Telar",
+  "corporation_id": 98768799,
+  "alliance_id": 99013692,
+  "corporation_name": "Black Rats Securities",
+  "alliance_name": "Independent Miners Alliance"
+}

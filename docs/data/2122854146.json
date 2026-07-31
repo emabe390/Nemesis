@@ -1,0 +1,40 @@
+{
+  "character_id": 2122854146,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113258917,
+    "name": "Jack Oslo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98734694,
+    "alliance_id": 99010421,
+    "corporation_name": "Fish And Game",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2113258917,
+      "name": "Jack Oslo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115384504,
+      "name": "Character 2115384504",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bernina",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

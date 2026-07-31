@@ -1,0 +1,52 @@
+{
+  "character_id": 2123277175,
+  "total_losses": 51,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 703462502,
+    "name": "Potential Impact",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 703462502,
+      "name": "Potential Impact",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122596823,
+      "name": "WingedScherman",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94139398,
+      "name": "johnny mensink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114578953,
+      "name": "winter fild",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121526331,
+      "name": "darin ifrim",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Critical Control Point",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

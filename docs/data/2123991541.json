@@ -1,0 +1,52 @@
+{
+  "character_id": 2123991541,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 93292422,
+      "name": "Asper Agroman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94210135,
+      "name": "Dino Pellion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 322123027,
+      "name": "Makatozi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90825509,
+      "name": "Emphias Ramillion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Edis Allis Crendraven",
+  "corporation_id": 98083213,
+  "alliance_id": 99011137,
+  "corporation_name": "ISK REALLOCATION SERVICE",
+  "alliance_name": "Nebula Industries And Frozen Assets"
+}

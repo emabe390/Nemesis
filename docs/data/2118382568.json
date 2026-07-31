@@ -1,0 +1,34 @@
+{
+  "character_id": 2118382568,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121502055,
+    "name": "Kilrathi Hobbs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765391,
+    "alliance_id": null,
+    "corporation_name": "Heart of the Tiger",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121502055,
+      "name": "Kilrathi Hobbs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122085064,
+      "name": "Sarah Fluer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Abeltrat",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123725881,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120571208,
+    "name": "Amet Mellia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98242799,
+    "alliance_id": 99008816,
+    "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2120571208,
+      "name": "Amet Mellia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91503515,
+      "name": "Tim Lockenkopf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121182615,
+      "name": "Koshkadroid AAA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122101305,
+      "name": "Stursh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Downsenberg",
+  "corporation_id": 2036478771,
+  "alliance_id": 99013840,
+  "corporation_name": "Ocean Eleven",
+  "alliance_name": "Quietly Eerie"
+}

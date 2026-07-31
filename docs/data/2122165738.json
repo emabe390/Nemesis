@@ -1,0 +1,52 @@
+{
+  "character_id": 2122165738,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 416127123,
+    "name": "Character 416127123",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571973,
+    "alliance_id": null,
+    "corporation_name": "One Men Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 416127123,
+      "name": "Character 416127123",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 480163216,
+      "name": "Rellim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116160039,
+      "name": "Adam Bancroft",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120268989,
+      "name": "Qian-Ye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 147737191,
+      "name": "Piter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mittal Hunter",
+  "corporation_id": 98807451,
+  "alliance_id": 99009163,
+  "corporation_name": "Night Garden",
+  "alliance_name": "Dracarys."
+}

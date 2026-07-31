@@ -1,0 +1,34 @@
+{
+  "character_id": 2123641036,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1017918140,
+    "name": "Dead4ever",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 1017918140,
+      "name": "Dead4ever",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121650258,
+      "name": "Akasukis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varg Supergremlin",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

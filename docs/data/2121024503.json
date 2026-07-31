@@ -1,0 +1,40 @@
+{
+  "character_id": 2121024503,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1790811197,
+    "name": "ODD001",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000046,
+    "alliance_id": null,
+    "corporation_name": "Sebiestor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1790811197,
+      "name": "ODD001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95877576,
+      "name": "Kurama T7",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1139509268,
+      "name": "Neok1337",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Horde Miner 01",
+  "corporation_id": 635210548,
+  "alliance_id": 99003581,
+  "corporation_name": "Fusion Enterprises Ltd",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123880889,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 830785119,
+    "name": "Character 830785119",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98764904,
+    "alliance_id": null,
+    "corporation_name": "Fierce Guardians",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 830785119,
+      "name": "Character 830785119",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115445286,
+      "name": "Alex Okobnor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123194562,
+      "name": "Resa Eonire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avu Baird",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2117594243,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2112807765,
+    "name": "TC10086",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112807765,
+      "name": "TC10086",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122180761,
+      "name": "Ms Malaise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94804674,
+      "name": "Delta Zenochka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96930800,
+      "name": "Gertoni Macaroni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 229910116,
+      "name": "Punished One",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "synran",
+  "corporation_id": 98299671,
+  "alliance_id": 99008787,
+  "corporation_name": "Dark Chapter",
+  "alliance_name": "Transgress"
+}

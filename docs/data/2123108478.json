@@ -1,0 +1,40 @@
+{
+  "character_id": 2123108478,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92580440,
+    "name": "Merovingion Lionel",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1402249247,
+    "alliance_id": 99013548,
+    "corporation_name": "Lionel War Industries",
+    "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+  },
+  "top_killers": [
+    {
+      "id": 92580440,
+      "name": "Merovingion Lionel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115639479,
+      "name": "General Sumella Otsada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120112044,
+      "name": "DiggerD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leisure Nomad",
+  "corporation_id": 98823703,
+  "alliance_id": null,
+  "corporation_name": "Sweetspot at the Flatline",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123223668,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123402044,
+    "name": "Mauricio D",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 439257738,
+    "alliance_id": 1900696668,
+    "corporation_name": "Dead's Prostitutes",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123402044,
+      "name": "Mauricio D",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93126540,
+      "name": "Amorle Rynneth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112293808,
+      "name": "Panda PawPaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Guts D",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

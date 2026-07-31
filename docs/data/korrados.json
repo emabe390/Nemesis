@@ -1,0 +1,52 @@
+{
+  "character_id": 2123923949,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1625554655,
+    "name": "vanatoomas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98696236,
+    "alliance_id": 99013187,
+    "corporation_name": "Set Phasers To Malky",
+    "alliance_name": "The Obsidian Front - Reborn"
+  },
+  "top_killers": [
+    {
+      "id": 1625554655,
+      "name": "vanatoomas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2017199718,
+      "name": "FWC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92004354,
+      "name": "Teysha Blackblade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94682973,
+      "name": "Arras Tartarus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95031717,
+      "name": "Indira Alaine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Korrados",
+  "corporation_id": 98775248,
+  "alliance_id": null,
+  "corporation_name": "Z.E.D Industries",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123601099,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115525458,
+    "name": "Jumbi",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98837133,
+    "alliance_id": null,
+    "corporation_name": "Reckless Conduct",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115525458,
+      "name": "Jumbi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96308510,
+      "name": "Wayne Tsuru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123943094,
+      "name": "dodgebind",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 793703499,
+      "name": "Osaka Hibachi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112687816,
+      "name": "Enigmatica Goldberge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lexira Nemesis",
+  "corporation_id": 98807552,
+  "alliance_id": 99010468,
+  "corporation_name": "The Stellar Militia",
+  "alliance_name": "Weapons Of Mass Production."
+}

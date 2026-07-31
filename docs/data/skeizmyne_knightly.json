@@ -1,0 +1,40 @@
+{
+  "character_id": 2122280924,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121694378,
+    "name": "Character 2121694378",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94572188,
+      "name": "Blezk Yngstein Yahngschmitz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skeizmyne Knightly",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

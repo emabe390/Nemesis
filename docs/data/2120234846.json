@@ -1,0 +1,52 @@
+{
+  "character_id": 2120234846,
+  "total_losses": 36,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93021226,
+      "name": "Sona Harkness",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96293000,
+      "name": "Saval Bork",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 224846390,
+      "name": "Bluedagger",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dark Side Insane",
+  "corporation_id": 98746942,
+  "alliance_id": 99012021,
+  "corporation_name": "Nezlamni",
+  "alliance_name": "UA Fleets"
+}

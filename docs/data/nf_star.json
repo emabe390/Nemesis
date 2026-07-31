@@ -1,0 +1,52 @@
+{
+  "character_id": 2123984161,
+  "total_losses": 44,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2123878728,
+    "name": "NW Star",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123878728,
+      "name": "NW Star",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 475430891,
+      "name": "Character 475430891",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123137291,
+      "name": "Destroyer95",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92722482,
+      "name": "sLy809",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 322843081,
+      "name": "Felicia Ha'thor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NF Star",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

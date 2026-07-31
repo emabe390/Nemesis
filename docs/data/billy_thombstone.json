@@ -1,0 +1,40 @@
+{
+  "character_id": 2121714360,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118493830,
+    "name": "THEBEAST007",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2118493830,
+      "name": "THEBEAST007",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115522631,
+      "name": "AsperuS Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Billy Thombstone",
+  "corporation_id": 98552432,
+  "alliance_id": 99013766,
+  "corporation_name": "Hijos de la Luna",
+  "alliance_name": "Death Legion of Capybaras"
+}

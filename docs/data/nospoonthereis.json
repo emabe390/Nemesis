@@ -1,0 +1,52 @@
+{
+  "character_id": 2123666930,
+  "total_losses": 100,
+  "unique_killers": 70,
+  "nemesis": {
+    "id": 507459428,
+    "name": "Pippan",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98427793,
+    "alliance_id": null,
+    "corporation_name": "MongStars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 507459428,
+      "name": "Pippan",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2123857286,
+      "name": "FlerpHerpNoBalls",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "NoSpoonThereIs",
+  "corporation_id": 98427793,
+  "alliance_id": null,
+  "corporation_name": "MongStars",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122157140,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115377208,
+    "name": "Mikhail Rokossovsky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 2115377208,
+      "name": "Mikhail Rokossovsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123115966,
+      "name": "Chthonaios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114131046,
+      "name": "Traitor Legioner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mikori Eto",
+  "corporation_id": 98785049,
+  "alliance_id": null,
+  "corporation_name": "FernWeh Holder",
+  "alliance_name": null
+}

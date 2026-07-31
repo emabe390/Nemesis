@@ -1,0 +1,46 @@
+{
+  "character_id": 2116876613,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 647388233,
+      "name": "John MacCoy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119090162,
+      "name": "Sylan Lynafil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Furavulpa",
+  "corporation_id": 2036478771,
+  "alliance_id": 99013840,
+  "corporation_name": "Ocean Eleven",
+  "alliance_name": "Quietly Eerie"
+}

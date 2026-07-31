@@ -1,0 +1,40 @@
+{
+  "character_id": 2123523346,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1225771468,
+    "name": "Anne Tesla",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 805828589,
+    "alliance_id": null,
+    "corporation_name": "Ice Fire Warriors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1225771468,
+      "name": "Anne Tesla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113160870,
+      "name": "Dr Clutch McSwagDaddy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121423978,
+      "name": "Fleulerute Chancel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caelestia Viator",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

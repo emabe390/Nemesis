@@ -1,0 +1,52 @@
+{
+  "character_id": 1842341244,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1966654071,
+    "name": "Plarder",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1150722203,
+    "alliance_id": 99015045,
+    "corporation_name": "The Minutemen",
+    "alliance_name": "H O S T I L E"
+  },
+  "top_killers": [
+    {
+      "id": 1966654071,
+      "name": "Plarder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96709117,
+      "name": "Rin12 Saissore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 610503325,
+      "name": "Haplopelma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117249060,
+      "name": "Ultralight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Anton Steiner",
+  "corporation_id": 98280176,
+  "alliance_id": 99014695,
+  "corporation_name": "Feuersturm am Rhein",
+  "alliance_name": "Blackout Protocol"
+}

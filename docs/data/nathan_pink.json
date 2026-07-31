@@ -1,0 +1,52 @@
+{
+  "character_id": 96641857,
+  "total_losses": 21,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 822515395,
+    "name": "Nammo",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115845789,
+      "name": "Naryami Cahya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nathan Pink",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

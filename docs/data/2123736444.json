@@ -1,0 +1,40 @@
+{
+  "character_id": 2123736444,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123736441,
+    "name": "1Bam",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98792929,
+    "alliance_id": null,
+    "corporation_name": "InfInItyZero",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123736441,
+      "name": "1Bam",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123736442,
+      "name": "1Asta",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123736467,
+      "name": "1Valeria",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "1Rhogar",
+  "corporation_id": 98792929,
+  "alliance_id": null,
+  "corporation_name": "InfInItyZero",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2121697763,
+  "total_losses": 15,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2112413465,
+      "name": "Sapco Trade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113669816,
+      "name": "Haika Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122288637,
+      "name": "Landon Leo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hundred Orchards",
+  "corporation_id": 98784923,
+  "alliance_id": 99013541,
+  "corporation_name": "The sky is falling apart",
+  "alliance_name": "Fraternity Auxiliary"
+}

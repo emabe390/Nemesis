@@ -1,0 +1,40 @@
+{
+  "character_id": 2122257491,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95156733,
+    "name": "Kilroy Erquilenne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1001562011,
+    "alliance_id": 99005338,
+    "corporation_name": "Sturmgrenadier Inc",
+    "alliance_name": "Pandemic Horde"
+  },
+  "top_killers": [
+    {
+      "id": 95156733,
+      "name": "Kilroy Erquilenne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119928794,
+      "name": "Er Taron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112340774,
+      "name": "Domnie Mojadesko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jiraiya Shanril",
+  "corporation_id": 98743381,
+  "alliance_id": null,
+  "corporation_name": "Shanril Proving Ground",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115178247,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1344528831,
+    "name": "Black Clouds",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": null,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1344528831,
+      "name": "Black Clouds",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123168091,
+      "name": "On fire tome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 153470818,
+      "name": "Bilgen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1514788630,
+      "name": "starjoke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fema Unbrella",
+  "corporation_id": 98603144,
+  "alliance_id": null,
+  "corporation_name": "FSG WH Space Control",
+  "alliance_name": null
+}

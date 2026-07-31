@@ -1,0 +1,40 @@
+{
+  "character_id": 2123787722,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 680045603,
+    "name": "Gordin Brott",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777143,
+    "alliance_id": 99012847,
+    "corporation_name": "Huvilma Sentinels",
+    "alliance_name": "GunFam"
+  },
+  "top_killers": [
+    {
+      "id": 680045603,
+      "name": "Gordin Brott",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 337840305,
+      "name": "Malarkai Densuri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shen De Shadows",
+  "corporation_id": 98814210,
+  "alliance_id": null,
+  "corporation_name": "Tactical Resource Aquisition Strategic Holdings",
+  "alliance_name": null
+}

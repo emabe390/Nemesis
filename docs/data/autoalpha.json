@@ -1,0 +1,40 @@
+{
+  "character_id": 2123292905,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96707527,
+    "name": "Inara Boirelle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96707527,
+      "name": "Inara Boirelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2017931313,
+      "name": "Harks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115200727,
+      "name": "Korr Antares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AutoAlpha",
+  "corporation_id": 98811586,
+  "alliance_id": 99013665,
+  "corporation_name": "Collapse Theory",
+  "alliance_name": "Hole In the Wall"
+}

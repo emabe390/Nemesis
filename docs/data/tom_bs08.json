@@ -1,0 +1,52 @@
+{
+  "character_id": 2124231536,
+  "total_losses": 18,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123562529,
+    "name": "Gen-X-Warrior",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98787030,
+    "alliance_id": 99003581,
+    "corporation_name": "Rev3nants Wrath",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123562529,
+      "name": "Gen-X-Warrior",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 207184845,
+      "name": "Dark Entity",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 912473868,
+      "name": "kondor mulari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 995296018,
+      "name": "Inues",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1258486687,
+      "name": "Astraphel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tom-BS08",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

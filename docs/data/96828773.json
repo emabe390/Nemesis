@@ -1,0 +1,52 @@
+{
+  "character_id": 96828773,
+  "total_losses": 23,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 96540672,
+    "name": "Harry Pottah",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96540672,
+      "name": "Harry Pottah",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Frag Yourself",
+  "corporation_id": 98261004,
+  "alliance_id": 99003285,
+  "corporation_name": "Union of independent miners and industrials",
+  "alliance_name": "WarDogs League"
+}

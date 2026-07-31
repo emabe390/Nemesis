@@ -1,0 +1,52 @@
+{
+  "character_id": 2123590456,
+  "total_losses": 44,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2120493310,
+    "name": "Myrroween",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98720121,
+    "alliance_id": 99007928,
+    "corporation_name": "Wild Ratels",
+    "alliance_name": "Wild Geese."
+  },
+  "top_killers": [
+    {
+      "id": 2120493310,
+      "name": "Myrroween",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123573436,
+      "name": "Arez Khardula",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95835700,
+      "name": "Ein Skrue Laus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 475500356,
+      "name": "Icuwarrior",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 749229524,
+      "name": "Alexingeras",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "sgt-helixions",
+  "corporation_id": 445471555,
+  "alliance_id": null,
+  "corporation_name": "Post Mortem Services",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123965104,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123896818,
+    "name": "Agent Tusk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98707288,
+    "alliance_id": null,
+    "corporation_name": "Totally Invested Industrys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123896818,
+      "name": "Agent Tusk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91076228,
+      "name": "Knap Trbovlje",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93803849,
+      "name": "onyx selko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119382109,
+      "name": "Den Quaker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120203208,
+      "name": "L1vent",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cinderella-EC3",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121237334,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1009853321,
+    "name": "Spirited",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 95425704,
+      "name": "Scarlet Lightsworn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116556798,
+      "name": "Tigg Irwin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "White Knight X",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

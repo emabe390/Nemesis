@@ -1,0 +1,40 @@
+{
+  "character_id": 2121869768,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 641794466,
+    "name": "Kilroy S",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123292379,
+      "name": "Chati Greatest",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92975654,
+      "name": "Jessica Harashi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sergei Vladimirovich Kuznetsov",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

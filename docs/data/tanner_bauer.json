@@ -1,0 +1,52 @@
+{
+  "character_id": 2123889252,
+  "total_losses": 409,
+  "unique_killers": 136,
+  "nemesis": {
+    "id": 2123578357,
+    "name": "PPBOOM",
+    "kill_count": 79,
+    "final_blows": 79,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123578357,
+      "name": "PPBOOM",
+      "kill_count": 79,
+      "final_blows": 79
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 27,
+      "final_blows": 27
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 10,
+      "final_blows": 10
+    }
+  ],
+  "character_name": "Tanner Bauer",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

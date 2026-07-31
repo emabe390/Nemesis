@@ -1,0 +1,52 @@
+{
+  "character_id": 2112549503,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123662314,
+    "name": "Rauschieve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123662314,
+      "name": "Rauschieve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96014951,
+      "name": "Abishai Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 175496796,
+      "name": "Tofum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112401952,
+      "name": "Character 2112401952",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116955190,
+      "name": "Lukas Naarii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sanger Zonvolt",
+  "corporation_id": 98773206,
+  "alliance_id": null,
+  "corporation_name": "Red Cow Inc.",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123588026,
+  "total_losses": 23,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 91755520,
+    "name": "Arthur Hellsing",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91755520,
+      "name": "Arthur Hellsing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90711855,
+      "name": "Juktus Groth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94410362,
+      "name": "Celestia Rackner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96018955,
+      "name": "Wolf2 Vipiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96269493,
+      "name": "Veran Shockblast",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taozz",
+  "corporation_id": 98808287,
+  "alliance_id": null,
+  "corporation_name": "State Peace Corporation",
+  "alliance_name": null
+}

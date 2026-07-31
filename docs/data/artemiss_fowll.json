@@ -1,0 +1,52 @@
+{
+  "character_id": 2119317296,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95476157,
+      "name": "Rotineque Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95736505,
+      "name": "Peri Cell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95848652,
+      "name": "Ceycey Cell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 113696106,
+      "name": "Saygo Takamori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artemiss Fowll",
+  "corporation_id": 1722847451,
+  "alliance_id": 1220922756,
+  "corporation_name": "Bad Robot Inc.",
+  "alliance_name": "Red Alliance"
+}

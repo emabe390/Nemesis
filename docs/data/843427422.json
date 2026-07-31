@@ -1,0 +1,40 @@
+{
+  "character_id": 843427422,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113409641,
+    "name": "GrayHeart",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2113409641,
+      "name": "GrayHeart",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120739029,
+      "name": "Imonainen Endashi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123647764,
+      "name": "BlapFun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mrs VMax",
+  "corporation_id": 1150132683,
+  "alliance_id": null,
+  "corporation_name": "The Midgley Intiative",
+  "alliance_name": null
+}

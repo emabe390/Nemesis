@@ -1,0 +1,40 @@
+{
+  "character_id": 2123019293,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 788926772,
+    "name": "Maetan Vagn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798199,
+    "alliance_id": 99010468,
+    "corporation_name": "SunDog Mutineers",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 788926772,
+      "name": "Maetan Vagn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118597159,
+      "name": "Sidewaze",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124106641,
+      "name": "Kai Ashur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Knockoff Kratos",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

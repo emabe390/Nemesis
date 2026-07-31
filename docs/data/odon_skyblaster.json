@@ -1,0 +1,52 @@
+{
+  "character_id": 2123153679,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 513992227,
+    "name": "Odon Skyrunner",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 513992227,
+      "name": "Odon Skyrunner",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 91357120,
+      "name": "Bishop Tipple",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 421457993,
+      "name": "Brucarius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 769261414,
+      "name": "Zylithi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Odon Skyblaster",
+  "corporation_id": 98765257,
+  "alliance_id": 99010079,
+  "corporation_name": "Sky Turkey Inc.",
+  "alliance_name": "Brave United"
+}

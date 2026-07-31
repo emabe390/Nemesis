@@ -1,0 +1,46 @@
+{
+  "character_id": 2124015809,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112977167,
+    "name": "Revolving Hemoplague",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98298439,
+    "alliance_id": 99011268,
+    "corporation_name": "Evian Industries",
+    "alliance_name": "Reeloaded."
+  },
+  "top_killers": [
+    {
+      "id": 2112977167,
+      "name": "Revolving Hemoplague",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116484411,
+      "name": "Argyrosaurus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117259424,
+      "name": "Aurf Madullier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arvoras Toralen",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

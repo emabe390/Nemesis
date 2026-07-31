@@ -1,0 +1,40 @@
+{
+  "character_id": 2123801429,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1545116664,
+    "name": "suur karu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98517836,
+    "alliance_id": 99010325,
+    "corporation_name": "Bloodhorn",
+    "alliance_name": "Patchwork Freelancers"
+  },
+  "top_killers": [
+    {
+      "id": 1545116664,
+      "name": "suur karu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122589343,
+      "name": "Belka Tarahtelka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123741977,
+      "name": "Rovek Drenin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MarcoPolo EndPoint",
+  "corporation_id": 98795177,
+  "alliance_id": 99007629,
+  "corporation_name": "RU-ADAMANT",
+  "alliance_name": "Ferrata Victrix"
+}

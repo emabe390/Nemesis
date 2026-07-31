@@ -1,0 +1,40 @@
+{
+  "character_id": 2124391390,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124391375,
+    "name": "Dazhe'ne Vspotela",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98833961,
+    "alliance_id": null,
+    "corporation_name": "Potnaya Galaktika",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124391375,
+      "name": "Dazhe'ne Vspotela",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Dazhe'ne Kryahtela",
+  "corporation_id": 98833961,
+  "alliance_id": null,
+  "corporation_name": "Potnaya Galaktika",
+  "alliance_name": null
+}

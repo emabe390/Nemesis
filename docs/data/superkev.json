@@ -1,0 +1,40 @@
+{
+  "character_id": 2124419744,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1009853321,
+    "name": "Spirited",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120481908,
+      "name": "Akora Itiya Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124419744,
+      "name": "SuperKev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SuperKev",
+  "corporation_id": 98244982,
+  "alliance_id": null,
+  "corporation_name": "Die Woge des Wahnsinns",
+  "alliance_name": null
+}

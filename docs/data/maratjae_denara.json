@@ -1,0 +1,40 @@
+{
+  "character_id": 2119606124,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117501011,
+    "name": "Character 2117501011",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 2117501011,
+      "name": "Character 2117501011",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 859743528,
+      "name": "Draconus Rex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119558251,
+      "name": "C-o-m-a-n-d-a-n-t-e",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maratjae Denara",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

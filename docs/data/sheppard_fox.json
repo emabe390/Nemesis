@@ -1,0 +1,40 @@
+{
+  "character_id": 2123152894,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95200626,
+    "name": "Deli Ahishatsu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95200626,
+      "name": "Deli Ahishatsu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94843529,
+      "name": "Fenrir Nordson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117311648,
+      "name": "Doov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sheppard Fox",
+  "corporation_id": 98790597,
+  "alliance_id": 99012664,
+  "corporation_name": "Bad Bunnys",
+  "alliance_name": "Recursive Horizons"
+}

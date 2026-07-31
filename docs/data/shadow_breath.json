@@ -1,0 +1,40 @@
+{
+  "character_id": 1586326404,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1586326404,
+    "name": "Shadow Breath",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98750990,
+    "alliance_id": null,
+    "corporation_name": "New Eden Exploration and Uprising Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1586326404,
+      "name": "Shadow Breath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119512062,
+      "name": "Cassilda Chambers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadow Breath",
+  "corporation_id": 98750990,
+  "alliance_id": 99010756,
+  "corporation_name": "New Eden Exploration and Uprising Syndicate",
+  "alliance_name": "Pretenders"
+}

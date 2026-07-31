@@ -1,0 +1,52 @@
+{
+  "character_id": 2123789784,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115476943,
+    "name": "T zhong",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798876,
+    "alliance_id": 99009927,
+    "corporation_name": "Family Guy.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2115476943,
+      "name": "T zhong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118465644,
+      "name": "Ottoman Hilux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1644138151,
+      "name": "Arcanier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115711384,
+      "name": "Olexis Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dream Shaper",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124495293,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94536168,
+    "name": "ValiKush",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 94536168,
+      "name": "ValiKush",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97119272,
+      "name": "Thomas Riipley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90501755,
+      "name": "James Ogeko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 570880456,
+      "name": "HighSeeress Arnarra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1522931526,
+      "name": "Splendorfire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jimmy Lin",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

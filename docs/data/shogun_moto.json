@@ -1,0 +1,52 @@
+{
+  "character_id": 102163350,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113984713,
+      "name": "xia erdai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119573022,
+      "name": "StarOmniknight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114371207,
+      "name": "Hello I'm good",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shogun Moto",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123420163,
+  "total_losses": 73,
+  "unique_killers": 56,
+  "nemesis": {
+    "id": 2122553306,
+    "name": "Chipsy King",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122553306,
+      "name": "Chipsy King",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90393747,
+      "name": "Gramps Pljugi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114009237,
+      "name": "Tito Baratito",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92521281,
+      "name": "Lt Lunar Lazair",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93500810,
+      "name": "James Pruitt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "White Worm",
+  "corporation_id": 98795971,
+  "alliance_id": 99013442,
+  "corporation_name": "Regal Bovine Investments",
+  "alliance_name": "The Frog Foundry"
+}

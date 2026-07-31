@@ -1,0 +1,34 @@
+{
+  "character_id": 2124049337,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123736306,
+    "name": "VoidEclipse",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98673001,
+    "alliance_id": 1727758877,
+    "corporation_name": "Space Beer Industry",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 2123736306,
+      "name": "VoidEclipse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122849876,
+      "name": "Blondie Emerald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nefriz",
+  "corporation_id": 98823349,
+  "alliance_id": null,
+  "corporation_name": "KSE corporation",
+  "alliance_name": null
+}

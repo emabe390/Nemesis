@@ -1,0 +1,40 @@
+{
+  "character_id": 2124335447,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 481275935,
+    "name": "Character 481275935",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98549888,
+    "alliance_id": 99009416,
+    "corporation_name": "Quiet Passenger",
+    "alliance_name": "THE BESTICLES"
+  },
+  "top_killers": [
+    {
+      "id": 481275935,
+      "name": "Character 481275935",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113820721,
+      "name": "Dain Tarkus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119508114,
+      "name": "Stefan Molymeme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bluu Jabez",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

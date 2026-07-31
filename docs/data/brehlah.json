@@ -1,0 +1,52 @@
+{
+  "character_id": 2120792075,
+  "total_losses": 19,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1510980275,
+      "name": "Count Vampiore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117837730,
+      "name": "GorillaEXP",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "BrehLah",
+  "corporation_id": 98819140,
+  "alliance_id": null,
+  "corporation_name": "Asteroid Addicts",
+  "alliance_name": null
+}

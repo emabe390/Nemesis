@@ -1,0 +1,52 @@
+{
+  "character_id": 2123763948,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 93730509,
+    "name": "Character 93730509",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98773416,
+    "alliance_id": 1900696668,
+    "corporation_name": "Primal Instinct Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93730509,
+      "name": "Character 93730509",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 400036390,
+      "name": "The Chairman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hayden Techno",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

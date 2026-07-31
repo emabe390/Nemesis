@@ -1,0 +1,40 @@
+{
+  "character_id": 2121959755,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121875145,
+    "name": "Akiko Danuja",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98775617,
+    "alliance_id": null,
+    "corporation_name": "Comitia Centuriata",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121875145,
+      "name": "Akiko Danuja",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122227308,
+      "name": "Chudila Normal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119229513,
+      "name": "Norima Anio Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KoT B H0cke",
+  "corporation_id": 98607337,
+  "alliance_id": null,
+  "corporation_name": "Fellow Travelers",
+  "alliance_name": null
+}

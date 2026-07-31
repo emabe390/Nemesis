@@ -1,0 +1,40 @@
+{
+  "character_id": 2123522835,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90434805,
+    "name": "SOLO Treis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 680022174,
+    "alliance_id": 1900696668,
+    "corporation_name": "DEFCON.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90434805,
+      "name": "SOLO Treis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 946402945,
+      "name": "Metanii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1033419524,
+      "name": "Hollis Hooper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crumb Daddy",
+  "corporation_id": 1184675423,
+  "alliance_id": 1354830081,
+  "corporation_name": "Amok.",
+  "alliance_name": "Goonswarm Federation"
+}

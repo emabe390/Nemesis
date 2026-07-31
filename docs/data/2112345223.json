@@ -1,0 +1,52 @@
+{
+  "character_id": 2112345223,
+  "total_losses": 55,
+  "unique_killers": 45,
+  "nemesis": {
+    "id": 2123899189,
+    "name": "Lucy Von Pointer",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98818036,
+    "alliance_id": null,
+    "corporation_name": "LVP LP STORE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123899189,
+      "name": "Lucy Von Pointer",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 649407838,
+      "name": "Mattsumoto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1159856067,
+      "name": "HikikomoriRD",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1568530872,
+      "name": "Dimitryy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119468513,
+      "name": "Yamon Airuta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lucy SkyDiamonds",
+  "corporation_id": 98517836,
+  "alliance_id": 99010325,
+  "corporation_name": "Bloodhorn",
+  "alliance_name": "Patchwork Freelancers"
+}

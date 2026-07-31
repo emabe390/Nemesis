@@ -1,0 +1,40 @@
+{
+  "character_id": 2119777962,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118465313,
+    "name": "Hauska",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98700577,
+    "alliance_id": 99011387,
+    "corporation_name": "WE ARE ZERGS",
+    "alliance_name": "ZERG REBORN"
+  },
+  "top_killers": [
+    {
+      "id": 2118465313,
+      "name": "Hauska",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92087955,
+      "name": "Mnda klentura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Commander ZVON",
+  "corporation_id": 98747987,
+  "alliance_id": 99010360,
+  "corporation_name": "Silence of Dark",
+  "alliance_name": "Empire of Legends"
+}

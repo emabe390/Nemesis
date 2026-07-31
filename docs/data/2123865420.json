@@ -1,0 +1,40 @@
+{
+  "character_id": 2123865420,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91609531,
+      "name": "ChaosDuke Mayhem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1678984740,
+      "name": "Wrateh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jyhess",
+  "corporation_id": 98595253,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order II",
+  "alliance_name": "Absolute Honor"
+}

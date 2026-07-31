@@ -1,0 +1,52 @@
+{
+  "character_id": 2123576189,
+  "total_losses": 165,
+  "unique_killers": 135,
+  "nemesis": {
+    "id": 2120835265,
+    "name": "Rip Fury",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98665607,
+    "alliance_id": null,
+    "corporation_name": "Them boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120835265,
+      "name": "Rip Fury",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2122745253,
+      "name": "91 mr A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 727382616,
+      "name": "Villa Strangiato",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90015214,
+      "name": "Hire Sword",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Saya Utama Oriki",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

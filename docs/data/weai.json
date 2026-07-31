@@ -1,0 +1,34 @@
+{
+  "character_id": 2122476002,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 617775431,
+    "name": "Svetlania",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 617775431,
+      "name": "Svetlania",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114226033,
+      "name": "Reapher SavG",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Weai",
+  "corporation_id": 98788649,
+  "alliance_id": null,
+  "corporation_name": "Droid.Corp",
+  "alliance_name": null
+}

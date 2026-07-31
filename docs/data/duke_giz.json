@@ -1,0 +1,52 @@
+{
+  "character_id": 771167050,
+  "total_losses": 23,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 304652582,
+    "name": "Malcolm Malicious",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767830,
+    "alliance_id": 1900696668,
+    "corporation_name": "Suddenly a Covert Cyno",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1068134108,
+      "name": "Mad Lurker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115134643,
+      "name": "Scar God Bantu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91009792,
+      "name": "Delgrin DelMont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91836904,
+      "name": "Count Darwin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duke Giz",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

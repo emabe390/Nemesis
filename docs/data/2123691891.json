@@ -1,0 +1,52 @@
+{
+  "character_id": 2123691891,
+  "total_losses": 23,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123642497,
+    "name": "Sai Odunen",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98811691,
+    "alliance_id": null,
+    "corporation_name": "The Femme Not Sees",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123642497,
+      "name": "Sai Odunen",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 96692872,
+      "name": "Nyx Zekhresaskue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96836341,
+      "name": "Character 96836341",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1771809185,
+      "name": "Darmarkus XI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113841977,
+      "name": "Rekoo King",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Philosoraptor",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

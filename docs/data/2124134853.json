@@ -1,0 +1,40 @@
+{
+  "character_id": 2124134853,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 151414886,
+    "name": "Storm Kintaro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98786083,
+    "alliance_id": 99014986,
+    "corporation_name": "Cosmic Nebula Cartel",
+    "alliance_name": "Kinetic Diplomacy"
+  },
+  "top_killers": [
+    {
+      "id": 151414886,
+      "name": "Storm Kintaro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121384611,
+      "name": "Jenson Blair",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121867305,
+      "name": "Garrett Bobby Ferguson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nhedjh",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

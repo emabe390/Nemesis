@@ -1,0 +1,34 @@
+{
+  "character_id": 2124472265,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96214637,
+    "name": "Caligulas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 96214637,
+      "name": "Caligulas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 728985543,
+      "name": "Jim Raigon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sorelia Vanhelsing",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123770670,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118743417,
+    "name": "Slippery Snake",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1031960637,
+    "alliance_id": 99013884,
+    "corporation_name": "Distant Horizons",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 2118743417,
+      "name": "Slippery Snake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92752958,
+      "name": "Dissection Bloodred",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118980004,
+      "name": "JET4K1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123468472,
+      "name": "Kader Renz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pork Pi",
+  "corporation_id": 98819771,
+  "alliance_id": null,
+  "corporation_name": "Ten Strange Men with Bob",
+  "alliance_name": null
+}

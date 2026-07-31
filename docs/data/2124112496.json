@@ -1,0 +1,52 @@
+{
+  "character_id": 2124112496,
+  "total_losses": 32,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 349446091,
+    "name": "Lukas almighty",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98067893,
+    "alliance_id": null,
+    "corporation_name": "The Phantom Regiment",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 349446091,
+      "name": "Lukas almighty",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115497151,
+      "name": "MG-COLA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122529211,
+      "name": "Prehonel Aynie Stetille",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Atlas Augustus",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

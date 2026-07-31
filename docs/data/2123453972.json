@@ -1,0 +1,46 @@
+{
+  "character_id": 2123453972,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116189792,
+    "name": "Revo Erkkinen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98671662,
+    "alliance_id": null,
+    "corporation_name": "Agonizers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116189792,
+      "name": "Revo Erkkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122410546,
+      "name": "Xing Fei Weir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123924263,
+      "name": "Funky Llama",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andius Legionarius",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

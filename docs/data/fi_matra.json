@@ -1,0 +1,40 @@
+{
+  "character_id": 2122895653,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93255000,
+    "name": "PROC3SS ELEVATED",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1776297047,
+      "name": "GrauW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121964728,
+      "name": "Pengo Dornov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fi Matra",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

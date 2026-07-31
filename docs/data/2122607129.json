@@ -1,0 +1,52 @@
+{
+  "character_id": 2122607129,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 432590883,
+    "name": "Battelstar1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98578193,
+    "alliance_id": 1900696668,
+    "corporation_name": "Freyja Syndicate",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 432590883,
+      "name": "Battelstar1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121277328,
+      "name": "Tatters",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 707134380,
+      "name": "Shenzen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1120051206,
+      "name": "Citinetty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115055454,
+      "name": "Yellow Jack",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ernst Von Tulip",
+  "corporation_id": 98815087,
+  "alliance_id": 99014495,
+  "corporation_name": "Tenebris Initiative",
+  "alliance_name": "Umbrella Initiative Alliance"
+}

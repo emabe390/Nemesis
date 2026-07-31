@@ -1,0 +1,52 @@
+{
+  "character_id": 2123654936,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94552952,
+      "name": "Metr deTorquemada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 957952295,
+      "name": "Jasandra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1392824908,
+      "name": "Bootleg Whammers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115635137,
+      "name": "Lili Tru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Detolace",
+  "corporation_id": 1722847451,
+  "alliance_id": 1220922756,
+  "corporation_name": "Bad Robot Inc.",
+  "alliance_name": "Red Alliance"
+}

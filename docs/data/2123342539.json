@@ -1,0 +1,40 @@
+{
+  "character_id": 2123342539,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96205731,
+    "name": "Robert Zateki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 96205731,
+      "name": "Robert Zateki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1511492146,
+      "name": "Thom Grimmar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115703033,
+      "name": "barashka yiii",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Garis Ford",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

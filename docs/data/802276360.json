@@ -1,0 +1,52 @@
+{
+  "character_id": 802276360,
+  "total_losses": 37,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120585828,
+      "name": "Kazk J'Ard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123582330,
+      "name": "Ryvixa Arylia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90021236,
+      "name": "Dimus1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90476915,
+      "name": "Dim Krug",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mitklan",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

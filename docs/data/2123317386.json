@@ -1,0 +1,40 @@
+{
+  "character_id": 2123317386,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1666018359,
+    "name": "Eta Kiwarp",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98092494,
+    "alliance_id": null,
+    "corporation_name": "Besra Overwatch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1666018359,
+      "name": "Eta Kiwarp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112089383,
+      "name": "Spyke Austrene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116170550,
+      "name": "Vuall Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alyshan",
+  "corporation_id": 98754011,
+  "alliance_id": 99013766,
+  "corporation_name": "Laddexperten",
+  "alliance_name": "Death Legion of Capybaras"
+}

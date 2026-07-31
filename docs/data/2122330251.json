@@ -1,0 +1,40 @@
+{
+  "character_id": 2122330251,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122318596,
+    "name": "Gonakairos Uta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781311,
+    "alliance_id": 99014187,
+    "corporation_name": "Dawn's LightP",
+    "alliance_name": "Dawn's Light"
+  },
+  "top_killers": [
+    {
+      "id": 2122318596,
+      "name": "Gonakairos Uta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1181492764,
+      "name": "SgtSlacker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1196060207,
+      "name": "Pimp Cane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BigKet",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

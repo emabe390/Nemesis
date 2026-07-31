@@ -1,0 +1,46 @@
+{
+  "character_id": 2123207488,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93590272,
+    "name": "Pumbler unknown",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98782470,
+    "alliance_id": null,
+    "corporation_name": "The Intrinsic Ones",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93590272,
+      "name": "Pumbler unknown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118465313,
+      "name": "Hauska",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118948983,
+      "name": "Kinori Utrigas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Malebene Kansene",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

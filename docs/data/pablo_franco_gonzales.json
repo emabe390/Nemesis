@@ -1,0 +1,34 @@
+{
+  "character_id": 2123783466,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95915934,
+    "name": "Delta Firestorm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98653604,
+    "alliance_id": 99010102,
+    "corporation_name": "The Blood Raiders Children's Charity",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pablo Franco Gonzales",
+  "corporation_id": 98704009,
+  "alliance_id": null,
+  "corporation_name": "Curators in Space",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123706306,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1505903908,
+    "name": "Tadalafil",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 1505903908,
+      "name": "Tadalafil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94244301,
+      "name": "Jonny Lee'Miller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117488712,
+      "name": "Sir Bongwater Hackalung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lysandre Solis",
+  "corporation_id": 98761380,
+  "alliance_id": 99005338,
+  "corporation_name": "Jabroni Containment Unit",
+  "alliance_name": "Pandemic Horde"
+}

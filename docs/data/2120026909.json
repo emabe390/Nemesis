@@ -1,0 +1,52 @@
+{
+  "character_id": 2120026909,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2118746200,
+    "name": "Muu Arr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98786824,
+    "alliance_id": null,
+    "corporation_name": "The Distracted Destroyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118746200,
+      "name": "Muu Arr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113244910,
+      "name": "HiFi HaiFai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115514516,
+      "name": "Turbo Tobbe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122381779,
+      "name": "Kayra Moon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123231846,
+      "name": "Kenzo Nakamoto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Forde Ikkala",
+  "corporation_id": 98823137,
+  "alliance_id": 99013723,
+  "corporation_name": "CONSUME PROTOCOL",
+  "alliance_name": "Dienstleistungen Kasallek"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121387255,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1426822819,
+    "name": "Star Crafter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810644,
+    "alliance_id": 99005178,
+    "corporation_name": "Echo Protocol",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 1426822819,
+      "name": "Star Crafter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124017552,
+      "name": "Ix Tli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92223941,
+      "name": "Kormik Deldaine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zmlok",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

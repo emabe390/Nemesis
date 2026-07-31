@@ -1,0 +1,40 @@
+{
+  "character_id": 2120115344,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95180270,
+    "name": "Character 95180270",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95180270,
+      "name": "Character 95180270",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2083443837,
+      "name": "Kugga'r",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Throngil Starhauler",
+  "corporation_id": 98715797,
+  "alliance_id": 99010240,
+  "corporation_name": "Belt Raiders.",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

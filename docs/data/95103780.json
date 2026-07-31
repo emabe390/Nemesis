@@ -1,0 +1,40 @@
+{
+  "character_id": 95103780,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119832221,
+      "name": "USB114541",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bleik Mekhar",
+  "corporation_id": 98718391,
+  "alliance_id": 99010004,
+  "corporation_name": "Guild of Independent Pilots",
+  "alliance_name": "DammFam"
+}

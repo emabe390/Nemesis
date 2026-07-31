@@ -1,0 +1,52 @@
+{
+  "character_id": 1938941201,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 5,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 5,
+      "final_blows": 0
+    },
+    {
+      "id": 1326040745,
+      "name": "Harknen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120927712,
+      "name": "Leyla2042",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122069136,
+      "name": "Yh'Nyz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123150828,
+      "name": "Palaziy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Triskul",
+  "corporation_id": 98830441,
+  "alliance_id": 99014362,
+  "corporation_name": "Blackwall Fortress",
+  "alliance_name": "Paws n Claws Collective"
+}

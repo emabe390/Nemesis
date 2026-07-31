@@ -1,0 +1,52 @@
+{
+  "character_id": 2123450691,
+  "total_losses": 48,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 90542575,
+    "name": "James Aeder",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98143374,
+    "alliance_id": 99000285,
+    "corporation_name": "DUST Expeditionary Team",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 90542575,
+      "name": "James Aeder",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95836181,
+      "name": "Julieta Chavez",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116716343,
+      "name": "Empowered BlackWoman",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119558901,
+      "name": "Nia Raven",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1236527453,
+      "name": "UncleGt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Stellar Genezis",
+  "corporation_id": 98804517,
+  "alliance_id": null,
+  "corporation_name": "Stellar Genezis Corporation",
+  "alliance_name": null
+}

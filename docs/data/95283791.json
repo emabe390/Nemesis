@@ -1,0 +1,52 @@
+{
+  "character_id": 95283791,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 90592224,
+    "name": "Ivan Guy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 90592224,
+      "name": "Ivan Guy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 604432340,
+      "name": "bauke jacob",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91204989,
+      "name": "Pickled cabbage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96079282,
+      "name": "Genik Piksi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96167215,
+      "name": "Posix Standard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kornalus",
+  "corporation_id": 98201246,
+  "alliance_id": 917526329,
+  "corporation_name": "College of Winterhold",
+  "alliance_name": "Death or Glory"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123902988,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 426707347,
+    "name": "Samantha Elroy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98658535,
+    "alliance_id": 99010889,
+    "corporation_name": "Disturbing Silence",
+    "alliance_name": "Disturbing Silence."
+  },
+  "top_killers": [
+    {
+      "id": 426707347,
+      "name": "Samantha Elroy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112994726,
+      "name": "Capitaine Melkan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Biru Usoko",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

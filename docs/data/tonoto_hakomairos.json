@@ -1,0 +1,52 @@
+{
+  "character_id": 2124380532,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1620588278,
+    "name": "Gonryu",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98375813,
+    "alliance_id": 99006495,
+    "corporation_name": "Belt Raider Inc.",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 1620588278,
+      "name": "Gonryu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90118723,
+      "name": "Dekubitus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120823013,
+      "name": "Xochy Kushat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121371065,
+      "name": "Parker Aubarris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90428742,
+      "name": "Maez Naadrin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tonoto Hakomairos",
+  "corporation_id": 98572597,
+  "alliance_id": 99011621,
+  "corporation_name": "Dynamite Collective",
+  "alliance_name": "Drop Dead Cartel"
+}

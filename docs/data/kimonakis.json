@@ -1,0 +1,52 @@
+{
+  "character_id": 2113137935,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 879966976,
+    "name": "Large shadow",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98373312,
+    "alliance_id": null,
+    "corporation_name": "Silence now",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 879966976,
+      "name": "Large shadow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95877280,
+      "name": "Ootep Nyaguy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 833004444,
+      "name": "DerOdin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112130453,
+      "name": "Erik Hanson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112413825,
+      "name": "cloez yang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "kimonakis",
+  "corporation_id": 1104020786,
+  "alliance_id": 1900696668,
+  "corporation_name": "Sons of Zeus.",
+  "alliance_name": "The Initiative."
+}

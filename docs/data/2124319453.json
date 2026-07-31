@@ -1,0 +1,40 @@
+{
+  "character_id": 2124319453,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 777953923,
+    "name": "Tad Lynch",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98823866,
+    "alliance_id": 99014467,
+    "corporation_name": "Tryggr Mining Independentents",
+    "alliance_name": "Empire's Edge Trading Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 777953923,
+      "name": "Tad Lynch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1636661347,
+      "name": "Aegis Angelica",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120628034,
+      "name": "Character 2120628034",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bjart Kring",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

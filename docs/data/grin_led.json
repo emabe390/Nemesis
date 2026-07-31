@@ -1,0 +1,34 @@
+{
+  "character_id": 2123360935,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90542475,
+    "name": "Hitonme Aivo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 668298004,
+    "alliance_id": 99003581,
+    "corporation_name": "Sacred Templars",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 90542475,
+      "name": "Hitonme Aivo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112259056,
+      "name": "Bloodwynova Devka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grin Led",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

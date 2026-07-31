@@ -1,0 +1,40 @@
+{
+  "character_id": 2119391504,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112700380,
+    "name": "Kahla Rhal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2112700380,
+      "name": "Kahla Rhal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123147736,
+      "name": "Yuki Ayaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1795835023,
+      "name": "Persidia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ITristan",
+  "corporation_id": 98833314,
+  "alliance_id": null,
+  "corporation_name": "Ukrainian Research Squadron",
+  "alliance_name": null
+}

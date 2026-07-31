@@ -1,0 +1,40 @@
+{
+  "character_id": 2118972050,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114562591,
+    "name": "Hold Seven",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98640194,
+    "alliance_id": 99014738,
+    "corporation_name": "Salted Fish Inc",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2114562591,
+      "name": "Hold Seven",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117907675,
+      "name": "bonq",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122137523,
+      "name": "Ducktanium",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amalli Kanetzold",
+  "corporation_id": 98820551,
+  "alliance_id": 99011206,
+  "corporation_name": "Dark Knights of Apocalypse",
+  "alliance_name": "APOC Fleet Auxiliary"
+}

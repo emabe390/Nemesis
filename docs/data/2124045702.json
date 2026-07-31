@@ -1,0 +1,40 @@
+{
+  "character_id": 2124045702,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 251815641,
+    "name": "Juc Cateir",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117593,
+    "alliance_id": 1354830081,
+    "corporation_name": "Tritanium Industries and Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 251815641,
+      "name": "Juc Cateir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95123421,
+      "name": "Bernard Watup",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1137347580,
+      "name": "Tursakeh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Professor FW",
+  "corporation_id": 98820695,
+  "alliance_id": null,
+  "corporation_name": "Puella in cursoriam",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123130198,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97052689,
+    "name": "Shaz Tzash",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810644,
+    "alliance_id": 99005178,
+    "corporation_name": "Echo Protocol",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 97052689,
+      "name": "Shaz Tzash",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117759170,
+      "name": "Drakedog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nixxy Connu",
+  "corporation_id": 98798223,
+  "alliance_id": null,
+  "corporation_name": "Ship Sommeliers",
+  "alliance_name": null
+}

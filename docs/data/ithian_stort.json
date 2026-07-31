@@ -1,0 +1,40 @@
+{
+  "character_id": 93643881,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2122789976,
+      "name": "Drazhar Jain Zar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124344438,
+      "name": "Kimura the Huntress",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ithian Stort",
+  "corporation_id": 98776703,
+  "alliance_id": 99013799,
+  "corporation_name": "Isolated Oasis",
+  "alliance_name": "Independent Enclave"
+}

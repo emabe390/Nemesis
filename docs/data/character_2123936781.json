@@ -1,0 +1,52 @@
+{
+  "character_id": 2123936781,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 452054418,
+      "name": "goamatze",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 832490421,
+      "name": "Subakt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112720902,
+      "name": "Ezehiel Goldbaum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122851845,
+      "name": "ZiFeng1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123936781",
+  "corporation_id": 98633005,
+  "alliance_id": 99011372,
+  "corporation_name": "Protean Concept",
+  "alliance_name": "Moss Piglet Preservation Society"
+}

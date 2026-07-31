@@ -1,0 +1,40 @@
+{
+  "character_id": 2123993806,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 172892545,
+    "name": "Eroadm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767954,
+    "alliance_id": 99012975,
+    "corporation_name": "Order of Atomic Flame",
+    "alliance_name": "Hull Tanking Therapy"
+  },
+  "top_killers": [
+    {
+      "id": 172892545,
+      "name": "Eroadm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Btrno1000",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

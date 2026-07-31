@@ -1,0 +1,52 @@
+{
+  "character_id": 2123385545,
+  "total_losses": 81,
+  "unique_killers": 53,
+  "nemesis": {
+    "id": 2120835764,
+    "name": "Vercingetrix Maximus",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 230445889,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mindstar Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120835764,
+      "name": "Vercingetrix Maximus",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123761189,
+      "name": "Vercingetrix Aurelius",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90583188,
+      "name": "Mac Ruder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92247361,
+      "name": "Vesperi Kobra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93716452,
+      "name": "Torgo Tahn",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "theMiddleFingerofGod",
+  "corporation_id": 230445889,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mindstar Technology",
+  "alliance_name": "Goonswarm Federation"
+}

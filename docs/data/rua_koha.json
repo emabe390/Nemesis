@@ -1,0 +1,40 @@
+{
+  "character_id": 2123635435,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 317567074,
+    "name": "Farani Storm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98596560,
+    "alliance_id": 1900696668,
+    "corporation_name": "Gildinous Vangaurd",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 317567074,
+      "name": "Farani Storm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1209488500,
+      "name": "Ravangard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121214709,
+      "name": "KelsoJr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rua Koha",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

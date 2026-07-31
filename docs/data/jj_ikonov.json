@@ -1,0 +1,40 @@
+{
+  "character_id": 2124421444,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 845362885,
+    "name": "evistin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 845362885,
+      "name": "evistin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123924777,
+      "name": "Wrumbler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124181347,
+      "name": "mining for content",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JJ Ikonov",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

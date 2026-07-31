@@ -1,0 +1,52 @@
+{
+  "character_id": 2123031901,
+  "total_losses": 45,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2121062076,
+    "name": "Prisoner's Chain",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90865055,
+      "name": "Touvldur Madullier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1944139533,
+      "name": "LastSameri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113888017,
+      "name": "Rebel Rebel-Rebel Rebel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ezra Ardishapur",
+  "corporation_id": 98748326,
+  "alliance_id": null,
+  "corporation_name": "Forgot to repair",
+  "alliance_name": null
+}

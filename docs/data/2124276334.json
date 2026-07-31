@@ -1,0 +1,52 @@
+{
+  "character_id": 2124276334,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2124358597,
+    "name": "Capt Trip",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124358597,
+      "name": "Capt Trip",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91744503,
+      "name": "Astrid Moon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 667400787,
+      "name": "Cpt Kupo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 762977248,
+      "name": "Ralph Makaev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 951872869,
+      "name": "AtheistOfFail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Somebody Named Zed",
+  "corporation_id": 98611861,
+  "alliance_id": 99010569,
+  "corporation_name": "New Order Mining Authority",
+  "alliance_name": "Safety."
+}

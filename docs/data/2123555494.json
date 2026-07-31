@@ -1,0 +1,52 @@
+{
+  "character_id": 2123555494,
+  "total_losses": 49,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 1290709513,
+    "name": "Mike Kisiel",
+    "kill_count": 21,
+    "final_blows": 21,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 21,
+      "final_blows": 21
+    },
+    {
+      "id": 2121549658,
+      "name": "Caranya",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122377240,
+      "name": "Sinistrality",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 876784688,
+      "name": "Xandra VonCricket",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122209376,
+      "name": "Ahdarji",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nebolous Hornet",
+  "corporation_id": 98419517,
+  "alliance_id": 99013400,
+  "corporation_name": "Weasels in the Rabbithole",
+  "alliance_name": "OnlyAlts."
+}

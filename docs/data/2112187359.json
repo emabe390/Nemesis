@@ -1,0 +1,40 @@
+{
+  "character_id": 2112187359,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92385566,
+    "name": "Lucien Letoile",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98808346,
+    "alliance_id": null,
+    "corporation_name": "Marubika",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92385566,
+      "name": "Lucien Letoile",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1261415746,
+      "name": "DreamTrooperX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123655745,
+      "name": "Anthraxes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ExpoLation",
+  "corporation_id": 98749002,
+  "alliance_id": 99014375,
+  "corporation_name": "Noctus Legio Inc.",
+  "alliance_name": "The Frog Boiler"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123652267,
+  "total_losses": 46,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 1262834707,
+    "name": "Koshin Ta",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98632869,
+    "alliance_id": null,
+    "corporation_name": "Evil S Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1262834707,
+      "name": "Koshin Ta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 705750642,
+      "name": "Sad Doom",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123652267",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

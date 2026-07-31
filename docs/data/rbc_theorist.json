@@ -1,0 +1,46 @@
+{
+  "character_id": 2123688976,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 183139135,
+    "name": "neovita",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98591829,
+    "alliance_id": 99012042,
+    "corporation_name": "Cyber Collapse.",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 183139135,
+      "name": "neovita",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116486399,
+      "name": "jihuen mo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96414130,
+      "name": "Tas Navi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RBC Theorist",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

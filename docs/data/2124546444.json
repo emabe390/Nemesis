@@ -1,0 +1,46 @@
+{
+  "character_id": 2124546444,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124222854,
+    "name": "Dimitry Rusland",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98022595,
+    "alliance_id": null,
+    "corporation_name": "Syndicate Society",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124222854,
+      "name": "Dimitry Rusland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91606701,
+      "name": "Lordee Vaille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 608036776,
+      "name": "Ice Garfield",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AI-3C-999",
+  "corporation_id": 98839476,
+  "alliance_id": null,
+  "corporation_name": "AI-Agent",
+  "alliance_name": null
+}

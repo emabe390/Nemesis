@@ -1,0 +1,40 @@
+{
+  "character_id": 2123000046,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92003123,
+    "name": "Krahmin Starforger",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98120776,
+    "alliance_id": null,
+    "corporation_name": "Frederik Wallace Trading Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92003123,
+      "name": "Krahmin Starforger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94586690,
+      "name": "Petrochelidon Fluvicola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96044589,
+      "name": "Mollander Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebastian Bakke",
+  "corporation_id": 98720109,
+  "alliance_id": null,
+  "corporation_name": "Aggravated Indentured Employees",
+  "alliance_name": null
+}

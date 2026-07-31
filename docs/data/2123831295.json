@@ -1,0 +1,52 @@
+{
+  "character_id": 2123831295,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122626046,
+    "name": "Ustialod Aelin Adestur",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98794878,
+    "alliance_id": null,
+    "corporation_name": "Corp 668",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112919136,
+      "name": "Kell Rchor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123412747,
+      "name": "Character 2123412747",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96410365,
+      "name": "Amanda Holt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114301210,
+      "name": "cat Pink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blue Thunder K",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

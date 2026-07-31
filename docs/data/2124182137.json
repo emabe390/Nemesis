@@ -1,0 +1,46 @@
+{
+  "character_id": 2124182137,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123901661,
+    "name": "Vercingetrix Claudius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 230445889,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mindstar Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123901661,
+      "name": "Vercingetrix Claudius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124429216,
+      "name": "Sidasen Kasenumi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96026951,
+      "name": "Sherpert Shap",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vercingetrix Rocinante",
+  "corporation_id": 230445889,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mindstar Technology",
+  "alliance_name": "Goonswarm Federation"
+}

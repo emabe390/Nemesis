@@ -1,0 +1,52 @@
+{
+  "character_id": 2123174866,
+  "total_losses": 15,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120573820,
+    "name": "Robert ap Llywelyn",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98422578,
+    "alliance_id": 99010787,
+    "corporation_name": "Almost Dangerous",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 2120573820,
+      "name": "Robert ap Llywelyn",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123462518,
+      "name": "HFSpyder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122636640,
+      "name": "Faulty Fingers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95338297,
+      "name": "Massetoz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BushidoMaru",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

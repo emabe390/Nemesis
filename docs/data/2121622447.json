@@ -1,0 +1,52 @@
+{
+  "character_id": 2121622447,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91145490,
+      "name": "Peter Johannsen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91346781,
+      "name": "Maleus Maleficarus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 663393433,
+      "name": "Nukakola",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DerTrottel",
+  "corporation_id": 98816276,
+  "alliance_id": null,
+  "corporation_name": "Nova VoidWorks",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123614977,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96835680,
+    "name": "Character 96835680",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98557365,
+    "alliance_id": 173714703,
+    "corporation_name": "Strictly Moral Support",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 96835680,
+      "name": "Character 96835680",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115013290,
+      "name": "Pyne Khamsi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115432620,
+      "name": "Yule Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chewbacco",
+  "corporation_id": 98810385,
+  "alliance_id": null,
+  "corporation_name": "Applied Ignorance",
+  "alliance_name": null
+}

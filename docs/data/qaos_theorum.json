@@ -1,0 +1,40 @@
+{
+  "character_id": 2123672441,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 940180690,
+    "name": "Ashma Zebulon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98266427,
+    "alliance_id": 99008751,
+    "corporation_name": "Primal Elemental",
+    "alliance_name": "MARABUNTA"
+  },
+  "top_killers": [
+    {
+      "id": 940180690,
+      "name": "Ashma Zebulon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119337393,
+      "name": "James Fuchs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123060205,
+      "name": "Rockin Randall",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Qaos Theorum",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

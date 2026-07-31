@@ -1,0 +1,52 @@
+{
+  "character_id": 96674004,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 96627347,
+    "name": "Dzhisan Nadina",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98634260,
+    "alliance_id": null,
+    "corporation_name": "Bala Gi's Joy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96627347,
+      "name": "Dzhisan Nadina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1773352237,
+      "name": "Hans Zarkov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93426513,
+      "name": "John Noc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95097255,
+      "name": "Robrts Senegit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96626823,
+      "name": "Mirrea Tulin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nhari Tulin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

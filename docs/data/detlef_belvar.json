@@ -1,0 +1,52 @@
+{
+  "character_id": 2116874581,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121246285,
+    "name": "MLCG",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98808713,
+    "alliance_id": null,
+    "corporation_name": "Space Watermelons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121246285,
+      "name": "MLCG",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94659960,
+      "name": "Gades Knusper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147152775,
+      "name": "Aranee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 445755518,
+      "name": "Major Vincent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Detlef Belvar",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

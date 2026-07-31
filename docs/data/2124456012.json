@@ -1,0 +1,52 @@
+{
+  "character_id": 2124456012,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124507980,
+    "name": "Abyss Viper",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98259090,
+    "alliance_id": 99010877,
+    "corporation_name": "Deep Vein Mining and Security Federation",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2124507980,
+      "name": "Abyss Viper",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124509181,
+      "name": "Hidden Viper",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 732859954,
+      "name": "Rotten Ralph",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 793793696,
+      "name": "Maisha Libo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121441634,
+      "name": "Oakenshei",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Onnuvuras Makanen",
+  "corporation_id": 98837516,
+  "alliance_id": null,
+  "corporation_name": "Ninja Seagulling Techniques",
+  "alliance_name": null
+}

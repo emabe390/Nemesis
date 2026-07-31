@@ -1,0 +1,52 @@
+{
+  "character_id": 2124127340,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1001312721,
+    "name": "DanVanCrone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 1001312721,
+      "name": "DanVanCrone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123473425,
+      "name": "MR MUNIN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96540672,
+      "name": "Harry Pottah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 270556702,
+      "name": "Sir Howard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaladin Amelana",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

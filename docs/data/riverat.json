@@ -1,0 +1,52 @@
+{
+  "character_id": 1000279216,
+  "total_losses": 26,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 96071269,
+    "name": "Jacques Perl",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752767,
+    "alliance_id": null,
+    "corporation_name": "Modules on Fire",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96071269,
+      "name": "Jacques Perl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91450236,
+      "name": "muc-off",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91611270,
+      "name": "Tony Goalardo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92071360,
+      "name": "Grim Reaper Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96262879,
+      "name": "PornMaker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Riverat",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

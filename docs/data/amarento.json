@@ -1,0 +1,40 @@
+{
+  "character_id": 2122845434,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1182049653,
+    "name": "DarkOldMaker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1182049653,
+      "name": "DarkOldMaker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121878990,
+      "name": "Virgulano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123043608,
+      "name": "Syreac Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amarento",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

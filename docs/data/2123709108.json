@@ -1,0 +1,52 @@
+{
+  "character_id": 2123709108,
+  "total_losses": 133,
+  "unique_killers": 84,
+  "nemesis": {
+    "id": 1734126381,
+    "name": "Leckdock",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98091301,
+    "alliance_id": 99003581,
+    "corporation_name": "RomFleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96015918,
+      "name": "Cadillac DuValle Godzilla",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 532538568,
+      "name": "Elder Thorn",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Night Stalllker",
+  "corporation_id": 98131912,
+  "alliance_id": null,
+  "corporation_name": "True Horde",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123112419,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 94866478,
+    "name": "Jayce Donbasovich",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98654199,
+    "alliance_id": null,
+    "corporation_name": "Cheeki Breeki Company",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94866478,
+      "name": "Jayce Donbasovich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121238729,
+      "name": "Skord Blorpho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1136579687,
+      "name": "D Assassin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121126340,
+      "name": "Weizhi RE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tjavez",
+  "corporation_id": 98608141,
+  "alliance_id": 99005338,
+  "corporation_name": "Farmers Union Iced Coffee",
+  "alliance_name": "Pandemic Horde"
+}

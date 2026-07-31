@@ -1,0 +1,52 @@
+{
+  "character_id": 2123334801,
+  "total_losses": 107,
+  "unique_killers": 71,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90533540,
+      "name": "Keriani Noban",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2112293870,
+      "name": "Krombopulous Jaynara",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118395144,
+      "name": "Roman Furrer",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1848010139,
+      "name": "Phunas",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "LiaQueen",
+  "corporation_id": 98616588,
+  "alliance_id": 131511956,
+  "corporation_name": "HolyTrident",
+  "alliance_name": "Tactical Narcotics Team"
+}

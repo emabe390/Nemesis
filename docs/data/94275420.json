@@ -1,0 +1,40 @@
+{
+  "character_id": 94275420,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115141660,
+    "name": "Alex Mixter",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98744893,
+    "alliance_id": null,
+    "corporation_name": "Mixter corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115141660,
+      "name": "Alex Mixter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116988639,
+      "name": "Babbl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122213263,
+      "name": "Lurm the Slurm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chubwy Hastmena",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

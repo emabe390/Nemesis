@@ -1,0 +1,34 @@
+{
+  "character_id": 2122355936,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123156507,
+    "name": "Character 2123156507",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821246,
+    "alliance_id": 99013766,
+    "corporation_name": "ASMAR GALAXY",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2123156507,
+      "name": "Character 2123156507",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "OneAway",
+  "corporation_id": 1036636347,
+  "alliance_id": 99012880,
+  "corporation_name": "The Alteran Brethren",
+  "alliance_name": "Allteris"
+}

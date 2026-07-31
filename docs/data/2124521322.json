@@ -1,0 +1,40 @@
+{
+  "character_id": 2124521322,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121786707,
+    "name": "Flavius Scipio Belasarius",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98782093,
+    "alliance_id": null,
+    "corporation_name": "Whizbang Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121786707,
+      "name": "Flavius Scipio Belasarius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124047802,
+      "name": "Karie Metesur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124122466,
+      "name": "Cody Murphy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurora EVAEL",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

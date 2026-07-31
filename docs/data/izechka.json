@@ -1,0 +1,40 @@
+{
+  "character_id": 2124441017,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115400990,
+    "name": "Redwing Malukker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 2115400990,
+      "name": "Redwing Malukker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123795048,
+      "name": "HOKU1000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122795110,
+      "name": "Lex Ashwari-Thrace",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Izechka",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

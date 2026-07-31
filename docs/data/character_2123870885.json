@@ -1,0 +1,52 @@
+{
+  "character_id": 2123870885,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123861095,
+    "name": "Baetren Hendar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123861095,
+      "name": "Baetren Hendar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123808346,
+      "name": "Detren Hendar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123861094,
+      "name": "Aetren Hendar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123889253,
+      "name": "Jetren Hendar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123870885",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

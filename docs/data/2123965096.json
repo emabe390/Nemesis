@@ -1,0 +1,52 @@
+{
+  "character_id": 2123965096,
+  "total_losses": 61,
+  "unique_killers": 49,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96433053,
+      "name": "Agent Loco",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 456894541,
+      "name": "x3kak",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94483193,
+      "name": "SeungYi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96924986,
+      "name": "Yagami Liu",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cinderella-EC1",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

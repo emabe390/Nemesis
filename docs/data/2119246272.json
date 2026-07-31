@@ -1,0 +1,34 @@
+{
+  "character_id": 2119246272,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121876029,
+    "name": "KAI-GUDA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98746877,
+    "alliance_id": 99013766,
+    "corporation_name": "Flota Imperial",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121926323,
+      "name": "Command Destroyer Alt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hateda Agalder",
+  "corporation_id": 98679242,
+  "alliance_id": null,
+  "corporation_name": "Weird Trolls",
+  "alliance_name": null
+}

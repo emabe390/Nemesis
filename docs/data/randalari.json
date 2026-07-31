@@ -1,0 +1,52 @@
+{
+  "character_id": 2122329060,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 293907879,
+    "name": "Rikeka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480050,
+    "alliance_id": 1900696668,
+    "corporation_name": "Fancypants Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 293907879,
+      "name": "Rikeka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95940713,
+      "name": "Alex Jantex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 709335657,
+      "name": "Marissa Edildo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113791998,
+      "name": "Wolf Doukas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Randalari",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

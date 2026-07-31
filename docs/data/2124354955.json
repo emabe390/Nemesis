@@ -1,0 +1,34 @@
+{
+  "character_id": 2124354955,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121423114,
+    "name": "Yarl Phoenix",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98767686,
+    "alliance_id": 99005178,
+    "corporation_name": "STAR N.O.V.A",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2121423114,
+      "name": "Yarl Phoenix",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaktuar",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123944637,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123044420,
+    "name": "Gold Digger 9000",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 2123044420,
+      "name": "Gold Digger 9000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93368227,
+      "name": "Character 93368227",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 989210126,
+      "name": "Rage Hex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116004529,
+      "name": "Douglas Edward",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Freyast",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

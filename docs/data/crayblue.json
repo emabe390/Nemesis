@@ -1,0 +1,52 @@
+{
+  "character_id": 1135386337,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 202625575,
+    "name": "Wesley Baird",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 202625575,
+      "name": "Wesley Baird",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91746998,
+      "name": "Carlito Grey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92515542,
+      "name": "Rysiek Klan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93419851,
+      "name": "Dryden Gootch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93578920,
+      "name": "Satory Yanumano",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "crayblue",
+  "corporation_id": 98496411,
+  "alliance_id": 99003581,
+  "corporation_name": "WipeOut Inc.",
+  "alliance_name": "Fraternity."
+}

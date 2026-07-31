@@ -1,0 +1,40 @@
+{
+  "character_id": 2124004141,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 671052047,
+    "name": "windorf",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98803247,
+    "alliance_id": 99014278,
+    "corporation_name": "Abyssal Horizon",
+    "alliance_name": "Abyssal Booty Hunters"
+  },
+  "top_killers": [
+    {
+      "id": 671052047,
+      "name": "windorf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121027256,
+      "name": "Strahlenkater",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121517337,
+      "name": "Vattenpass",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paulus von Treublatt",
+  "corporation_id": 98829574,
+  "alliance_id": null,
+  "corporation_name": "Prehmium Solution",
+  "alliance_name": null
+}

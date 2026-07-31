@@ -1,0 +1,40 @@
+{
+  "character_id": 1085529414,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1764047801,
+    "name": "Telissia Star",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98792845,
+    "alliance_id": 99015138,
+    "corporation_name": "The Excluded",
+    "alliance_name": "VoidForge"
+  },
+  "top_killers": [
+    {
+      "id": 1764047801,
+      "name": "Telissia Star",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95041823,
+      "name": "Florian Boirelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118043157,
+      "name": "Team Check",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Noqulin",
+  "corporation_id": 98616922,
+  "alliance_id": 99003214,
+  "corporation_name": "Galactic Deep Space Industries",
+  "alliance_name": "Brave Collective"
+}

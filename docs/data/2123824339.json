@@ -1,0 +1,52 @@
+{
+  "character_id": 2123824339,
+  "total_losses": 14,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92232463,
+    "name": "Jita Tzetsu",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98784776,
+    "alliance_id": 99013541,
+    "corporation_name": "Hippo Cartel Prime Holdings",
+    "alliance_name": "Fraternity Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 92232463,
+      "name": "Jita Tzetsu",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 93677704,
+      "name": "Bart Ottig",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 360540968,
+      "name": "Jop",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 597065322,
+      "name": "Character 597065322",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117487715,
+      "name": "Alvid Erlkonig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PII McTrade",
+  "corporation_id": 98824954,
+  "alliance_id": 99013541,
+  "corporation_name": "Titanborn Industries",
+  "alliance_name": "Fraternity Auxiliary"
+}

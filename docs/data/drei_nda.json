@@ -1,0 +1,52 @@
+{
+  "character_id": 2116032575,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92240946,
+      "name": "SkrudJ Makdak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95823863,
+      "name": "Francie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 114397553,
+      "name": "Daniel Grim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115629930,
+      "name": "Eins NDA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drei NDA",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

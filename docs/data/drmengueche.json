@@ -1,0 +1,52 @@
+{
+  "character_id": 2119490780,
+  "total_losses": 29,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114490490,
+      "name": "Stuart Archasse",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DRMengueche",
+  "corporation_id": 98663870,
+  "alliance_id": 99010431,
+  "corporation_name": "Ohnivak of Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

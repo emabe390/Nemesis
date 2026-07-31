@@ -1,0 +1,40 @@
+{
+  "character_id": 2123967150,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 563828416,
+    "name": "Twiggs McGee",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98762098,
+    "alliance_id": 1900696668,
+    "corporation_name": "Aegis Victorium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 563828416,
+      "name": "Twiggs McGee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115717421,
+      "name": "xun Anchor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119957225,
+      "name": "Al-Punchy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wind Listener",
+  "corporation_id": 98805140,
+  "alliance_id": 99013537,
+  "corporation_name": "Sunset Red Activity Club",
+  "alliance_name": "Insidious."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123518649,
+  "total_losses": 22,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123689761,
+    "name": "Mock Manhiem",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98656140,
+    "alliance_id": 99011281,
+    "corporation_name": "Caldari Fire Demons University",
+    "alliance_name": "Naval Defence Institute"
+  },
+  "top_killers": [
+    {
+      "id": 2123689761,
+      "name": "Mock Manhiem",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123655515,
+      "name": "Rock Manhiem",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119503038,
+      "name": "eliminator' freaker",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115447055,
+      "name": "Pigii AkA",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Florin Lannister",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123889383,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90105498,
+    "name": "Lauhees",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123704319,
+      "name": "CaoCao IIIllIIIII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123704320,
+      "name": "CaoCao IIlIlIIlII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mandy Michaels",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

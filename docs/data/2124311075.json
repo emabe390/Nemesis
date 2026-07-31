@@ -1,0 +1,40 @@
+{
+  "character_id": 2124311075,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90373349,
+    "name": "dirk sumner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98739065,
+    "alliance_id": 99013396,
+    "corporation_name": "Black Phoenix Rising.",
+    "alliance_name": "From Spark to Flame"
+  },
+  "top_killers": [
+    {
+      "id": 90373349,
+      "name": "dirk sumner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116131766,
+      "name": "Hawk NightSlider",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118518412,
+      "name": "Captain Orkey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hiustinen Inkunen",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

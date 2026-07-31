@@ -1,0 +1,40 @@
+{
+  "character_id": 2121871950,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121165695,
+    "name": "Lucian Stormglaive",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1722847451,
+    "alliance_id": 1220922756,
+    "corporation_name": "Bad Robot Inc.",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121165695,
+      "name": "Lucian Stormglaive",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122692404,
+      "name": "Haduken Hakiri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Henry Perry",
+  "corporation_id": 98728784,
+  "alliance_id": 99014008,
+  "corporation_name": "Placid Tactical Salt Distribution",
+  "alliance_name": "BBQ BOIS"
+}

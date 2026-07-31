@@ -1,0 +1,40 @@
+{
+  "character_id": 2123232769,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 401889038,
+    "name": "Character 401889038",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98814441,
+    "alliance_id": 1042504553,
+    "corporation_name": "Infinite Directive",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 401889038,
+      "name": "Character 401889038",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 722001509,
+      "name": "JARHEAD285",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123900708,
+      "name": "King Ink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aunen Shaishi",
+  "corporation_id": 98814441,
+  "alliance_id": 498125261,
+  "corporation_name": "Infinite Directive",
+  "alliance_name": "Test Alliance Please Ignore"
+}

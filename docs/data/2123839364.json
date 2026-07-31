@@ -1,0 +1,40 @@
+{
+  "character_id": 2123839364,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96965740,
+    "name": "Tanya West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98607450,
+    "alliance_id": 99004344,
+    "corporation_name": "Ruthless Regiment",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 96965740,
+      "name": "Tanya West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 469883243,
+      "name": "Min'Kamak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121644551,
+      "name": "Leu Aurgnet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Praxigor",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

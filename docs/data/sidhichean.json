@@ -1,0 +1,40 @@
+{
+  "character_id": 93277131,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1644138151,
+      "name": "Arcanier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sidhichean",
+  "corporation_id": 98522659,
+  "alliance_id": 99003214,
+  "corporation_name": "Incredible.",
+  "alliance_name": "Brave Collective"
+}

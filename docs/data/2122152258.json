@@ -1,0 +1,40 @@
+{
+  "character_id": 2122152258,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1510701977,
+    "name": "Szilardis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98426237,
+    "alliance_id": 99004604,
+    "corporation_name": "Phoenix Naval Operations",
+    "alliance_name": "Phoenix Naval Systems"
+  },
+  "top_killers": [
+    {
+      "id": 1510701977,
+      "name": "Szilardis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93468510,
+      "name": "Alex DeWalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1916140599,
+      "name": "Bryan Yakinov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ouelletta Saissore",
+  "corporation_id": 98767648,
+  "alliance_id": 99010193,
+  "corporation_name": "Beryll Research Corp",
+  "alliance_name": "Ivy League Alt Alliance"
+}

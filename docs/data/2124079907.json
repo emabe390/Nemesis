@@ -1,0 +1,40 @@
+{
+  "character_id": 2124079907,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 744537204,
+    "name": "Hunter Dredd",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 744537204,
+      "name": "Hunter Dredd",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115270103,
+      "name": "Fox Skytail",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124055619,
+      "name": "MCTK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anka Lynch",
+  "corporation_id": 98824430,
+  "alliance_id": null,
+  "corporation_name": "Lynch Corp",
+  "alliance_name": null
+}

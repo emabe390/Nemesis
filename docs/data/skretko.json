@@ -1,0 +1,52 @@
+{
+  "character_id": 2113597905,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119893491,
+    "name": "Tessa Adams",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119893491,
+      "name": "Tessa Adams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91343740,
+      "name": "Jim T Kirk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91545050,
+      "name": "Thelonious Blake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1219773318,
+      "name": "Yamisah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118291944,
+      "name": "Claire 'Lightning' Farron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skretko",
+  "corporation_id": 98513034,
+  "alliance_id": 99014284,
+  "corporation_name": "Lobster Express",
+  "alliance_name": "7.62"
+}

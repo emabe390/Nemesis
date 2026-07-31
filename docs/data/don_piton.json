@@ -1,0 +1,40 @@
+{
+  "character_id": 2112492640,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 133464796,
+    "name": "XenoPagan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98335809,
+    "alliance_id": 99003581,
+    "corporation_name": "The Northerners",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 133464796,
+      "name": "XenoPagan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 237516157,
+      "name": "Deker Caern",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1023422945,
+      "name": "Celeste Marr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Don Piton",
+  "corporation_id": 98279775,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deep Space Conquerors",
+  "alliance_name": "Goonswarm Federation"
+}

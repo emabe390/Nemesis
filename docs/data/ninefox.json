@@ -1,0 +1,52 @@
+{
+  "character_id": 2122800974,
+  "total_losses": 19,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2115802274,
+    "name": "Vladislav KozloF",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98767495,
+    "alliance_id": null,
+    "corporation_name": "KnotZone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115802274,
+      "name": "Vladislav KozloF",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93685589,
+      "name": "Caspae Hadano",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93686389,
+      "name": "K0r3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ninefox",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

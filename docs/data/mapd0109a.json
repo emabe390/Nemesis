@@ -1,0 +1,52 @@
+{
+  "character_id": 2123287339,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90118723,
+    "name": "Dekubitus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90118723,
+      "name": "Dekubitus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92735974,
+      "name": "wicked pixel flex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96035709,
+      "name": "Henning fon Holzendorf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 730621638,
+      "name": "D0MINUS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 775851151,
+      "name": "Krumholz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "mapd0109a",
+  "corporation_id": 98747887,
+  "alliance_id": null,
+  "corporation_name": "MAPD Corporation",
+  "alliance_name": null
+}

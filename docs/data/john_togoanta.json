@@ -1,0 +1,52 @@
+{
+  "character_id": 2113853751,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93526858,
+      "name": "Ammy Jones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 1202009472,
+      "name": "Sgt Pyrlig",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1588674118,
+      "name": "Harnost",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Togoanta",
+  "corporation_id": 1491319733,
+  "alliance_id": 927292903,
+  "corporation_name": "Stimulus",
+  "alliance_name": "Rote Kapelle"
+}

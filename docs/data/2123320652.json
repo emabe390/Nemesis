@@ -1,0 +1,52 @@
+{
+  "character_id": 2123320652,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91346781,
+    "name": "Maleus Maleficarus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766866,
+    "alliance_id": null,
+    "corporation_name": "Nuclear Kolobok",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91346781,
+      "name": "Maleus Maleficarus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1678034080,
+      "name": "DuperBusa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119549936,
+      "name": "trubachev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96470500,
+      "name": "Van Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117518049,
+      "name": "Michael Marsh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aedion Lycoris",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

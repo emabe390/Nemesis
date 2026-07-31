@@ -1,0 +1,40 @@
+{
+  "character_id": 626902422,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95779000,
+    "name": "Dwark",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98594202,
+    "alliance_id": 99010457,
+    "corporation_name": "Harmonist",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95779000,
+      "name": "Dwark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112771334,
+      "name": "OERLIKOM Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113966060,
+      "name": "Timothy Antollare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SeoJiHun",
+  "corporation_id": 98450647,
+  "alliance_id": 99007203,
+  "corporation_name": "SpaceX Galactic",
+  "alliance_name": "Siberian Squads"
+}

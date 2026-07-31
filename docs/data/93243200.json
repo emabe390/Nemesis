@@ -1,0 +1,40 @@
+{
+  "character_id": 93243200,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91052290,
+    "name": "Ra'Kel Alduin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98770866,
+    "alliance_id": null,
+    "corporation_name": "Wildcard Aerospace",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91052290,
+      "name": "Ra'Kel Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112888166,
+      "name": "MythicIX Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122035227,
+      "name": "Akka-Yuki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emmye",
+  "corporation_id": 98529389,
+  "alliance_id": 99003581,
+  "corporation_name": "TheBlacklist",
+  "alliance_name": "Fraternity."
+}

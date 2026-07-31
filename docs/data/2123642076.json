@@ -1,0 +1,46 @@
+{
+  "character_id": 2123642076,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96422430,
+    "name": "Seung Koo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98514759,
+    "alliance_id": 99014973,
+    "corporation_name": "Meta Zero",
+    "alliance_name": "E-Reptile Disfunction"
+  },
+  "top_killers": [
+    {
+      "id": 96422430,
+      "name": "Seung Koo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95541002,
+      "name": "craigo Lakey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1812624832,
+      "name": "Rammit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116357346,
+      "name": "Christoph Brent",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StrahaNet",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

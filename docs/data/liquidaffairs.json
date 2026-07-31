@@ -1,0 +1,52 @@
+{
+  "character_id": 2123013785,
+  "total_losses": 45,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 1106529473,
+    "name": "Zibu",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1106529473,
+      "name": "Zibu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91710966,
+      "name": "Moraugh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93254539,
+      "name": "Truxtun Whitney",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 528258379,
+      "name": "Vogels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 788458393,
+      "name": "Cpt FeatherSword",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Liquidaffairs",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

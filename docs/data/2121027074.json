@@ -1,0 +1,34 @@
+{
+  "character_id": 2121027074,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 902794446,
+    "name": "Mira Lighthope",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 715200791,
+    "alliance_id": 1354830081,
+    "corporation_name": "ONTAP",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 902794446,
+      "name": "Mira Lighthope",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121750603,
+      "name": "Marianne Sten",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kagual",
+  "corporation_id": 98490947,
+  "alliance_id": 99007722,
+  "corporation_name": "Renegade Stars",
+  "alliance_name": "Stellae Renascitur"
+}

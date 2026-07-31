@@ -1,0 +1,52 @@
+{
+  "character_id": 2112938612,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2115238224,
+    "name": "Nydus Worm I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115238224,
+      "name": "Nydus Worm I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122472471,
+      "name": "BoomBlapPow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95809606,
+      "name": "Kappa 4Head",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 631632288,
+      "name": "Debes Sparre",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adam Parvi",
+  "corporation_id": 98700281,
+  "alliance_id": 99010995,
+  "corporation_name": "Task Force 641",
+  "alliance_name": "Empyrean Edict"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115513442,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1466289629,
+      "name": "Asar Kardde",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114962108,
+      "name": "Salendis Dayllem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119609332,
+      "name": "Fenrys Wolven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123698622,
+      "name": "Sentinel0399",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grey Ignis",
+  "corporation_id": 98745609,
+  "alliance_id": 99013142,
+  "corporation_name": "Tarnished Dragon",
+  "alliance_name": "Le Goobers"
+}

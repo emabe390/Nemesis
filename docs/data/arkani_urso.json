@@ -1,0 +1,40 @@
+{
+  "character_id": 2123220924,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120667060,
+    "name": "Arota Uitra",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98620000,
+    "alliance_id": 99010077,
+    "corporation_name": "Veretasium",
+    "alliance_name": "Wielders"
+  },
+  "top_killers": [
+    {
+      "id": 2120667060,
+      "name": "Arota Uitra",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93813991,
+      "name": "Tyrwolf Valkyrie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arkani Urso",
+  "corporation_id": 98620000,
+  "alliance_id": 99010077,
+  "corporation_name": "Veretasium",
+  "alliance_name": "Wielders"
+}

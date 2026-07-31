@@ -1,0 +1,46 @@
+{
+  "character_id": 2113988532,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115657646,
+    "name": "Jovian Researcher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98573194,
+    "alliance_id": null,
+    "corporation_name": "SO Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115657646,
+      "name": "Jovian Researcher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124070335,
+      "name": "Outoku Aihaken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95062869,
+      "name": "LifesAbeach",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96831847,
+      "name": "Comandante",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexia Stuart",
+  "corporation_id": 98550682,
+  "alliance_id": 99003581,
+  "corporation_name": "Stardust-Guardian",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1015993515,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123535518,
+    "name": "Malcolm 41",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679090,
+    "alliance_id": 99014768,
+    "corporation_name": "Wormholes In Nuts",
+    "alliance_name": "Storm Petrel Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123535518,
+      "name": "Malcolm 41",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91028659,
+      "name": "M1k3y Koontz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 377924839,
+      "name": "Draxzion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 749229524,
+      "name": "Alexingeras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kira Ashiran",
+  "corporation_id": 98762201,
+  "alliance_id": null,
+  "corporation_name": "Maybe It's Bait",
+  "alliance_name": null
+}

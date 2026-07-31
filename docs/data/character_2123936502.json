@@ -1,0 +1,52 @@
+{
+  "character_id": 2123936502,
+  "total_losses": 21,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123956293,
+    "name": "Umasi",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98819427,
+    "alliance_id": null,
+    "corporation_name": "Phoenix Frontier Consortium",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123956293,
+      "name": "Umasi",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2123956253,
+      "name": "Umarri",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92367833,
+      "name": "Altor Bones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112582876,
+      "name": "Mike Devron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120811746,
+      "name": "W1TAKER",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123936502",
+  "corporation_id": 98819427,
+  "alliance_id": null,
+  "corporation_name": "Phoenix Frontier Consortium",
+  "alliance_name": null
+}

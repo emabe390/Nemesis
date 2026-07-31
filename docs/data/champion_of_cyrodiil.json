@@ -1,0 +1,40 @@
+{
+  "character_id": 2115819829,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93368318,
+      "name": "Character 93368318",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123103092,
+      "name": "World Destroyer 93",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Champion of Cyrodiil",
+  "corporation_id": 98761340,
+  "alliance_id": 1411711376,
+  "corporation_name": "Heavenly Strategies",
+  "alliance_name": "Legion of xXDEATHXx"
+}

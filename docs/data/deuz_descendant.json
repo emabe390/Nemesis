@@ -1,0 +1,52 @@
+{
+  "character_id": 2123574283,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2119188319,
+    "name": "Subathra",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98791042,
+    "alliance_id": 99013655,
+    "corporation_name": "Super Star Way",
+    "alliance_name": "Small Industries Union"
+  },
+  "top_killers": [
+    {
+      "id": 2119188319,
+      "name": "Subathra",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123632411,
+      "name": "Mint Blossom",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1633218082,
+      "name": "Squizz Caphinator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 94269768,
+      "name": "Maako Mori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deuz Descendant",
+  "corporation_id": 98803508,
+  "alliance_id": null,
+  "corporation_name": "Silk Dance",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123856153,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2122731970,
+    "name": "RedRhino Valentine",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2122731970,
+      "name": "RedRhino Valentine",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114416122,
+      "name": "Boss Yaeger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115749558,
+      "name": "Vitaliy Zhitnik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114836662,
+      "name": "Gazerbeam Shi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rathalos Gemulus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

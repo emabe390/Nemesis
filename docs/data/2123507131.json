@@ -1,0 +1,52 @@
+{
+  "character_id": 2123507131,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 898115249,
+    "name": "atalanti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 898115249,
+      "name": "atalanti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121829499,
+      "name": "KonbITo Shibzich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90118723,
+      "name": "Dekubitus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1813851938,
+      "name": "dH4LZ1M",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1937826589,
+      "name": "Auran Veras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ardana Elara",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

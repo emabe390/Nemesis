@@ -1,0 +1,40 @@
+{
+  "character_id": 2114195088,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123537584,
+    "name": "3AM Welders",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787318,
+    "alliance_id": null,
+    "corporation_name": "Happy Birth Day",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123537584,
+      "name": "3AM Welders",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1071521448,
+      "name": "Kasper Skov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tydius Prime",
+  "corporation_id": 98800838,
+  "alliance_id": 99013719,
+  "corporation_name": "Prime Ordeal",
+  "alliance_name": "Keys Network"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124043222,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 265341811,
+    "name": "Moot Scudrunner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 265341811,
+      "name": "Moot Scudrunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117605871,
+      "name": "Radek Hastarrl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119425666,
+      "name": "CryMyMarie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ambrante en Gravonere",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123070312,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94050539,
+    "name": "jack henry williams",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94050539,
+      "name": "jack henry williams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120646800,
+      "name": "Neisseria G0n0rrhoeae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90348654,
+      "name": "Yuki Inari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95390904,
+      "name": "Mist Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 879352375,
+      "name": "psyiox astral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wilmah Red",
+  "corporation_id": 98598794,
+  "alliance_id": 99005830,
+  "corporation_name": "Hide Into Darkness",
+  "alliance_name": "Memento Moriendo"
+}

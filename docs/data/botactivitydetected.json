@@ -1,0 +1,52 @@
+{
+  "character_id": 2123402513,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2113553121,
+    "name": "Malinois Mali",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98143374,
+    "alliance_id": 99000285,
+    "corporation_name": "DUST Expeditionary Team",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 2113553121,
+      "name": "Malinois Mali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93931319,
+      "name": "Tumeteus Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95252021,
+      "name": "Orin Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 534826878,
+      "name": "CollectionBe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1416983859,
+      "name": "Rat 3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BotActivityDetected",
+  "corporation_id": 98771679,
+  "alliance_id": null,
+  "corporation_name": "The Pirate Playhouse",
+  "alliance_name": null
+}

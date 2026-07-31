@@ -1,0 +1,46 @@
+{
+  "character_id": 2123771624,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121246285,
+    "name": "MLCG",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808713,
+    "alliance_id": null,
+    "corporation_name": "Space Watermelons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121246285,
+      "name": "MLCG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123561359,
+      "name": "Kailion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92042393,
+      "name": "Creepy Ambramotte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114907593,
+      "name": "Orban Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sukken De Diken",
+  "corporation_id": 98803643,
+  "alliance_id": 99014167,
+  "corporation_name": "XANAX Withdrawal Corp.",
+  "alliance_name": "XANAX Withdrawal Corp. Alliance"
+}

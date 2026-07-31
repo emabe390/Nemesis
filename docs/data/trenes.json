@@ -1,0 +1,40 @@
+{
+  "character_id": 2120565981,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 409301765,
+    "name": "The Templariarch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 409301765,
+      "name": "The Templariarch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119537361,
+      "name": "SudokuArtist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122302064,
+      "name": "Puppet 09",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trenes",
+  "corporation_id": 773499566,
+  "alliance_id": 1900696668,
+  "corporation_name": "The Graduates",
+  "alliance_name": "The Initiative."
+}

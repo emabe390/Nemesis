@@ -1,0 +1,52 @@
+{
+  "character_id": 2123050333,
+  "total_losses": 31,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94254757,
+      "name": "Character 94254757",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1940640314,
+      "name": "Claire Lucid",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Coral Raven",
+  "corporation_id": 98837768,
+  "alliance_id": null,
+  "corporation_name": "Violent Mantra",
+  "alliance_name": null
+}

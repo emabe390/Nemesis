@@ -1,0 +1,52 @@
+{
+  "character_id": 2123126287,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 713141884,
+      "name": "Davey Oaks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 788408631,
+      "name": "Freany",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119871784,
+      "name": "Tasaro Sunji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121130491,
+      "name": "ForUndeadAsuka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123126287",
+  "corporation_id": 98802060,
+  "alliance_id": null,
+  "corporation_name": "EII-WORLD",
+  "alliance_name": null
+}

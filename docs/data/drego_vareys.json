@@ -1,0 +1,52 @@
+{
+  "character_id": 2123821521,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2123087332,
+    "name": "Dwandy",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123087332,
+      "name": "Dwandy",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95448424,
+      "name": "Marcus Maulerant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 243941398,
+      "name": "masty",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 552357022,
+      "name": "DoubleAught Buck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114762791,
+      "name": "Black Deka",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Drego Vareys",
+  "corporation_id": 98508754,
+  "alliance_id": 99013981,
+  "corporation_name": "Obsidian.",
+  "alliance_name": "Militant Consortium"
+}

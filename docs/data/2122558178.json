@@ -1,0 +1,34 @@
+{
+  "character_id": 2122558178,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122534267,
+    "name": "Hakonen Virpio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777966,
+    "alliance_id": null,
+    "corporation_name": "F.L.Y. S.A.F.E.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122534267,
+      "name": "Hakonen Virpio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122534271,
+      "name": "Hosen Hilanen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Teal'Crayon",
+  "corporation_id": 98768985,
+  "alliance_id": 99013806,
+  "corporation_name": "Box of Colors",
+  "alliance_name": "The Conference"
+}

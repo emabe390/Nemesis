@@ -1,0 +1,40 @@
+{
+  "character_id": 2123900523,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113803816,
+    "name": "Arik Zahn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98660549,
+    "alliance_id": null,
+    "corporation_name": "R0CKHOUND's Quarry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95041309,
+      "name": "Lamenoire Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 796754948,
+      "name": "Ebola viral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Har4ik",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

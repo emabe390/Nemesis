@@ -1,0 +1,52 @@
+{
+  "character_id": 2120827247,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 284306820,
+    "name": "Asasin's",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98815771,
+    "alliance_id": null,
+    "corporation_name": "Celestial Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 284306820,
+      "name": "Asasin's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114731379,
+      "name": "Kalifa Surmia Ederton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117582867,
+      "name": "Grape Penguin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121833083,
+      "name": "Swarozhich",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Far Forest",
+  "corporation_id": 98107998,
+  "alliance_id": 99014548,
+  "corporation_name": "Border Worlds Excavations",
+  "alliance_name": "Project Oasis"
+}

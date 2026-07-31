@@ -1,0 +1,52 @@
+{
+  "character_id": 2113723812,
+  "total_losses": 65,
+  "unique_killers": 54,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 416964105,
+      "name": "Botia Macracantha",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 371766204,
+      "name": "Character 371766204",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1726795405,
+      "name": "Kazkaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1913733427,
+      "name": "Whiskeydod",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sandra Houkaulter",
+  "corporation_id": 1091440439,
+  "alliance_id": 498125261,
+  "corporation_name": "AlcoDOTTE",
+  "alliance_name": "Test Alliance Please Ignore"
+}

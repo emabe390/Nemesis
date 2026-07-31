@@ -1,0 +1,40 @@
+{
+  "character_id": 2121127212,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117166729,
+    "name": "Godsrage",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117166729,
+      "name": "Godsrage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119386129,
+      "name": "Deadsy Snagman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122097186,
+      "name": "Erris Aider Mileghere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akasa Kanjus",
+  "corporation_id": 98704709,
+  "alliance_id": 99010896,
+  "corporation_name": "Caldari 1",
+  "alliance_name": "Caldari Alliance"
+}

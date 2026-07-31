@@ -1,0 +1,40 @@
+{
+  "character_id": 2123607708,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120442186,
+    "name": "The Knyix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120442186,
+      "name": "The Knyix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123254772,
+      "name": "Octavia First Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124036034,
+      "name": "Sweet Edith",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FoxyCzech9",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123876882,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93075150,
+    "name": "Mackatoa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 1900696668,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93075150,
+      "name": "Mackatoa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120765546,
+      "name": "Ostartan Ekanon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kimchi Khaos",
+  "corporation_id": 98820741,
+  "alliance_id": 99014711,
+  "corporation_name": "Nightforge Voidworks",
+  "alliance_name": "Forge Eternal"
+}

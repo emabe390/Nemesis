@@ -1,0 +1,40 @@
+{
+  "character_id": 2123906026,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93997594,
+    "name": "munsking",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98735003,
+    "alliance_id": 99014747,
+    "corporation_name": "Fat Dragon Pirate Co.",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 93997594,
+      "name": "munsking",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1600287919,
+      "name": "YankeePilot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122691495,
+      "name": "Nalia Valerie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vee Tereshkova",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

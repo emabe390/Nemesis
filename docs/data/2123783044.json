@@ -1,0 +1,40 @@
+{
+  "character_id": 2123783044,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121128379,
+    "name": "NCCIntrepid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1979600450,
+    "alliance_id": 99009163,
+    "corporation_name": "Lone Wolf Union",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2121128379,
+      "name": "NCCIntrepid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121231095,
+      "name": "NCCIntrepid2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123607064,
+      "name": "Lesendir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "cheezie",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123478667,
+  "total_losses": 8,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96787414,
+      "name": "Sisarka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1105556766,
+      "name": "Tikerer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1412975374,
+      "name": "killer 1951",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1916405790,
+      "name": "stunkerd II",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zollern Hohen",
+  "corporation_id": 98715582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Emperor Scythes",
+  "alliance_name": "The Initiative."
+}

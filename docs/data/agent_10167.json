@@ -1,0 +1,34 @@
+{
+  "character_id": 2123564653,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90323995,
+    "name": "Matthias Anchor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90323995,
+      "name": "Matthias Anchor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122789976,
+      "name": "Drazhar Jain Zar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "agent-10167",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

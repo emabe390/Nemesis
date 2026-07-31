@@ -1,0 +1,34 @@
+{
+  "character_id": 2123355981,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93017457,
+    "name": "DeAnnay Ambraelle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1349576713,
+    "alliance_id": null,
+    "corporation_name": "True Slave Foundations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93017457,
+      "name": "DeAnnay Ambraelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121652517,
+      "name": "Sanquine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cute Corgi",
+  "corporation_id": 98397309,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Transcontinental Logistics",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 95274134,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123072453,
+    "name": "Lee Shank",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98793824,
+    "alliance_id": null,
+    "corporation_name": "Shanks and Shivs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123072453,
+      "name": "Lee Shank",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93850456,
+      "name": "Mr Lexon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94651810,
+      "name": "Gavin Kennard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94672513,
+      "name": "Silvie Hawthoren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95177490,
+      "name": "Gattile Miromme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jacek Cygan",
+  "corporation_id": 1187207583,
+  "alliance_id": 1354830081,
+  "corporation_name": "Shocky Industries Ltd.",
+  "alliance_name": "Goonswarm Federation"
+}

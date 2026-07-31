@@ -1,0 +1,52 @@
+{
+  "character_id": 355274556,
+  "total_losses": 25,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 647388233,
+    "name": "John MacCoy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98528707,
+    "alliance_id": null,
+    "corporation_name": "Independent Pilots Association",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 647388233,
+      "name": "John MacCoy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 411225042,
+      "name": "BJK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117615675,
+      "name": "Mod Eistiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91124891,
+      "name": "Prokrastinator SVK Tiberian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91621680,
+      "name": "Monkey Onnlin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheUnknown",
+  "corporation_id": 1025146968,
+  "alliance_id": null,
+  "corporation_name": "Trauma Ward",
+  "alliance_name": null
+}

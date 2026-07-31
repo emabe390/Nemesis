@@ -1,0 +1,52 @@
+{
+  "character_id": 2122637606,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96150875,
+    "name": "Fredrick Raholan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755360,
+    "alliance_id": 99010468,
+    "corporation_name": "Black Rose Inc.",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 96150875,
+      "name": "Fredrick Raholan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1872879830,
+      "name": "Eldrim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92993073,
+      "name": "Itaer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 169392406,
+      "name": "Fallen Rabbit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 221976796,
+      "name": "BlackDeath",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lieutenant Bane",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124536946,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93997594,
+    "name": "munsking",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98735003,
+    "alliance_id": 99014747,
+    "corporation_name": "Fat Dragon Pirate Co.",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 93997594,
+      "name": "munsking",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1839544568,
+      "name": "Elladia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93006154,
+      "name": "Loki Asuran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1397495351,
+      "name": "Azriel Pazzuzu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119074886,
+      "name": "Nex Terminator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mark Veyr",
+  "corporation_id": 98838742,
+  "alliance_id": null,
+  "corporation_name": "Null Meridian",
+  "alliance_name": null
+}

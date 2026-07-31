@@ -1,0 +1,40 @@
+{
+  "character_id": 90380865,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90517294,
+    "name": "J A Aloysiusz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90517294,
+      "name": "J A Aloysiusz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116861785,
+      "name": "Snowlyhz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123164609,
+      "name": "EII-A1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Verda Maggi",
+  "corporation_id": 1063360566,
+  "alliance_id": 1354830081,
+  "corporation_name": "SUNDERING",
+  "alliance_name": "Goonswarm Federation"
+}

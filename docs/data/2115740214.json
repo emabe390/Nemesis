@@ -1,0 +1,40 @@
+{
+  "character_id": 2115740214,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115947499,
+    "name": "Tohsaka Nagato",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2115947499,
+      "name": "Tohsaka Nagato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123629536,
+      "name": "SMOKER KAYSER",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115113034,
+      "name": "HookieDookie NoLookie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nas Atrebut",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

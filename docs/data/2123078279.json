@@ -1,0 +1,34 @@
+{
+  "character_id": 2123078279,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94302854,
+    "name": "Carmina Aideron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98743337,
+    "alliance_id": 99012862,
+    "corporation_name": "Mining Under the Influence",
+    "alliance_name": "Influential Operations"
+  },
+  "top_killers": [
+    {
+      "id": 94302854,
+      "name": "Carmina Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xeya",
+  "corporation_id": 98793980,
+  "alliance_id": null,
+  "corporation_name": "Corporation X23",
+  "alliance_name": null
+}

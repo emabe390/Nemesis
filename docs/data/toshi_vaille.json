@@ -1,0 +1,40 @@
+{
+  "character_id": 2123803449,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118861292,
+    "name": "JINTSUU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98347548,
+    "alliance_id": null,
+    "corporation_name": "Emergency Temporal Shift.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95221140,
+      "name": "Hiroshi Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toshi Vaille",
+  "corporation_id": 98412140,
+  "alliance_id": null,
+  "corporation_name": "JAGD Federation",
+  "alliance_name": null
+}

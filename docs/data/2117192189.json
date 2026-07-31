@@ -1,0 +1,40 @@
+{
+  "character_id": 2117192189,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 304652582,
+    "name": "Malcolm Malicious",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767830,
+    "alliance_id": 1900696668,
+    "corporation_name": "Suddenly a Covert Cyno",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116004080,
+      "name": "Erica Gyilok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113183745,
+      "name": "Raph Toulouse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Milo Telecomm",
+  "corporation_id": 98789419,
+  "alliance_id": 99013537,
+  "corporation_name": "Substance Over Form",
+  "alliance_name": "Insidious."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120433532,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1829202916,
+    "name": "Jim Raynot",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98551200,
+    "alliance_id": 99012982,
+    "corporation_name": "African Atomic.",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 1829202916,
+      "name": "Jim Raynot",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91657844,
+      "name": "Prometheus Dormiens",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96481537,
+      "name": "Xel'lotath Tier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1227994980,
+      "name": "Yellow Jackal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sixcan",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

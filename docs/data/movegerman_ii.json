@@ -1,0 +1,40 @@
+{
+  "character_id": 2123473545,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1281639685,
+    "name": "acidpsycho",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98770416,
+    "alliance_id": 99009698,
+    "corporation_name": "F1 Academy",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 1281639685,
+      "name": "acidpsycho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112130453,
+      "name": "Erik Hanson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118656452,
+      "name": "Netaga Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MoveGerman II",
+  "corporation_id": 98180098,
+  "alliance_id": 99002685,
+  "corporation_name": "Special Assault Unit",
+  "alliance_name": "Synergy of Steel"
+}

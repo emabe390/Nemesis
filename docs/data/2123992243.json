@@ -1,0 +1,52 @@
+{
+  "character_id": 2123992243,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91408843,
+    "name": "Roomero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94661872,
+      "name": "NeeonN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 778372051,
+      "name": "Broadcast",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 930628122,
+      "name": "Bigyboo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1930649793,
+      "name": "Imperius Dictatio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Moe Zores",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

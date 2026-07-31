@@ -1,0 +1,40 @@
+{
+  "character_id": 2123514604,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1426910836,
+    "name": "Radakos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98290394,
+    "alliance_id": 99007237,
+    "corporation_name": "Lazerhawks",
+    "alliance_name": "L A Z E R H A W K S"
+  },
+  "top_killers": [
+    {
+      "id": 1426910836,
+      "name": "Radakos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119925720,
+      "name": "Lorkin Avorom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122850332,
+      "name": "Noganhan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scout Noeyes",
+  "corporation_id": 98665672,
+  "alliance_id": 99003214,
+  "corporation_name": "Rise Of Exiles",
+  "alliance_name": "Brave Collective"
+}

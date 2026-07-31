@@ -1,0 +1,52 @@
+{
+  "character_id": 2123947456,
+  "total_losses": 21,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123181034,
+    "name": "Haskur Boloskarl",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98664364,
+    "alliance_id": 99014141,
+    "corporation_name": "WillCo.",
+    "alliance_name": "Hole Association"
+  },
+  "top_killers": [
+    {
+      "id": 2123181034,
+      "name": "Haskur Boloskarl",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1762537159,
+      "name": "Elissa Swan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2069822721,
+      "name": "Croowdrio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123378388,
+      "name": "ZoranGreen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Krystynianka",
+  "corporation_id": 98664364,
+  "alliance_id": 99014141,
+  "corporation_name": "WillCo.",
+  "alliance_name": "Hole Association"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113785276,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115397749,
+      "name": "Halflight lynx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122687614,
+      "name": "Mr Outrageous",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "M'Kahul",
+  "corporation_id": 98692643,
+  "alliance_id": null,
+  "corporation_name": "Monarch Security",
+  "alliance_name": null
+}

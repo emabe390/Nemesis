@@ -1,0 +1,52 @@
+{
+  "character_id": 2123338274,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123960532,
+    "name": "Naxolla",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98775495,
+    "alliance_id": 99011387,
+    "corporation_name": "Traumatic Wormhole",
+    "alliance_name": "ZERG REBORN"
+  },
+  "top_killers": [
+    {
+      "id": 2123960532,
+      "name": "Naxolla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90338555,
+      "name": "Cereale Grahams",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93107167,
+      "name": "behenn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117569679,
+      "name": "Karambo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119355242,
+      "name": "Darkhays",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KrayTax",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

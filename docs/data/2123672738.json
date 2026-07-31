@@ -1,0 +1,52 @@
+{
+  "character_id": 2123672738,
+  "total_losses": 52,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 2123429601,
+    "name": "TackleMan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95075259,
+      "name": "Cervilia Fox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1021763479,
+      "name": "Mazzic Karde",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1838990875,
+      "name": "Character 1838990875",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112938814,
+      "name": "Amara Denafel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zarred Boma",
+  "corporation_id": 98549595,
+  "alliance_id": 99005338,
+  "corporation_name": "Squid Inc.",
+  "alliance_name": "Pandemic Horde"
+}

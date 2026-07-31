@@ -1,0 +1,40 @@
+{
+  "character_id": 2116158644,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1574316715,
+    "name": "Corpse Killer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1063360566,
+    "alliance_id": 1354830081,
+    "corporation_name": "SUNDERING",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1574316715,
+      "name": "Corpse Killer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Ivan Pukan",
+  "corporation_id": 98725592,
+  "alliance_id": null,
+  "corporation_name": "Industry Workers",
+  "alliance_name": null
+}

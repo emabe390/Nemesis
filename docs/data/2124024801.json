@@ -1,0 +1,40 @@
+{
+  "character_id": 2124024801,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121774870,
+    "name": "Chad Cooks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 2121774870,
+      "name": "Chad Cooks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1422296594,
+      "name": "Zashiran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Talem Sen",
+  "corporation_id": 98831535,
+  "alliance_id": null,
+  "corporation_name": "Parallax Structure",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120135151,
+  "total_losses": 27,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929103832,
+      "name": "YangSham Po",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113257048,
+      "name": "Yursh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92887298,
+      "name": "Reksew Nabali",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vanek Sivov",
+  "corporation_id": 98491238,
+  "alliance_id": 99007203,
+  "corporation_name": "Matao Corp",
+  "alliance_name": "Siberian Squads"
+}

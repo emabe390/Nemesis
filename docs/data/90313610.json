@@ -1,0 +1,40 @@
+{
+  "character_id": 90313610,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90228204,
+    "name": "squartatore",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 90228204,
+      "name": "squartatore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114176899,
+      "name": "ChristianGamer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Detrime N'tal",
+  "corporation_id": 98559450,
+  "alliance_id": 99003214,
+  "corporation_name": "DanJev United",
+  "alliance_name": "Brave Collective"
+}

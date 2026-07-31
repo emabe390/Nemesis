@@ -1,0 +1,52 @@
+{
+  "character_id": 2123847075,
+  "total_losses": 36,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2114720110,
+    "name": "Mike Clawfinger",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 2114720110,
+      "name": "Mike Clawfinger",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113348126,
+      "name": "Judy Red",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119851314,
+      "name": "PtakuPL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91114085,
+      "name": "KOT I",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diana Ros",
+  "corporation_id": 98786824,
+  "alliance_id": null,
+  "corporation_name": "The Distracted Destroyers",
+  "alliance_name": null
+}

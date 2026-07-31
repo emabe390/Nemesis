@@ -1,0 +1,40 @@
+{
+  "character_id": 90728773,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95928021,
+    "name": "Gina Ferro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95928021,
+      "name": "Gina Ferro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 228613260,
+      "name": "shadowraven001",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 316096308,
+      "name": "Spooklet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tom Ormand",
+  "corporation_id": 98672533,
+  "alliance_id": 99005393,
+  "corporation_name": "BrainBox",
+  "alliance_name": "Blades of Grass"
+}

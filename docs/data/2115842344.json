@@ -1,0 +1,40 @@
+{
+  "character_id": 2115842344,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121068963,
+    "name": "Yak of Mors",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 641435244,
+    "alliance_id": null,
+    "corporation_name": "The Hackenings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121068963,
+      "name": "Yak of Mors",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93169480,
+      "name": "Exilens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114772624,
+      "name": "Sion Felicia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Catalina Asanari",
+  "corporation_id": 98776624,
+  "alliance_id": null,
+  "corporation_name": "AstroTerra INC",
+  "alliance_name": null
+}

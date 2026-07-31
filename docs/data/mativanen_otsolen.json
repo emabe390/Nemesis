@@ -1,0 +1,40 @@
+{
+  "character_id": 2123814826,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113377762,
+    "name": "Rob Kell",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98826500,
+    "alliance_id": 99008788,
+    "corporation_name": "Polaris Requiem",
+    "alliance_name": "The Skeleton Crew"
+  },
+  "top_killers": [
+    {
+      "id": 2113377762,
+      "name": "Rob Kell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123194984,
+      "name": "SpeEdRu1ner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751918,
+      "name": "DemonicMandem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mativanen Otsolen",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

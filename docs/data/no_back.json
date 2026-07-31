@@ -1,0 +1,52 @@
+{
+  "character_id": 2122336536,
+  "total_losses": 28,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2122346378,
+    "name": "No Mind",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122346378,
+      "name": "No Mind",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119571177,
+      "name": "obsn8192G",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "No Back",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

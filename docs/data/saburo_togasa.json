@@ -1,0 +1,52 @@
+{
+  "character_id": 2123684326,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94742803,
+    "name": "Admiral von Tirpitz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 94742803,
+      "name": "Admiral von Tirpitz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113905953,
+      "name": "Suzerayn Ibruin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115131122,
+      "name": "Pacus KR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121521394,
+      "name": "Okinawa Oshee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saburo Togasa",
+  "corporation_id": 98558686,
+  "alliance_id": 99012532,
+  "corporation_name": "Edge Dancers",
+  "alliance_name": "Angry Miners Alliance."
+}

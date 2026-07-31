@@ -1,0 +1,34 @@
+{
+  "character_id": 2121520549,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91475068,
+    "name": "beefier curtins",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98587728,
+    "alliance_id": 99015077,
+    "corporation_name": "Ignotis Collective",
+    "alliance_name": "Usurper Trucking Co."
+  },
+  "top_killers": [
+    {
+      "id": 91475068,
+      "name": "beefier curtins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115739025,
+      "name": "Reclutador IIRIDIUM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Strend Palermo",
+  "corporation_id": 98770552,
+  "alliance_id": 99013539,
+  "corporation_name": "The Church of Space Piracy",
+  "alliance_name": "The Disciples of Space Piracy"
+}

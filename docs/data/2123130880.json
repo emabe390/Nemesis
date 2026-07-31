@@ -1,0 +1,40 @@
+{
+  "character_id": 2123130880,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92322018,
+    "name": "Freak Hekard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 92322018,
+      "name": "Freak Hekard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92819676,
+      "name": "Eris Olgidar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 516780328,
+      "name": "Skie Ankora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gouseru",
+  "corporation_id": 98780050,
+  "alliance_id": 99002003,
+  "corporation_name": "Pocket Tiger",
+  "alliance_name": "No Value"
+}

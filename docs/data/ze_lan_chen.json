@@ -1,0 +1,52 @@
+{
+  "character_id": 2123444800,
+  "total_losses": 50,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 2123495282,
+    "name": "Character 2123495282",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98825941,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kun-Lun",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123495282,
+      "name": "Character 2123495282",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95041823,
+      "name": "Florian Boirelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ze Lan Chen",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

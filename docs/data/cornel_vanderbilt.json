@@ -1,0 +1,52 @@
+{
+  "character_id": 2124542387,
+  "total_losses": 36,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2124535509,
+    "name": "Halius Bravin",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98619056,
+    "alliance_id": null,
+    "corporation_name": "To Boldly Go",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124535509,
+      "name": "Halius Bravin",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 93979540,
+      "name": "Nick Sarien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94421295,
+      "name": "LeRoy Rathbone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 910233880,
+      "name": "Sah'ra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cornel Vanderbilt",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

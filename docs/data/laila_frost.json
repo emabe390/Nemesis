@@ -1,0 +1,52 @@
+{
+  "character_id": 2123501566,
+  "total_losses": 28,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 329034030,
+    "name": "Tugen",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 329034030,
+      "name": "Tugen",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 946904845,
+      "name": "TylerDerden",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92194102,
+      "name": "Ragnar Brightmane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 404346796,
+      "name": "Cat T",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Laila Frost",
+  "corporation_id": 1860753927,
+  "alliance_id": 1644918530,
+  "corporation_name": "Minmatar Death Squad",
+  "alliance_name": "Broken Chains Alliance"
+}

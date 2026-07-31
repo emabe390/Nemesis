@@ -1,0 +1,40 @@
+{
+  "character_id": 2123694525,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114127184,
+    "name": "anna su",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98725234,
+    "alliance_id": 1900696668,
+    "corporation_name": "Alkaid Broken Army",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114127184,
+      "name": "anna su",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 344878383,
+      "name": "Ninjatator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2057943890,
+      "name": "NinjaSpud",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aarasen Utrigas",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

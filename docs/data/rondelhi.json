@@ -1,0 +1,46 @@
+{
+  "character_id": 2123984686,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120736800,
+      "name": "Captain Ginjuic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113513220,
+      "name": "Abych Xadi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123138120,
+      "name": "Artem S2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rondelhi",
+  "corporation_id": 98754600,
+  "alliance_id": 99011119,
+  "corporation_name": "Zeta Reticuli Blackpill Alliance",
+  "alliance_name": "Absolute Glory"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 97236111,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 903898715,
+    "name": "Karenar Corna",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 903898715,
+      "name": "Karenar Corna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1962411565,
+      "name": "Souiginto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121523405,
+      "name": "Hyn Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sansiro",
+  "corporation_id": 98648570,
+  "alliance_id": 99010561,
+  "corporation_name": "Krab Miners",
+  "alliance_name": "Krab Miners."
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123985841,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121078502,
+    "name": "KACTAHEDA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733247,
+    "alliance_id": null,
+    "corporation_name": "Darkwood inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121078502,
+      "name": "KACTAHEDA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113383769,
+      "name": "Chakal Evotori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "mira whystar",
+  "corporation_id": 98731003,
+  "alliance_id": 99013122,
+  "corporation_name": "MarcoPOLO2000",
+  "alliance_name": "Chickens Run"
+}

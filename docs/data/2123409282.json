@@ -1,0 +1,46 @@
+{
+  "character_id": 2123409282,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90818092,
+    "name": "Dookova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98690361,
+    "alliance_id": 1900696668,
+    "corporation_name": "Hold my Bier",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90818092,
+      "name": "Dookova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93938269,
+      "name": "Matt Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117723725,
+      "name": "Firray",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123370249,
+      "name": "Kaedorin Vassaleth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FartShines",
+  "corporation_id": 98813284,
+  "alliance_id": 99003581,
+  "corporation_name": "Environmental Hazard.",
+  "alliance_name": "Fraternity."
+}

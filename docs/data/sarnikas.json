@@ -1,0 +1,52 @@
+{
+  "character_id": 2116632148,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113795791,
+      "name": "Tybas Shelby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120075765,
+      "name": "Ellizabeth Swan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123844709,
+      "name": "Kinto Hira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sarnikas",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

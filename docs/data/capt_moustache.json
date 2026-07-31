@@ -1,0 +1,52 @@
+{
+  "character_id": 2123222959,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113376678,
+    "name": "Seishin UOtcha",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98833686,
+    "alliance_id": null,
+    "corporation_name": "OutLawED.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113376678,
+      "name": "Seishin UOtcha",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112000389,
+      "name": "Ingvi Andreus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1509185380,
+      "name": "Character 1509185380",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112119782,
+      "name": "Joe Arareb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112319558,
+      "name": "Goosh Oumae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capt Moustache",
+  "corporation_id": 439896599,
+  "alliance_id": 1727758877,
+  "corporation_name": "Therapy.",
+  "alliance_name": "Northern Coalition."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122870942,
+  "total_losses": 40,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 771153712,
+    "name": "Gardun",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98010909,
+    "alliance_id": 99010484,
+    "corporation_name": "Verge Vendor Industries",
+    "alliance_name": "The Burning Contingent Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 771153712,
+      "name": "Gardun",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91359017,
+      "name": "Jintarl Teac's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91948077,
+      "name": "Kenshin Ataru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95704278,
+      "name": "Valynda DtAuber",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95836181,
+      "name": "Julieta Chavez",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bjor Mangeiri",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

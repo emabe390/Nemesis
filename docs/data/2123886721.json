@@ -1,0 +1,52 @@
+{
+  "character_id": 2123886721,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95127032,
+    "name": "Biggerest Johnson",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98748169,
+    "alliance_id": 99005178,
+    "corporation_name": "Feather Rufflers",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90221443,
+      "name": "Rykirs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90286690,
+      "name": "Al Godox",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ighae er Sackvic",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

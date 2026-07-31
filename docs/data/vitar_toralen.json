@@ -1,0 +1,40 @@
+{
+  "character_id": 2115307532,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 842169503,
+    "name": "Myz Toyou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 904765468,
+    "alliance_id": null,
+    "corporation_name": "Nekkid Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 842169503,
+      "name": "Myz Toyou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114300799,
+      "name": "chiguadecha lin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115307532,
+      "name": "Vitar Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vitar Toralen",
+  "corporation_id": 98637669,
+  "alliance_id": null,
+  "corporation_name": "F.13 - Union of Russians",
+  "alliance_name": null
+}

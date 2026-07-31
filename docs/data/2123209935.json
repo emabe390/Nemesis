@@ -1,0 +1,52 @@
+{
+  "character_id": 2123209935,
+  "total_losses": 48,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 91849612,
+    "name": "StatiX Koskanaiken",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000006,
+    "alliance_id": null,
+    "corporation_name": "Deep Core Mining Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91849612,
+      "name": "StatiX Koskanaiken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96676697,
+      "name": "INSTRUCTOR",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117619367,
+      "name": "KGBEST",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118457030,
+      "name": "Generalissimus Obvious",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94304638,
+      "name": "Felix Ernaga",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rakrato",
+  "corporation_id": 98588384,
+  "alliance_id": 99003581,
+  "corporation_name": "YeLuo-XingHai",
+  "alliance_name": "Fraternity."
+}

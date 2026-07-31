@@ -1,0 +1,34 @@
+{
+  "character_id": 2123648819,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122792212,
+    "name": "Oznah n313",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122792212,
+      "name": "Oznah n313",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118861906,
+      "name": "Sigma Siguri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dragneous Raznok",
+  "corporation_id": 98809231,
+  "alliance_id": null,
+  "corporation_name": "Dragneous Manufacturing and Logisic Corporation",
+  "alliance_name": null
+}

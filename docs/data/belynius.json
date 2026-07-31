@@ -1,0 +1,40 @@
+{
+  "character_id": 92357705,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1511492146,
+    "name": "Thom Grimmar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1511492146,
+      "name": "Thom Grimmar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113934359,
+      "name": "Demetrea Joringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114368862,
+      "name": "Yung Kang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Belynius",
+  "corporation_id": 98827129,
+  "alliance_id": 99004344,
+  "corporation_name": "Legio Noctis",
+  "alliance_name": "Hole Control"
+}

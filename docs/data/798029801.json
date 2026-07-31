@@ -1,0 +1,52 @@
+{
+  "character_id": 798029801,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91406591,
+    "name": "charme feminine",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91406591,
+      "name": "charme feminine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92052378,
+      "name": "Moon Shi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 404878580,
+      "name": "DaMainMan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 798029801,
+      "name": "Phl0x",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1388656150,
+      "name": "Gabriel Stars",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phl0x",
+  "corporation_id": 98546739,
+  "alliance_id": 1354830081,
+  "corporation_name": "Balkan Kings",
+  "alliance_name": "Goonswarm Federation"
+}

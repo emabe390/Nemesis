@@ -1,0 +1,46 @@
+{
+  "character_id": 2115141609,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 243941398,
+    "name": "masty",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 243941398,
+      "name": "masty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121830775,
+      "name": "Ghostbuster Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121830776,
+      "name": "Ghostbuster Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123182913,
+      "name": "Lt Patogenochka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DrFlakes",
+  "corporation_id": 98707035,
+  "alliance_id": null,
+  "corporation_name": "Freeport Unions",
+  "alliance_name": null
+}

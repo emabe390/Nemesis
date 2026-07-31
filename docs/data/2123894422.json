@@ -1,0 +1,34 @@
+{
+  "character_id": 2123894422,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96584048,
+      "name": "Sanadora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IzzyKitty",
+  "corporation_id": 98820284,
+  "alliance_id": null,
+  "corporation_name": "Emergency-Medical-Center",
+  "alliance_name": null
+}

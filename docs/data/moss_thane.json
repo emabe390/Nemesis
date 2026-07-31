@@ -1,0 +1,52 @@
+{
+  "character_id": 2118766206,
+  "total_losses": 47,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 242489909,
+    "name": "cl1de",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 242489909,
+      "name": "cl1de",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90974043,
+      "name": "Daniel Alpena",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92523684,
+      "name": "Disciple Amphal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Moss Thane",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

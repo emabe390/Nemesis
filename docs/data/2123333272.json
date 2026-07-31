@@ -1,0 +1,52 @@
+{
+  "character_id": 2123333272,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92657160,
+    "name": "Mysor McGuinness",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98148549,
+    "alliance_id": 99012982,
+    "corporation_name": "Capital Fusion.",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 92657160,
+      "name": "Mysor McGuinness",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 719834366,
+      "name": "Narcotic XIII",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1140423198,
+      "name": "Bataal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112064274,
+      "name": "Allan Saken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117668247,
+      "name": "Lykos Zahir",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bilink",
+  "corporation_id": 98520878,
+  "alliance_id": 99001317,
+  "corporation_name": "Russian Space Community",
+  "alliance_name": "Banderlogs Alliance"
+}

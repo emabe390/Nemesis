@@ -1,0 +1,40 @@
+{
+  "character_id": 2124235582,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113754774,
+    "name": "Mudaro Rogers",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2113754774,
+      "name": "Mudaro Rogers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122998455,
+      "name": "Adam Bellamy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crixus Manillia",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

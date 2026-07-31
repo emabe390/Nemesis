@@ -1,0 +1,40 @@
+{
+  "character_id": 94192039,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123149508,
+    "name": "01Archer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795918,
+    "alliance_id": null,
+    "corporation_name": "001Archer Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123149508,
+      "name": "01Archer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114909334,
+      "name": "Zurg Naari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121250240,
+      "name": "Character 2121250240",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baron VonWalrus",
+  "corporation_id": 98738943,
+  "alliance_id": 99013537,
+  "corporation_name": "Take The Bait.",
+  "alliance_name": "Insidious."
+}

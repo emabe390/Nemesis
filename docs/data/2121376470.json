@@ -1,0 +1,52 @@
+{
+  "character_id": 2121376470,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 92534239,
+    "name": "Emil Sebastian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98697298,
+    "alliance_id": 99010484,
+    "corporation_name": "Llama Sombrero Syndicate",
+    "alliance_name": "The Burning Contingent Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92534239,
+      "name": "Emil Sebastian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96722564,
+      "name": "MrWhit3 Amilupar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 91346781,
+      "name": "Maleus Maleficarus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mamichi Odunen",
+  "corporation_id": 98807845,
+  "alliance_id": null,
+  "corporation_name": "I Shoulda Bought It When I Saw It At Jita",
+  "alliance_name": null
+}

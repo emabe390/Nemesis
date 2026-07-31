@@ -1,0 +1,52 @@
+{
+  "character_id": 2121621537,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93151147,
+      "name": "Angelik Bleck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96659404,
+      "name": "SlightlyPsychotic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96773073,
+      "name": "Dezy Keys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115722043,
+      "name": "Hot Keys",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nalixa Star",
+  "corporation_id": 98818355,
+  "alliance_id": 99013766,
+  "corporation_name": "Capys Legion",
+  "alliance_name": "Death Legion of Capybaras"
+}

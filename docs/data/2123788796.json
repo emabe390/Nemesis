@@ -1,0 +1,40 @@
+{
+  "character_id": 2123788796,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92444174,
+    "name": "Watson Crick",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92444174,
+      "name": "Watson Crick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92317160,
+      "name": "Mobius Fehrnah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118814274,
+      "name": "Aggressive Elk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Legate Bremus",
+  "corporation_id": 439896599,
+  "alliance_id": 99013537,
+  "corporation_name": "Therapy.",
+  "alliance_name": "Insidious."
+}

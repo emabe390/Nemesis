@@ -1,0 +1,52 @@
+{
+  "character_id": 788703386,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91581240,
+    "name": "Sarah Umbra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93223345,
+      "name": "Character 93223345",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96705893,
+      "name": "Franco Ripper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 210383611,
+      "name": "greg2010",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shyressa",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

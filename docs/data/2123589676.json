@@ -1,0 +1,40 @@
+{
+  "character_id": 2123589676,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 506809140,
+    "name": "MrChuckNorris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720342,
+    "alliance_id": 99009845,
+    "corporation_name": "Kurupt.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 506809140,
+      "name": "MrChuckNorris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1173505529,
+      "name": "True Killjoy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SmokeysAvenger",
+  "corporation_id": 98669523,
+  "alliance_id": 99013284,
+  "corporation_name": "Airwolf incorporated",
+  "alliance_name": "Grand Inquisitors Federation"
+}

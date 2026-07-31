@@ -1,0 +1,40 @@
+{
+  "character_id": 2122129748,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115616791,
+    "name": "nick buckhard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829447,
+    "alliance_id": null,
+    "corporation_name": "GasCloudHunters",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115616791,
+      "name": "nick buckhard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96614471,
+      "name": "Afranius Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120611321,
+      "name": "BergofCraft",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Urhunen Alela Hakomairos",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

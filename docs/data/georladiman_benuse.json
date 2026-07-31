@@ -1,0 +1,46 @@
+{
+  "character_id": 2123468563,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 616320740,
+    "name": "Luko Melis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 616320740,
+      "name": "Luko Melis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122654917,
+      "name": "Kami XV",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122753445,
+      "name": "Over Hit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Georladiman Benuse",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

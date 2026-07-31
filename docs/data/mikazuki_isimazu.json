@@ -1,0 +1,34 @@
+{
+  "character_id": 2112603530,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116627622,
+    "name": "Phyve Solette",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98653604,
+    "alliance_id": 99010102,
+    "corporation_name": "The Blood Raiders Children's Charity",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 2116627622,
+      "name": "Phyve Solette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118621994,
+      "name": "Terdus Fergusus Maximus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mikazuki Isimazu",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1234151807,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94651961,
+    "name": "Wiley Tombs",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98833658,
+    "alliance_id": null,
+    "corporation_name": "Rustfang Cartel",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94651961,
+      "name": "Wiley Tombs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 239099719,
+      "name": "L0rdF1end",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119318204,
+      "name": "BigFunBags",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cid Lamar",
+  "corporation_id": 98832434,
+  "alliance_id": null,
+  "corporation_name": "Das Emperium",
+  "alliance_name": null
+}

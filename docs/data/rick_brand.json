@@ -1,0 +1,40 @@
+{
+  "character_id": 2115245300,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95948641,
+    "name": "Armour Hegirin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98564814,
+    "alliance_id": null,
+    "corporation_name": "The Eight Banners",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95948641,
+      "name": "Armour Hegirin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113987785,
+      "name": "Posion Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118883161,
+      "name": "NiZhenDeBuPi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rick Brand",
+  "corporation_id": 98613748,
+  "alliance_id": 99012995,
+  "corporation_name": "Silver Fog Dragon Ride",
+  "alliance_name": "Dragon Riders Legion"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2120965137,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113788375,
+    "name": "Sophia Bean",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98768799,
+    "alliance_id": 99013692,
+    "corporation_name": "Black Rats Securities",
+    "alliance_name": "Independent Miners Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2113788375,
+      "name": "Sophia Bean",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123960094,
+      "name": "Sarge Stedenko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123107920,
+      "name": "Wizard of Idium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123901385,
+      "name": "Maxie Telar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amee Drovotet",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

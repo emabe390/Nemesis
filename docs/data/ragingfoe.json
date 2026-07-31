@@ -1,0 +1,40 @@
+{
+  "character_id": 2124196708,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 757344657,
+    "name": "Loner Grimm",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98182376,
+    "alliance_id": 99013187,
+    "corporation_name": "Quafe Commandos",
+    "alliance_name": "The Obsidian Front - Reborn"
+  },
+  "top_killers": [
+    {
+      "id": 757344657,
+      "name": "Loner Grimm",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118920683,
+      "name": "Jules Jane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124195200,
+      "name": "Mina Milten",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ragingfoe",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

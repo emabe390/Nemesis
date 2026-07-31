@@ -1,0 +1,52 @@
+{
+  "character_id": 2113052408,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123859576,
+    "name": "Emberdark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98741376,
+    "alliance_id": 99011978,
+    "corporation_name": "Minmatar Fleet Academy",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123859576,
+      "name": "Emberdark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94467194,
+      "name": "Constantine en Chasteaux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115425092,
+      "name": "Pierien Saissore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116242012,
+      "name": "Sycamoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119885775,
+      "name": "Nastysha Top",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Niyari",
+  "corporation_id": 98641356,
+  "alliance_id": null,
+  "corporation_name": "The Niyari Corporation",
+  "alliance_name": null
+}

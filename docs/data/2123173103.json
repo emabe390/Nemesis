@@ -1,0 +1,52 @@
+{
+  "character_id": 2123173103,
+  "total_losses": 26,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2116341252,
+    "name": "Character 2116341252",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116341252,
+      "name": "Character 2116341252",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114731379,
+      "name": "Kalifa Surmia Ederton",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1914210834,
+      "name": "Zionhead",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116312739,
+      "name": "Zaer Dorgiers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95448424,
+      "name": "Marcus Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Arkonor",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

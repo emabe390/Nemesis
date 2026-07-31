@@ -1,0 +1,52 @@
+{
+  "character_id": 2120235073,
+  "total_losses": 39,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 1019120421,
+    "name": "slowill",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 197097487,
+    "alliance_id": 1900696668,
+    "corporation_name": "4S Corporation",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1019120421,
+      "name": "slowill",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90907107,
+      "name": "Ariadne Nestea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 732380593,
+      "name": "Morfane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92874664,
+      "name": "Ammo Dodger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93621880,
+      "name": "Atrol Nalelmir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haydon Isht",
+  "corporation_id": 98777301,
+  "alliance_id": 99013941,
+  "corporation_name": "Dollywood",
+  "alliance_name": "James Webb Space Telescope"
+}

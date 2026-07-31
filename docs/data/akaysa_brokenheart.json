@@ -1,0 +1,40 @@
+{
+  "character_id": 2123090265,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1992139685,
+    "name": "Mekaonis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98672365,
+    "alliance_id": 99010629,
+    "corporation_name": "Princess Aiko Hold My Hand",
+    "alliance_name": "Safety. Net"
+  },
+  "top_killers": [
+    {
+      "id": 1992139685,
+      "name": "Mekaonis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113458881,
+      "name": "Seethlaw Aldrain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122180766,
+      "name": "Kentucky Chicken-Vegetable",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akaysa Brokenheart",
+  "corporation_id": 98813078,
+  "alliance_id": null,
+  "corporation_name": "PlunderBunny Inc.",
+  "alliance_name": null
+}

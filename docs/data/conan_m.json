@@ -1,0 +1,52 @@
+{
+  "character_id": 2119836392,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116290193,
+      "name": "SeiFFA Mel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119959114,
+      "name": "Jinx Alvarez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96760940,
+      "name": "Artanis Talander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105165308,
+      "name": "Marclonus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Conan M",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

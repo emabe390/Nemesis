@@ -1,0 +1,40 @@
+{
+  "character_id": 2122198535,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95872464,
+    "name": "Lukas Van Eind",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95872464,
+      "name": "Lukas Van Eind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118344523,
+      "name": "Manny Iwama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122396061,
+      "name": "Nightzwatch3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mozarent",
+  "corporation_id": 98767815,
+  "alliance_id": 99009324,
+  "corporation_name": "SmartBomb Mechanics",
+  "alliance_name": "Wardec Mechanics"
+}

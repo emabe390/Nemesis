@@ -1,0 +1,52 @@
+{
+  "character_id": 2121938725,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2116443475,
+    "name": "Zero Santiago",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98549595,
+    "alliance_id": 386292982,
+    "corporation_name": "Squid Inc.",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2116443475,
+      "name": "Zero Santiago",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93071977,
+      "name": "Cytric Saissore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96871538,
+      "name": "NugMiner 420",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 600050110,
+      "name": "Civ Ilization",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Danny Deckchair",
+  "corporation_id": 98530982,
+  "alliance_id": 99013551,
+  "corporation_name": "Solarmark",
+  "alliance_name": "Stellarium Alliance"
+}

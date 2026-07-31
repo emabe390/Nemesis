@@ -1,0 +1,52 @@
+{
+  "character_id": 2123792866,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 946402945,
+    "name": "Metanii",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502319709,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cloak and Daggers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 946402945,
+      "name": "Metanii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95041823,
+      "name": "Florian Boirelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95530845,
+      "name": "Lida Semah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1045147051,
+      "name": "Angel75",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113780370,
+      "name": "Vakirian Duruodo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ushumgallu",
+  "corporation_id": 98366055,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ministry of Offense",
+  "alliance_name": "Goonswarm Federation"
+}

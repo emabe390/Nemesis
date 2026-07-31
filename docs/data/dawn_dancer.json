@@ -1,0 +1,52 @@
+{
+  "character_id": 2124256138,
+  "total_losses": 16,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 1564908281,
+      "name": "cursedlion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112832315,
+      "name": "Mrs Smart B",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96901445,
+      "name": "Rozo Druprime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1762537159,
+      "name": "Elissa Swan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dawn Dancer",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123708731,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 560290240,
+    "name": "Coreshot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799729,
+    "alliance_id": 1900696668,
+    "corporation_name": "Splash Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 560290240,
+      "name": "Coreshot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116141465,
+      "name": "Brainzzo Daniels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117677260,
+      "name": "Mr Biggles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faith Lagertha",
+  "corporation_id": 98541758,
+  "alliance_id": null,
+  "corporation_name": "Emperor's Medical Corporation",
+  "alliance_name": null
+}

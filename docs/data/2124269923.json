@@ -1,0 +1,34 @@
+{
+  "character_id": 2124269923,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96028052,
+    "name": "VanderBijl",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96028052,
+      "name": "VanderBijl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112253086,
+      "name": "Marlborow Hosay-Bay",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Another Bidon",
+  "corporation_id": 98834019,
+  "alliance_id": 99009698,
+  "corporation_name": "Mindless Warp",
+  "alliance_name": "Worst Alliance Ever"
+}

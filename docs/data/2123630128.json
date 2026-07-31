@@ -1,0 +1,52 @@
+{
+  "character_id": 2123630128,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123619713,
+      "name": "Jason Howlands",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ira-Vehementi",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

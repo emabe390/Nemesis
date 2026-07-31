@@ -1,0 +1,34 @@
+{
+  "character_id": 2114976789,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114581990,
+    "name": "Evdokiya Bershanskaya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98426099,
+    "alliance_id": 99007326,
+    "corporation_name": "Special Expedition for Space Works",
+    "alliance_name": "Space Search and Rescue"
+  },
+  "top_killers": [
+    {
+      "id": 2114581990,
+      "name": "Evdokiya Bershanskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95388762,
+      "name": "Ariel Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Therdune Izia",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

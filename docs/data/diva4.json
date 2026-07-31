@@ -1,0 +1,52 @@
+{
+  "character_id": 2123029102,
+  "total_losses": 27,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123029124,
+    "name": "Diva5",
+    "kill_count": 6,
+    "final_blows": 5,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123029124,
+      "name": "Diva5",
+      "kill_count": 6,
+      "final_blows": 5
+    },
+    {
+      "id": 2123029076,
+      "name": "Diva2",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 617925399,
+      "name": "Character 617925399",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 796924354,
+      "name": "Khaitos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Diva4",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

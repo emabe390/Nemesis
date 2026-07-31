@@ -1,0 +1,52 @@
+{
+  "character_id": 2124342283,
+  "total_losses": 17,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 939572628,
+    "name": "Oboliskos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98535975,
+    "alliance_id": 99014092,
+    "corporation_name": "Shepards Of Mettle",
+    "alliance_name": "Quafe Liberation Front"
+  },
+  "top_killers": [
+    {
+      "id": 939572628,
+      "name": "Oboliskos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95960346,
+      "name": "Krobar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1653680342,
+      "name": "Phantom Silver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mortyly",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

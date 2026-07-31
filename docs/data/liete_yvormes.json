@@ -1,0 +1,40 @@
+{
+  "character_id": 2123719769,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116322116,
+    "name": "Dizzy Acami",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826411,
+    "alliance_id": null,
+    "corporation_name": "United Paint Drinkers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116322116,
+      "name": "Dizzy Acami",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114430371,
+      "name": "Marcus Arilia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117438241,
+      "name": "Mk18",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liete Yvormes",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1300909620,
+  "total_losses": 40,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 90544636,
+    "name": "Character 90544636",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817566,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cool Beans Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90544636,
+      "name": "Character 90544636",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91451855,
+      "name": "Elise Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92436923,
+      "name": "Mali Utama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93956667,
+      "name": "Val Pospell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gewik O'Drakar",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

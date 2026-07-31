@@ -1,0 +1,52 @@
+{
+  "character_id": 2123601080,
+  "total_losses": 21,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 95072774,
+    "name": "Bob the Fourth",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98814023,
+    "alliance_id": 99014284,
+    "corporation_name": "Imperrors Children",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1382162818,
+      "name": "BepLLluTeJIb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115211062,
+      "name": "Large Quafe Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121761982,
+      "name": "Dr Jewlittle",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Main Structure",
+  "corporation_id": 98821788,
+  "alliance_id": null,
+  "corporation_name": "Structure Corp",
+  "alliance_name": null
+}

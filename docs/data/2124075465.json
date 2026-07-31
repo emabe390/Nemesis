@@ -1,0 +1,34 @@
+{
+  "character_id": 2124075465,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 495107354,
+    "name": "Mattos Vali",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95999487,
+      "name": "EVEPPAPGA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jeanne Limoor",
+  "corporation_id": 98821210,
+  "alliance_id": 99015009,
+  "corporation_name": "Limoor Exploration and Extraction",
+  "alliance_name": "Wildlife Industries"
+}

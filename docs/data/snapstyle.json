@@ -1,0 +1,34 @@
+{
+  "character_id": 691745852,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120656059,
+    "name": "Gladius Humanitatis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752916,
+    "alliance_id": 99007252,
+    "corporation_name": "The Most Kind Corporation",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 2120656059,
+      "name": "Gladius Humanitatis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121193663,
+      "name": "Kernel Error",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Snapstyle",
+  "corporation_id": 1184675423,
+  "alliance_id": 1354830081,
+  "corporation_name": "Amok.",
+  "alliance_name": "Goonswarm Federation"
+}

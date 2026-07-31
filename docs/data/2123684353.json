@@ -1,0 +1,40 @@
+{
+  "character_id": 2123684353,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94206591,
+    "name": "Zavasha",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 94206591,
+      "name": "Zavasha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122977457,
+      "name": "Jace-Beleren",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "qEBASH",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

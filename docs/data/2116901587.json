@@ -1,0 +1,40 @@
+{
+  "character_id": 2116901587,
+  "total_losses": 19,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123701642,
+    "name": "Nozomi Takahashi",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123701642,
+      "name": "Nozomi Takahashi",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 96619319,
+      "name": "Celeste Star",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1486100897,
+      "name": "Dendarius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soleil Guardian",
+  "corporation_id": 98628738,
+  "alliance_id": 99011279,
+  "corporation_name": "Pat Patrouille",
+  "alliance_name": "Naval Defence Alliance"
+}

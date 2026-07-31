@@ -1,0 +1,52 @@
+{
+  "character_id": 2116293870,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90753521,
+    "name": "Sinimox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704442,
+    "alliance_id": null,
+    "corporation_name": "Raised by Wolves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90753521,
+      "name": "Sinimox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93583419,
+      "name": "Biosins Eistiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 264231465,
+      "name": "RapturnL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Proteus Mirablis",
+  "corporation_id": 98575932,
+  "alliance_id": 1354830081,
+  "corporation_name": "Strategically Bad",
+  "alliance_name": "Goonswarm Federation"
+}

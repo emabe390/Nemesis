@@ -1,0 +1,52 @@
+{
+  "character_id": 2115521023,
+  "total_losses": 57,
+  "unique_killers": 52,
+  "nemesis": {
+    "id": 2121871470,
+    "name": "Blade Runner Deckard",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2121871470,
+      "name": "Blade Runner Deckard",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1967155372,
+      "name": "CyrusNZ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116897255,
+      "name": "Vale Boloskarl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123069604,
+      "name": "Major Sergey Nechaev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Kyoto Akiga",
+  "corporation_id": 2014367342,
+  "alliance_id": 99009927,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Deepwater Hooligans"
+}

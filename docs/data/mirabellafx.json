@@ -1,0 +1,40 @@
+{
+  "character_id": 2124260201,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95908107,
+    "name": "Hitman 47-47",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98822228,
+    "alliance_id": null,
+    "corporation_name": "GABELLA CORP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113669816,
+      "name": "Haika Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MirabellaFX",
+  "corporation_id": 98631060,
+  "alliance_id": 99012070,
+  "corporation_name": "Russian Space Academy",
+  "alliance_name": "PEPE SQUAD"
+}

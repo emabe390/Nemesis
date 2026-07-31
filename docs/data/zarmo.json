@@ -1,0 +1,52 @@
+{
+  "character_id": 2117128734,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2117002219,
+    "name": "Matilda Shark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1056867436,
+    "alliance_id": 99003581,
+    "corporation_name": "Super Villains",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2117002219,
+      "name": "Matilda Shark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122138989,
+      "name": "bear bear bear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 535226732,
+      "name": "ratangor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117128734,
+      "name": "Zarmo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zarmo",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

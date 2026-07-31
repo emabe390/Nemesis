@@ -1,0 +1,52 @@
+{
+  "character_id": 2123396360,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115237451,
+    "name": "Swagger Olacar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1552312459,
+    "alliance_id": 99007887,
+    "corporation_name": "Star Frontiers",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2115237451,
+      "name": "Swagger Olacar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121279135,
+      "name": "Aleks Steele",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90286544,
+      "name": "Archangel's Echo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93278344,
+      "name": "Flying Flesh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Steph Butler",
+  "corporation_id": 98725773,
+  "alliance_id": 99013390,
+  "corporation_name": "Vapor Lock.",
+  "alliance_name": "Vapor-Lock"
+}

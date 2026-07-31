@@ -1,0 +1,40 @@
+{
+  "character_id": 2113785151,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119548890,
+    "name": "Honer Okel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695601,
+    "alliance_id": 99005601,
+    "corporation_name": "Fingers of God",
+    "alliance_name": "Rainbow Knights"
+  },
+  "top_killers": [
+    {
+      "id": 2119548890,
+      "name": "Honer Okel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90239593,
+      "name": "Shynix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123465248,
+      "name": "RanKoh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ripper Cell",
+  "corporation_id": 98683975,
+  "alliance_id": null,
+  "corporation_name": "The Golden Dawn",
+  "alliance_name": null
+}

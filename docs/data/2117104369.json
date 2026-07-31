@@ -1,0 +1,40 @@
+{
+  "character_id": 2117104369,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122110095,
+    "name": "Demon's Fate",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98441032,
+    "alliance_id": 99012042,
+    "corporation_name": "Bloody Entertainment",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 2122110095,
+      "name": "Demon's Fate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93285556,
+      "name": "Exia Lennelluc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123503303,
+      "name": "BIack Annis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ketha Vemane",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

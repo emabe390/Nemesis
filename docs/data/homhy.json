@@ -1,0 +1,40 @@
+{
+  "character_id": 2123946789,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90022389,
+    "name": "N'Patris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98442405,
+    "alliance_id": 99012911,
+    "corporation_name": "The New Eden Yacht Club",
+    "alliance_name": "The New Eden Yacht Club."
+  },
+  "top_killers": [
+    {
+      "id": 90022389,
+      "name": "N'Patris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123709692,
+      "name": "Ice Frostyy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HOMHY",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

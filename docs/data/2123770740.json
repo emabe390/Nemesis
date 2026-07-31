@@ -1,0 +1,46 @@
+{
+  "character_id": 2123770740,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 165736888,
+    "name": "Zippy",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98434316,
+    "alliance_id": 1900696668,
+    "corporation_name": "Tactically Challenged",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 165736888,
+      "name": "Zippy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114852960,
+      "name": "Rain Lunam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120520313,
+      "name": "CN170",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122694346,
+      "name": "Sameraima Irkas Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LockOnLoad",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

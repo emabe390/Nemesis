@@ -1,0 +1,52 @@
+{
+  "character_id": 2123737096,
+  "total_losses": 30,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2118007580,
+    "name": "Merlijn",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98725661,
+    "alliance_id": null,
+    "corporation_name": "First Time Right",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118007580,
+      "name": "Merlijn",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 517826599,
+      "name": "Soul Pahan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1322470564,
+      "name": "Panteraa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Esclink Price",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

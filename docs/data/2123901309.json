@@ -1,0 +1,40 @@
+{
+  "character_id": 2123901309,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92503956,
+    "name": "GREEN PHOBOS",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98343297,
+    "alliance_id": 99004901,
+    "corporation_name": "Lowlife.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 92503956,
+      "name": "GREEN PHOBOS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96301310,
+      "name": "evenstarnos loki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96539228,
+      "name": "MIles Lonehearth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aleksandr Azimov",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

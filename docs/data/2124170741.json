@@ -1,0 +1,40 @@
+{
+  "character_id": 2124170741,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122890826,
+    "name": "Norespect",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795415,
+    "alliance_id": null,
+    "corporation_name": "Reinforced Everyday",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122890826,
+      "name": "Norespect",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96694814,
+      "name": "Coramyr Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124175382,
+      "name": "Character 2124175382",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Core Sample",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

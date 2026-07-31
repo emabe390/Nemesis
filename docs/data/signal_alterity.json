@@ -1,0 +1,52 @@
+{
+  "character_id": 2113022738,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114853350,
+    "name": "Tzenjinn",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98444440,
+    "alliance_id": null,
+    "corporation_name": "Fly Sideways",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114853350,
+      "name": "Tzenjinn",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119025621,
+      "name": "Wobba",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 349706561,
+      "name": "Lanissum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 296426735,
+      "name": "Tricky Dutch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114771915,
+      "name": "Olivia Rayburn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Signal Alterity",
+  "corporation_id": 98530982,
+  "alliance_id": 99013551,
+  "corporation_name": "Solarmark",
+  "alliance_name": "Stellarium Alliance"
+}

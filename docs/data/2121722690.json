@@ -1,0 +1,52 @@
+{
+  "character_id": 2121722690,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96754789,
+    "name": "Character 96754789",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98688818,
+    "alliance_id": 1354830081,
+    "corporation_name": "Big Black Crows",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96754789,
+      "name": "Character 96754789",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113335727,
+      "name": "Marcus Cainanac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 747677046,
+      "name": "Ciryon Atani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1230767333,
+      "name": "Dark Aiden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117186823,
+      "name": "Sweaty Boatman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thuri Da'Ator",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

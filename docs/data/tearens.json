@@ -1,0 +1,40 @@
+{
+  "character_id": 2119193817,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2112236603,
+      "name": "Demsee Dems",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121003156,
+      "name": "Igor Trimaylov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tearens",
+  "corporation_id": 98716511,
+  "alliance_id": 99013005,
+  "corporation_name": "Die By The Sword",
+  "alliance_name": "Burn the Boats"
+}

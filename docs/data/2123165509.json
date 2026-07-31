@@ -1,0 +1,46 @@
+{
+  "character_id": 2123165509,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123049603,
+    "name": "Nico Bayllik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2123049603,
+      "name": "Nico Bayllik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94693218,
+      "name": "Katrina BlackMine Kashada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 579386461,
+      "name": "Jorraan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121940021,
+      "name": "Erik Heraldsen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lurim Bolmara",
+  "corporation_id": 98806559,
+  "alliance_id": null,
+  "corporation_name": "Rocking Roids",
+  "alliance_name": null
+}

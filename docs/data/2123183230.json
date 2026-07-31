@@ -1,0 +1,40 @@
+{
+  "character_id": 2123183230,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119621556,
+    "name": "Vonlia Enaka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98708076,
+    "alliance_id": null,
+    "corporation_name": "CONTROL.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119621556,
+      "name": "Vonlia Enaka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90694468,
+      "name": "Kari Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 432720601,
+      "name": "Antiequilibrium",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ivoti Creire-Geng",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

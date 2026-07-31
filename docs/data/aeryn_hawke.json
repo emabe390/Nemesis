@@ -1,0 +1,34 @@
+{
+  "character_id": 2119621896,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115023340,
+    "name": "Character 2115023340",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115023340,
+      "name": "Character 2115023340",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aeryn Hawke",
+  "corporation_id": 98650252,
+  "alliance_id": 99005830,
+  "corporation_name": "Unaligned Shareholding Shippers and Redistributors",
+  "alliance_name": "Memento Moriendo"
+}

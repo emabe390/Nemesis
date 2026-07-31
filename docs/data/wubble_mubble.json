@@ -1,0 +1,52 @@
+{
+  "character_id": 2123198277,
+  "total_losses": 48,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 95214664,
+      "name": "Shivi Vokan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 940427555,
+      "name": "Zen Horizon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Wubble Mubble",
+  "corporation_id": 98818418,
+  "alliance_id": 99014548,
+  "corporation_name": "The Ouroboros Collective",
+  "alliance_name": "Project Oasis"
+}

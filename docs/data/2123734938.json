@@ -1,0 +1,46 @@
+{
+  "character_id": 2123734938,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118707798,
+    "name": "Prattaratt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98732225,
+    "alliance_id": null,
+    "corporation_name": "Dajeep Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118707798,
+      "name": "Prattaratt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 389814209,
+      "name": "R0CKHOUND",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115292318,
+      "name": "Character 2115292318",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116216266,
+      "name": "Dagon Madeveda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kadar Xadi",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

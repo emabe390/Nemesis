@@ -1,0 +1,52 @@
+{
+  "character_id": 2123114130,
+  "total_losses": 64,
+  "unique_killers": 49,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115425092,
+      "name": "Pierien Saissore",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122209190,
+      "name": "248625",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95461953,
+      "name": "Princess Yumi Ceraveli",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Green Fidelia",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

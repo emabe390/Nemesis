@@ -1,0 +1,52 @@
+{
+  "character_id": 2123652803,
+  "total_losses": 28,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2115950165,
+    "name": "Darth Secundus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115950165,
+      "name": "Darth Secundus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119850771,
+      "name": "Zirnitral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123910619,
+      "name": "eye of uni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90062509,
+      "name": "Jagabale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91859502,
+      "name": "nancy ovehand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EL-Clion",
+  "corporation_id": 98779710,
+  "alliance_id": 99009163,
+  "corporation_name": "Tactical Trauma Team",
+  "alliance_name": "Dracarys."
+}

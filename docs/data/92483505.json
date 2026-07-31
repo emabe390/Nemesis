@@ -1,0 +1,40 @@
+{
+  "character_id": 92483505,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122269800,
+      "name": "Vegan Eater",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114243864,
+      "name": "Character 2114243864",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Teyla Metesur",
+  "corporation_id": 98645539,
+  "alliance_id": 99013541,
+  "corporation_name": "L.A.T.I.N.O.S",
+  "alliance_name": "Fraternity Auxiliary"
+}

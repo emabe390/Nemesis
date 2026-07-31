@@ -1,0 +1,52 @@
+{
+  "character_id": 2123893985,
+  "total_losses": 28,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123665844,
+    "name": "Illiana Kovach",
+    "kill_count": 21,
+    "final_blows": 21,
+    "corporation_id": 98819231,
+    "alliance_id": null,
+    "corporation_name": "Universal Mistakes Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123665844,
+      "name": "Illiana Kovach",
+      "kill_count": 21,
+      "final_blows": 21
+    },
+    {
+      "id": 95778737,
+      "name": "Metge Warman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121192883,
+      "name": "Max Shadowstrike",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92483907,
+      "name": "Minzy Shaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 380801879,
+      "name": "Dredx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "UltraBob",
+  "corporation_id": 98819231,
+  "alliance_id": null,
+  "corporation_name": "Universal Mistakes Inc.",
+  "alliance_name": null
+}

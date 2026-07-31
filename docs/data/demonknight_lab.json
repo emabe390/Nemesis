@@ -1,0 +1,52 @@
+{
+  "character_id": 2113028785,
+  "total_losses": 20,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 92501622,
+    "name": "Michael Starlight",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92501622,
+      "name": "Michael Starlight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90886916,
+      "name": "Midas Bartholomew",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92240946,
+      "name": "SkrudJ Makdak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92956147,
+      "name": "Vera Islamova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "demonknight lab",
+  "corporation_id": 98558667,
+  "alliance_id": 99011223,
+  "corporation_name": "Good Ole Boys",
+  "alliance_name": "Sigma Grindset"
+}

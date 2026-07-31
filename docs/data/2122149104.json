@@ -1,0 +1,52 @@
+{
+  "character_id": 2122149104,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122384157,
+    "name": "Novacide",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98827234,
+    "alliance_id": null,
+    "corporation_name": "Necessary Violence",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122384157,
+      "name": "Novacide",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96456599,
+      "name": "Tace Orlenard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118809396,
+      "name": "Zzzzmishi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121817470,
+      "name": "Xavior Glass",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114848896,
+      "name": "Joey Wyles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "New Eden Rider",
+  "corporation_id": 98738983,
+  "alliance_id": 99011267,
+  "corporation_name": "Arirang Request",
+  "alliance_name": "Siege Green Friends"
+}

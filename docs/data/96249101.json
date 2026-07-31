@@ -1,0 +1,40 @@
+{
+  "character_id": 96249101,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123054107,
+    "name": "Cotyarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98746380,
+    "alliance_id": 99014963,
+    "corporation_name": "Wranglers",
+    "alliance_name": "Intended Behavior"
+  },
+  "top_killers": [
+    {
+      "id": 2123054107,
+      "name": "Cotyarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112160477,
+      "name": "Mickey Hesse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117487715,
+      "name": "Alvid Erlkonig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dov Erata",
+  "corporation_id": 349468365,
+  "alliance_id": 99010468,
+  "corporation_name": "Ronin Interstellar Industries",
+  "alliance_name": "Weapons Of Mass Production."
+}

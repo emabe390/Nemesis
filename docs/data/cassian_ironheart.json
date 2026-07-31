@@ -1,0 +1,40 @@
+{
+  "character_id": 2124035325,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1795741008,
+    "name": "Ulianov",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 1795741008,
+      "name": "Ulianov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122815701,
+      "name": "Mauer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cassian Ironheart",
+  "corporation_id": 98823451,
+  "alliance_id": null,
+  "corporation_name": "Yield Protocol",
+  "alliance_name": null
+}

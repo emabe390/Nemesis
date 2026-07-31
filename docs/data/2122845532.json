@@ -1,0 +1,52 @@
+{
+  "character_id": 2122845532,
+  "total_losses": 27,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2122078896,
+    "name": "Character 2122078896",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98809905,
+    "alliance_id": null,
+    "corporation_name": "The Social club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122078896,
+      "name": "Character 2122078896",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96885469,
+      "name": "Digital Wraith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1411913326,
+      "name": "Rifter Enthusiast",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1963256473,
+      "name": "Spr1nger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90110676,
+      "name": "Ch'angCh'ang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Netilya Slarica",
+  "corporation_id": 98480050,
+  "alliance_id": 1900696668,
+  "corporation_name": "Fancypants Inc",
+  "alliance_name": "The Initiative."
+}

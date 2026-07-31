@@ -1,0 +1,40 @@
+{
+  "character_id": 2123784709,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96759555,
+    "name": "Honzas Krutas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 432069155,
+      "name": "Quadia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117366749,
+      "name": "3444",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beezus Neezus",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

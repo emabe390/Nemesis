@@ -1,0 +1,40 @@
+{
+  "character_id": 2123773985,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1427803393,
+    "name": "Obsidian Scar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1568814036,
+      "name": "Langz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1862165216,
+      "name": "Deadly Bruho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123773985",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

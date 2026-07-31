@@ -1,0 +1,40 @@
+{
+  "character_id": 2123066567,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114657251,
+    "name": "daybreak on",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98626494,
+    "alliance_id": 99003581,
+    "corporation_name": "STARCHASER Inc",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114657251,
+      "name": "daybreak on",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123066564,
+      "name": "Marquis Xan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123910563,
+      "name": "Peppa Pig5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marquis Oan",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

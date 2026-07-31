@@ -1,0 +1,40 @@
+{
+  "character_id": 2124175716,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 859355711,
+    "name": "Lord Perdition",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1111885788,
+    "alliance_id": null,
+    "corporation_name": "Enterprise Estonia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 859355711,
+      "name": "Lord Perdition",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91450236,
+      "name": "muc-off",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95514935,
+      "name": "GoodHead232",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124175716",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

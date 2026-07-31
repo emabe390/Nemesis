@@ -1,0 +1,46 @@
+{
+  "character_id": 2123253891,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 97184968,
+    "name": "nedir Patrouette",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98788243,
+    "alliance_id": 99015041,
+    "corporation_name": "Hull Miners inc",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 97184968,
+      "name": "nedir Patrouette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121270887,
+      "name": "SCP9400",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caudillo Lopez",
+  "corporation_id": 98792933,
+  "alliance_id": null,
+  "corporation_name": "Sanctum Foedus",
+  "alliance_name": null
+}

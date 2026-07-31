@@ -1,0 +1,46 @@
+{
+  "character_id": 2123640020,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114156703,
+    "name": "MWR NOX",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 803493697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Bohemian Veterans",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114156703,
+      "name": "MWR NOX",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118615208,
+      "name": "Makahaga Katelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 148333785,
+      "name": "pigznzen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121560711,
+      "name": "Hakadura Ishio Otsito",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caldari Mo",
+  "corporation_id": 98335801,
+  "alliance_id": null,
+  "corporation_name": "Dark Wormhole Industry",
+  "alliance_name": null
+}

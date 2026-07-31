@@ -1,0 +1,52 @@
+{
+  "character_id": 2124083164,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244645,
+      "name": "Vesyr Akachi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93273436,
+      "name": "Moira Donier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94337797,
+      "name": "Taren Astrideis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95072457,
+      "name": "Alternative Muv-Luv",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valkis Orion",
+  "corporation_id": 1081304772,
+  "alliance_id": 99014375,
+  "corporation_name": "Deep Axion",
+  "alliance_name": "The Frog Boiler"
+}

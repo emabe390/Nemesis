@@ -1,0 +1,40 @@
+{
+  "character_id": 2121870422,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94019721,
+    "name": "Black Anette",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98764498,
+    "alliance_id": 99013685,
+    "corporation_name": "Black Revenge.",
+    "alliance_name": "Just Revenge"
+  },
+  "top_killers": [
+    {
+      "id": 94019721,
+      "name": "Black Anette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1781717868,
+      "name": "Doctor Zarkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122974049,
+      "name": "Gundaar Boltarson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enoch Lionheart",
+  "corporation_id": 98646281,
+  "alliance_id": null,
+  "corporation_name": "Virtus Crusade Highsec Chapter",
+  "alliance_name": null
+}

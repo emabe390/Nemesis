@@ -1,0 +1,34 @@
+{
+  "character_id": 2123522952,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122269800,
+    "name": "Vegan Eater",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778904,
+    "alliance_id": 99015054,
+    "corporation_name": "Clandestinauts",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2122269800,
+      "name": "Vegan Eater",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2078259458,
+      "name": "Zrinyi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omelas Expat",
+  "corporation_id": 98534707,
+  "alliance_id": 1900696668,
+  "corporation_name": "Soul Machines",
+  "alliance_name": "The Initiative."
+}

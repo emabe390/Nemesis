@@ -1,0 +1,40 @@
+{
+  "character_id": 2114239067,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 362606210,
+      "name": "Aven'sis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1007617072,
+      "name": "Benzmann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mythalysis Moonwhisper",
+  "corporation_id": 98735707,
+  "alliance_id": null,
+  "corporation_name": "Rockwall Mining Industries Inc.",
+  "alliance_name": null
+}

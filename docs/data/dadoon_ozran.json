@@ -1,0 +1,52 @@
+{
+  "character_id": 2123991436,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 993607874,
+      "name": "TomHorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1058904581,
+      "name": "Character 1058904581",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91068795,
+      "name": "Character 91068795",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dadoon Ozran",
+  "corporation_id": 98813696,
+  "alliance_id": null,
+  "corporation_name": "R-E-V",
+  "alliance_name": null
+}

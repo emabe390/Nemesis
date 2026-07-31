@@ -1,0 +1,40 @@
+{
+  "character_id": 2121050487,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1254865839,
+    "name": "Quentin Decker",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98112824,
+    "alliance_id": 99003581,
+    "corporation_name": "Balkan Mafia",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1254865839,
+      "name": "Quentin Decker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1834965470,
+      "name": "XROM AVRORIYS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121340011,
+      "name": "Charles of Habsburg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ormand Dunier",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

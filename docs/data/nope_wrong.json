@@ -1,0 +1,52 @@
+{
+  "character_id": 146056152,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 95033138,
+    "name": "Don Santiago",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837437,
+    "alliance_id": null,
+    "corporation_name": "Dead man tell no tales",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95033138,
+      "name": "Don Santiago",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90292081,
+      "name": "north west",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90783972,
+      "name": "Graeme Edwardson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93152158,
+      "name": "John Mc-Clane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nope wrong",
+  "corporation_id": 98820199,
+  "alliance_id": 99014058,
+  "corporation_name": "Wrong Delivery Service",
+  "alliance_name": "Gnawthority"
+}

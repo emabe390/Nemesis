@@ -1,0 +1,46 @@
+{
+  "character_id": 2123326280,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121947082,
+    "name": "EF Sigma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1390265691,
+      "name": "UberLube",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nephthys Hathor",
+  "corporation_id": 98787836,
+  "alliance_id": null,
+  "corporation_name": "Cosmic Astral Zodiac",
+  "alliance_name": null
+}

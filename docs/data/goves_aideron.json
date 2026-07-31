@@ -1,0 +1,52 @@
+{
+  "character_id": 2123989340,
+  "total_losses": 20,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 732453653,
+    "name": "rappter",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98567310,
+    "alliance_id": 99011223,
+    "corporation_name": "The Dark Vanguard",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 732453653,
+      "name": "rappter",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121483346,
+      "name": "Dukso",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90327981,
+      "name": "Tigg Sinner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 161684017,
+      "name": "Doctor Per",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115781306,
+      "name": "Aretha LouiseFrank",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Goves Aideron",
+  "corporation_id": 98823230,
+  "alliance_id": null,
+  "corporation_name": "Revenue Protocol IX",
+  "alliance_name": null
+}

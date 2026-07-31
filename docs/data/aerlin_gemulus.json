@@ -1,0 +1,52 @@
+{
+  "character_id": 2124424356,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123825535,
+    "name": "The Guided One",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123852386,
+      "name": "Old Redcap Sly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93947598,
+      "name": "Falkner Hayato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 749066252,
+      "name": "Kinteki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1546878760,
+      "name": "Prakhgoth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aerlin Gemulus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

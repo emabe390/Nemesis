@@ -1,0 +1,52 @@
+{
+  "character_id": 2123029630,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1536765940,
+    "name": "claste",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98774989,
+    "alliance_id": 99013797,
+    "corporation_name": "Fourth District Sentinels",
+    "alliance_name": "The Caldari Fourth District"
+  },
+  "top_killers": [
+    {
+      "id": 1536765940,
+      "name": "claste",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96980839,
+      "name": "Xiao Five2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 784156357,
+      "name": "Tandros Kreel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1720268118,
+      "name": "Irina Delorean",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1985738497,
+      "name": "Gori Thane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Funky Spunky",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122315999,
+  "total_losses": 30,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2117559438,
+    "name": "Mr Deadly",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98707560,
+    "alliance_id": 99003581,
+    "corporation_name": "Optimistic Wasteland Inc.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2117559438,
+      "name": "Mr Deadly",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90173768,
+      "name": "Arczith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90416564,
+      "name": "Early Johnson Jr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92822651,
+      "name": "Rustymattok Farpast",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KrunchyRusty",
+  "corporation_id": 98800669,
+  "alliance_id": null,
+  "corporation_name": "Resource Extraction Processing Solutions",
+  "alliance_name": null
+}

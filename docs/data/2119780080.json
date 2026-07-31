@@ -1,0 +1,46 @@
+{
+  "character_id": 2119780080,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124195762,
+      "name": "StarDecoste",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 743054412,
+      "name": "Marcus Terani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123000988,
+      "name": "Zivanovo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tranquility Trufyer",
+  "corporation_id": 98758904,
+  "alliance_id": 99002826,
+  "corporation_name": "SH0K Industrial",
+  "alliance_name": "KIA Alliance"
+}

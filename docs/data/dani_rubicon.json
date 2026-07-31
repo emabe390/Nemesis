@@ -1,0 +1,40 @@
+{
+  "character_id": 2120473672,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120025385,
+    "name": "Tomastamouth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98700281,
+    "alliance_id": 99010995,
+    "corporation_name": "Task Force 641",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 2120025385,
+      "name": "Tomastamouth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92626451,
+      "name": "Theo D'sal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94632939,
+      "name": "Tarkus Jedari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dani Rubicon",
+  "corporation_id": 705444291,
+  "alliance_id": 1966049571,
+  "corporation_name": "T.R.I.A.D",
+  "alliance_name": "Ushra'Khan"
+}

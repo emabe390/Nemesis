@@ -1,0 +1,34 @@
+{
+  "character_id": 2124567505,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95597993,
+    "name": "Irana Katelo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98610134,
+    "alliance_id": 99009163,
+    "corporation_name": "Sognare",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 95597993,
+      "name": "Irana Katelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124321266,
+      "name": "Hakotar Laduko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valarod",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

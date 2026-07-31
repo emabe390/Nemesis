@@ -1,0 +1,40 @@
+{
+  "character_id": 90567360,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95557335,
+    "name": "Oria Pozzolo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98648361,
+    "alliance_id": 1354830081,
+    "corporation_name": "Deadspace Excavations",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95557335,
+      "name": "Oria Pozzolo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 284373424,
+      "name": "Darken Beast",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122593082,
+      "name": "Senplic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mell Severasse",
+  "corporation_id": 840323545,
+  "alliance_id": 99011699,
+  "corporation_name": "The Forsakened Few",
+  "alliance_name": "We Forsakened Few"
+}

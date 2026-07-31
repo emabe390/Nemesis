@@ -1,0 +1,40 @@
+{
+  "character_id": 2123919726,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91997649,
+    "name": "Violet Omnis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1297486126,
+    "alliance_id": 498125261,
+    "corporation_name": "Herrscher der Zeit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 91997649,
+      "name": "Violet Omnis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92281238,
+      "name": "Peaches eullone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117368012,
+      "name": "Imotehk Ultrius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mr Laney",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

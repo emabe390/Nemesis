@@ -1,0 +1,34 @@
+{
+  "character_id": 2123867141,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94381899,
+    "name": "mallebrok silvestine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 94381899,
+      "name": "mallebrok silvestine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116734604,
+      "name": "dix otto",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Schabau",
+  "corporation_id": 98058304,
+  "alliance_id": null,
+  "corporation_name": "Raumratten INC.",
+  "alliance_name": null
+}

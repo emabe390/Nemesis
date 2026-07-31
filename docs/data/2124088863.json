@@ -1,0 +1,52 @@
+{
+  "character_id": 2124088863,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1743905655,
+    "name": "EF Beta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93195151,
+      "name": "Yekkers Athonille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2037329567,
+      "name": "HardTrue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114279827,
+      "name": "Zero Wester",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114720110,
+      "name": "Mike Clawfinger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nameless Blob V",
+  "corporation_id": 98824644,
+  "alliance_id": null,
+  "corporation_name": "Nameless Terror",
+  "alliance_name": null
+}

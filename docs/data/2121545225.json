@@ -1,0 +1,52 @@
+{
+  "character_id": 2121545225,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123734070,
+      "name": "Khathcaturian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90515255,
+      "name": "Inigo Doom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91378082,
+      "name": "Flammeum Phoenicoeter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "shootingsmil",
+  "corporation_id": 98746392,
+  "alliance_id": 1354830081,
+  "corporation_name": "North Shore Ghost Army",
+  "alliance_name": "Goonswarm Federation"
+}

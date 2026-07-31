@@ -1,0 +1,40 @@
+{
+  "character_id": 2124323911,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120033807,
+    "name": "Turakama",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98839819,
+    "alliance_id": null,
+    "corporation_name": "Glam Bastards",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120033807,
+      "name": "Turakama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123770110,
+      "name": "Orion Crabs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jabank Taa",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

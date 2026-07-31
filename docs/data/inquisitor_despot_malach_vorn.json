@@ -1,0 +1,40 @@
+{
+  "character_id": 2124276522,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93425749,
+    "name": "Shalashaska Adam",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98649774,
+    "alliance_id": null,
+    "corporation_name": "Snakes and Lasers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115626681,
+      "name": "Phex Alepou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118999220,
+      "name": "Frofr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inquisitor-Despot Malach Vorn",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

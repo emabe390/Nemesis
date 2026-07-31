@@ -1,0 +1,40 @@
+{
+  "character_id": 782464564,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1511920017,
+      "name": "Iddis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114042030,
+      "name": "M2018M",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rao Singh",
+  "corporation_id": 98271693,
+  "alliance_id": 99005830,
+  "corporation_name": "Digital Scientific",
+  "alliance_name": "Memento Moriendo"
+}

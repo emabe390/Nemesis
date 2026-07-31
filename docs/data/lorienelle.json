@@ -1,0 +1,52 @@
+{
+  "character_id": 2123815661,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1514788630,
+    "name": "starjoke",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98350364,
+    "alliance_id": null,
+    "corporation_name": "Sungrazers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1514788630,
+      "name": "starjoke",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91309497,
+      "name": "Sawdeth Ternius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91598105,
+      "name": "Varn Dein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94385016,
+      "name": "Orion Artois",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 962215199,
+      "name": "Wrik Hoover",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lorienelle",
+  "corporation_id": 98743131,
+  "alliance_id": 99012781,
+  "corporation_name": "ARC Security",
+  "alliance_name": "I Showed You My Probes... Please Respond..."
+}

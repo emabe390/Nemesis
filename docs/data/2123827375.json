@@ -1,0 +1,46 @@
+{
+  "character_id": 2123827375,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1652553329,
+    "name": "Gertrud ToD",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1664427021,
+    "alliance_id": 99000818,
+    "corporation_name": "Terrorists of Dimensions",
+    "alliance_name": "HORSE-KILLERS"
+  },
+  "top_killers": [
+    {
+      "id": 1652553329,
+      "name": "Gertrud ToD",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120461425,
+      "name": "Kayla Starchild",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123350822,
+      "name": "Bombardio Crocodilo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zara Lars",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

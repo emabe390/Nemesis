@@ -1,0 +1,40 @@
+{
+  "character_id": 2112476235,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114800869,
+    "name": "JACK JIE LI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702890,
+    "alliance_id": 99003581,
+    "corporation_name": "Descendants of Shen Nong",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114800869,
+      "name": "JACK JIE LI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91828300,
+      "name": "Seterinthia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yunan",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

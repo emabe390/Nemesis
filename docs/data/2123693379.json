@@ -1,0 +1,40 @@
+{
+  "character_id": 2123693379,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 622886381,
+    "name": "Nargile",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98831555,
+    "alliance_id": 99013537,
+    "corporation_name": "Nuclear Dragons",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 622886381,
+      "name": "Nargile",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chris Farhat",
+  "corporation_id": 98689676,
+  "alliance_id": null,
+  "corporation_name": "Iron Horn Industrial",
+  "alliance_name": null
+}

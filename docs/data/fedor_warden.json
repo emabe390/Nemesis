@@ -1,0 +1,52 @@
+{
+  "character_id": 2119842058,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 1045499371,
+    "name": "RGC Godfather",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98716511,
+    "alliance_id": 99014953,
+    "corporation_name": "Die By The Sword",
+    "alliance_name": "Burn the Boats"
+  },
+  "top_killers": [
+    {
+      "id": 1045499371,
+      "name": "RGC Godfather",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90436170,
+      "name": "Behebe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90525678,
+      "name": "Arkezar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91256825,
+      "name": "Sonic 37",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fedor Warden",
+  "corporation_id": 98756704,
+  "alliance_id": 99013484,
+  "corporation_name": "Kingdom of Crooked Mirrors",
+  "alliance_name": "Crocodili et mammoths"
+}

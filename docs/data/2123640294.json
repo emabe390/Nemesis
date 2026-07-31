@@ -1,0 +1,34 @@
+{
+  "character_id": 2123640294,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93705626,
+    "name": "Andy Shearer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1419619124,
+      "name": "Lach Danan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Titan Eren Yeager",
+  "corporation_id": 98808830,
+  "alliance_id": 99014673,
+  "corporation_name": "Yamato Protocol Dominion",
+  "alliance_name": "Children Of Ruin."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113644318,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 371792633,
+      "name": "PsyBlade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119152061,
+      "name": "Character 2119152061",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zestra Naari",
+  "corporation_id": 98635328,
+  "alliance_id": 1042504553,
+  "corporation_name": "Lighthouse Society",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123179547,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 175496796,
+    "name": "Tofum",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 175496796,
+      "name": "Tofum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113767935,
+      "name": "Master Bazuka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sabi Attor",
+  "corporation_id": 98701346,
+  "alliance_id": null,
+  "corporation_name": "Riders of Darkness",
+  "alliance_name": null
+}

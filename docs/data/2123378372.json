@@ -1,0 +1,52 @@
+{
+  "character_id": 2123378372,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2120913456,
+    "name": "Hammer rail",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120913456,
+      "name": "Hammer rail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121786139,
+      "name": "Katherine Stewart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95397598,
+      "name": "HSOENFI Rotineque",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95681196,
+      "name": "Yudachi POI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95808192,
+      "name": "Flobeat Brokenegg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Titus Tuner",
+  "corporation_id": 98826717,
+  "alliance_id": 1727758877,
+  "corporation_name": "Warforged Militants",
+  "alliance_name": "Northern Coalition."
+}

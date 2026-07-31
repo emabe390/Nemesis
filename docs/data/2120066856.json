@@ -1,0 +1,52 @@
+{
+  "character_id": 2120066856,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2112545949,
+    "name": "rune41 rune",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98294509,
+    "alliance_id": 498125261,
+    "corporation_name": "CLOUD TEMPLE",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2112545949,
+      "name": "rune41 rune",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 315151368,
+      "name": "Orbixx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 663253049,
+      "name": "dovid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115746848,
+      "name": "Anton Chancel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eltrador",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

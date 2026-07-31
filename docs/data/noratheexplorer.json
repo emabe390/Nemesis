@@ -1,0 +1,40 @@
+{
+  "character_id": 2119705856,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118888307,
+    "name": "Captain Kirbo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2118888307,
+      "name": "Captain Kirbo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121301474,
+      "name": "FourierJW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122423649,
+      "name": "FantasyH",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NoraTheExplorer",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

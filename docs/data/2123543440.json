@@ -1,0 +1,40 @@
+{
+  "character_id": 2123543440,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120878293,
+    "name": "Cardo Lee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2120878293,
+      "name": "Cardo Lee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95850805,
+      "name": "ghosthawk57 Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1912207318,
+      "name": "Character 1912207318",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jaizif",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

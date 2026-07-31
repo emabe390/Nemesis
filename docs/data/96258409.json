@@ -1,0 +1,40 @@
+{
+  "character_id": 96258409,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91497982,
+    "name": "Daniel Andrewson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98634968,
+    "alliance_id": 99014921,
+    "corporation_name": "Warriors of Zeus",
+    "alliance_name": "Drunk Monkeys"
+  },
+  "top_killers": [
+    {
+      "id": 91497982,
+      "name": "Daniel Andrewson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123985951,
+      "name": "Agathe Kuren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119428404,
+      "name": "shion zenos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 96258409",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

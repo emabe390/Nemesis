@@ -1,0 +1,52 @@
+{
+  "character_id": 2122056587,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 898115249,
+    "name": "atalanti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 898115249,
+      "name": "atalanti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1830007514,
+      "name": "Cristalo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115594651,
+      "name": "Valkyr1e",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118792727,
+      "name": "Ovat Shazih",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121807973,
+      "name": "Liz Zoe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andreana Mitrofanova",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

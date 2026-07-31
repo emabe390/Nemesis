@@ -1,0 +1,52 @@
+{
+  "character_id": 2117456190,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115400990,
+    "name": "Redwing Malukker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 2115400990,
+      "name": "Redwing Malukker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122604145,
+      "name": "Urahekken Otomeya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93747744,
+      "name": "Character 93747744",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115046375,
+      "name": "Firebon Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123264865,
+      "name": "Age of Aopostles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eldo Farseer",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

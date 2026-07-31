@@ -1,0 +1,52 @@
+{
+  "character_id": 2123381840,
+  "total_losses": 51,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 90802673,
+      "name": "colin brunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93716452,
+      "name": "Torgo Tahn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95316405,
+      "name": "Little Focker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96074227,
+      "name": "Character 96074227",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chlorine Away",
+  "corporation_id": 98727557,
+  "alliance_id": 99007629,
+  "corporation_name": "GentlemanClub",
+  "alliance_name": "Ferrata Victrix"
+}

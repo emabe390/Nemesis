@@ -1,0 +1,40 @@
+{
+  "character_id": 2124490543,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96380981,
+    "name": "Daimler-Benz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98462540,
+    "alliance_id": 1900696668,
+    "corporation_name": "DERUS ORDER",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96380981,
+      "name": "Daimler-Benz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118611031,
+      "name": "Vinchenso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alyn Shaile",
+  "corporation_id": 98837406,
+  "alliance_id": null,
+  "corporation_name": "End of License Certificate",
+  "alliance_name": null
+}

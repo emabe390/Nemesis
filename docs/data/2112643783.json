@@ -1,0 +1,40 @@
+{
+  "character_id": 2112643783,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94803970,
+    "name": "Jean Paul Jones",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98616922,
+    "alliance_id": 99003214,
+    "corporation_name": "Galactic Deep Space Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 94803970,
+      "name": "Jean Paul Jones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 251444320,
+      "name": "Darkrydar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119612332,
+      "name": "Leafless Zan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dithers Urmama",
+  "corporation_id": 98428777,
+  "alliance_id": 99003214,
+  "corporation_name": "North Korean Nuclear Research",
+  "alliance_name": "Brave Collective"
+}

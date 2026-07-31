@@ -1,0 +1,52 @@
+{
+  "character_id": 1952200412,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 91353462,
+    "name": "le blanck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817456,
+    "alliance_id": null,
+    "corporation_name": "Questionable Tactics Average Skill",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91353462,
+      "name": "le blanck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95836181,
+      "name": "Julieta Chavez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kusev",
+  "corporation_id": 98561505,
+  "alliance_id": 99003214,
+  "corporation_name": "Hemus",
+  "alliance_name": "Brave Collective"
+}

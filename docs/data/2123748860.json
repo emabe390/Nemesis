@@ -1,0 +1,40 @@
+{
+  "character_id": 2123748860,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113780850,
+    "name": "Lee Huangzhou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000171,
+    "alliance_id": null,
+    "corporation_name": "Republic University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113780850,
+      "name": "Lee Huangzhou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90995369,
+      "name": "Riusay Issier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099263636,
+      "name": "Nytraya Aoen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "I Kento I",
+  "corporation_id": 98768588,
+  "alliance_id": 99014289,
+  "corporation_name": "Tiny Toons Inc.",
+  "alliance_name": "Ibuprofen Chapter"
+}

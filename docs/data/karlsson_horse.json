@@ -1,0 +1,52 @@
+{
+  "character_id": 2113931039,
+  "total_losses": 26,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2119969582,
+    "name": "Jack Radfort",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2119969582,
+      "name": "Jack Radfort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90074430,
+      "name": "Chaddington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90399046,
+      "name": "Kaen Iscero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92557813,
+      "name": "Ankhe Sen Amun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94050539,
+      "name": "jack henry williams",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karlsson Horse",
+  "corporation_id": 98385341,
+  "alliance_id": null,
+  "corporation_name": "Interstellar Horses",
+  "alliance_name": null
+}

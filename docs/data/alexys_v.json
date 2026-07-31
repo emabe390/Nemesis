@@ -1,0 +1,52 @@
+{
+  "character_id": 2123153393,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 281224398,
+    "name": "Willy Shattner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 281224398,
+      "name": "Willy Shattner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122656673,
+      "name": "GOODBYE IMPLANTS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91262627,
+      "name": "Freckin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94878822,
+      "name": "Matty McCain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 353633773,
+      "name": "Skibit Trust",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexys V",
+  "corporation_id": 98809613,
+  "alliance_id": null,
+  "corporation_name": "Omega Eve Corporation",
+  "alliance_name": null
+}

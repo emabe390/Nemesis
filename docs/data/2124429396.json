@@ -1,0 +1,40 @@
+{
+  "character_id": 2124429396,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 170381092,
+    "name": "Frozen Fallout",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751027,
+    "alliance_id": 99010877,
+    "corporation_name": "Federation Front Line Report",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 170381092,
+      "name": "Frozen Fallout",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113898124,
+      "name": "General TAnk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124440892,
+      "name": "Sohlur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dianthus Barbatos",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

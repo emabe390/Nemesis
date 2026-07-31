@@ -1,0 +1,40 @@
+{
+  "character_id": 2123069275,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 164862520,
+    "name": "XMANX",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98059534,
+    "alliance_id": 1727758877,
+    "corporation_name": "The Ark.",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 164862520,
+      "name": "XMANX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116131766,
+      "name": "Hawk NightSlider",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119959114,
+      "name": "Jinx Alvarez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jelly Dragon",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

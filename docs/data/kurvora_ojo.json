@@ -1,0 +1,52 @@
+{
+  "character_id": 2123205058,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115802274,
+    "name": "Vladislav KozloF",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767495,
+    "alliance_id": null,
+    "corporation_name": "KnotZone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115802274,
+      "name": "Vladislav KozloF",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119676819,
+      "name": "Character 2119676819",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121849577,
+      "name": "Zver Razruchitel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96380813,
+      "name": "Lucas Ermanelos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122054348,
+      "name": "Hello Kat 2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kurvora Ojo",
+  "corporation_id": 98652367,
+  "alliance_id": 99010193,
+  "corporation_name": "EVE University Hall of Residence",
+  "alliance_name": "Ivy League Alt Alliance"
+}

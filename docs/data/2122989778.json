@@ -1,0 +1,52 @@
+{
+  "character_id": 2122989778,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123807831,
+    "name": "Bomana Irvam",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123807831,
+      "name": "Bomana Irvam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93730509,
+      "name": "Character 93730509",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1659536683,
+      "name": "LexaCBuH",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123704496,
+      "name": "Ana Kadesh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viktor Troska",
+  "corporation_id": 98513466,
+  "alliance_id": 99010089,
+  "corporation_name": "We Break Things",
+  "alliance_name": "Novus Ordo."
+}

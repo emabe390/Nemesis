@@ -1,0 +1,40 @@
+{
+  "character_id": 2123654780,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93562742,
+    "name": "Strawberry Bananas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93562742,
+      "name": "Strawberry Bananas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95863191,
+      "name": "ThatGuyToxic Tox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 482565093,
+      "name": "Kaiser128",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Renzo Rage",
+  "corporation_id": 635210548,
+  "alliance_id": 99003581,
+  "corporation_name": "Fusion Enterprises Ltd",
+  "alliance_name": "Fraternity."
+}

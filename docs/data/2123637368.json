@@ -1,0 +1,40 @@
+{
+  "character_id": 2123637368,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 978231243,
+    "name": "FyreStrike",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96923794,
+      "name": "Teresa Aviz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120863657,
+      "name": "protossed1a",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Admin Xadi",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

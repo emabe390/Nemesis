@@ -1,0 +1,46 @@
+{
+  "character_id": 2123638569,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122559910,
+    "name": "Reginald Sterks",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122559910,
+      "name": "Reginald Sterks",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 845362885,
+      "name": "evistin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114127184,
+      "name": "anna su",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95693711,
+      "name": "Pretty Vicious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corring",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

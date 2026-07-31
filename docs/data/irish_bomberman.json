@@ -1,0 +1,52 @@
+{
+  "character_id": 2112132936,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92281238,
+      "name": "Peaches eullone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Irish Bomberman",
+  "corporation_id": 98695005,
+  "alliance_id": 1354830081,
+  "corporation_name": "Splintered Dreams",
+  "alliance_name": "Goonswarm Federation"
+}

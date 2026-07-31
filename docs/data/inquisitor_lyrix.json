@@ -1,0 +1,52 @@
+{
+  "character_id": 2123376120,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121790383,
+    "name": "Aradia Gospel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817637,
+    "alliance_id": 99014523,
+    "corporation_name": "Tactical Withdrawal Team",
+    "alliance_name": "The Rejected."
+  },
+  "top_killers": [
+    {
+      "id": 2121790383,
+      "name": "Aradia Gospel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122564422,
+      "name": "Cirroc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2078566231,
+      "name": "techwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120882774,
+      "name": "Ketchup304",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121549658,
+      "name": "Caranya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inquisitor Lyrix",
+  "corporation_id": 98730596,
+  "alliance_id": 99000580,
+  "corporation_name": "Mandatory Collateral",
+  "alliance_name": "Ignore This."
+}

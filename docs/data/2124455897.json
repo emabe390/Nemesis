@@ -1,0 +1,40 @@
+{
+  "character_id": 2124455897,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123802542,
+    "name": "DARKSLIDER",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799729,
+    "alliance_id": 1900696668,
+    "corporation_name": "Splash Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123802542,
+      "name": "DARKSLIDER",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123801738,
+      "name": "S-BEND",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2123806023,
+      "name": "BLINDJUDGE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BACKROLL",
+  "corporation_id": 98799729,
+  "alliance_id": 1900696668,
+  "corporation_name": "Splash Inc.",
+  "alliance_name": "The Initiative."
+}

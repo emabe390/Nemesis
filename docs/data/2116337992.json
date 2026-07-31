@@ -1,0 +1,52 @@
+{
+  "character_id": 2116337992,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122875247,
+    "name": "My Virtuous Scanner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 2122875247,
+      "name": "My Virtuous Scanner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119017200,
+      "name": "Barry Badpak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122475954,
+      "name": "PointBlankMiner66",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122854321,
+      "name": "Nahara Munba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123865854,
+      "name": "Busas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sol Sands",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

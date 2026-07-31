@@ -1,0 +1,40 @@
+{
+  "character_id": 2124410013,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121587357,
+    "name": "March 7th",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121587357,
+      "name": "March 7th",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120883392,
+      "name": "annoyform",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124274809,
+      "name": "Magah Ohu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "UltimateRaptor",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

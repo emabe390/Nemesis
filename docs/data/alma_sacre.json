@@ -1,0 +1,40 @@
+{
+  "character_id": 2112833467,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119301335,
+    "name": "Character 2119301335",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98839215,
+    "alliance_id": 99010877,
+    "corporation_name": "TianGong Custodes",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2119301335,
+      "name": "Character 2119301335",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96703793,
+      "name": "Vector en Dancer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122657605,
+      "name": "Doctor Flanio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alma Sacre",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

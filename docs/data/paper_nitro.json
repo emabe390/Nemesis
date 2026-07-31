@@ -1,0 +1,52 @@
+{
+  "character_id": 2124002829,
+  "total_losses": 46,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90456191,
+      "name": "Capitan Laser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92515208,
+      "name": "Hydrogen Fluoride",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Paper Nitro",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

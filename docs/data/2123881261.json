@@ -1,0 +1,52 @@
+{
+  "character_id": 2123881261,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1593895928,
+    "name": "ZIPFEL",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187440,
+    "alliance_id": 99013831,
+    "corporation_name": "Scandium Defense and Security Inc.",
+    "alliance_name": "Sleeper Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 1593895928,
+      "name": "ZIPFEL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117593070,
+      "name": "Itsuki Sato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121725082,
+      "name": "NE55U5",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90500669,
+      "name": "Dreadnaught X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95433394,
+      "name": "Jake Longtin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BeansPapa",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

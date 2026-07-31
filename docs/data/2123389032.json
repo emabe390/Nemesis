@@ -1,0 +1,52 @@
+{
+  "character_id": 2123389032,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2114888116,
+    "name": "Maeden Anthar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2114888116,
+      "name": "Maeden Anthar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91376698,
+      "name": "Miss Reyana Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92524847,
+      "name": "Ann Karas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114857300,
+      "name": "Octavius Augustinus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115775254,
+      "name": "Jay Nightwalker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indiana Jove",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

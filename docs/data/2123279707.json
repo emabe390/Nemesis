@@ -1,0 +1,52 @@
+{
+  "character_id": 2123279707,
+  "total_losses": 53,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2113975770,
+    "name": "Character 2113975770",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98523162,
+    "alliance_id": null,
+    "corporation_name": "BoneSquad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113975770,
+      "name": "Character 2113975770",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91578428,
+      "name": "Johnie Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94262198,
+      "name": "Karu Bringit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94522296,
+      "name": "musashi Tsuruomo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Almarko",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

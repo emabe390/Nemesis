@@ -1,0 +1,34 @@
+{
+  "character_id": 2122371385,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1566547047,
+    "name": "Pah'Tain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98408349,
+    "alliance_id": 99005034,
+    "corporation_name": "Heralds of Darkness",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 1566547047,
+      "name": "Pah'Tain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122588526,
+      "name": "Kal Torak lIIllIlIIllI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sunwalker Wren",
+  "corporation_id": 98799545,
+  "alliance_id": null,
+  "corporation_name": "Solaris legionis maximus",
+  "alliance_name": null
+}

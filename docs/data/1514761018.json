@@ -1,0 +1,40 @@
+{
+  "character_id": 1514761018,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120906364,
+    "name": "Guardex",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98707310,
+    "alliance_id": 99015000,
+    "corporation_name": "RuCorpStain",
+    "alliance_name": "DED-BAR"
+  },
+  "top_killers": [
+    {
+      "id": 2120906364,
+      "name": "Guardex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122002949,
+      "name": "Marie Sklodowska-Curie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122229581,
+      "name": "Freydis Valkyrie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Onyt",
+  "corporation_id": 98567006,
+  "alliance_id": null,
+  "corporation_name": "EXCELSIOR Corp",
+  "alliance_name": null
+}

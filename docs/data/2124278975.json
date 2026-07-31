@@ -1,0 +1,40 @@
+{
+  "character_id": 2124278975,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92239120,
+    "name": "Jerco Taron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702065,
+    "alliance_id": 173714703,
+    "corporation_name": "Gjallarhorn Incorporated",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 92239120,
+      "name": "Jerco Taron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118772180,
+      "name": "Aps Amphal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123308795,
+      "name": "CMDR Torkel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jabba de Hut",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2117024038,
+  "total_losses": 8,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 106330302,
+    "name": "Character 106330302",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98778639,
+    "alliance_id": 99013723,
+    "corporation_name": "Firma Kasallek",
+    "alliance_name": "Dienstleistungen Kasallek"
+  },
+  "top_killers": [
+    {
+      "id": 106330302,
+      "name": "Character 106330302",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2121264621,
+      "name": "Zeros Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valensea",
+  "corporation_id": 98789583,
+  "alliance_id": null,
+  "corporation_name": "Casualty Collecting Points",
+  "alliance_name": null
+}

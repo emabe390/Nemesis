@@ -1,0 +1,52 @@
+{
+  "character_id": 2123391734,
+  "total_losses": 32,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2121434469,
+    "name": "Opauka",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121434469,
+      "name": "Opauka",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115998897,
+      "name": "Dredd Ivy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2041681324,
+      "name": "Hurome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117278800,
+      "name": "Schnarph",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121174593,
+      "name": "WarmSprite",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sammy Knight",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

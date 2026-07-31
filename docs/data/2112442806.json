@@ -1,0 +1,52 @@
+{
+  "character_id": 2112442806,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90569118,
+    "name": "Jake Spear",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90569118,
+      "name": "Jake Spear",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 574491333,
+      "name": "Judas Aralius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113152280,
+      "name": "Jery Jennings",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113707755,
+      "name": "Storm Husky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113929389,
+      "name": "Gernhart Reinlunzn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Juneau Husky",
+  "corporation_id": 98599557,
+  "alliance_id": 99005338,
+  "corporation_name": "Horde Armada",
+  "alliance_name": "Pandemic Horde"
+}

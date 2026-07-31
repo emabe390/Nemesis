@@ -1,0 +1,34 @@
+{
+  "character_id": 96629352,
+  "total_losses": 18,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96629347,
+    "name": "Fiplon Emerion",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98679485,
+    "alliance_id": 99011193,
+    "corporation_name": "Whispers in the Void",
+    "alliance_name": "Pewgilism."
+  },
+  "top_killers": [
+    {
+      "id": 96629347,
+      "name": "Fiplon Emerion",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 96629250,
+      "name": "Biplon Emerion",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Giplon Emerion",
+  "corporation_id": 98679485,
+  "alliance_id": 99011193,
+  "corporation_name": "Whispers in the Void",
+  "alliance_name": "Pewgilism."
+}

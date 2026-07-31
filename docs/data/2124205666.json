@@ -1,0 +1,52 @@
+{
+  "character_id": 2124205666,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 1898170300,
+    "name": "Etymon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 419677168,
+    "alliance_id": null,
+    "corporation_name": "Cricas Portuguese Korp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1898170300,
+      "name": "Etymon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91094943,
+      "name": "Ciba Lexlulu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94085313,
+      "name": "Bryan Tinker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kyrre Thornvoss",
+  "corporation_id": 98243307,
+  "alliance_id": 99003214,
+  "corporation_name": "Virtus Crusade",
+  "alliance_name": "Brave Collective"
+}

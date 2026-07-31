@@ -1,0 +1,52 @@
+{
+  "character_id": 201702452,
+  "total_losses": 29,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114398220,
+      "name": "Leper Gnomee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92993708,
+      "name": "Huku Bartopolos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95595848,
+      "name": "Ionut Coca",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 266826755,
+      "name": "Tiendiel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Manuri",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

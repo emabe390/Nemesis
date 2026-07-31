@@ -1,0 +1,40 @@
+{
+  "character_id": 2123845679,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96312146,
+    "name": "Character 96312146",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96312146,
+      "name": "Character 96312146",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1046946807,
+      "name": "Bibil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112109475,
+      "name": "Colin Belvar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Euribiades Mela M",
+  "corporation_id": 98740637,
+  "alliance_id": 99012717,
+  "corporation_name": "Imperio Galactico",
+  "alliance_name": "Imperio Galactico."
+}

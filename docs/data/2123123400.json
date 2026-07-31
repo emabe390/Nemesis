@@ -1,0 +1,40 @@
+{
+  "character_id": 2123123400,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1734126381,
+    "name": "Leckdock",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98091301,
+    "alliance_id": 99003581,
+    "corporation_name": "RomFleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115116754,
+      "name": "Yuri Emden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117392183,
+      "name": "Anarchbot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mister Lenb",
+  "corporation_id": 98815767,
+  "alliance_id": null,
+  "corporation_name": "6apcuk Corporation",
+  "alliance_name": null
+}

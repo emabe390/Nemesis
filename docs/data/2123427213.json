@@ -1,0 +1,34 @@
+{
+  "character_id": 2123427213,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112374976,
+    "name": "Kalo en Chasteaux",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2112374976,
+      "name": "Kalo en Chasteaux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93298491,
+      "name": "Denjia Hirohito",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sintz Beddelver",
+  "corporation_id": 98746955,
+  "alliance_id": null,
+  "corporation_name": "Light Spectrum Specialties",
+  "alliance_name": null
+}

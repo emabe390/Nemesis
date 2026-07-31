@@ -1,0 +1,52 @@
+{
+  "character_id": 2122238315,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 426901675,
+    "name": "TomalPL",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 426901675,
+      "name": "TomalPL",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 510684727,
+      "name": "NCMAC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120232166,
+      "name": "Dmitrii Brovkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123844081,
+      "name": "Ronan Kade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Papa Nihil II",
+  "corporation_id": 98761325,
+  "alliance_id": 99005830,
+  "corporation_name": "The War Fund Collective",
+  "alliance_name": "Memento Moriendo"
+}

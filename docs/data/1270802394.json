@@ -1,0 +1,40 @@
+{
+  "character_id": 1270802394,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91878047,
+    "name": "Jack Ammer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 91878047,
+      "name": "Jack Ammer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115333420,
+      "name": "Anitta Vallian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115544262,
+      "name": "Ragnnar Lothbruuk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Certain Risk",
+  "corporation_id": 98444440,
+  "alliance_id": 99015024,
+  "corporation_name": "Fly Sideways",
+  "alliance_name": "Low Class"
+}

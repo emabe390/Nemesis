@@ -1,0 +1,52 @@
+{
+  "character_id": 2123898031,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 579386461,
+    "name": "Jorraan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98355307,
+    "alliance_id": null,
+    "corporation_name": "Bastards of the Machine",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 579386461,
+      "name": "Jorraan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1328149095,
+      "name": "Tandail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123599411,
+      "name": "sergey200519",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94297571,
+      "name": "Porrim Echerie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AlphaStarKiller",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123756636,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115940294,
+    "name": "Maverick Starcrest",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98813151,
+    "alliance_id": 99014402,
+    "corporation_name": "Industry Manifest",
+    "alliance_name": "Plenitude Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2115940294,
+      "name": "Maverick Starcrest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122890454,
+      "name": "BIG PISTRUN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123950751,
+      "name": "Zenomm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Itkuri Risalo",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

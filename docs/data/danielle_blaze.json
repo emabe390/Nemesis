@@ -1,0 +1,52 @@
+{
+  "character_id": 2124390709,
+  "total_losses": 14,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 1685853583,
+      "name": "Cameron22",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115057029,
+      "name": "Vigilati Licinius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122770654,
+      "name": "Rockhard Rudy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Danielle Blaze",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

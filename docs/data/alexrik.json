@@ -1,0 +1,52 @@
+{
+  "character_id": 2123730225,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123651445,
+    "name": "Character 2123651445",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98810724,
+    "alliance_id": null,
+    "corporation_name": "Solo Capsuleer Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123651445,
+      "name": "Character 2123651445",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93590804,
+      "name": "tahoma sakura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93906219,
+      "name": "Spartak Red-White",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AlexRik",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

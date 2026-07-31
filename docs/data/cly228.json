@@ -1,0 +1,40 @@
+{
+  "character_id": 2123835122,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123835120,
+    "name": "cly227",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123835120,
+      "name": "cly227",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121879605,
+      "name": "Ketchup305",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123835123,
+      "name": "cly229",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "cly228",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

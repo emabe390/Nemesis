@@ -1,0 +1,52 @@
+{
+  "character_id": 2124118091,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114115567,
+    "name": "Fryon Aivo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98614319,
+    "alliance_id": 99014735,
+    "corporation_name": "Sunlight Corsairs",
+    "alliance_name": "Psyno Theory"
+  },
+  "top_killers": [
+    {
+      "id": 2114115567,
+      "name": "Fryon Aivo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121328796,
+      "name": "Satalama Iwaira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122729999,
+      "name": "Naama Bombasta Rakeree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122768892,
+      "name": "Saheghim Robin Boma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124118091,
+      "name": "Sacho Hou",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sacho Hou",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

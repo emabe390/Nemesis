@@ -1,0 +1,40 @@
+{
+  "character_id": 92489985,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 547390950,
+    "name": "Eledh",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 547390950,
+      "name": "Eledh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113612003,
+      "name": "Pirri FromStain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121068963,
+      "name": "Yak of Mors",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Damien Catlow",
+  "corporation_id": 1000060,
+  "alliance_id": null,
+  "corporation_name": "Native Freshfood",
+  "alliance_name": null
+}

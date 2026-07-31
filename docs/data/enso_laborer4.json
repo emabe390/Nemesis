@@ -1,0 +1,52 @@
+{
+  "character_id": 2116329911,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 729208642,
+    "name": "wraith01",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 729208642,
+      "name": "wraith01",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94944002,
+      "name": "British Sas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97034920,
+      "name": "Swath Boanerges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1408513141,
+      "name": "Bob Veers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121214314,
+      "name": "SpicyMousy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enso Laborer4",
+  "corporation_id": 98631096,
+  "alliance_id": null,
+  "corporation_name": "Enso Industry Inc.",
+  "alliance_name": null
+}

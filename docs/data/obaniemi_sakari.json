@@ -1,0 +1,52 @@
+{
+  "character_id": 2123819804,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94510299,
+    "name": "Blue Amethyst",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 995713015,
+    "alliance_id": null,
+    "corporation_name": "Praetorian Guard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94510299,
+      "name": "Blue Amethyst",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113347193,
+      "name": "Joy Ups",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116690054,
+      "name": "Sign Error",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Obaniemi Sakari",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123763785,
+  "total_losses": 48,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 2123875512,
+    "name": "ClangChang",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98827893,
+    "alliance_id": 99013719,
+    "corporation_name": "Liminal Protocol",
+    "alliance_name": "Keys Network"
+  },
+  "top_killers": [
+    {
+      "id": 2123875512,
+      "name": "ClangChang",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90109670,
+      "name": "Ravenor528",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92964075,
+      "name": "Anubis Okaski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95273329,
+      "name": "Mupoc Kashuken",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "WangChang",
+  "corporation_id": 98827893,
+  "alliance_id": 99013719,
+  "corporation_name": "Liminal Protocol",
+  "alliance_name": "Keys Network"
+}

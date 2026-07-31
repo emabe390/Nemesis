@@ -1,0 +1,40 @@
+{
+  "character_id": 2118292105,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1536924991,
+    "name": "Akaraman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 515057482,
+    "alliance_id": 99015157,
+    "corporation_name": "Novus Ordo Seclorum",
+    "alliance_name": "Lupus Ordo and Winged Hussars Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1536924991,
+      "name": "Akaraman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121892481,
+      "name": "Silent Service KI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118755349,
+      "name": "Tolmeron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Xaverius",
+  "corporation_id": 98832816,
+  "alliance_id": null,
+  "corporation_name": "Ultima Remedia",
+  "alliance_name": null
+}

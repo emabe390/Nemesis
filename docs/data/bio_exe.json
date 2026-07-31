@@ -1,0 +1,52 @@
+{
+  "character_id": 2123042345,
+  "total_losses": 80,
+  "unique_killers": 75,
+  "nemesis": {
+    "id": 91247897,
+    "name": "Spitfiire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91247897,
+      "name": "Spitfiire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91546888,
+      "name": "Anulos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113061280,
+      "name": "Lerq Staw",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114303416,
+      "name": "Ast Valois",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121260381,
+      "name": "Roche Redeemer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bio EXE",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

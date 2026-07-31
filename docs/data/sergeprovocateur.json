@@ -1,0 +1,52 @@
+{
+  "character_id": 2123727649,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1968543546,
+      "name": "Character 1968543546",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118480578,
+      "name": "phods",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121950166,
+      "name": "gulmensort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122900283,
+      "name": "AngryMoose",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SergeProvocateur",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

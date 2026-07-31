@@ -1,0 +1,40 @@
+{
+  "character_id": 91345235,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 975061176,
+    "name": "hotnready",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98688527,
+    "alliance_id": 99013113,
+    "corporation_name": "Starline Enterprises",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 975061176,
+      "name": "hotnready",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1381872987,
+      "name": "Vayio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2028705825,
+      "name": "Kurisu Makkashi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tsingrin",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

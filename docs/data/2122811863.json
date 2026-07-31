@@ -1,0 +1,40 @@
+{
+  "character_id": 2122811863,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 536094105,
+    "name": "Haramii",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98390683,
+    "alliance_id": 1354830081,
+    "corporation_name": "Hogyoku",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 536094105,
+      "name": "Haramii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 741253590,
+      "name": "Shiho Weitong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123971269,
+      "name": "Egon Kowalski Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kargach",
+  "corporation_id": 98778757,
+  "alliance_id": null,
+  "corporation_name": "Ottake",
+  "alliance_name": null
+}

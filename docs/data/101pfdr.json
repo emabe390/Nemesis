@@ -1,0 +1,40 @@
+{
+  "character_id": 2122147239,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114557488,
+    "name": "Flint Barviainen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98725773,
+    "alliance_id": 99013390,
+    "corporation_name": "Vapor Lock.",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2114557488,
+      "name": "Flint Barviainen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95995652,
+      "name": "Patricia Typho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902106,
+      "name": "Aurora Isogen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "101PFDR",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

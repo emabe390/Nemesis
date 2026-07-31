@@ -1,0 +1,52 @@
+{
+  "character_id": 2121347491,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95985094,
+      "name": "RacknerHolding",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112564560,
+      "name": "Julia Nimmrod",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Huns Jonesman",
+  "corporation_id": 98161636,
+  "alliance_id": 99014735,
+  "corporation_name": "Physics Says No",
+  "alliance_name": "Psyno Theory"
+}

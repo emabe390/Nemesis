@@ -1,0 +1,52 @@
+{
+  "character_id": 2123239600,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120646800,
+    "name": "Neisseria G0n0rrhoeae",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120646800,
+      "name": "Neisseria G0n0rrhoeae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122965294,
+      "name": "Bassa Hashur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90762326,
+      "name": "Leriss Serenthius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 322843081,
+      "name": "Felicia Ha'thor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 806598739,
+      "name": "IT Yassir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DervishVg",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

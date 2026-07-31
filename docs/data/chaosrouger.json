@@ -1,0 +1,52 @@
+{
+  "character_id": 2123062576,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123446551,
+    "name": "RedStoneMKT",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98626494,
+    "alliance_id": 99003581,
+    "corporation_name": "STARCHASER Inc",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123446551,
+      "name": "RedStoneMKT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1726462155,
+      "name": "PzychooSonic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114861239,
+      "name": "Character 2114861239",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121092865,
+      "name": "Chasmiot Peau Thiesant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122395575,
+      "name": "ValaN4ig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ChaosRouger",
+  "corporation_id": 98823816,
+  "alliance_id": null,
+  "corporation_name": "EveMarketOrderAssistant",
+  "alliance_name": null
+}

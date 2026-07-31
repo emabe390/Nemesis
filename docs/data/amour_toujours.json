@@ -1,0 +1,40 @@
+{
+  "character_id": 2120262692,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120582727,
+    "name": "Sir No Fumo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813284,
+    "alliance_id": 99009845,
+    "corporation_name": "Environmental Hazard.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2120582727,
+      "name": "Sir No Fumo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1163209583,
+      "name": "Punch Bunny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amour Toujours",
+  "corporation_id": 98651050,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XVIII",
+  "alliance_name": "Absolute Will"
+}

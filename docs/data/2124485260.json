@@ -1,0 +1,40 @@
+{
+  "character_id": 2124485260,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116649544,
+    "name": "Vevellete",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715093,
+    "alliance_id": 99003581,
+    "corporation_name": "Thunder Shield",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116649544,
+      "name": "Vevellete",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 112597121,
+      "name": "MIROMAX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ultor spiritus",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

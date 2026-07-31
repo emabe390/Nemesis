@@ -1,0 +1,34 @@
+{
+  "character_id": 2124317243,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123553760,
+    "name": "Bobby Womack Jr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98768799,
+    "alliance_id": 99013692,
+    "corporation_name": "Black Rats Securities",
+    "alliance_name": "Independent Miners Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123553760,
+      "name": "Bobby Womack Jr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91251687,
+      "name": "Rashaab merkava",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abeuallly",
+  "corporation_id": 98836004,
+  "alliance_id": null,
+  "corporation_name": "Smegalls LP Corp",
+  "alliance_name": null
+}

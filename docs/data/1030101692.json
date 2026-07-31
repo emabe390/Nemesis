@@ -1,0 +1,40 @@
+{
+  "character_id": 1030101692,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114498069,
+    "name": "Nasbashov Ibruin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98285865,
+    "alliance_id": null,
+    "corporation_name": "Jian Sheng",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114498069,
+      "name": "Nasbashov Ibruin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123158257,
+      "name": "Accalaurie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123403053,
+      "name": "Vratislav von Willberk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xerathule",
+  "corporation_id": 98562774,
+  "alliance_id": 99014174,
+  "corporation_name": "Goldman Stash Trading",
+  "alliance_name": "Praetorian Protectorate"
+}

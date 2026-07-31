@@ -1,0 +1,40 @@
+{
+  "character_id": 2124434662,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124433399,
+    "name": "Garand Lemmont",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817642,
+    "alliance_id": 99003995,
+    "corporation_name": "Anti Social Social-Club",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2124433399,
+      "name": "Garand Lemmont",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124415472,
+      "name": "Glen Marland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124434657,
+      "name": "Gerald Donier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gail Ekanon",
+  "corporation_id": 98817642,
+  "alliance_id": 99003995,
+  "corporation_name": "Anti Social Social-Club",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123720458,
+  "total_losses": 33,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 1667664783,
+    "name": "archillae",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98688951,
+    "alliance_id": 99009856,
+    "corporation_name": "Mercury Arms Inc.",
+    "alliance_name": "Ghostbirds"
+  },
+  "top_killers": [
+    {
+      "id": 1667664783,
+      "name": "archillae",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90488196,
+      "name": "8U11ET",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91163213,
+      "name": "Ikko Ikki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92621545,
+      "name": "Eli Patrouette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95825559,
+      "name": "Malcolm Boloskarl",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Takamada",
+  "corporation_id": 98813850,
+  "alliance_id": null,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": null
+}

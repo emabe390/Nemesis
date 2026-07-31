@@ -1,0 +1,52 @@
+{
+  "character_id": 2124119149,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 235695799,
+    "name": "Agent 004",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 235695799,
+      "name": "Agent 004",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92109285,
+      "name": "Lightning Ridden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93716452,
+      "name": "Torgo Tahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94974188,
+      "name": "Ashle Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95065599,
+      "name": "Iffan Minkles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zune29",
+  "corporation_id": 98728891,
+  "alliance_id": null,
+  "corporation_name": "Dovahkiin Lineage",
+  "alliance_name": null
+}

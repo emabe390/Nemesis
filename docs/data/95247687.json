@@ -1,0 +1,52 @@
+{
+  "character_id": 95247687,
+  "total_losses": 8,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 90287234,
+    "name": "Lt Reva",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1324429368,
+    "alliance_id": 1354830081,
+    "corporation_name": "NED-Clan",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90287234,
+      "name": "Lt Reva",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1181102757,
+      "name": "TopsyKrets",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114566051,
+      "name": "Poseidon Nepune",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117503247,
+      "name": "Warm Beer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118689956,
+      "name": "Eoci Bloodfin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Thorn",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

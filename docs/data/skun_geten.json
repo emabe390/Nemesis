@@ -1,0 +1,52 @@
+{
+  "character_id": 2119649013,
+  "total_losses": 50,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91127838,
+      "name": "Character 91127838",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91395281,
+      "name": "Krops Vont",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92000736,
+      "name": "Scott Auscent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94895746,
+      "name": "ynor marakin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Skun Geten",
+  "corporation_id": 98748326,
+  "alliance_id": null,
+  "corporation_name": "Forgot to repair",
+  "alliance_name": null
+}

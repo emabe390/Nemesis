@@ -1,0 +1,46 @@
+{
+  "character_id": 1203610883,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114446596,
+      "name": "SP Codie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115038999,
+      "name": "GipsyDanger -SSS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lord Terranuss",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

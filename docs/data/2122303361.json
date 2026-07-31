@@ -1,0 +1,34 @@
+{
+  "character_id": 2122303361,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121427352,
+    "name": "Atlelin Edier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98221538,
+    "alliance_id": 99003581,
+    "corporation_name": "C5 Flight",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121427352,
+      "name": "Atlelin Edier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112839173,
+      "name": "Vladlena Targanova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Vermil",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 508622334,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96797014,
+    "name": "Breadfish Chelien",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98570801,
+    "alliance_id": null,
+    "corporation_name": "Insitution of Homeless Fish",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113929389,
+      "name": "Gernhart Reinlunzn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113027115,
+      "name": "Rudie DeNiro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Relentlass",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

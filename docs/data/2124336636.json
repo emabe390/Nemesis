@@ -1,0 +1,40 @@
+{
+  "character_id": 2124336636,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95423120,
+    "name": "Stephen Andross",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 95423120,
+      "name": "Stephen Andross",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2113135788,
+      "name": "Zumodenabo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122679280,
+      "name": "ohmm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "mad and balding",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

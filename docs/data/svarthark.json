@@ -1,0 +1,52 @@
+{
+  "character_id": 2124229080,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2116355582,
+    "name": "Frozen Tea",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145698,
+    "alliance_id": 99005034,
+    "corporation_name": "Terrelian Republic.",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 2116355582,
+      "name": "Frozen Tea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93155815,
+      "name": "wanli Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94635722,
+      "name": "Thormarr Karlsefni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95108146,
+      "name": "Jaysea Cleveland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 125140153,
+      "name": "Meritates",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Svarthark",
+  "corporation_id": 98832910,
+  "alliance_id": null,
+  "corporation_name": "Egregorians",
+  "alliance_name": null
+}

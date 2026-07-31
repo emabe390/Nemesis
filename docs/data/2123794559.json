@@ -1,0 +1,52 @@
+{
+  "character_id": 2123794559,
+  "total_losses": 113,
+  "unique_killers": 85,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122693997,
+      "name": "NMmine2B",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "NMmineA2",
+  "corporation_id": 98669633,
+  "alliance_id": 99003581,
+  "corporation_name": "Knights of the Silver Eagle",
+  "alliance_name": "Fraternity."
+}

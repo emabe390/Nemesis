@@ -1,0 +1,52 @@
+{
+  "character_id": 2123504243,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 93730509,
+    "name": "Character 93730509",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98773416,
+    "alliance_id": 1900696668,
+    "corporation_name": "Primal Instinct Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93730509,
+      "name": "Character 93730509",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93184630,
+      "name": "Zena Budhala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94117242,
+      "name": "Tisaya Vaille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 146528804,
+      "name": "Andri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shimagor",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

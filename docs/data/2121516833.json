@@ -1,0 +1,52 @@
+{
+  "character_id": 2121516833,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2118754589,
+    "name": "James the Less",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118754589,
+      "name": "James the Less",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94317464,
+      "name": "Jack Firm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 299762341,
+      "name": "Destropia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 778583386,
+      "name": "Oniko Sengir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 960425741,
+      "name": "Manfred Maccx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sophia Bloom",
+  "corporation_id": 98757795,
+  "alliance_id": null,
+  "corporation_name": "Federation Insurgency Response Force",
+  "alliance_name": null
+}

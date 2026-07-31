@@ -1,0 +1,52 @@
+{
+  "character_id": 2119687460,
+  "total_losses": 43,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90436170,
+      "name": "Behebe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 802725916,
+      "name": "blaspheme",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MarshalAs",
+  "corporation_id": 98820695,
+  "alliance_id": 99013484,
+  "corporation_name": "Puella in cursoriam",
+  "alliance_name": "Crocodili et mammoths"
+}

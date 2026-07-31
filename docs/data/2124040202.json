@@ -1,0 +1,46 @@
+{
+  "character_id": 2124040202,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123852386,
+    "name": "Old Redcap Sly",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98778904,
+    "alliance_id": 99015054,
+    "corporation_name": "Clandestinauts",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2123852386,
+      "name": "Old Redcap Sly",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94377240,
+      "name": "Gertrude the Goat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123562586,
+      "name": "Yamaji Bikuroi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Augusta Macintosh",
+  "corporation_id": 98705678,
+  "alliance_id": 99012009,
+  "corporation_name": "Minmatar Fleet Logistics",
+  "alliance_name": "Minmatar Fleet Associates"
+}

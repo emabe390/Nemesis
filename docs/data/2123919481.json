@@ -1,0 +1,40 @@
+{
+  "character_id": 2123919481,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 269925950,
+    "name": "Goupil",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 518374468,
+    "alliance_id": null,
+    "corporation_name": "Holiday in Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 269925950,
+      "name": "Goupil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1778860998,
+      "name": "Kappa slappa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120786452,
+      "name": "AlectoCarrow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hallan Njord",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

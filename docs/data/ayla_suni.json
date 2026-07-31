@@ -1,0 +1,46 @@
+{
+  "character_id": 2121026287,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119284036,
+    "name": "Jackson Burrows",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98745754,
+    "alliance_id": null,
+    "corporation_name": "Monkhouse Conglomerate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119284036,
+      "name": "Jackson Burrows",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121026287,
+      "name": "Ayla Suni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121141857,
+      "name": "Olanaxia Sparrock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124191893,
+      "name": "Barranon Dulle Nardieu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ayla Suni",
+  "corporation_id": 2036478771,
+  "alliance_id": 99013766,
+  "corporation_name": "Ocean Eleven",
+  "alliance_name": "Death Legion of Capybaras"
+}

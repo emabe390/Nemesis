@@ -1,0 +1,52 @@
+{
+  "character_id": 2123702199,
+  "total_losses": 27,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2121530547,
+    "name": "Lalka Caller",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98620346,
+    "alliance_id": 1220922756,
+    "corporation_name": "Zero Transversal",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121530547,
+      "name": "Lalka Caller",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116214691,
+      "name": "Docmzf Usoko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116690528,
+      "name": "CNMoon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117732349,
+      "name": "Chompi SF",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123806703,
+      "name": "LingYun02",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "LingYun01",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123657513,
+  "total_losses": 106,
+  "unique_killers": 71,
+  "nemesis": {
+    "id": 964330275,
+    "name": "Aegis Stormborn",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124109033,
+      "name": "Mekky",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94804674,
+      "name": "Delta Zenochka",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Magnus override",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123204027,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93621880,
+    "name": "Atrol Nalelmir",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98747667,
+    "alliance_id": 99004901,
+    "corporation_name": "Boomer Humor",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 93621880,
+      "name": "Atrol Nalelmir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94130427,
+      "name": "NanoFlame Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117476441,
+      "name": "1-HADOM-1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Burn 0ut",
+  "corporation_id": 98765171,
+  "alliance_id": null,
+  "corporation_name": "Order of the Black Shamrocks",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122610067,
+  "total_losses": 79,
+  "unique_killers": 60,
+  "nemesis": {
+    "id": 2121944038,
+    "name": "Murnac Riraille",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98802635,
+    "alliance_id": null,
+    "corporation_name": "sifa-dias",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121944038,
+      "name": "Murnac Riraille",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 91864475,
+      "name": "Ahmed Hakaari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95438732,
+      "name": "Jennifer Jovakko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96853033,
+      "name": "Seraphim Back",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Balthazar Recknar",
+  "corporation_id": 98802881,
+  "alliance_id": 99014898,
+  "corporation_name": "Mad Mystery",
+  "alliance_name": "Guristaz Logistics Alliance"
+}

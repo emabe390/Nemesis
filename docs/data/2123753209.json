@@ -1,0 +1,40 @@
+{
+  "character_id": 2123753209,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121650980,
+    "name": "Lt Karl Hagerman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594481,
+    "alliance_id": null,
+    "corporation_name": "Frank's Fluids",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121650980,
+      "name": "Lt Karl Hagerman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120836816,
+      "name": "G0ATWEED",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kenyov",
+  "corporation_id": 98813211,
+  "alliance_id": null,
+  "corporation_name": "Plounamisemporio",
+  "alliance_name": null
+}

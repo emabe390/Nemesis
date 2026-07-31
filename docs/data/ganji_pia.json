@@ -1,0 +1,46 @@
+{
+  "character_id": 2123819023,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93120437,
+    "name": "Narmo Johnas Golabro",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98730577,
+    "alliance_id": null,
+    "corporation_name": "Unreasonable Neighbours",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93120437,
+      "name": "Narmo Johnas Golabro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93213646,
+      "name": "Knagmord Kalfren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123819017,
+      "name": "Ganji-Sia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123819025,
+      "name": "Ganji-Qia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ganji-Pia",
+  "corporation_id": 98823209,
+  "alliance_id": 99014249,
+  "corporation_name": "GanJi Nomad Life",
+  "alliance_name": "Nisuwa Cartel Assoiate"
+}

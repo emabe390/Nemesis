@@ -1,0 +1,40 @@
+{
+  "character_id": 2121422983,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 300442413,
+    "name": "Bleyss",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98412140,
+    "alliance_id": null,
+    "corporation_name": "JAGD Federation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 300442413,
+      "name": "Bleyss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 579386461,
+      "name": "Jorraan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daragor",
+  "corporation_id": 98399497,
+  "alliance_id": 99012070,
+  "corporation_name": "Red Cold Chili Banderlogs Academy",
+  "alliance_name": "PEPE SQUAD"
+}

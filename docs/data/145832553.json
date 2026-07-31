@@ -1,0 +1,40 @@
+{
+  "character_id": 145832553,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 145832553,
+    "name": "Katelyn",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98835765,
+    "alliance_id": null,
+    "corporation_name": "Clan X",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 145832553,
+      "name": "Katelyn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122782016,
+      "name": "Don Florencio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122959010,
+      "name": "Nouri Arareb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Katelyn",
+  "corporation_id": 98835765,
+  "alliance_id": null,
+  "corporation_name": "Clan X",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123031340,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1114073982,
+    "name": "CSISTRA",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98789418,
+    "alliance_id": null,
+    "corporation_name": "Mental Disruption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1114073982,
+      "name": "CSISTRA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118259359,
+      "name": "Skuteczna Kosiarka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119147880,
+      "name": "Gregberg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "shrenwjs2",
+  "corporation_id": 98641311,
+  "alliance_id": 99012067,
+  "corporation_name": "CATALYST FOR YOU",
+  "alliance_name": "United Cats"
+}

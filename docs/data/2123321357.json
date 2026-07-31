@@ -1,0 +1,34 @@
+{
+  "character_id": 2123321357,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91225146,
+    "name": "Marcel Chelo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 91225146,
+      "name": "Marcel Chelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123276221,
+      "name": "CN1-Luckyman",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Litl Julia",
+  "corporation_id": 98457434,
+  "alliance_id": 1411711376,
+  "corporation_name": "TIePerPeB",
+  "alliance_name": "Legion of xXDEATHXx"
+}

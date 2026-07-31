@@ -1,0 +1,52 @@
+{
+  "character_id": 2123785311,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 96886197,
+    "name": "depeche mirage",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 495392624,
+    "alliance_id": 1900696668,
+    "corporation_name": "GeoCorp.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96886197,
+      "name": "depeche mirage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118643498,
+      "name": "wangduoyu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93055333,
+      "name": "Dan Hammond",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94163020,
+      "name": "Reza Hartaman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 526031522,
+      "name": "Ra1n Forest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maelle Nightbane",
+  "corporation_id": 98834183,
+  "alliance_id": 99009163,
+  "corporation_name": "Last Warning BR",
+  "alliance_name": "Dracarys."
+}

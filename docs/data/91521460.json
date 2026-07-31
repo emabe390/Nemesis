@@ -1,0 +1,34 @@
+{
+  "character_id": 91521460,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 302248911,
+    "name": "Rakaz",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98478883,
+    "alliance_id": 99004901,
+    "corporation_name": "Know-Nothings",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rejawalk",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123612592,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121156330,
+    "name": "YobaFlex",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121156330,
+      "name": "YobaFlex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121813442,
+      "name": "S1rpentis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122579634,
+      "name": "cloak and-daggers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Koriel-Zeth",
+  "corporation_id": 98814141,
+  "alliance_id": 99012122,
+  "corporation_name": "Industrial pact",
+  "alliance_name": "HOLD MY PROBS"
+}

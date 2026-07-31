@@ -1,0 +1,52 @@
+{
+  "character_id": 2123238305,
+  "total_losses": 43,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 128140932,
+      "name": "Karin Mirin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2069822721,
+      "name": "Croowdrio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116421390,
+      "name": "Marina Alessandro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116429938,
+      "name": "Terra Tur",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "getawayfromme",
+  "corporation_id": 98640194,
+  "alliance_id": 99014738,
+  "corporation_name": "Salted Fish Inc",
+  "alliance_name": "The Black Shores"
+}

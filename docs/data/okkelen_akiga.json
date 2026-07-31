@@ -1,0 +1,40 @@
+{
+  "character_id": 2124011894,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1001312721,
+    "name": "DanVanCrone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 1001312721,
+      "name": "DanVanCrone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123194984,
+      "name": "SpeEdRu1ner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okkelen Akiga",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

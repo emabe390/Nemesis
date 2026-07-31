@@ -1,0 +1,52 @@
+{
+  "character_id": 2123868290,
+  "total_losses": 23,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123885904,
+    "name": "The alter ego",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98768929,
+    "alliance_id": 99009163,
+    "corporation_name": "Heidelberg.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123885904,
+      "name": "The alter ego",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 96836341,
+      "name": "Character 96836341",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1068134108,
+      "name": "Mad Lurker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114847600,
+      "name": "Ghost 0524",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119562933,
+      "name": "sky profiteer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "an alter ego",
+  "corporation_id": 98817310,
+  "alliance_id": 99009163,
+  "corporation_name": "Dusk dreadnought.",
+  "alliance_name": "Dracarys."
+}

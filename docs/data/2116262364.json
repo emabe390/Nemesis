@@ -1,0 +1,52 @@
+{
+  "character_id": 2116262364,
+  "total_losses": 95,
+  "unique_killers": 82,
+  "nemesis": {
+    "id": 2124449215,
+    "name": "Nyx Widowmaker",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124449215,
+      "name": "Nyx Widowmaker",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91050191,
+      "name": "Sol Weintroub",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96374618,
+      "name": "Michael Foley Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97052689,
+      "name": "Shaz Tzash",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Popica Frica",
+  "corporation_id": 98831363,
+  "alliance_id": 99014936,
+  "corporation_name": "Guns n' Glory",
+  "alliance_name": "Health Code Violation"
+}

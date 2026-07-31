@@ -1,0 +1,46 @@
+{
+  "character_id": 2123123443,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 543101799,
+    "name": "gallen2",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 846656839,
+    "alliance_id": 1691647675,
+    "corporation_name": "Revenent Defence Corperation",
+    "alliance_name": "Ishuk-Raata Enforcement Directive"
+  },
+  "top_killers": [
+    {
+      "id": 543101799,
+      "name": "gallen2",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 884060811,
+      "name": "mtitus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90539516,
+      "name": "Applebloom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116482548,
+      "name": "Uzan Ariav",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Forbidding Lotus",
+  "corporation_id": 98818252,
+  "alliance_id": 99007887,
+  "corporation_name": "Blacktail Syndicate",
+  "alliance_name": "Brotherhood of Spacers"
+}

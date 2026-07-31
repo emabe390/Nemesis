@@ -1,0 +1,40 @@
+{
+  "character_id": 946305794,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95201833,
+    "name": "f9dfk",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 95201833,
+      "name": "f9dfk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95923431,
+      "name": "Test Bull",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122886891,
+      "name": "Character 2122886891",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Winzling",
+  "corporation_id": 1001263687,
+  "alliance_id": null,
+  "corporation_name": "Winzling Enterprises",
+  "alliance_name": null
+}

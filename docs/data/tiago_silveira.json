@@ -1,0 +1,40 @@
+{
+  "character_id": 2124140746,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1140556521,
+    "name": "Ria Melca",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1140556521,
+      "name": "Ria Melca",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91395281,
+      "name": "Krops Vont",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tiago Silveira",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

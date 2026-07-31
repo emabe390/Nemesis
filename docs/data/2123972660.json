@@ -1,0 +1,40 @@
+{
+  "character_id": 2123972660,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90393747,
+    "name": "Gramps Pljugi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 90393747,
+      "name": "Gramps Pljugi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115731180,
+      "name": "RFC 2549",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122722250,
+      "name": "Nosha Ririna Sharisa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stillmatic2",
+  "corporation_id": 98723239,
+  "alliance_id": 99014885,
+  "corporation_name": "Lux Militia",
+  "alliance_name": "From Placid with Love"
+}

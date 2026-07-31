@@ -1,0 +1,52 @@
+{
+  "character_id": 2123938326,
+  "total_losses": 54,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 1238410901,
+    "name": "Diddy Meerkat",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 976640448,
+    "alliance_id": 99013937,
+    "corporation_name": "Beyond Redemption Corp",
+    "alliance_name": "Beyond Redemption."
+  },
+  "top_killers": [
+    {
+      "id": 1238410901,
+      "name": "Diddy Meerkat",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95041309,
+      "name": "Lamenoire Toralen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96794739,
+      "name": "Agent Kirk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tamino van Alb",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

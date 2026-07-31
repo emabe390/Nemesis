@@ -1,0 +1,52 @@
+{
+  "character_id": 2123260331,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123125650,
+    "name": "Michel-Ney",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98626494,
+    "alliance_id": 99003581,
+    "corporation_name": "STARCHASER Inc",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123125650,
+      "name": "Michel-Ney",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93417319,
+      "name": "Dabragones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94111022,
+      "name": "Have A Present",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1861548089,
+      "name": "Skieta Wybrow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcus-Nerva",
+  "corporation_id": 98626494,
+  "alliance_id": 99003581,
+  "corporation_name": "STARCHASER Inc",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2122801003,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123714075,
+    "name": "Count Furbag",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454805,
+    "alliance_id": 99011603,
+    "corporation_name": "Phantom Space",
+    "alliance_name": "Space Madness."
+  },
+  "top_killers": [
+    {
+      "id": 2123714075,
+      "name": "Count Furbag",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121238287,
+      "name": "Ves ua",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MrFuurbag",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

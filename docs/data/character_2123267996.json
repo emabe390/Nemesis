@@ -1,0 +1,34 @@
+{
+  "character_id": 2123267996,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 858579230,
+    "name": "EVOLVED",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 669795117,
+    "alliance_id": 131511956,
+    "corporation_name": "Systems High Guard",
+    "alliance_name": "Tactical Narcotics Team"
+  },
+  "top_killers": [
+    {
+      "id": 858579230,
+      "name": "EVOLVED",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1746739282,
+      "name": "Kertog",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123267996",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

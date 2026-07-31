@@ -1,0 +1,52 @@
+{
+  "character_id": 2123188786,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123188781,
+    "name": "PolarisWK",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98524939,
+    "alliance_id": 1354830081,
+    "corporation_name": "Sing Hua",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123188781,
+      "name": "PolarisWK",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1589139200,
+      "name": "Gak Maulok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114014361,
+      "name": "Johny So",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96002629,
+      "name": "Ame1i",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97048783,
+      "name": "Working Class Man",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PolarisWR",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

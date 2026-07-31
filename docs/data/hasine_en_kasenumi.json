@@ -1,0 +1,40 @@
+{
+  "character_id": 2123172171,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123560475,
+    "name": "Morwere en Tilavine",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98765306,
+    "alliance_id": 99012009,
+    "corporation_name": "Soltech Holdings",
+    "alliance_name": "Minmatar Fleet Associates"
+  },
+  "top_killers": [
+    {
+      "id": 2123560475,
+      "name": "Morwere en Tilavine",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1267890505,
+      "name": "Liyanna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hasine en Kasenumi",
+  "corporation_id": 98786990,
+  "alliance_id": 99012009,
+  "corporation_name": "New Eden Library",
+  "alliance_name": "Minmatar Fleet Associates"
+}

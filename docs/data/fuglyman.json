@@ -1,0 +1,52 @@
+{
+  "character_id": 368160482,
+  "total_losses": 83,
+  "unique_killers": 59,
+  "nemesis": {
+    "id": 2123642979,
+    "name": "dovuh",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123642979,
+      "name": "dovuh",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 833050087,
+      "name": "ratain",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92864573,
+      "name": "Candace DeLaMesa",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Fuglyman",
+  "corporation_id": 98483924,
+  "alliance_id": 99007928,
+  "corporation_name": "Mackies Raiders",
+  "alliance_name": "Wild Geese."
+}

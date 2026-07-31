@@ -1,0 +1,34 @@
+{
+  "character_id": 244215628,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90580097,
+    "name": "Alice RD",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98272729,
+    "alliance_id": null,
+    "corporation_name": "Lonetrek Industrials Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90580097,
+      "name": "Alice RD",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96370537,
+      "name": "Character 96370537",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jitaro",
+  "corporation_id": 98651050,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XVIII",
+  "alliance_name": "Absolute Will"
+}

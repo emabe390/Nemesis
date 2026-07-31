@@ -1,0 +1,52 @@
+{
+  "character_id": 2123971862,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116802657,
+    "name": "Gut Bronson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1812594659,
+    "alliance_id": 99001969,
+    "corporation_name": "Risk Breakers",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 2116802657,
+      "name": "Gut Bronson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118261790,
+      "name": "Bluegru Heslead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120049925,
+      "name": "Tinilau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121103796,
+      "name": "Beautiful Mim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123750963,
+      "name": "AIvatar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Li-Hua Xiang",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

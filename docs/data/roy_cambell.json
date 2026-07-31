@@ -1,0 +1,52 @@
+{
+  "character_id": 191271797,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1457102850,
+    "name": "Trigori",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785548,
+    "alliance_id": null,
+    "corporation_name": "Deep Void Systems",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1457102850,
+      "name": "Trigori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123820092,
+      "name": "Kozlopas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94870154,
+      "name": "Jungle Chan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 464724427,
+      "name": "DarkPiper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 537900402,
+      "name": "Character 537900402",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roy Cambell",
+  "corporation_id": 98703491,
+  "alliance_id": 99011869,
+  "corporation_name": "Player Vs Ore",
+  "alliance_name": "Miners Of Independence"
+}

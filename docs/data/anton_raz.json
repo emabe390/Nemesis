@@ -1,0 +1,52 @@
+{
+  "character_id": 2116693359,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91931185,
+      "name": "Lex Hakoke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 583575491,
+      "name": "Calyse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anton Raz",
+  "corporation_id": 98789018,
+  "alliance_id": null,
+  "corporation_name": "United Free Beings",
+  "alliance_name": null
+}

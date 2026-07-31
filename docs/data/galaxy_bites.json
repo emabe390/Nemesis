@@ -1,0 +1,46 @@
+{
+  "character_id": 2123860500,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 338285735,
+    "name": "OT Smithers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98060878,
+    "alliance_id": 99009584,
+    "corporation_name": "Buccaneer's Den",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1308741795,
+      "name": "Penguin68",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92720359,
+      "name": "Kavoro Pel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120652956,
+      "name": "Bec d'Corbin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Galaxy Bites",
+  "corporation_id": 98816688,
+  "alliance_id": null,
+  "corporation_name": "NanYiChaShe",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123756376,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95068538,
+    "name": "Carlos Bandolier",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98451057,
+    "alliance_id": 99014193,
+    "corporation_name": "Fibonacci Futures",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112665112,
+      "name": "Falk Law",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122709133,
+      "name": "Ange Du Matin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TURHAN",
+  "corporation_id": 98700495,
+  "alliance_id": 99012181,
+  "corporation_name": "KOCMO-LLIKoJIA - Cepn n MoJLom",
+  "alliance_name": "Alea jacta est."
+}

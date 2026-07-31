@@ -1,0 +1,52 @@
+{
+  "character_id": 95455403,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123773367,
+    "name": "Character 2123773367",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123773367,
+      "name": "Character 2123773367",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95915045,
+      "name": "Joan Randall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1673501109,
+      "name": "VAMP XXX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90737395,
+      "name": "Feth Dethahal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Julius Decius",
+  "corporation_id": 1402249247,
+  "alliance_id": 99011957,
+  "corporation_name": "Lionel War Industries",
+  "alliance_name": "Gooseflock Featheration"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2119491501,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120972657,
+    "name": "zorya triangle",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98702947,
+    "alliance_id": 99012950,
+    "corporation_name": "highsec cleanup",
+    "alliance_name": "Stacmon Border Patrol"
+  },
+  "top_killers": [
+    {
+      "id": 2120972657,
+      "name": "zorya triangle",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122658237,
+      "name": "Swanzy Bronze",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Xen Sierra",
+  "corporation_id": 1761823736,
+  "alliance_id": null,
+  "corporation_name": "OzNuk Federation",
+  "alliance_name": null
+}

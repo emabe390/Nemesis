@@ -1,0 +1,52 @@
+{
+  "character_id": 2124027258,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115254472,
+    "name": "Fenris Zakuul",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98426237,
+    "alliance_id": 99004604,
+    "corporation_name": "Phoenix Naval Operations",
+    "alliance_name": "Phoenix Naval Systems"
+  },
+  "top_killers": [
+    {
+      "id": 2115254472,
+      "name": "Fenris Zakuul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123736306,
+      "name": "VoidEclipse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1358387696,
+      "name": "Justari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1727025426,
+      "name": "Perseus Kallistratos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119286192,
+      "name": "Gentii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Entangling Roots",
+  "corporation_id": 98821314,
+  "alliance_id": null,
+  "corporation_name": "F L E E T",
+  "alliance_name": null
+}

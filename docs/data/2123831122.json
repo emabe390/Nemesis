@@ -1,0 +1,34 @@
+{
+  "character_id": 2123831122,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115571191,
+    "name": "Not OurProblem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98773870,
+    "alliance_id": 99012896,
+    "corporation_name": "Flareguard Union",
+    "alliance_name": "Ragequit Cancel Sub"
+  },
+  "top_killers": [
+    {
+      "id": 2115571191,
+      "name": "Not OurProblem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115068974,
+      "name": "Sigmond Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kajudora Sinerala",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

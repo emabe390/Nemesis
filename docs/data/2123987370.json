@@ -1,0 +1,52 @@
+{
+  "character_id": 2123987370,
+  "total_losses": 53,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2123977394,
+    "name": "singulare",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98819354,
+    "alliance_id": null,
+    "corporation_name": "Exactitude Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123977394,
+      "name": "singulare",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120165633,
+      "name": "Peleuss",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1287498641,
+      "name": "Liz Aun",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94651961,
+      "name": "Wiley Tombs",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Flash Steels",
+  "corporation_id": 98819354,
+  "alliance_id": null,
+  "corporation_name": "Exactitude Syndicate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123026239,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90223793,
+    "name": "Character 90223793",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724947,
+    "alliance_id": null,
+    "corporation_name": "0nus",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90223793,
+      "name": "Character 90223793",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121751991,
+      "name": "Mickael Kel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117009120,
+      "name": "some pirate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120481908,
+      "name": "Akora Itiya Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Commodore Commander Pipihead",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

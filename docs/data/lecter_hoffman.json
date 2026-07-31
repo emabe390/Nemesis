@@ -1,0 +1,52 @@
+{
+  "character_id": 2123835502,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2116291626,
+    "name": "Eva Starrchaser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98745385,
+    "alliance_id": 99012544,
+    "corporation_name": "The God Hand.",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117825129,
+      "name": "Mecha Omnissiah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96541111,
+      "name": "Jin Hong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 151559631,
+      "name": "Colonel Kurtz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 965058723,
+      "name": "Chia Teng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lecter Hoffman",
+  "corporation_id": 98812908,
+  "alliance_id": 99003995,
+  "corporation_name": "Domain of Death",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123624822,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119508114,
+    "name": "Stefan Molymeme",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 2119508114,
+      "name": "Stefan Molymeme",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123615231,
+      "name": "Xaxi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113687136,
+      "name": "Altimate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117776396,
+      "name": "Modus Deus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "angrily marmot",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

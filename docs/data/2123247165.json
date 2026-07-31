@@ -1,0 +1,52 @@
+{
+  "character_id": 2123247165,
+  "total_losses": 28,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121844808,
+    "name": "Yum Fang",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98758422,
+    "alliance_id": 99014284,
+    "corporation_name": "Consultancy",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2121844808,
+      "name": "Yum Fang",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2122658228,
+      "name": "Gemato Gen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96742092,
+      "name": "Avalon Lyons",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121459031,
+      "name": "Mishi Avada",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122187878,
+      "name": "Pablo Kalupablo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "gdmac",
+  "corporation_id": 98802233,
+  "alliance_id": null,
+  "corporation_name": "Crassus Capital",
+  "alliance_name": null
+}

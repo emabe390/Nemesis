@@ -1,0 +1,52 @@
+{
+  "character_id": 2121844818,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 97046962,
+    "name": "Arthur Prometheus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98626494,
+    "alliance_id": 99003581,
+    "corporation_name": "STARCHASER Inc",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 97046962,
+      "name": "Arthur Prometheus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114993571,
+      "name": "Thraxis Grey",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91615359,
+      "name": "lt Deano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92530436,
+      "name": "Joey Nailbomb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valinor Iwari",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

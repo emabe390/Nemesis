@@ -1,0 +1,52 @@
+{
+  "character_id": 2123173274,
+  "total_losses": 124,
+  "unique_killers": 108,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93243194,
+      "name": "Agent J Squire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93314527,
+      "name": "Luke Swampwalker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 188501480,
+      "name": "Vridovix",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sampo Kiuru",
+  "corporation_id": 98232099,
+  "alliance_id": 99002584,
+  "corporation_name": "Nomads of Republic",
+  "alliance_name": "Smile 'n' Wave"
+}

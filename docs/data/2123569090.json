@@ -1,0 +1,52 @@
+{
+  "character_id": 2123569090,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 854486695,
+    "name": "Mike Right",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 148421648,
+    "alliance_id": 1900696668,
+    "corporation_name": "hirr",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 854486695,
+      "name": "Mike Right",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93603957,
+      "name": "Oliver Forks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96238497,
+      "name": "Steve Ramone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 323748923,
+      "name": "Frank Wiggles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 727964485,
+      "name": "Elukka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aievex",
+  "corporation_id": 98570132,
+  "alliance_id": 99003581,
+  "corporation_name": "EF air force",
+  "alliance_name": "Fraternity."
+}

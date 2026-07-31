@@ -1,0 +1,40 @@
+{
+  "character_id": 2121778446,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116277400,
+    "name": "Drasius Rift",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116277400,
+      "name": "Drasius Rift",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95579243,
+      "name": "Kasirga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 791875142,
+      "name": "FearBytes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kama Katelo",
+  "corporation_id": 98733881,
+  "alliance_id": 99014289,
+  "corporation_name": "1000 Jahre Dunkelheit",
+  "alliance_name": "Ibuprofen Chapter"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123838181,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123838174,
+    "name": "4YunNanNanGe",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98812908,
+    "alliance_id": 99003995,
+    "corporation_name": "Domain of Death",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123838174,
+      "name": "4YunNanNanGe",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123816211,
+      "name": "YunNanNanGe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123838146,
+      "name": "2YunNanNanGe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "5YunNanNanGe",
+  "corporation_id": 98812908,
+  "alliance_id": 99003995,
+  "corporation_name": "Domain of Death",
+  "alliance_name": "Invidia Gloriae Comes"
+}

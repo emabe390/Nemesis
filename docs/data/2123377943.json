@@ -1,0 +1,40 @@
+{
+  "character_id": 2123377943,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92689599,
+    "name": "Rolder Slaton",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92689599,
+      "name": "Rolder Slaton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119897791,
+      "name": "Hyper Kiwi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morley Shovel",
+  "corporation_id": 1613511511,
+  "alliance_id": 1354830081,
+  "corporation_name": "Russian ICE Bears",
+  "alliance_name": "Goonswarm Federation"
+}

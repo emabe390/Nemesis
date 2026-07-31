@@ -1,0 +1,40 @@
+{
+  "character_id": 2122521706,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 495107354,
+    "name": "Mattos Vali",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113115476,
+      "name": "Hultaji Gogiko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Eden Entity",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

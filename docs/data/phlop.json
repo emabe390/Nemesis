@@ -1,0 +1,34 @@
+{
+  "character_id": 2122776684,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1673942614,
+    "name": "The Suls",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 1673942614,
+      "name": "The Suls",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 821174425,
+      "name": "Pigger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phlop",
+  "corporation_id": 98145669,
+  "alliance_id": null,
+  "corporation_name": "Bad Idea Productions",
+  "alliance_name": null
+}

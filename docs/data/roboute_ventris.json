@@ -1,0 +1,40 @@
+{
+  "character_id": 96462379,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96610725,
+    "name": "Leno XMR",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96610725,
+      "name": "Leno XMR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117581403,
+      "name": "Bodhian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121539947,
+      "name": "Nazra Tens Pares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roboute Ventris",
+  "corporation_id": 98221538,
+  "alliance_id": 99003581,
+  "corporation_name": "C5 Flight",
+  "alliance_name": "Fraternity."
+}

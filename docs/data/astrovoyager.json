@@ -1,0 +1,52 @@
+{
+  "character_id": 2123114672,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1644138151,
+    "name": "Arcanier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 1644138151,
+      "name": "Arcanier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91700153,
+      "name": "Kohlzor Annages",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 169906859,
+      "name": "synK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123671857,
+      "name": "Maracho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AstroVoyager",
+  "corporation_id": 98628015,
+  "alliance_id": 99003581,
+  "corporation_name": "Hollow United Garuda",
+  "alliance_name": "Fraternity."
+}

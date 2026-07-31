@@ -1,0 +1,40 @@
+{
+  "character_id": 2123719916,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92060825,
+    "name": "Zebbediah Crane",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1831131676,
+    "alliance_id": 99005839,
+    "corporation_name": "V0LTA",
+    "alliance_name": "WE FORM V0LTA"
+  },
+  "top_killers": [
+    {
+      "id": 92060825,
+      "name": "Zebbediah Crane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96278666,
+      "name": "Kosta Realyn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122907295,
+      "name": "Bjoklod Tian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thera Erkete",
+  "corporation_id": 98832330,
+  "alliance_id": null,
+  "corporation_name": "Unfounded.",
+  "alliance_name": null
+}

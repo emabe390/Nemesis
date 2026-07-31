@@ -1,0 +1,52 @@
+{
+  "character_id": 1947475509,
+  "total_losses": 40,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2117318211,
+    "name": "okoshnik",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98683208,
+    "alliance_id": 99007203,
+    "corporation_name": "RED HOT Team.",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2117318211,
+      "name": "okoshnik",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95963891,
+      "name": "pilluhaukka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96268143,
+      "name": "Keval Kovalev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 552460983,
+      "name": "Naezek Gorthaor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 716730879,
+      "name": "Randy Rambo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Raminate",
+  "corporation_id": 98496411,
+  "alliance_id": 99003581,
+  "corporation_name": "WipeOut Inc.",
+  "alliance_name": "Fraternity."
+}

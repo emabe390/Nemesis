@@ -1,0 +1,40 @@
+{
+  "character_id": 2114787306,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119932804,
+    "name": "Almatinochka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720063,
+    "alliance_id": null,
+    "corporation_name": "Money making corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119932804,
+      "name": "Almatinochka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bruni Pollard",
+  "corporation_id": 98406548,
+  "alliance_id": null,
+  "corporation_name": "Insurrection",
+  "alliance_name": null
+}

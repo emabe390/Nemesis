@@ -1,0 +1,52 @@
+{
+  "character_id": 2123737339,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112013687,
+    "name": "Svetlania Black",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2112013687,
+      "name": "Svetlania Black",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90974043,
+      "name": "Daniel Alpena",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94570919,
+      "name": "Pr Martin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 509772749,
+      "name": "lightstorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1377012347,
+      "name": "Mito Rilo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaisa Lirae",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

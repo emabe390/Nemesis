@@ -1,0 +1,52 @@
+{
+  "character_id": 2114916064,
+  "total_losses": 41,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 96604112,
+    "name": "Barra Trild",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98767763,
+    "alliance_id": null,
+    "corporation_name": "The Last Phoenix Ltd.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96604112,
+      "name": "Barra Trild",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122855852,
+      "name": "Ming Bing FangFao",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91093289,
+      "name": "Vicky Shadow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94981302,
+      "name": "Dominique Servasse",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Severce Kryax",
+  "corporation_id": 98785607,
+  "alliance_id": 99010995,
+  "corporation_name": "Vindicta Optime",
+  "alliance_name": "Empyrean Edict"
+}

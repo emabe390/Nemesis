@@ -1,0 +1,52 @@
+{
+  "character_id": 2123628831,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123490852,
+    "name": "jiannanchun",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98812146,
+    "alliance_id": 1042504553,
+    "corporation_name": "Ming Dynasty Jinyiwei",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2123490852,
+      "name": "jiannanchun",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115874132,
+      "name": "ccoco Kim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116067232,
+      "name": "Hero wei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119930287,
+      "name": "V1ctoria Vector",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121807468,
+      "name": "Raptor Vega",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HX001",
+  "corporation_id": 98812146,
+  "alliance_id": 1042504553,
+  "corporation_name": "Ming Dynasty Jinyiwei",
+  "alliance_name": "Solyaris Chtonium"
+}

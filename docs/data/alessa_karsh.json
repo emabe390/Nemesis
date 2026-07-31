@@ -1,0 +1,52 @@
+{
+  "character_id": 2120130040,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95167320,
+    "name": "Pete Zachanassian",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98375813,
+    "alliance_id": 99006495,
+    "corporation_name": "Belt Raider Inc.",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90730849,
+      "name": "Hinata Huuga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94934180,
+      "name": "Sargon Aretaeus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96344624,
+      "name": "Abraham Hark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alessa Karsh",
+  "corporation_id": 98776100,
+  "alliance_id": null,
+  "corporation_name": "Obfuscated Asylum",
+  "alliance_name": null
+}

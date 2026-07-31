@@ -1,0 +1,40 @@
+{
+  "character_id": 2123626880,
+  "total_losses": 25,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118932151,
+    "name": "Character 2118932151",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 98766100,
+    "alliance_id": 99003581,
+    "corporation_name": "Our Sanctum",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2118932151,
+      "name": "Character 2118932151",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 2123660671,
+      "name": "Locke Dhalia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123851986,
+      "name": "Zam Shadow Walk",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Locke Lenin",
+  "corporation_id": 98757945,
+  "alliance_id": 99010321,
+  "corporation_name": "The Clyde Bank",
+  "alliance_name": "B.E.A.R.S."
+}

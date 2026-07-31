@@ -1,0 +1,34 @@
+{
+  "character_id": 2124344369,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123906248,
+    "name": "Madison Shine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98674534,
+    "alliance_id": 99013513,
+    "corporation_name": "Voidlings",
+    "alliance_name": "V0IDLINGS"
+  },
+  "top_killers": [
+    {
+      "id": 2123906248,
+      "name": "Madison Shine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96843678,
+      "name": "Tarkhan Warjan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abim Khamsi",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

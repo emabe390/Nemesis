@@ -1,0 +1,52 @@
+{
+  "character_id": 2123603351,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94285298,
+      "name": "Steamphunk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94820755,
+      "name": "witchwai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 172587150,
+      "name": "WiteNerdy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Excavator Zeta",
+  "corporation_id": 98249511,
+  "alliance_id": null,
+  "corporation_name": "Istvaan V",
+  "alliance_name": null
+}

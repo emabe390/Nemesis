@@ -1,0 +1,40 @@
+{
+  "character_id": 2115991096,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 229081362,
+    "name": "Numpri",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 739403251,
+    "alliance_id": 1727758877,
+    "corporation_name": "Shiva",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 229081362,
+      "name": "Numpri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114919026,
+      "name": "Tim Rode",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120576722,
+      "name": "Bergof",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Snarky MacSnark",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

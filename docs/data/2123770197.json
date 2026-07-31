@@ -1,0 +1,46 @@
+{
+  "character_id": 2123770197,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112591713,
+    "name": "Alexander Nerva",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809179,
+    "alliance_id": null,
+    "corporation_name": "The Capstone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112591713,
+      "name": "Alexander Nerva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113292504,
+      "name": "Rebort Merl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119981921,
+      "name": "Character 2119981921",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123696701,
+      "name": "Glenn Speck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arathorn Isildur",
+  "corporation_id": 98720111,
+  "alliance_id": null,
+  "corporation_name": "Izaukh and Surroji Ltd.",
+  "alliance_name": null
+}

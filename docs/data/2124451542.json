@@ -1,0 +1,52 @@
+{
+  "character_id": 2124451542,
+  "total_losses": 17,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122513453,
+    "name": "Roman Shavetail",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98838233,
+    "alliance_id": null,
+    "corporation_name": "Gaping peaks",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122513453,
+      "name": "Roman Shavetail",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2112933426,
+      "name": "Rustuf Ellecon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118617567,
+      "name": "Reaper JO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121958319,
+      "name": "60TP",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124055619,
+      "name": "MCTK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veran Rwa",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

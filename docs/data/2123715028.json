@@ -1,0 +1,34 @@
+{
+  "character_id": 2123715028,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113512654,
+    "name": "Demitr Demikus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98756704,
+    "alliance_id": 99013484,
+    "corporation_name": "Kingdom of Crooked Mirrors",
+    "alliance_name": "Crocodili et mammoths"
+  },
+  "top_killers": [
+    {
+      "id": 2113512654,
+      "name": "Demitr Demikus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90887110,
+      "name": "Inside Assasin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Opale Nebula",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123307598,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 504124995,
+      "name": "Character 504124995",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91492608,
+      "name": "necros Vyvorant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 435947500,
+      "name": "Sakru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jey Uso",
+  "corporation_id": 840323545,
+  "alliance_id": 99011699,
+  "corporation_name": "The Forsakened Few",
+  "alliance_name": "We Forsakened Few"
+}

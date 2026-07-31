@@ -1,0 +1,40 @@
+{
+  "character_id": 2124373135,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91643796,
+    "name": "Venum Einherjar's",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Lost Legends",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113424358,
+      "name": "Grogi Khamsi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122995142,
+      "name": "Sras Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agaga Musa",
+  "corporation_id": 98768929,
+  "alliance_id": 99009163,
+  "corporation_name": "Heidelberg.",
+  "alliance_name": "Dracarys."
+}

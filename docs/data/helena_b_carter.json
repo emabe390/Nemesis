@@ -1,0 +1,40 @@
+{
+  "character_id": 2123926872,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1029458809,
+    "name": "AlekShmit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 867291705,
+    "alliance_id": 99007629,
+    "corporation_name": "Red Fleet Corp",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 1029458809,
+      "name": "AlekShmit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122411410,
+      "name": "Darya Vladyko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122492737,
+      "name": "ArturSkrin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Helena B Carter",
+  "corporation_id": 98003363,
+  "alliance_id": null,
+  "corporation_name": "Naked Lunch Incorporated",
+  "alliance_name": null
+}

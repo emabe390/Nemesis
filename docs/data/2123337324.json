@@ -1,0 +1,34 @@
+{
+  "character_id": 2123337324,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1045499371,
+    "name": "RGC Godfather",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98716511,
+    "alliance_id": 99014953,
+    "corporation_name": "Die By The Sword",
+    "alliance_name": "Burn the Boats"
+  },
+  "top_killers": [
+    {
+      "id": 1045499371,
+      "name": "RGC Godfather",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120886471,
+      "name": "Savwa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Imeri Tsukaya",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

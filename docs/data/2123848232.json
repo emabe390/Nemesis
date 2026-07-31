@@ -1,0 +1,40 @@
+{
+  "character_id": 2123848232,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121192153,
+    "name": "Ceneres",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820695,
+    "alliance_id": 99013484,
+    "corporation_name": "Puella in cursoriam",
+    "alliance_name": "Crocodili et mammoths"
+  },
+  "top_killers": [
+    {
+      "id": 2121192153,
+      "name": "Ceneres",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117463498,
+      "name": "Dalt Verfit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Padraig De Faoite",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

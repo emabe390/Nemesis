@@ -1,0 +1,52 @@
+{
+  "character_id": 2123350926,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2115985356,
+    "name": "Sir Helios",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115985356,
+      "name": "Sir Helios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94065445,
+      "name": "Corvus Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96776846,
+      "name": "Ewalinna Bane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 583575491,
+      "name": "Calyse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 752900096,
+      "name": "Lazlax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sleekits",
+  "corporation_id": 98777414,
+  "alliance_id": 99014885,
+  "corporation_name": "Ender Order",
+  "alliance_name": "From Placid with Love"
+}

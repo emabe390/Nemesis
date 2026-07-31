@@ -1,0 +1,40 @@
+{
+  "character_id": 2124044740,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117168623,
+    "name": "killer 655",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98634936,
+    "alliance_id": 1354830081,
+    "corporation_name": "Memento. Mori.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117168623,
+      "name": "killer 655",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121500208,
+      "name": "Byryon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122377515,
+      "name": "Adalle Hariere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stendhal",
+  "corporation_id": 98818199,
+  "alliance_id": 99014284,
+  "corporation_name": "Extinct Honor.",
+  "alliance_name": "7.62"
+}

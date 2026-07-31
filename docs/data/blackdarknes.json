@@ -1,0 +1,52 @@
+{
+  "character_id": 2123546499,
+  "total_losses": 18,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2114736309,
+    "name": "Lazair Uanid",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98614095,
+    "alliance_id": 99009584,
+    "corporation_name": "Find The Halflings",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 2114736309,
+      "name": "Lazair Uanid",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118045552,
+      "name": "Chad Winning",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90151749,
+      "name": "Zjorg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94989799,
+      "name": "Night Furies",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95529704,
+      "name": "Robotica Threebet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BlackDarknes",
+  "corporation_id": 98629963,
+  "alliance_id": null,
+  "corporation_name": "Justice League II",
+  "alliance_name": null
+}

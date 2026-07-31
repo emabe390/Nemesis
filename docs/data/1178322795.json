@@ -1,0 +1,52 @@
+{
+  "character_id": 1178322795,
+  "total_losses": 51,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 95354433,
+    "name": "Araken Arkral",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95354433,
+      "name": "Araken Arkral",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 92716168,
+      "name": "Agram Plox",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 902794446,
+      "name": "Mira Lighthope",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1258085820,
+      "name": "PuppyEater",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kaldrid",
+  "corporation_id": 98608254,
+  "alliance_id": 99003581,
+  "corporation_name": "Elysian Technologies Enclave",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123563667,
+  "total_losses": 672,
+  "unique_killers": 486,
+  "nemesis": {
+    "id": 2123429601,
+    "name": "TackleMan",
+    "kill_count": 22,
+    "final_blows": 22,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 22,
+      "final_blows": 22
+    },
+    {
+      "id": 903898715,
+      "name": "Karenar Corna",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96403627,
+      "name": "TotallyNotAJitaAlt",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1139509268,
+      "name": "Neok1337",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "DPSDaddy",
+  "corporation_id": 98722418,
+  "alliance_id": 99008985,
+  "corporation_name": "Dawn Patrolers",
+  "alliance_name": "Seker Matar"
+}

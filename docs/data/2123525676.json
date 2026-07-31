@@ -1,0 +1,52 @@
+{
+  "character_id": 2123525676,
+  "total_losses": 21,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 338285735,
+    "name": "OT Smithers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98060878,
+    "alliance_id": 99009584,
+    "corporation_name": "Buccaneer's Den",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91395803,
+      "name": "Ruin Yaday",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 764643376,
+      "name": "Sisko Urso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1373022125,
+      "name": "Paddington",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Not SkavenSlave",
+  "corporation_id": 98815144,
+  "alliance_id": null,
+  "corporation_name": "Skittering",
+  "alliance_name": null
+}

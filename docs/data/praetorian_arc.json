@@ -1,0 +1,34 @@
+{
+  "character_id": 2121818032,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112545710,
+    "name": "Awesome Alt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798418,
+    "alliance_id": 99010102,
+    "corporation_name": "Hole Lotta Trouble",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 2112545710,
+      "name": "Awesome Alt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122687614,
+      "name": "Mr Outrageous",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Praetorian arc",
+  "corporation_id": 98743810,
+  "alliance_id": null,
+  "corporation_name": "Why So Sager",
+  "alliance_name": null
+}

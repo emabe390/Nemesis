@@ -1,0 +1,46 @@
+{
+  "character_id": 2123577580,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92440343,
+    "name": "Vaxien",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98470930,
+    "alliance_id": null,
+    "corporation_name": "eXpanse eXploration",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92440343,
+      "name": "Vaxien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1902851063,
+      "name": "Miesmaccher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 345469988,
+      "name": "Odium Ranger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112722557,
+      "name": "Character 2112722557",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orion Vegar",
+  "corporation_id": 98677430,
+  "alliance_id": 99002685,
+  "corporation_name": "Earth Watch Orbit Control",
+  "alliance_name": "Synergy of Steel"
+}

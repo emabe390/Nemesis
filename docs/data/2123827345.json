@@ -1,0 +1,46 @@
+{
+  "character_id": 2123827345,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120124432,
+    "name": "Siekko Kugisa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98735066,
+    "alliance_id": null,
+    "corporation_name": "GPTChat",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120124432,
+      "name": "Siekko Kugisa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91556422,
+      "name": "tuck Hinken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113815804,
+      "name": "Sang-hyeok Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124011640,
+      "name": "BezLocala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Henry Roughhauser",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

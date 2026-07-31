@@ -1,0 +1,40 @@
+{
+  "character_id": 2123068320,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119349227,
+    "name": "Earl of Trellheim",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98800848,
+    "alliance_id": 99014518,
+    "corporation_name": "Multiboxxed",
+    "alliance_name": "PUT THE FRIES IN THE BAG"
+  },
+  "top_killers": [
+    {
+      "id": 2119349227,
+      "name": "Earl of Trellheim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121264102,
+      "name": "Vataver Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121651638,
+      "name": "Kuzonia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krooshka Acme",
+  "corporation_id": 98120737,
+  "alliance_id": 99003557,
+  "corporation_name": "RadioActivia",
+  "alliance_name": "LowSechnaya Sholupen"
+}

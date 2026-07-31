@@ -1,0 +1,40 @@
+{
+  "character_id": 733641493,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93938269,
+    "name": "Matt Doe",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98825616,
+    "alliance_id": 933731581,
+    "corporation_name": "Renegade Raccoons",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 93938269,
+      "name": "Matt Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114503466,
+      "name": "RigoMoris18 Egnald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119831706,
+      "name": "Espoilette Eyms Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Complex Watcher",
+  "corporation_id": 98691522,
+  "alliance_id": 99012530,
+  "corporation_name": "FFEW Holdings",
+  "alliance_name": "FFEW Associates"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115810723,
+  "total_losses": 25,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1192357732,
+    "name": "Tsasam",
+    "kill_count": 21,
+    "final_blows": 21,
+    "corporation_id": 98824181,
+    "alliance_id": null,
+    "corporation_name": "The Friendly-Fire team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1192357732,
+      "name": "Tsasam",
+      "kill_count": 21,
+      "final_blows": 21
+    },
+    {
+      "id": 2121460401,
+      "name": "Maban Umid",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118697210,
+      "name": "TOM ALLCAPS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Takeda Oyamovich",
+  "corporation_id": 98754516,
+  "alliance_id": null,
+  "corporation_name": "LifeInWormhole",
+  "alliance_name": null
+}

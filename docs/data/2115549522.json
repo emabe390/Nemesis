@@ -1,0 +1,52 @@
+{
+  "character_id": 2115549522,
+  "total_losses": 131,
+  "unique_killers": 106,
+  "nemesis": {
+    "id": 2115066812,
+    "name": "DrFriend",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98693786,
+    "alliance_id": null,
+    "corporation_name": "Friendship.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115066812,
+      "name": "DrFriend",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1125701109,
+      "name": "Recon Smith",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90235339,
+      "name": "WaechterDesTages",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95636243,
+      "name": "Harkonne",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Slaghand",
+  "corporation_id": 1673385956,
+  "alliance_id": 99011223,
+  "corporation_name": "Syndicate Enterprise",
+  "alliance_name": "Sigma Grindset"
+}

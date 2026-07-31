@@ -1,0 +1,52 @@
+{
+  "character_id": 2123814254,
+  "total_losses": 18,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123281594,
+    "name": "Ontologist",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98616588,
+    "alliance_id": 1354830081,
+    "corporation_name": "HolyTrident",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123281594,
+      "name": "Ontologist",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92559407,
+      "name": "Character 92559407",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94815670,
+      "name": "Nikol Park",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117146029,
+      "name": "DARKANPROYT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123758668,
+      "name": "Mesut the Bomber",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mesut the Fighter",
+  "corporation_id": 98809850,
+  "alliance_id": 99003581,
+  "corporation_name": "Turkish Phoenix Star Union",
+  "alliance_name": "Fraternity."
+}

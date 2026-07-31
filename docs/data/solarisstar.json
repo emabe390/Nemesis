@@ -1,0 +1,40 @@
+{
+  "character_id": 2122850800,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90364875,
+    "name": "Illustrale Mortales",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1377469126,
+      "name": "Neoy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1727698026,
+      "name": "Kaeda Maxwell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SolarisStar",
+  "corporation_id": 98666541,
+  "alliance_id": 99005338,
+  "corporation_name": "Tactical Feed.",
+  "alliance_name": "Pandemic Horde"
+}

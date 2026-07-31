@@ -1,0 +1,40 @@
+{
+  "character_id": 91373481,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117837488,
+      "name": "D D D",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118151113,
+      "name": "Snow Country",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Black Episcop",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

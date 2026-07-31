@@ -1,0 +1,34 @@
+{
+  "character_id": 2123549319,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115698094,
+    "name": "Salo Nuclear",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645226,
+    "alliance_id": null,
+    "corporation_name": "Nocturnus Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115698094,
+      "name": "Salo Nuclear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114293317,
+      "name": "cjy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eva TNV",
+  "corporation_id": 98807313,
+  "alliance_id": null,
+  "corporation_name": "Space Truckers Mining and Logistics LLC",
+  "alliance_name": null
+}

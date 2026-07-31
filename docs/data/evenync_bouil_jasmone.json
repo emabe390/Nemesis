@@ -1,0 +1,52 @@
+{
+  "character_id": 2123658852,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 725238064,
+    "name": "alpha lead",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 302750157,
+    "alliance_id": 99004901,
+    "corporation_name": "ElitistOps",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 725238064,
+      "name": "alpha lead",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91381906,
+      "name": "Kislotnik Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94358574,
+      "name": "Vanokc Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112780368,
+      "name": "Andolyn Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Evenync Bouil Jasmone",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

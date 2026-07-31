@@ -1,0 +1,40 @@
+{
+  "character_id": 2123017034,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121303692,
+    "name": "AXOLOTL-XC",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98825299,
+    "alliance_id": 99007887,
+    "corporation_name": "Void Kraken Corps",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 963217069,
+      "name": "Jogyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ormur Ostar Hendar",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

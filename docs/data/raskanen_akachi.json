@@ -1,0 +1,52 @@
+{
+  "character_id": 2123658956,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113730561,
+    "name": "Joan Darkside",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826397,
+    "alliance_id": null,
+    "corporation_name": "BIBA and BOBA incorporated",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113730561,
+      "name": "Joan Darkside",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120042388,
+      "name": "1 Tap Machine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96492613,
+      "name": "Evgene Timakov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 757928950,
+      "name": "Beetles Light",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raskanen Akachi",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

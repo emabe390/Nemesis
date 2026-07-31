@@ -1,0 +1,52 @@
+{
+  "character_id": 2123848014,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 899395476,
+    "name": "Plamya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 899395476,
+      "name": "Plamya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91695418,
+      "name": "CruelCodex Owasso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91699214,
+      "name": "Kranacoi Halvora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93806567,
+      "name": "CeeJay Isor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maldwyn",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

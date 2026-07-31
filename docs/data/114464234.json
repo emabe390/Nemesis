@@ -1,0 +1,52 @@
+{
+  "character_id": 114464234,
+  "total_losses": 27,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 775498193,
+    "name": "The Ringer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98830657,
+    "alliance_id": 99007928,
+    "corporation_name": "A Really Good Company",
+    "alliance_name": "Wild Geese."
+  },
+  "top_killers": [
+    {
+      "id": 775498193,
+      "name": "The Ringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112149192,
+      "name": "Kong iBUN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90401753,
+      "name": "Casha Andven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93930084,
+      "name": "Virpio Nolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Damassys Kadesh",
+  "corporation_id": 98751498,
+  "alliance_id": null,
+  "corporation_name": "Royal Khanid Hunting Society",
+  "alliance_name": null
+}

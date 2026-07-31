@@ -1,0 +1,52 @@
+{
+  "character_id": 1307679614,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97122032,
+      "name": "Character 97122032",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 409209417,
+      "name": "Gamlos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1421516205,
+      "name": "Labcabin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Stripe",
+  "corporation_id": 98778480,
+  "alliance_id": null,
+  "corporation_name": "The Exiled Titans",
+  "alliance_name": null
+}

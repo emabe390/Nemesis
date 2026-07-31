@@ -1,0 +1,34 @@
+{
+  "character_id": 2119482011,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119851464,
+    "name": "John Karde",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98745939,
+    "alliance_id": null,
+    "corporation_name": "The Shire of Guinea Pigs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119851464,
+      "name": "John Karde",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120947692,
+      "name": "El Chifero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mitapala Toralen",
+  "corporation_id": 98704482,
+  "alliance_id": 99011387,
+  "corporation_name": "Fake Filament",
+  "alliance_name": "ZERG REBORN"
+}

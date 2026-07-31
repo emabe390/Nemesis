@@ -1,0 +1,46 @@
+{
+  "character_id": 1489827387,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019607,
+    "name": "Tyrannos Polemos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019607,
+      "name": "Tyrannos Polemos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahrec",
+  "corporation_id": 1395059590,
+  "alliance_id": 495729389,
+  "corporation_name": "Immortalis Inc.",
+  "alliance_name": "Shadow Cartel"
+}

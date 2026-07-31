@@ -1,0 +1,52 @@
+{
+  "character_id": 2121718112,
+  "total_losses": 12,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92365923,
+      "name": "Visionaire Tiamat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95514011,
+      "name": "Dracos Rhaghar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95900495,
+      "name": "Nemo Narko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95959356,
+      "name": "Nedylene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hiitch R'Kay",
+  "corporation_id": 98057377,
+  "alliance_id": 1354830081,
+  "corporation_name": "Core Industry.",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123322136,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1873092303,
+    "name": "Tilburn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98804604,
+    "alliance_id": null,
+    "corporation_name": "Late Night Bang Bang",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1873092303,
+      "name": "Tilburn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113520942,
+      "name": "Mampi Swift",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90694468,
+      "name": "Kari Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Recinerate Saint",
+  "corporation_id": 98837353,
+  "alliance_id": null,
+  "corporation_name": "Church of the Recinerated",
+  "alliance_name": null
+}

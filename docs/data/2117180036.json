@@ -1,0 +1,52 @@
+{
+  "character_id": 2117180036,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 245145018,
+    "name": "Barbens",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98821045,
+    "alliance_id": null,
+    "corporation_name": "Pithatus Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 245145018,
+      "name": "Barbens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1184548204,
+      "name": "Floorist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116947057,
+      "name": "Znaxar Lemmont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122988183,
+      "name": "Kalyra Starbloom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123564876,
+      "name": "Mirosslav",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chay Bot",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123947880,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91441111,
+    "name": "Citizen 413587",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113520942,
+      "name": "Mampi Swift",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124586793,
+      "name": "Noovin Orion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93433429,
+      "name": "Markus Zurvanev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rockerfellah",
+  "corporation_id": 98808642,
+  "alliance_id": null,
+  "corporation_name": "Savage Dogs - Vulgar Display of Power",
+  "alliance_name": null
+}

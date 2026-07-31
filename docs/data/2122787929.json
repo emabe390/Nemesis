@@ -1,0 +1,52 @@
+{
+  "character_id": 2122787929,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2112376969,
+    "name": "gordon o'ryan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789517,
+    "alliance_id": null,
+    "corporation_name": "Celebrate the End of The Gallente Federation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112376969,
+      "name": "gordon o'ryan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92818659,
+      "name": "Cullen Foxhound",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94517843,
+      "name": "Jengof Arrakis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95591493,
+      "name": "Panther Zwei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 599208355,
+      "name": "Toolizm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaywolf",
+  "corporation_id": 98513466,
+  "alliance_id": 99010089,
+  "corporation_name": "We Break Things",
+  "alliance_name": "Novus Ordo."
+}

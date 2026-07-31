@@ -1,0 +1,52 @@
+{
+  "character_id": 2123541365,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123538925,
+    "name": "FishBomb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98742946,
+    "alliance_id": 99003995,
+    "corporation_name": "Zhuque squad",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123538925,
+      "name": "FishBomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123662420,
+      "name": "ClamsBomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94353984,
+      "name": "Glashim Starrider",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 273213517,
+      "name": "Zoyya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061967229,
+      "name": "Character 1061967229",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CockroachBomb",
+  "corporation_id": 98742946,
+  "alliance_id": 99003995,
+  "corporation_name": "Zhuque squad",
+  "alliance_name": "Invidia Gloriae Comes"
+}

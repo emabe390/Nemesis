@@ -1,0 +1,40 @@
+{
+  "character_id": 1932716512,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2114249443,
+      "name": "Reyah Auscent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117202728,
+      "name": "Mary Gankins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grophlet",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

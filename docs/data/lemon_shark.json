@@ -1,0 +1,40 @@
+{
+  "character_id": 2124066570,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122169243,
+    "name": "Robbb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805225,
+    "alliance_id": 99014738,
+    "corporation_name": "Officio Assassinorum.",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2122169243,
+      "name": "Robbb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 772954879,
+      "name": "Princess Elle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117086467,
+      "name": "LineGoon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lemon Shark",
+  "corporation_id": 98825743,
+  "alliance_id": null,
+  "corporation_name": "The Shallows",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123771105,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116581587,
+    "name": "Andrzej Dupad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2116581587,
+      "name": "Andrzej Dupad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95041823,
+      "name": "Florian Boirelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 348092094,
+      "name": "Bendy Profane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119658569,
+      "name": "Daughter of Ares",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119843217,
+      "name": "Quen Thori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kossen Kusoni",
+  "corporation_id": 98279775,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deep Space Conquerors",
+  "alliance_name": "Goonswarm Federation"
+}

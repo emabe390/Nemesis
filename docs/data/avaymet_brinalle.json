@@ -1,0 +1,40 @@
+{
+  "character_id": 2123747553,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123549958,
+    "name": "Norogami",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826535,
+    "alliance_id": 99012532,
+    "corporation_name": "Industrial Accidents",
+    "alliance_name": "Angry Miners Alliance."
+  },
+  "top_killers": [
+    {
+      "id": 2123549958,
+      "name": "Norogami",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121065224,
+      "name": "Bobr Oboroten",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121934714,
+      "name": "Nataliya Petrovna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avaymet Brinalle",
+  "corporation_id": 98700495,
+  "alliance_id": 99012181,
+  "corporation_name": "KOCMO-LLIKoJIA - Cepn n MoJLom",
+  "alliance_name": "Alea jacta est."
+}

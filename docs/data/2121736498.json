@@ -1,0 +1,52 @@
+{
+  "character_id": 2121736498,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 491892311,
+    "name": "Neurosis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98390683,
+    "alliance_id": 1354830081,
+    "corporation_name": "Hogyoku",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 491892311,
+      "name": "Neurosis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121238729,
+      "name": "Skord Blorpho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92334317,
+      "name": "kritius Smolong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 304127292,
+      "name": "J Jugger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astral spirit",
+  "corporation_id": 98705642,
+  "alliance_id": 99014087,
+  "corporation_name": "Chuangshi College",
+  "alliance_name": "ChuangShi Federation"
+}

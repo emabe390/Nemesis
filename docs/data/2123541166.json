@@ -1,0 +1,40 @@
+{
+  "character_id": 2123541166,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116655799,
+    "name": "Ming Mai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98613992,
+    "alliance_id": 933731581,
+    "corporation_name": "Unsteady",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2116655799,
+      "name": "Ming Mai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117230722,
+      "name": "Mama Kukri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122741384,
+      "name": "Orange-flavored fox",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varalik Rova",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

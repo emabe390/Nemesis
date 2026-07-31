@@ -1,0 +1,46 @@
+{
+  "character_id": 2123040953,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90994762,
+    "name": "Bill Sharts",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 90994762,
+      "name": "Bill Sharts",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120958369,
+      "name": "Daxi8Wu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122635751,
+      "name": "Yuzhou Ciji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123040933,
+      "name": "Yuzhou Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yuzhou Delta",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

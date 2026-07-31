@@ -1,0 +1,40 @@
+{
+  "character_id": 2124038137,
+  "total_losses": 15,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119624911,
+    "name": "Gordisalv",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98779121,
+    "alliance_id": 99014341,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 2119624911,
+      "name": "Gordisalv",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124246823,
+      "name": "GordiPI",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124246900,
+      "name": "GordiPI2",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "GordiPlex",
+  "corporation_id": 98779121,
+  "alliance_id": 99014341,
+  "corporation_name": "The Stellar Paradox",
+  "alliance_name": "CreepShow Entertainment"
+}

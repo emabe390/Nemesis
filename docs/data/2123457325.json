@@ -1,0 +1,46 @@
+{
+  "character_id": 2123457325,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91081479,
+    "name": "Tidemore Naari",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98647879,
+    "alliance_id": 99005178,
+    "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 91081479,
+      "name": "Tidemore Naari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1426822819,
+      "name": "Star Crafter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122211722,
+      "name": "Wolty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122211726,
+      "name": "Wolty original",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Most Equal",
+  "corporation_id": 98096929,
+  "alliance_id": 99014101,
+  "corporation_name": "Reckless Entity Enterprises",
+  "alliance_name": "Reckless Empire"
+}

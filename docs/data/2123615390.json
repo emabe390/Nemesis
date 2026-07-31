@@ -1,0 +1,46 @@
+{
+  "character_id": 2123615390,
+  "total_losses": 9,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92025001,
+    "name": "Scatter Scatter Scatter",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98493960,
+    "alliance_id": null,
+    "corporation_name": "Juju Potato Potato Celery",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92025001,
+      "name": "Scatter Scatter Scatter",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114416122,
+      "name": "Boss Yaeger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122959823,
+      "name": "Ellis Ofsol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123651376,
+      "name": "Character 2123651376",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aihishi Shaishi",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

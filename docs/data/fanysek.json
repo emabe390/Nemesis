@@ -1,0 +1,40 @@
+{
+  "character_id": 2117958301,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116497984,
+    "name": "Deadly Steve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98363725,
+    "alliance_id": 99014809,
+    "corporation_name": "House of Black Lanterns",
+    "alliance_name": "Black Lanterns"
+  },
+  "top_killers": [
+    {
+      "id": 2116497984,
+      "name": "Deadly Steve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113754774,
+      "name": "Mudaro Rogers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fanysek",
+  "corporation_id": 98622166,
+  "alliance_id": null,
+  "corporation_name": "V. kolona",
+  "alliance_name": null
+}

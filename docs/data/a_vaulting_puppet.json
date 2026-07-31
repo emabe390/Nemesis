@@ -1,0 +1,52 @@
+{
+  "character_id": 2123456736,
+  "total_losses": 93,
+  "unique_killers": 78,
+  "nemesis": {
+    "id": 2119739538,
+    "name": "Tiberius Arthuron",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98242799,
+    "alliance_id": 99008816,
+    "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2119739538,
+      "name": "Tiberius Arthuron",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90029248,
+      "name": "Charlotte de'Berry",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94712961,
+      "name": "Feroe Nardieu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 403163173,
+      "name": "Aeryn Tiberius",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "A Vaulting Puppet",
+  "corporation_id": 98804674,
+  "alliance_id": null,
+  "corporation_name": "Maison Pantin Natya",
+  "alliance_name": null
+}

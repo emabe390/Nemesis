@@ -1,0 +1,52 @@
+{
+  "character_id": 2123506877,
+  "total_losses": 64,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 2123561359,
+    "name": "Kailion",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123561359,
+      "name": "Kailion",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 92102210,
+      "name": "Selah Rania",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116753411,
+      "name": "RENALTY",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123394602,
+      "name": "Big Sherm68",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nakada Tawate",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

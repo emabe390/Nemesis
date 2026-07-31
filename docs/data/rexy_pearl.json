@@ -1,0 +1,40 @@
+{
+  "character_id": 2123532113,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90983472,
+    "name": "Jaime Gomes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809144,
+    "alliance_id": 1354830081,
+    "corporation_name": "No Friends Just Alts",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90983472,
+      "name": "Jaime Gomes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92205070,
+      "name": "Scyther Vrynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1103273487,
+      "name": "Triple Deke",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rexy Pearl",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

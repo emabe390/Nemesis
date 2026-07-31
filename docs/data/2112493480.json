@@ -1,0 +1,52 @@
+{
+  "character_id": 2112493480,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120383311,
+      "name": "Hans Elemagor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95159263,
+      "name": "NateTheGreat 24",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 692959607,
+      "name": "Ecaterina Andronescu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1388120057,
+      "name": "TheParadine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Meteoriito Aslaug",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

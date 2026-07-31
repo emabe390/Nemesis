@@ -1,0 +1,52 @@
+{
+  "character_id": 2120817993,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 724312690,
+      "name": "Eveliddia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93324090,
+      "name": "Kijn Kalad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95834600,
+      "name": "OkoSarumana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Natalia Braun",
+  "corporation_id": 98824360,
+  "alliance_id": 99014699,
+  "corporation_name": "RBK Core Mining Corporation",
+  "alliance_name": "Recursive Frenzy"
+}

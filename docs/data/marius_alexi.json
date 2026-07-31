@@ -1,0 +1,52 @@
+{
+  "character_id": 2123853673,
+  "total_losses": 658,
+  "unique_killers": 365,
+  "nemesis": {
+    "id": 1230873801,
+    "name": "Killer Rasta",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 96362702,
+      "name": "Saxaman Nobunaga",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 2121569806,
+      "name": "GrandFolly",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 555532474,
+      "name": "Enki Rhodan",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2120136465,
+      "name": "Eugate Vares Vyvorant",
+      "kill_count": 8,
+      "final_blows": 8
+    }
+  ],
+  "character_name": "Marius Alexi",
+  "corporation_id": 98407286,
+  "alliance_id": null,
+  "corporation_name": "KARNAGE",
+  "alliance_name": null
+}

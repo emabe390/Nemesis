@@ -1,0 +1,40 @@
+{
+  "character_id": 2123794876,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117310861,
+    "name": "Aria Stardancer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797544,
+    "alliance_id": null,
+    "corporation_name": "S I L E N C E",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117310861,
+      "name": "Aria Stardancer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93730509,
+      "name": "Character 93730509",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pavlo Wade",
+  "corporation_id": 98809218,
+  "alliance_id": null,
+  "corporation_name": "Sasha's Gumbo Party house",
+  "alliance_name": null
+}

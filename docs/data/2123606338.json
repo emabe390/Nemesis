@@ -1,0 +1,52 @@
+{
+  "character_id": 2123606338,
+  "total_losses": 73,
+  "unique_killers": 50,
+  "nemesis": {
+    "id": 2119966053,
+    "name": "Indiana Mamona",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119966053,
+      "name": "Indiana Mamona",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92775381,
+      "name": "Sam Reno",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95786847,
+      "name": "Character 95786847",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96201676,
+      "name": "Zaphod Beedlebrox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96268143,
+      "name": "Keval Kovalev",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Caljinaar",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

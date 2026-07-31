@@ -1,0 +1,34 @@
+{
+  "character_id": 2123358360,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96417025,
+    "name": "Jimmy Michaels",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121802920,
+      "name": "Zippedy Zapp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Takeshi Kovas",
+  "corporation_id": 107056932,
+  "alliance_id": 99010653,
+  "corporation_name": "Janitor Intelligence Agency",
+  "alliance_name": "M A R A K U G A"
+}

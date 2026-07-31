@@ -1,0 +1,46 @@
+{
+  "character_id": 2123794612,
+  "total_losses": 9,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119224969,
+    "name": "NoImDirtyDan",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98403734,
+    "alliance_id": 99009885,
+    "corporation_name": "Subsidy H.R.S.",
+    "alliance_name": "Xagenic Freymvork"
+  },
+  "top_killers": [
+    {
+      "id": 2119224969,
+      "name": "NoImDirtyDan",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122032390,
+      "name": "Cora Cain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vollwrath",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

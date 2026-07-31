@@ -1,0 +1,46 @@
+{
+  "character_id": 2123725485,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95021787,
+    "name": "Commander Shepprd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1975749457,
+    "alliance_id": 933731581,
+    "corporation_name": "No.Mercy",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 95021787,
+      "name": "Commander Shepprd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117247892,
+      "name": "Tachanka chen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97007265,
+      "name": "Sven VanDamme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115281948,
+      "name": "Pavel Kulak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Numi Tokila",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

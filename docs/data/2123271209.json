@@ -1,0 +1,40 @@
+{
+  "character_id": 2123271209,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90148098,
+    "name": "BRIMTAK",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121265662,
+      "name": "IceyCreeper619",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117511179,
+      "name": "JuiceBox101",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SkyFreely",
+  "corporation_id": 98811002,
+  "alliance_id": null,
+  "corporation_name": "Northern Crusades",
+  "alliance_name": null
+}

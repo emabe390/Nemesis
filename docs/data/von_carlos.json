@@ -1,0 +1,52 @@
+{
+  "character_id": 96265528,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92800615,
+      "name": "Roshak Koronis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93286370,
+      "name": "Genanka Chieve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95390220,
+      "name": "Vodka Sunrise",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Von Carlos",
+  "corporation_id": 98390683,
+  "alliance_id": 1354830081,
+  "corporation_name": "Hogyoku",
+  "alliance_name": "Goonswarm Federation"
+}

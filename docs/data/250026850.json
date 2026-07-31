@@ -1,0 +1,52 @@
+{
+  "character_id": 250026850,
+  "total_losses": 144,
+  "unique_killers": 120,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1849992018,
+      "name": "Indorian",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93126540,
+      "name": "Amorle Rynneth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94421295,
+      "name": "LeRoy Rathbone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Serifex",
+  "corporation_id": 98674534,
+  "alliance_id": 99013513,
+  "corporation_name": "Voidlings",
+  "alliance_name": "V0IDLINGS"
+}

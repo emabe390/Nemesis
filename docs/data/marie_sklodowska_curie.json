@@ -1,0 +1,52 @@
+{
+  "character_id": 2122002949,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116160039,
+    "name": "Adam Bancroft",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725773,
+    "alliance_id": 99013390,
+    "corporation_name": "Vapor Lock.",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2116160039,
+      "name": "Adam Bancroft",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122961714,
+      "name": "Verti Go",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112798173,
+      "name": "BAPTISTHE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116026287,
+      "name": "LGLS ZS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116236571,
+      "name": "Asura Xem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marie Sklodowska-Curie",
+  "corporation_id": 98770220,
+  "alliance_id": 99007203,
+  "corporation_name": "POLAR ZEBRA",
+  "alliance_name": "Siberian Squads"
+}

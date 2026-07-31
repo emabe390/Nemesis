@@ -1,0 +1,52 @@
+{
+  "character_id": 2124435315,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 572582797,
+    "name": "Gabriel Theodoulos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646281,
+    "alliance_id": null,
+    "corporation_name": "Virtus Crusade Highsec Chapter",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 572582797,
+      "name": "Gabriel Theodoulos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068986,
+      "name": "Tenebrae Dramath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1944229468,
+      "name": "SelilaLee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116257395,
+      "name": "Orthel Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120102441,
+      "name": "slby ac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Monarch III",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

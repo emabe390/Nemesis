@@ -1,0 +1,40 @@
+{
+  "character_id": 2117343877,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 426589471,
+    "name": "Maximillian F",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 763560843,
+    "alliance_id": null,
+    "corporation_name": "1st Furtive",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 426589471,
+      "name": "Maximillian F",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117026755,
+      "name": "Carbon Based Life",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121255577,
+      "name": "Aria Niladic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jay Space Holder",
+  "corporation_id": 98630060,
+  "alliance_id": 99012643,
+  "corporation_name": "Little Drone Sanctum",
+  "alliance_name": "Pilots Assaulting Peasants in Space"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122464431,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90106796,
+    "name": "chistoi pribyli",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 90106796,
+      "name": "chistoi pribyli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122357548,
+      "name": "ECM CloakBoosh McSpearfish",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124360290,
+      "name": "Friendly Fella Guy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Popular Muenster",
+  "corporation_id": 98221417,
+  "alliance_id": null,
+  "corporation_name": "Uncharted Battleground",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121613749,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2120292469,
+    "name": "PRIMARCH R0GAL D0RN",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808921,
+    "alliance_id": null,
+    "corporation_name": "Veil of the Black Vulture",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120292469,
+      "name": "PRIMARCH R0GAL D0RN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90532329,
+      "name": "Kitty Duval",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93185543,
+      "name": "Shopa s topa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95991260,
+      "name": "Character 95991260",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jonas Symbacca",
+  "corporation_id": 98624572,
+  "alliance_id": 99011223,
+  "corporation_name": "Industrial Mining and Mayhem",
+  "alliance_name": "Sigma Grindset"
+}

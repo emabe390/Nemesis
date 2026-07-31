@@ -1,0 +1,40 @@
+{
+  "character_id": 1304771666,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96942290,
+    "name": "Alpha Arterius",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98236704,
+    "alliance_id": null,
+    "corporation_name": "Reduced Connections",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96942290,
+      "name": "Alpha Arterius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 991833507,
+      "name": "Flamie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122660403,
+      "name": "Malenia Risk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fiberton",
+  "corporation_id": 98820071,
+  "alliance_id": 99014986,
+  "corporation_name": "Red Pill Gaming Syndicate",
+  "alliance_name": "Kinetic Diplomacy"
+}

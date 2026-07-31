@@ -1,0 +1,40 @@
+{
+  "character_id": 2124024290,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 204595952,
+    "name": "John Gato",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 204595952,
+      "name": "John Gato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112835044,
+      "name": "Michal Czyzniakowski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112924213,
+      "name": "Vissick Uberspeed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oghul Khan",
+  "corporation_id": 98807142,
+  "alliance_id": null,
+  "corporation_name": "The Empyrean Order",
+  "alliance_name": null
+}

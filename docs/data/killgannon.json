@@ -1,0 +1,52 @@
+{
+  "character_id": 2120100745,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119264479,
+    "name": "Rex Zeroni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833747,
+    "alliance_id": null,
+    "corporation_name": "Deep Interstellar Kiloparsec",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119264479,
+      "name": "Rex Zeroni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121980444,
+      "name": "Hanson Sun2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114253498,
+      "name": "DF41AAA LING",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116216266,
+      "name": "Dagon Madeveda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Killgannon",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123360860,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1449928021,
+    "name": "Yakumo Chidori",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 828800677,
+    "alliance_id": 386292982,
+    "corporation_name": "Sniggerdly",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 1449928021,
+      "name": "Yakumo Chidori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113797124,
+      "name": "Ben Arenzberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113013494,
+      "name": "Tantaria Inagawa-kai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lady Circuitos",
+  "corporation_id": 98678210,
+  "alliance_id": 99013461,
+  "corporation_name": "Donettes",
+  "alliance_name": "Night Sentinels"
+}

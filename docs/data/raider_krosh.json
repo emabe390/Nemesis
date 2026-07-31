@@ -1,0 +1,40 @@
+{
+  "character_id": 2119388253,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020057,
+    "name": "Tyrannos Basileus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90594639,
+      "name": "28 Days Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113406412,
+      "name": "Cacique Yuhasz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raider Krosh",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

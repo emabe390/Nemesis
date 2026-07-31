@@ -1,0 +1,34 @@
+{
+  "character_id": 1856626876,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1081187605,
+    "name": "sadakarr",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98677078,
+    "alliance_id": 99012843,
+    "corporation_name": "We Aim To MisBehave",
+    "alliance_name": "Kenshin Shogunate."
+  },
+  "top_killers": [
+    {
+      "id": 1081187605,
+      "name": "sadakarr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114841004,
+      "name": "Ultimablack",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ran'sun",
+  "corporation_id": 98630060,
+  "alliance_id": 99012643,
+  "corporation_name": "Little Drone Sanctum",
+  "alliance_name": "Pilots Assaulting Peasants in Space"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124430083,
+  "total_losses": 17,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2124443432,
+    "name": "Manny Factory",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98835744,
+    "alliance_id": null,
+    "corporation_name": "Lost and Self-Found",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124443432,
+      "name": "Manny Factory",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124452776,
+      "name": "Volvo FH6",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124434548,
+      "name": "Forklift Operator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124435706,
+      "name": "Kaipi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123395950,
+      "name": "BORG UNIT 88",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Maryland",
+  "corporation_id": 98835744,
+  "alliance_id": null,
+  "corporation_name": "Lost and Self-Found",
+  "alliance_name": null
+}

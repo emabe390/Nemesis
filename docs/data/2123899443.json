@@ -1,0 +1,52 @@
+{
+  "character_id": 2123899443,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95732931,
+    "name": "Renner Flex",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98819012,
+    "alliance_id": null,
+    "corporation_name": "Lantar42",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95732931,
+      "name": "Renner Flex",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121914293,
+      "name": "Mary Gaius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92948959,
+      "name": "Anyang Haseo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93246817,
+      "name": "Jil Mabata",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 717579844,
+      "name": "Dark Forest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaynub",
+  "corporation_id": 98819012,
+  "alliance_id": null,
+  "corporation_name": "Lantar42",
+  "alliance_name": null
+}

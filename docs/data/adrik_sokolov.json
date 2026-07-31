@@ -1,0 +1,52 @@
+{
+  "character_id": 2119444212,
+  "total_losses": 123,
+  "unique_killers": 83,
+  "nemesis": {
+    "id": 2123687706,
+    "name": "Mary Alice Cullen",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123687706,
+      "name": "Mary Alice Cullen",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94804674,
+      "name": "Delta Zenochka",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1184548204,
+      "name": "Floorist",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2112595609,
+      "name": "Kelan Hanomaa",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95260085,
+      "name": "Sammy Sprinkl3r",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Adrik Sokolov",
+  "corporation_id": 98714140,
+  "alliance_id": 99011952,
+  "corporation_name": "Fliet Pizza Delivery",
+  "alliance_name": "Of Essence"
+}

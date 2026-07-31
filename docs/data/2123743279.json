@@ -1,0 +1,52 @@
+{
+  "character_id": 2123743279,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90688996,
+      "name": "Erev Garo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92264105,
+      "name": "Aaron Garo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 541828234,
+      "name": "zob7011",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1782448182,
+      "name": "Timeless Endeavor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sgt Price",
+  "corporation_id": 98797764,
+  "alliance_id": 99013925,
+  "corporation_name": "Kitsune Zaibatsu",
+  "alliance_name": "Inari Syndicate"
+}

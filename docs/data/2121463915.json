@@ -1,0 +1,52 @@
+{
+  "character_id": 2121463915,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 973576579,
+    "name": "Genning",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116583466,
+      "name": "capaloya Itinen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91258437,
+      "name": "Zaratun Positive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95420705,
+      "name": "UnholyAbbath Eriker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 266014364,
+      "name": "Towun Sailburner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Odon Skytraveler",
+  "corporation_id": 98765257,
+  "alliance_id": 99010079,
+  "corporation_name": "Sky Turkey Inc.",
+  "alliance_name": "Brave United"
+}

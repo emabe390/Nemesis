@@ -1,0 +1,52 @@
+{
+  "character_id": 1234304824,
+  "total_losses": 18,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 526282137,
+    "name": "Decimus James",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98737554,
+    "alliance_id": 99005178,
+    "corporation_name": "The Raravathians",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 526282137,
+      "name": "Decimus James",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90180213,
+      "name": "Nico Baylik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92636028,
+      "name": "Jukio Saisima",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93036163,
+      "name": "Unknown 67",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zeta Kalin",
+  "corporation_id": 98040023,
+  "alliance_id": null,
+  "corporation_name": "Large Rodent Hunters",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124268924,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123576903,
+    "name": "Lady Dyelin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98814781,
+    "alliance_id": null,
+    "corporation_name": "Winwood High",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123576903,
+      "name": "Lady Dyelin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90105935,
+      "name": "Sethos Tragovian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 707059433,
+      "name": "Sara Agoss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Watermelon Potato",
+  "corporation_id": 98824507,
+  "alliance_id": 99013541,
+  "corporation_name": "Fuxi Military Academy",
+  "alliance_name": "Fraternity Auxiliary"
+}

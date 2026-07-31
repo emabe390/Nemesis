@@ -21,6 +21,7 @@ Each file contains killmail_id -> full killmail data (attackers, victim, etc.)
 import argparse
 import gzip
 import json
+import os
 import sqlite3
 import time
 from collections import defaultdict
@@ -85,6 +86,8 @@ def init_db(db_path):
             victim_alliance_id INTEGER,
             victim_ship_type_id INTEGER,
             final_blow_char_id INTEGER,
+            final_blow_corp_id INTEGER,
+            final_blow_alliance_id INTEGER,
             top_damage_char_id INTEGER,
             solar_system_id INTEGER,
             total_value REAL,
@@ -114,14 +117,6 @@ def init_db(db_path):
             corporation_id INTEGER,
             alliance_id INTEGER,
             resolved_at TEXT
-        )
-    """)
-
-    # Ship name cache
-    c.execute("""
-        CREATE TABLE IF NOT EXISTS ships (
-            type_id INTEGER PRIMARY KEY,
-            name TEXT
         )
     """)
 
@@ -159,6 +154,15 @@ def parse_killmail(killmail_id, km):
     if killer_id is None:
         return None
 
+    # Get final blow attacker's corp/alliance
+    final_blow_corp_id = None
+    final_blow_alliance_id = None
+    for a in attackers:
+        if a.get("character_id") == final_blow:
+            final_blow_corp_id = a.get("corporation_id")
+            final_blow_alliance_id = a.get("alliance_id")
+            break
+
     zkb = km.get("zkb", {})
     total_value = zkb.get("totalValue", 0)
 
@@ -170,6 +174,8 @@ def parse_killmail(killmail_id, km):
         "victim_alliance_id": victim.get("alliance_id"),
         "victim_ship_type_id": victim.get("ship_type_id"),
         "final_blow_char_id": final_blow,
+        "final_blow_corp_id": final_blow_corp_id,
+        "final_blow_alliance_id": final_blow_alliance_id,
         "top_damage_char_id": top_damage,
         "solar_system_id": km.get("solar_system_id"),
         "total_value": total_value,
@@ -205,10 +211,12 @@ def import_day(db_path, day):
         INSERT OR IGNORE INTO kills
         (killmail_id, killmail_time, victim_char_id, victim_corp_id,
          victim_alliance_id, victim_ship_type_id, final_blow_char_id,
+         final_blow_corp_id, final_blow_alliance_id,
          top_damage_char_id, solar_system_id, total_value, raw_json)
         VALUES
         (:killmail_id, :killmail_time, :victim_char_id, :victim_corp_id,
          :victim_alliance_id, :victim_ship_type_id, :final_blow_char_id,
+         :final_blow_corp_id, :final_blow_alliance_id,
          :top_damage_char_id, :solar_system_id, :total_value, :raw_json)
     """, kills)
 
@@ -233,13 +241,15 @@ def get_imported_days(db_path):
     return days
 
 
-def get_available_days():
-    """Fetch list of days with data from zKill totals."""
+def get_available_days(max_age_days=365):
+    """Fetch list of days with data from zKill totals, capped at max_age_days."""
+    from datetime import datetime, timedelta
     data = fetch_json(ZKILL_TOTALS)
     if not data:
         return []
-    # Return sorted list of days (strings)
-    return sorted(data.keys())
+    cutoff = (datetime.now() - timedelta(days=max_age_days)).strftime('%Y%m%d')
+    days = sorted([d for d in data.keys() if d >= cutoff])
+    return days
 
 
 def build_database(db_path, start_day=None, end_day=None, force=False):
@@ -261,13 +271,18 @@ def build_database(db_path, start_day=None, end_day=None, force=False):
         days = [d for d in days if d <= end_day]
 
     to_import = [d for d in days if d not in imported]
-    print(f"Total available days: {len(available)}")
+
+    # Re-import the latest day in range to catch incomplete dumps
+    if days and not force and days[-1] in imported:
+        to_import.append(days[-1])
+
+    print(f"Total available days: {len(available)} (capped at 365)")
     print(f"Already imported: {len(imported)}")
     print(f"To import: {len(to_import)}")
     print()
 
     total_kills = 0
-    for i, day in enumerate(to_import, 1):
+    for i, day in enumerate(sorted(to_import), 1):
         kills = import_day(db_path, day)
         total_kills += kills
         if i % 10 == 0:
@@ -277,69 +292,100 @@ def build_database(db_path, start_day=None, end_day=None, force=False):
     print(f"\nDone. Imported {total_kills} kills across {len(to_import)} days.")
 
 
+def fill_range(db_path, start_day):
+    """Import all days from start_day to now, skipping already-imported days."""
+    init_db(db_path)
+
+    available = get_available_days()
+    if not available:
+        print("Could not fetch day list from zKill")
+        return
+
+    imported = get_imported_days(db_path)
+
+    days = [d for d in available if d >= start_day]
+    to_import = [d for d in days if d not in imported]
+
+    # Re-import the latest day to catch incomplete dumps
+    if days and days[-1] in imported:
+        to_import.append(days[-1])
+
+    if not to_import:
+        print("All days in range already imported.")
+        return
+
+    print(f"Available from {start_day}: {len(days)} days (capped at 365 from zKill)")
+    print(f"Already imported: {len([d for d in days if d in imported])}")
+    print(f"To import: {len(to_import)}")
+    print()
+
+    total_kills = 0
+    for i, day in enumerate(sorted(to_import), 1):
+        kills = import_day(db_path, day)
+        total_kills += kills
+        if i % 10 == 0:
+            print(f"  Progress: {i}/{len(to_import)} days, {total_kills} kills so far")
+        time.sleep(0.5)
+
+    print(f"\nDone. Imported {total_kills} kills across {len(to_import)} days.")
+
+
 def compute_nemesis(db_path, min_losses=3):
     """
     For every character with >= min_losses, compute:
     - Their nemesis (who killed them most, by final blow)
     - Top 5 killers
-    - Recent losses
     Returns dict: char_id -> nemesis_data
     """
     conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
     c = conn.cursor()
 
-    # Get all victims with enough losses
+    # Single query: get all victim-killer relationships at once
+    print("Computing nemesis relationships...")
     c.execute("""
-        SELECT victim_char_id, COUNT(*) as loss_count
+        SELECT victim_char_id,
+               COALESCE(final_blow_char_id, top_damage_char_id) as killer_id,
+               CASE WHEN final_blow_char_id IS NOT NULL THEN 1 ELSE 0 END as is_final_blow,
+               COUNT(*) as kill_count,
+               SUM(CASE WHEN final_blow_char_id IS NOT NULL THEN 1 ELSE 0 END) as final_blow_count
         FROM kills
         WHERE victim_char_id IS NOT NULL
-        GROUP BY victim_char_id
-        HAVING loss_count >= ?
-    """, (min_losses,))
+          AND COALESCE(final_blow_char_id, top_damage_char_id) IS NOT NULL
+        GROUP BY victim_char_id, killer_id
+    """)
 
-    victims = {row[0]: row[1] for row in c.fetchall()}
+    # Build killer counts per victim
+    victim_killers = defaultdict(lambda: defaultdict(lambda: {"count": 0, "final_blows": 0}))
+    victim_loss_counts = defaultdict(int)
+
+    for row in c:
+        victim_id = row["victim_char_id"]
+        killer_id = row["killer_id"]
+        victim_killers[victim_id][killer_id]["count"] = row["kill_count"]
+        victim_killers[victim_id][killer_id]["final_blows"] = row["final_blow_count"]
+        victim_loss_counts[victim_id] += row["kill_count"]
+
+    # Filter to victims with >= min_losses
+    victims = {vid: cnt for vid, cnt in victim_loss_counts.items() if cnt >= min_losses}
     print(f"Found {len(victims)} characters with >= {min_losses} losses")
 
     results = {}
     char_ids_to_resolve = set()
+    total = len(victims)
 
-    for char_id in victims:
-        # All losses for this character
-        c.execute("""
-            SELECT killmail_id, killmail_time, victim_ship_type_id,
-                   final_blow_char_id, top_damage_char_id, total_value, raw_json
-            FROM kills
-            WHERE victim_char_id = ?
-            ORDER BY killmail_time DESC
-        """, (char_id,))
+    for i, (char_id, total_losses) in enumerate(victims.items(), 1):
+        if i % 10000 == 0 or i == total:
+            pct = 100 * i / total
+            bar = '=' * (i * 50 // total)
+            print(f"\r  Progress: [{bar:<50}] {pct:.1f}% ({i}/{total})", end='', flush=True)
 
-        losses = []
-        killer_counts = defaultdict(lambda: {"count": 0, "final_blows": 0, "total_damage": 0})
-
-        for row in c.fetchall():
-            killmail_id, km_time, ship_id, final_blow, top_damage, value, raw = row
-            killer = final_blow or top_damage
-            if not killer:
-                continue
-
-            losses.append({
-                "killmail_id": killmail_id,
-                "killmail_time": km_time,
-                "ship_type_id": ship_id,
-                "loss_value": value,
-                "killer_id": killer,
-            })
-
-            killer_counts[killer]["count"] += 1
-            if killer == final_blow:
-                killer_counts[killer]["final_blows"] += 1
-
-        if not killer_counts:
+        killers = victim_killers[char_id]
+        if not killers:
             continue
 
-        # Sort killers by count desc
         sorted_killers = sorted(
-            killer_counts.items(),
+            killers.items(),
             key=lambda x: x[1]["count"],
             reverse=True
         )
@@ -352,15 +398,10 @@ def compute_nemesis(db_path, min_losses=3):
         for k_id, _ in top_5:
             char_ids_to_resolve.add(k_id)
 
-        # Recent 10 losses
-        recent = losses[:10]
-        for loss in recent:
-            char_ids_to_resolve.add(loss["killer_id"])
-
         results[char_id] = {
             "character_id": char_id,
-            "total_losses": len(losses),
-            "unique_killers": len(killer_counts),
+            "total_losses": total_losses,
+            "unique_killers": len(killers),
             "nemesis": {
                 "id": nemesis_id,
                 "name": None,
@@ -376,24 +417,17 @@ def compute_nemesis(db_path, min_losses=3):
                 }
                 for k_id, stats in top_5
             ],
-            "recent_losses": [
-                {
-                    "killmail_id": l["killmail_id"],
-                    "killmail_time": l["killmail_time"],
-                    "ship_type_id": l["ship_type_id"],
-                    "loss_value": l["loss_value"],
-                    "killer_id": l["killer_id"],
-                    "killer_name": None,
-                }
-                for l in recent
-            ],
         }
 
+    print()  # newline after progress bar
     conn.close()
 
-    # Resolve names
-    print(f"Resolving {len(char_ids_to_resolve)} character names...")
-    names = resolve_character_names(char_ids_to_resolve)
+    # Resolve names with cache
+    cache_path = os.path.join(os.path.dirname(db_path), "name_cache.json")
+    name_cache = load_name_cache(cache_path)
+    print(f"Resolving {len(char_ids_to_resolve)} character names (cached: {len(name_cache)})...")
+    names = resolve_character_names(char_ids_to_resolve, cache=name_cache)
+    save_name_cache(name_cache, cache_path)
 
     # Fill in names
     for char_id, data in results.items():
@@ -401,55 +435,196 @@ def compute_nemesis(db_path, min_losses=3):
         data["nemesis"]["name"] = names.get(data["nemesis"]["id"], f"Character {data['nemesis']['id']}")
         for k in data["top_killers"]:
             k["name"] = names.get(k["id"], f"Character {k['id']}")
-        for loss in data["recent_losses"]:
-            loss["killer_name"] = names.get(loss["killer_id"], f"Character {loss['killer_id']}")
+
+    # Resolve corporation and alliance info
+    print("Fetching corporation/alliance info...")
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+
+    # Get latest corp/alliance for each victim
+    victim_ids = list(results.keys())
+    print(f"  Looking up corp/alliance for {len(victim_ids)} victims...")
+    c.execute("""
+        SELECT victim_char_id, victim_corp_id, victim_alliance_id
+        FROM kills
+        WHERE victim_char_id IN ({0})
+        ORDER BY killmail_time DESC
+    """.format(','.join('?' * len(victim_ids))), victim_ids)
+
+    victim_corp_alliance = {}
+    for i, row in enumerate(c, 1):
+        if i % 50000 == 0:
+            print(f"    Processed {i} rows...")
+        vid = row["victim_char_id"]
+        if vid not in victim_corp_alliance:
+            victim_corp_alliance[vid] = {
+                "corporation_id": row["victim_corp_id"],
+                "alliance_id": row["victim_alliance_id"],
+            }
+
+    # Get corp/alliance for each nemesis — try new columns first, then raw_json fallback
+    nemesis_ids = list({data["nemesis"]["id"] for data in results.values()})
+    print(f"  Looking up corp/alliance for {len(nemesis_ids)} nemeses...")
+    c.execute("""
+        SELECT final_blow_char_id, final_blow_corp_id, final_blow_alliance_id, raw_json
+        FROM kills
+        WHERE final_blow_char_id IN ({0})
+        ORDER BY killmail_time DESC
+    """.format(','.join('?' * len(nemesis_ids))), nemesis_ids)
+
+    nemesis_corp_alliance = {}
+    for i, row in enumerate(c, 1):
+        if i % 50000 == 0:
+            print(f"    Processed {i} rows...")
+        nid = row["final_blow_char_id"]
+        if nid in nemesis_corp_alliance:
+            continue
+        # Use new columns if available
+        if row["final_blow_corp_id"] is not None or row["final_blow_alliance_id"] is not None:
+            nemesis_corp_alliance[nid] = {
+                "corporation_id": row["final_blow_corp_id"],
+                "alliance_id": row["final_blow_alliance_id"],
+            }
+            continue
+        # Fallback: parse raw_json
+        try:
+            km = json.loads(row["raw_json"])
+            for a in km.get("attackers", []):
+                if a.get("character_id") == nid:
+                    nemesis_corp_alliance[nid] = {
+                        "corporation_id": a.get("corporation_id"),
+                        "alliance_id": a.get("alliance_id"),
+                    }
+                    break
+        except Exception:
+            pass
+
+    conn.close()
+
+    # Resolve corp/alliance names
+    corp_ids = set()
+    alliance_ids = set()
+    for info in victim_corp_alliance.values():
+        if info.get("corporation_id"): corp_ids.add(info["corporation_id"])
+        if info.get("alliance_id"): alliance_ids.add(info["alliance_id"])
+    for info in nemesis_corp_alliance.values():
+        if info.get("corporation_id"): corp_ids.add(info["corporation_id"])
+        if info.get("alliance_id"): alliance_ids.add(info["alliance_id"])
+
+    print(f"  Resolving {len(corp_ids)} corporation names, {len(alliance_ids)} alliance names...")
+    corp_names = resolve_ids(corp_ids, category_filter="corporation", cache=name_cache)
+    alliance_names = resolve_ids(alliance_ids, category_filter="alliance", cache=name_cache)
+    save_name_cache(name_cache, cache_path)
+
+    # Fill in corp/alliance data
+    for char_id, data in results.items():
+        info = victim_corp_alliance.get(char_id, {})
+        data["corporation_id"] = info.get("corporation_id")
+        data["alliance_id"] = info.get("alliance_id")
+        data["corporation_name"] = corp_names.get(info.get("corporation_id")) if info.get("corporation_id") else None
+        data["alliance_name"] = alliance_names.get(info.get("alliance_id")) if info.get("alliance_id") else None
+
+        n_info = nemesis_corp_alliance.get(data["nemesis"]["id"], {})
+        data["nemesis"]["corporation_id"] = n_info.get("corporation_id")
+        data["nemesis"]["alliance_id"] = n_info.get("alliance_id")
+        data["nemesis"]["corporation_name"] = corp_names.get(n_info.get("corporation_id")) if n_info.get("corporation_id") else None
+        data["nemesis"]["alliance_name"] = alliance_names.get(n_info.get("alliance_id")) if n_info.get("alliance_id") else None
 
     return results
 
 
-def resolve_ids(ids, category_filter=None):
+def load_name_cache(cache_path):
+    """Load cached name resolutions from disk."""
+    if cache_path and os.path.exists(cache_path):
+        try:
+            with open(cache_path, 'r') as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
+
+
+def save_name_cache(cache, cache_path):
+    """Save cached name resolutions to disk."""
+    if cache_path:
+        try:
+            with open(cache_path, 'w') as f:
+                json.dump(cache, f)
+        except Exception as e:
+            print(f"  Warning: could not save name cache: {e}")
+
+
+def resolve_ids(ids, category_filter=None, cache=None):
     """
     Resolve IDs to names via ESI /universe/names/ (batch up to 1000).
     Returns dict: id -> name (filtered by category if specified).
+    Uses optional cache dict to avoid re-resolving known names.
     """
     if not ids:
         return {}
 
     names = {}
-    ids_list = list(ids)
+    ids_to_resolve = []
+
+    # Check cache first
+    for eid in ids:
+        key = f"{category_filter or 'any'}:{eid}"
+        if cache and key in cache:
+            names[eid] = cache[key]
+        else:
+            ids_to_resolve.append(eid)
+
+    if not ids_to_resolve:
+        return names
+
+    ids_list = list(ids_to_resolve)
+    total_batches = (len(ids_list) + 999) // 1000
 
     for i in range(0, len(ids_list), 1000):
         batch = ids_list[i:i+1000]
-        try:
-            r = requests.post(ESI_NAMES_URL, json=batch, timeout=30)
-            if r.status_code == 200:
-                for entry in r.json():
-                    eid = entry.get("id")
-                    name = entry.get("name")
-                    cat = entry.get("category")
-                    if name and (category_filter is None or cat == category_filter):
-                        names[eid] = name
-        except Exception as e:
-            print(f"  ESI resolution error: {e}")
+        batch_num = i // 1000 + 1
+        pct = 100 * batch_num / total_batches
+        bar = '=' * (batch_num * 30 // total_batches)
+        print(f"\r  ESI: [{bar:<30}] {pct:.1f}% ({batch_num}/{total_batches} batches)", end='', flush=True)
+        for attempt in range(5):
+            try:
+                r = requests.post(ESI_NAMES_URL, json=batch, timeout=30)
+                if r.status_code == 200:
+                    for entry in r.json():
+                        eid = entry.get("id")
+                        name = entry.get("name")
+                        cat = entry.get("category")
+                        if name and (category_filter is None or cat == category_filter):
+                            names[eid] = name
+                            if cache is not None:
+                                cache[f"{category_filter or 'any'}:{eid}"] = name
+                    break
+                elif r.status_code == 429:
+                    retry_after = int(r.headers.get('retry-after', 2))
+                    print(f"\n  ESI rate limited, waiting {retry_after}s...")
+                    time.sleep(retry_after)
+                elif r.status_code >= 500:
+                    print(f"\n  ESI error {r.status_code}, retrying...")
+                    time.sleep(2 ** attempt)
+                else:
+                    print(f"\n  ESI error {r.status_code}: {r.text[:200]}")
+                    break
+            except Exception as e:
+                print(f"\n  ESI resolution error: {e}")
+                time.sleep(2 ** attempt)
+        time.sleep(0.1)  # Rate limit between batches
+    print()  # newline after progress bar
 
     return names
 
 
-def resolve_character_names(char_ids):
+def resolve_character_names(char_ids, cache=None):
     """Resolve character IDs to names."""
-    names = resolve_ids(char_ids, category_filter="character")
+    names = resolve_ids(char_ids, category_filter="character", cache=cache)
     for cid in char_ids:
         if cid not in names:
             names[cid] = f"Character {cid}"
-    return names
-
-
-def resolve_ship_names(ship_ids):
-    """Resolve ship type IDs to names."""
-    names = resolve_ids(ship_ids, category_filter="inventory_type")
-    for sid in ship_ids:
-        if sid not in names:
-            names[sid] = f"Type {sid}"
     return names
 
 
@@ -461,24 +636,12 @@ def export_nemesis_data(db_path, output_dir, min_losses=3):
     results = compute_nemesis(db_path, min_losses=min_losses)
     print(f"Exporting {len(results)} characters...")
 
-    # Collect all ship IDs to resolve
-    ship_ids = set()
-    for data in results.values():
-        for loss in data["recent_losses"]:
-            if loss["ship_type_id"]:
-                ship_ids.add(loss["ship_type_id"])
-
-    # Resolve ship names
-    if ship_ids:
-        print(f"Resolving {len(ship_ids)} ship names...")
-        ship_names = resolve_ship_names(ship_ids)
-        for data in results.values():
-            for loss in data["recent_losses"]:
-                loss["ship_name"] = ship_names.get(loss["ship_type_id"], "Unknown")
-
     # Save individual files
     index = {}
-    for char_id, data in results.items():
+    total = len(results)
+    for i, (char_id, data) in enumerate(results.items(), 1):
+        if i % 50000 == 0:
+            print(f"  Saved {i}/{total} character files...")
         char_name = data["character_name"]
         slug = char_name.lower().replace(" ", "_").replace("-", "_")
 
@@ -497,9 +660,39 @@ def export_nemesis_data(db_path, output_dir, min_losses=3):
             "total_losses": data["total_losses"],
         }
 
-    # Save index
+    # Save index (full metadata for backward compatibility)
     with open(out / "index.json", "w") as f:
         json.dump(index, f, indent=2)
+
+    # Save minimal names index — include ALL characters (victims + nemeses)
+    names_index = {name: data["id"] for name, data in index.items()}
+    # Add nemeses who have 0 losses (not in index)
+    for char_id, data in results.items():
+        nemesis_id = data["nemesis"]["id"]
+        nemesis_name = data["nemesis"]["name"]
+        if nemesis_name and not nemesis_name.startswith("Character ") and nemesis_name not in names_index:
+            names_index[nemesis_name] = nemesis_id
+        for k in data["top_killers"]:
+            if k["name"] and not k["name"].startswith("Character ") and k["name"] not in names_index:
+                names_index[k["name"]] = k["id"]
+    with open(out / "names.json", "w") as f:
+        json.dump(names_index, f, indent=2)
+
+    # Get date range from DB
+    conn = sqlite3.connect(db_path)
+    c = conn.cursor()
+    c.execute("SELECT MIN(killmail_time), MAX(killmail_time) FROM kills")
+    min_time, max_time = c.fetchone()
+    conn.close()
+
+    # Save metadata
+    meta = {
+        "count": len(results),
+        "date_from": min_time[:10] if min_time else None,
+        "date_to": max_time[:10] if max_time else None,
+    }
+    with open(out / "meta.json", "w") as f:
+        json.dump(meta, f, indent=2)
 
     # Build reverse nemesis
     reverse = defaultdict(list)
@@ -518,26 +711,104 @@ def export_nemesis_data(db_path, output_dir, min_losses=3):
     with open(out / "reverse_nemesis.json", "w") as f:
         json.dump(dict(reverse), f, indent=2)
 
+    # Build top nemesis leaderboard (characters who are nemesis of the most others)
+    # Also include corp/alliance from results where available
+    top_nemesis = []
+    for nemesis_id, victims in reverse.items():
+        # Find corp/alliance for this nemesis from any victim's data
+        nemesis_corp_id = None
+        nemesis_corp_name = None
+        nemesis_alliance_id = None
+        nemesis_alliance_name = None
+        for char_id, data in results.items():
+            if data["nemesis"]["id"] == nemesis_id:
+                nemesis_corp_id = data["nemesis"].get("corporation_id")
+                nemesis_corp_name = data["nemesis"].get("corporation_name")
+                nemesis_alliance_id = data["nemesis"].get("alliance_id")
+                nemesis_alliance_name = data["nemesis"].get("alliance_name")
+                break
+
+        # Get nemesis character name from any victim's nemesis data
+        nemesis_char_name = None
+        for char_id, data in results.items():
+            if data["nemesis"]["id"] == nemesis_id:
+                nemesis_char_name = data["nemesis"]["name"]
+                break
+        if not nemesis_char_name:
+            nemesis_char_name = f"Character {nemesis_id}"
+        top_nemesis.append({
+            "id": nemesis_id,
+            "name": nemesis_char_name,
+            "nemesis_count": len(victims),
+            "total_final_blows": sum(v["kill_count"] for v in victims),
+            "top_victim": victims[0] if victims else None,
+            "corporation_id": nemesis_corp_id,
+            "corporation_name": nemesis_corp_name,
+            "alliance_id": nemesis_alliance_id,
+            "alliance_name": nemesis_alliance_name,
+        })
+
+    top_nemesis.sort(key=lambda x: x["nemesis_count"], reverse=True)
+
+    with open(out / "top_nemesis.json", "w") as f:
+        json.dump(top_nemesis, f, indent=2)
+
     print(f"Saved to {out}")
     print(f"  Characters: {len(results)}")
     print(f"  Index entries: {len(index)}")
     print(f"  Reverse entries: {len(reverse)}")
+    print(f"  Top nemesis entries: {len(top_nemesis)}")
+
+
+def trim_old_data(db_path, keep_days=365):
+    """Delete killmails older than keep_days from DB and exported JSON."""
+    from datetime import datetime, timedelta
+    cutoff = (datetime.now() - timedelta(days=keep_days)).strftime('%Y-%m-%d')
+
+    conn = sqlite3.connect(db_path)
+    c = conn.cursor()
+
+    # Count what we're about to delete
+    c.execute("SELECT COUNT(*) FROM kills WHERE killmail_time < ?", (cutoff,))
+    to_delete = c.fetchone()[0]
+
+    if to_delete == 0:
+        conn.close()
+        print("No old data to trim.")
+        return 0
+
+    # Delete old kills
+    c.execute("DELETE FROM kills WHERE killmail_time < ?", (cutoff,))
+
+    conn.commit()
+    conn.close()
+    print(f"Trimmed {to_delete:,} kills before {cutoff}")
+    return to_delete
 
 
 def update_database(db_path):
-    """Add any new days since last import."""
+    """Add any new days since last import. Re-imports the latest day to catch incomplete dumps."""
     init_db(db_path)
     imported = get_imported_days(db_path)
     available = get_available_days()
 
+    print(f"Available days from zKill: {len(available)} (from {available[0]} to {available[-1]})")
+    print(f"Already imported: {len(imported)} days")
+
     to_import = [d for d in available if d not in imported]
+
+    # Always re-import the most recent already-imported day (may have been incomplete)
+    if available and available[-1] in imported:
+        to_import.append(available[-1])
+        print(f"Re-importing latest day {available[-1]} to ensure completeness...")
+
     if not to_import:
         print("Database is up to date.")
         return
 
-    print(f"Importing {len(to_import)} new days...")
+    print(f"Importing {len(to_import)} days...")
     total = 0
-    for day in to_import:
+    for day in sorted(to_import):
         kills = import_day(db_path, day)
         total += kills
         time.sleep(0.5)
@@ -585,11 +856,14 @@ def main():
     parser.add_argument("--start", help="Start date YYYYMMDD")
     parser.add_argument("--end", help="End date YYYYMMDD")
     parser.add_argument("--min-losses", type=int, default=3, help="Min losses to include character")
+    parser.add_argument("--fill", help="Fill from START_DATE to now (YYYYMMDD)")
     parser.add_argument("--force", action="store_true", help="Re-import already-imported days")
     args = parser.parse_args()
 
     if args.init_db:
         build_database(args.db, start_day=args.start, end_day=args.end, force=args.force)
+    elif args.fill:
+        fill_range(args.db, args.fill)
     elif args.update:
         update_database(args.db)
     elif args.export:

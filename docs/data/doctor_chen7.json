@@ -1,0 +1,34 @@
+{
+  "character_id": 2123694249,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123640591,
+    "name": "Doctor Chen4",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123640591,
+      "name": "Doctor Chen4",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123095230,
+      "name": "Doctor Chen1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doctor Chen7",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

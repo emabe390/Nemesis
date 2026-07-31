@@ -1,0 +1,40 @@
+{
+  "character_id": 2124090561,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112736867,
+    "name": "Higgins Dallocort",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 2112736867,
+      "name": "Higgins Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 804683739,
+      "name": "Character 804683739",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119260591,
+      "name": "Delihria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Annalee C AU557-3",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

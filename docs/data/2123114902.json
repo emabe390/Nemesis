@@ -1,0 +1,40 @@
+{
+  "character_id": 2123114902,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95502013,
+    "name": "Ibis King",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98473459,
+    "alliance_id": 99013785,
+    "corporation_name": "Lethal Devotion",
+    "alliance_name": "Escalation Theory"
+  },
+  "top_killers": [
+    {
+      "id": 95502013,
+      "name": "Ibis King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120561924,
+      "name": "Hilo Sharp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123241586,
+      "name": "Charles's Chains",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PK Bottle Knack",
+  "corporation_id": 98730128,
+  "alliance_id": null,
+  "corporation_name": "Panzerknacker AG",
+  "alliance_name": null
+}

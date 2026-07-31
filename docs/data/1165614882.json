@@ -1,0 +1,40 @@
+{
+  "character_id": 1165614882,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93275390,
+    "name": "Zero-G",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98347277,
+    "alliance_id": null,
+    "corporation_name": "New Eden Tourism",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93275390,
+      "name": "Zero-G",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94482620,
+      "name": "Vladimir Darko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96097438,
+      "name": "Andy Virus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ehrinat",
+  "corporation_id": 98762691,
+  "alliance_id": 99014668,
+  "corporation_name": "Arquebus Co.",
+  "alliance_name": "The Ravens' Nest"
+}

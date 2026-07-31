@@ -1,0 +1,40 @@
+{
+  "character_id": 2124016255,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90040710,
+    "name": "kryjak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98034457,
+    "alliance_id": null,
+    "corporation_name": "Fear Factor Prototype",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90040710,
+      "name": "kryjak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120696692,
+      "name": "CTA61",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124333372,
+      "name": "Antonio Petuchini",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "J Hudson",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

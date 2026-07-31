@@ -1,0 +1,34 @@
+{
+  "character_id": 2123371630,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91609531,
+    "name": "ChaosDuke Mayhem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98658303,
+    "alliance_id": 99014391,
+    "corporation_name": "Candy From Stranger",
+    "alliance_name": "Howitzers and Champagne"
+  },
+  "top_killers": [
+    {
+      "id": 91609531,
+      "name": "ChaosDuke Mayhem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123074260,
+      "name": "ASXS1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Perry Hopper",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

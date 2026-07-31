@@ -1,0 +1,40 @@
+{
+  "character_id": 2124279983,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1103273487,
+    "name": "Triple Deke",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 1103273487,
+      "name": "Triple Deke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121068963,
+      "name": "Yak of Mors",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124444306,
+      "name": "Yoshi Sin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ThisIsAI",
+  "corporation_id": 98830752,
+  "alliance_id": null,
+  "corporation_name": "ThisIsAI Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124060060,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1104531524,
+    "name": "Wurdalac",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 967501471,
+    "alliance_id": 99004804,
+    "corporation_name": "SoT",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 1104531524,
+      "name": "Wurdalac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113451843,
+      "name": "Crazy little sharks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114629983,
+      "name": "Rastafakar Rastafari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92444174,
+      "name": "Watson Crick",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lilham",
+  "corporation_id": 1634775132,
+  "alliance_id": 1354830081,
+  "corporation_name": "UK Corp",
+  "alliance_name": "Goonswarm Federation"
+}

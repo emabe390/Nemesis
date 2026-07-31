@@ -1,0 +1,52 @@
+{
+  "character_id": 2122783338,
+  "total_losses": 25,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 95196146,
+    "name": "Nustrivia Zateki",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95196146,
+      "name": "Nustrivia Zateki",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122034308,
+      "name": "Splasheffect",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dagmar Vadt",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

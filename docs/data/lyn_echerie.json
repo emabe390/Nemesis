@@ -1,0 +1,40 @@
+{
+  "character_id": 2113208750,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93526035,
+    "name": "Craig Zander",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1696098108,
+    "alliance_id": 1354830081,
+    "corporation_name": "Trust Doesn't Rust",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93526035,
+      "name": "Craig Zander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1984212578,
+      "name": "Max Sneak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117453091,
+      "name": "Vesuri Uesin Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyn Echerie",
+  "corporation_id": 98504153,
+  "alliance_id": 99003581,
+  "corporation_name": "Stay Alive.",
+  "alliance_name": "Fraternity."
+}

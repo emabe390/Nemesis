@@ -1,0 +1,40 @@
+{
+  "character_id": 2123463527,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113500314,
+    "name": "Maximus Hnus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118968382,
+      "name": "Nishius KhureIem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123244626,
+      "name": "Muffin Lover ML",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tenneri Dylt Ibruin",
+  "corporation_id": 98669910,
+  "alliance_id": null,
+  "corporation_name": "Exiled Degenerates Salvaging",
+  "alliance_name": null
+}

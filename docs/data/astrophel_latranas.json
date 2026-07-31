@@ -1,0 +1,52 @@
+{
+  "character_id": 2124061964,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 1209012503,
+    "name": "Kobrakilla",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 1209012503,
+      "name": "Kobrakilla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117597642,
+      "name": "Kud Kring",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90974043,
+      "name": "Daniel Alpena",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91809983,
+      "name": "Tatoshi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 333402883,
+      "name": "WarOrion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astrophel Latranas",
+  "corporation_id": 98828090,
+  "alliance_id": 99014851,
+  "corporation_name": "Wormhole Campus",
+  "alliance_name": "10 Minutes' Notice"
+}

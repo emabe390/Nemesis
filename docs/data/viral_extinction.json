@@ -1,0 +1,52 @@
+{
+  "character_id": 2124091833,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 90598539,
+    "name": "Tyler Aurilen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98657999,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rage Confederacy",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90598539,
+      "name": "Tyler Aurilen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122220080,
+      "name": "Poumad Shaile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90275185,
+      "name": "Wingnut44",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91808938,
+      "name": "Imnu First",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92667163,
+      "name": "Rudy Bill",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viral Extinction",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

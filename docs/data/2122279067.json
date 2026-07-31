@@ -1,0 +1,40 @@
+{
+  "character_id": 2122279067,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 760188261,
+    "name": "Bren MacKay",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 197097487,
+    "alliance_id": 1900696668,
+    "corporation_name": "4S Corporation",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 760188261,
+      "name": "Bren MacKay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120505100,
+      "name": "Character 2120505100",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124008203,
+      "name": "Jenham 02",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Impleader",
+  "corporation_id": 98478391,
+  "alliance_id": 99014963,
+  "corporation_name": "Magellan Corporation",
+  "alliance_name": "Intended Behavior"
+}

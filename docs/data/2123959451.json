@@ -1,0 +1,40 @@
+{
+  "character_id": 2123959451,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90656762,
+    "name": "Jam Tanto",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 90656762,
+      "name": "Jam Tanto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114540150,
+      "name": "Chip Chipmunk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Princess-Yuki",
+  "corporation_id": 98792974,
+  "alliance_id": null,
+  "corporation_name": "KISS of DEATH Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123207522,
+  "total_losses": 29,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 332688972,
+    "name": "Meinah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98830650,
+    "alliance_id": null,
+    "corporation_name": "Gistii Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 332688972,
+      "name": "Meinah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 784156357,
+      "name": "Tandros Kreel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1784464341,
+      "name": "Sokata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115775393,
+      "name": "Evas Askiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120548582,
+      "name": "Tepiyo Temato",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rhika Brynn",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

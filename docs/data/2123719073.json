@@ -1,0 +1,52 @@
+{
+  "character_id": 2123719073,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122815087,
+      "name": "misterhare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95578092,
+      "name": "CALVIN HOOD HIGH",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96897588,
+      "name": "Lord Rust",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114047945,
+      "name": "Ace of Finalgon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sil Aerisborne",
+  "corporation_id": 98662323,
+  "alliance_id": 99010756,
+  "corporation_name": "Voidhounds",
+  "alliance_name": "Pretenders"
+}

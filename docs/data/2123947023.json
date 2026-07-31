@@ -1,0 +1,52 @@
+{
+  "character_id": 2123947023,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122951172,
+    "name": "Greedy Goblino",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670177,
+    "alliance_id": null,
+    "corporation_name": "The Last Meme",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122951172,
+      "name": "Greedy Goblino",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91937883,
+      "name": "Robin KIdd",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 517826599,
+      "name": "Soul Pahan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117188539,
+      "name": "Aeroqp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117382747,
+      "name": "Freedomist-Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elof Valendor",
+  "corporation_id": 98815087,
+  "alliance_id": 99014495,
+  "corporation_name": "Tenebris Initiative",
+  "alliance_name": "Umbrella Initiative Alliance"
+}

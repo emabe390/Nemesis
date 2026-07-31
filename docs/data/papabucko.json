@@ -1,0 +1,52 @@
+{
+  "character_id": 2122962194,
+  "total_losses": 32,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 3019604,
+    "name": "Cassandra Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124142055,
+      "name": "Torta Wrangler",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 635560359,
+      "name": "the raver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 813471515,
+      "name": "Warn1nG Soul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115638963,
+      "name": "Chappers",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "PapaBucko",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

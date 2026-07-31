@@ -1,0 +1,40 @@
+{
+  "character_id": 2115348775,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96422430,
+    "name": "Seung Koo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98514759,
+    "alliance_id": 99014973,
+    "corporation_name": "Meta Zero",
+    "alliance_name": "E-Reptile Disfunction"
+  },
+  "top_killers": [
+    {
+      "id": 96422430,
+      "name": "Seung Koo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95703995,
+      "name": "Vilksun Schlonge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 337840305,
+      "name": "Malarkai Densuri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spotted Puddin",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

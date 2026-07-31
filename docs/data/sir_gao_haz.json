@@ -1,0 +1,40 @@
+{
+  "character_id": 96054225,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92805592,
+    "name": "vodinochestve",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98826569,
+    "alliance_id": 99014815,
+    "corporation_name": "Rabble Social Club",
+    "alliance_name": "Safety Squint"
+  },
+  "top_killers": [
+    {
+      "id": 92805592,
+      "name": "vodinochestve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113878187,
+      "name": "FruitLocker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117074048,
+      "name": "Kevin Teiniks",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sir Gao Haz",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

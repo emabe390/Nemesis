@@ -1,0 +1,40 @@
+{
+  "character_id": 2121398567,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123654415,
+    "name": "Shizu Nakamoto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785743,
+    "alliance_id": null,
+    "corporation_name": "Rubber Ducky Appreciation Society",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123654415,
+      "name": "Shizu Nakamoto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123808082,
+      "name": "meow meow 01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123808099,
+      "name": "meow meow 4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121398567",
+  "corporation_id": 98815255,
+  "alliance_id": null,
+  "corporation_name": "Spectrum Mercenaries",
+  "alliance_name": null
+}

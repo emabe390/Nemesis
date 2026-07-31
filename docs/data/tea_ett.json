@@ -1,0 +1,52 @@
+{
+  "character_id": 2122039793,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2117463498,
+    "name": "Dalt Verfit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117463498,
+      "name": "Dalt Verfit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124019114,
+      "name": "ATRI-02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91494606,
+      "name": "Blix Tekitsu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96148659,
+      "name": "Keepstar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96541111,
+      "name": "Jin Hong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TEA-ETT",
+  "corporation_id": 98833187,
+  "alliance_id": 99007887,
+  "corporation_name": "Tianshan Imperial Guard",
+  "alliance_name": "Brotherhood of Spacers"
+}

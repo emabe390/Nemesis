@@ -1,0 +1,34 @@
+{
+  "character_id": 2123829327,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 97122032,
+    "name": "Character 97122032",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98512711,
+    "alliance_id": 99009013,
+    "corporation_name": "Czarna-Kompania",
+    "alliance_name": "Czarna-Kompania."
+  },
+  "top_killers": [
+    {
+      "id": 97122032,
+      "name": "Character 97122032",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122446687,
+      "name": "Character 2122446687",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Itoreya Akachi",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

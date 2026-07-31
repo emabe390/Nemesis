@@ -1,0 +1,34 @@
+{
+  "character_id": 2115508351,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123932638,
+    "name": "The Sunlit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781761,
+    "alliance_id": 99013732,
+    "corporation_name": "Dimensional Rift Marauders",
+    "alliance_name": "Rainbow Dash Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123932638,
+      "name": "The Sunlit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leon Renlard",
+  "corporation_id": 98770416,
+  "alliance_id": 99009698,
+  "corporation_name": "F1 Academy",
+  "alliance_name": "Worst Alliance Ever"
+}

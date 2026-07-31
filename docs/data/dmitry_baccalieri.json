@@ -1,0 +1,52 @@
+{
+  "character_id": 2123635039,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95068538,
+    "name": "Carlos Bandolier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451057,
+    "alliance_id": 99014193,
+    "corporation_name": "Fibonacci Futures",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122709133,
+      "name": "Ange Du Matin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91351253,
+      "name": "Dryss Dru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95507227,
+      "name": "Alan Shore Finney",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dmitry Baccalieri",
+  "corporation_id": 98728397,
+  "alliance_id": 99012722,
+  "corporation_name": "HIGH SEC MINING CORP",
+  "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
+}

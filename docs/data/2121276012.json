@@ -1,0 +1,52 @@
+{
+  "character_id": 2121276012,
+  "total_losses": 22,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90215243,
+    "name": "Glavior",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 90215243,
+      "name": "Glavior",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 90532693,
+      "name": "Glavior Trobre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2041681324,
+      "name": "Hurome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 461840821,
+      "name": "Ametyst",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Milarim",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

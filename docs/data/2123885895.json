@@ -1,0 +1,52 @@
+{
+  "character_id": 2123885895,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118847820,
+    "name": "Jakkalas",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 2118847820,
+      "name": "Jakkalas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 505304129,
+      "name": "Kosh997",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118722950,
+      "name": "Yamete Kudesai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120291333,
+      "name": "Yan Yanukovych",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bing bang Bung",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

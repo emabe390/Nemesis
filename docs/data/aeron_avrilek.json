@@ -1,0 +1,40 @@
+{
+  "character_id": 2123638131,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 573234689,
+    "name": "Miniko Iska",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 866918391,
+    "alliance_id": 99012604,
+    "corporation_name": "X-Zest Voyage",
+    "alliance_name": "X - Z E S T"
+  },
+  "top_killers": [
+    {
+      "id": 573234689,
+      "name": "Miniko Iska",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121300283,
+      "name": "SuperPala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aeron Avrilek",
+  "corporation_id": 98731271,
+  "alliance_id": null,
+  "corporation_name": "Locke Industrial",
+  "alliance_name": null
+}

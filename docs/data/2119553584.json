@@ -1,0 +1,40 @@
+{
+  "character_id": 2119553584,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91261421,
+    "name": "Jake Lerouche",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98714140,
+    "alliance_id": 99011952,
+    "corporation_name": "Fliet Pizza Delivery",
+    "alliance_name": "Of Essence"
+  },
+  "top_killers": [
+    {
+      "id": 91261421,
+      "name": "Jake Lerouche",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1007617072,
+      "name": "Benzmann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Augustini",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

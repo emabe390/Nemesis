@@ -1,0 +1,52 @@
+{
+  "character_id": 2123967102,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123734070,
+      "name": "Khathcaturian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93417319,
+      "name": "Dabragones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114980900,
+      "name": "Uncle Wired",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lee van Skywalker",
+  "corporation_id": 98688818,
+  "alliance_id": 1354830081,
+  "corporation_name": "Big Black Crows",
+  "alliance_name": "Goonswarm Federation"
+}

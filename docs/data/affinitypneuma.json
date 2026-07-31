@@ -1,0 +1,34 @@
+{
+  "character_id": 2117736364,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2051916136,
+    "name": "mellifera",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98077648,
+    "alliance_id": 99014878,
+    "corporation_name": "Island Assault Force",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2051916136,
+      "name": "mellifera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 670489426,
+      "name": "Switch 4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AffinityPneuma",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2117708090,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91807649,
+    "name": "Van Doe",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114629983,
+      "name": "Rastafakar Rastafari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114946899,
+      "name": "Alexander Asika",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Parima Kebar Bukandara",
+  "corporation_id": 98528107,
+  "alliance_id": 99005178,
+  "corporation_name": "Dire Wolfes",
+  "alliance_name": "Domain Research and Mining Inst."
+}

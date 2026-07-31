@@ -1,0 +1,52 @@
+{
+  "character_id": 91520536,
+  "total_losses": 49,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 94723015,
+    "name": "Ted Kopiev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817566,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cool Beans Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 94723015,
+      "name": "Ted Kopiev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1107965223,
+      "name": "Oppressor Nikostratus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1520395803,
+      "name": "Cpt Ares",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120286664,
+      "name": "Juni Jun'ko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120986192,
+      "name": "AKA Robert",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Elder Kestrel",
+  "corporation_id": 98530982,
+  "alliance_id": 99013551,
+  "corporation_name": "Solarmark",
+  "alliance_name": "Stellarium Alliance"
+}

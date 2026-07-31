@@ -1,0 +1,52 @@
+{
+  "character_id": 2115234010,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96164066,
+    "name": "Carlos Sokaras",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96164066,
+      "name": "Carlos Sokaras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 934231458,
+      "name": "K'att Sai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1067414996,
+      "name": "Poseidon Argus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122677311,
+      "name": "CATfromYorkshire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112545710,
+      "name": "Awesome Alt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Awren Sasen",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

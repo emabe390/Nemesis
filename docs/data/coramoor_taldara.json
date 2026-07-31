@@ -1,0 +1,34 @@
+{
+  "character_id": 2123617137,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93881590,
+    "name": "Alice P Liddell",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98217414,
+    "alliance_id": 99006941,
+    "corporation_name": "The Far East Starfleet Academy",
+    "alliance_name": "Siege Green."
+  },
+  "top_killers": [
+    {
+      "id": 93881590,
+      "name": "Alice P Liddell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Coramoor Taldara",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

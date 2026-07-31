@@ -1,0 +1,52 @@
+{
+  "character_id": 2123625588,
+  "total_losses": 43,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 94026258,
+    "name": "Filius Endo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94026258,
+      "name": "Filius Endo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1683080405,
+      "name": "Spacebar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114342174,
+      "name": "Nado Tsutola",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Jude Milhon",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

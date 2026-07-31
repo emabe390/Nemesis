@@ -1,0 +1,52 @@
+{
+  "character_id": 2115421623,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123908221,
+    "name": "Sallamander",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98837758,
+    "alliance_id": null,
+    "corporation_name": "KAIJU FRIENDLY",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123908221,
+      "name": "Sallamander",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90626630,
+      "name": "Eugene Kentasso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95529963,
+      "name": "Nyxmiuson VerssusAll",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Affinity MATRiX",
+  "corporation_id": 98606368,
+  "alliance_id": 99011559,
+  "corporation_name": "Affinity MATRiX Network",
+  "alliance_name": "Universal Workers Union"
+}

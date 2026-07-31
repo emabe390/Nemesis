@@ -1,0 +1,52 @@
+{
+  "character_id": 94471524,
+  "total_losses": 64,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 92769704,
+    "name": "Lex O'Malley",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98622069,
+    "alliance_id": null,
+    "corporation_name": "Deadly Alphas",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92769704,
+      "name": "Lex O'Malley",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 222844749,
+      "name": "Templar Dane",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90565732,
+      "name": "Rankka Ikkala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93600381,
+      "name": "Juvial Solstice",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96694814,
+      "name": "Coramyr Solstice",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Toxic Yaken",
+  "corporation_id": 98672155,
+  "alliance_id": 99010421,
+  "corporation_name": "Slavers Union",
+  "alliance_name": "Something Really Pretentious"
+}

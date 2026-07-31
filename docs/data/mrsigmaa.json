@@ -1,0 +1,52 @@
+{
+  "character_id": 2123753318,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1875101912,
+    "name": "Pewbly",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1875101912,
+      "name": "Pewbly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121311589,
+      "name": "RedDisco",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1726462155,
+      "name": "PzychooSonic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MrSigmaa",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

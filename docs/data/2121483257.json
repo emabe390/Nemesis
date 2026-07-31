@@ -1,0 +1,52 @@
+{
+  "character_id": 2121483257,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93872166,
+      "name": "s33k3r Atram",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95165505,
+      "name": "Karl Rudolf Horse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 593090701,
+      "name": "Inco Reeve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mersar eva",
+  "corporation_id": 98833645,
+  "alliance_id": null,
+  "corporation_name": "Crimson Shadows of War",
+  "alliance_name": null
+}

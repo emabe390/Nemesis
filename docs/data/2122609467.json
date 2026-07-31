@@ -1,0 +1,40 @@
+{
+  "character_id": 2122609467,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92031734,
+    "name": "Rus Kicks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98474987,
+    "alliance_id": 1727758877,
+    "corporation_name": "The Black Crow Bandits",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 92031734,
+      "name": "Rus Kicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123399027,
+      "name": "SoulEatter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122609444,
+      "name": "Iron Pillar I",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iron Pillar II",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123678107,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95068538,
+    "name": "Carlos Bandolier",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98451057,
+    "alliance_id": 99014193,
+    "corporation_name": "Fibonacci Futures",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1155497947,
+      "name": "Sirqeul Maltidar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ali Egy",
+  "corporation_id": 98719790,
+  "alliance_id": null,
+  "corporation_name": "Ruzth-Foleum LLC",
+  "alliance_name": null
+}

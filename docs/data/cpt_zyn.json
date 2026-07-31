@@ -1,0 +1,40 @@
+{
+  "character_id": 2123878017,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121065783,
+    "name": "PapaDios",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1588647992,
+    "alliance_id": 99010240,
+    "corporation_name": "Xoth Inc",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 2121065783,
+      "name": "PapaDios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 183949024,
+      "name": "Axes Illum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120153886,
+      "name": "Marc Kalouf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CPT Zyn",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122400056,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 189843339,
+    "name": "Kriegbokk",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 231649273,
+    "alliance_id": 99000852,
+    "corporation_name": "Ganja Labs",
+    "alliance_name": "Exodus."
+  },
+  "top_killers": [
+    {
+      "id": 189843339,
+      "name": "Kriegbokk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 528258379,
+      "name": "Vogels",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119733345,
+      "name": "BGDS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BGDS-Drone-Z",
+  "corporation_id": 98705642,
+  "alliance_id": 99014087,
+  "corporation_name": "Chuangshi College",
+  "alliance_name": "ChuangShi Federation"
+}

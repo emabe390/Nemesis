@@ -1,0 +1,52 @@
+{
+  "character_id": 2120833476,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 141577085,
+    "name": "Kytus Bos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98839494,
+    "alliance_id": null,
+    "corporation_name": "Catastrophic Impact",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 141577085,
+      "name": "Kytus Bos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 369534292,
+      "name": "Wrathraker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 840116351,
+      "name": "Kronos Solaris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1595654443,
+      "name": "Serratam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112553718,
+      "name": "Z311",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurj",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

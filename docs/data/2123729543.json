@@ -1,0 +1,34 @@
+{
+  "character_id": 2123729543,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116615893,
+    "name": "Goodwin Tritanium",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98811741,
+    "alliance_id": 99000580,
+    "corporation_name": "Hunky-Dory Inc.",
+    "alliance_name": "Ignore This."
+  },
+  "top_killers": [
+    {
+      "id": 2116615893,
+      "name": "Goodwin Tritanium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119164611,
+      "name": "Mephi Bomon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack DerWish",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

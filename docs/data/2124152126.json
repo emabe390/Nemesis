@@ -1,0 +1,40 @@
+{
+  "character_id": 2124152126,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94284018,
+    "name": "Valentyne Wiggin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 323998201,
+    "alliance_id": 1727758877,
+    "corporation_name": "Militaris Industries",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 94284018,
+      "name": "Valentyne Wiggin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124198424,
+      "name": "Ingedolf Egdald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123112901,
+      "name": "Tincysmacker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Johnny 3 Knees",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

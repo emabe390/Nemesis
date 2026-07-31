@@ -1,0 +1,52 @@
+{
+  "character_id": 2116854760,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2117332550,
+    "name": "degeva",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98127387,
+    "alliance_id": 1354830081,
+    "corporation_name": "Echelon Research",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117332550,
+      "name": "degeva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92571389,
+      "name": "Space Rigger Airjo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94474378,
+      "name": "Ion Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 304108113,
+      "name": "Mukun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 384537766,
+      "name": "Okapir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marneus Kalgari",
+  "corporation_id": 98515458,
+  "alliance_id": 99003581,
+  "corporation_name": "u.k militia forces",
+  "alliance_name": "Fraternity."
+}

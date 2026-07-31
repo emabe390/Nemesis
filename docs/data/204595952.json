@@ -1,0 +1,52 @@
+{
+  "character_id": 204595952,
+  "total_losses": 95,
+  "unique_killers": 85,
+  "nemesis": {
+    "id": 90148098,
+    "name": "BRIMTAK",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93214684,
+      "name": "Powny Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94436399,
+      "name": "Russian Kobra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "John Gato",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

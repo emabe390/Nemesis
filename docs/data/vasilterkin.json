@@ -1,0 +1,40 @@
+{
+  "character_id": 2122568297,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 487193151,
+    "name": "Character 487193151",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802230,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mad goofies and goonies",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 487193151,
+      "name": "Character 487193151",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1175533677,
+      "name": "high hitter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96387007,
+      "name": "Eli Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VasilTerkin",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

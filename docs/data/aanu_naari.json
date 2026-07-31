@@ -1,0 +1,40 @@
+{
+  "character_id": 2123653705,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1291547703,
+    "name": "Makaze Koufu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98755099,
+    "alliance_id": 99015022,
+    "corporation_name": "The Wandering Inn",
+    "alliance_name": "Black Ribbit"
+  },
+  "top_killers": [
+    {
+      "id": 1291547703,
+      "name": "Makaze Koufu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114017959,
+      "name": "Bin Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116143021,
+      "name": "Hsien SirOGate",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aanu Naari",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

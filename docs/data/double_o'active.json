@@ -1,0 +1,46 @@
+{
+  "character_id": 2123969597,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123844081,
+      "name": "Ronan Kade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122287163,
+      "name": "Alpha O'Active",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Double O'Active",
+  "corporation_id": 98822916,
+  "alliance_id": null,
+  "corporation_name": "Controlled Decay Industries",
+  "alliance_name": null
+}

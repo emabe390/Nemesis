@@ -1,0 +1,40 @@
+{
+  "character_id": 2123928032,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117774542,
+    "name": "Supa Kira",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740697,
+    "alliance_id": 99014676,
+    "corporation_name": "The Holy Church of the Barghest",
+    "alliance_name": "The Excommunicati"
+  },
+  "top_killers": [
+    {
+      "id": 2117774542,
+      "name": "Supa Kira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123928054,
+      "name": "Nuo-Z4",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123928058,
+      "name": "Nuo-Z5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nuo-Z1",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

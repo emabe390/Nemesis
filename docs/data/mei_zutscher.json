@@ -1,0 +1,40 @@
+{
+  "character_id": 2113463285,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 614411261,
+    "name": "Ivar Quicksand",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98720342,
+    "alliance_id": 99009845,
+    "corporation_name": "Kurupt.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 614411261,
+      "name": "Ivar Quicksand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118615208,
+      "name": "Makahaga Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118814274,
+      "name": "Aggressive Elk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mei Zutscher",
+  "corporation_id": 98747302,
+  "alliance_id": 99014614,
+  "corporation_name": "Goblin Goods Consortium",
+  "alliance_name": "InnerZone"
+}

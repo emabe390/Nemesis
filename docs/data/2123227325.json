@@ -1,0 +1,46 @@
+{
+  "character_id": 2123227325,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112878375,
+    "name": "minshaft Godfathers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797496,
+    "alliance_id": null,
+    "corporation_name": "Extrinsicones",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112878375,
+      "name": "minshaft Godfathers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120346524,
+      "name": "Omizto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120474268,
+      "name": "Xan Sav",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121594055,
+      "name": "Yarjonoisen Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "neboeve",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

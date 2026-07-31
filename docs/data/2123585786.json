@@ -1,0 +1,46 @@
+{
+  "character_id": 2123585786,
+  "total_losses": 14,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123241333,
+    "name": "KPLNG",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98769077,
+    "alliance_id": null,
+    "corporation_name": "Casual Casualties",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123241333,
+      "name": "KPLNG",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116517717,
+      "name": "Wolf Stormcaller",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sulo Noban",
+  "corporation_id": 98769077,
+  "alliance_id": null,
+  "corporation_name": "Casual Casualties",
+  "alliance_name": null
+}

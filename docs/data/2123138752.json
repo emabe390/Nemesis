@@ -1,0 +1,52 @@
+{
+  "character_id": 2123138752,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122977420,
+      "name": "Negativestatus II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95771165,
+      "name": "Arien Iluvitar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 409770668,
+      "name": "Sin Dekko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LORTELL",
+  "corporation_id": 98833420,
+  "alliance_id": 99010240,
+  "corporation_name": "Deep Cats",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

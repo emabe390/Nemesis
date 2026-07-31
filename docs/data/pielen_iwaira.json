@@ -1,0 +1,52 @@
+{
+  "character_id": 2124123853,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929103832,
+      "name": "YangSham Po",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90446205,
+      "name": "Lala Deviluke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pielen Iwaira",
+  "corporation_id": 98008983,
+  "alliance_id": null,
+  "corporation_name": "space muppets inc.",
+  "alliance_name": null
+}

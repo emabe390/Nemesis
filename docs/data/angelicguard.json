@@ -1,0 +1,40 @@
+{
+  "character_id": 92114853,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 507459428,
+    "name": "Pippan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98427793,
+    "alliance_id": null,
+    "corporation_name": "MongStars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 507459428,
+      "name": "Pippan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115852767,
+      "name": "NotAlvin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118366539,
+      "name": "Lok'tar Ogarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AngelicGuard",
+  "corporation_id": 744976238,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mine 'N' Refine",
+  "alliance_name": "Goonswarm Federation"
+}

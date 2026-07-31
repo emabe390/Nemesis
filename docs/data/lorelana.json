@@ -1,0 +1,40 @@
+{
+  "character_id": 1145506320,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92245397,
+    "name": "Hroki Saken",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98637264,
+    "alliance_id": 99011223,
+    "corporation_name": "Sensible People",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115951486,
+      "name": "Ninjia Chaos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121705499,
+      "name": "Sistais",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lorelana",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

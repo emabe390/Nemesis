@@ -1,0 +1,52 @@
+{
+  "character_id": 2123790206,
+  "total_losses": 40,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2121986378,
+    "name": "Samus Aran Zero",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98828424,
+    "alliance_id": null,
+    "corporation_name": "Weyland-Yutani Corp B.B.W.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123204379,
+      "name": "Sarah Kerrigan Louise",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123753003,
+      "name": "Jessica Atreides Dama",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95127444,
+      "name": "APhyzX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96308510,
+      "name": "Wayne Tsuru",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Equinox Balnora",
+  "corporation_id": 98620000,
+  "alliance_id": 99010077,
+  "corporation_name": "Veretasium",
+  "alliance_name": "Wielders"
+}

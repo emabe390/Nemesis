@@ -1,0 +1,52 @@
+{
+  "character_id": 2123846745,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94311192,
+    "name": "Pensive Olerie",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98817566,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cool Beans Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 94311192,
+      "name": "Pensive Olerie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1471263372,
+      "name": "Charles Marsailles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1635410527,
+      "name": "Yasmine Yuhn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114566051,
+      "name": "Poseidon Nepune",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116150785,
+      "name": "Kanaad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nofax Null",
+  "corporation_id": 98785295,
+  "alliance_id": 99013541,
+  "corporation_name": "Shen Nong Industry",
+  "alliance_name": "Fraternity Auxiliary"
+}

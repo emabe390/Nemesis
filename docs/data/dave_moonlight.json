@@ -1,0 +1,40 @@
+{
+  "character_id": 2122801971,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94085313,
+    "name": "Bryan Tinker",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1081304772,
+    "alliance_id": 99014375,
+    "corporation_name": "Deep Axion",
+    "alliance_name": "The Frog Boiler"
+  },
+  "top_killers": [
+    {
+      "id": 94085313,
+      "name": "Bryan Tinker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116886824,
+      "name": "Aaron Roos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123625603,
+      "name": "HeartOfEnmity",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dave Moonlight",
+  "corporation_id": 98783651,
+  "alliance_id": 99013951,
+  "corporation_name": "Moonlight Enjoyers",
+  "alliance_name": "Moonlight Republic"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115547804,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 362606210,
+    "name": "Aven'sis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380701,
+    "alliance_id": 99014826,
+    "corporation_name": "invalid",
+    "alliance_name": "Pirate Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 362606210,
+      "name": "Aven'sis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121800160,
+      "name": "Beliala Succura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112133747,
+      "name": "Alooker YAG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116985513,
+      "name": "Fox 2A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2115547804",
+  "corporation_id": 98735707,
+  "alliance_id": 99014427,
+  "corporation_name": "Rockwall Mining Industries Inc.",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

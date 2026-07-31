@@ -1,0 +1,40 @@
+{
+  "character_id": 861245607,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90025132,
+    "name": "RUSTank",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98646832,
+    "alliance_id": 99010457,
+    "corporation_name": "TC Corbina",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90025132,
+      "name": "RUSTank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1797450243,
+      "name": "ChangKaiShi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112885914,
+      "name": "Foxy Moxy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zu Snowflake",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

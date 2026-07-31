@@ -1,0 +1,52 @@
+{
+  "character_id": 723552212,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95543843,
+    "name": "Pallas Atheene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98392179,
+    "alliance_id": 99012641,
+    "corporation_name": "Weald Infinitum",
+    "alliance_name": "Weald Infinitum Geimnum"
+  },
+  "top_killers": [
+    {
+      "id": 95543843,
+      "name": "Pallas Atheene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96891626,
+      "name": "Jksah Windwalker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90750898,
+      "name": "Calrien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93324090,
+      "name": "Kijn Kalad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95699764,
+      "name": "Richtarg Dovineer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lodter",
+  "corporation_id": 98353064,
+  "alliance_id": null,
+  "corporation_name": "Intergalactic Association of Scientific Research",
+  "alliance_name": null
+}

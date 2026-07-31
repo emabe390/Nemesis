@@ -1,0 +1,46 @@
+{
+  "character_id": 809831224,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115742713,
+    "name": "Tsung Mordan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740247,
+    "alliance_id": 99013516,
+    "corporation_name": "Aventure Chasse Peche",
+    "alliance_name": "Mercenaires Sans Frontieres."
+  },
+  "top_killers": [
+    {
+      "id": 2115742713,
+      "name": "Tsung Mordan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95502210,
+      "name": "Ozymandias Sparious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113191623,
+      "name": "Sorry I'm Deaf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123233658,
+      "name": "Agent Karthus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Michael Benavitch",
+  "corporation_id": 98119200,
+  "alliance_id": 99009412,
+  "corporation_name": "can't do that while warping",
+  "alliance_name": "Outer Planets Association"
+}

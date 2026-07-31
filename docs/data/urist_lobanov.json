@@ -1,0 +1,52 @@
+{
+  "character_id": 2123921133,
+  "total_losses": 40,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 95140689,
+    "name": "Sofi Omertao",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98695361,
+    "alliance_id": null,
+    "corporation_name": "Omertao EXORT",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95140689,
+      "name": "Sofi Omertao",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123872882,
+      "name": "Ganz Novi",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95007831,
+      "name": "Tyran Crow",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93284207,
+      "name": "Cen Illa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96482802,
+      "name": "Tatsu Hattori",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Urist Lobanov",
+  "corporation_id": 98764580,
+  "alliance_id": 99014696,
+  "corporation_name": "Strong Medicine",
+  "alliance_name": "Hullbreakers"
+}

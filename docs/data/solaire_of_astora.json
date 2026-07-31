@@ -1,0 +1,46 @@
+{
+  "character_id": 2117899113,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120236200,
+    "name": "Drunk Bull",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98161982,
+    "alliance_id": null,
+    "corporation_name": "Bulls Fury",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120236200,
+      "name": "Drunk Bull",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90028515,
+      "name": "ShadeStryker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92968955,
+      "name": "Robyn lynx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123499512,
+      "name": "The Snope",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Solaire of Astora",
+  "corporation_id": 2014367342,
+  "alliance_id": 99005338,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2117357501,
+  "total_losses": 24,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2122616508,
+    "name": "Siobhan Dunmore",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98528707,
+    "alliance_id": null,
+    "corporation_name": "Independent Pilots Association",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122616508,
+      "name": "Siobhan Dunmore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95839486,
+      "name": "Alexander Lai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96118377,
+      "name": "Scribe Asimov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96578902,
+      "name": "Alastar Ponayobi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RadSuperDad",
+  "corporation_id": 98785283,
+  "alliance_id": 99014823,
+  "corporation_name": "Starfleet Sector 31",
+  "alliance_name": "Hole Tanked"
+}

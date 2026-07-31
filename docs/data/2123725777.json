@@ -1,0 +1,52 @@
+{
+  "character_id": 2123725777,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96071269,
+    "name": "Jacques Perl",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752767,
+    "alliance_id": null,
+    "corporation_name": "Modules on Fire",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96071269,
+      "name": "Jacques Perl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92122835,
+      "name": "chaika chaika",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92470881,
+      "name": "MT Sha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96207223,
+      "name": "windows star",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96614471,
+      "name": "Afranius Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kraakaeve",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

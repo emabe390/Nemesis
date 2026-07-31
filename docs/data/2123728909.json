@@ -1,0 +1,40 @@
+{
+  "character_id": 2123728909,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121062076,
+    "name": "Prisoner's Chain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 672826810,
+      "name": "Pallustris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2066701073,
+      "name": "Maevert",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gatlolle Orti",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

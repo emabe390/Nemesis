@@ -1,0 +1,40 @@
+{
+  "character_id": 2123791861,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117647757,
+    "name": "Sickduck Forisk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98549595,
+    "alliance_id": 386292982,
+    "corporation_name": "Squid Inc.",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2117647757,
+      "name": "Sickduck Forisk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95469737,
+      "name": "Caldari Citizen 95469737",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113621482,
+      "name": "Caldari Citizen 2113621482",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123791861",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122136162,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2123095230,
+      "name": "Doctor Chen1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122175881,
+      "name": "Nuclear fusion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "tianshangrenjian0",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

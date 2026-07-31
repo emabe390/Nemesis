@@ -1,0 +1,34 @@
+{
+  "character_id": 2123551002,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94019721,
+    "name": "Black Anette",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98764498,
+    "alliance_id": 99013685,
+    "corporation_name": "Black Revenge.",
+    "alliance_name": "Just Revenge"
+  },
+  "top_killers": [
+    {
+      "id": 94019721,
+      "name": "Black Anette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96128422,
+      "name": "Sigrid Freud",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dran Zateki",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

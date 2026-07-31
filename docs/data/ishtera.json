@@ -1,0 +1,52 @@
+{
+  "character_id": 2121733211,
+  "total_losses": 19,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90433398,
+      "name": "zimbody Arody",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90513143,
+      "name": "Aelli Manifest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96812268,
+      "name": "TheCowBell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96872063,
+      "name": "Sergei Skazzor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishtera",
+  "corporation_id": 98609309,
+  "alliance_id": 99005338,
+  "corporation_name": "Arctic Guard",
+  "alliance_name": "Pandemic Horde"
+}

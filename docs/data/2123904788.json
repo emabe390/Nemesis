@@ -1,0 +1,46 @@
+{
+  "character_id": 2123904788,
+  "total_losses": 12,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123669688,
+    "name": "Kain Ireul",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98406814,
+    "alliance_id": 99012398,
+    "corporation_name": "Victory or Whatever",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 2123669688,
+      "name": "Kain Ireul",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1045499371,
+      "name": "RGC Godfather",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116837489,
+      "name": "Kamderson24 Sanders",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brodude Rex",
+  "corporation_id": 98833496,
+  "alliance_id": null,
+  "corporation_name": "The Brocean",
+  "alliance_name": null
+}

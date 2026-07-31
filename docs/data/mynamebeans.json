@@ -1,0 +1,52 @@
+{
+  "character_id": 2122342893,
+  "total_losses": 14,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91005892,
+      "name": "Save Africa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96829268,
+      "name": "Dankguy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MyNameBeans",
+  "corporation_id": 98743227,
+  "alliance_id": 99013548,
+  "corporation_name": "Enigma Expanse",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

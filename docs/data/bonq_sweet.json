@@ -1,0 +1,52 @@
+{
+  "character_id": 2123457423,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 96627818,
+    "name": "Jumjum",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98470238,
+    "alliance_id": null,
+    "corporation_name": "Soaring Eagles",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96627818,
+      "name": "Jumjum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117907675,
+      "name": "bonq",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96081790,
+      "name": "Irina Vahalla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112628088,
+      "name": "Jeppezon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115762466,
+      "name": "Jommy Vlearon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "bonq sweet",
+  "corporation_id": 98634540,
+  "alliance_id": 99013506,
+  "corporation_name": "FishDicks",
+  "alliance_name": "The High Chair"
+}

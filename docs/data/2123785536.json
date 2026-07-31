@@ -1,0 +1,40 @@
+{
+  "character_id": 2123785536,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91437624,
+    "name": "Laiza Ekanon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91437624,
+      "name": "Laiza Ekanon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 440776503,
+      "name": "Eugene Spencer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118985294,
+      "name": "Timmy Chan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ariman's ECM burst",
+  "corporation_id": 98763323,
+  "alliance_id": null,
+  "corporation_name": "XOR OR NAND",
+  "alliance_name": null
+}

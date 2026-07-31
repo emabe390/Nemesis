@@ -1,0 +1,40 @@
+{
+  "character_id": 2112345001,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92948959,
+    "name": "Anyang Haseo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98588687,
+    "alliance_id": null,
+    "corporation_name": "Vapor Sea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92948959,
+      "name": "Anyang Haseo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120826697,
+      "name": "Hitsen Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123824846,
+      "name": "HAJIMI MANBO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fernando Balaguer",
+  "corporation_id": 98481194,
+  "alliance_id": null,
+  "corporation_name": "Escuadra Salamandra",
+  "alliance_name": null
+}

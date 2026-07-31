@@ -1,0 +1,40 @@
+{
+  "character_id": 2124358597,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119352858,
+    "name": "Sirko Xors",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2119352858,
+      "name": "Sirko Xors",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95331708,
+      "name": "Legion Masser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124276334,
+      "name": "Somebody Named Zed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capt Trip",
+  "corporation_id": 98837366,
+  "alliance_id": null,
+  "corporation_name": "Trip Inc",
+  "alliance_name": null
+}

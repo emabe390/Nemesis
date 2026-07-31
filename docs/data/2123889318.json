@@ -1,0 +1,34 @@
+{
+  "character_id": 2123889318,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 350182592,
+    "name": "Zu Tsang",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98592854,
+    "alliance_id": 495729389,
+    "corporation_name": "Mea Culpa.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112976081,
+      "name": "Malavai Loxx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bulle Charante",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

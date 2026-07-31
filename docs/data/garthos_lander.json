@@ -1,0 +1,52 @@
+{
+  "character_id": 2123683049,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120773661,
+    "name": "Yllon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702000,
+    "alliance_id": 99003581,
+    "corporation_name": "Snow Moon City",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120773661,
+      "name": "Yllon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91483276,
+      "name": "Kais Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115729463,
+      "name": "Holo Kavees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116632870,
+      "name": "ballsack brinkrns",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116690528,
+      "name": "CNMoon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Garthos Lander",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

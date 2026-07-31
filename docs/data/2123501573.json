@@ -1,0 +1,52 @@
+{
+  "character_id": 2123501573,
+  "total_losses": 14,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 946904845,
+      "name": "TylerDerden",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 108005473,
+      "name": "Azaseel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96824853,
+      "name": "Adler BC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 404346796,
+      "name": "Cat T",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sophia Milleghere",
+  "corporation_id": 1860753927,
+  "alliance_id": 1644918530,
+  "corporation_name": "Minmatar Death Squad",
+  "alliance_name": "Broken Chains Alliance"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2114775160,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 2114701988,
+      "name": "E delusion1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93903182,
+      "name": "anton68 Meza",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94641498,
+      "name": "Salza Alfrir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96084763,
+      "name": "Tegors",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "E delusion2",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

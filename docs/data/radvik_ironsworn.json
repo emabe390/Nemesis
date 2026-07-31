@@ -1,0 +1,40 @@
+{
+  "character_id": 2124487417,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96770277,
+    "name": "Naama Kai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 849473841,
+    "alliance_id": 99005724,
+    "corporation_name": "Beach Boys",
+    "alliance_name": "The Minions."
+  },
+  "top_killers": [
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 496402587,
+      "name": "Mortal Soul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91957394,
+      "name": "Nahla Rhone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Radvik Ironsworn",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

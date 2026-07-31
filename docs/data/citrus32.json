@@ -1,0 +1,46 @@
+{
+  "character_id": 2113355433,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93655435,
+    "name": "Tychus Black",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93655435,
+      "name": "Tychus Black",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 469631441,
+      "name": "Zhing Xhao",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929103832,
+      "name": "YangSham Po",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "citrus32",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

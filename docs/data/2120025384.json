@@ -1,0 +1,52 @@
+{
+  "character_id": 2120025384,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112393255,
+    "name": "Konnen Jung",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93078212,
+      "name": "Slay'n OnTheReg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94936738,
+      "name": "Docteur Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1746739282,
+      "name": "Kertog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jarlaxee",
+  "corporation_id": 98722911,
+  "alliance_id": 99003214,
+  "corporation_name": "We Build It You Break It",
+  "alliance_name": "Brave Collective"
+}

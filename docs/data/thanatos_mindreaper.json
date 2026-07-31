@@ -1,0 +1,52 @@
+{
+  "character_id": 2123809428,
+  "total_losses": 21,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123384241,
+    "name": "Katsen Motsu",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98814232,
+    "alliance_id": null,
+    "corporation_name": "INNOVEX",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123384241,
+      "name": "Katsen Motsu",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 93468510,
+      "name": "Alex DeWalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93742056,
+      "name": "Sammy Street",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118176049,
+      "name": "Barreiro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thanatos Mindreaper",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

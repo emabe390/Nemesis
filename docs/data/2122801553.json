@@ -1,0 +1,52 @@
+{
+  "character_id": 2122801553,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90086332,
+    "name": "Tony Patterson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98315934,
+    "alliance_id": 99014936,
+    "corporation_name": "Stuff and Junk Enterprises",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 90086332,
+      "name": "Tony Patterson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96131968,
+      "name": "Alexander Dare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96175453,
+      "name": "Bill Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1830007514,
+      "name": "Cristalo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119791317,
+      "name": "wacky boi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StarRock",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

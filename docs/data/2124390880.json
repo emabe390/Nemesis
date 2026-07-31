@@ -1,0 +1,40 @@
+{
+  "character_id": 2124390880,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 685043717,
+    "name": "mena naia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1598001904,
+    "alliance_id": 99008412,
+    "corporation_name": "The Edge of Reason",
+    "alliance_name": "Lost and Clowned"
+  },
+  "top_killers": [
+    {
+      "id": 685043717,
+      "name": "mena naia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1263652441,
+      "name": "Andy bobo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117161570,
+      "name": "Pahdemin Nebail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ghost Artorias",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

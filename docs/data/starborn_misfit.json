@@ -1,0 +1,46 @@
+{
+  "character_id": 2116980929,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94756387,
+    "name": "Planet Kiler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98252033,
+    "alliance_id": 99004344,
+    "corporation_name": "Vision Inc",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 94756387,
+      "name": "Planet Kiler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1074484572,
+      "name": "Sonic Mulder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120785925,
+      "name": "Olympe de G",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Starborn Misfit",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

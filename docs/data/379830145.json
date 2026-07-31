@@ -1,0 +1,52 @@
+{
+  "character_id": 379830145,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 239783732,
+    "name": "Fedor E",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 495392624,
+    "alliance_id": 1900696668,
+    "corporation_name": "GeoCorp.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 239783732,
+      "name": "Fedor E",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121849577,
+      "name": "Zver Razruchitel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123255343,
+      "name": "Blood Raider Goomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90987367,
+      "name": "Character 90987367",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95367944,
+      "name": "Lokey Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AmidaIa",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

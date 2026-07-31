@@ -1,0 +1,52 @@
+{
+  "character_id": 2123481338,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1442204034,
+    "name": "Rage Zeal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 183360667,
+    "alliance_id": 99012936,
+    "corporation_name": "Warlord Supply Inc",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1442204034,
+      "name": "Rage Zeal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 916525712,
+      "name": "Wolfic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121187538,
+      "name": "Gorka Morkovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123180842,
+      "name": "Cago 1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maul Sandy",
+  "corporation_id": 903623845,
+  "alliance_id": 99010265,
+  "corporation_name": "Black Sea Industries",
+  "alliance_name": "Blue Loot Not Included"
+}

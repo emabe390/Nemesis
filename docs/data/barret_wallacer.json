@@ -1,0 +1,52 @@
+{
+  "character_id": 2123970163,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123945363,
+    "name": "Feynar",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98748599,
+    "alliance_id": 99012843,
+    "corporation_name": "Kenshin Industries.",
+    "alliance_name": "Kenshin Shogunate."
+  },
+  "top_killers": [
+    {
+      "id": 2123945363,
+      "name": "Feynar",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 96185392,
+      "name": "Emma Moi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96885210,
+      "name": "Cucumber ares",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 853766296,
+      "name": "Aronad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Barret Wallacer",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

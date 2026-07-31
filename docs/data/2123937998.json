@@ -1,0 +1,46 @@
+{
+  "character_id": 2123937998,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1963425214,
+    "name": "Khaishi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1788167938,
+    "alliance_id": null,
+    "corporation_name": "Red Bombers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1963425214,
+      "name": "Khaishi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114686815,
+      "name": "Flara Pediati",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115491456,
+      "name": "Tyranatator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116192252,
+      "name": "Kaargriyn",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Saral Sertan",
+  "corporation_id": 98749510,
+  "alliance_id": 99014415,
+  "corporation_name": "Embellishment",
+  "alliance_name": "Iron Rose."
+}

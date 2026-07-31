@@ -1,0 +1,40 @@
+{
+  "character_id": 2123905125,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114971784,
+    "name": "Logistics Offer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825114,
+    "alliance_id": 99014657,
+    "corporation_name": "Euphoria.",
+    "alliance_name": "Ranger Regiment"
+  },
+  "top_killers": [
+    {
+      "id": 2114971784,
+      "name": "Logistics Offer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121463583,
+      "name": "Marcus Atriedes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123519494,
+      "name": "Ekeyy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marshallmellow",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2118476966,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 93819841,
+    "name": "Kito Hareka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98550309,
+    "alliance_id": 1220922756,
+    "corporation_name": "Phoenix Tag.",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93819841,
+      "name": "Kito Hareka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122123518,
+      "name": "LUIDEAM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90253386,
+      "name": "Lars Fjell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93120503,
+      "name": "Gaebril Drakos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118302091,
+      "name": "General Boags",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boba Boags",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

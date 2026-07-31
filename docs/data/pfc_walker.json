@@ -1,0 +1,52 @@
+{
+  "character_id": 2123718278,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2117504100,
+    "name": "William Friedman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98719882,
+    "alliance_id": null,
+    "corporation_name": "Saint Michael's Army",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123194984,
+      "name": "SpeEdRu1ner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124026714,
+      "name": "Iromi Uisen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90788407,
+      "name": "Funkey Cesaille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91522825,
+      "name": "Byrbeglin Alcantar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PFC walker",
+  "corporation_id": 98742307,
+  "alliance_id": null,
+  "corporation_name": "Quantshure",
+  "alliance_name": null
+}

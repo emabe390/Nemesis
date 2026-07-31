@@ -1,0 +1,52 @@
+{
+  "character_id": 2123678616,
+  "total_losses": 18,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121986378,
+    "name": "Samus Aran Zero",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98828424,
+    "alliance_id": null,
+    "corporation_name": "Weyland-Yutani Corp B.B.W.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121918991,
+      "name": "S0dET",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123204379,
+      "name": "Sarah Kerrigan Louise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123753003,
+      "name": "Jessica Atreides Dama",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Enemy AI",
+  "corporation_id": 98802626,
+  "alliance_id": null,
+  "corporation_name": "Vat-grown people",
+  "alliance_name": null
+}

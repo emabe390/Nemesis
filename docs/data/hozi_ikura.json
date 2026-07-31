@@ -1,0 +1,40 @@
+{
+  "character_id": 2123889449,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121231095,
+    "name": "NCCIntrepid2",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750082,
+    "alliance_id": 99009163,
+    "corporation_name": "NOT HALF BAD",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2121231095,
+      "name": "NCCIntrepid2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121353014,
+      "name": "Hsleep",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121581732,
+      "name": "AUG U",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hozi Ikura",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

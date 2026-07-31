@@ -1,0 +1,40 @@
+{
+  "character_id": 2123393855,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91163213,
+    "name": "Ikko Ikki",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91163213,
+      "name": "Ikko Ikki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118457030,
+      "name": "Generalissimus Obvious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astra Blazer",
+  "corporation_id": 98806624,
+  "alliance_id": null,
+  "corporation_name": "Union Pay",
+  "alliance_name": null
+}

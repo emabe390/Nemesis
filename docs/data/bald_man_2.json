@@ -1,0 +1,40 @@
+{
+  "character_id": 2124111295,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116525110,
+    "name": "Gavin Hilanen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646080,
+    "alliance_id": 927292903,
+    "corporation_name": "The Gavinomium",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 2116525110,
+      "name": "Gavin Hilanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92315936,
+      "name": "meka park",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120566722,
+      "name": "Sohyeon Kim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bald Man 2",
+  "corporation_id": 98807790,
+  "alliance_id": 99014213,
+  "corporation_name": "CAT ADMIN",
+  "alliance_name": "Super Miao"
+}

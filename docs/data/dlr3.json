@@ -1,0 +1,40 @@
+{
+  "character_id": 2122493304,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 199939677,
+    "name": "Amarrian Tibor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 199939677,
+      "name": "Amarrian Tibor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93331740,
+      "name": "Vincious Awesome",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112794491,
+      "name": "Andrew Zadunaiskiy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DLR3",
+  "corporation_id": 98824611,
+  "alliance_id": 99014735,
+  "corporation_name": "Narrow Exit",
+  "alliance_name": "Psyno Theory"
+}

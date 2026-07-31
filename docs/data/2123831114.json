@@ -1,0 +1,40 @@
+{
+  "character_id": 2123831114,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92770445,
+    "name": "Boo Hill",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1860753927,
+    "alliance_id": 1644918530,
+    "corporation_name": "Minmatar Death Squad",
+    "alliance_name": "Broken Chains Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92770445,
+      "name": "Boo Hill",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116105023,
+      "name": "Drithi Moonshae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114651953,
+      "name": "Naokat Haginen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MumiSama",
+  "corporation_id": 98798732,
+  "alliance_id": 99014405,
+  "corporation_name": "Corporacion Minera Universal",
+  "alliance_name": "Zalvarians Alliance"
+}

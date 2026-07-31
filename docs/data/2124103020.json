@@ -1,0 +1,40 @@
+{
+  "character_id": 2124103020,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92081427,
+    "name": "Vesna Sinulf",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98781795,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Unlimited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92081427,
+      "name": "Vesna Sinulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122618802,
+      "name": "Karhinala Hakoke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122692404,
+      "name": "Haduken Hakiri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blark Blorga",
+  "corporation_id": 98127387,
+  "alliance_id": 1354830081,
+  "corporation_name": "Echelon Research",
+  "alliance_name": "Goonswarm Federation"
+}

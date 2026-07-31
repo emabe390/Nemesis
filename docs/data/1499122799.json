@@ -1,0 +1,52 @@
+{
+  "character_id": 1499122799,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1088333998,
+    "name": "Fat Zero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92802845,
+      "name": "Rulchik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94508138,
+      "name": "RTabb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Horatio Rasloph",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

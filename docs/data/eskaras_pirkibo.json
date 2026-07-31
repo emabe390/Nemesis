@@ -1,0 +1,40 @@
+{
+  "character_id": 2124391191,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121825256,
+    "name": "urns",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98343297,
+    "alliance_id": 99004901,
+    "corporation_name": "Lowlife.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2121825256,
+      "name": "urns",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 938041033,
+      "name": "FOEHAMMER006",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93745147,
+      "name": "Rist Ozuwara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eskaras Pirkibo",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

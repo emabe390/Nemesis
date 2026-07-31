@@ -1,0 +1,40 @@
+{
+  "character_id": 2123995242,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117539216,
+      "name": "Archynas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122008899,
+      "name": "Edmond Dantes X",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vesper Madeveda",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

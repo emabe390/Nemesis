@@ -1,0 +1,40 @@
+{
+  "character_id": 2124257945,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123655044,
+    "name": "Mali Pas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123655044,
+      "name": "Mali Pas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94820781,
+      "name": "Redboxed Jump",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1879054186,
+      "name": "Jinggels",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124257945",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

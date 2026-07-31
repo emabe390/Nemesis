@@ -1,0 +1,52 @@
+{
+  "character_id": 2123437278,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 152291184,
+    "name": "SUICIDAL Larsen",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98704863,
+    "alliance_id": null,
+    "corporation_name": "Pinky and the Brain.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 152291184,
+      "name": "SUICIDAL Larsen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119855335,
+      "name": "EsBro1001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121753503,
+      "name": "Juriai Hekki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117188539,
+      "name": "Aeroqp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123371806,
+      "name": "qwerty-asdf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Von Virus",
+  "corporation_id": 98656140,
+  "alliance_id": 99011281,
+  "corporation_name": "Caldari Fire Demons University",
+  "alliance_name": "Naval Defence Institute"
+}

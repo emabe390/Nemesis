@@ -1,0 +1,52 @@
+{
+  "character_id": 2123089854,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94439808,
+    "name": "Alex Rosem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98374993,
+    "alliance_id": null,
+    "corporation_name": "New Eden Postal Service",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94439808,
+      "name": "Alex Rosem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112545710,
+      "name": "Awesome Alt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95561705,
+      "name": "Leviathan Geten",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 999787551,
+      "name": "Howard Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2017931313,
+      "name": "Harks",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VlaD D Miner",
+  "corporation_id": 98796684,
+  "alliance_id": null,
+  "corporation_name": "Ze Ro Corporation",
+  "alliance_name": null
+}

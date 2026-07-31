@@ -1,0 +1,46 @@
+{
+  "character_id": 91746265,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 156345365,
+    "name": "Gunni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 156345365,
+      "name": "Gunni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95004823,
+      "name": "Rahkesh Harshmallows",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123299029,
+      "name": "Huger-A3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123299031,
+      "name": "Huger-A4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nataro Pellion",
+  "corporation_id": 98709958,
+  "alliance_id": 99003995,
+  "corporation_name": "Abyssus Abyssum Invocat Noricum",
+  "alliance_name": "Invidia Gloriae Comes"
+}

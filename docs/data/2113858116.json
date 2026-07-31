@@ -1,0 +1,34 @@
+{
+  "character_id": 2113858116,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1799221429,
+    "name": "Scorpians",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1552312459,
+    "alliance_id": 99007887,
+    "corporation_name": "Star Frontiers",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 1799221429,
+      "name": "Scorpians",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 310829006,
+      "name": "Luster Soldier",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lucas Paramon",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

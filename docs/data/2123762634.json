@@ -1,0 +1,52 @@
+{
+  "character_id": 2123762634,
+  "total_losses": 22,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123323191,
+    "name": "Shifty McSwiggins",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123323191,
+      "name": "Shifty McSwiggins",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122959823,
+      "name": "Ellis Ofsol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90277315,
+      "name": "Alistar Ubereem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97167912,
+      "name": "Martin Nikita",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Quartermaster Ofsol",
+  "corporation_id": 98830069,
+  "alliance_id": 99014931,
+  "corporation_name": "Homefront Collective",
+  "alliance_name": "Alien Spy Stuff Syndicate"
+}

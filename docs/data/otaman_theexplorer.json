@@ -1,0 +1,52 @@
+{
+  "character_id": 2123544737,
+  "total_losses": 75,
+  "unique_killers": 55,
+  "nemesis": {
+    "id": 2113084248,
+    "name": "Core Paradox",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98651052,
+    "alliance_id": 99010386,
+    "corporation_name": "Absolute Order XX",
+    "alliance_name": "Absolute Honor"
+  },
+  "top_killers": [
+    {
+      "id": 2113084248,
+      "name": "Core Paradox",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 91473923,
+      "name": "SILVER METALL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94753998,
+      "name": "Lie Group",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94848671,
+      "name": "Valentino Flex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Otaman TheExplorer",
+  "corporation_id": 98771219,
+  "alliance_id": null,
+  "corporation_name": "Vyriy Scout Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123921955,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1332844963,
+    "name": "Ebuchuu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 1332844963,
+      "name": "Ebuchuu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123855596,
+      "name": "Nil Nevik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118020477,
+      "name": "Rag1ng Goblin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bersy Stein",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

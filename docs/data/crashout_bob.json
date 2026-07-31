@@ -1,0 +1,52 @@
+{
+  "character_id": 2124366327,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123600830,
+    "name": "Silent Alaska",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91453547,
+      "name": "Vas Spiegel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94540873,
+      "name": "Inonization Metal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94753998,
+      "name": "Lie Group",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96733072,
+      "name": "Garadox Gaterau",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crashout Bob",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

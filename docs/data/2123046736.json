@@ -1,0 +1,52 @@
+{
+  "character_id": 2123046736,
+  "total_losses": 24,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123995462,
+    "name": "Apple Silicon",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98769610,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cosmic-Wanderers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123995462,
+      "name": "Apple Silicon",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 91643183,
+      "name": "Richmoon Aubaris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94770054,
+      "name": "Slain LifeDice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 380072504,
+      "name": "Gensolo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1571621975,
+      "name": "Sstalinn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sodium Phenoxide",
+  "corporation_id": 98769610,
+  "alliance_id": 1900696668,
+  "corporation_name": "Cosmic-Wanderers",
+  "alliance_name": "The Initiative."
+}

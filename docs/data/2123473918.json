@@ -1,0 +1,46 @@
+{
+  "character_id": 2123473918,
+  "total_losses": 13,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122159916,
+    "name": "Character 2122159916",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2122159916,
+      "name": "Character 2122159916",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123493360,
+      "name": "Jaxx Herd",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123829326,
+      "name": "sspech",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 536094105,
+      "name": "Haramii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucius Crevan",
+  "corporation_id": 98831178,
+  "alliance_id": null,
+  "corporation_name": "Crevan Heavy Industries",
+  "alliance_name": null
+}

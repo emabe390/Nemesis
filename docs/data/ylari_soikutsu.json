@@ -1,0 +1,52 @@
+{
+  "character_id": 2121338957,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 91807649,
+    "name": "Van Doe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 322123027,
+      "name": "Makatozi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ylari Soikutsu",
+  "corporation_id": 98743337,
+  "alliance_id": 99012862,
+  "corporation_name": "Mining Under the Influence",
+  "alliance_name": "Influential Operations"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123581650,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123767474,
+    "name": "Reikeri Katelo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98377551,
+    "alliance_id": 99004013,
+    "corporation_name": "Out of Focus",
+    "alliance_name": "Odin's Call"
+  },
+  "top_killers": [
+    {
+      "id": 2123767474,
+      "name": "Reikeri Katelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90531291,
+      "name": "Reys Bayron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91357604,
+      "name": "Murs Melkan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93528076,
+      "name": "Andrey Jell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nemfy 004",
+  "corporation_id": 1490148392,
+  "alliance_id": null,
+  "corporation_name": "Dominion Foundation",
+  "alliance_name": null
+}

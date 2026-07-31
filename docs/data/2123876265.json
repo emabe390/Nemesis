@@ -1,0 +1,52 @@
+{
+  "character_id": 2123876265,
+  "total_losses": 40,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2123603245,
+    "name": "Thrunic",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123603245,
+      "name": "Thrunic",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90204495,
+      "name": "PlutoniuM86",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95244839,
+      "name": "Z3l1 Dark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 495495070,
+      "name": "Rregula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532513629,
+      "name": "Nexium2",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MW20",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123359339,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 988041720,
+    "name": "Mortuus Angelus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98096929,
+    "alliance_id": 99014101,
+    "corporation_name": "Reckless Entity Enterprises",
+    "alliance_name": "Reckless Empire"
+  },
+  "top_killers": [
+    {
+      "id": 988041720,
+      "name": "Mortuus Angelus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113988787,
+      "name": "Nowty",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114588657,
+      "name": "shadow record",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90296368,
+      "name": "Alonot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kael Viax",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

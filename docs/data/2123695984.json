@@ -1,0 +1,34 @@
+{
+  "character_id": 2123695984,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117753106,
+    "name": "random3695",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 2117753106,
+      "name": "random3695",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117514300,
+      "name": "Nedd Ryerson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lord Partridge",
+  "corporation_id": 98809787,
+  "alliance_id": null,
+  "corporation_name": "Blackstar Industrial Group",
+  "alliance_name": null
+}

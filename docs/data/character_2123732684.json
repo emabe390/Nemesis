@@ -1,0 +1,52 @@
+{
+  "character_id": 2123732684,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90105498,
+    "name": "Lauhees",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120686466,
+      "name": "Atlan da Gonozol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91757281,
+      "name": "Lesanthus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121786273,
+      "name": "Slermie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123732684",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

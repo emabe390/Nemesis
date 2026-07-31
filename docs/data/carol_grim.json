@@ -1,0 +1,34 @@
+{
+  "character_id": 2117964264,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122658228,
+    "name": "Gemato Gen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98775495,
+    "alliance_id": 99011387,
+    "corporation_name": "Traumatic Wormhole",
+    "alliance_name": "ZERG REBORN"
+  },
+  "top_killers": [
+    {
+      "id": 2122658228,
+      "name": "Gemato Gen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92936763,
+      "name": "Etna Hadahn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carol Grim",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

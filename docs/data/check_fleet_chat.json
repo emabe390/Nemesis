@@ -1,0 +1,52 @@
+{
+  "character_id": 2123056172,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 1548968926,
+    "name": "Chale'aan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1548968926,
+      "name": "Chale'aan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113261196,
+      "name": "Kayn Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114286660,
+      "name": "Cardinal Count",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90208266,
+      "name": "0mni Hauler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91470795,
+      "name": "Marqus Aurellius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Check Fleet Chat",
+  "corporation_id": 98758904,
+  "alliance_id": 99002826,
+  "corporation_name": "SH0K Industrial",
+  "alliance_name": "KIA Alliance"
+}

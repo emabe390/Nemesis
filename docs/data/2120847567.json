@@ -1,0 +1,40 @@
+{
+  "character_id": 2120847567,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 603209247,
+    "name": "eneill",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98092494,
+    "alliance_id": null,
+    "corporation_name": "Besra Overwatch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 603209247,
+      "name": "eneill",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93708722,
+      "name": "Koni Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118147030,
+      "name": "Mampila Akiga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kolandd",
+  "corporation_id": 98780050,
+  "alliance_id": 99012654,
+  "corporation_name": "Pocket Tiger",
+  "alliance_name": "Ant Tiger"
+}

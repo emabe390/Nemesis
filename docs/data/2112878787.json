@@ -1,0 +1,52 @@
+{
+  "character_id": 2112878787,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 773213117,
+    "name": "Jagtor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90011837,
+      "name": "Prixit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94965263,
+      "name": "Vladislav Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112114214,
+      "name": "Sirina Zultan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112878787,
+      "name": "Zotin Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zotin Ormand",
+  "corporation_id": 98697448,
+  "alliance_id": 99011119,
+  "corporation_name": "The Dead Woods",
+  "alliance_name": "Absolute Glory"
+}

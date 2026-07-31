@@ -1,0 +1,52 @@
+{
+  "character_id": 2121186037,
+  "total_losses": 19,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2118700481,
+    "name": "Briny Crustacean",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644965,
+    "alliance_id": 99011655,
+    "corporation_name": "Argument of Perigee",
+    "alliance_name": "Blue Meanies"
+  },
+  "top_killers": [
+    {
+      "id": 2118700481,
+      "name": "Briny Crustacean",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90808493,
+      "name": "Rocky Aivoras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92667991,
+      "name": "Brent McBride",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93424037,
+      "name": "Lillith Saisore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96727329,
+      "name": "Vrynn Asura",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Psychosis Spark",
+  "corporation_id": 2032339562,
+  "alliance_id": 99010265,
+  "corporation_name": "Lifeform Designed to Kill",
+  "alliance_name": "Blue Loot Not Included"
+}

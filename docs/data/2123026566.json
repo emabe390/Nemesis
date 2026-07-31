@@ -1,0 +1,40 @@
+{
+  "character_id": 2123026566,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 519515286,
+    "name": "Watarina",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98557697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Lost Legends",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 519515286,
+      "name": "Watarina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 747677046,
+      "name": "Ciryon Atani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119577497,
+      "name": "Zauromudakanadon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nolikka Saisima",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

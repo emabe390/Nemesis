@@ -1,0 +1,40 @@
+{
+  "character_id": 2124023956,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 151092177,
+    "name": "Mr Mordan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98455250,
+    "alliance_id": 99011675,
+    "corporation_name": "Paper Dragons",
+    "alliance_name": "Salty Sailors Federation"
+  },
+  "top_killers": [
+    {
+      "id": 151092177,
+      "name": "Mr Mordan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122209376,
+      "name": "Ahdarji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122564422,
+      "name": "Cirroc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haimdahl",
+  "corporation_id": 98734691,
+  "alliance_id": null,
+  "corporation_name": "Labratox Mining and Trading Corporation",
+  "alliance_name": null
+}

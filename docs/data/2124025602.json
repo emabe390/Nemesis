@@ -1,0 +1,52 @@
+{
+  "character_id": 2124025602,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2122180471,
+    "name": "Sako Toshiko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122180471,
+      "name": "Sako Toshiko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95703995,
+      "name": "Vilksun Schlonge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 743054412,
+      "name": "Marcus Terani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1225360498,
+      "name": "FlakMonkey 745",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scurry McCynopoint",
+  "corporation_id": 98782135,
+  "alliance_id": 99012009,
+  "corporation_name": "New Amamake Republic",
+  "alliance_name": "Minmatar Fleet Associates"
+}

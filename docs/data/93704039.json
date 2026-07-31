@@ -1,0 +1,40 @@
+{
+  "character_id": 93704039,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96850285,
+    "name": "Ava Inferno",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98509292,
+    "alliance_id": 99012544,
+    "corporation_name": "Infernal Corporation",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 96850285,
+      "name": "Ava Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1452850343,
+      "name": "Farmer Inc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Demis Light",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123589990,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 589252559,
+      "name": "Futility 101",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 963711745,
+      "name": "Menina",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corvus The Deliverer",
+  "corporation_id": 635210548,
+  "alliance_id": 99005338,
+  "corporation_name": "Fusion Enterprises Ltd",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123373646,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93368227,
+    "name": "Character 93368227",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98336338,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Sapphire Liontooth Association",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93368227,
+      "name": "Character 93368227",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94467504,
+      "name": "Apollo Austin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1937313688,
+      "name": "Aenius Codo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Benirgnerron Tivianne",
+  "corporation_id": 98829344,
+  "alliance_id": null,
+  "corporation_name": "Miner and Industry Learning Corp",
+  "alliance_name": null
+}

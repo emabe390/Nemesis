@@ -1,0 +1,52 @@
+{
+  "character_id": 2113425677,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91412054,
+    "name": "K Sully",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 427125032,
+    "alliance_id": 1354830081,
+    "corporation_name": "TunDraGon",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91412054,
+      "name": "K Sully",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 170857496,
+      "name": "Conrad Williams",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 603811083,
+      "name": "Dranoel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113357867,
+      "name": "Vyriz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lady Valette",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

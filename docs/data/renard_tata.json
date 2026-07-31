@@ -1,0 +1,40 @@
+{
+  "character_id": 2116067877,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94177799,
+    "name": "Mira Kai",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94177799,
+      "name": "Mira Kai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1344125706,
+      "name": "Morinor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122963520,
+      "name": "D-F-002",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Renard Tata",
+  "corporation_id": 98582540,
+  "alliance_id": 99003581,
+  "corporation_name": "ZephyrFalcon",
+  "alliance_name": "Fraternity."
+}

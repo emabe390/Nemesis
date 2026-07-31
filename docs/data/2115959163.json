@@ -1,0 +1,52 @@
+{
+  "character_id": 2115959163,
+  "total_losses": 17,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 884116165,
+    "name": "Eva Unit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 209540908,
+    "alliance_id": null,
+    "corporation_name": "Steel Battalion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 884116165,
+      "name": "Eva Unit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1486100897,
+      "name": "Dendarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119256796,
+      "name": "Akawa Askiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123232673,
+      "name": "Xenophage Ortega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90676900,
+      "name": "l Mabata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hibra Exua",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

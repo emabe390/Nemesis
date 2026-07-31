@@ -1,0 +1,52 @@
+{
+  "character_id": 1354874718,
+  "total_losses": 25,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 1171447259,
+    "name": "Chris Reeves",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98373312,
+    "alliance_id": null,
+    "corporation_name": "Silence now",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1171447259,
+      "name": "Chris Reeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95138895,
+      "name": "Yuri Pyrrhus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95271508,
+      "name": "Shellos Stetille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96380981,
+      "name": "Daimler-Benz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 298298927,
+      "name": "Eschenaira",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dredd Judge",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

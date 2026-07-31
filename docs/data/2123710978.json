@@ -1,0 +1,40 @@
+{
+  "character_id": 2123710978,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122589655,
+    "name": "Captain Rigby",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838993,
+    "alliance_id": null,
+    "corporation_name": "The Anoikis Collective",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122589655,
+      "name": "Captain Rigby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 526694422,
+      "name": "Eteonx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117083969,
+      "name": "Elsorion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Annabell Seraphine Wolf",
+  "corporation_id": 98794368,
+  "alliance_id": null,
+  "corporation_name": "Arcfield Works",
+  "alliance_name": null
+}

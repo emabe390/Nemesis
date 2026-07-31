@@ -1,0 +1,52 @@
+{
+  "character_id": 2122139598,
+  "total_losses": 43,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119075191,
+      "name": "Utralen Hekki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90728860,
+      "name": "Sparrow Christensen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dog-eat-Dog",
+  "corporation_id": 272675225,
+  "alliance_id": 1354830081,
+  "corporation_name": "Monkey Attack Squad",
+  "alliance_name": "Goonswarm Federation"
+}

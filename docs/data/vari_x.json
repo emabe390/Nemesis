@@ -1,0 +1,40 @@
+{
+  "character_id": 2123903886,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122565080,
+    "name": "Fitsgerald",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98317101,
+    "alliance_id": null,
+    "corporation_name": "Maas Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122565080,
+      "name": "Fitsgerald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1393701610,
+      "name": "JT Houndslayer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2069822721,
+      "name": "Croowdrio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vari X",
+  "corporation_id": 98816276,
+  "alliance_id": null,
+  "corporation_name": "Nova VoidWorks",
+  "alliance_name": null
+}

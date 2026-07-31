@@ -1,0 +1,34 @@
+{
+  "character_id": 2121511059,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121065783,
+    "name": "PapaDios",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1588647992,
+    "alliance_id": 99010240,
+    "corporation_name": "Xoth Inc",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 2121065783,
+      "name": "PapaDios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120256848,
+      "name": "Kirtu Nashk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rina Nefzen",
+  "corporation_id": 98681463,
+  "alliance_id": 99009843,
+  "corporation_name": "Chroma Corp",
+  "alliance_name": "Prismatic Legion"
+}

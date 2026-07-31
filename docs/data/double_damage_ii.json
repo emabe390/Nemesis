@@ -1,0 +1,52 @@
+{
+  "character_id": 2122901371,
+  "total_losses": 181,
+  "unique_killers": 107,
+  "nemesis": {
+    "id": 2119190048,
+    "name": "Zhags",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98370339,
+    "alliance_id": 99012428,
+    "corporation_name": "D-sync",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2113300682,
+      "name": "Nivek Storm",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90001584,
+      "name": "Hroovitnir",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91847132,
+      "name": "Fred Fred Burger",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Double Damage II",
+  "corporation_id": 98659921,
+  "alliance_id": 99009764,
+  "corporation_name": "Rat Nation",
+  "alliance_name": "Azure Citizen"
+}

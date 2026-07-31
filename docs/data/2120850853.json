@@ -1,0 +1,52 @@
+{
+  "character_id": 2120850853,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1743905749,
+    "name": "EF Gamma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113068986,
+      "name": "Kirreniem Nakrar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114743439,
+      "name": "Matthew H Quigley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120778556,
+      "name": "EF Zeta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crazy Men",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

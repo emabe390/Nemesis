@@ -1,0 +1,40 @@
+{
+  "character_id": 2123958305,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123786990,
+    "name": "LaoSeng",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813843,
+    "alliance_id": 99014690,
+    "corporation_name": "LaoSengSaoSaoDi",
+    "alliance_name": "LaoSengSaoSaoDi Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123786990,
+      "name": "LaoSeng",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91890073,
+      "name": "mnfjikdn Kashada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123354342,
+      "name": "Zevi Marque",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Savage Pinkerton",
+  "corporation_id": 98820262,
+  "alliance_id": null,
+  "corporation_name": "TF Lode Purge",
+  "alliance_name": null
+}

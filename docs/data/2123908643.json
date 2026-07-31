@@ -1,0 +1,52 @@
+{
+  "character_id": 2123908643,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 472771472,
+    "name": "Don Hubba",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825492,
+    "alliance_id": 99001105,
+    "corporation_name": "Lock - Point - Delete",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 787092906,
+      "name": "Damagebladee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 132103040,
+      "name": "Aschera Raven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 679815158,
+      "name": "Wasp 223",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varrgron",
+  "corporation_id": 98057377,
+  "alliance_id": 1354830081,
+  "corporation_name": "Core Industry.",
+  "alliance_name": "Goonswarm Federation"
+}

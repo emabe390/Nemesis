@@ -1,0 +1,40 @@
+{
+  "character_id": 2123777054,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1752558042,
+    "name": "Janwaar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 557199155,
+    "alliance_id": 99011223,
+    "corporation_name": "The New Federation",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 1752558042,
+      "name": "Janwaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 686119149,
+      "name": "Hydroponic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120585556,
+      "name": "KHULAN Nymeria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Muzumi",
+  "corporation_id": 98631475,
+  "alliance_id": 99005338,
+  "corporation_name": "Profane Proverb",
+  "alliance_name": "Pandemic Horde"
+}

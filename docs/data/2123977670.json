@@ -1,0 +1,52 @@
+{
+  "character_id": 2123977670,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2118155774,
+    "name": "Professional Seagull",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 796168111,
+    "alliance_id": null,
+    "corporation_name": "Ninlarra Brand Ships and Modules",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118155774,
+      "name": "Professional Seagull",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92573948,
+      "name": "Need Backup",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94377171,
+      "name": "Alexander Anaxagoras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96334018,
+      "name": "Stongtea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96381491,
+      "name": "Lost Causes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dim Flame",
+  "corporation_id": 98820971,
+  "alliance_id": null,
+  "corporation_name": "Dim Out",
+  "alliance_name": null
+}

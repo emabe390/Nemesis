@@ -1,0 +1,52 @@
+{
+  "character_id": 2123708982,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 1570566070,
+    "name": "athena venus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98633005,
+    "alliance_id": 99011372,
+    "corporation_name": "Protean Concept",
+    "alliance_name": "Moss Piglet Preservation Society"
+  },
+  "top_killers": [
+    {
+      "id": 1570566070,
+      "name": "athena venus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116006478,
+      "name": "Character 2116006478",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116583466,
+      "name": "capaloya Itinen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92204401,
+      "name": "Jeltior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurora Explorer",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

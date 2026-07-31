@@ -1,0 +1,52 @@
+{
+  "character_id": 2123432622,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 95786847,
+    "name": "Character 95786847",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 95786847,
+      "name": "Character 95786847",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 242047691,
+      "name": "Flintina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 945066386,
+      "name": "KingOf Beer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115066812,
+      "name": "DrFriend",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116327137,
+      "name": "Stal Penken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Misenmaa Kautsuo",
+  "corporation_id": 98806567,
+  "alliance_id": null,
+  "corporation_name": "NGD family",
+  "alliance_name": null
+}

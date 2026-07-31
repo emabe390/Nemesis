@@ -1,0 +1,52 @@
+{
+  "character_id": 2123177831,
+  "total_losses": 34,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2123177896,
+    "name": "Trauma Team XII",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2123177896,
+      "name": "Trauma Team XII",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124066794,
+      "name": "Conflagration LIV",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124066807,
+      "name": "Conflagration LXI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94564223,
+      "name": "Bjorn Itonula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94564246,
+      "name": "Conrad Tsutola",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trauma Team VI",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

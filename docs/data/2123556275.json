@@ -1,0 +1,34 @@
+{
+  "character_id": 2123556275,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 152292085,
+    "name": "Zodicar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98648442,
+    "alliance_id": 99010452,
+    "corporation_name": "Center For Kids Who Can't Fly Good",
+    "alliance_name": "Zoo Landers"
+  },
+  "top_killers": [
+    {
+      "id": 152292085,
+      "name": "Zodicar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122618715,
+      "name": "Truth C1-M",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rosalita Oppigard",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

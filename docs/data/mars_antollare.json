@@ -1,0 +1,34 @@
+{
+  "character_id": 2123705052,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93055535,
+    "name": "Michio Kepler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98289471,
+    "alliance_id": 99011223,
+    "corporation_name": "Hounds Of Haides",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 93055535,
+      "name": "Michio Kepler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93684815,
+      "name": "Stenten Brath",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mars Antollare",
+  "corporation_id": 1211383288,
+  "alliance_id": 99004295,
+  "corporation_name": "Lucifer's Hammer",
+  "alliance_name": "A Band Apart."
+}

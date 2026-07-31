@@ -1,0 +1,52 @@
+{
+  "character_id": 2124091343,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 93705626,
+    "name": "Andy Shearer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112892515,
+      "name": "Capitaine Kashada",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120838803,
+      "name": "Jenham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 152292085,
+      "name": "Zodicar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lina-15",
+  "corporation_id": 1613511511,
+  "alliance_id": 1354830081,
+  "corporation_name": "Russian ICE Bears",
+  "alliance_name": "Goonswarm Federation"
+}

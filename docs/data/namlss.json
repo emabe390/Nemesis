@@ -1,0 +1,40 @@
+{
+  "character_id": 2123827467,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113053476,
+    "name": "Dejan Estemaire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 2113053476,
+      "name": "Dejan Estemaire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117370383,
+      "name": "Ronen Uitra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118765479,
+      "name": "01k",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Namlss",
+  "corporation_id": 98740495,
+  "alliance_id": null,
+  "corporation_name": "Next Frontier Peacekeeper",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124080271,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020057,
+    "name": "Tyrannos Basileus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1291547703,
+      "name": "Makaze Koufu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117802818,
+      "name": "GRIFON-KRYUGER",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dariina",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

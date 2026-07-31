@@ -1,0 +1,52 @@
+{
+  "character_id": 2122120319,
+  "total_losses": 36,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2123797036,
+    "name": "Black Hare",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98831259,
+    "alliance_id": null,
+    "corporation_name": "Deep Reef",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123797036,
+      "name": "Black Hare",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 210307238,
+      "name": "Beulea",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114086747,
+      "name": "Alexander Minto Hughes",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117278800,
+      "name": "Schnarph",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97052689,
+      "name": "Shaz Tzash",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rockbabby",
+  "corporation_id": 98678248,
+  "alliance_id": 99011271,
+  "corporation_name": "Holy Rus Empire",
+  "alliance_name": "4Crabs Tavern"
+}

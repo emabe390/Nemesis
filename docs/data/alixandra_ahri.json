@@ -1,0 +1,52 @@
+{
+  "character_id": 2123596399,
+  "total_losses": 24,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 90780002,
+    "name": "Hawke Nolen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98647879,
+    "alliance_id": 99005178,
+    "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 90780002,
+      "name": "Hawke Nolen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114405561,
+      "name": "Sigurd Rudr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92858658,
+      "name": "Demesius Droth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92975053,
+      "name": "Linda Nguyen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alixandra Ahri",
+  "corporation_id": 98692733,
+  "alliance_id": 99013823,
+  "corporation_name": "Mr Meows Disco Studio",
+  "alliance_name": "Cat Scratch Fevers"
+}

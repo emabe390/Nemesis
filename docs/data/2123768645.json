@@ -1,0 +1,52 @@
+{
+  "character_id": 2123768645,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121922129,
+    "name": "Character 2121922129",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98557697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Lost Legends",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2121922129,
+      "name": "Character 2121922129",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1366766598,
+      "name": "Mekirel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93903530,
+      "name": "Ishtar Jesus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96944470,
+      "name": "Grumpy Walrus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebastien Wook",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

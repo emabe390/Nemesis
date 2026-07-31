@@ -1,0 +1,52 @@
+{
+  "character_id": 2123451372,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115450756,
+    "name": "Rigel Mirand",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115450756,
+      "name": "Rigel Mirand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112048997,
+      "name": "Luk Psywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114487406,
+      "name": "Sin Drone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117901833,
+      "name": "Distroer98",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119342673,
+      "name": "Morphaeller Olerie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ragnar Tharn",
+  "corporation_id": 98813886,
+  "alliance_id": null,
+  "corporation_name": "Kilburny Industries",
+  "alliance_name": null
+}

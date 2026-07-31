@@ -1,0 +1,52 @@
+{
+  "character_id": 2120283332,
+  "total_losses": 21,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 641794466,
+    "name": "Kilroy S",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92056709,
+      "name": "Kussmich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1835421473,
+      "name": "menacher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122002499,
+      "name": "Anita Ship",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Abathur Salacia",
+  "corporation_id": 98802711,
+  "alliance_id": null,
+  "corporation_name": "The Order Of The Rising Tide",
+  "alliance_name": null
+}

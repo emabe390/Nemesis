@@ -1,0 +1,40 @@
+{
+  "character_id": 92919276,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121967576,
+    "name": "draillih",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 293280594,
+    "alliance_id": 99007887,
+    "corporation_name": "Aurora Empire",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2121967576,
+      "name": "draillih",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121691330,
+      "name": "Balder Sturlungar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122700765,
+      "name": "Nada Tor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gall Imperium",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

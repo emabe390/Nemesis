@@ -1,0 +1,40 @@
+{
+  "character_id": 2124522920,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91279102,
+    "name": "Sniper Isu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117112,
+    "alliance_id": null,
+    "corporation_name": "PIROCOR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 608036776,
+      "name": "Ice Garfield",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Solaris Voss",
+  "corporation_id": 98838687,
+  "alliance_id": null,
+  "corporation_name": "Purge Protocol",
+  "alliance_name": null
+}

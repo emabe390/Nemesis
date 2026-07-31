@@ -1,0 +1,52 @@
+{
+  "character_id": 2123075342,
+  "total_losses": 43,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 1146902593,
+    "name": "Character 1146902593",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1435901795,
+    "alliance_id": 99014253,
+    "corporation_name": "Band of Cateteris",
+    "alliance_name": "VECIO"
+  },
+  "top_killers": [
+    {
+      "id": 1146902593,
+      "name": "Character 1146902593",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1923811765,
+      "name": "K3III AlphaTuc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121332864,
+      "name": "Faust Argos True",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90661775,
+      "name": "Stoshkus S",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91200695,
+      "name": "Jason Nautica",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raphael LaSalle",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123998108,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1099051589,
+    "name": "Picard X",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98606395,
+    "alliance_id": 99003995,
+    "corporation_name": "PICHATRON",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122138481,
+      "name": "139715",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cyan Ocean",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

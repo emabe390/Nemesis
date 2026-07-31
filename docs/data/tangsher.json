@@ -1,0 +1,52 @@
+{
+  "character_id": 2122096303,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2117311648,
+    "name": "Doov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2117311648,
+      "name": "Doov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 799105565,
+      "name": "Esker Sheep",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1029879951,
+      "name": "Torvin Eisenfaust",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118927956,
+      "name": "Freddy Kryger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123324022,
+      "name": "Griff McBiff",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TanGsHer",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

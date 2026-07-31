@@ -1,0 +1,52 @@
+{
+  "character_id": 2124211831,
+  "total_losses": 21,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 244469783,
+    "name": "Naldo",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98406814,
+    "alliance_id": 99012398,
+    "corporation_name": "Victory or Whatever",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123687043,
+      "name": "Tanyn Audeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91127627,
+      "name": "Character 91127627",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92772885,
+      "name": "Riven Alteritus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94452796,
+      "name": "Eimantas Triber",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pasha Duroff",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

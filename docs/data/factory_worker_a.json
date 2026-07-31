@@ -1,0 +1,40 @@
+{
+  "character_id": 2123581601,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93729582,
+      "name": "Character 93729582",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121214314,
+      "name": "SpicyMousy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Factory Worker A",
+  "corporation_id": 98801947,
+  "alliance_id": null,
+  "corporation_name": "Outer Ring Enhancement Services",
+  "alliance_name": null
+}

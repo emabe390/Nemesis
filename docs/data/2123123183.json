@@ -1,0 +1,52 @@
+{
+  "character_id": 2123123183,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1743892884,
+    "name": "EF Alpha",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92300270,
+      "name": "Wurby Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 570246427,
+      "name": "dev0n",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 792279671,
+      "name": "Ezekial Haven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1171447259,
+      "name": "Chris Reeves",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tachycardi",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

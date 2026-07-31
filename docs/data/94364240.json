@@ -1,0 +1,40 @@
+{
+  "character_id": 94364240,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121530547,
+    "name": "Lalka Caller",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98620346,
+    "alliance_id": 1220922756,
+    "corporation_name": "Zero Transversal",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121530547,
+      "name": "Lalka Caller",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91163138,
+      "name": "Kentril Ul-Diomed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sister Zymeth",
+  "corporation_id": 98526109,
+  "alliance_id": 131511956,
+  "corporation_name": "Space Wizards.",
+  "alliance_name": "Tactical Narcotics Team"
+}

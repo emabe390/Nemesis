@@ -1,0 +1,52 @@
+{
+  "character_id": 2113963534,
+  "total_losses": 36,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 752900096,
+    "name": "Lazlax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 752900096,
+      "name": "Lazlax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114096575,
+      "name": "Abby Aurilen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119728253,
+      "name": "Soilen Pirkibo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luke Freemann",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

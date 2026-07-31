@@ -1,0 +1,52 @@
+{
+  "character_id": 2123456634,
+  "total_losses": 82,
+  "unique_killers": 64,
+  "nemesis": {
+    "id": 403163173,
+    "name": "Aeryn Tiberius",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98732877,
+    "alliance_id": 1354830081,
+    "corporation_name": "Iron Whales",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 403163173,
+      "name": "Aeryn Tiberius",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 516392156,
+      "name": "Trikks",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 752900096,
+      "name": "Lazlax",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2116910500,
+      "name": "Anttya-degrya Ikkala",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91658177,
+      "name": "Trip Cesaille",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "A Leaping Puppet",
+  "corporation_id": 98804674,
+  "alliance_id": null,
+  "corporation_name": "Maison Pantin Natya",
+  "alliance_name": null
+}

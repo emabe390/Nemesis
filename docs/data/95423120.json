@@ -1,0 +1,52 @@
+{
+  "character_id": 95423120,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96914101,
+    "name": "Mick Rose",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98437166,
+    "alliance_id": 99007252,
+    "corporation_name": "Explorers' Sanctum",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 96914101,
+      "name": "Mick Rose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113277963,
+      "name": "Xiu mu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117758670,
+      "name": "Eugate Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stephen Andross",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

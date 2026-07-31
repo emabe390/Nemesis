@@ -1,0 +1,40 @@
+{
+  "character_id": 2124121371,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 835035454,
+    "name": "stickymicky",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 835035454,
+      "name": "stickymicky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117370383,
+      "name": "Ronen Uitra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121623410,
+      "name": "Nathen Gunn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eduardo LordFire",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

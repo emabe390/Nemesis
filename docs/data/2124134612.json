@@ -1,0 +1,40 @@
+{
+  "character_id": 2124134612,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 805510745,
+    "name": "Saiso Kobai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 470530191,
+    "alliance_id": 1900696668,
+    "corporation_name": "Thundercats",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 805510745,
+      "name": "Saiso Kobai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90253386,
+      "name": "Lars Fjell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122424646,
+      "name": "MephystoCH",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Niya Mahyisti",
+  "corporation_id": 98325731,
+  "alliance_id": 1354830081,
+  "corporation_name": "Windrammers",
+  "alliance_name": "Goonswarm Federation"
+}

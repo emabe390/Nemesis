@@ -1,0 +1,40 @@
+{
+  "character_id": 2124501665,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 927398363,
+    "name": "Verite Rendition",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 507020344,
+    "alliance_id": null,
+    "corporation_name": "F.R.E.E. Explorer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 927398363,
+      "name": "Verite Rendition",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112289430,
+      "name": "TRlAGE GREEN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115284985,
+      "name": "detective spider",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JohnsCyno",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

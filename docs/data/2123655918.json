@@ -1,0 +1,40 @@
+{
+  "character_id": 2123655918,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96851301,
+    "name": "Wertstaar Maulerant",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 161990903,
+    "alliance_id": 154104258,
+    "corporation_name": "Noble House Inc.",
+    "alliance_name": "Apocalypse Now."
+  },
+  "top_killers": [
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1503395585,
+      "name": "Edward Harris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MonolitDragon",
+  "corporation_id": 98804517,
+  "alliance_id": null,
+  "corporation_name": "Stellar Genezis Corporation",
+  "alliance_name": null
+}

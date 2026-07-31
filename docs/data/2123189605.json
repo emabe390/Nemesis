@@ -1,0 +1,46 @@
+{
+  "character_id": 2123189605,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95060080,
+    "name": "Aysel Marakin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95060080,
+      "name": "Aysel Marakin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96540672,
+      "name": "Harry Pottah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117007809,
+      "name": "Wlos ze Zlewu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123724499,
+      "name": "Gnusyarach",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Snija",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1194584700,
+  "total_losses": 64,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123516914,
+      "name": "Calcifer Ember",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123793791,
+      "name": "Hornet Wall",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92532405,
+      "name": "Mr Ownage Acami",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kar Dinal",
+  "corporation_id": 98161751,
+  "alliance_id": null,
+  "corporation_name": "All War Machines",
+  "alliance_name": null
+}

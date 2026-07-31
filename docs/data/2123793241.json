@@ -1,0 +1,52 @@
+{
+  "character_id": 2123793241,
+  "total_losses": 42,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 830867348,
+    "name": "Cyrise",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1027292804,
+      "name": "Citrute",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96852752,
+      "name": "Jin Van-Shin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 151515810,
+      "name": "DeT Resprox",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "VoyageDiscover",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

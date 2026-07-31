@@ -1,0 +1,46 @@
+{
+  "character_id": 2123364999,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120291845,
+    "name": "Onvag",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98759562,
+    "alliance_id": null,
+    "corporation_name": "BLOOD RAIDERS SECT",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120291845,
+      "name": "Onvag",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120798107,
+      "name": "KpEaTuBHo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90582311,
+      "name": "Zakera Da Espers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112908408,
+      "name": "Quicksilver Padecain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shinobu Uta",
+  "corporation_id": 98267215,
+  "alliance_id": 99014247,
+  "corporation_name": "Serenity Mining and Industry Inc.",
+  "alliance_name": "Twenty Thousand Leagues Out of the SEA."
+}

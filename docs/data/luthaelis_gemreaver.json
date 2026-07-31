@@ -1,0 +1,52 @@
+{
+  "character_id": 2124462078,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124142055,
+      "name": "Torta Wrangler",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 671700265,
+      "name": "Defenzer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117305443,
+      "name": "Ava Sabori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119880683,
+      "name": "Big Smelly",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luthaelis Gemreaver",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

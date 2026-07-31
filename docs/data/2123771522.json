@@ -1,0 +1,40 @@
+{
+  "character_id": 2123771522,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1895684821,
+    "name": "Core C0ntingency",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98804977,
+    "alliance_id": 99014124,
+    "corporation_name": "Destiny.",
+    "alliance_name": "Heavensfall Reapers"
+  },
+  "top_killers": [
+    {
+      "id": 1895684821,
+      "name": "Core C0ntingency",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115288184,
+      "name": "Vemor Phose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122475028,
+      "name": "Tak Kovacs Takeshi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tony Draemont",
+  "corporation_id": 98795860,
+  "alliance_id": null,
+  "corporation_name": "Super Earth Spatial Industries",
+  "alliance_name": null
+}

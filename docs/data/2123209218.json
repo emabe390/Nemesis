@@ -1,0 +1,52 @@
+{
+  "character_id": 2123209218,
+  "total_losses": 72,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 1812624832,
+    "name": "Rammit",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98624346,
+    "alliance_id": null,
+    "corporation_name": "Among Shadows",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1812624832,
+      "name": "Rammit",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 426813520,
+      "name": "Leneth Valkrie",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 776797117,
+      "name": "Jintoo Cranspar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123771141,
+      "name": "Warlock Industries Event",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Character 2123209218",
+  "corporation_id": 98794818,
+  "alliance_id": null,
+  "corporation_name": "L.E.G.I.O.N",
+  "alliance_name": null
+}

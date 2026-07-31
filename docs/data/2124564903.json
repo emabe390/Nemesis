@@ -1,0 +1,40 @@
+{
+  "character_id": 2124564903,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90908229,
+    "name": "Cole Tisdell",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98838412,
+    "alliance_id": 99015045,
+    "corporation_name": "SPEWN",
+    "alliance_name": "H O S T I L E"
+  },
+  "top_killers": [
+    {
+      "id": 90908229,
+      "name": "Cole Tisdell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117197208,
+      "name": "Kadar Jahim Nissar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122330794,
+      "name": "Zealot Makkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hala Kari Askiras",
+  "corporation_id": 98835794,
+  "alliance_id": null,
+  "corporation_name": "Axes and Pitchforks",
+  "alliance_name": null
+}

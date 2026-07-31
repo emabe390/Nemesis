@@ -1,0 +1,52 @@
+{
+  "character_id": 2112903473,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 641794466,
+    "name": "Kilroy S",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120152668,
+      "name": "Yacca",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96885469,
+      "name": "Digital Wraith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 101363971,
+      "name": "WayCharles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112903473,
+      "name": "Czarny Jastrzab",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Czarny Jastrzab",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

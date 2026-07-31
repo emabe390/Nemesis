@@ -1,0 +1,40 @@
+{
+  "character_id": 2119871103,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1102277121,
+      "name": "Baalaakar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114611431,
+      "name": "Shi Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Etern Hacel-Ga",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

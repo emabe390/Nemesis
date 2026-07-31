@@ -1,0 +1,40 @@
+{
+  "character_id": 2122285549,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94371594,
+    "name": "Lisvane",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 237377716,
+    "alliance_id": 1900696668,
+    "corporation_name": "Air",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 94371594,
+      "name": "Lisvane",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91540462,
+      "name": "Character 91540462",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118538885,
+      "name": "Professor Edgelord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaoz",
+  "corporation_id": 98788177,
+  "alliance_id": null,
+  "corporation_name": "Gaoz Exploration",
+  "alliance_name": null
+}

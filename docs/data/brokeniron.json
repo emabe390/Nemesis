@@ -1,0 +1,40 @@
+{
+  "character_id": 933876174,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118106252,
+    "name": "Vladislav Vetrovv",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98742693,
+    "alliance_id": null,
+    "corporation_name": "Haven Enjoyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118106252,
+      "name": "Vladislav Vetrovv",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 96214114,
+      "name": "WhaleHunter02",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 933876174,
+      "name": "BrokenIron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BrokenIron",
+  "corporation_id": 98761471,
+  "alliance_id": 99013637,
+  "corporation_name": "2 Days to Mine",
+  "alliance_name": "The Worst Alliance"
+}

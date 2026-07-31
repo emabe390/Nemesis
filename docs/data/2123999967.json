@@ -1,0 +1,52 @@
+{
+  "character_id": 2123999967,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114604262,
+      "name": "Anonymous Dinosaur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93909364,
+      "name": "Asgart Zaacaar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96361462,
+      "name": "Vystaril Rainheart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rigo Rey",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

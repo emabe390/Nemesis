@@ -1,0 +1,52 @@
+{
+  "character_id": 2122075003,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 713141884,
+    "name": "Davey Oaks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 713141884,
+      "name": "Davey Oaks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91850425,
+      "name": "Richard de-Amalfi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93063157,
+      "name": "Qiang Feng",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95959626,
+      "name": "Kirioki Fumimasa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serhii Khors",
+  "corporation_id": 98782594,
+  "alliance_id": null,
+  "corporation_name": "Onuky Khorsa",
+  "alliance_name": null
+}

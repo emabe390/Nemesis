@@ -1,0 +1,52 @@
+{
+  "character_id": 2122408391,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90185771,
+      "name": "Yveth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91077880,
+      "name": "Orpheus Singularity",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94761562,
+      "name": "Elah Neverwinter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 888587438,
+      "name": "Vargo17b",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dummy Stupid",
+  "corporation_id": 773499566,
+  "alliance_id": 1900696668,
+  "corporation_name": "The Graduates",
+  "alliance_name": "The Initiative."
+}

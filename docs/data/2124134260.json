@@ -1,0 +1,46 @@
+{
+  "character_id": 2124134260,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1731509226,
+    "name": "Gloorin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98280176,
+    "alliance_id": 99014695,
+    "corporation_name": "Feuersturm am Rhein",
+    "alliance_name": "Blackout Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 1731509226,
+      "name": "Gloorin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118940861,
+      "name": "Mightygor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93981875,
+      "name": "Kono Lotus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1112948634,
+      "name": "Zarbow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kira Fujiwara",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119846168,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94479441,
+      "name": "Grey Veil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 778105572,
+      "name": "Ryvian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118282154,
+      "name": "Hannah Goo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119676819,
+      "name": "Character 2119676819",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sne Saken",
+  "corporation_id": 98714504,
+  "alliance_id": null,
+  "corporation_name": "DAM Corporation",
+  "alliance_name": null
+}

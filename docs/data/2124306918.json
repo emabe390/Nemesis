@@ -1,0 +1,52 @@
+{
+  "character_id": 2124306918,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92668441,
+    "name": "Iv d'Este",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98516852,
+    "alliance_id": 99014308,
+    "corporation_name": "Private Security Squad",
+    "alliance_name": "Stone Warriors Fleet"
+  },
+  "top_killers": [
+    {
+      "id": 92668441,
+      "name": "Iv d'Este",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96628834,
+      "name": "Gentle Vigilante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 115706419,
+      "name": "Yakkul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117366973,
+      "name": "CapnRat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ReapingSouls",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1337447988,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 493167923,
+      "name": "Paul Orcanus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119711878,
+      "name": "Tu-204",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bloodline2",
+  "corporation_id": 1774650910,
+  "alliance_id": null,
+  "corporation_name": "Death Incarnate INC",
+  "alliance_name": null
+}

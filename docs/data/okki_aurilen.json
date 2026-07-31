@@ -1,0 +1,34 @@
+{
+  "character_id": 2123268420,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120888257,
+    "name": "Harmon Killebrew",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98697944,
+    "alliance_id": 99013072,
+    "corporation_name": "Cultural Enrichment and Synergy of Diversity",
+    "alliance_name": "Stain Neurodiverse Democracy"
+  },
+  "top_killers": [
+    {
+      "id": 2120888257,
+      "name": "Harmon Killebrew",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123268528,
+      "name": "Ulto Outamon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okki Aurilen",
+  "corporation_id": 98633161,
+  "alliance_id": 99009163,
+  "corporation_name": "Uabros",
+  "alliance_name": "Dracarys."
+}

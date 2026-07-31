@@ -1,0 +1,52 @@
+{
+  "character_id": 2123278867,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2112931443,
+    "name": "Leon Haias",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98494391,
+    "alliance_id": 99009287,
+    "corporation_name": "Fish Vending Machine",
+    "alliance_name": "Beyond the Breach"
+  },
+  "top_killers": [
+    {
+      "id": 2112931443,
+      "name": "Leon Haias",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121121389,
+      "name": "HARUDAY",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122009245,
+      "name": "komodo ie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120786452,
+      "name": "AlectoCarrow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akerish",
+  "corporation_id": 98833190,
+  "alliance_id": null,
+  "corporation_name": "No Atoms",
+  "alliance_name": null
+}

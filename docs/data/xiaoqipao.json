@@ -1,0 +1,52 @@
+{
+  "character_id": 2123987110,
+  "total_losses": 68,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 279987085,
+    "name": "PIRO1Q",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98816158,
+    "alliance_id": null,
+    "corporation_name": "Wreckyard 9",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 279987085,
+      "name": "PIRO1Q",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113435868,
+      "name": "Derpbronc",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92855739,
+      "name": "Alegni South",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96575354,
+      "name": "Sol United",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "xiaoqipao",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

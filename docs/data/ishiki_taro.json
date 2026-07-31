@@ -1,0 +1,40 @@
+{
+  "character_id": 2123737373,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123706448,
+    "name": "Artizzi",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98786361,
+    "alliance_id": 99011973,
+    "corporation_name": "Uncontrollable Material Machines Here",
+    "alliance_name": "Really Power Blob. Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123706448,
+      "name": "Artizzi",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90673575,
+      "name": "Bobby Peruu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120771443,
+      "name": "Death Duty",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ishiki Taro",
+  "corporation_id": 98808774,
+  "alliance_id": null,
+  "corporation_name": "New Edem Police Department",
+  "alliance_name": null
+}

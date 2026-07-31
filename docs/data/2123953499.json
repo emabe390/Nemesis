@@ -1,0 +1,40 @@
+{
+  "character_id": 2123953499,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120760996,
+    "name": "Reisiger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120760996,
+      "name": "Reisiger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93583724,
+      "name": "Burger Love",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Dense",
+  "corporation_id": 1634775132,
+  "alliance_id": 1354830081,
+  "corporation_name": "UK Corp",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2118673802,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117811835,
+    "name": "Salvio",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98729384,
+    "alliance_id": 99014826,
+    "corporation_name": "DACEU",
+    "alliance_name": "Pirate Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122937620,
+      "name": "Uken Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vladimir Vladimirovich Vladimirov",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

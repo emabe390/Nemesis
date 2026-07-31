@@ -1,0 +1,52 @@
+{
+  "character_id": 2123901140,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123929087,
+    "name": "china wei",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123929087,
+      "name": "china wei",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90573671,
+      "name": "Salidin Uitoh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1546532690,
+      "name": "Character 1546532690",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112815055,
+      "name": "Rhea Zail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sirikka Coikutsu",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

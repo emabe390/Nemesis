@@ -1,0 +1,52 @@
+{
+  "character_id": 758251234,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94734804,
+      "name": "Hippy Von Longhair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96872816,
+      "name": "John Decard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 354364015,
+      "name": "Moxina 25",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 540456268,
+      "name": "Sparkas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zak Stardust",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

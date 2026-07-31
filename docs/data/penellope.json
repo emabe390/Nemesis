@@ -1,0 +1,40 @@
+{
+  "character_id": 2123151170,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92533808,
+    "name": "Dok Regyri",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98344350,
+    "alliance_id": 99005178,
+    "corporation_name": "DoctorOzz",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 92533808,
+      "name": "Dok Regyri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116061725,
+      "name": "shrill fish",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116092474,
+      "name": "Kai Maleko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Penellope",
+  "corporation_id": 98569774,
+  "alliance_id": 99011268,
+  "corporation_name": "Arkenstone Foundries Inc.",
+  "alliance_name": "Reeloaded."
+}

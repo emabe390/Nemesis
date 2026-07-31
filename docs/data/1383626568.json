@@ -1,0 +1,52 @@
+{
+  "character_id": 1383626568,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1719670006,
+    "name": "Feather Dumplings",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1719670006,
+      "name": "Feather Dumplings",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93828812,
+      "name": "Character 93828812",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 392736528,
+      "name": "Character 392736528",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1171447259,
+      "name": "Chris Reeves",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tasias",
+  "corporation_id": 98807921,
+  "alliance_id": 99013537,
+  "corporation_name": "Ferro Extraction and Devastation Express",
+  "alliance_name": "Insidious."
+}

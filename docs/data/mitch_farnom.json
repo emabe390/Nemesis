@@ -1,0 +1,40 @@
+{
+  "character_id": 2123879012,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 735674217,
+    "name": "Callie Nefarious",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 735674217,
+      "name": "Callie Nefarious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123044420,
+      "name": "Gold Digger 9000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mitch Farnom",
+  "corporation_id": 98684114,
+  "alliance_id": 99012947,
+  "corporation_name": "1st Collective",
+  "alliance_name": "Prime Alliance"
+}

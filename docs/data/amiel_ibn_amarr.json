@@ -1,0 +1,52 @@
+{
+  "character_id": 2123845696,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 647907454,
+    "name": "Fighter Bulls",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98106336,
+    "alliance_id": 99003557,
+    "corporation_name": "Renovatio Invaders",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112294671,
+      "name": "Connor Hiratar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90661234,
+      "name": "Bahimru Segl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 101309742,
+      "name": "Seisomar Eskobar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amiel ibn Amarr",
+  "corporation_id": 98816166,
+  "alliance_id": null,
+  "corporation_name": "House of Amiel",
+  "alliance_name": null
+}

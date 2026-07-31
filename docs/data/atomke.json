@@ -1,0 +1,52 @@
+{
+  "character_id": 2124038916,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92377960,
+    "name": "Mark Theosis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 92377960,
+      "name": "Mark Theosis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1829202916,
+      "name": "Jim Raynot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94283369,
+      "name": "beyond E",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94482620,
+      "name": "Vladimir Darko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96218049,
+      "name": "Rize Iwasawa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atomke",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

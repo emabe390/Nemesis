@@ -1,0 +1,40 @@
+{
+  "character_id": 2123817698,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93700055,
+    "name": "Marcus Gryffon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98624572,
+    "alliance_id": 99011223,
+    "corporation_name": "Industrial Mining and Mayhem",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 93700055,
+      "name": "Marcus Gryffon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1503395585,
+      "name": "Edward Harris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112700380,
+      "name": "Kahla Rhal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "wemsin",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

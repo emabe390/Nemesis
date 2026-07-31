@@ -1,0 +1,40 @@
+{
+  "character_id": 93785379,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90782936,
+    "name": "Boris Morukov",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1132466394,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kernel of War",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90782936,
+      "name": "Boris Morukov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 825291091,
+      "name": "Rick Dastardly",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113607739,
+      "name": "Marko Isidorovic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Creecher Virpio",
+  "corporation_id": 1091440439,
+  "alliance_id": 498125261,
+  "corporation_name": "AlcoDOTTE",
+  "alliance_name": "Test Alliance Please Ignore"
+}

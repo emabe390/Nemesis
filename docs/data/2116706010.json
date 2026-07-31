@@ -1,0 +1,52 @@
+{
+  "character_id": 2116706010,
+  "total_losses": 24,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 127181490,
+    "name": "Delanhunt",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116744398,
+      "name": "Kassi Othelia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 91839624,
+      "name": "Owns Bones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96232935,
+      "name": "Dark Lorelei",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Auditor of Drone",
+  "corporation_id": 98819966,
+  "alliance_id": null,
+  "corporation_name": "Vinculum",
+  "alliance_name": null
+}

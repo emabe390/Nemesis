@@ -1,0 +1,52 @@
+{
+  "character_id": 2123910584,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 830961943,
+    "name": "MX009 Marx",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 1900696668,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 830961943,
+      "name": "MX009 Marx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121446908,
+      "name": "Aystret Podiene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91658177,
+      "name": "Trip Cesaille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94102278,
+      "name": "Madlen Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "November Twenty-five",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124124714,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115064058,
+    "name": "Ichimusai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2115064058,
+      "name": "Ichimusai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92805592,
+      "name": "vodinochestve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94105136,
+      "name": "ALLEN GONG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Meragel Anor",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

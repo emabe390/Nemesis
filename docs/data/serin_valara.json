@@ -1,0 +1,40 @@
+{
+  "character_id": 2123862982,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121947082,
+    "name": "EF Sigma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 115943137,
+      "name": "Ninurta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1389406224,
+      "name": "SpAwNtoHell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serin Valara",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

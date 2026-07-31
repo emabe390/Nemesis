@@ -1,0 +1,40 @@
+{
+  "character_id": 2122609383,
+  "total_losses": 15,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92171923,
+    "name": "Zabernism",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98779189,
+    "alliance_id": null,
+    "corporation_name": "Davout Technologies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92171923,
+      "name": "Zabernism",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2118509008,
+      "name": "Brainless Drone 01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119210342,
+      "name": "Maritza Spodhopper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Calzare Vanderbilt",
+  "corporation_id": 98779189,
+  "alliance_id": null,
+  "corporation_name": "Davout Technologies",
+  "alliance_name": null
+}

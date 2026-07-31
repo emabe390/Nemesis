@@ -1,0 +1,52 @@
+{
+  "character_id": 2121656252,
+  "total_losses": 21,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2120512110,
+    "name": "BuggyTheClown",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785607,
+    "alliance_id": 99010995,
+    "corporation_name": "Vindicta Optime",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 2120512110,
+      "name": "BuggyTheClown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90966319,
+      "name": "Nyan Lafisques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93523742,
+      "name": "BrightHeart Kleva",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96724929,
+      "name": "Arthur Hemanseh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CopperLife",
+  "corporation_id": 98176563,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rekium",
+  "alliance_name": "Goonswarm Federation"
+}

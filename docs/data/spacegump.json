@@ -1,0 +1,40 @@
+{
+  "character_id": 1261755968,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97159989,
+    "name": "Salt Machin3",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98616372,
+    "alliance_id": null,
+    "corporation_name": "Murder Hobos.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97159989,
+      "name": "Salt Machin3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116448319,
+      "name": "Howard Chu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123504388,
+      "name": "VVEK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SpaceGump",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

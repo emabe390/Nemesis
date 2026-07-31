@@ -1,0 +1,40 @@
+{
+  "character_id": 93048323,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1417371863,
+    "name": "Pandoralica",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 680022174,
+    "alliance_id": 1900696668,
+    "corporation_name": "DEFCON.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1417371863,
+      "name": "Pandoralica",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121835185,
+      "name": "Titan Bridge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123068320,
+      "name": "Krooshka Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Prisane Ladok",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

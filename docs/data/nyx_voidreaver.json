@@ -1,0 +1,52 @@
+{
+  "character_id": 2123202777,
+  "total_losses": 50,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 94370897,
+    "name": "Richard Valdyr",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1168442397,
+      "name": "Ainllo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92108395,
+      "name": "Biggus Duckus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92868058,
+      "name": "Liz Viliana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93243194,
+      "name": "Agent J Squire",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nyx Voidreaver",
+  "corporation_id": 98814509,
+  "alliance_id": null,
+  "corporation_name": "Warp to zero. Die at gate",
+  "alliance_name": null
+}

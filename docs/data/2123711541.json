@@ -1,0 +1,52 @@
+{
+  "character_id": 2123711541,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3020057,
+    "name": "Tyrannos Basileus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93980965,
+      "name": "Joy Stripper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94233167,
+      "name": "Viktor -valar morghulis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95679893,
+      "name": "Red Carry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1486007602,
+      "name": "Maximas Deridian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HashCon",
+  "corporation_id": 98813843,
+  "alliance_id": 99014690,
+  "corporation_name": "LaoSengSaoSaoDi",
+  "alliance_name": "LaoSengSaoSaoDi Alliance"
+}

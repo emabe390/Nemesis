@@ -1,0 +1,40 @@
+{
+  "character_id": 2123648175,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 560294646,
+    "name": "Suzi Que",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807915,
+    "alliance_id": 99010629,
+    "corporation_name": "Advanced Lifeform Imitating Earths Native Species",
+    "alliance_name": "Safety. Net"
+  },
+  "top_killers": [
+    {
+      "id": 560294646,
+      "name": "Suzi Que",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118518412,
+      "name": "Captain Orkey",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122503125,
+      "name": "Reeeeq",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Otto Pilotin",
+  "corporation_id": 98553357,
+  "alliance_id": null,
+  "corporation_name": "Nolite te Bastardes Carborundorum",
+  "alliance_name": null
+}

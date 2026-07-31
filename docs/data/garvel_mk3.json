@@ -1,0 +1,52 @@
+{
+  "character_id": 2123353931,
+  "total_losses": 34,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 2116606795,
+      "name": "BabaVoz Andedare",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1449961651,
+      "name": "J Funt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Garvel MK3",
+  "corporation_id": 98811931,
+  "alliance_id": null,
+  "corporation_name": "MK3 Corporation",
+  "alliance_name": null
+}

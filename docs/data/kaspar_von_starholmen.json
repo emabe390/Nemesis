@@ -1,0 +1,46 @@
+{
+  "character_id": 2123717156,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121244277,
+    "name": "Unschuldige vom Lande",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98742144,
+    "alliance_id": 99012369,
+    "corporation_name": "D I E . S T E I N B E I S S E R",
+    "alliance_name": "OUT OF THE DEEP"
+  },
+  "top_killers": [
+    {
+      "id": 2121244277,
+      "name": "Unschuldige vom Lande",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112100936,
+      "name": "Matella Otsolen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113455412,
+      "name": "DekysSP Rododendron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117139204,
+      "name": "anem1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaspar von Starholmen",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

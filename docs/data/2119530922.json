@@ -1,0 +1,52 @@
+{
+  "character_id": 2119530922,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 946991824,
+    "name": "ognog",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98010712,
+    "alliance_id": null,
+    "corporation_name": "Crimson Serpents",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 946991824,
+      "name": "ognog",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91666649,
+      "name": "Mbfjeld",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96791669,
+      "name": "Laila Khema",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1829202916,
+      "name": "Jim Raynot",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Foczen",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

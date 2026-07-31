@@ -1,0 +1,40 @@
+{
+  "character_id": 2123175099,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2066701073,
+    "name": "Maevert",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2066701073,
+      "name": "Maevert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94533223,
+      "name": "Razer Mendez",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117008924,
+      "name": "Micky Fitz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ru33ell",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

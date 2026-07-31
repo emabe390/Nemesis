@@ -1,0 +1,52 @@
+{
+  "character_id": 2123521086,
+  "total_losses": 38,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2123610050,
+    "name": "CHMAN1",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98777401,
+    "alliance_id": 99009163,
+    "corporation_name": "Baby-Bus",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123610050,
+      "name": "CHMAN1",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1185432224,
+      "name": "eaer refta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123610053,
+      "name": "CHMAN2",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90914104,
+      "name": "Bytrik Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115000010,
+      "name": "Parsiska Ostus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "CHMAN",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

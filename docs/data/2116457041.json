@@ -1,0 +1,40 @@
+{
+  "character_id": 2116457041,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112820886,
+    "name": "Adler Theta",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802808,
+    "alliance_id": 1354830081,
+    "corporation_name": "A World With No Boundaries",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112820886,
+      "name": "Adler Theta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115201969,
+      "name": "Casper DaGhost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123606334,
+      "name": "Froge Shoto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corvid19",
+  "corporation_id": 98679081,
+  "alliance_id": 99005338,
+  "corporation_name": "Deaths Consortium",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124179050,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95356395,
+    "name": "Mick Wilde",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98832442,
+    "alliance_id": null,
+    "corporation_name": "CRAZY-GANG",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95356395,
+      "name": "Mick Wilde",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 787092906,
+      "name": "Damagebladee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120779812,
+      "name": "Ze Montgomery",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121216716,
+      "name": "Incu Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Justius Tink",
+  "corporation_id": 98828970,
+  "alliance_id": 99014671,
+  "corporation_name": "Summer Knights.",
+  "alliance_name": "NecroSphere."
+}

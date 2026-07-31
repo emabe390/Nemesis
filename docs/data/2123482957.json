@@ -1,0 +1,52 @@
+{
+  "character_id": 2123482957,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118722264,
+    "name": "Roskolnikov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91923741,
+      "name": "Gui Ghekon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93704184,
+      "name": "Lyriell Eldrik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 374496042,
+      "name": "Kenzore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taseem Odjev",
+  "corporation_id": 98335801,
+  "alliance_id": 117383987,
+  "corporation_name": "Dark Wormhole Industry",
+  "alliance_name": "Silent Infinity"
+}

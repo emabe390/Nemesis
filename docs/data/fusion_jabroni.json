@@ -1,0 +1,46 @@
+{
+  "character_id": 2123576618,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1863145372,
+    "name": "KarLaeda",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98030681,
+    "alliance_id": 1900696668,
+    "corporation_name": "ANGELGARD.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1863145372,
+      "name": "KarLaeda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121065783,
+      "name": "PapaDios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123562642,
+      "name": "Dith A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FUSION JABRONI",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

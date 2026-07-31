@@ -1,0 +1,52 @@
+{
+  "character_id": 2120075548,
+  "total_losses": 24,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 1404461682,
+    "name": "Maximus Corpus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96668497,
+      "name": "T Ellecon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 743527496,
+      "name": "SilentEcho",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bastaras Hanomaa",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

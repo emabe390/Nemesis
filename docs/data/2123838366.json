@@ -1,0 +1,52 @@
+{
+  "character_id": 2123838366,
+  "total_losses": 55,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2123651035,
+    "name": "Character 2123651035",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98632833,
+    "alliance_id": null,
+    "corporation_name": "Katolis",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123651035,
+      "name": "Character 2123651035",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123783251,
+      "name": "Jromia PI Guy",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123783269,
+      "name": "Jromiana",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92523661,
+      "name": "Prophet Bathana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94927952,
+      "name": "Ripunum",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rocket 85",
+  "corporation_id": 98632833,
+  "alliance_id": null,
+  "corporation_name": "Katolis",
+  "alliance_name": null
+}

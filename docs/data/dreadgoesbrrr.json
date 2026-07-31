@@ -1,0 +1,40 @@
+{
+  "character_id": 2123407941,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118371142,
+    "name": "Death Rex",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2118371142,
+      "name": "Death Rex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122692404,
+      "name": "Haduken Hakiri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123374440,
+      "name": "35 years in",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DreadGoesBrrr",
+  "corporation_id": 98044747,
+  "alliance_id": 99005338,
+  "corporation_name": "Bikini Bottom Surfer",
+  "alliance_name": "Pandemic Horde"
+}

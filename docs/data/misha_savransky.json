@@ -1,0 +1,40 @@
+{
+  "character_id": 92529950,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 189550630,
+    "name": "Jani Spetke",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 151608402,
+    "alliance_id": 99009331,
+    "corporation_name": "Setenta Corp",
+    "alliance_name": "Scumlords"
+  },
+  "top_killers": [
+    {
+      "id": 189550630,
+      "name": "Jani Spetke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114514694,
+      "name": "VM Varga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122419002,
+      "name": "James Halver",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Misha Savransky",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

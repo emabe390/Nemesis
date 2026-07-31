@@ -1,0 +1,34 @@
+{
+  "character_id": 2123227703,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121849577,
+    "name": "Zver Razruchitel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2121849577,
+      "name": "Zver Razruchitel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120519795,
+      "name": "This Is Nightlife",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "George Droyd llIIIIIllll",
+  "corporation_id": 98810856,
+  "alliance_id": 99014284,
+  "corporation_name": "Braking Fent",
+  "alliance_name": "7.62"
+}

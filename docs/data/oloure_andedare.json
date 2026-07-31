@@ -1,0 +1,52 @@
+{
+  "character_id": 2123480611,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 676829206,
+    "name": "Wanger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98722042,
+    "alliance_id": null,
+    "corporation_name": "Digital Ghosts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119202839,
+      "name": "MamkinSon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97122032,
+      "name": "Character 97122032",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114295585,
+      "name": "Character 2114295585",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123282809,
+      "name": "Cago 3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oloure Andedare",
+  "corporation_id": 903623845,
+  "alliance_id": 99010265,
+  "corporation_name": "Black Sea Industries",
+  "alliance_name": "Blue Loot Not Included"
+}

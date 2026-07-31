@@ -1,0 +1,52 @@
+{
+  "character_id": 2120623455,
+  "total_losses": 143,
+  "unique_killers": 125,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 1
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121635983,
+      "name": "Character 2121635983",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92108395,
+      "name": "Biggus Duckus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dabbington",
+  "corporation_id": 98796496,
+  "alliance_id": 99013990,
+  "corporation_name": "DRIFTER ENJOYMENT AUTHORITY",
+  "alliance_name": "Drifter."
+}

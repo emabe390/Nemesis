@@ -1,0 +1,52 @@
+{
+  "character_id": 2123802321,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2112000314,
+    "name": "Davos Skyworth",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98377551,
+    "alliance_id": 99004013,
+    "corporation_name": "Out of Focus",
+    "alliance_name": "Odin's Call"
+  },
+  "top_killers": [
+    {
+      "id": 2112000314,
+      "name": "Davos Skyworth",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91362020,
+      "name": "RUS MaSSSter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112135590,
+      "name": "Ragnar Cheiften",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118436964,
+      "name": "Character 2118436964",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ousia Naari",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

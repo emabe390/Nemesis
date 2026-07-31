@@ -1,0 +1,40 @@
+{
+  "character_id": 2123141591,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113149154,
+    "name": "Styke Warden",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98490192,
+    "alliance_id": null,
+    "corporation_name": "Flatulent Puppy Heavy Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113149154,
+      "name": "Styke Warden",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95897901,
+      "name": "Bud Bentza",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114238006,
+      "name": "Dayse Ane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Logi Shahni",
+  "corporation_id": 98833199,
+  "alliance_id": null,
+  "corporation_name": "Waffle Kingdom",
+  "alliance_name": null
+}

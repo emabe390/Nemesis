@@ -1,0 +1,40 @@
+{
+  "character_id": 2123297793,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2053237763,
+    "name": "Nikaroo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98073146,
+    "alliance_id": 99010421,
+    "corporation_name": "Shutdown in Progress.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93866785,
+      "name": "Rist Rolland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115000757,
+      "name": "Moist Lipwig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Belasiad Niam",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

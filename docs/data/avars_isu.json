@@ -1,0 +1,40 @@
+{
+  "character_id": 2121138232,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2078566231,
+    "name": "techwood",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 2078566231,
+      "name": "techwood",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122113136,
+      "name": "Venelles Hors Ellecon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123535518,
+      "name": "Malcolm 41",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avars Isu",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

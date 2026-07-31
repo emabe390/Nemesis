@@ -1,0 +1,52 @@
+{
+  "character_id": 2119696654,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91514167,
+      "name": "Smoky Plunder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91972994,
+      "name": "Magister Dixitus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92088599,
+      "name": "Lakota Ellecon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mengu Tram",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

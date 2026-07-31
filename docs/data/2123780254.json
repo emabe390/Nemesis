@@ -1,0 +1,52 @@
+{
+  "character_id": 2123780254,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122751283,
+    "name": "Caleeen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98810872,
+    "alliance_id": null,
+    "corporation_name": "Caleeris",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112463639,
+      "name": "Keyroii Moru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115742713,
+      "name": "Tsung Mordan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95351049,
+      "name": "Mithra Pax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 580851398,
+      "name": "Swishow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "coin bearer",
+  "corporation_id": 98811318,
+  "alliance_id": null,
+  "corporation_name": "Slipstream Horizons",
+  "alliance_name": null
+}

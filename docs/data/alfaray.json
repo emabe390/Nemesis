@@ -1,0 +1,34 @@
+{
+  "character_id": 2116933432,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114265636,
+    "name": "ATF-94",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98565526,
+    "alliance_id": 99013699,
+    "corporation_name": "Stardust Journey",
+    "alliance_name": "Stardust-Journey"
+  },
+  "top_killers": [
+    {
+      "id": 2114265636,
+      "name": "ATF-94",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121459031,
+      "name": "Mishi Avada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alfaray",
+  "corporation_id": 98648285,
+  "alliance_id": null,
+  "corporation_name": "Helium Prime",
+  "alliance_name": null
+}

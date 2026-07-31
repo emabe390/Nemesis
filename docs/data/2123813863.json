@@ -1,0 +1,52 @@
+{
+  "character_id": 2123813863,
+  "total_losses": 21,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123795525,
+    "name": "Ti Aivo",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123795525,
+      "name": "Ti Aivo",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91119149,
+      "name": "Gerski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92561675,
+      "name": "Xanderfall Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115321209,
+      "name": "Jason Ernagas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ornel Agnon",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

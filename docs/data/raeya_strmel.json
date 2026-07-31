@@ -1,0 +1,40 @@
+{
+  "character_id": 96082465,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96300476,
+    "name": "Kyle Westwood",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98311523,
+    "alliance_id": 498125261,
+    "corporation_name": "Machiavellian Empire",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 96300476,
+      "name": "Kyle Westwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1706578369,
+      "name": "SethAble",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1808133051,
+      "name": "Mail Lite",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raeya Strmel",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

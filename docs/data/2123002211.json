@@ -1,0 +1,52 @@
+{
+  "character_id": 2123002211,
+  "total_losses": 21,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 787362669,
+    "name": "Character 787362669",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 787362669,
+      "name": "Character 787362669",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2113884434,
+      "name": "KotiaZlo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1990249062,
+      "name": "st Liara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119670339,
+      "name": "ktotoszadi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Izzy Akiga",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123854653,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96035709,
+    "name": "Henning fon Holzendorf",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 96035709,
+      "name": "Henning fon Holzendorf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 504124995,
+      "name": "Character 504124995",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114240935,
+      "name": "gugugu Elendil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khhall",
+  "corporation_id": 98832145,
+  "alliance_id": null,
+  "corporation_name": "BLOB always",
+  "alliance_name": null
+}

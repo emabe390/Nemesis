@@ -1,0 +1,52 @@
+{
+  "character_id": 2123806709,
+  "total_losses": 125,
+  "unique_killers": 111,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90671281,
+      "name": "Bellerophon Komato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 607018824,
+      "name": "Sabastian Cerabiam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1034093056,
+      "name": "Zaber Xavier",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kindred Falhren",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

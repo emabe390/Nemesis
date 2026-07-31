@@ -1,0 +1,52 @@
+{
+  "character_id": 2123752349,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123600830,
+    "name": "Silent Alaska",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90709713,
+      "name": "Dek Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95367944,
+      "name": "Lokey Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gang Ked",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

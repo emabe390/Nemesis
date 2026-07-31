@@ -1,0 +1,52 @@
+{
+  "character_id": 2123885591,
+  "total_losses": 67,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 783949788,
+    "name": "Arie Adne",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98666206,
+    "alliance_id": 99010731,
+    "corporation_name": "Jaeger Inc.",
+    "alliance_name": "Jaeger Kommand"
+  },
+  "top_killers": [
+    {
+      "id": 783949788,
+      "name": "Arie Adne",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 313747036,
+      "name": "SocomTedd",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112848399,
+      "name": "Radoslav Bartecko",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90413564,
+      "name": "Syclone Tracy",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "errrra",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

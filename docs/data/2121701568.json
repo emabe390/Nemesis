@@ -1,0 +1,40 @@
+{
+  "character_id": 2121701568,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121702219,
+    "name": "guixv-5",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98753253,
+    "alliance_id": null,
+    "corporation_name": "guixv",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121702219,
+      "name": "guixv-5",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2115475245,
+      "name": "Cutecumber Roll",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95435449,
+      "name": "Uliana Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "guixv-4",
+  "corporation_id": 98696463,
+  "alliance_id": 99003581,
+  "corporation_name": "Light Spot Poacher",
+  "alliance_name": "Fraternity."
+}

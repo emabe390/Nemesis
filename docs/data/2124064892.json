@@ -1,0 +1,52 @@
+{
+  "character_id": 2124064892,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 763488576,
+    "name": "Hans Greyfier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778050,
+    "alliance_id": 99014445,
+    "corporation_name": "The Unspoken Ones",
+    "alliance_name": "Rolled Out."
+  },
+  "top_killers": [
+    {
+      "id": 763488576,
+      "name": "Hans Greyfier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123677397,
+      "name": "Bilbo Shaggins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124023081,
+      "name": "Yukee Pm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lasrus",
+  "corporation_id": 98803959,
+  "alliance_id": null,
+  "corporation_name": "Asteroid Assembly",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123235500,
+  "total_losses": 18,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123168264,
+    "name": "Wraithstar Grim",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98742941,
+    "alliance_id": null,
+    "corporation_name": "Steele Technology and Security Solutions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123168264,
+      "name": "Wraithstar Grim",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120836816,
+      "name": "G0ATWEED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122290386,
+      "name": "Dark Knight Joker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jovian Director",
+  "corporation_id": 98804173,
+  "alliance_id": null,
+  "corporation_name": "Indicators of Compromise",
+  "alliance_name": null
+}

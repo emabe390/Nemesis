@@ -1,0 +1,40 @@
+{
+  "character_id": 2124005513,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1566201664,
+    "name": "Jum Shoot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98138279,
+    "alliance_id": 99008697,
+    "corporation_name": "Free Space Adventure",
+    "alliance_name": "GF Company"
+  },
+  "top_killers": [
+    {
+      "id": 1566201664,
+      "name": "Jum Shoot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96867321,
+      "name": "Xcima Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saint V",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

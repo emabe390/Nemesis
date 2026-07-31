@@ -1,0 +1,52 @@
+{
+  "character_id": 95351500,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 91522825,
+    "name": "Byrbeglin Alcantar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1262577328,
+    "alliance_id": 99006975,
+    "corporation_name": "Doom Generation",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 91522825,
+      "name": "Byrbeglin Alcantar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112591713,
+      "name": "Alexander Nerva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115014738,
+      "name": "Alexandr Pozembaum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112587114,
+      "name": "David Van Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115628314,
+      "name": "Millenn Jr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agamemnon Hekard",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

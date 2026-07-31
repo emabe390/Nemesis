@@ -1,0 +1,52 @@
+{
+  "character_id": 2123693828,
+  "total_losses": 64,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2112623736,
+    "name": "Godric Talvanen",
+    "kill_count": 18,
+    "final_blows": 18,
+    "corporation_id": 98643518,
+    "alliance_id": 99014719,
+    "corporation_name": "MAYHEM BOYZ",
+    "alliance_name": "Mostly Nomads"
+  },
+  "top_killers": [
+    {
+      "id": 2112623736,
+      "name": "Godric Talvanen",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 2120836816,
+      "name": "G0ATWEED",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90526637,
+      "name": "Alex Champ",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Viksta Demian",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

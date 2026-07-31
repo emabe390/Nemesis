@@ -1,0 +1,52 @@
+{
+  "character_id": 2123174000,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 814370720,
+    "name": "Phase Three",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771388,
+    "alliance_id": 555959926,
+    "corporation_name": "Tactical Grace.",
+    "alliance_name": "Vanguard."
+  },
+  "top_killers": [
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122154992,
+      "name": "Eya Uchonela",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122801550,
+      "name": "Suoranen Kurvora",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 107415506,
+      "name": "Cyber Ralph",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Schmobbs",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

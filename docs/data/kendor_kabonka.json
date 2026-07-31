@@ -1,0 +1,40 @@
+{
+  "character_id": 2123099429,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123067538,
+    "name": "Tyeek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 163069706,
+    "alliance_id": 99004567,
+    "corporation_name": "Pirates of Destruction Union",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 2123067538,
+      "name": "Tyeek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92714556,
+      "name": "The Rozmar's Prophet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118427461,
+      "name": "Toukamoka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kendor Kabonka",
+  "corporation_id": 98821511,
+  "alliance_id": null,
+  "corporation_name": "ShatteredMoon Expedition",
+  "alliance_name": null
+}

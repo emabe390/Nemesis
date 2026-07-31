@@ -1,0 +1,40 @@
+{
+  "character_id": 2116168155,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1038660945,
+    "name": "Character 1038660945",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98528707,
+    "alliance_id": null,
+    "corporation_name": "Independent Pilots Association",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1038660945,
+      "name": "Character 1038660945",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1465355095,
+      "name": "Severus Archanas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adder Rolle",
+  "corporation_id": 98662323,
+  "alliance_id": 99010756,
+  "corporation_name": "Voidhounds",
+  "alliance_name": "Pretenders"
+}

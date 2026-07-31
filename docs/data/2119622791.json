@@ -1,0 +1,40 @@
+{
+  "character_id": 2119622791,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 307466144,
+    "name": "Bal'Ayle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 209540908,
+    "alliance_id": null,
+    "corporation_name": "Steel Battalion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 307466144,
+      "name": "Bal'Ayle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119871777,
+      "name": "Burgle Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123114884,
+      "name": "Elara Virelle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kot Asyr",
+  "corporation_id": 98704009,
+  "alliance_id": 99014289,
+  "corporation_name": "Curators in Space",
+  "alliance_name": "Ibuprofen Chapter"
+}

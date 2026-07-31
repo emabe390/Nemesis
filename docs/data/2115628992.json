@@ -1,0 +1,52 @@
+{
+  "character_id": 2115628992,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123198595,
+    "name": "Dersaths",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98815936,
+    "alliance_id": 99014974,
+    "corporation_name": "Vortex Union",
+    "alliance_name": "CapyFriends."
+  },
+  "top_killers": [
+    {
+      "id": 2123198595,
+      "name": "Dersaths",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94240369,
+      "name": "TheMagnet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90890848,
+      "name": "Mel Blanche",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91927594,
+      "name": "Bruce 'Lee' Sin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brutas Touch",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

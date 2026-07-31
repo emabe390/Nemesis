@@ -1,0 +1,52 @@
+{
+  "character_id": 2124169985,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124141672,
+    "name": "Array Cats",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124141672,
+      "name": "Array Cats",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124161603,
+      "name": "FooBot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123966770,
+      "name": "fos for tru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124346285,
+      "name": "Farming Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "comfort cattery",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

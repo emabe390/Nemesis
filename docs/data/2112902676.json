@@ -1,0 +1,52 @@
+{
+  "character_id": 2112902676,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112691344,
+      "name": "RainbowCK Eistiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779574,
+      "name": "Autophysian Lancer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vulcan Rogue",
+  "corporation_id": 355443127,
+  "alliance_id": 1354830081,
+  "corporation_name": "ANZAC ALLIANCE",
+  "alliance_name": "Goonswarm Federation"
+}

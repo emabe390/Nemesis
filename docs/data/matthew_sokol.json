@@ -1,0 +1,34 @@
+{
+  "character_id": 2123823476,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93775532,
+    "name": "Fenix Nikolajsen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98794423,
+    "alliance_id": 99012060,
+    "corporation_name": "Lonetrek Directorate of Taxation",
+    "alliance_name": "Standard Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124087056,
+      "name": "Molly 2cX9k1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Matthew Sokol",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

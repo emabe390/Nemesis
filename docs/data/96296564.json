@@ -1,0 +1,40 @@
+{
+  "character_id": 96296564,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94857233,
+    "name": "Dom Arkaral",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560834,
+    "alliance_id": 99010421,
+    "corporation_name": "Bannheim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 94857233,
+      "name": "Dom Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95045846,
+      "name": "Annah Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kira Alpa",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

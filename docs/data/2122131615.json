@@ -1,0 +1,40 @@
+{
+  "character_id": 2122131615,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114953930,
+    "name": "Suzicide",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98140648,
+    "alliance_id": 99013806,
+    "corporation_name": "The Conference Elite",
+    "alliance_name": "The Conference"
+  },
+  "top_killers": [
+    {
+      "id": 2114953930,
+      "name": "Suzicide",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123043560,
+      "name": "ATOM-D",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kyle Shab Second",
+  "corporation_id": 98789947,
+  "alliance_id": null,
+  "corporation_name": "VM UAODS",
+  "alliance_name": null
+}

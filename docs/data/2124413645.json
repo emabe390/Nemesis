@@ -1,0 +1,52 @@
+{
+  "character_id": 2124413645,
+  "total_losses": 22,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 95215025,
+      "name": "Roar Varg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1753632879,
+      "name": "Nerupo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123499905,
+      "name": "Morn Vex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90679121,
+      "name": "Lir Valhalla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chadisaurus",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

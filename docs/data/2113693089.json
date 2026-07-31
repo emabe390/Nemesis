@@ -1,0 +1,52 @@
+{
+  "character_id": 2113693089,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90969968,
+      "name": "Mark Apol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91423223,
+      "name": "Muad Lib",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91457685,
+      "name": "RomanOlegovich Sokolov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91864941,
+      "name": "Alpher Douglas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Riley MarieMcGee",
+  "corporation_id": 98702288,
+  "alliance_id": 99013972,
+  "corporation_name": "Uncommon Horizon",
+  "alliance_name": "Vikings."
+}

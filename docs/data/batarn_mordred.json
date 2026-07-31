@@ -1,0 +1,52 @@
+{
+  "character_id": 2123486375,
+  "total_losses": 12,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95461953,
+      "name": "Princess Yumi Ceraveli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 191010741,
+      "name": "Ninlarra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 475500356,
+      "name": "Icuwarrior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Batarn Mordred",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

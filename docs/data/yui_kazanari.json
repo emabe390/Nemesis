@@ -1,0 +1,52 @@
+{
+  "character_id": 2123377264,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90517294,
+      "name": "J A Aloysiusz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 255014718,
+      "name": "Pushtan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 713469522,
+      "name": "GambbiT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1019008633,
+      "name": "Qinsane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yui Kazanari",
+  "corporation_id": 98810896,
+  "alliance_id": 386292982,
+  "corporation_name": "Ketsumei",
+  "alliance_name": "Pandemic Legion"
+}

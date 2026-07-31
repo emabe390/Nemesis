@@ -1,0 +1,40 @@
+{
+  "character_id": 2120529396,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 100695819,
+    "name": "abyssaloni",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1089040789,
+    "alliance_id": 386292982,
+    "corporation_name": "Coreli Corporation",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 100695819,
+      "name": "abyssaloni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115049942,
+      "name": "Cly Patrouette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115066812,
+      "name": "DrFriend",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "katagon",
+  "corporation_id": 98736500,
+  "alliance_id": null,
+  "corporation_name": "AVBOT",
+  "alliance_name": null
+}

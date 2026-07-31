@@ -1,0 +1,52 @@
+{
+  "character_id": 2124112393,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95838357,
+    "name": "Deathstar Omega",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 605796230,
+    "alliance_id": null,
+    "corporation_name": "Another War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95838357,
+      "name": "Deathstar Omega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 596478570,
+      "name": "Biced",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117716397,
+      "name": "Ramjag",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114342174,
+      "name": "Nado Tsutola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119123706,
+      "name": "Bob a Ganoosh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tsunala Umari Shihari",
+  "corporation_id": 98807728,
+  "alliance_id": 99014766,
+  "corporation_name": "Imperial Induction",
+  "alliance_name": "Rigged Outcomes"
+}

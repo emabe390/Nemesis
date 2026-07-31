@@ -1,0 +1,40 @@
+{
+  "character_id": 95365294,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 467531216,
+    "name": "Karimiri",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98088416,
+    "alliance_id": 99006750,
+    "corporation_name": "Bean-shidh",
+    "alliance_name": "The Nameless Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 467531216,
+      "name": "Karimiri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115133763,
+      "name": "Paul Steinor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123158257,
+      "name": "Accalaurie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gee Taranogas",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

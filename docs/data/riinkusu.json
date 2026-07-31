@@ -1,0 +1,52 @@
+{
+  "character_id": 2123585923,
+  "total_losses": 21,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2116331445,
+    "name": "Vivien Tolouti",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000107,
+    "alliance_id": null,
+    "corporation_name": "The Scope",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116331445,
+      "name": "Vivien Tolouti",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 358315710,
+      "name": "Rex Umbra",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95702769,
+      "name": "Alahk'ri Olgidar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123520233,
+      "name": "Hydra Revenge",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Riinkusu",
+  "corporation_id": 98810548,
+  "alliance_id": null,
+  "corporation_name": "Mostly Mittens",
+  "alliance_name": null
+}

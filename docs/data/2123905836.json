@@ -1,0 +1,52 @@
+{
+  "character_id": 2123905836,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123905826,
+    "name": "Stellar Sea",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123905826,
+      "name": "Stellar Sea",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117184202,
+      "name": "TB Drip",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122117279,
+      "name": "Kirddavious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123905817,
+      "name": "Stellar ship",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stellar ALEX",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

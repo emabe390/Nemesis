@@ -1,0 +1,40 @@
+{
+  "character_id": 2124290465,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119014832,
+    "name": "Character 2119014832",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809421,
+    "alliance_id": 99003581,
+    "corporation_name": "Orbital Watch",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119014832,
+      "name": "Character 2119014832",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120446729,
+      "name": "Oitoh Zama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kamuto Hujovato",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

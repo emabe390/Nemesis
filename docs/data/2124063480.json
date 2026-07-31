@@ -1,0 +1,52 @@
+{
+  "character_id": 2124063480,
+  "total_losses": 29,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2124159355,
+    "name": "MAX3C",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124159355,
+      "name": "MAX3C",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1549195275,
+      "name": "Val Auroris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115740283,
+      "name": "PK Malfurion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116826354,
+      "name": "Joanna Bayrid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90093028,
+      "name": "Pearleus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MAX1C",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

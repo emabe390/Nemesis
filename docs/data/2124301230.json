@@ -1,0 +1,34 @@
+{
+  "character_id": 2124301230,
+  "total_losses": 10,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2113260118,
+      "name": "Kogen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Venture 04",
+  "corporation_id": 98770931,
+  "alliance_id": null,
+  "corporation_name": "Jenham's Hut",
+  "alliance_name": null
+}

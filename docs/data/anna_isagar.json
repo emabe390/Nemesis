@@ -1,0 +1,52 @@
+{
+  "character_id": 2123331578,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1743892884,
+    "name": "EF Alpha",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 299292798,
+      "name": "valdion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112019513,
+      "name": "Furius Nakar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113915950,
+      "name": "Netalon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anna Isagar",
+  "corporation_id": 98378388,
+  "alliance_id": 99002685,
+  "corporation_name": "Marauders Associated",
+  "alliance_name": "Synergy of Steel"
+}

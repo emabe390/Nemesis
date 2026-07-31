@@ -1,0 +1,52 @@
+{
+  "character_id": 95430414,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90950499,
+    "name": "Kebus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98307125,
+    "alliance_id": 1354830081,
+    "corporation_name": "Nemesis Logistics",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90950499,
+      "name": "Kebus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 448452178,
+      "name": "Aulis Saiden",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90062384,
+      "name": "Cos'mo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90456710,
+      "name": "R S Stoner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Reseth Doe",
+  "corporation_id": 98786448,
+  "alliance_id": 99009927,
+  "corporation_name": "The Reason is Treason",
+  "alliance_name": "Deepwater Hooligans"
+}

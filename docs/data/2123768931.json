@@ -1,0 +1,40 @@
+{
+  "character_id": 2123768931,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 147803350,
+    "name": "StarGE",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98146856,
+    "alliance_id": 99012369,
+    "corporation_name": "Hartz.IV",
+    "alliance_name": "OUT OF THE DEEP"
+  },
+  "top_killers": [
+    {
+      "id": 147803350,
+      "name": "StarGE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 593062193,
+      "name": "Annexile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96938711,
+      "name": "Ahura Lysoren",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victoria Venomscythe",
+  "corporation_id": 98704009,
+  "alliance_id": 99014289,
+  "corporation_name": "Curators in Space",
+  "alliance_name": "Ibuprofen Chapter"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124303326,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 245145018,
+    "name": "Barbens",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98821045,
+    "alliance_id": null,
+    "corporation_name": "Pithatus Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 245145018,
+      "name": "Barbens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507620,
+      "name": "TORPONG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miyoko Kuso",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

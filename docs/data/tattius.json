@@ -1,0 +1,46 @@
+{
+  "character_id": 2118353454,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1734727666,
+    "name": "dodo read",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 668298004,
+    "alliance_id": 99003581,
+    "corporation_name": "Sacred Templars",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1734727666,
+      "name": "dodo read",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112935470,
+      "name": "Yrgrasil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113072284,
+      "name": "Nartok Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116870755,
+      "name": "Thahn Snowden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tattius",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

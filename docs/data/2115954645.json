@@ -1,0 +1,40 @@
+{
+  "character_id": 2115954645,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ilay Ferral",
+  "corporation_id": 98770821,
+  "alliance_id": null,
+  "corporation_name": "Anysollocorp",
+  "alliance_name": null
+}

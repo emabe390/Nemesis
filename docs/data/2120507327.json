@@ -1,0 +1,52 @@
+{
+  "character_id": 2120507327,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119676819,
+    "name": "Character 2119676819",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98704266,
+    "alliance_id": null,
+    "corporation_name": "Mongolian Fire Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119676819,
+      "name": "Character 2119676819",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 719834366,
+      "name": "Narcotic XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120346199,
+      "name": "Major Mustard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amarr Weyoun",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

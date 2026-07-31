@@ -1,0 +1,52 @@
+{
+  "character_id": 94547212,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1976030280,
+    "name": "Rammstein USN",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1976030280,
+      "name": "Rammstein USN",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120853034,
+      "name": "Skadana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122994384,
+      "name": "Sister Bravo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90277086,
+      "name": "Ando Gart",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shchigola",
+  "corporation_id": 98382925,
+  "alliance_id": null,
+  "corporation_name": "ANL Master",
+  "alliance_name": null
+}

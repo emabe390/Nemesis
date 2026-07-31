@@ -1,0 +1,40 @@
+{
+  "character_id": 2121351152,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117050997,
+    "name": "Adrian Telure",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 2117050997,
+      "name": "Adrian Telure",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92159291,
+      "name": "Sawyar Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96407478,
+      "name": "Dirty FC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spiteful Kado",
+  "corporation_id": 98829790,
+  "alliance_id": null,
+  "corporation_name": "Doomheirn",
+  "alliance_name": null
+}

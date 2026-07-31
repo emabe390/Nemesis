@@ -1,0 +1,40 @@
+{
+  "character_id": 2123698496,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91857777,
+      "name": "Ophelia Auroradottir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96462409,
+      "name": "Jansen Legend",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lou Skannon",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

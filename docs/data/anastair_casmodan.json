@@ -1,0 +1,52 @@
+{
+  "character_id": 90305185,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2114686815,
+    "name": "Flara Pediati",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98749303,
+    "alliance_id": 99012572,
+    "corporation_name": "Savagerie",
+    "alliance_name": "Wildlife"
+  },
+  "top_killers": [
+    {
+      "id": 2114686815,
+      "name": "Flara Pediati",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 854651415,
+      "name": "Orion Supernova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1101353487,
+      "name": "Lugburz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121789401,
+      "name": "Merc 404",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1701596726,
+      "name": "howling wind",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anastair Casmodan",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

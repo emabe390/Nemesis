@@ -1,0 +1,52 @@
+{
+  "character_id": 2123431445,
+  "total_losses": 78,
+  "unique_killers": 56,
+  "nemesis": {
+    "id": 1103273487,
+    "name": "Triple Deke",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 1103273487,
+      "name": "Triple Deke",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120947517,
+      "name": "Grandad Biff",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 90658635,
+      "name": "Zaneti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Okizu Otsolen",
+  "corporation_id": 98816040,
+  "alliance_id": null,
+  "corporation_name": "Userious Capsuleers",
+  "alliance_name": null
+}

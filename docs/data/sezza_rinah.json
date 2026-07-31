@@ -1,0 +1,40 @@
+{
+  "character_id": 2123906908,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113227201,
+    "name": "Henry Garraway",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790110,
+    "alliance_id": null,
+    "corporation_name": "Dark Mercenary Company",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113227201,
+      "name": "Henry Garraway",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114720110,
+      "name": "Mike Clawfinger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119724974,
+      "name": "Dom Basse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sezza Rinah",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

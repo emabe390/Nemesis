@@ -1,0 +1,52 @@
+{
+  "character_id": 2123795810,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95788278,
+    "name": "Stilte Starving",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822853,
+    "alliance_id": null,
+    "corporation_name": "The Third Horsemen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95788278,
+      "name": "Stilte Starving",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93417319,
+      "name": "Dabragones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94809150,
+      "name": "Andres M Afanador",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brettman Flesh",
+  "corporation_id": 98792377,
+  "alliance_id": 99010877,
+  "corporation_name": "Gnomes Gone Bad",
+  "alliance_name": "Out of the Blue."
+}

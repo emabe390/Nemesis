@@ -1,0 +1,52 @@
+{
+  "character_id": 2122699618,
+  "total_losses": 35,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2121171605,
+    "name": "Digital Blink",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1413715023,
+    "alliance_id": 99011978,
+    "corporation_name": "The Dark Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121171605,
+      "name": "Digital Blink",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114159824,
+      "name": "Doctor Gromov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92529233,
+      "name": "Kyritheous Zarin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92529977,
+      "name": "Hanksy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92851148,
+      "name": "Sweet Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "0Mark",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

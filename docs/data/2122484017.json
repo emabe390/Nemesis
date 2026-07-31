@@ -1,0 +1,40 @@
+{
+  "character_id": 2122484017,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1237782593,
+    "name": "Gallius Vale",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 1237782593,
+      "name": "Gallius Vale",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92330473,
+      "name": "Phil Asanari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Itakito",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

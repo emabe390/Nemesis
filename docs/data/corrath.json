@@ -1,0 +1,52 @@
+{
+  "character_id": 555616023,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90746389,
+    "name": "Sonny O'neil",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1104531524,
+      "name": "Wurdalac",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120441321,
+      "name": "000 HeT B0NHe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121964728,
+      "name": "Pengo Dornov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124230367,
+      "name": "Dr Lance Boil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corrath",
+  "corporation_id": 98305938,
+  "alliance_id": 99005830,
+  "corporation_name": "Stormfrost Technologies",
+  "alliance_name": "Memento Moriendo"
+}

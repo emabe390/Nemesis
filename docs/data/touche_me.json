@@ -1,0 +1,52 @@
+{
+  "character_id": 2124231850,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95698049,
+    "name": "Stuart Akachi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98383253,
+    "alliance_id": null,
+    "corporation_name": "SRHB Holdings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95698049,
+      "name": "Stuart Akachi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96401858,
+      "name": "Emacs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96737980,
+      "name": "Dr JH Watson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122140615,
+      "name": "Ylalen Barviainen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Touche Me",
+  "corporation_id": 98812477,
+  "alliance_id": 99014360,
+  "corporation_name": "Khanid Industrial Syndicate",
+  "alliance_name": "Khanid Industrial Coalition"
+}

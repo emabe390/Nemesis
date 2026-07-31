@@ -1,0 +1,40 @@
+{
+  "character_id": 2123908777,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121407199,
+    "name": "Metalwer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121407199,
+      "name": "Metalwer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204616757,
+      "name": "BBrigwarl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116354915,
+      "name": "Rostar Aya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tharvokis Nhaldrin",
+  "corporation_id": 98651050,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XVIII",
+  "alliance_name": "Absolute Will"
+}

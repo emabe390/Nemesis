@@ -1,0 +1,40 @@
+{
+  "character_id": 2122353744,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119647778,
+    "name": "Steir Austrene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704442,
+    "alliance_id": null,
+    "corporation_name": "Raised by Wolves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119647778,
+      "name": "Steir Austrene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90855161,
+      "name": "Vedja Scrappy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114580132,
+      "name": "Ratatoulie Chipri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Globe Trekker CS",
+  "corporation_id": 98772842,
+  "alliance_id": 99003581,
+  "corporation_name": "New Eden Light Point College",
+  "alliance_name": "Fraternity."
+}

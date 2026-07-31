@@ -1,0 +1,40 @@
+{
+  "character_id": 91083687,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118838746,
+    "name": "Ebie Bayard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98642737,
+    "alliance_id": null,
+    "corporation_name": "Chapayev Void Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118838746,
+      "name": "Ebie Bayard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120440372,
+      "name": "Herumi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121738722,
+      "name": "Hagami",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cyeriph",
+  "corporation_id": 98782663,
+  "alliance_id": 99012908,
+  "corporation_name": "Weyland Yutani Tyrell Heavy Industries",
+  "alliance_name": "Seker Academy"
+}

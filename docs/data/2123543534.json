@@ -1,0 +1,52 @@
+{
+  "character_id": 2123543534,
+  "total_losses": 29,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118076907,
+      "name": "Emperor Zechs Kovacs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119077901,
+      "name": "jon kryz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123655044,
+      "name": "Mali Pas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serenity Coxx",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

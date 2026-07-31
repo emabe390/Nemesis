@@ -1,0 +1,52 @@
+{
+  "character_id": 2124478677,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93705626,
+    "name": "Andy Shearer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94407932,
+      "name": "Crackerjack Severasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 125611579,
+      "name": "Hooker Slice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luna Ladora",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

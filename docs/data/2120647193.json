@@ -1,0 +1,52 @@
+{
+  "character_id": 2120647193,
+  "total_losses": 34,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2116985642,
+    "name": "Skander Ollemari",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98787028,
+    "alliance_id": null,
+    "corporation_name": "Ollemari Prospect and Discovery",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116985642,
+      "name": "Skander Ollemari",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91254567,
+      "name": "Norman Seversky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92788241,
+      "name": "CheesusCrust",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95513793,
+      "name": "Cotia Tian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cander Ordus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

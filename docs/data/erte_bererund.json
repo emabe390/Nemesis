@@ -1,0 +1,40 @@
+{
+  "character_id": 2124495730,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 624674285,
+    "name": "LundeBob",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 931828748,
+    "alliance_id": null,
+    "corporation_name": "PsyCorp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 624674285,
+      "name": "LundeBob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122385126,
+      "name": "MrPD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124009608,
+      "name": "Professional ESS Thief",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erte Bererund",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

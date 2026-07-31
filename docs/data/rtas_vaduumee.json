@@ -1,0 +1,46 @@
+{
+  "character_id": 94904700,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116064095,
+    "name": "Magnus Dangereux",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98812126,
+    "alliance_id": 99012908,
+    "corporation_name": "Fifth Kingdom of Night",
+    "alliance_name": "Seker Academy"
+  },
+  "top_killers": [
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123264865,
+      "name": "Age of Aopostles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123351317,
+      "name": "The Zirninator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rtas Vaduumee",
+  "corporation_id": 98490495,
+  "alliance_id": null,
+  "corporation_name": "IceCap Industries",
+  "alliance_name": null
+}

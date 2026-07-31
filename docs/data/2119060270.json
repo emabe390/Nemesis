@@ -1,0 +1,52 @@
+{
+  "character_id": 2119060270,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 765381115,
+    "name": "Nebula Overseer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1720402314,
+    "alliance_id": 99007629,
+    "corporation_name": "Iron Warriors Legion",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 765381115,
+      "name": "Nebula Overseer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114811417,
+      "name": "Ruslan Maken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119586116,
+      "name": "TitaniumSabot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121989811,
+      "name": "Enturi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122083313,
+      "name": "Asheh Kuha",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Extra Class",
+  "corporation_id": 98835282,
+  "alliance_id": null,
+  "corporation_name": "Goblin Kill Drift",
+  "alliance_name": null
+}

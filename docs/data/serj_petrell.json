@@ -1,0 +1,40 @@
+{
+  "character_id": 2123735562,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 540456268,
+    "name": "Sparkas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98729563,
+    "alliance_id": 99005338,
+    "corporation_name": "Tactical Farmers.",
+    "alliance_name": "Pandemic Horde"
+  },
+  "top_killers": [
+    {
+      "id": 540456268,
+      "name": "Sparkas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 830141653,
+      "name": "Alpheias",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122687090,
+      "name": "Utaka Mabata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serj Petrell",
+  "corporation_id": 98705098,
+  "alliance_id": 99010079,
+  "corporation_name": "Spoopy Services",
+  "alliance_name": "Brave United"
+}

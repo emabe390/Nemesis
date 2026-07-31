@@ -1,0 +1,40 @@
+{
+  "character_id": 2123018287,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122545256,
+    "name": "Beethoven 9th-Symphony 4th-Movement",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750364,
+    "alliance_id": null,
+    "corporation_name": "SIT LUX",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122545256,
+      "name": "Beethoven 9th-Symphony 4th-Movement",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93634948,
+      "name": "Aghatis Tyrenna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122635518,
+      "name": "BrovkiN 86",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WidovBlack",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

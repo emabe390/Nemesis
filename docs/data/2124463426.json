@@ -1,0 +1,46 @@
+{
+  "character_id": 2124463426,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 912523344,
+    "name": "GerminVermin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98197334,
+    "alliance_id": 99014775,
+    "corporation_name": "Empirical Horizon Industries",
+    "alliance_name": "Asymmetric Intent"
+  },
+  "top_killers": [
+    {
+      "id": 912523344,
+      "name": "GerminVermin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122959958,
+      "name": "Hedvard Vetranax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116856584,
+      "name": "DawidB B",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120740063,
+      "name": "Piers Corbyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Narquetes",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

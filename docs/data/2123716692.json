@@ -1,0 +1,52 @@
+{
+  "character_id": 2123716692,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117243575,
+      "name": "Erik Hrothgarsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120798315,
+      "name": "Hornetchild",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NullPointException",
+  "corporation_id": 98809234,
+  "alliance_id": null,
+  "corporation_name": "Framgangur",
+  "alliance_name": null
+}

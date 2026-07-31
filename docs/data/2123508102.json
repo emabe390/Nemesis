@@ -1,0 +1,52 @@
+{
+  "character_id": 2123508102,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114017959,
+    "name": "Bin Orlenard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2114017959,
+      "name": "Bin Orlenard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116565824,
+      "name": "ghostwayn destroyer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117311648,
+      "name": "Doov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118454057,
+      "name": "Lulili",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118999220,
+      "name": "Frofr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haend Hamalia",
+  "corporation_id": 98813436,
+  "alliance_id": null,
+  "corporation_name": "Caldari Expedition",
+  "alliance_name": null
+}

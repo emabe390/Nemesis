@@ -1,0 +1,52 @@
+{
+  "character_id": 2122937234,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 883818051,
+    "name": "solis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1696098108,
+    "alliance_id": 1354830081,
+    "corporation_name": "Trust Doesn't Rust",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 883818051,
+      "name": "solis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94630988,
+      "name": "Roskuwacz Morghulius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94814220,
+      "name": "Rima Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96044483,
+      "name": "Miolaka Gott",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96207013,
+      "name": "WAteR LSV",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frost Bear",
+  "corporation_id": 566825158,
+  "alliance_id": 99003581,
+  "corporation_name": "Gladiators of Rage",
+  "alliance_name": "Fraternity."
+}

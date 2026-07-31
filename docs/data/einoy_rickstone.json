@@ -1,0 +1,52 @@
+{
+  "character_id": 2115464697,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122657605,
+    "name": "Doctor Flanio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781826,
+    "alliance_id": null,
+    "corporation_name": "Mr. Flaniot's Private Clinic",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122657605,
+      "name": "Doctor Flanio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96980839,
+      "name": "Xiao Five2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121902764,
+      "name": "Omtriam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122273032,
+      "name": "Soykaf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Einoy Rickstone",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

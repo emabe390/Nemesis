@@ -1,0 +1,40 @@
+{
+  "character_id": 2118362167,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 111175275,
+    "name": "Sharhaner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Egorchello",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

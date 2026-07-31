@@ -1,0 +1,52 @@
+{
+  "character_id": 2123349329,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1644251886,
+    "name": "mrparty",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 1644251886,
+      "name": "mrparty",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94304638,
+      "name": "Felix Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 398128261,
+      "name": "Setholex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Risto Khan",
+  "corporation_id": 98775084,
+  "alliance_id": 1354830081,
+  "corporation_name": "KhanX Industries",
+  "alliance_name": "Goonswarm Federation"
+}

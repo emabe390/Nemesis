@@ -1,0 +1,46 @@
+{
+  "character_id": 2115633253,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120296200,
+    "name": "BatteryMan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 840323545,
+    "alliance_id": 99011699,
+    "corporation_name": "The Forsakened Few",
+    "alliance_name": "We Forsakened Few"
+  },
+  "top_killers": [
+    {
+      "id": 2120296200,
+      "name": "BatteryMan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93041548,
+      "name": "Lucho IYI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1268475330,
+      "name": "Cynthia Ysolde",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Splant3",
+  "corporation_id": 310281086,
+  "alliance_id": 1354830081,
+  "corporation_name": "Un4seen Development",
+  "alliance_name": "Goonswarm Federation"
+}

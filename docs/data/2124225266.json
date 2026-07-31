@@ -1,0 +1,52 @@
+{
+  "character_id": 2124225266,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90554173,
+    "name": "Piotr Pole",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1809367250,
+      "name": "SlayersTwin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1377422996,
+      "name": "G Khan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121638711,
+      "name": "William Wagnor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121740155,
+      "name": "George Washington 1799",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tatiana De Armas",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

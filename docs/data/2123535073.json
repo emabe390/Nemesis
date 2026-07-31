@@ -1,0 +1,40 @@
+{
+  "character_id": 2123535073,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90267484,
+    "name": "Dominion Death",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98801661,
+    "alliance_id": 99013786,
+    "corporation_name": "DEEPSPACE somewhere",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90267484,
+      "name": "Dominion Death",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120097054,
+      "name": "OAK Honeycomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113461586,
+      "name": "Edgy Shadow-Lord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "johni ronnie",
+  "corporation_id": 98806242,
+  "alliance_id": 99013563,
+  "corporation_name": "VoidRunner Freight",
+  "alliance_name": "Allied Exploration Front AXXF"
+}

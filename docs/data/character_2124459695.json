@@ -1,0 +1,40 @@
+{
+  "character_id": 2124459695,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 617775431,
+    "name": "Svetlania",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 617775431,
+      "name": "Svetlania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112013687,
+      "name": "Svetlania Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123607683,
+      "name": "BennethKoyd",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124459695",
+  "corporation_id": 98119731,
+  "alliance_id": null,
+  "corporation_name": "Neutrino Technologies",
+  "alliance_name": null
+}

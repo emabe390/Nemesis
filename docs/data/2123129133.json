@@ -1,0 +1,40 @@
+{
+  "character_id": 2123129133,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119926405,
+    "name": "The Green Basturd",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98445581,
+    "alliance_id": null,
+    "corporation_name": "Sum Dam Guys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119926405,
+      "name": "The Green Basturd",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121745279,
+      "name": "VeneroID",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122468420,
+      "name": "Gloktra",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Blan Allier",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

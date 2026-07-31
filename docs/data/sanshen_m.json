@@ -1,0 +1,40 @@
+{
+  "character_id": 2123447037,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90408677,
+    "name": "Mefc Ipret",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98722384,
+    "alliance_id": null,
+    "corporation_name": "Mefc Ipret Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96413549,
+      "name": "Strax Solaran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112367544,
+      "name": "Thaddeus Poljus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SANSHEN-M",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

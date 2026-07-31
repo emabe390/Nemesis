@@ -1,0 +1,40 @@
+{
+  "character_id": 178488631,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90159499,
+    "name": "Jeremiah Galtus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98791475,
+    "alliance_id": null,
+    "corporation_name": "Exploding Pixels",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90159499,
+      "name": "Jeremiah Galtus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120925516,
+      "name": "Naomi Hart",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123536075,
+      "name": "Deformed Rabbit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "La Piedra",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

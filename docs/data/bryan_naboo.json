@@ -1,0 +1,34 @@
+{
+  "character_id": 2123772518,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 627126017,
+    "name": "Adrianis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98441060,
+    "alliance_id": 99012617,
+    "corporation_name": "Flames Of Chaos",
+    "alliance_name": "Great Wildlands Conservation Society"
+  },
+  "top_killers": [
+    {
+      "id": 627126017,
+      "name": "Adrianis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114274930,
+      "name": "Dima Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bryan Naboo",
+  "corporation_id": 98683965,
+  "alliance_id": null,
+  "corporation_name": "Soravee Enterprises",
+  "alliance_name": null
+}

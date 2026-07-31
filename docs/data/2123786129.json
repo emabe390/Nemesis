@@ -1,0 +1,52 @@
+{
+  "character_id": 2123786129,
+  "total_losses": 98,
+  "unique_killers": 79,
+  "nemesis": {
+    "id": 647907454,
+    "name": "Fighter Bulls",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98106336,
+    "alliance_id": 99003557,
+    "corporation_name": "Renovatio Invaders",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1691473325,
+      "name": "III Hokage",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92208231,
+      "name": "Brain Acme",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mastaria Dawn",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

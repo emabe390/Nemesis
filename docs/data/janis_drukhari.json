@@ -1,0 +1,52 @@
+{
+  "character_id": 2123672121,
+  "total_losses": 26,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 1158536999,
+    "name": "Martha Gomerz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98683163,
+    "alliance_id": 99011223,
+    "corporation_name": "Arial Enterprise",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 1158536999,
+      "name": "Martha Gomerz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115066812,
+      "name": "DrFriend",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116010155,
+      "name": "Suki Cats",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117061341,
+      "name": "Alextremal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117091126,
+      "name": "james ross banks",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Janis Drukhari",
+  "corporation_id": 98825411,
+  "alliance_id": null,
+  "corporation_name": "Void Hatred",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123337268,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 580537053,
+    "name": "Carusius",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98764551,
+    "alliance_id": 99014027,
+    "corporation_name": "PLA Fleet",
+    "alliance_name": "People's Liberation Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 580537053,
+      "name": "Carusius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115379909,
+      "name": "Flanker VRN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118348874,
+      "name": "Honour submarine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kepa oJIo 13",
+  "corporation_id": 98547677,
+  "alliance_id": null,
+  "corporation_name": "13 corp",
+  "alliance_name": null
+}

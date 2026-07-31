@@ -1,0 +1,52 @@
+{
+  "character_id": 2121492229,
+  "total_losses": 179,
+  "unique_killers": 144,
+  "nemesis": {
+    "id": 2119942097,
+    "name": "MCtimes",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119942097,
+      "name": "MCtimes",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1309649152,
+      "name": "sebaltor",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92051003,
+      "name": "Nedrina Takonin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Captain Harris Kane",
+  "corporation_id": 98760434,
+  "alliance_id": null,
+  "corporation_name": "SS-890",
+  "alliance_name": null
+}

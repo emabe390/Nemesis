@@ -1,0 +1,40 @@
+{
+  "character_id": 2116037154,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 156345365,
+    "name": "Gunni",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 156345365,
+      "name": "Gunni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 594989248,
+      "name": "ser Sacha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 837515632,
+      "name": "Niobe Voorhees",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Prawn Blaster",
+  "corporation_id": 98480050,
+  "alliance_id": 1900696668,
+  "corporation_name": "Fancypants Inc",
+  "alliance_name": "The Initiative."
+}

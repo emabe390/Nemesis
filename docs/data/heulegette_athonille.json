@@ -1,0 +1,40 @@
+{
+  "character_id": 2121296449,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119631295,
+      "name": "Tammiru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121549658,
+      "name": "Caranya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heulegette Athonille",
+  "corporation_id": 98432934,
+  "alliance_id": 99003214,
+  "corporation_name": "Republic Guard",
+  "alliance_name": "Brave Collective"
+}

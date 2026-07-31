@@ -1,0 +1,46 @@
+{
+  "character_id": 2048461871,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121428297,
+    "name": "Rocannon Amilupar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98541311,
+    "alliance_id": 99013223,
+    "corporation_name": "Omnivores of Mediocrity",
+    "alliance_name": "Omnivores"
+  },
+  "top_killers": [
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94003370,
+      "name": "Loc'Na Morbiditti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Dutch Waverly",
+  "corporation_id": 98829386,
+  "alliance_id": 99013285,
+  "corporation_name": "Yskor Industries",
+  "alliance_name": "Incorporeal Conglomerate Society"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1369830530,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 267161652,
+    "name": "Captain Montar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98480050,
+    "alliance_id": 1900696668,
+    "corporation_name": "Fancypants Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 267161652,
+      "name": "Captain Montar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1890306608,
+      "name": "Kazzell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113039054,
+      "name": "Schnitzel Basti-44",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "enterap",
+  "corporation_id": 98390683,
+  "alliance_id": 1354830081,
+  "corporation_name": "Hogyoku",
+  "alliance_name": "Goonswarm Federation"
+}

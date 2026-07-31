@@ -1,0 +1,52 @@
+{
+  "character_id": 2123346786,
+  "total_losses": 20,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115227797,
+    "name": "Danielle Demure",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98617466,
+    "alliance_id": null,
+    "corporation_name": "The Bjorg Collective",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115227797,
+      "name": "Danielle Demure",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2124138639,
+      "name": "Rian Jorund",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118020477,
+      "name": "Rag1ng Goblin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 328910152,
+      "name": "Ma'qeth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123346786",
+  "corporation_id": 98681117,
+  "alliance_id": null,
+  "corporation_name": "MOONFIRE SERVICE PROVIDER",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123646688,
+  "total_losses": 31,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 1780692465,
+    "name": "NanoSpirit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98770177,
+    "alliance_id": null,
+    "corporation_name": "Spirit of the spirits",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1780692465,
+      "name": "NanoSpirit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120089480,
+      "name": "Agatha VanGlicklison",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122191553,
+      "name": "Kahadrus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90542475,
+      "name": "Hitonme Aivo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91415469,
+      "name": "Lasker Emanuel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rezyn Kael",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

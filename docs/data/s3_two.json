@@ -1,0 +1,46 @@
+{
+  "character_id": 2124420343,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113027115,
+    "name": "Rudie DeNiro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407038,
+    "alliance_id": 1966049571,
+    "corporation_name": "Kill'em all. Let Bob sort'em out.",
+    "alliance_name": "Ushra'Khan"
+  },
+  "top_killers": [
+    {
+      "id": 2113027115,
+      "name": "Rudie DeNiro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91708022,
+      "name": "Grady O'Active",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122558117,
+      "name": "Czechoslav",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123627913,
+      "name": "Kyra Zar-Keth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "S3 Two",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

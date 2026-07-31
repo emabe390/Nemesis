@@ -1,0 +1,52 @@
+{
+  "character_id": 2123351058,
+  "total_losses": 82,
+  "unique_killers": 65,
+  "nemesis": {
+    "id": 2112630318,
+    "name": "Henry Bergbauer",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98437227,
+    "alliance_id": 99003581,
+    "corporation_name": "Banished Braindead Zombies",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2112630318,
+      "name": "Henry Bergbauer",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92621545,
+      "name": "Eli Patrouette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94479441,
+      "name": "Grey Veil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96706910,
+      "name": "AutoM Romain",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "BennyMar",
+  "corporation_id": 98437227,
+  "alliance_id": 99003581,
+  "corporation_name": "Banished Braindead Zombies",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123949505,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2118288867,
+    "name": "Zadin Tichim",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98675465,
+    "alliance_id": null,
+    "corporation_name": "BlackStar Arms",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118288867,
+      "name": "Zadin Tichim",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 792997328,
+      "name": "Malus Blackmane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93968170,
+      "name": "Magnus Larson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 206235991,
+      "name": "JD2K",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1077640775,
+      "name": "Danila Killer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark Runa",
+  "corporation_id": 98768588,
+  "alliance_id": 99014289,
+  "corporation_name": "Tiny Toons Inc.",
+  "alliance_name": "Ibuprofen Chapter"
+}

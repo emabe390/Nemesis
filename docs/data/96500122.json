@@ -1,0 +1,40 @@
+{
+  "character_id": 96500122,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122729999,
+    "name": "Naama Bombasta Rakeree",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98258093,
+    "alliance_id": 99009268,
+    "corporation_name": "Strategic Exploration and Development Corp",
+    "alliance_name": "Silent Company"
+  },
+  "top_killers": [
+    {
+      "id": 2122729999,
+      "name": "Naama Bombasta Rakeree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124154194,
+      "name": "mining for minors",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124184750,
+      "name": "mining for adults",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RIK Born",
+  "corporation_id": 98653772,
+  "alliance_id": null,
+  "corporation_name": "Cradle of Humanity Colonization of Mars",
+  "alliance_name": null
+}

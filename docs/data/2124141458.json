@@ -1,0 +1,40 @@
+{
+  "character_id": 2124141458,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93915317,
+    "name": "Friedrich VonHayek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 93915317,
+      "name": "Friedrich VonHayek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119980413,
+      "name": "Character 2119980413",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121734222,
+      "name": "Gleb22",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IronFlow",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

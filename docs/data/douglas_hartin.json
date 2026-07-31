@@ -1,0 +1,40 @@
+{
+  "character_id": 96380596,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120460255,
+    "name": "MaybeNinja",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98738015,
+    "alliance_id": 99011908,
+    "corporation_name": "The Monsters Inc",
+    "alliance_name": "It's a Skill Issue"
+  },
+  "top_killers": [
+    {
+      "id": 2120460255,
+      "name": "MaybeNinja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121179685,
+      "name": "The Ninja Baby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121276341,
+      "name": "Pavoneo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Douglas Hartin",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

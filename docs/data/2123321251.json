@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321251,
+  "total_losses": 30,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2123321252,
+    "name": "Excavator Delta",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98249511,
+    "alliance_id": null,
+    "corporation_name": "Istvaan V",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123321252,
+      "name": "Excavator Delta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93940633,
+      "name": "Lai Lai Shalastringe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244140,
+      "name": "SweepZ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119746533,
+      "name": "Galliana Skade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122313628,
+      "name": "Viiss",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Excavator Gamma",
+  "corporation_id": 98249511,
+  "alliance_id": null,
+  "corporation_name": "Istvaan V",
+  "alliance_name": null
+}

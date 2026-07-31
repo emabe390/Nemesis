@@ -1,0 +1,40 @@
+{
+  "character_id": 2121106808,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115104516,
+    "name": "Migulai Cesaille",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796946,
+    "alliance_id": 99007887,
+    "corporation_name": "Hunky-Dory",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2115104516,
+      "name": "Migulai Cesaille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93810485,
+      "name": "Priester Tu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 371069852,
+      "name": "mr Darius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mareniala",
+  "corporation_id": 98737841,
+  "alliance_id": null,
+  "corporation_name": "Insomnia Endless",
+  "alliance_name": null
+}

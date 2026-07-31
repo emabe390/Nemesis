@@ -1,0 +1,52 @@
+{
+  "character_id": 2122017753,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 90802673,
+    "name": "colin brunner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98689216,
+    "alliance_id": null,
+    "corporation_name": "Tutel Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90802673,
+      "name": "colin brunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 559883966,
+      "name": "ceyriot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93316625,
+      "name": "Coyote Benihime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94420890,
+      "name": "Nero Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95509019,
+      "name": "Zopiclone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kuroda Toshio",
+  "corporation_id": 98831691,
+  "alliance_id": null,
+  "corporation_name": "Toshio Ventures",
+  "alliance_name": null
+}

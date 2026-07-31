@@ -1,0 +1,40 @@
+{
+  "character_id": 2123674624,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1193638512,
+    "name": "muustaffa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1756190249,
+    "alliance_id": 701459600,
+    "corporation_name": "Arcane Odyssey",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 1193638512,
+      "name": "muustaffa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123655887,
+      "name": "Special One89",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123806550,
+      "name": "annie zheng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AJ54",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2122292442,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 703462502,
+    "name": "Potential Impact",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 703462502,
+      "name": "Potential Impact",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113418708,
+      "name": "Austin Asanari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "In-N-Out",
+  "corporation_id": 98796984,
+  "alliance_id": null,
+  "corporation_name": "Exploit Early and Often",
+  "alliance_name": null
+}

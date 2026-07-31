@@ -1,0 +1,40 @@
+{
+  "character_id": 2124493740,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112899927,
+    "name": "Ailith Mcrae",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98592854,
+    "alliance_id": 495729389,
+    "corporation_name": "Mea Culpa.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2112899927,
+      "name": "Ailith Mcrae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121654297,
+      "name": "Bojeck second",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hadal Noban",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

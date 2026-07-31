@@ -1,0 +1,40 @@
+{
+  "character_id": 2113226855,
+  "total_losses": 15,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123580330,
+    "name": "Devil K",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98772281,
+    "alliance_id": null,
+    "corporation_name": "Vyriy Renigate WH",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123580330,
+      "name": "Devil K",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123682648,
+      "name": "Devil L",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123689166,
+      "name": "Devil N",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Sonya Space",
+  "corporation_id": 98772281,
+  "alliance_id": null,
+  "corporation_name": "Vyriy Renigate WH",
+  "alliance_name": null
+}

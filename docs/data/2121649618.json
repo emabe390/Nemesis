@@ -1,0 +1,40 @@
+{
+  "character_id": 2121649618,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121504672,
+    "name": "SadMU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798876,
+    "alliance_id": 99009927,
+    "corporation_name": "Family Guy.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2121504672,
+      "name": "SadMU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91786123,
+      "name": "KracKstar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Terrrible",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

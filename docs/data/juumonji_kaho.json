@@ -1,0 +1,40 @@
+{
+  "character_id": 2123334483,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90694468,
+    "name": "Kari Enderas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98478883,
+    "alliance_id": 99004901,
+    "corporation_name": "Know-Nothings",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 90694468,
+      "name": "Kari Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117000394,
+      "name": "I Want YourThorax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121761982,
+      "name": "Dr Jewlittle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Juumonji Kaho",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

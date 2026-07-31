@@ -1,0 +1,40 @@
+{
+  "character_id": 2123353371,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 900002015,
+    "name": "Saint Akcent",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98091322,
+    "alliance_id": null,
+    "corporation_name": "Why You Dont Get A Job",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 900002015,
+      "name": "Saint Akcent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 901320273,
+      "name": "Rahmiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123854306,
+      "name": "One Wild Ride",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ganji-Echo",
+  "corporation_id": 98823209,
+  "alliance_id": 99014249,
+  "corporation_name": "GanJi Nomad Life",
+  "alliance_name": "Nisuwa Cartel Assoiate"
+}

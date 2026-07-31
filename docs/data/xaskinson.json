@@ -1,0 +1,40 @@
+{
+  "character_id": 2123352704,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119509984,
+    "name": "Canis Majoris I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2119509984,
+      "name": "Canis Majoris I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113282657,
+      "name": "Alana Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xaskinson",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

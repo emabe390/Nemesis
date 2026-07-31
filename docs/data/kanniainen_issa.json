@@ -1,0 +1,52 @@
+{
+  "character_id": 2124022100,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 926832912,
+    "name": "Mike X",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 273908971,
+    "alliance_id": null,
+    "corporation_name": "Heavy Load",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 926832912,
+      "name": "Mike X",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123035717,
+      "name": "Alfred Vulkan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123227866,
+      "name": "yuan-nian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115775393,
+      "name": "Evas Askiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123163594,
+      "name": "Shao maye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kanniainen Issa",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

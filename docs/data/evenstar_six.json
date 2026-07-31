@@ -1,0 +1,52 @@
+{
+  "character_id": 2120800579,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120438800,
+    "name": "Sergey Mopsan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98770220,
+    "alliance_id": 99007203,
+    "corporation_name": "POLAR ZEBRA",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2120438800,
+      "name": "Sergey Mopsan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95557335,
+      "name": "Oria Pozzolo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117421302,
+      "name": "Weis Moliko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123034621,
+      "name": "YordanRG2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123355028,
+      "name": "BorqnaRG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Evenstar Six",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124078122,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 304652582,
+    "name": "Malcolm Malicious",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98767830,
+    "alliance_id": 1900696668,
+    "corporation_name": "Suddenly a Covert Cyno",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1057871168,
+      "name": "Illag",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 871846177,
+      "name": "Johnny Punisher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harper of Hell",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

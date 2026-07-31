@@ -1,0 +1,52 @@
+{
+  "character_id": 2123222227,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123775627,
+    "name": "Stoic Jared",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123775627,
+      "name": "Stoic Jared",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95771626,
+      "name": "nemo cell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95848652,
+      "name": "Ceycey Cell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118847820,
+      "name": "Jakkalas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123030234,
+      "name": "Fading Lotus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VasiliiTuchin",
+  "corporation_id": 98820695,
+  "alliance_id": null,
+  "corporation_name": "Puella in cursoriam",
+  "alliance_name": null
+}

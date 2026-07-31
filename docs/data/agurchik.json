@@ -1,0 +1,40 @@
+{
+  "character_id": 2124270024,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96237614,
+    "name": "Wezer Arkaral",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96237614,
+      "name": "Wezer Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121081890,
+      "name": "MAT1NKA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122977562,
+      "name": "Robertus Fillimus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agurchik",
+  "corporation_id": 98834019,
+  "alliance_id": 99009698,
+  "corporation_name": "Mindless Warp",
+  "alliance_name": "Worst Alliance Ever"
+}

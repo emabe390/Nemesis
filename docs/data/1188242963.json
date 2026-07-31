@@ -1,0 +1,40 @@
+{
+  "character_id": 1188242963,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119337393,
+    "name": "James Fuchs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670023,
+    "alliance_id": 99010569,
+    "corporation_name": "Bigbadaboom.",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 2119337393,
+      "name": "James Fuchs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92223941,
+      "name": "Kormik Deldaine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Piltra",
+  "corporation_id": 98638260,
+  "alliance_id": null,
+  "corporation_name": "Perfera Inc.",
+  "alliance_name": null
+}

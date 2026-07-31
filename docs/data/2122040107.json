@@ -1,0 +1,52 @@
+{
+  "character_id": 2122040107,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2048308422,
+    "name": "Fazzini",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98742941,
+    "alliance_id": null,
+    "corporation_name": "Steele Technology and Security Solutions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2048308422,
+      "name": "Fazzini",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115838718,
+      "name": "Martin Dagoalie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116429938,
+      "name": "Terra Tur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122472471,
+      "name": "BoomBlapPow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92151140,
+      "name": "Coat Hanga Strangla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Laimia",
+  "corporation_id": 101116365,
+  "alliance_id": 1988009451,
+  "corporation_name": "W.A.S.P",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124428533,
+  "total_losses": 41,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2122925646,
+    "name": "Klae's Ashford",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98834822,
+    "alliance_id": null,
+    "corporation_name": "Halfway - House",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122925646,
+      "name": "Klae's Ashford",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93329161,
+      "name": "Skeld Ataru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117349112,
+      "name": "PulseToneSwitch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120025385,
+      "name": "Tomastamouth",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Grisvok",
+  "corporation_id": 98828460,
+  "alliance_id": 99013548,
+  "corporation_name": "PhaseShift Drifters",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123998688,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 685821067,
+    "name": "Didier Oriol",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831204,
+    "alliance_id": 99015113,
+    "corporation_name": "Nine Lives Privateering Company",
+    "alliance_name": "Apex Mercantile"
+  },
+  "top_killers": [
+    {
+      "id": 685821067,
+      "name": "Didier Oriol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116627743,
+      "name": "Mina Stars",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91446301,
+      "name": "Senji Vuran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93983949,
+      "name": "Vinni metalSHADOW Walker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inspector Ping",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

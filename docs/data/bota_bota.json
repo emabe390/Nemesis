@@ -1,0 +1,40 @@
+{
+  "character_id": 2123544681,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123328932,
+    "name": "Nyx Hariere",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98804970,
+    "alliance_id": 99010240,
+    "corporation_name": "Side Step Fantasy",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 2123328932,
+      "name": "Nyx Hariere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 543798761,
+      "name": "EosCanon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 720593248,
+      "name": "Arthur McFredric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bota Bota",
+  "corporation_id": 98791042,
+  "alliance_id": 99014348,
+  "corporation_name": "Super Star Way",
+  "alliance_name": "K162 Collective"
+}

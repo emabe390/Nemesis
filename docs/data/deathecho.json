@@ -1,0 +1,52 @@
+{
+  "character_id": 2122615035,
+  "total_losses": 22,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90600837,
+      "name": "Avalon Xander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95131238,
+      "name": "Spin Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DeathEcho",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

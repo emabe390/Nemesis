@@ -1,0 +1,34 @@
+{
+  "character_id": 2124109938,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118889780,
+    "name": "Nao San",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98647879,
+    "alliance_id": 99005178,
+    "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2118889780,
+      "name": "Nao San",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118916233,
+      "name": "Meru Tea",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wulff Kronker",
+  "corporation_id": 98825487,
+  "alliance_id": null,
+  "corporation_name": "WK TA Corporation",
+  "alliance_name": null
+}

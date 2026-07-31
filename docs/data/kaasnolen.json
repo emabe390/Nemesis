@@ -1,0 +1,46 @@
+{
+  "character_id": 2123207558,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90001077,
+    "name": "Jason Roderick",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98782630,
+    "alliance_id": 99013846,
+    "corporation_name": "Striking Distance",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 90001077,
+      "name": "Jason Roderick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120623711,
+      "name": "i-obtained-a-mythic-item",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120874414,
+      "name": "Character 2120874414",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123409700,
+      "name": "Richard Roquefort",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KaasNolen",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

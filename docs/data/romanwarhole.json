@@ -1,0 +1,40 @@
+{
+  "character_id": 2124372032,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123080081,
+      "name": "Dogwelder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RomanWarhole",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

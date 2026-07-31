@@ -1,0 +1,40 @@
+{
+  "character_id": 2123612543,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 723464163,
+      "name": "Wulfrunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SvorgK",
+  "corporation_id": 98707671,
+  "alliance_id": 99011119,
+  "corporation_name": "Absolute Order XXXVII",
+  "alliance_name": "Absolute Glory"
+}

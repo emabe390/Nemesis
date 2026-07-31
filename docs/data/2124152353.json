@@ -1,0 +1,52 @@
+{
+  "character_id": 2124152353,
+  "total_losses": 54,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 96608657,
+    "name": "Krutor Mordorr",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1022815351,
+    "alliance_id": null,
+    "corporation_name": "korpa pYco",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95200722,
+      "name": "Almageme",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113400745,
+      "name": "Aguero Kelmalu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116343716,
+      "name": "Anrem Smaragdu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117836740,
+      "name": "ComradeToan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Otto Erstschlag",
+  "corporation_id": 98795756,
+  "alliance_id": 99011416,
+  "corporation_name": "Dark Path",
+  "alliance_name": "LinkNet"
+}

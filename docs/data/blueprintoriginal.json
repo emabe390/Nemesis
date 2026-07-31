@@ -1,0 +1,40 @@
+{
+  "character_id": 2120409466,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116694548,
+    "name": "Nuclear Camel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98597090,
+    "alliance_id": null,
+    "corporation_name": "Beyond Knowledge Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116694548,
+      "name": "Nuclear Camel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123751928,
+      "name": "DuctTape Diplomat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90596370,
+      "name": "Gunnarr Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BluePrintOriginal",
+  "corporation_id": 98735584,
+  "alliance_id": null,
+  "corporation_name": "BluePrintCorp",
+  "alliance_name": null
+}

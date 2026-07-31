@@ -1,0 +1,40 @@
+{
+  "character_id": 2123457950,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119775647,
+    "name": "Y6430",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119775647,
+      "name": "Y6430",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120109613,
+      "name": "li huan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122359541,
+      "name": "Sputnizia Thorius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cokey Rails",
+  "corporation_id": 98669523,
+  "alliance_id": 99013284,
+  "corporation_name": "Airwolf incorporated",
+  "alliance_name": "Grand Inquisitors Federation"
+}

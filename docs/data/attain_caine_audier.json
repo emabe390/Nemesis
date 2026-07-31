@@ -1,0 +1,40 @@
+{
+  "character_id": 2123527416,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118999220,
+      "name": "Frofr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Attain Caine Audier",
+  "corporation_id": 98105779,
+  "alliance_id": null,
+  "corporation_name": "Zinnober Inc.",
+  "alliance_name": null
+}

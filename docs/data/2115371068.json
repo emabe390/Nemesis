@@ -1,0 +1,46 @@
+{
+  "character_id": 2115371068,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115625320,
+      "name": "Emberlon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123255343,
+      "name": "Blood Raider Goomb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123403681,
+      "name": "Alice Spade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alicorn Bibbs",
+  "corporation_id": 98811660,
+  "alliance_id": 99014247,
+  "corporation_name": "Cartel logistics Inc.",
+  "alliance_name": "Twenty Thousand Leagues Out of the SEA."
+}

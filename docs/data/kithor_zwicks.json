@@ -1,0 +1,40 @@
+{
+  "character_id": 2123471201,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116601950,
+    "name": "James Beratna",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98718731,
+    "alliance_id": null,
+    "corporation_name": "Amish Pervert Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116601950,
+      "name": "James Beratna",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93684815,
+      "name": "Stenten Brath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1736153115,
+      "name": "Quedrin Vornel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kithor Zwicks",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

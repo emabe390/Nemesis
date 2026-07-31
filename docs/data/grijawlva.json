@@ -1,0 +1,52 @@
+{
+  "character_id": 2121783751,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121701076,
+    "name": "DeathMagnet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121701076,
+      "name": "DeathMagnet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91926327,
+      "name": "Kingababa Nyulo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92207531,
+      "name": "Joffy Aulx-Gao",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95753951,
+      "name": "typhoooon Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96324900,
+      "name": "June Kalfren",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grijawlva",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

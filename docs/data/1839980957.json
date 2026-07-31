@@ -1,0 +1,52 @@
+{
+  "character_id": 1839980957,
+  "total_losses": 28,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 628459004,
+    "name": "Edriahn",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98757488,
+    "alliance_id": 99003581,
+    "corporation_name": "Jack Daniels Elite Squadron",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 628459004,
+      "name": "Edriahn",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 2120037091,
+      "name": "TestoSlaine",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92274021,
+      "name": "Priomus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95297811,
+      "name": "Andy Starhand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 185091346,
+      "name": "Emiko Xu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valis Era",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

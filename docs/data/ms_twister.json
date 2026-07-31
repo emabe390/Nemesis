@@ -1,0 +1,52 @@
+{
+  "character_id": 91674011,
+  "total_losses": 37,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2121174593,
+    "name": "WarmSprite",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98738496,
+    "alliance_id": null,
+    "corporation_name": "One Bitcoin",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121174593,
+      "name": "WarmSprite",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90456191,
+      "name": "Capitan Laser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91470795,
+      "name": "Marqus Aurellius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91636129,
+      "name": "Rufus Okanata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ms Twister",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

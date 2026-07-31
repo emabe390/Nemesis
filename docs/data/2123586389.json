@@ -1,0 +1,52 @@
+{
+  "character_id": 2123586389,
+  "total_losses": 26,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91310910,
+      "name": "Mortikai Ronuken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94402294,
+      "name": "Sohzu Enaka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "The Cormorant",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124221717,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92180062,
+    "name": "Shilliam Watner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2116988196,
+      "name": "Zombi 2020",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jula Rain",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

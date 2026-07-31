@@ -1,0 +1,46 @@
+{
+  "character_id": 2123916342,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112240077,
+    "name": "Character 2112240077",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98531454,
+    "alliance_id": 1354830081,
+    "corporation_name": "Asteroid Farm Unlimited",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112240077,
+      "name": "Character 2112240077",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92748454,
+      "name": "Boomer Armada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121808706,
+      "name": "Empowered Bussy Blaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123436556,
+      "name": "Agragnom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yezor Yass",
+  "corporation_id": 98582333,
+  "alliance_id": null,
+  "corporation_name": "Last Stand Enterprises",
+  "alliance_name": null
+}

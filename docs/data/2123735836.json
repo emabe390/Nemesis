@@ -1,0 +1,52 @@
+{
+  "character_id": 2123735836,
+  "total_losses": 27,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121380536,
+    "name": "Mog-Ri",
+    "kill_count": 18,
+    "final_blows": 18,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2121380536,
+      "name": "Mog-Ri",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 2112585827,
+      "name": "Luigi Cadorna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91603660,
+      "name": "Lee Flint",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94358977,
+      "name": "Lachdanan ImmO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 149693078,
+      "name": "Gats",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mog-Vi",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

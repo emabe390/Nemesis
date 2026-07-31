@@ -1,0 +1,52 @@
+{
+  "character_id": 2123666489,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 641794466,
+    "name": "Kilroy S",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90598465,
+      "name": "Aleks 47598",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1963425214,
+      "name": "Khaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120153886,
+      "name": "Marc Kalouf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ferdinand Ernest",
+  "corporation_id": 98707671,
+  "alliance_id": 99011119,
+  "corporation_name": "Absolute Order XXXVII",
+  "alliance_name": "Absolute Glory"
+}

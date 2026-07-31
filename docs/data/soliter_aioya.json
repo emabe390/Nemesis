@@ -1,0 +1,40 @@
+{
+  "character_id": 2117931220,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 560130778,
+    "name": "Arkenston",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98791332,
+    "alliance_id": 1354830081,
+    "corporation_name": "Imperial Ghosts",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 560130778,
+      "name": "Arkenston",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114160035,
+      "name": "Vaex Kautsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117931220,
+      "name": "Soliter aioya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soliter aioya",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123546835,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 886313496,
+    "name": "Kainata",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 209540908,
+    "alliance_id": null,
+    "corporation_name": "Steel Battalion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 886313496,
+      "name": "Kainata",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120234627,
+      "name": "PedroFTW2022",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 884116165,
+      "name": "Eva Unit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116401284,
+      "name": "lowwhiper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117792360,
+      "name": "JEdge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oggie Rikter",
+  "corporation_id": 98720974,
+  "alliance_id": 99011206,
+  "corporation_name": "Lonely Taco LLC",
+  "alliance_name": "APOC Fleet Auxiliary"
+}

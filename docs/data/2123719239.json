@@ -1,0 +1,52 @@
+{
+  "character_id": 2123719239,
+  "total_losses": 18,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1504819197,
+    "name": "Sergil",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98577010,
+    "alliance_id": null,
+    "corporation_name": "Press F to Pay Respects",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1504819197,
+      "name": "Sergil",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90323169,
+      "name": "Aeth Gemulus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91082963,
+      "name": "Trevor coller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92571320,
+      "name": "Arhont Sibirskii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92668441,
+      "name": "Iv d'Este",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MrsCaliban",
+  "corporation_id": 98817566,
+  "alliance_id": 99005338,
+  "corporation_name": "Cool Beans Inc.",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114570232,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121959468,
+    "name": "Ahb Squatch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760758,
+    "alliance_id": null,
+    "corporation_name": "Squatch Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121959468,
+      "name": "Ahb Squatch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94414008,
+      "name": "Percy Rask",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GleamStar",
+  "corporation_id": 853746728,
+  "alliance_id": 99008674,
+  "corporation_name": "Black Night Industries",
+  "alliance_name": "BORE"
+}

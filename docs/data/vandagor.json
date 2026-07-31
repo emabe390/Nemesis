@@ -1,0 +1,52 @@
+{
+  "character_id": 2123842451,
+  "total_losses": 20,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 93742153,
+    "name": "Dorothy Galle",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98258966,
+    "alliance_id": 99004556,
+    "corporation_name": "Alice's Adventures in Wonderland",
+    "alliance_name": "A Mad Tea-Party"
+  },
+  "top_killers": [
+    {
+      "id": 93742153,
+      "name": "Dorothy Galle",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119421746,
+      "name": "XIMRIA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91609531,
+      "name": "ChaosDuke Mayhem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "vandagor",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

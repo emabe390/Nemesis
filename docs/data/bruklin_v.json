@@ -1,0 +1,40 @@
+{
+  "character_id": 2122404570,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 735288141,
+    "name": "Tefkros",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113994596,
+      "name": "Fox 451",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114823136,
+      "name": "Solar-Macharius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BRUKLIN V",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

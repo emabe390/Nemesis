@@ -1,0 +1,40 @@
+{
+  "character_id": 2123792725,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117693930,
+    "name": "Maverick Odunen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755828,
+    "alliance_id": 1900696668,
+    "corporation_name": "A Leap Of Faith",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2117693930,
+      "name": "Maverick Odunen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112390912,
+      "name": "destroyer Koskanaiken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113667545,
+      "name": "Matysek Tsukaya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jana z Prahy",
+  "corporation_id": 98812344,
+  "alliance_id": null,
+  "corporation_name": "Morti's Flock",
+  "alliance_name": null
+}

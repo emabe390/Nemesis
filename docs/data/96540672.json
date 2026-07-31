@@ -1,0 +1,52 @@
+{
+  "character_id": 96540672,
+  "total_losses": 41,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 96035709,
+    "name": "Henning fon Holzendorf",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 96035709,
+      "name": "Henning fon Holzendorf",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113707288,
+      "name": "Eposz Asques",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90646018,
+      "name": "Viby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90659782,
+      "name": "Gedeon Deka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harry Pottah",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

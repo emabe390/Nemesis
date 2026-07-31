@@ -1,0 +1,52 @@
+{
+  "character_id": 2123581819,
+  "total_losses": 15,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 333400488,
+    "name": "gigas fly",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98251178,
+    "alliance_id": null,
+    "corporation_name": "Starlight Conquistador's",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 333400488,
+      "name": "gigas fly",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2114271116,
+      "name": "Grimfang Wyrmspawn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123075549,
+      "name": "Oberyn Darkstar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "kj john",
+  "corporation_id": 98728397,
+  "alliance_id": 99012722,
+  "corporation_name": "HIGH SEC MINING CORP",
+  "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
+}

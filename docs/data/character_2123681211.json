@@ -1,0 +1,40 @@
+{
+  "character_id": 2123681211,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90360702,
+    "name": "Ethien Green",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98343343,
+    "alliance_id": 99004567,
+    "corporation_name": "Anoikis Equilibrium",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 90360702,
+      "name": "Ethien Green",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94858146,
+      "name": "Amy Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119926405,
+      "name": "The Green Basturd",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123681211",
+  "corporation_id": 98727939,
+  "alliance_id": 99013028,
+  "corporation_name": "The Regency",
+  "alliance_name": "The Monarchy"
+}

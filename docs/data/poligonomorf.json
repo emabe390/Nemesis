@@ -1,0 +1,52 @@
+{
+  "character_id": 2123668203,
+  "total_losses": 55,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 481275935,
+    "name": "Character 481275935",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98549888,
+    "alliance_id": 99009416,
+    "corporation_name": "Quiet Passenger",
+    "alliance_name": "THE BESTICLES"
+  },
+  "top_killers": [
+    {
+      "id": 481275935,
+      "name": "Character 481275935",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91630190,
+      "name": "Bedloun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92682146,
+      "name": "Character 92682146",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 106556690,
+      "name": "Perfect Unit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 265058532,
+      "name": "Dr Maus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Poligonomorf",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

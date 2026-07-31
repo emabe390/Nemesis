@@ -1,0 +1,40 @@
+{
+  "character_id": 2124160601,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1121029034,
+    "name": "Cpt Armarlio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98614632,
+    "alliance_id": null,
+    "corporation_name": "Scary Ships On D-Scan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123653965,
+      "name": "Misha Zoha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pol Peveks",
+  "corporation_id": 98631060,
+  "alliance_id": 99012070,
+  "corporation_name": "Russian Space Academy",
+  "alliance_name": "PEPE SQUAD"
+}

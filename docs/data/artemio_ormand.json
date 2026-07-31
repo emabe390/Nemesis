@@ -1,0 +1,40 @@
+{
+  "character_id": 96018146,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1427803393,
+    "name": "Obsidian Scar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1570552560,
+      "name": "Max Churchill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113032572,
+      "name": "Bessie Mae Palmer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artemio Ormand",
+  "corporation_id": 98462903,
+  "alliance_id": null,
+  "corporation_name": "Ormand's Asset Management Ltd.",
+  "alliance_name": null
+}

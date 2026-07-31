@@ -1,0 +1,52 @@
+{
+  "character_id": 2124332298,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2113632121,
+    "name": "The BigMayo",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113632121,
+      "name": "The BigMayo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90597913,
+      "name": "4 Weeks Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94857233,
+      "name": "Dom Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1005712057,
+      "name": "Tarcq",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "vampire-501",
+  "corporation_id": 98782926,
+  "alliance_id": null,
+  "corporation_name": "Baiyu Lou",
+  "alliance_name": null
+}

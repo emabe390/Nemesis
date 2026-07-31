@@ -1,0 +1,40 @@
+{
+  "character_id": 2123682206,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120292886,
+    "name": "Axis Gal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120292886,
+      "name": "Axis Gal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94402359,
+      "name": "alexander grimtotem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120987401,
+      "name": "trollerolle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sokatta",
+  "corporation_id": 98809227,
+  "alliance_id": null,
+  "corporation_name": "Raiders Crew",
+  "alliance_name": null
+}

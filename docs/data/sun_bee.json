@@ -1,0 +1,34 @@
+{
+  "character_id": 2122391098,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121277981,
+    "name": "Saraki Co 1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98761960,
+    "alliance_id": 99013359,
+    "corporation_name": "Scytodidae",
+    "alliance_name": "Core Collection and Sales"
+  },
+  "top_killers": [
+    {
+      "id": 2121277981,
+      "name": "Saraki Co 1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sun Bee",
+  "corporation_id": 98807256,
+  "alliance_id": null,
+  "corporation_name": "Jolly Reavers",
+  "alliance_name": null
+}

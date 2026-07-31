@@ -1,0 +1,52 @@
+{
+  "character_id": 2123269037,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 289374601,
+    "name": "Den'orm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98643195,
+    "alliance_id": 99012239,
+    "corporation_name": "I'm Super Bad At This",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1716964112,
+      "name": "HellssAngell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122915166,
+      "name": "Auron Askold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94934180,
+      "name": "Sargon Aretaeus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 145453134,
+      "name": "fosidude",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dvahui",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

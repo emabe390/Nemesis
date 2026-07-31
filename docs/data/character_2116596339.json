@@ -1,0 +1,34 @@
+{
+  "character_id": 2116596339,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119969198,
+    "name": "Juuras Akiga",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630945,
+    "alliance_id": 498125261,
+    "corporation_name": "something something cache stuff",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2119969198,
+      "name": "Juuras Akiga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116596542,
+      "name": "Character 2116596542",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2116596339",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120030128,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92274205,
+    "name": "Victor Sternberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ENPOLI",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

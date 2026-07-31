@@ -1,0 +1,40 @@
+{
+  "character_id": 2122407830,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1059893555,
+    "name": "Kryssare",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98224639,
+    "alliance_id": 99005678,
+    "corporation_name": "Dirt 'n' Glitter",
+    "alliance_name": "Local Is Primary"
+  },
+  "top_killers": [
+    {
+      "id": 1059893555,
+      "name": "Kryssare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 460575556,
+      "name": "CoolDoog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115768728,
+      "name": "My Duck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "5RE",
+  "corporation_id": 98068118,
+  "alliance_id": null,
+  "corporation_name": "Keikira Corporation",
+  "alliance_name": null
+}

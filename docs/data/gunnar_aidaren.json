@@ -1,0 +1,52 @@
+{
+  "character_id": 96567215,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124158377,
+    "name": "Boris-The-Animal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124158377,
+      "name": "Boris-The-Animal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90035216,
+      "name": "Olinad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115624405,
+      "name": "Immanuel Kan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116655799,
+      "name": "Ming Mai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120185553,
+      "name": "TimHorntons",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gunnar Aidaren",
+  "corporation_id": 98093937,
+  "alliance_id": null,
+  "corporation_name": "Preemptive Nautical Salvage Experts",
+  "alliance_name": null
+}

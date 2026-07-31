@@ -1,0 +1,46 @@
+{
+  "character_id": 2123523628,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116990161,
+    "name": "Sabre Jaguar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715717,
+    "alliance_id": 99014092,
+    "corporation_name": "Horngry",
+    "alliance_name": "Quafe Liberation Front"
+  },
+  "top_killers": [
+    {
+      "id": 2116990161,
+      "name": "Sabre Jaguar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116985642,
+      "name": "Skander Ollemari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118792727,
+      "name": "Ovat Shazih",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118847820,
+      "name": "Jakkalas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WorriorZulul",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

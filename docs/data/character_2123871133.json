@@ -1,0 +1,52 @@
+{
+  "character_id": 2123871133,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1620700617,
+    "name": "Felicity May",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000014,
+    "alliance_id": null,
+    "corporation_name": "Perkone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1620700617,
+      "name": "Felicity May",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90594639,
+      "name": "28 Days Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94237200,
+      "name": "Lol Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 845980282,
+      "name": "Paragorn Duvas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123871133",
+  "corporation_id": 98709195,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Union",
+  "alliance_name": "Pillars of Liberty"
+}

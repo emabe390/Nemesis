@@ -1,0 +1,52 @@
+{
+  "character_id": 2117504100,
+  "total_losses": 85,
+  "unique_killers": 75,
+  "nemesis": {
+    "id": 2123783854,
+    "name": "USAGI attack",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98713511,
+    "alliance_id": 99012697,
+    "corporation_name": "nihonium 113th Fleet",
+    "alliance_name": "High Elements Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123783854,
+      "name": "USAGI attack",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90279425,
+      "name": "Piiika Poooka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96724929,
+      "name": "Arthur Hemanseh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 180030157,
+      "name": "Smartii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 684839615,
+      "name": "Reverz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "William Friedman",
+  "corporation_id": 98719882,
+  "alliance_id": null,
+  "corporation_name": "Saint Michael's Army",
+  "alliance_name": null
+}

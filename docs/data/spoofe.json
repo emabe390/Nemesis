@@ -1,0 +1,40 @@
+{
+  "character_id": 815668015,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96251051,
+    "name": "FC - Primary",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98693296,
+    "alliance_id": 1354830081,
+    "corporation_name": "Arsehole Squad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96251051,
+      "name": "FC - Primary",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113317818,
+      "name": "Star Crusade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113833472,
+      "name": "Amarr Victer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spoofe",
+  "corporation_id": 144749962,
+  "alliance_id": 1727758877,
+  "corporation_name": "Evolution",
+  "alliance_name": "Northern Coalition."
+}

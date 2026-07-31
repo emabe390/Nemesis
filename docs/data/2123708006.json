@@ -1,0 +1,46 @@
+{
+  "character_id": 2123708006,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118404432,
+    "name": "AnimaRed",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1975749457,
+    "alliance_id": 933731581,
+    "corporation_name": "No.Mercy",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2118404432,
+      "name": "AnimaRed",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 583575491,
+      "name": "Calyse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1164839908,
+      "name": "Red Beard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lia Becloud",
+  "corporation_id": 98640295,
+  "alliance_id": null,
+  "corporation_name": "Lanoia",
+  "alliance_name": null
+}

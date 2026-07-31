@@ -1,0 +1,52 @@
+{
+  "character_id": 2123082822,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94050539,
+    "name": "jack henry williams",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94050539,
+      "name": "jack henry williams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 662336678,
+      "name": "Daguku",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 963235641,
+      "name": "Arciteck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114832159,
+      "name": "Bardcode Antollare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118951120,
+      "name": "Kilak Harza",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Hawaii",
+  "corporation_id": 98781935,
+  "alliance_id": 99013823,
+  "corporation_name": "Black Ghost Industery",
+  "alliance_name": "Cat Scratch Fevers"
+}

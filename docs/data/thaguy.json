@@ -1,0 +1,52 @@
+{
+  "character_id": 2124182576,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 743054412,
+    "name": "Marcus Terani",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1081304772,
+    "alliance_id": 99014375,
+    "corporation_name": "Deep Axion",
+    "alliance_name": "The Frog Boiler"
+  },
+  "top_killers": [
+    {
+      "id": 743054412,
+      "name": "Marcus Terani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112509044,
+      "name": "Templar-guo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116808491,
+      "name": "ataki T",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117155625,
+      "name": "Fearless-guo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117155632,
+      "name": "Fearless-min",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "THAGUY",
+  "corporation_id": 98827829,
+  "alliance_id": null,
+  "corporation_name": "THAGUY Corporation",
+  "alliance_name": null
+}

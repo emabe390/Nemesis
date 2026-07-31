@@ -1,0 +1,52 @@
+{
+  "character_id": 2112052606,
+  "total_losses": 36,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2118861906,
+    "name": "Sigma Siguri",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98776729,
+    "alliance_id": 99013390,
+    "corporation_name": "Tidal Lock",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2118861906,
+      "name": "Sigma Siguri",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 152292085,
+      "name": "Zodicar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92153304,
+      "name": "Ambitions Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93292422,
+      "name": "Asper Agroman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93964035,
+      "name": "Dinosaurs Rawr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Patrick Anninen",
+  "corporation_id": 98828560,
+  "alliance_id": null,
+  "corporation_name": "Wormhole Security Operator",
+  "alliance_name": null
+}

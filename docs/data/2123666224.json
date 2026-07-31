@@ -1,0 +1,40 @@
+{
+  "character_id": 2123666224,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123681063,
+    "name": "Character 2123681063",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679090,
+    "alliance_id": 99014768,
+    "corporation_name": "Wormholes In Nuts",
+    "alliance_name": "Storm Petrel Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123681063,
+      "name": "Character 2123681063",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1727698026,
+      "name": "Kaeda Maxwell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115166496,
+      "name": "Mthunzi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GraMpa TokaTon",
+  "corporation_id": 978867312,
+  "alliance_id": null,
+  "corporation_name": "Semper Paratus Corp",
+  "alliance_name": null
+}

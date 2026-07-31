@@ -1,0 +1,40 @@
+{
+  "character_id": 2119702712,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1109702253,
+    "name": "Lykhej",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 1109702253,
+      "name": "Lykhej",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112509024,
+      "name": "Andrej Agarkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117880033,
+      "name": "SDENSK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emanga",
+  "corporation_id": 98770220,
+  "alliance_id": 99007203,
+  "corporation_name": "POLAR ZEBRA",
+  "alliance_name": "Siberian Squads"
+}

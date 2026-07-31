@@ -1,0 +1,34 @@
+{
+  "character_id": 2123832029,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112082674,
+    "name": "Lektro Illuminate",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1169891682,
+    "alliance_id": 1988009451,
+    "corporation_name": "Caldari Independent Navy Reserve",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2112082674,
+      "name": "Lektro Illuminate",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 848973057,
+      "name": "Beanerator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chief Coyote",
+  "corporation_id": 98811660,
+  "alliance_id": 99014247,
+  "corporation_name": "Cartel logistics Inc.",
+  "alliance_name": "Twenty Thousand Leagues Out of the SEA."
+}

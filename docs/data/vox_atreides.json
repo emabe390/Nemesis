@@ -1,0 +1,52 @@
+{
+  "character_id": 2117408814,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113457579,
+    "name": "Necrostrider Strider",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113457579,
+      "name": "Necrostrider Strider",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122002949,
+      "name": "Marie Sklodowska-Curie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91549756,
+      "name": "Pole-o",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1218130486,
+      "name": "Zarnak Wulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122057647,
+      "name": "Renguer Comandante",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vox Atreides",
+  "corporation_id": 98741376,
+  "alliance_id": 99011978,
+  "corporation_name": "Minmatar Fleet Academy",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

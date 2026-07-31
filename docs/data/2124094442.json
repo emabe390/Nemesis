@@ -1,0 +1,40 @@
+{
+  "character_id": 2124094442,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93742153,
+    "name": "Dorothy Galle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98258966,
+    "alliance_id": 99004556,
+    "corporation_name": "Alice's Adventures in Wonderland",
+    "alliance_name": "A Mad Tea-Party"
+  },
+  "top_killers": [
+    {
+      "id": 93742153,
+      "name": "Dorothy Galle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113975770,
+      "name": "Character 2113975770",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116704234,
+      "name": "Elfacus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sunshine Spark",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

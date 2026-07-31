@@ -1,0 +1,40 @@
+{
+  "character_id": 2123552545,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121814354,
+    "name": "najsamlepsejsi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98448532,
+    "alliance_id": 99009331,
+    "corporation_name": "The Order of Merlin",
+    "alliance_name": "Scumlords"
+  },
+  "top_killers": [
+    {
+      "id": 2121814354,
+      "name": "najsamlepsejsi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1123910091,
+      "name": "tolstyk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112116007,
+      "name": "Character 2112116007",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mallerpilot",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

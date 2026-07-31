@@ -1,0 +1,52 @@
+{
+  "character_id": 2123675730,
+  "total_losses": 28,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123678133,
+    "name": "Shimbo H2",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98811467,
+    "alliance_id": null,
+    "corporation_name": "PI Corporation Polaquem",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123678133,
+      "name": "Shimbo H2",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 884060811,
+      "name": "mtitus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122155384,
+      "name": "Cryo Cattington",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Shimbo H1",
+  "corporation_id": 98816795,
+  "alliance_id": null,
+  "corporation_name": "Wyscore Industries",
+  "alliance_name": null
+}

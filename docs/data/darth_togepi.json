@@ -1,0 +1,52 @@
+{
+  "character_id": 2123883050,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1331633310,
+    "name": "Shaey",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98150640,
+    "alliance_id": null,
+    "corporation_name": "Station 3",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1331633310,
+      "name": "Shaey",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115333420,
+      "name": "Anitta Vallian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94210135,
+      "name": "Dino Pellion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 646855086,
+      "name": "Character 646855086",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112236603,
+      "name": "Demsee Dems",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darth Togepi",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

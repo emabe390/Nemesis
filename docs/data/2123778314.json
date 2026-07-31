@@ -1,0 +1,52 @@
+{
+  "character_id": 2123778314,
+  "total_losses": 140,
+  "unique_killers": 88,
+  "nemesis": {
+    "id": 2123184306,
+    "name": "Captain Keiyes",
+    "kill_count": 31,
+    "final_blows": 31,
+    "corporation_id": 98008663,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Angels Constructions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123184306,
+      "name": "Captain Keiyes",
+      "kill_count": 31,
+      "final_blows": 31
+    },
+    {
+      "id": 2123816004,
+      "name": "sloth06",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1848010139,
+      "name": "Phunas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90738916,
+      "name": "Qshar Green",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "golgoroth-orix",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

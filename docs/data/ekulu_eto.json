@@ -1,0 +1,40 @@
+{
+  "character_id": 2123697438,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117153619,
+    "name": "GIACOMO RESTIVO",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799440,
+    "alliance_id": 1042504553,
+    "corporation_name": "High Insertion Velocity",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2117153619,
+      "name": "GIACOMO RESTIVO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119065205,
+      "name": "DefiantMorph",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekulu Eto",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

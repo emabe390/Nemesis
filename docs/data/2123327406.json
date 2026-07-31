@@ -1,0 +1,52 @@
+{
+  "character_id": 2123327406,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2113477972,
+    "name": "Logan DeGreaux",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98597563,
+    "alliance_id": 99013480,
+    "corporation_name": "Novus Gallentia Archangeli",
+    "alliance_name": "Gallente United"
+  },
+  "top_killers": [
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91357604,
+      "name": "Murs Melkan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93284714,
+      "name": "Cesare Paciotti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94106062,
+      "name": "Smoker Naari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Show Nothing",
+  "corporation_id": 98640845,
+  "alliance_id": 99011277,
+  "corporation_name": "The Inf3cted",
+  "alliance_name": "Pathog3n"
+}

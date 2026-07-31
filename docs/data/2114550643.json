@@ -1,0 +1,40 @@
+{
+  "character_id": 2114550643,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113206276,
+    "name": "Aeron Ovaert",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98685869,
+    "alliance_id": 99003214,
+    "corporation_name": "Monitor Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2113206276,
+      "name": "Aeron Ovaert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113791998,
+      "name": "Wolf Doukas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119546166,
+      "name": "XiaoCaibucai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Quinn Muvila",
+  "corporation_id": 98024275,
+  "alliance_id": 99003214,
+  "corporation_name": "Rational Chaos Inc.",
+  "alliance_name": "Brave Collective"
+}

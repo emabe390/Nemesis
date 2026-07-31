@@ -1,0 +1,40 @@
+{
+  "character_id": 2123358883,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122224606,
+    "name": "Kings-123",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98626579,
+    "alliance_id": null,
+    "corporation_name": "WE ARE THE HAZARD",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122224606,
+      "name": "Kings-123",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114145784,
+      "name": "Aaron Nimzowitsch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123040285,
+      "name": "Agvide",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frostbite22",
+  "corporation_id": 98800997,
+  "alliance_id": 99003581,
+  "corporation_name": "Vigil Indomitus",
+  "alliance_name": "Fraternity."
+}

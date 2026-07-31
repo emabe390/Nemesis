@@ -1,0 +1,46 @@
+{
+  "character_id": 2124231839,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115223319,
+    "name": "Elisabeth Canary",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115223319,
+      "name": "Elisabeth Canary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 656698366,
+      "name": "Yeats",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117592712,
+      "name": "Canor Reyka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WhatTheFlip",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

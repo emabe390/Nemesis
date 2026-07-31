@@ -1,0 +1,52 @@
+{
+  "character_id": 2123298394,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114739715,
+    "name": "Tornado Solo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 2114739715,
+      "name": "Tornado Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122709761,
+      "name": "shardio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90802673,
+      "name": "colin brunner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114842208,
+      "name": "McBalls Taint",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123810549,
+      "name": "Garnelio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JabbaTheButt",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

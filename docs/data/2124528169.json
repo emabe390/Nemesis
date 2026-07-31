@@ -1,0 +1,46 @@
+{
+  "character_id": 2124528169,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124149515,
+    "name": "Mike Jevron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98835391,
+    "alliance_id": null,
+    "corporation_name": "Rising Phoenix Armada",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124149515,
+      "name": "Mike Jevron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95569299,
+      "name": "Rattsy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 207593363,
+      "name": "Rokh Stah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcus Bruce Vance",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

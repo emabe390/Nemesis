@@ -1,0 +1,52 @@
+{
+  "character_id": 2124060315,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2117567676,
+    "name": "Dalten Henard",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98709927,
+    "alliance_id": null,
+    "corporation_name": "Eclectica",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117567676,
+      "name": "Dalten Henard",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92775106,
+      "name": "Kairi Raast",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116714547,
+      "name": "Timmus Charante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91671881,
+      "name": "UnakUbiecNaLami",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trow",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

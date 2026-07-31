@@ -1,0 +1,52 @@
+{
+  "character_id": 2120242304,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90402808,
+    "name": "Tom Hutchison",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98713128,
+    "alliance_id": 99007887,
+    "corporation_name": "Entropy Engine",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 90402808,
+      "name": "Tom Hutchison",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113499894,
+      "name": "Phriding",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117333919,
+      "name": "Leo Zamayid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122801571,
+      "name": "Labrefu Aya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Qwezen",
+  "corporation_id": 98817479,
+  "alliance_id": 99003581,
+  "corporation_name": "NO PANIC GROUP",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2118239190,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 94433066,
+    "name": "Ilych Lenin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98471543,
+    "alliance_id": null,
+    "corporation_name": "Play Killer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94433066,
+      "name": "Ilych Lenin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90603478,
+      "name": "Character 90603478",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93832178,
+      "name": "Crius Vortivask",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alokka Jovakko",
+  "corporation_id": 98828391,
+  "alliance_id": 99012847,
+  "corporation_name": "The Rust Legion",
+  "alliance_name": "GunFam"
+}

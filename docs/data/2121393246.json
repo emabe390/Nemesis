@@ -1,0 +1,52 @@
+{
+  "character_id": 2121393246,
+  "total_losses": 21,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 91616746,
+    "name": "Le' Dian",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98056301,
+    "alliance_id": null,
+    "corporation_name": "Mandatory Asset Redistribution",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91616746,
+      "name": "Le' Dian",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115665221,
+      "name": "sATIVO Saraki",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93666195,
+      "name": "Ansla en Thielles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1716964112,
+      "name": "HellssAngell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90787958,
+      "name": "Jim Specter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dealayn",
+  "corporation_id": 98710455,
+  "alliance_id": 99012843,
+  "corporation_name": "No Luck Corp",
+  "alliance_name": "Kenshin Shogunate."
+}

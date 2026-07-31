@@ -1,0 +1,40 @@
+{
+  "character_id": 812341697,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117645659,
+    "name": "Character 2117645659",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98482530,
+    "alliance_id": 99007887,
+    "corporation_name": "Vulture Enterprises",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2117645659,
+      "name": "Character 2117645659",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117995641,
+      "name": "weaponized anthrax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124112764,
+      "name": "Dax Morro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paxmor",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

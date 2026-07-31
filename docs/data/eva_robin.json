@@ -1,0 +1,46 @@
+{
+  "character_id": 2123489296,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121572850,
+    "name": "Raistl",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1599371034,
+    "alliance_id": 1354830081,
+    "corporation_name": "SovNarKom.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121572850,
+      "name": "Raistl",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92126855,
+      "name": "Zana Fehrnah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119819339,
+      "name": "Semines",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eva Robin",
+  "corporation_id": 1599371034,
+  "alliance_id": 1354830081,
+  "corporation_name": "SovNarKom.",
+  "alliance_name": "Goonswarm Federation"
+}

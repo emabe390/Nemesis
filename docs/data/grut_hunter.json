@@ -1,0 +1,40 @@
+{
+  "character_id": 95202870,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 183949024,
+    "name": "Axes Illum",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98428318,
+    "alliance_id": 99014747,
+    "corporation_name": "Best Kept Dunked",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 183949024,
+      "name": "Axes Illum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118862947,
+      "name": "Nogi Bator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121055050,
+      "name": "Don J Potato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grut Hunter",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

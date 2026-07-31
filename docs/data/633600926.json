@@ -1,0 +1,40 @@
+{
+  "character_id": 633600926,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 452164206,
+      "name": "Omen Talozan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Plasmadesmada",
+  "corporation_id": 98656455,
+  "alliance_id": 1900696668,
+  "corporation_name": "Tech Builds",
+  "alliance_name": "The Initiative."
+}

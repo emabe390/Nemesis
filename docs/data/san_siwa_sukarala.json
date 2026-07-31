@@ -1,0 +1,40 @@
+{
+  "character_id": 2123311769,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120376209,
+    "name": "NotKaizo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744491,
+    "alliance_id": 99013330,
+    "corporation_name": "URSA PRIMUS",
+    "alliance_name": "URSA."
+  },
+  "top_killers": [
+    {
+      "id": 2120376209,
+      "name": "NotKaizo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93808194,
+      "name": "Kaden Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "San Siwa Sukarala",
+  "corporation_id": 98734986,
+  "alliance_id": 99013160,
+  "corporation_name": "A despicable person",
+  "alliance_name": "Siberian Renters."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123812137,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 490955543,
+    "name": "FAITHFUL SERVANT",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1062104492,
+    "alliance_id": null,
+    "corporation_name": "Deep South Confederate Rebel Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 490955543,
+      "name": "FAITHFUL SERVANT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120798947,
+      "name": "Amba Tublo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GoSpace",
+  "corporation_id": 98783337,
+  "alliance_id": 99013484,
+  "corporation_name": "Rice fields of Minister Abaj",
+  "alliance_name": "Crocodili et mammoths"
+}

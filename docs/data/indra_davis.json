@@ -1,0 +1,40 @@
+{
+  "character_id": 2114500213,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92202326,
+    "name": "Phelan Kheldian",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 92202326,
+      "name": "Phelan Kheldian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123368078,
+      "name": "Thunnda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indra Davis",
+  "corporation_id": 98730903,
+  "alliance_id": null,
+  "corporation_name": "Deep Space Fusion Industries",
+  "alliance_name": null
+}

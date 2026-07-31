@@ -1,0 +1,40 @@
+{
+  "character_id": 2122554121,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122596301,
+    "name": "Rukkola-2610",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98784964,
+    "alliance_id": null,
+    "corporation_name": "FlossyFine Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122596301,
+      "name": "Rukkola-2610",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122660209,
+      "name": "LITRBOL",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123079859,
+      "name": "MaxIsk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BenriYya",
+  "corporation_id": 98754582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Baba Yagas",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123162316,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 96201676,
+    "name": "Zaphod Beedlebrox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96201676,
+      "name": "Zaphod Beedlebrox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1515117093,
+      "name": "Teh Bear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1661197751,
+      "name": "Dark Bestia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90703254,
+      "name": "Xynta TT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92343310,
+      "name": "David Capone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gatorreta",
+  "corporation_id": 98628176,
+  "alliance_id": 1900696668,
+  "corporation_name": "Helgast Militarum",
+  "alliance_name": "The Initiative."
+}

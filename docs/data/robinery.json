@@ -1,0 +1,52 @@
+{
+  "character_id": 2123814997,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 93705626,
+    "name": "Andy Shearer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123717031,
+      "name": "AAA-jiancai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117662508,
+      "name": "Sheor Yiser Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119416470,
+      "name": "OzzySBR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121935407,
+      "name": "Guntharson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Robinery",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

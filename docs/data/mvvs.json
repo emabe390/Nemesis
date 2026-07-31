@@ -1,0 +1,52 @@
+{
+  "character_id": 2123619993,
+  "total_losses": 70,
+  "unique_killers": 62,
+  "nemesis": {
+    "id": 2116085579,
+    "name": "ME262",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2116085579,
+      "name": "ME262",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120094796,
+      "name": "mommm",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93490681,
+      "name": "Barakuda Arilion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95940713,
+      "name": "Alex Jantex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2000895845,
+      "name": "Adam Revan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "mvvs",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

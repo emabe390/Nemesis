@@ -1,0 +1,40 @@
+{
+  "character_id": 2123803841,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94980893,
+    "name": "Miss Clay",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98388978,
+    "alliance_id": 99006225,
+    "corporation_name": "Special Snowflake Squadron",
+    "alliance_name": "Rote Works"
+  },
+  "top_killers": [
+    {
+      "id": 94980893,
+      "name": "Miss Clay",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113144995,
+      "name": "Multi-Shekel Media Caliphate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119065859,
+      "name": "Echnaton17",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Matula Itonula",
+  "corporation_id": 98722831,
+  "alliance_id": 99003214,
+  "corporation_name": "The Friendly Fire Team",
+  "alliance_name": "Brave Collective"
+}

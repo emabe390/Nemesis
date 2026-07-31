@@ -1,0 +1,46 @@
+{
+  "character_id": 1195630726,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90787958,
+    "name": "Jim Specter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 90787958,
+      "name": "Jim Specter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1184548204,
+      "name": "Floorist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121431259,
+      "name": "Don Anacleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123147208,
+      "name": "Devorax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gabriel Darcon",
+  "corporation_id": 1754768485,
+  "alliance_id": null,
+  "corporation_name": "Whispered Technologies",
+  "alliance_name": null
+}

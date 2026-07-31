@@ -1,0 +1,40 @@
+{
+  "character_id": 2123322714,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 298266759,
+    "name": "So Apropos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 298266759,
+      "name": "So Apropos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120836816,
+      "name": "G0ATWEED",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116024316,
+      "name": "Delph Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Everest Cove",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

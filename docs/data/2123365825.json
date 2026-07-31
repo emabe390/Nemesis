@@ -1,0 +1,52 @@
+{
+  "character_id": 2123365825,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91878047,
+    "name": "Jack Ammer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 91878047,
+      "name": "Jack Ammer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93152539,
+      "name": "Shabootie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95221140,
+      "name": "Hiroshi Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AbdAlRazzaq",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

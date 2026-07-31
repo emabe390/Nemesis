@@ -1,0 +1,40 @@
+{
+  "character_id": 2123985863,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93911976,
+    "name": "Babbs Cor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98773204,
+    "alliance_id": 99013646,
+    "corporation_name": "Nanofiber Overheat",
+    "alliance_name": "Nanogang"
+  },
+  "top_killers": [
+    {
+      "id": 93911976,
+      "name": "Babbs Cor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97161649,
+      "name": "GroZZZa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427987236,
+      "name": "Loup S0litaire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cassandra Heartbrook",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

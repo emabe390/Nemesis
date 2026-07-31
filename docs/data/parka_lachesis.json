@@ -1,0 +1,52 @@
+{
+  "character_id": 2123914135,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91017278,
+      "name": "Ivy Kuznetsova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93947598,
+      "name": "Falkner Hayato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116024316,
+      "name": "Delph Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121929901,
+      "name": "Hank Hauls",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Parka Lachesis",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

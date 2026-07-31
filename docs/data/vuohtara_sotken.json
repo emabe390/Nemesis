@@ -1,0 +1,52 @@
+{
+  "character_id": 2123378419,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95164162,
+    "name": "Zorn Orlenard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95164162,
+      "name": "Zorn Orlenard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 228912111,
+      "name": "Gurg1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1782303362,
+      "name": "Schwimmbutz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112670274,
+      "name": "Character 2112670274",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vuohtara Sotken",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

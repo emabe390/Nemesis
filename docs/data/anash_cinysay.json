@@ -1,0 +1,52 @@
+{
+  "character_id": 2122487167,
+  "total_losses": 35,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113797124,
+      "name": "Ben Arenzberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124355101,
+      "name": "Aralys",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anash Cinysay",
+  "corporation_id": 98690019,
+  "alliance_id": 99011279,
+  "corporation_name": "The Highland Sans Peur",
+  "alliance_name": "Naval Defence Alliance"
+}

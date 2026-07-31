@@ -1,0 +1,40 @@
+{
+  "character_id": 2124487369,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115798866,
+    "name": "BtsBma",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98788243,
+    "alliance_id": 99015041,
+    "corporation_name": "Hull Miners inc",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116299580,
+      "name": "wanted panda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124378080,
+      "name": "Vafer Fallax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zeus Husky",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

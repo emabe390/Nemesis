@@ -1,0 +1,40 @@
+{
+  "character_id": 932132092,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119794959,
+    "name": "jianhang",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645589,
+    "alliance_id": 99009163,
+    "corporation_name": "Faceless.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2119794959,
+      "name": "jianhang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90453482,
+      "name": "Chris Engle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121120454,
+      "name": "Firestorm Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kambara",
+  "corporation_id": 98605031,
+  "alliance_id": null,
+  "corporation_name": "Phobos Enterprise",
+  "alliance_name": null
+}

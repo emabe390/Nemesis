@@ -1,0 +1,52 @@
+{
+  "character_id": 2123979907,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92559407,
+      "name": "Character 92559407",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1133269170,
+      "name": "Lombarok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115366433,
+      "name": "Yukidrop",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95736505,
+      "name": "Peri Cell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marco Tauris",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123969022,
+  "total_losses": 47,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2124495565,
+    "name": "lanceRow",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124495565,
+      "name": "lanceRow",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93425026,
+      "name": "BARBARESK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 161858994,
+      "name": "d'Okairon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Irvington",
+  "corporation_id": 793963901,
+  "alliance_id": 99012019,
+  "corporation_name": "Astral Projection Inc.",
+  "alliance_name": "Can i bring my Drake..."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2116052908,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122209190,
+      "name": "248625",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94075567,
+      "name": "B'lellum",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Reans Keeveu",
+  "corporation_id": 98560652,
+  "alliance_id": 1354830081,
+  "corporation_name": "Miners Inn",
+  "alliance_name": "Goonswarm Federation"
+}

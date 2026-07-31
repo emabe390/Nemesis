@@ -1,0 +1,52 @@
+{
+  "character_id": 2117652774,
+  "total_losses": 33,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2117000401,
+    "name": "Teroforma",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 272675225,
+    "alliance_id": 1354830081,
+    "corporation_name": "Monkey Attack Squad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117000401,
+      "name": "Teroforma",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90974906,
+      "name": "DANGERUS4U DEAD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 321509219,
+      "name": "Torment Sar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Natalista",
+  "corporation_id": 272675225,
+  "alliance_id": 1354830081,
+  "corporation_name": "Monkey Attack Squad",
+  "alliance_name": "Goonswarm Federation"
+}

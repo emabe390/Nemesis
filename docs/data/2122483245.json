@@ -1,0 +1,40 @@
+{
+  "character_id": 2122483245,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96417025,
+    "name": "Jimmy Michaels",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 884060811,
+      "name": "mtitus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SirBromster",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

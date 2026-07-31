@@ -1,0 +1,40 @@
+{
+  "character_id": 2124492350,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91541449,
+    "name": "Leenaya",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91541449,
+      "name": "Leenaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1678306834,
+      "name": "George Mante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116552449,
+      "name": "Udav Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Uliny Kutich",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

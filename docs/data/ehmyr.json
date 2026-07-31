@@ -1,0 +1,40 @@
+{
+  "character_id": 96865455,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96164066,
+    "name": "Carlos Sokaras",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96164066,
+      "name": "Carlos Sokaras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115839105,
+      "name": "Rikku Vanille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124034155,
+      "name": "Declan Crowley",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ehmyr",
+  "corporation_id": 98819555,
+  "alliance_id": 99014823,
+  "corporation_name": "Galaxy Gas",
+  "alliance_name": "Hole Tanked"
+}

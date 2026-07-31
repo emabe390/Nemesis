@@ -1,0 +1,40 @@
+{
+  "character_id": 1279720340,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123388006,
+    "name": "MadNick",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98824437,
+    "alliance_id": 99003285,
+    "corporation_name": "Space Tramps of New Eden",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2123388006,
+      "name": "MadNick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 180564944,
+      "name": "LeoTheNightmare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1425809126,
+      "name": "Princess Talim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vendurata",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

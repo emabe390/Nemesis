@@ -1,0 +1,40 @@
+{
+  "character_id": 2123667393,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115462363,
+    "name": "Sarkil Estemaire",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115462363,
+      "name": "Sarkil Estemaire",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113518050,
+      "name": "Excaliber Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dixy Martinez",
+  "corporation_id": 98360827,
+  "alliance_id": 1742306959,
+  "corporation_name": "Buy and Sell",
+  "alliance_name": "ORPHANS OF EVE"
+}

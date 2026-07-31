@@ -1,0 +1,52 @@
+{
+  "character_id": 2123622215,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91926604,
+    "name": "Bobby Kaleto",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98693186,
+    "alliance_id": 99012544,
+    "corporation_name": "Everything Dies",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95065281,
+      "name": "MEDEXPERT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1399211800,
+      "name": "Braygo Khallazar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119722576,
+      "name": "Bloody Triglav",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drillborn IV",
+  "corporation_id": 98815936,
+  "alliance_id": null,
+  "corporation_name": "Vortex Union",
+  "alliance_name": null
+}

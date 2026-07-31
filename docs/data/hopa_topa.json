@@ -1,0 +1,40 @@
+{
+  "character_id": 2123767007,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93498438,
+    "name": "Dave Murillo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98298610,
+    "alliance_id": 99012639,
+    "corporation_name": "8 Sins of Man",
+    "alliance_name": "Stray Dogs."
+  },
+  "top_killers": [
+    {
+      "id": 93498438,
+      "name": "Dave Murillo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 386455015,
+      "name": "Arbiter Reformed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123293348,
+      "name": "Haldric Hardrada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HOPA TOPA",
+  "corporation_id": 98815841,
+  "alliance_id": null,
+  "corporation_name": "AnyHoles Development",
+  "alliance_name": null
+}

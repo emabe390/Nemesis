@@ -1,0 +1,40 @@
+{
+  "character_id": 94204883,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122478085,
+    "name": "AngelaBalzac",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98525262,
+    "alliance_id": 99003581,
+    "corporation_name": "Liberal heavy cavalry",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122478085,
+      "name": "AngelaBalzac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94472974,
+      "name": "Sebastian Charantes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122086072,
+      "name": "Plasma Bolt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spartacus Pollard",
+  "corporation_id": 98826028,
+  "alliance_id": 99010079,
+  "corporation_name": "Exodus Conclave",
+  "alliance_name": "Brave United"
+}

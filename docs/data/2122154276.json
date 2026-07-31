@@ -1,0 +1,52 @@
+{
+  "character_id": 2122154276,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 416127123,
+    "name": "Character 416127123",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571973,
+    "alliance_id": null,
+    "corporation_name": "One Men Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 416127123,
+      "name": "Character 416127123",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 726999195,
+      "name": "Chris Sunstroke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 795994401,
+      "name": "Gravaton Cleric",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1904811443,
+      "name": "Blood Khanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113881997,
+      "name": "Reiz Thara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LZLYC",
+  "corporation_id": 98762057,
+  "alliance_id": 99009163,
+  "corporation_name": "Blue Ice Heavy Industry",
+  "alliance_name": "Dracarys."
+}

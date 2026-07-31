@@ -1,0 +1,52 @@
+{
+  "character_id": 2124370488,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124324159,
+    "name": "dugubo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124324159,
+      "name": "dugubo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94129398,
+      "name": "Trainer Aer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124287509,
+      "name": "white-snake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124370480,
+      "name": "pink-snake",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "yellow-snake",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

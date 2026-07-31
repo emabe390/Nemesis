@@ -1,0 +1,52 @@
+{
+  "character_id": 2122940302,
+  "total_losses": 61,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 919136795,
+    "name": "Slipy Dip",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98699070,
+    "alliance_id": null,
+    "corporation_name": "Just Warp Out",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 919136795,
+      "name": "Slipy Dip",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122998170,
+      "name": "SMAWOLF5",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112614147,
+      "name": "Eran Morgulu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114042854,
+      "name": "Emely Rados",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114119256,
+      "name": "Tank TST",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Smawolf",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

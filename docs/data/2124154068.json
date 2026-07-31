@@ -1,0 +1,40 @@
+{
+  "character_id": 2124154068,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119074886,
+    "name": "Nex Terminator",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98428318,
+    "alliance_id": 99014747,
+    "corporation_name": "Best Kept Dunked",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 2119074886,
+      "name": "Nex Terminator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 263073680,
+      "name": "Alteru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123073489,
+      "name": "Rolanda Static",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Criptocarya Alba",
+  "corporation_id": 98832593,
+  "alliance_id": null,
+  "corporation_name": "Outer Heaven BG",
+  "alliance_name": null
+}

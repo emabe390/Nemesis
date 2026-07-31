@@ -1,0 +1,46 @@
+{
+  "character_id": 2112560925,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 560796582,
+    "name": "Atecake",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 560796582,
+      "name": "Atecake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96275036,
+      "name": "Lexington Braddock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toru Acami",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

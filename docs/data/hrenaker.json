@@ -1,0 +1,40 @@
+{
+  "character_id": 2117567141,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123265942,
+    "name": "Mr Ludvig",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98675411,
+    "alliance_id": 1354830081,
+    "corporation_name": "Free Wind Riders",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123265942,
+      "name": "Mr Ludvig",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123342519,
+      "name": "Call Me FC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123875403,
+      "name": "TheEmperor Of War",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hrenaker",
+  "corporation_id": 98767961,
+  "alliance_id": 1354830081,
+  "corporation_name": "Golden Forests Production",
+  "alliance_name": "Goonswarm Federation"
+}

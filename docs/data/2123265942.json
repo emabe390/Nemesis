@@ -1,0 +1,52 @@
+{
+  "character_id": 2123265942,
+  "total_losses": 237,
+  "unique_killers": 199,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94767758,
+      "name": "ciprian Houssa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114186176,
+      "name": "Jupiter One",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94358574,
+      "name": "Vanokc Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95673868,
+      "name": "kahlan caro",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mr Ludvig",
+  "corporation_id": 98675411,
+  "alliance_id": 1354830081,
+  "corporation_name": "Free Wind Riders",
+  "alliance_name": "Goonswarm Federation"
+}

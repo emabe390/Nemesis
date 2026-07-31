@@ -1,0 +1,52 @@
+{
+  "character_id": 2121314882,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2117504100,
+    "name": "William Friedman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98719882,
+    "alliance_id": null,
+    "corporation_name": "Saint Michael's Army",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119210149,
+      "name": "Harry No Styles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119709705,
+      "name": "JustARandomGuy-FR",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96089474,
+      "name": "Vonrupenstein Chimo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121314882",
+  "corporation_id": 98754011,
+  "alliance_id": 99013766,
+  "corporation_name": "Laddexperten",
+  "alliance_name": "Death Legion of Capybaras"
+}

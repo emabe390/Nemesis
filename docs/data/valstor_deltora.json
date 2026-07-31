@@ -1,0 +1,52 @@
+{
+  "character_id": 2123200366,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 95420705,
+    "name": "UnholyAbbath Eriker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1323105611,
+    "alliance_id": 99013187,
+    "corporation_name": "Nisroc Angels",
+    "alliance_name": "The Obsidian Front - Reborn"
+  },
+  "top_killers": [
+    {
+      "id": 95420705,
+      "name": "UnholyAbbath Eriker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94124407,
+      "name": "Nass Cheba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 954075573,
+      "name": "Simon Ruhelos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1072465853,
+      "name": "SCLZ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valstor Deltora",
+  "corporation_id": 98808628,
+  "alliance_id": null,
+  "corporation_name": "Xelrak Institute",
+  "alliance_name": null
+}

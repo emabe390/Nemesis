@@ -1,0 +1,52 @@
+{
+  "character_id": 2112522105,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 90222257,
+    "name": "Character 90222257",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95551469,
+      "name": "Demaga Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1625587809,
+      "name": "Lumiorion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1865272548,
+      "name": "Geodossi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andre Langaar",
+  "corporation_id": 98778639,
+  "alliance_id": 99013723,
+  "corporation_name": "Firma Kasallek",
+  "alliance_name": "Dienstleistungen Kasallek"
+}

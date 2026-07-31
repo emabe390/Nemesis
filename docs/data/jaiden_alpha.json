@@ -1,0 +1,40 @@
+{
+  "character_id": 2119803088,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1979087454,
+    "name": "Character 1979087454",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 355443127,
+    "alliance_id": 1354830081,
+    "corporation_name": "ANZAC ALLIANCE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1979087454,
+      "name": "Character 1979087454",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123538669,
+      "name": "Toothless - D",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113805049,
+      "name": "Koukax Lefuego",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jaiden Alpha",
+  "corporation_id": 98716149,
+  "alliance_id": null,
+  "corporation_name": "Military Cathedral of Triglav",
+  "alliance_name": null
+}

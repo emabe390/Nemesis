@@ -1,0 +1,52 @@
+{
+  "character_id": 2123842000,
+  "total_losses": 37,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90409140,
+      "name": "Evol Luv",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120992914,
+      "name": "Suzukaa Nakamoto",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Enna L",
+  "corporation_id": 98768901,
+  "alliance_id": 99014512,
+  "corporation_name": "Genesis Freemasonry",
+  "alliance_name": "Genesis Brother Alliance"
+}

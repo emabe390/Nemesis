@@ -1,0 +1,40 @@
+{
+  "character_id": 2123929861,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119363587,
+    "name": "GIina01",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98252033,
+    "alliance_id": 99004344,
+    "corporation_name": "Vision Inc",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 2119363587,
+      "name": "GIina01",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1158263427,
+      "name": "Stavlad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1548392405,
+      "name": "Lupus Lupus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RonWitwicky",
+  "corporation_id": 98689216,
+  "alliance_id": null,
+  "corporation_name": "Tutel Inc",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122251041,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116024316,
+    "name": "Delph Pollard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116024316,
+      "name": "Delph Pollard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93107167,
+      "name": "behenn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115761256,
+      "name": "Sev Prim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Olenina Ila",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

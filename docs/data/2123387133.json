@@ -1,0 +1,40 @@
+{
+  "character_id": 2123387133,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118678910,
+    "name": "Garlilis Hariere",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98699261,
+    "alliance_id": 99010089,
+    "corporation_name": "Cavanard's Little Enterprise",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2118678910,
+      "name": "Garlilis Hariere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118808120,
+      "name": "Big Gay Boatride",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119375463,
+      "name": "Urzamam Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xentalia",
+  "corporation_id": 366498483,
+  "alliance_id": 99013284,
+  "corporation_name": "Unquestionable Prosperity",
+  "alliance_name": "Grand Inquisitors Federation"
+}

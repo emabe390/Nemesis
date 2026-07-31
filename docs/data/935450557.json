@@ -1,0 +1,40 @@
+{
+  "character_id": 935450557,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 311254416,
+    "name": "Furbie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720009,
+    "alliance_id": 1354830081,
+    "corporation_name": "guerrilla.squad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 311254416,
+      "name": "Furbie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121962094,
+      "name": "Habolog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 833055224,
+      "name": "Eggduck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mk 36",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

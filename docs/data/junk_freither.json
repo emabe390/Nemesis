@@ -1,0 +1,52 @@
+{
+  "character_id": 2123351114,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 91543150,
+    "name": "Valmoth Catoblepas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91543150,
+      "name": "Valmoth Catoblepas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91950897,
+      "name": "Cata Entro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119027366,
+      "name": "Schadeck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96278666,
+      "name": "Kosta Realyn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114743255,
+      "name": "Lilith III",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Junk Freither",
+  "corporation_id": 98786344,
+  "alliance_id": 99001969,
+  "corporation_name": "Bald Faced Gentlemen",
+  "alliance_name": "SONS of BANE"
+}

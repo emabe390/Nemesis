@@ -1,0 +1,52 @@
+{
+  "character_id": 2116172900,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 1033212109,
+    "name": "BC Hastings",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 1033212109,
+      "name": "BC Hastings",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91036798,
+      "name": "Aleksandr Patrin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94227669,
+      "name": "Alice Dundra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95317783,
+      "name": "Soulgaze en Thielles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Christian Press",
+  "corporation_id": 98361497,
+  "alliance_id": 1354830081,
+  "corporation_name": "True Faces Hungary",
+  "alliance_name": "Goonswarm Federation"
+}

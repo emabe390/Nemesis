@@ -1,0 +1,52 @@
+{
+  "character_id": 2120893792,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 96705288,
+    "name": "cleft lip",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96705288,
+      "name": "cleft lip",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90564840,
+      "name": "Freddy KCruger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91019038,
+      "name": "Alfred Von Heisterburg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93380756,
+      "name": "Dean Dewitt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luna Matakori",
+  "corporation_id": 98835144,
+  "alliance_id": 1042504553,
+  "corporation_name": "Stroopwafel Armada",
+  "alliance_name": "Solyaris Chtonium"
+}

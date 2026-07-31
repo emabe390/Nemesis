@@ -1,0 +1,34 @@
+{
+  "character_id": 2123128543,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115642824,
+    "name": "Bloodshirt Toralen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98492180,
+    "alliance_id": 99010468,
+    "corporation_name": "Heavenly Armament Pavilion",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 2115642824,
+      "name": "Bloodshirt Toralen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1383451942,
+      "name": "Sgt Turok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RiveRain",
+  "corporation_id": 98795428,
+  "alliance_id": null,
+  "corporation_name": "River Rains",
+  "alliance_name": null
+}

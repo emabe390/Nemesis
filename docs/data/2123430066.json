@@ -1,0 +1,52 @@
+{
+  "character_id": 2123430066,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3020057,
+    "name": "Tyrannos Basileus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1568530872,
+      "name": "Dimitryy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112837735,
+      "name": "Carbon Pig Tonbara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Esta Joi",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

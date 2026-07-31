@@ -1,0 +1,40 @@
+{
+  "character_id": 738404523,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92567883,
+    "name": "doctor Fera",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98659319,
+    "alliance_id": 1354830081,
+    "corporation_name": "Suspicious Intentions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92567883,
+      "name": "doctor Fera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96274895,
+      "name": "Daemon's Tyrant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121220761,
+      "name": "Walkul Blackthorn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Expendable Biomass",
+  "corporation_id": 2014367342,
+  "alliance_id": 99005338,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Pandemic Horde"
+}

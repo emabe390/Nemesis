@@ -1,0 +1,40 @@
+{
+  "character_id": 2124365168,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 198028002,
+    "name": "RedMage",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98400319,
+    "alliance_id": 99011258,
+    "corporation_name": "Safety Set To Red",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 198028002,
+      "name": "RedMage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 696671115,
+      "name": "Vallorum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124167263,
+      "name": "Caracal Navy Enjoyer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gamusa Amilupar",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

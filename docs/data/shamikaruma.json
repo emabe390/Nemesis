@@ -1,0 +1,40 @@
+{
+  "character_id": 2119748586,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90748544,
+    "name": "Milora Andven",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 145008223,
+    "alliance_id": 701459600,
+    "corporation_name": "Gradient",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 90748544,
+      "name": "Milora Andven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96763060,
+      "name": "Jamie Athonille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 379799266,
+      "name": "Kavaynaya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shamikaruma",
+  "corporation_id": 98807040,
+  "alliance_id": null,
+  "corporation_name": "New Mining Corporation",
+  "alliance_name": null
+}

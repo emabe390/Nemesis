@@ -1,0 +1,52 @@
+{
+  "character_id": 2123048617,
+  "total_losses": 202,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2119777380,
+    "name": "Gone0",
+    "kill_count": 178,
+    "final_blows": 178,
+    "corporation_id": 98669633,
+    "alliance_id": 99003581,
+    "corporation_name": "Knights of the Silver Eagle",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119777380,
+      "name": "Gone0",
+      "kill_count": 178,
+      "final_blows": 178
+    },
+    {
+      "id": 2121120539,
+      "name": "LYM259",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 92738829,
+      "name": "Scorpion Queen SMB",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92878809,
+      "name": "Xak Wales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93540731,
+      "name": "Yuuko Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ceremony",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

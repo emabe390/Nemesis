@@ -1,0 +1,40 @@
+{
+  "character_id": 2123770196,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92280728,
+    "name": "Scarlet Khardula",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831045,
+    "alliance_id": 99012982,
+    "corporation_name": "Irradiated",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 92280728,
+      "name": "Scarlet Khardula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 736987754,
+      "name": "Shonigu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90142486,
+      "name": "Dervinus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Illuminati Mistress",
+  "corporation_id": 744976238,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mine 'N' Refine",
+  "alliance_name": "Goonswarm Federation"
+}

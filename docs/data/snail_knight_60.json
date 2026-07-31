@@ -1,0 +1,46 @@
+{
+  "character_id": 2123587567,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118716808,
+    "name": "Ezhowski",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825059,
+    "alliance_id": 99014671,
+    "corporation_name": "Hel Vegen.",
+    "alliance_name": "NecroSphere."
+  },
+  "top_killers": [
+    {
+      "id": 2118716808,
+      "name": "Ezhowski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90611410,
+      "name": "Gorbachev Dostoevsky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95894851,
+      "name": "Plass Gruvedrift",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124055619,
+      "name": "MCTK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Snail Knight 60",
+  "corporation_id": 98715563,
+  "alliance_id": 99013541,
+  "corporation_name": "Chaos Aribter Industry",
+  "alliance_name": "Fraternity Auxiliary"
+}

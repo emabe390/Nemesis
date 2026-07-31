@@ -1,0 +1,40 @@
+{
+  "character_id": 2123929007,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94101864,
+    "name": "Adhesive Love",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98048444,
+    "alliance_id": null,
+    "corporation_name": "Guardians of Asceticism",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94101864,
+      "name": "Adhesive Love",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92676938,
+      "name": "Soni Patrouette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119938727,
+      "name": "Sargon de Accad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyra Stella",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120593169,
+  "total_losses": 18,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1431369930,
+    "name": "Culaure",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98834990,
+    "alliance_id": 99015041,
+    "corporation_name": "FRAC Holding Inc.",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1431369930,
+      "name": "Culaure",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117510761,
+      "name": "Piendar Foudrey",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113605144,
+      "name": "MAR D Arya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90828002,
+      "name": "Charlie Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92173875,
+      "name": "Cimon Lepidus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Felix Lee-Jones",
+  "corporation_id": 98730874,
+  "alliance_id": null,
+  "corporation_name": "The Toilet Paper",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1449922236,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1075337712,
+    "name": "Brutorr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98786448,
+    "alliance_id": 99009927,
+    "corporation_name": "The Reason is Treason",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1075337712,
+      "name": "Brutorr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113801877,
+      "name": "Tyyrrion Bolmara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113901275,
+      "name": "Jiong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alchemisti",
+  "corporation_id": 98011082,
+  "alliance_id": 1354830081,
+  "corporation_name": "Shadow State",
+  "alliance_name": "Goonswarm Federation"
+}

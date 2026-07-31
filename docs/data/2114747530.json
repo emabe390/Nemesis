@@ -1,0 +1,40 @@
+{
+  "character_id": 2114747530,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121762985,
+    "name": "Fluffy Neko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121762985,
+      "name": "Fluffy Neko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96693634,
+      "name": "Beatris Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kolas Bohoma",
+  "corporation_id": 98730577,
+  "alliance_id": 99004344,
+  "corporation_name": "Unreasonable Neighbours",
+  "alliance_name": "Hole Control"
+}

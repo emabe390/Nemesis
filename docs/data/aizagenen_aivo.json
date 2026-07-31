@@ -1,0 +1,40 @@
+{
+  "character_id": 2123708207,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2012252990,
+    "name": "Dii minores",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1903628557,
+    "alliance_id": 99003557,
+    "corporation_name": "AirGuard",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113340990,
+      "name": "Elessari Olerie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120543813,
+      "name": "Medi0crates",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aizagenen Aivo",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

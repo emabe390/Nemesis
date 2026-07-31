@@ -1,0 +1,52 @@
+{
+  "character_id": 2123533479,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94428379,
+    "name": "Revis Owen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94428379,
+      "name": "Revis Owen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112851565,
+      "name": "Annie Merle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120491163,
+      "name": "Cwoo Short",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123883904,
+      "name": "Den of Earth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Constantine Linker",
+  "corporation_id": 98813249,
+  "alliance_id": null,
+  "corporation_name": "Mi-26",
+  "alliance_name": null
+}

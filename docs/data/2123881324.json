@@ -1,0 +1,40 @@
+{
+  "character_id": 2123881324,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117849003,
+    "name": "Urg'haal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723413,
+    "alliance_id": null,
+    "corporation_name": "The Dark Side of Existence",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117849003,
+      "name": "Urg'haal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 788408631,
+      "name": "Freany",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1017918140,
+      "name": "Dead4ever",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nani Ultros",
+  "corporation_id": 98743678,
+  "alliance_id": null,
+  "corporation_name": "setHacked Corporation",
+  "alliance_name": null
+}

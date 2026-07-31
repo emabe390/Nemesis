@@ -1,0 +1,52 @@
+{
+  "character_id": 2123482426,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92706224,
+    "name": "Nicolai Federov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92706224,
+      "name": "Nicolai Federov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 781331374,
+      "name": "Robapin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116424891,
+      "name": "Autummnn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1756675287,
+      "name": "Northern Banshee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121509601,
+      "name": "BeiJue",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mesa Edison",
+  "corporation_id": 98725485,
+  "alliance_id": 99009805,
+  "corporation_name": "D.I.D.A.L. inc.",
+  "alliance_name": "Dead Game Society."
+}

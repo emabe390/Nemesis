@@ -1,0 +1,40 @@
+{
+  "character_id": 2123536133,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1939660610,
+    "name": "Morrigan Thorn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98032342,
+    "alliance_id": 99012018,
+    "corporation_name": "Skylab Technologies",
+    "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+  },
+  "top_killers": [
+    {
+      "id": 1939660610,
+      "name": "Morrigan Thorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92472332,
+      "name": "Fiksie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93044673,
+      "name": "Nahidrum Nautfrum",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jomon Ijonen",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

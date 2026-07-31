@@ -1,0 +1,46 @@
+{
+  "character_id": 2123166820,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 400036390,
+    "name": "The Chairman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 400036390,
+      "name": "The Chairman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93692517,
+      "name": "Freeman Powell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1001224231,
+      "name": "Wylde Bishop",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115223319,
+      "name": "Elisabeth Canary",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xtioth",
+  "corporation_id": 98758495,
+  "alliance_id": null,
+  "corporation_name": "ZNN",
+  "alliance_name": null
+}

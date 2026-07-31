@@ -1,0 +1,34 @@
+{
+  "character_id": 2123136884,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121918991,
+    "name": "S0dET",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720295,
+    "alliance_id": 99003995,
+    "corporation_name": "Fratelli Calabash",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2121918991,
+      "name": "S0dET",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91766581,
+      "name": "Chaya Lothloria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexesis II",
+  "corporation_id": 98809613,
+  "alliance_id": null,
+  "corporation_name": "Omega Eve Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123480827,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90967768,
+    "name": "Hrolfr Njall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": null,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90967768,
+      "name": "Hrolfr Njall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1275946672,
+      "name": "Lady Kosmos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1215775592,
+      "name": "Anoximus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saleri Kion",
+  "corporation_id": 98779269,
+  "alliance_id": 99013719,
+  "corporation_name": "Cogwerks Co.",
+  "alliance_name": "Keys Network"
+}

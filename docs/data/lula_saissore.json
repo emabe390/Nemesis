@@ -1,0 +1,40 @@
+{
+  "character_id": 2122076498,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92208231,
+    "name": "Brain Acme",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 92208231,
+      "name": "Brain Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119904212,
+      "name": "Avtorklif",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119909765,
+      "name": "Captain-Pororo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lula Saissore",
+  "corporation_id": 98798984,
+  "alliance_id": null,
+  "corporation_name": "Aelkorn Bolmara Corporation",
+  "alliance_name": null
+}

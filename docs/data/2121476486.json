@@ -1,0 +1,34 @@
+{
+  "character_id": 2121476486,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123052755,
+    "name": "Myrrideth Aideron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98743337,
+    "alliance_id": 99012862,
+    "corporation_name": "Mining Under the Influence",
+    "alliance_name": "Influential Operations"
+  },
+  "top_killers": [
+    {
+      "id": 2123052755,
+      "name": "Myrrideth Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119037184,
+      "name": "Hans Tybalt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Old katz",
+  "corporation_id": 98733563,
+  "alliance_id": null,
+  "corporation_name": "Kpan",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123790627,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116415575,
+    "name": "Eagle NoFace2",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98659412,
+    "alliance_id": 1354830081,
+    "corporation_name": "Close Encounters of the EVE Kind",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116415575,
+      "name": "Eagle NoFace2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116695390,
+      "name": "Derpierre Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122720931,
+      "name": "Zenith Gab",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123790627",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

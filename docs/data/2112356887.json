@@ -1,0 +1,40 @@
+{
+  "character_id": 2112356887,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1385894801,
+    "name": "Shlaar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1282059165,
+    "alliance_id": 1727758877,
+    "corporation_name": "Van Diemen's Demise",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 1385894801,
+      "name": "Shlaar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115070156,
+      "name": "Voreios Asteri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119039431,
+      "name": "Har Osta Skord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Russko 666",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

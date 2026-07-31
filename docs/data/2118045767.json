@@ -1,0 +1,40 @@
+{
+  "character_id": 2118045767,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118953309,
+    "name": "Anacapa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802001,
+    "alliance_id": 99010995,
+    "corporation_name": "Empyrean Academy",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 2118953309,
+      "name": "Anacapa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1168442397,
+      "name": "Ainllo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ghost-Warrior",
+  "corporation_id": 98686382,
+  "alliance_id": 99012936,
+  "corporation_name": "Clade Of Shadows",
+  "alliance_name": "Daughters of Ane"
+}

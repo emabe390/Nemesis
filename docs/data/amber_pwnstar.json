@@ -1,0 +1,40 @@
+{
+  "character_id": 2121296383,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91894516,
+    "name": "Vladimir Ba",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 605796230,
+    "alliance_id": null,
+    "corporation_name": "Another War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94057702,
+      "name": "Calante Hita",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113608447,
+      "name": "Naari Omatara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amber Pwnstar",
+  "corporation_id": 98675399,
+  "alliance_id": 99010576,
+  "corporation_name": "SpaceCorp for Unwanted Toys",
+  "alliance_name": "Dreads Amongst Drifters"
+}

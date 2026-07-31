@@ -1,0 +1,40 @@
+{
+  "character_id": 403084932,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1017447152,
+    "name": "burner01",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98524920,
+    "alliance_id": 99008787,
+    "corporation_name": "Back Next Week",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 1017447152,
+      "name": "burner01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122309045,
+      "name": "BarryBravo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123072483,
+      "name": "Ahtamaken Kimio Odunen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo Winger",
+  "corporation_id": 98736462,
+  "alliance_id": null,
+  "corporation_name": "Wright Industries Inc",
+  "alliance_name": null
+}

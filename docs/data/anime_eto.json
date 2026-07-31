@@ -1,0 +1,40 @@
+{
+  "character_id": 2123678743,
+  "total_losses": 27,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123576695,
+    "name": "T A Z",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 98707671,
+    "alliance_id": 99011119,
+    "corporation_name": "Absolute Order XXXVII",
+    "alliance_name": "Absolute Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2123576695,
+      "name": "T A Z",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2123657736,
+      "name": "Z A F",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 1617793187,
+      "name": "Orion Serini",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Anime Eto",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

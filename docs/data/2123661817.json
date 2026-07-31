@@ -1,0 +1,40 @@
+{
+  "character_id": 2123661817,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1107965223,
+    "name": "Oppressor Nikostratus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 1107965223,
+      "name": "Oppressor Nikostratus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116099049,
+      "name": "Leftraru Walmapu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120042333,
+      "name": "Gundy Gunderson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Techis-79",
+  "corporation_id": 98608010,
+  "alliance_id": null,
+  "corporation_name": "ATLAS CORPORATION S.A",
+  "alliance_name": null
+}

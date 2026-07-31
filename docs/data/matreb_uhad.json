@@ -1,0 +1,46 @@
+{
+  "character_id": 2118444146,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118013784,
+    "name": "Paka Ataru",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118013784,
+      "name": "Paka Ataru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95825559,
+      "name": "Malcolm Boloskarl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123308795,
+      "name": "CMDR Torkel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Matreb Uhad",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

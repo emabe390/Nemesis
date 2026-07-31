@@ -1,0 +1,40 @@
+{
+  "character_id": 2124338266,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124335939,
+    "name": "Brynhildr Ornsdottir",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98832525,
+    "alliance_id": 99010569,
+    "corporation_name": "Hird Arnar",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 2124335939,
+      "name": "Brynhildr Ornsdottir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114403323,
+      "name": "Viboraz Artrald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124017552,
+      "name": "Ix Tli",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fornea",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

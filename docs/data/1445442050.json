@@ -1,0 +1,46 @@
+{
+  "character_id": 1445442050,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116753411,
+    "name": "RENALTY",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98626029,
+    "alliance_id": 99014747,
+    "corporation_name": "I Have a Plan",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 2116753411,
+      "name": "RENALTY",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1445442050,
+      "name": "Character 1445442050",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114783440,
+      "name": "Phalanx Asura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123361374,
+      "name": "Andrei Rayanovsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1445442050",
+  "corporation_id": 98676208,
+  "alliance_id": null,
+  "corporation_name": "No Chit",
+  "alliance_name": null
+}

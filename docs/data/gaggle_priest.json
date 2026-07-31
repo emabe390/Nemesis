@@ -1,0 +1,52 @@
+{
+  "character_id": 2123969995,
+  "total_losses": 17,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92198971,
+      "name": "Colin McFry",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 671214409,
+      "name": "Chalice Malice",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaggle Priest",
+  "corporation_id": 98784685,
+  "alliance_id": 99010004,
+  "corporation_name": "Merc engineering corp",
+  "alliance_name": "DammFam"
+}

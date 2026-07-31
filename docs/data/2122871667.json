@@ -1,0 +1,52 @@
+{
+  "character_id": 2122871667,
+  "total_losses": 41,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3020058,
+      "name": "Tyrannos Kyrios",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 91686051,
+      "name": "Xarion Xentox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95298092,
+      "name": "Matashibi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96340358,
+      "name": "Garter Snake",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ehojov",
+  "corporation_id": 98747886,
+  "alliance_id": 99013690,
+  "corporation_name": "Svideteli Odina",
+  "alliance_name": "Critical. Mass."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123221980,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2118723189,
+    "name": "AUI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98567606,
+    "alliance_id": null,
+    "corporation_name": "Goryn Clade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118723189,
+      "name": "AUI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92216735,
+      "name": "Kassa Nech",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 111402949,
+      "name": "djman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 859811818,
+      "name": "Character 859811818",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Secundus Syagrius",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

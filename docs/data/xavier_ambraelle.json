@@ -1,0 +1,52 @@
+{
+  "character_id": 95720091,
+  "total_losses": 22,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 506854547,
+    "name": "Malcom Hale",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98749002,
+    "alliance_id": null,
+    "corporation_name": "Noctus Legio Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 506854547,
+      "name": "Malcom Hale",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115891724,
+      "name": "Nick Kg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117070960,
+      "name": "Kraznaia Zvezda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118478898,
+      "name": "Daliaerdt Ulier Gaterau",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Xavier Ambraelle",
+  "corporation_id": 98665606,
+  "alliance_id": 99011144,
+  "corporation_name": "Lux Mundi Exploration Company",
+  "alliance_name": "Lux Collective"
+}

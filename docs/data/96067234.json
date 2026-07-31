@@ -1,0 +1,46 @@
+{
+  "character_id": 96067234,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124329200,
+    "name": "ETGcyclone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124329200,
+      "name": "ETGcyclone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1673545058,
+      "name": "PSIHO Dac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spike Kirkland",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

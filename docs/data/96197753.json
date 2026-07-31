@@ -1,0 +1,34 @@
+{
+  "character_id": 96197753,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121345502,
+    "name": "Boltrom",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Medulla Terona",
+  "corporation_id": 98401103,
+  "alliance_id": 99012009,
+  "corporation_name": "Totally not a holding corp inc",
+  "alliance_name": "Minmatar Fleet Associates"
+}

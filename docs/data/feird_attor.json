@@ -1,0 +1,52 @@
+{
+  "character_id": 2122800161,
+  "total_losses": 40,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91882015,
+      "name": "Callamity Kell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92878809,
+      "name": "Xak Wales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95461953,
+      "name": "Princess Yumi Ceraveli",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Feird Attor",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

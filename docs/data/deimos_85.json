@@ -1,0 +1,52 @@
+{
+  "character_id": 2123971866,
+  "total_losses": 40,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2123970682,
+    "name": "Drax 85",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98632833,
+    "alliance_id": null,
+    "corporation_name": "Katolis",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123970682,
+      "name": "Drax 85",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94873247,
+      "name": "Aliva Okaski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94927952,
+      "name": "Ripunum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95952944,
+      "name": "Volkov Sanguinar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 595493359,
+      "name": "I'q",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Deimos 85",
+  "corporation_id": 98632833,
+  "alliance_id": null,
+  "corporation_name": "Katolis",
+  "alliance_name": null
+}

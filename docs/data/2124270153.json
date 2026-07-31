@@ -1,0 +1,40 @@
+{
+  "character_id": 2124270153,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95356395,
+    "name": "Mick Wilde",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98832442,
+    "alliance_id": null,
+    "corporation_name": "CRAZY-GANG",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95356395,
+      "name": "Mick Wilde",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123962171,
+      "name": "Dobro25",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 114101458,
+      "name": "Irllandi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baelor Targayen",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112950013,
+  "total_losses": 182,
+  "unique_killers": 131,
+  "nemesis": {
+    "id": 2119703664,
+    "name": "Arato Kado",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98827905,
+    "alliance_id": null,
+    "corporation_name": "Tri-Clade Dominion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119703664,
+      "name": "Arato Kado",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93546744,
+      "name": "Vojvoda Babic",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120420222,
+      "name": "HerEyes",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Goldensloth Ottus",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

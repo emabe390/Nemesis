@@ -1,0 +1,40 @@
+{
+  "character_id": 2122634531,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123586584,
+    "name": "824 Anastasia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98701240,
+    "alliance_id": null,
+    "corporation_name": "000' Bandits Ophiuchi",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121457288,
+      "name": "Sargon 0f Amerish",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atabosah Shakiel",
+  "corporation_id": 98652516,
+  "alliance_id": 99003490,
+  "corporation_name": "Terminus Technologies Inc.",
+  "alliance_name": "Strictly Unprofessional"
+}

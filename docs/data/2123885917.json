@@ -1,0 +1,52 @@
+{
+  "character_id": 2123885917,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 693863860,
+    "name": "2Shae",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98766678,
+    "alliance_id": 99004804,
+    "corporation_name": "Somos la Muerte",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 693863860,
+      "name": "2Shae",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116006677,
+      "name": "Character 2116006677",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121304736,
+      "name": "Ainur Module2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122138471,
+      "name": "Shaddoll Beast",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alpha Vega Lyrae",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124240650,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121230133,
+    "name": "Fylexus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98694483,
+    "alliance_id": 99014695,
+    "corporation_name": "Cockroaches of the Syndicate",
+    "alliance_name": "Blackout Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 2121230133,
+      "name": "Fylexus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 713141884,
+      "name": "Davey Oaks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119976151,
+      "name": "Erich Remark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Randonumnum",
+  "corporation_id": 98792377,
+  "alliance_id": 99010877,
+  "corporation_name": "Gnomes Gone Bad",
+  "alliance_name": "Out of the Blue."
+}

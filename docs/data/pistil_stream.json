@@ -1,0 +1,52 @@
+{
+  "character_id": 2122569135,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2122224606,
+      "name": "Kings-123",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113950415,
+      "name": "yodzik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120083212,
+      "name": "mysql -u root-p",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121807973,
+      "name": "Liz Zoe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "pistil stream",
+  "corporation_id": 98626494,
+  "alliance_id": 99003581,
+  "corporation_name": "STARCHASER Inc",
+  "alliance_name": "Fraternity."
+}

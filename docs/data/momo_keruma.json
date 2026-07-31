@@ -1,0 +1,40 @@
+{
+  "character_id": 93135193,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94453163,
+    "name": "Doc Docovich",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98402777,
+    "alliance_id": null,
+    "corporation_name": "GraveDiggers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94453163,
+      "name": "Doc Docovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 625199800,
+      "name": "DHB WildCat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113063190,
+      "name": "BoneChilling Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Momo Keruma",
+  "corporation_id": 98670660,
+  "alliance_id": 1354830081,
+  "corporation_name": "You name it - we build it",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123253747,
+  "total_losses": 102,
+  "unique_killers": 78,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 5
+    },
+    {
+      "id": 91050191,
+      "name": "Sol Weintroub",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91506684,
+      "name": "Liutasie Ellecon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91687283,
+      "name": "Alex Conrad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92090624,
+      "name": "James Rapture",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bouh Omaristos",
+  "corporation_id": 439896599,
+  "alliance_id": 1727758877,
+  "corporation_name": "Therapy.",
+  "alliance_name": "Northern Coalition."
+}

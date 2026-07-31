@@ -1,0 +1,52 @@
+{
+  "character_id": 2114437002,
+  "total_losses": 53,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 2116322116,
+    "name": "Dizzy Acami",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98826411,
+    "alliance_id": null,
+    "corporation_name": "United Paint Drinkers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116322116,
+      "name": "Dizzy Acami",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92009401,
+      "name": "Matthew O'Hearn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92819249,
+      "name": "Amarils Deka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95468474,
+      "name": "Eric Packer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DeathRider en Marland",
+  "corporation_id": 98728471,
+  "alliance_id": 99013537,
+  "corporation_name": "Tranquility Tavern",
+  "alliance_name": "Insidious."
+}

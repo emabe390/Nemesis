@@ -1,0 +1,52 @@
+{
+  "character_id": 93664643,
+  "total_losses": 52,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 96755853,
+    "name": "Alice Krez",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98826308,
+    "alliance_id": 99013548,
+    "corporation_name": "Invisible Rangers",
+    "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+  },
+  "top_killers": [
+    {
+      "id": 96755853,
+      "name": "Alice Krez",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93331256,
+      "name": "Axe Kras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95245667,
+      "name": "Lady Lewt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pavel Krez",
+  "corporation_id": 98826308,
+  "alliance_id": 99013548,
+  "corporation_name": "Invisible Rangers",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

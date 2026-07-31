@@ -1,0 +1,52 @@
+{
+  "character_id": 2122705323,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121384611,
+    "name": "Jenson Blair",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121384611,
+      "name": "Jenson Blair",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90290916,
+      "name": "pete1969",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92091313,
+      "name": "Chuck Sanussi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122034308,
+      "name": "Splasheffect",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120836853,
+      "name": "WITAKERR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Halela Kouvo",
+  "corporation_id": 98801203,
+  "alliance_id": 99013538,
+  "corporation_name": "Cai Cai Zi",
+  "alliance_name": "Per Aspera Ad Astar"
+}

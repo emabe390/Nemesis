@@ -1,0 +1,40 @@
+{
+  "character_id": 2123242413,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93745947,
+    "name": "Bunka en Daire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1831131676,
+    "alliance_id": 99005839,
+    "corporation_name": "V0LTA",
+    "alliance_name": "WE FORM V0LTA"
+  },
+  "top_killers": [
+    {
+      "id": 93745947,
+      "name": "Bunka en Daire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94512325,
+      "name": "Osrono Darksky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agande Hulfur",
+  "corporation_id": 98807280,
+  "alliance_id": null,
+  "corporation_name": "Stellar Scanning Services",
+  "alliance_name": null
+}

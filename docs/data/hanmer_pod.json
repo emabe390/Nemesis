@@ -1,0 +1,40 @@
+{
+  "character_id": 96478210,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118554788,
+    "name": "Anomaa Itinen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98573896,
+    "alliance_id": 1354830081,
+    "corporation_name": "ImperiaI Federation",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2118554788,
+      "name": "Anomaa Itinen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120872283,
+      "name": "Asiotuftsi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121407199,
+      "name": "Metalwer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hanmer Pod",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

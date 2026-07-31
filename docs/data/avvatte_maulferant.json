@@ -1,0 +1,34 @@
+{
+  "character_id": 2123553748,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91427841,
+    "name": "Davion Dragonfall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 91427841,
+      "name": "Davion Dragonfall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118519788,
+      "name": "Araviah Zirud",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avvatte Maulferant",
+  "corporation_id": 98795819,
+  "alliance_id": 1900696668,
+  "corporation_name": "Solos Nexus",
+  "alliance_name": "The Initiative."
+}

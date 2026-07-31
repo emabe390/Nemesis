@@ -1,0 +1,40 @@
+{
+  "character_id": 93144704,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113281828,
+    "name": "Dam Keromis",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98582333,
+    "alliance_id": null,
+    "corporation_name": "Last Stand Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113281828,
+      "name": "Dam Keromis",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93144704,
+      "name": "Hidetoshi Houssa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hidetoshi Houssa",
+  "corporation_id": 98582333,
+  "alliance_id": null,
+  "corporation_name": "Last Stand Enterprises",
+  "alliance_name": null
+}

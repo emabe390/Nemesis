@@ -1,0 +1,40 @@
+{
+  "character_id": 2112680179,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90453482,
+    "name": "Chris Engle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670226,
+    "alliance_id": 99010756,
+    "corporation_name": "StratsCo",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 90453482,
+      "name": "Chris Engle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1448787109,
+      "name": "MiWho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ann Savage",
+  "corporation_id": 98702288,
+  "alliance_id": 99013972,
+  "corporation_name": "Uncommon Horizon",
+  "alliance_name": "Vikings."
+}

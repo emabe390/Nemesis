@@ -1,0 +1,52 @@
+{
+  "character_id": 2123094277,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 221779761,
+    "name": "Bjorn Christopherson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98694116,
+    "alliance_id": 99006260,
+    "corporation_name": "Investtan Inc.",
+    "alliance_name": "The Republic."
+  },
+  "top_killers": [
+    {
+      "id": 221779761,
+      "name": "Bjorn Christopherson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90009074,
+      "name": "Vanity 6",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90421160,
+      "name": "Mordecai Holtzgrund",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90598012,
+      "name": "Orange Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 901320273,
+      "name": "Rahmiro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sio Askiras",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

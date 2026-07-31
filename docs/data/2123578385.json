@@ -1,0 +1,46 @@
+{
+  "character_id": 2123578385,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115742692,
+      "name": "Julia Mordan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114071779,
+      "name": "Nesat Raiser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Dreya Nocturnum",
+  "corporation_id": 98792596,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Void Ministorum",
+  "alliance_name": null
+}

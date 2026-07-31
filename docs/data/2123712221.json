@@ -1,0 +1,40 @@
+{
+  "character_id": 2123712221,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94200086,
+    "name": "Azov D",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98139309,
+    "alliance_id": 99007879,
+    "corporation_name": "Don't Wake a sleeping bear",
+    "alliance_name": "TIME CRIT"
+  },
+  "top_killers": [
+    {
+      "id": 94200086,
+      "name": "Azov D",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118318593,
+      "name": "crap cap",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123709453,
+      "name": "CR-DeepSpace Wanderer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dealt Odor",
+  "corporation_id": 98813847,
+  "alliance_id": null,
+  "corporation_name": "Deep Odor Exploratiions",
+  "alliance_name": null
+}

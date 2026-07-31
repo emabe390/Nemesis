@@ -1,0 +1,40 @@
+{
+  "character_id": 2123668453,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1027654443,
+    "name": "inFKami",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000437,
+    "alliance_id": null,
+    "corporation_name": "Commando Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1027654443,
+      "name": "inFKami",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118617567,
+      "name": "Reaper JO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122472471,
+      "name": "BoomBlapPow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jackie Chanelington",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

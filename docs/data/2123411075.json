@@ -1,0 +1,52 @@
+{
+  "character_id": 2123411075,
+  "total_losses": 31,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2123473969,
+    "name": "Angel Drone",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98798569,
+    "alliance_id": null,
+    "corporation_name": "Blood-Soul Emporium",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123473969,
+      "name": "Angel Drone",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1237551989,
+      "name": "ringkeeper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115199466,
+      "name": "Yeling Anninen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123142753,
+      "name": "ViviCruor-1",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123411075",
+  "corporation_id": 98798569,
+  "alliance_id": 99014087,
+  "corporation_name": "Blood-Soul Emporium",
+  "alliance_name": "ChuangShi Federation"
+}

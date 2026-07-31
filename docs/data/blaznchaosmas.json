@@ -1,0 +1,52 @@
+{
+  "character_id": 2124158075,
+  "total_losses": 40,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2124028843,
+    "name": "Bala Envenenada",
+    "kill_count": 29,
+    "final_blows": 29,
+    "corporation_id": 98777436,
+    "alliance_id": 99013327,
+    "corporation_name": "Hyperion Bikers Corporation",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2124028843,
+      "name": "Bala Envenenada",
+      "kill_count": 29,
+      "final_blows": 29
+    },
+    {
+      "id": 2121797416,
+      "name": "Ms Lidia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114973681,
+      "name": "Lili Evian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119174606,
+      "name": "G00D ADVICE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BlaznChaosMas",
+  "corporation_id": 98831310,
+  "alliance_id": null,
+  "corporation_name": "Sprayed but never Slayed",
+  "alliance_name": null
+}

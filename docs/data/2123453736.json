@@ -1,0 +1,40 @@
+{
+  "character_id": 2123453736,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122514363,
+    "name": "WhatCanlSay",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98803292,
+    "alliance_id": 99003995,
+    "corporation_name": "Dangerous technical cooperatives",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2122514363,
+      "name": "WhatCanlSay",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122165507,
+      "name": "Wayne Waystar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123886005,
+      "name": "SM l like3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "solo killer 12",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

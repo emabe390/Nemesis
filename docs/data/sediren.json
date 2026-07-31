@@ -1,0 +1,52 @@
+{
+  "character_id": 2120678669,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 956803617,
+    "name": "The Pilgrimage",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98591522,
+    "alliance_id": null,
+    "corporation_name": "New Eden Graffiti Abatement Team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 956803617,
+      "name": "The Pilgrimage",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114523123,
+      "name": "Egdald Sinulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92153304,
+      "name": "Ambitions Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sediren",
+  "corporation_id": 98764580,
+  "alliance_id": 99014696,
+  "corporation_name": "Strong Medicine",
+  "alliance_name": "Hullbreakers"
+}

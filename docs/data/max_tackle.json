@@ -1,0 +1,40 @@
+{
+  "character_id": 2114343573,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 189368016,
+    "name": "Red Rose",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 470530191,
+    "alliance_id": 1900696668,
+    "corporation_name": "Thundercats",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 189368016,
+      "name": "Red Rose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119205992,
+      "name": "Xenon Inubara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122339071,
+      "name": "Millie Darkside",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Max Tackle",
+  "corporation_id": 98701912,
+  "alliance_id": 1900696668,
+  "corporation_name": "Initiative Logistics",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121756006,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 743527496,
+    "name": "SilentEcho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800100,
+    "alliance_id": null,
+    "corporation_name": "Who Dis New Phone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 743527496,
+      "name": "SilentEcho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96945108,
+      "name": "Pample Mousse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CRS14",
+  "corporation_id": 98763858,
+  "alliance_id": 99013541,
+  "corporation_name": "Panda Express Delivery",
+  "alliance_name": "Fraternity Auxiliary"
+}

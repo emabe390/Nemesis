@@ -1,0 +1,52 @@
+{
+  "character_id": 2114883287,
+  "total_losses": 36,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 147297376,
+    "name": "SolidHadden",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 305086894,
+    "alliance_id": 99012664,
+    "corporation_name": "Sphere Industries",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 147297376,
+      "name": "SolidHadden",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 95005531,
+      "name": "Hawk Roxy",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 94240038,
+      "name": "Juile Knight",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 466972257,
+      "name": "Zigam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116660171,
+      "name": "Joachim Karsten",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Wilbur Ongrard",
+  "corporation_id": 98647477,
+  "alliance_id": null,
+  "corporation_name": "The Quantum Epoch",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 97123771,
+  "total_losses": 26,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 692533395,
+    "name": "Caldor Gend",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98574346,
+    "alliance_id": null,
+    "corporation_name": "Weyland Yutanii Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 692533395,
+      "name": "Caldor Gend",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 928085606,
+      "name": "Darky Tenshou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90277315,
+      "name": "Alistar Ubereem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 97123771",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

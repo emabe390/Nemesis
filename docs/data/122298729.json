@@ -1,0 +1,52 @@
+{
+  "character_id": 122298729,
+  "total_losses": 30,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124142055,
+      "name": "Torta Wrangler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jeffrey",
+  "corporation_id": 2000435808,
+  "alliance_id": null,
+  "corporation_name": "BioDragons",
+  "alliance_name": null
+}

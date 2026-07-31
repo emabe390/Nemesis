@@ -1,0 +1,40 @@
+{
+  "character_id": 2123581385,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95392624,
+    "name": "Tombstone Jack",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744491,
+    "alliance_id": 99013330,
+    "corporation_name": "URSA PRIMUS",
+    "alliance_name": "URSA."
+  },
+  "top_killers": [
+    {
+      "id": 95392624,
+      "name": "Tombstone Jack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1248702217,
+      "name": "Bigy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1974971565,
+      "name": "Xenomassacre",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scratchy MaKrakin",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

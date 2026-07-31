@@ -1,0 +1,40 @@
+{
+  "character_id": 2122649493,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117828804,
+    "name": "Tomtheus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98426237,
+    "alliance_id": 99004604,
+    "corporation_name": "Phoenix Naval Operations",
+    "alliance_name": "Phoenix Naval Systems"
+  },
+  "top_killers": [
+    {
+      "id": 2117828804,
+      "name": "Tomtheus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118094129,
+      "name": "PrivateParts",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121224284,
+      "name": "Bungtilious Squanch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rico J Waif",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

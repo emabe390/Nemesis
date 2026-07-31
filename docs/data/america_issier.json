@@ -1,0 +1,34 @@
+{
+  "character_id": 2113220416,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 367575249,
+    "name": "Saggle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 367575249,
+      "name": "Saggle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "America Issier",
+  "corporation_id": 98823232,
+  "alliance_id": 99013766,
+  "corporation_name": "Comando Chatarra",
+  "alliance_name": "Death Legion of Capybaras"
+}

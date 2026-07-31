@@ -1,0 +1,40 @@
+{
+  "character_id": 90939377,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123052755,
+    "name": "Myrrideth Aideron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98743337,
+    "alliance_id": 99012862,
+    "corporation_name": "Mining Under the Influence",
+    "alliance_name": "Influential Operations"
+  },
+  "top_killers": [
+    {
+      "id": 2123052755,
+      "name": "Myrrideth Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 493167923,
+      "name": "Paul Orcanus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ryanz O'Connell",
+  "corporation_id": 98812213,
+  "alliance_id": null,
+  "corporation_name": "Void Horrors",
+  "alliance_name": null
+}

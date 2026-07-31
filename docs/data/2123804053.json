@@ -1,0 +1,46 @@
+{
+  "character_id": 2123804053,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95994350,
+    "name": "Hermes Hawk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809880,
+    "alliance_id": 1988009451,
+    "corporation_name": "Tabou.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95994350,
+      "name": "Hermes Hawk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 720593248,
+      "name": "Arthur McFredric",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119449883,
+      "name": "TaiBaiJinXIng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "L'Intermediaire",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

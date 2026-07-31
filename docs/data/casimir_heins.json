@@ -1,0 +1,52 @@
+{
+  "character_id": 2123222459,
+  "total_losses": 67,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2112695125,
+    "name": "Atria Karidel",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98743153,
+    "alliance_id": null,
+    "corporation_name": "The Fae Den",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112695125,
+      "name": "Atria Karidel",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 96847607,
+      "name": "Kaial Vazar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96761070,
+      "name": "Drago Tzu",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Casimir-heins",
+  "corporation_id": 814655894,
+  "alliance_id": null,
+  "corporation_name": "Master Miners",
+  "alliance_name": null
+}

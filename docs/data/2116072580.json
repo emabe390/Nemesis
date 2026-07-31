@@ -1,0 +1,34 @@
+{
+  "character_id": 2116072580,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93140550,
+    "name": "Arimasis Rotineque",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 93140550,
+      "name": "Arimasis Rotineque",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114856108,
+      "name": "Theoden Solette",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2116072580",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

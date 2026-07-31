@@ -1,0 +1,46 @@
+{
+  "character_id": 2123718865,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117391596,
+    "name": "1Arseniy1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 604035876,
+    "alliance_id": 99001317,
+    "corporation_name": "Free Space Tech",
+    "alliance_name": "Banderlogs Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2117391596,
+      "name": "1Arseniy1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112089383,
+      "name": "Spyke Austrene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121842280,
+      "name": "Freyja Voidslayer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123590280,
+      "name": "Aoi Yume",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wingkang",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 95261300,
+  "total_losses": 82,
+  "unique_killers": 65,
+  "nemesis": {
+    "id": 2117323350,
+    "name": "RedCorsair",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 2117323350,
+      "name": "RedCorsair",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 92565981,
+      "name": "Xanos Xellos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91514167,
+      "name": "Smoky Plunder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 367575249,
+      "name": "Saggle",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Grima The Mad",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123104223,
+  "total_losses": 30,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 1812624832,
+    "name": "Rammit",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98624346,
+    "alliance_id": null,
+    "corporation_name": "Among Shadows",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1812624832,
+      "name": "Rammit",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 685630574,
+      "name": "phalanx warriorll",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 772370262,
+      "name": "Klyria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121958319,
+      "name": "60TP",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rub n Tug",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

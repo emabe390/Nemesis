@@ -1,0 +1,52 @@
+{
+  "character_id": 2123033042,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1096972662,
+    "name": "KnowOut Joe",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98764120,
+    "alliance_id": null,
+    "corporation_name": "Eviction-Scout Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1096972662,
+      "name": "KnowOut Joe",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1344553837,
+      "name": "Hartz Fear",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 675642294,
+      "name": "Drake Corvin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113730620,
+      "name": "Broho Handelaar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TradeBob",
+  "corporation_id": 98764120,
+  "alliance_id": null,
+  "corporation_name": "Eviction-Scout Inc.",
+  "alliance_name": null
+}

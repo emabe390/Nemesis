@@ -1,0 +1,40 @@
+{
+  "character_id": 2124106573,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124000646,
+    "name": "chugelim",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2124000646,
+      "name": "chugelim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 664058436,
+      "name": "Alfajack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112947041,
+      "name": "K Juncker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "muyv",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

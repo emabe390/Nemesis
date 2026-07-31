@@ -1,0 +1,40 @@
+{
+  "character_id": 90123230,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92686614,
+    "name": "Jackson Kishunuba",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98149980,
+    "alliance_id": null,
+    "corporation_name": "Clan Guild Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92686614,
+      "name": "Jackson Kishunuba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119635716,
+      "name": "Hson Yong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123254772,
+      "name": "Octavia First Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "1ronmaiden",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

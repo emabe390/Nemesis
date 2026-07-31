@@ -1,0 +1,52 @@
+{
+  "character_id": 2123633693,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115182633,
+    "name": "yuban C",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98696463,
+    "alliance_id": 99003581,
+    "corporation_name": "Light Spot Poacher",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115182633,
+      "name": "yuban C",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119229388,
+      "name": "Clockwork Fly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120070754,
+      "name": "TY-103",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123405981,
+      "name": "Lex Morven",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MalusMalicious",
+  "corporation_id": 98810156,
+  "alliance_id": null,
+  "corporation_name": "Eternal Salvation",
+  "alliance_name": null
+}

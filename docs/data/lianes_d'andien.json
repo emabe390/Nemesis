@@ -1,0 +1,40 @@
+{
+  "character_id": 216129546,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121369586,
+    "name": "Dennis Killer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769610,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cosmic-Wanderers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2121369586,
+      "name": "Dennis Killer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92904498,
+      "name": "Ben Thara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114085089,
+      "name": "Daak Deninard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lianes d'Andien",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

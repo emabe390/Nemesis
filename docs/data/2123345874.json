@@ -1,0 +1,52 @@
+{
+  "character_id": 2123345874,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 1099051589,
+    "name": "Picard X",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98606395,
+    "alliance_id": 99003995,
+    "corporation_name": "PICHATRON",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91251313,
+      "name": "Grunt Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93460084,
+      "name": "Zane Dempsey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1307506847,
+      "name": "Devlan LaCroix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123345874",
+  "corporation_id": 98745845,
+  "alliance_id": 99005393,
+  "corporation_name": "Fighting Club Seafood Market",
+  "alliance_name": "Blades of Grass"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122588386,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 1148017533,
+      "name": "NeoRuby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115515248,
+      "name": "Star Harrier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LARBINO",
+  "corporation_id": 1020135437,
+  "alliance_id": 1354830081,
+  "corporation_name": "Universalis Imperium",
+  "alliance_name": "Goonswarm Federation"
+}

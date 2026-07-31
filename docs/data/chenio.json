@@ -1,0 +1,52 @@
+{
+  "character_id": 2123930387,
+  "total_losses": 224,
+  "unique_killers": 106,
+  "nemesis": {
+    "id": 90664774,
+    "name": "Paul Rem",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 544199803,
+    "alliance_id": 1727758877,
+    "corporation_name": "Macabre Votum",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 90664774,
+      "name": "Paul Rem",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 145453134,
+      "name": "fosidude",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 436078092,
+      "name": "inkswitch",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2124289464,
+      "name": "Ascael",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 8,
+      "final_blows": 8
+    }
+  ],
+  "character_name": "Chenio",
+  "corporation_id": 98804134,
+  "alliance_id": null,
+  "corporation_name": "Castle in the Sky",
+  "alliance_name": null
+}

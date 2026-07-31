@@ -1,0 +1,52 @@
+{
+  "character_id": 2121598442,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92410190,
+    "name": "Lathaen Cathal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92410190,
+      "name": "Lathaen Cathal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123505186,
+      "name": "4 2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1846566019,
+      "name": "Flash Boredom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116260244,
+      "name": "Dharn Deninard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120161083,
+      "name": "Patrick Head",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Assair",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115334689,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95509019,
+    "name": "Zopiclone",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98517677,
+    "alliance_id": null,
+    "corporation_name": "Vigilance Training Bureau",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95509019,
+      "name": "Zopiclone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112924869,
+      "name": "Madz Ambramotte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121495970,
+      "name": "Zenadore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mateo Stellar",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

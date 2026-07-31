@@ -1,0 +1,40 @@
+{
+  "character_id": 2123019676,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92883235,
+    "name": "Mister Ducky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806746,
+    "alliance_id": null,
+    "corporation_name": "100K1",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92883235,
+      "name": "Mister Ducky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113439037,
+      "name": "Adrameleth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115761173,
+      "name": "Aurora Lene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Geolog 2K25",
+  "corporation_id": 98698983,
+  "alliance_id": 99012122,
+  "corporation_name": "Scan Stakan",
+  "alliance_name": "HOLD MY PROBS"
+}

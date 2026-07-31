@@ -1,0 +1,52 @@
+{
+  "character_id": 2120360689,
+  "total_losses": 80,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2120189282,
+    "name": "Graf De Amarr",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98835450,
+    "alliance_id": null,
+    "corporation_name": "I.NagLOFarm.I",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120189282,
+      "name": "Graf De Amarr",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124096417,
+      "name": "Tenic2",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91828300,
+      "name": "Seterinthia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92840823,
+      "name": "Hika Shana",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "OLLI1",
+  "corporation_id": 98747628,
+  "alliance_id": 99013255,
+  "corporation_name": "House of the Shattered Sun",
+  "alliance_name": "Shattered Sun Confederation"
+}

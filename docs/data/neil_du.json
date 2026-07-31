@@ -1,0 +1,52 @@
+{
+  "character_id": 2114876190,
+  "total_losses": 28,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94297571,
+      "name": "Porrim Echerie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96062629,
+      "name": "Tim Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Neil Du",
+  "corporation_id": 98825044,
+  "alliance_id": 99003581,
+  "corporation_name": "Navigators' Union",
+  "alliance_name": "Fraternity."
+}

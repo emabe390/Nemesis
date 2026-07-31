@@ -1,0 +1,52 @@
+{
+  "character_id": 2112912166,
+  "total_losses": 80,
+  "unique_killers": 65,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94472974,
+      "name": "Sebastian Charantes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 574491333,
+      "name": "Judas Aralius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 713469522,
+      "name": "GambbiT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 800524399,
+      "name": "Rots Mijnwerker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Echo Hawk",
+  "corporation_id": 98177708,
+  "alliance_id": 1042504553,
+  "corporation_name": "Space Wolves ind.",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVE Nemesis Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><a href="./" class="site-title">⚔️ EVE Nemesis Tracker</a></h1>
+            <p>Find who kills you the most in New Eden</p>
+        </header>
+
+        <div class="search-wrap">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Enter character name..." autocomplete="off">
+                <button id="searchBtn">Find Nemesis</button>
+            </div>
+            <div id="suggestions" class="suggestions hidden"></div>
+        </div>
+
+        <div id="loading" class="hidden">Scanning killmails...</div>
+        <div id="error" class="hidden"></div>
+
+        <div id="result" class="hidden">
+            <div class="nemesis-card">
+                <div class="victim-header">
+                    <div class="victim-info">
+                        <h2 id="victimName"></h2>
+                        <div id="victimOrgs" class="entity-orgs"></div>
+                    </div>
+                    <span class="losses-badge"><span id="totalLosses"></span> losses tracked</span>
+                </div>
+
+                <div class="nemesis-reveal">
+                    <div class="label">Your Nemesis</div>
+                    <div class="nemesis-name" id="nemesisName"></div>
+                    <div class="nemesis-stats">
+                        <span class="stat"><span id="nemesisKills"></span> <span id="nemesisFinalBlows"></span></span>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h3>Top Killers</h3>
+                    <div id="topKillers" class="killers-list"></div>
+                </div>
+
+                <div class="section">
+                    <h3>👑 You Are Their Nemesis</h3>
+                    <p class="section-subtitle">Characters who you kill the most — you are their nemesis</p>
+                    <div id="reverseNemesis" class="killers-list"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="notIndexed" class="hidden">
+            <p>Character not in database. Nemesis data is updated weekly.</p>
+            <p>Add this character to the tracking list to include them next update.</p>
+        </div>
+
+        <div class="db-stats" id="dbStats">
+            <span id="trackedCount">Loading...</span> characters tracked
+            <span class="db-sep">|</span>
+            <span id="dateRange">Loading...</span>
+        </div>
+
+        <div class="faq">
+            <details>
+                <summary>How does this work?</summary>
+                <p>This tool analyzes <strong>final blows</strong> from zKillboard data to find who kills a character most often. Your <em>nemesis</em> is the single pilot with the most final blows against you.</p>
+                <p>Data covers the <strong>last 365 days</strong> and updates weekly. Only characters with <strong>3+ losses</strong> in that period are tracked.</p>
+                <p>The <em>reverse nemesis</em> section shows pilots who <em>you</em> kill the most — meaning you are their nemesis.</p>
+            </details>
+        </div>
+
+        <div style="text-align:center;margin-top:30px;">
+            <a href="top.html" style="color:var(--gold);text-decoration:none;font-weight:600;font-size:1rem;">🏆 View Top Nemesis Leaderboard →</a>
+        </div>
+
+        <footer class="disclaimer">
+            <p>EVE Online and all related assets are the property of Fenris Creations. This is an independent fan project and is not affiliated with or endorsed by Fenris Creations.</p>
+            <p class="creator">Created by <a href="javascript:void(0)" class="char-link" data-name="Freany">Freany</a> — data from <a href="https://zkillboard.com/" target="_blank" rel="noopener">zKillboard</a></p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

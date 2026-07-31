@@ -1,0 +1,52 @@
+{
+  "character_id": 2123947750,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123080081,
+    "name": "Dogwelder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123080081,
+      "name": "Dogwelder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92760375,
+      "name": "Canthan Rogue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96232935,
+      "name": "Dark Lorelei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1035259233,
+      "name": "Character 1035259233",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1635410527,
+      "name": "Yasmine Yuhn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mechi Jas Shihari",
+  "corporation_id": 98813284,
+  "alliance_id": 99009845,
+  "corporation_name": "Environmental Hazard.",
+  "alliance_name": "Sedition."
+}

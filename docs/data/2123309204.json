@@ -1,0 +1,52 @@
+{
+  "character_id": 2123309204,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123112868,
+    "name": "Legend Kado",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98827750,
+    "alliance_id": 99014923,
+    "corporation_name": "Ella Langley Fanclub",
+    "alliance_name": "Ella's Fellas"
+  },
+  "top_killers": [
+    {
+      "id": 2123112868,
+      "name": "Legend Kado",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92475411,
+      "name": "Mark Ryden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95289345,
+      "name": "Emilia Reich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96833735,
+      "name": "WaterTube Bolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 910561796,
+      "name": "Ehlixaraga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orta Windstep",
+  "corporation_id": 98834580,
+  "alliance_id": null,
+  "corporation_name": "WrongHole",
+  "alliance_name": null
+}

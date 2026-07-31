@@ -1,0 +1,52 @@
+{
+  "character_id": 2122593461,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 380196726,
+    "name": "Sallah Nefari",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 380196726,
+      "name": "Sallah Nefari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93167603,
+      "name": "Claudille Storm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93974971,
+      "name": "Sergey Aihaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96677656,
+      "name": "Nero Oskold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marilena Mckenzie",
+  "corporation_id": 98752603,
+  "alliance_id": null,
+  "corporation_name": "BobVult",
+  "alliance_name": null
+}

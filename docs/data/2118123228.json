@@ -1,0 +1,40 @@
+{
+  "character_id": 2118123228,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91558121,
+    "name": "Bernie Thellere",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91558121,
+      "name": "Bernie Thellere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 626830891,
+      "name": "Fiona Farrow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 880169017,
+      "name": "Kahn v",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nahda",
+  "corporation_id": 98823076,
+  "alliance_id": null,
+  "corporation_name": "Lati mining expedition",
+  "alliance_name": null
+}

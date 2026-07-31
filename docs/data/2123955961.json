@@ -1,0 +1,52 @@
+{
+  "character_id": 2123955961,
+  "total_losses": 29,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 1771780065,
+    "name": "NCC 1701E",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 424525976,
+    "alliance_id": 99009927,
+    "corporation_name": "Criterion.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1771780065,
+      "name": "NCC 1701E",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114979521,
+      "name": "Anaphylaxis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116744398,
+      "name": "Kassi Othelia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90047488,
+      "name": "GeorgenLarusso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90754906,
+      "name": "Psypher Locke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tuns Teld Delon",
+  "corporation_id": 98820031,
+  "alliance_id": null,
+  "corporation_name": "Minmatar FW Power",
+  "alliance_name": null
+}

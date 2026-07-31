@@ -1,0 +1,52 @@
+{
+  "character_id": 2123054019,
+  "total_losses": 18,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 211008955,
+    "name": "Aysel Coskun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98753081,
+    "alliance_id": null,
+    "corporation_name": "Starship Nomads",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 211008955,
+      "name": "Aysel Coskun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92101357,
+      "name": "Loid McGuth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93995237,
+      "name": "Arindia Mielin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94365053,
+      "name": "Devesta Julii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96308510,
+      "name": "Wayne Tsuru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarHero",
+  "corporation_id": 98814875,
+  "alliance_id": 99013674,
+  "corporation_name": "OPA Free Navy",
+  "alliance_name": "Recklessly Tactical"
+}

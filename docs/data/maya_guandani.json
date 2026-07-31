@@ -1,0 +1,52 @@
+{
+  "character_id": 2123145588,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 973576579,
+    "name": "Genning",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113187040,
+      "name": "Iamfish fishfish",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114339519,
+      "name": "Kashiwagi Yuki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95916194,
+      "name": "Stabby McstabStabb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96548190,
+      "name": "You Got Dunked",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maya Guandani",
+  "corporation_id": 98797696,
+  "alliance_id": 99010079,
+  "corporation_name": "Guandani Industries",
+  "alliance_name": "Brave United"
+}

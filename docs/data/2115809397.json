@@ -1,0 +1,52 @@
+{
+  "character_id": 2115809397,
+  "total_losses": 25,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115783047,
+    "name": "Yg Mol",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98813850,
+    "alliance_id": null,
+    "corporation_name": "Sol Ringen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115783047,
+      "name": "Yg Mol",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 95028519,
+      "name": "Unnamed Frozenhearth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96794126,
+      "name": "Rexan Darkstar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 137705723,
+      "name": "Balthazarra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yaroslav Volodskikh",
+  "corporation_id": 98812395,
+  "alliance_id": 99014419,
+  "corporation_name": "Skiff to the heavens",
+  "alliance_name": "Seals on the rocks"
+}

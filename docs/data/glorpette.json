@@ -1,0 +1,34 @@
+{
+  "character_id": 2123806635,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96693322,
+    "name": "Robert Greer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98494263,
+    "alliance_id": null,
+    "corporation_name": "Beck Krystall Mining",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96693322,
+      "name": "Robert Greer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Glorpette",
+  "corporation_id": 98515088,
+  "alliance_id": null,
+  "corporation_name": "Draken Harald Harfagre",
+  "alliance_name": null
+}

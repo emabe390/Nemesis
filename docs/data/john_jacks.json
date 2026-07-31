@@ -1,0 +1,52 @@
+{
+  "character_id": 2123946422,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 122325889,
+    "name": "Tesla Coils",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771388,
+    "alliance_id": 555959926,
+    "corporation_name": "Tactical Grace.",
+    "alliance_name": "Vanguard."
+  },
+  "top_killers": [
+    {
+      "id": 122325889,
+      "name": "Tesla Coils",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117265673,
+      "name": "ElfaOmega",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117567676,
+      "name": "Dalten Henard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Jacks",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

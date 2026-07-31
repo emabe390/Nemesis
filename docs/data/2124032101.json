@@ -1,0 +1,52 @@
+{
+  "character_id": 2124032101,
+  "total_losses": 68,
+  "unique_killers": 59,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90703254,
+      "name": "Xynta TT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93978834,
+      "name": "Euthymius Sagetus Remak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95355245,
+      "name": "Muon Farstrider",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114715836,
+      "name": "Big All",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vorv",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

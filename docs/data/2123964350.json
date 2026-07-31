@@ -1,0 +1,46 @@
+{
+  "character_id": 2123964350,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 964330275,
+    "name": "Aegis Stormborn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 308249887,
+      "name": "Roman Robert",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116809103,
+      "name": "Friend of Wisdom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andro Zosime",
+  "corporation_id": 98820215,
+  "alliance_id": null,
+  "corporation_name": "Ram Ranch Inc. - Butt Chugin Bandits",
+  "alliance_name": null
+}

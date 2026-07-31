@@ -1,0 +1,40 @@
+{
+  "character_id": 535513109,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116054620,
+    "name": "Kush Alien",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116054620,
+      "name": "Kush Alien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118301092,
+      "name": "V1ctorovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122994384,
+      "name": "Sister Bravo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miner McBride",
+  "corporation_id": 98789668,
+  "alliance_id": 99013790,
+  "corporation_name": "Documenting",
+  "alliance_name": "Just Documenting"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 107324153,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95817381,
+      "name": "Thor Kalden",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124216562,
+      "name": "Jitakato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91039163,
+      "name": "Satas Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mendan Khor",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

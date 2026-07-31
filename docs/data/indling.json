@@ -1,0 +1,34 @@
+{
+  "character_id": 2124168840,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113526566,
+    "name": "Anubis Djoser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98362743,
+    "alliance_id": 99006225,
+    "corporation_name": "Wicked Desolation",
+    "alliance_name": "Rote Works"
+  },
+  "top_killers": [
+    {
+      "id": 2113526566,
+      "name": "Anubis Djoser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indling",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

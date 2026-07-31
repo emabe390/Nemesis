@@ -1,0 +1,52 @@
+{
+  "character_id": 2123769801,
+  "total_losses": 47,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 646234498,
+    "name": "Ivan En'Vec",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98700281,
+    "alliance_id": 99010995,
+    "corporation_name": "Task Force 641",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 646234498,
+      "name": "Ivan En'Vec",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 208472006,
+      "name": "Xlost",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91308825,
+      "name": "Esra Udan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93761679,
+      "name": "Anastazjusz Kozak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94053076,
+      "name": "Ahab Svarog",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Wyrdalakus",
+  "corporation_id": 98795177,
+  "alliance_id": null,
+  "corporation_name": "RU-ADAMANT",
+  "alliance_name": null
+}

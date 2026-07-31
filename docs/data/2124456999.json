@@ -1,0 +1,52 @@
+{
+  "character_id": 2124456999,
+  "total_losses": 64,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2122472471,
+    "name": "BoomBlapPow",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98779121,
+    "alliance_id": null,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122472471,
+      "name": "BoomBlapPow",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123080081,
+      "name": "Dogwelder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91749472,
+      "name": "PhoenixP59",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94596217,
+      "name": "Alexia Trald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "NoodleFighter",
+  "corporation_id": 98808817,
+  "alliance_id": 99010877,
+  "corporation_name": "Knight of Zero Ultra",
+  "alliance_name": "Out of the Blue."
+}

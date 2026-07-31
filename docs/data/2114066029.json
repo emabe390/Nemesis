@@ -1,0 +1,40 @@
+{
+  "character_id": 2114066029,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 402109635,
+      "name": "Character 402109635",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hereti Bush",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

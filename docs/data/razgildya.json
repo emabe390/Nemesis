@@ -1,0 +1,34 @@
+{
+  "character_id": 2121787310,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96024689,
+    "name": "Lucas Falconus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806804,
+    "alliance_id": 99014431,
+    "corporation_name": "Scrapyard Artificer's",
+    "alliance_name": "Just Lizard"
+  },
+  "top_killers": [
+    {
+      "id": 96024689,
+      "name": "Lucas Falconus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96650003,
+      "name": "Flower Fallen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Razgildya",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

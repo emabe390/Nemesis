@@ -1,0 +1,52 @@
+{
+  "character_id": 2123647847,
+  "total_losses": 42,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 912927245,
+    "name": "Onic Madres",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98558667,
+    "alliance_id": 99011223,
+    "corporation_name": "Good Ole Boys",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95124379,
+      "name": "Thibault Yassavi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97153177,
+      "name": "Alexis Thunderkunt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Maxim Alberich",
+  "corporation_id": 98711678,
+  "alliance_id": null,
+  "corporation_name": "Undocked Anyway",
+  "alliance_name": null
+}

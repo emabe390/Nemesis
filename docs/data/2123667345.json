@@ -1,0 +1,46 @@
+{
+  "character_id": 2123667345,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119783331,
+      "name": "KeoZzza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91099996,
+      "name": "Scirocco Sturm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1633502996,
+      "name": "Orchiector",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hans Maula",
+  "corporation_id": 98812157,
+  "alliance_id": null,
+  "corporation_name": "Clear Sky Org",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121022498,
+  "total_losses": 20,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 93034758,
+    "name": "Trajan Al'Thor",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93034758,
+      "name": "Trajan Al'Thor",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95497451,
+      "name": "Fen Frimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115726468,
+      "name": "Azriel Delta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115947787,
+      "name": "Finka Igunen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daniel Yash",
+  "corporation_id": 98628734,
+  "alliance_id": 99011271,
+  "corporation_name": "Sargos Corporation",
+  "alliance_name": "4Crabs Tavern"
+}

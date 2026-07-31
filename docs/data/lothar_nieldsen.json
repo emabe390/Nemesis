@@ -1,0 +1,52 @@
+{
+  "character_id": 2123551202,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2116625211,
+    "name": "Alex Drako",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98793509,
+    "alliance_id": null,
+    "corporation_name": "Reality Pub",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116625211,
+      "name": "Alex Drako",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119881963,
+      "name": "Glint",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97238212,
+      "name": "Gallente Citizen 97238212",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 254534894,
+      "name": "Thran Hellbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 624445101,
+      "name": "kophen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lothar Nieldsen",
+  "corporation_id": 98807601,
+  "alliance_id": null,
+  "corporation_name": "Happy Mining Miners Inc",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113078888,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112491431,
+    "name": "Eugene Blood",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 982947821,
+    "alliance_id": 99004804,
+    "corporation_name": "War Tactical Groups",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 2112491431,
+      "name": "Eugene Blood",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 808358675,
+      "name": "Senjiu Kanuba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119844058,
+      "name": "Pepsilelangxing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akira Cooper",
+  "corporation_id": 98452123,
+  "alliance_id": 99013941,
+  "corporation_name": "Yamagata Technologies Inc.",
+  "alliance_name": "James Webb Space Telescope"
+}

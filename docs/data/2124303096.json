@@ -1,0 +1,40 @@
+{
+  "character_id": 2124303096,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1117590514,
+    "name": "Primus piluss",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1831383486,
+    "alliance_id": 1900696668,
+    "corporation_name": "TEMPLAR.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1117590514,
+      "name": "Primus piluss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92333103,
+      "name": "Felix Damaro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FiodorDos",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

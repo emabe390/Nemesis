@@ -1,0 +1,52 @@
+{
+  "character_id": 2123111636,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 570304691,
+    "name": "Mistress Venom",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 669795117,
+    "alliance_id": 131511956,
+    "corporation_name": "Systems High Guard",
+    "alliance_name": "Tactical Narcotics Team"
+  },
+  "top_killers": [
+    {
+      "id": 570304691,
+      "name": "Mistress Venom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 965009084,
+      "name": "Piir8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118127342,
+      "name": "Death By Sudoku",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93624718,
+      "name": "Maria Daphiti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112667617,
+      "name": "Corruptified",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brock Claudraven",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

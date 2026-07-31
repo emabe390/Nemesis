@@ -1,0 +1,52 @@
+{
+  "character_id": 2123616097,
+  "total_losses": 18,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1593765114,
+    "name": "Tiaggo",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98785802,
+    "alliance_id": 99009961,
+    "corporation_name": "Celtic Dragon Corp Inc",
+    "alliance_name": "The Gorram Shiney Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1593765114,
+      "name": "Tiaggo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121253403,
+      "name": "PICKLE M",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113841977,
+      "name": "Rekoo King",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122531819,
+      "name": "Wilfred G",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95087023,
+      "name": "Elvina Avery",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stolen Spork",
+  "corporation_id": 98684131,
+  "alliance_id": null,
+  "corporation_name": "Evola Deliveries",
+  "alliance_name": null
+}

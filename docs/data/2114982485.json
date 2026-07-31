@@ -1,0 +1,52 @@
+{
+  "character_id": 2114982485,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1773676544,
+    "name": "AndyReid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98710635,
+    "alliance_id": null,
+    "corporation_name": "Green Cow Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1773676544,
+      "name": "AndyReid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92668965,
+      "name": "Alexis Crane Sharvas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93177861,
+      "name": "Izzy Crane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jony Cain",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

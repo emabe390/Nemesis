@@ -1,0 +1,40 @@
+{
+  "character_id": 2123827237,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96723947,
+    "name": "rusty car",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561016,
+    "alliance_id": null,
+    "corporation_name": "Caretakers of BOB",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96723947,
+      "name": "rusty car",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118814274,
+      "name": "Aggressive Elk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KIM Jong-in",
+  "corporation_id": 98813744,
+  "alliance_id": 99013784,
+  "corporation_name": "DED Battle Sisters Convent Sanctorum",
+  "alliance_name": "WormNest Will Empress Forever"
+}

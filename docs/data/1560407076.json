@@ -1,0 +1,52 @@
+{
+  "character_id": 1560407076,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 977054475,
+    "name": "Manfred Stahler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1554695344,
+      "name": "Lovebike",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113381991,
+      "name": "Jagur Park",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114922698,
+      "name": "Deleena",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Siipiherra",
+  "corporation_id": 98325373,
+  "alliance_id": 99012982,
+  "corporation_name": "Running with Dogs",
+  "alliance_name": "OnlyFleets."
+}

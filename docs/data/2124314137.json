@@ -1,0 +1,52 @@
+{
+  "character_id": 2124314137,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 490955543,
+    "name": "FAITHFUL SERVANT",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1062104492,
+    "alliance_id": null,
+    "corporation_name": "Deep South Confederate Rebel Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 490955543,
+      "name": "FAITHFUL SERVANT",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113612003,
+      "name": "Pirri FromStain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119806659,
+      "name": "Pycckue Ru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123654229,
+      "name": "Velfur Metesur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 805165895,
+      "name": "Senator Gemminia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KillerPattern",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

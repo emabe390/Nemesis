@@ -1,0 +1,52 @@
+{
+  "character_id": 2123932764,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 781331374,
+    "name": "Robapin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 148873883,
+    "alliance_id": 99012982,
+    "corporation_name": "Section XIII",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 781331374,
+      "name": "Robapin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 824538179,
+      "name": "Soljisk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112541174,
+      "name": "Cavick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114277477,
+      "name": "Marino Koren-Zelko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115251070,
+      "name": "Annabelle Sethas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HighLimitsMiner10",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

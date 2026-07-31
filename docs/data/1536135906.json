@@ -1,0 +1,52 @@
+{
+  "character_id": 1536135906,
+  "total_losses": 46,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123840426,
+    "name": "supermuxa",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98670171,
+    "alliance_id": null,
+    "corporation_name": "SMuxa Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123840426,
+      "name": "supermuxa",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 91931185,
+      "name": "Lex Hakoke",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96914766,
+      "name": "Xiaohui Yan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93670436,
+      "name": "Darth Yayo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94079521,
+      "name": "Atare Eizeerf",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SMuxa",
+  "corporation_id": 98670171,
+  "alliance_id": null,
+  "corporation_name": "SMuxa Corporation",
+  "alliance_name": null
+}

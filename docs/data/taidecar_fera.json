@@ -1,0 +1,40 @@
+{
+  "character_id": 2123602213,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113409073,
+    "name": "One Half wine",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98552685,
+    "alliance_id": null,
+    "corporation_name": "Thunder and Sword",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113409073,
+      "name": "One Half wine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122662492,
+      "name": "Shandios Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123602201,
+      "name": "Avise Issier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taidecar Fera",
+  "corporation_id": 1097611545,
+  "alliance_id": 99003581,
+  "corporation_name": "Light of the moon",
+  "alliance_name": "Fraternity."
+}

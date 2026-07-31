@@ -1,0 +1,52 @@
+{
+  "character_id": 2124547874,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123525807,
+    "name": "CapMino",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112628705,
+      "name": "Bradley Chaturvedi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117171809,
+      "name": "Silvinho Estranho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119545781,
+      "name": "Gad Babay",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wugeiter Arnst",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

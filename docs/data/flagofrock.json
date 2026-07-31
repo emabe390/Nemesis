@@ -1,0 +1,52 @@
+{
+  "character_id": 2123648880,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1667203408,
+    "name": "Frintie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 1667203408,
+      "name": "Frintie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118965254,
+      "name": "Audanie Gidrine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123027821,
+      "name": "Kikimori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116874690,
+      "name": "Rebelde planet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116941046,
+      "name": "Ermintrude Viliana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FlagOfRock",
+  "corporation_id": 98758015,
+  "alliance_id": null,
+  "corporation_name": "Argent Vanguard",
+  "alliance_name": null
+}

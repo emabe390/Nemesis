@@ -1,0 +1,52 @@
+{
+  "character_id": 2113854883,
+  "total_losses": 35,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2113965255,
+    "name": "jonakin Padecain",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98816126,
+    "alliance_id": null,
+    "corporation_name": "Bot del LP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113965255,
+      "name": "jonakin Padecain",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91119149,
+      "name": "Gerski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92694343,
+      "name": "Atticus Finch Kelcyn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93666195,
+      "name": "Ansla en Thielles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 304896938,
+      "name": "Character 304896938",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vastra Askiras",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

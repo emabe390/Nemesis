@@ -1,0 +1,40 @@
+{
+  "character_id": 95453206,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124152353,
+    "name": "Otto Erstschlag",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795756,
+    "alliance_id": 99011416,
+    "corporation_name": "Dark Path",
+    "alliance_name": "LinkNet"
+  },
+  "top_killers": [
+    {
+      "id": 2124152353,
+      "name": "Otto Erstschlag",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94522296,
+      "name": "musashi Tsuruomo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120784322,
+      "name": "Dracul Mihawk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Louise Dubreuil",
+  "corporation_id": 98378252,
+  "alliance_id": null,
+  "corporation_name": "Wormhole X - Treme",
+  "alliance_name": null
+}

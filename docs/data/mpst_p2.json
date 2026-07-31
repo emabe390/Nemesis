@@ -1,0 +1,52 @@
+{
+  "character_id": 2123755279,
+  "total_losses": 50,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 1309920473,
+    "name": "Supercool",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98373312,
+    "alliance_id": null,
+    "corporation_name": "Silence now",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1309920473,
+      "name": "Supercool",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123602957,
+      "name": "Jaenelle Saroth",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90453462,
+      "name": "Tisme Umid",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116229000,
+      "name": "Tis-Me Umid",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "MPST P2",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

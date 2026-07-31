@@ -1,0 +1,52 @@
+{
+  "character_id": 2121100392,
+  "total_losses": 22,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 926832912,
+    "name": "Mike X",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 273908971,
+    "alliance_id": null,
+    "corporation_name": "Heavy Load",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 926832912,
+      "name": "Mike X",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123512943,
+      "name": "Elkker",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90770108,
+      "name": "Bolmaea Hegirin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91335009,
+      "name": "Adam Paterson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92725452,
+      "name": "Isaac Dunno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarFarm",
+  "corporation_id": 98702065,
+  "alliance_id": 173714703,
+  "corporation_name": "Gjallarhorn Incorporated",
+  "alliance_name": "PURPLE HELMETED WARRIORS"
+}

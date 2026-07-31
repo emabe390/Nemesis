@@ -1,0 +1,52 @@
+{
+  "character_id": 2121417255,
+  "total_losses": 51,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2123100922,
+    "name": "ARMD-EAGLE",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 539000123,
+    "alliance_id": 99011279,
+    "corporation_name": "EndlessRain",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123100922,
+      "name": "ARMD-EAGLE",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 93632869,
+      "name": "TYxUSMC",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2079911283,
+      "name": "Serenity's Throne",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1548197308,
+      "name": "In Norden",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91916234,
+      "name": "gassman 117",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "XJ-K21",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

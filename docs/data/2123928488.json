@@ -1,0 +1,46 @@
+{
+  "character_id": 2123928488,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91279102,
+    "name": "Sniper Isu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117112,
+    "alliance_id": null,
+    "corporation_name": "PIROCOR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93071331,
+      "name": "Liann Athanah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94025591,
+      "name": "Semka Borodin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121735731,
+      "name": "Strawberry Gin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pochven Police ID04",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124420942,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122720931,
+    "name": "Zenith Gab",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rekium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122720931,
+      "name": "Zenith Gab",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95996083,
+      "name": "Tyrus Mortellus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 224584046,
+      "name": "Raven Hyperbollic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117432627,
+      "name": "Lars Carthen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ran Kanjus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

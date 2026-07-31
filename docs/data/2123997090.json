@@ -1,0 +1,40 @@
+{
+  "character_id": 2123997090,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114955981,
+    "name": "Black Mad Fox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98278716,
+    "alliance_id": null,
+    "corporation_name": "Brown Coats in New Eden",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114955981,
+      "name": "Black Mad Fox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jhoscon Iyruby",
+  "corporation_id": 98773441,
+  "alliance_id": 99014500,
+  "corporation_name": "H8N LOYALS",
+  "alliance_name": "H8N LOYALS Parallax Union"
+}

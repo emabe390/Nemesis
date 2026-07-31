@@ -1,0 +1,40 @@
+{
+  "character_id": 92232463,
+  "total_losses": 15,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123824330,
+    "name": "Sarina McTrader",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98815887,
+    "alliance_id": null,
+    "corporation_name": "Sarina's Trading Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123824330,
+      "name": "Sarina McTrader",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123824335,
+      "name": "PI McTrader",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123824339,
+      "name": "PII McTrade",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Jita Tzetsu",
+  "corporation_id": 98784776,
+  "alliance_id": 99013541,
+  "corporation_name": "Hippo Cartel Prime Holdings",
+  "alliance_name": "Fraternity Auxiliary"
+}

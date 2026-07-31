@@ -1,0 +1,40 @@
+{
+  "character_id": 2121625424,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "statics' static",
+  "corporation_id": 98641532,
+  "alliance_id": null,
+  "corporation_name": "Ancient Mariners",
+  "alliance_name": null
+}

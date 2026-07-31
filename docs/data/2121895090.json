@@ -1,0 +1,40 @@
+{
+  "character_id": 2121895090,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95986361,
+    "name": "Picike Szeretet",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 143968112,
+    "alliance_id": 99007629,
+    "corporation_name": "Wings of Turul",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 95986361,
+      "name": "Picike Szeretet",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 1383451942,
+      "name": "Sgt Turok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122371403,
+      "name": "Tokuro Fujiwara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "sol IIV",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

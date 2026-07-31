@@ -1,0 +1,52 @@
+{
+  "character_id": 2123727185,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96036750,
+    "name": "Cerath",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98784465,
+    "alliance_id": null,
+    "corporation_name": "Weekend Job",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96036750,
+      "name": "Cerath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123512852,
+      "name": "Slave M4ster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96335092,
+      "name": "InfinitasX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117572364,
+      "name": "Proxey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bomps Miromme",
+  "corporation_id": 98755037,
+  "alliance_id": 99011416,
+  "corporation_name": "Vogar Industrial",
+  "alliance_name": "LinkNet"
+}

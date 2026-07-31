@@ -2,10 +2,10 @@
 # EVE Nemesis Tracker — Run Script
 #
 # Usage:
-#   ./run.sh init [start_date]    # First-time database build
-#   ./run.sh weekly               # Weekly update + export + git push
-#   ./run.sh export               # Export only (from existing DB)
-#   ./run.sh stats                # Show database statistics
+#   bash run.sh init [start_date]    # First-time database build
+#   bash run.sh weekly               # Weekly update + export + git push
+#   bash run.sh export               # Export only (from existing DB)
+#   bash run.sh stats                # Show database statistics
 #
 # Environment:
 #   NEMESIS_DB      — SQLite database path (default: ./nemesis.db)
@@ -18,7 +18,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 DB="${NEMESIS_DB:-./nemesis.db}"
-OUTPUT="${NEMESIS_OUTPUT:-../site/data}"
+OUTPUT="${NEMESIS_OUTPUT:-../docs/data}"
 MIN_LOSSES="${NEMESIS_MIN_LOSSES:-3}"
 PYTHON="${PYTHON:-python3}"
 
@@ -40,6 +40,8 @@ check_python() {
 
 cmd_init() {
     local start_date="${1:-}"
+    # Normalize to YYYYMMDD (strip hyphens)
+    start_date="${start_date//-/}"
     check_python
     log "=== Initial database build ==="
     log "Database: $DB"
@@ -66,6 +68,21 @@ cmd_init() {
     "$PYTHON" build_nemesis.py --db "$DB" --stats
 }
 
+cmd_trim() {
+    local keep_days="${1:-365}"
+    check_python
+    log "=== Trim old data (keep last $keep_days days) ==="
+    [[ -f "$DB" ]] || die "Database not found: $DB"
+    "$PYTHON" -c "
+import sys
+sys.path.insert(0, '.')
+from build_nemesis import trim_old_data
+n = trim_old_data('$DB', $keep_days)
+print(f'Trimmed {n} old records')
+"
+    log "Done"
+}
+
 cmd_weekly() {
     check_python
     log "=== Weekly update ==="
@@ -74,15 +91,23 @@ cmd_weekly() {
         die "Database not found: $DB. Run: $0 init"
     fi
 
+    log "Running DB migrations..."
+    "$PYTHON" migrate_db.py "$DB"
+
+    log "Trimming old data..."
+    cmd_trim 365
+
     log "Updating database..."
     "$PYTHON" build_nemesis.py --db "$DB" --update
 
     log "Exporting JSON..."
+    find "$OUTPUT" -maxdepth 1 -name '*.json' -delete
     "$PYTHON" build_nemesis.py --db "$DB" --export "$OUTPUT" --min-losses "$MIN_LOSSES"
 
     log "Git commit and push..."
     cd "$(dirname "$OUTPUT")"
     if [[ -d .git ]]; then
+        # Clean old JSON files that are no longer in the DB
         git add data/
         git diff --cached --quiet || {
             git commit -m "weekly nemesis update $(date +%Y-%m-%d)"
@@ -111,15 +136,38 @@ cmd_stats() {
     "$PYTHON" build_nemesis.py --db "$DB" --stats
 }
 
+cmd_fill() {
+    local start_date="${1:-}"
+    # Normalize to YYYYMMDD (strip hyphens)
+    start_date="${start_date//-/}"
+    check_python
+    log "=== Fill history from $start_date ==="
+    log "Database: $DB"
+
+    [[ -f "$DB" ]] || die "Database not found: $DB. Run: $0 init first"
+    [[ -z "$start_date" ]] && die "START_DATE required. Usage: $0 fill YYYYMMDD"
+
+    log "Importing from $start_date to present (existing days will be skipped)..."
+    "$PYTHON" build_nemesis.py --db "$DB" --fill "$start_date"
+
+    log "=== Exporting JSON ==="
+    "$PYTHON" build_nemesis.py --db "$DB" --export "$OUTPUT" --min-losses "$MIN_LOSSES"
+
+    log "=== Done ==="
+    "$PYTHON" build_nemesis.py --db "$DB" --stats
+}
+
 cmd_help() {
     cat <<'EOF'
 EVE Nemesis Tracker — Run Script
 
-Usage: ./run.sh <command> [options]
+Usage: bash run.sh <command> [options]
 
 Commands:
   init [START_DATE]   First-time build. Optional START_DATE as YYYYMMDD.
-  weekly              Update DB, export JSON, git commit+push.
+  fill START_DATE     Import history from START_DATE to now.
+  trim [DAYS]         Trim DB to last N days (default 365).
+  weekly              Update DB, trim old data, export, git commit+push.
   export              Export JSON from existing DB (no update).
   stats               Show database statistics.
   help                Show this message.
@@ -131,18 +179,21 @@ Environment Variables:
   PYTHON              Python executable (default: python3)
 
 Examples:
-  ./run.sh init                    # Full history build
-  ./run.sh init 20240101          # Build from 2024-01-01 onward
-  NEMESIS_MIN_LOSSES=5 ./run.sh weekly
-  NEMESIS_DB=/mnt/usb/nemesis.db ./run.sh weekly
+  bash run.sh init                    # Full history build
+  bash run.sh init 20260101          # Build from 2026-01-01 onward
+  bash run.sh fill 20250701          # Fill from 2025-07-01 to now
+  NEMESIS_MIN_LOSSES=5 bash run.sh weekly
+  NEMESIS_DB=/mnt/usb/nemesis.db bash run.sh weekly
 
 Cron (weekly Monday 3am):
-  0 3 * * 1 cd /path/to/nemesis/backend && ./run.sh weekly >> cron.log 2>&1
+  0 3 * * 1 cd /path/to/nemesis/backend && bash run.sh weekly >> cron.log 2>&1
 EOF
 }
 
 case "${1:-help}" in
     init)       shift; cmd_init "$@" ;;
+    fill)       shift; cmd_fill "$@" ;;
+    trim)       shift; cmd_trim "$@" ;;
     weekly)     cmd_weekly ;;
     export)     cmd_export ;;
     stats)      cmd_stats ;;

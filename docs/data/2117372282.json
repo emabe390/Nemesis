@@ -1,0 +1,40 @@
+{
+  "character_id": 2117372282,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112403648,
+    "name": "Sleepy Teddy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98095887,
+    "alliance_id": 99012982,
+    "corporation_name": "Ghost Net Industrialists",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 2112403648,
+      "name": "Sleepy Teddy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119326206,
+      "name": "Djuzep",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyra Auxilium",
+  "corporation_id": 98713128,
+  "alliance_id": 99007887,
+  "corporation_name": "Entropy Engine",
+  "alliance_name": "Brotherhood of Spacers"
+}

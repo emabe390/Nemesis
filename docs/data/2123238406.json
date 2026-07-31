@@ -1,0 +1,40 @@
+{
+  "character_id": 2123238406,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119386129,
+    "name": "Deadsy Snagman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2119386129,
+      "name": "Deadsy Snagman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121792031,
+      "name": "Sepavaila Koskanaiken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123440747,
+      "name": "B FGSD6",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BauDeMorte",
+  "corporation_id": 98772884,
+  "alliance_id": 99006861,
+  "corporation_name": "Darkside Harvesting Co.",
+  "alliance_name": "Space.Ghosts"
+}

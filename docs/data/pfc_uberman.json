@@ -1,0 +1,52 @@
+{
+  "character_id": 2113023509,
+  "total_losses": 231,
+  "unique_killers": 185,
+  "nemesis": {
+    "id": 2123551578,
+    "name": "Aeons Drone",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 439896599,
+    "alliance_id": 99013537,
+    "corporation_name": "Therapy.",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 2123551578,
+      "name": "Aeons Drone",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90757461,
+      "name": "Jumping Mouse",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93682208,
+      "name": "Chen Chao",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94252785,
+      "name": "Darius Mora",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "PFC Uberman",
+  "corporation_id": 98799892,
+  "alliance_id": 1042504553,
+  "corporation_name": "False Gods",
+  "alliance_name": "Solyaris Chtonium"
+}

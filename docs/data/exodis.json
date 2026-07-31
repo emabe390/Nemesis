@@ -1,0 +1,34 @@
+{
+  "character_id": 201735203,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112946288,
+    "name": "Tia Vigne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594840,
+    "alliance_id": null,
+    "corporation_name": "No Bra Airlines",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112946288,
+      "name": "Tia Vigne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90001584,
+      "name": "Hroovitnir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Exodis",
+  "corporation_id": 98154001,
+  "alliance_id": 99007887,
+  "corporation_name": "Iron Inquisition",
+  "alliance_name": "Brotherhood of Spacers"
+}

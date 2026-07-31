@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904987,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123376467,
+    "name": "SpaceChav",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1001562011,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sturmgrenadier Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123376467,
+      "name": "SpaceChav",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 735594081,
+      "name": "Sinker1345",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1343819393,
+      "name": "Glazios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1349494754,
+      "name": "Zigy Twotoes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121175873,
+      "name": "Omier Binchiette",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SleepIsForTheWeak",
+  "corporation_id": 1001562011,
+  "alliance_id": 1900696668,
+  "corporation_name": "Sturmgrenadier Inc",
+  "alliance_name": "The Initiative."
+}

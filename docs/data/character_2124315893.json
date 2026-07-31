@@ -1,0 +1,46 @@
+{
+  "character_id": 2124315893,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96603304,
+    "name": "Alexander Severov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98793013,
+    "alliance_id": 99012604,
+    "corporation_name": "Hole Sommeliers",
+    "alliance_name": "X - Z E S T"
+  },
+  "top_killers": [
+    {
+      "id": 96603304,
+      "name": "Alexander Severov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121506597,
+      "name": "Armanix Lennox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1633218082,
+      "name": "Squizz Caphinator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112100936,
+      "name": "Matella Otsolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124315893",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

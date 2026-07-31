@@ -1,0 +1,52 @@
+{
+  "character_id": 2124021112,
+  "total_losses": 18,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 1307506847,
+    "name": "Devlan LaCroix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98812286,
+    "alliance_id": null,
+    "corporation_name": "Cloud 10 Vapor Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1307506847,
+      "name": "Devlan LaCroix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116601950,
+      "name": "James Beratna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90338555,
+      "name": "Cereale Grahams",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91283907,
+      "name": "Asoka Grimmars",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91410107,
+      "name": "Radist Peresvet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124021112",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

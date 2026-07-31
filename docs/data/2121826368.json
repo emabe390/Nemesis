@@ -1,0 +1,52 @@
+{
+  "character_id": 2121826368,
+  "total_losses": 22,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2117333444,
+    "name": "Sab III",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98773416,
+    "alliance_id": 1900696668,
+    "corporation_name": "Primal Instinct Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2117333444,
+      "name": "Sab III",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 526031522,
+      "name": "Ra1n Forest",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1020517248,
+      "name": "Scarlet Visori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112211111,
+      "name": "Sab Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112384842,
+      "name": "Sab II",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sab I",
+  "corporation_id": 98773416,
+  "alliance_id": 1900696668,
+  "corporation_name": "Primal Instinct Inc.",
+  "alliance_name": "The Initiative."
+}

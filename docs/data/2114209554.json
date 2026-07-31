@@ -1,0 +1,52 @@
+{
+  "character_id": 2114209554,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115958992,
+    "name": "Violla Pelliroja",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98670226,
+    "alliance_id": 99010756,
+    "corporation_name": "StratsCo",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2115958992,
+      "name": "Violla Pelliroja",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121757694,
+      "name": "Ll'una SIlver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94435164,
+      "name": "Caprica Tigh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95880559,
+      "name": "Max GrimFang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Peter Wahl",
+  "corporation_id": 98713900,
+  "alliance_id": 99012532,
+  "corporation_name": "Wahl Industries",
+  "alliance_name": "Angry Miners Alliance."
+}

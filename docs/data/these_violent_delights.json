@@ -1,0 +1,52 @@
+{
+  "character_id": 2123544875,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 304652582,
+    "name": "Malcolm Malicious",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767830,
+    "alliance_id": 1900696668,
+    "corporation_name": "Suddenly a Covert Cyno",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114271813,
+      "name": "Bitter teaZYQ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93996657,
+      "name": "Demetrios Adoudel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 427321592,
+      "name": "Shimrock",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "These Violent Delights",
+  "corporation_id": 98807061,
+  "alliance_id": null,
+  "corporation_name": "These Violent Ends",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123901876,
+  "total_losses": 33,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 93107163,
+    "name": "Givz Severasse",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98647879,
+    "alliance_id": 99005178,
+    "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 93107163,
+      "name": "Givz Severasse",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 710183717,
+      "name": "Johnathon Desoto",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117639769,
+      "name": "Alexandrios Ahli",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121139162,
+      "name": "Metatarsalgia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90799210,
+      "name": "SquidWhiskers Shikkoken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Losat",
+  "corporation_id": 98812297,
+  "alliance_id": null,
+  "corporation_name": "Orion Forward Unit 212",
+  "alliance_name": null
+}

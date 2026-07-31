@@ -1,0 +1,46 @@
+{
+  "character_id": 2121234228,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1930649793,
+    "name": "Imperius Dictatio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 1930649793,
+      "name": "Imperius Dictatio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112482805,
+      "name": "Ashalia Fender",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118079309,
+      "name": "Try-my-lollipop",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121622617,
+      "name": "The Reclusive Neurotic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "cyalthegreat",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

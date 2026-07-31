@@ -1,0 +1,52 @@
+{
+  "character_id": 2119081098,
+  "total_losses": 38,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92463725,
+      "name": "Jakob Laduko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93370020,
+      "name": "Avia Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94163930,
+      "name": "Aleesha Al'Thor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bliden",
+  "corporation_id": 98788012,
+  "alliance_id": 99013690,
+  "corporation_name": "The Edge of Heretics",
+  "alliance_name": "Critical. Mass."
+}

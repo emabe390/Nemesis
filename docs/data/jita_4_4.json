@@ -1,0 +1,40 @@
+{
+  "character_id": 91064360,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1761145024,
+    "name": "Dato Koppla",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119618780,
+      "name": "Siof",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120933649,
+      "name": "Loopi Raider",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jita 4-4",
+  "corporation_id": 1000014,
+  "alliance_id": null,
+  "corporation_name": "Perkone",
+  "alliance_name": null
+}

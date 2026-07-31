@@ -1,0 +1,52 @@
+{
+  "character_id": 2123570651,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 418852582,
+      "name": "Hector Centauri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116220912,
+      "name": "Fabienne Erni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119652108,
+      "name": "Tone Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123168240,
+      "name": "Nova Maps",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Samantha McJack",
+  "corporation_id": 98836651,
+  "alliance_id": null,
+  "corporation_name": "Raccoon Holding",
+  "alliance_name": null
+}

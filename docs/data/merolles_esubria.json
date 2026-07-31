@@ -1,0 +1,40 @@
+{
+  "character_id": 2123788878,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122725702,
+    "name": "Character 2122725702",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98506105,
+    "alliance_id": 99005178,
+    "corporation_name": "HAMMER of TITAN",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2122725702,
+      "name": "Character 2122725702",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Merolles Esubria",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

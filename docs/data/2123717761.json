@@ -1,0 +1,40 @@
+{
+  "character_id": 2123717761,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93194294,
+    "name": "Gektor Asamon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98693541,
+    "alliance_id": 99012161,
+    "corporation_name": "Take this...",
+    "alliance_name": "SHOULD NOT EXPLODE..."
+  },
+  "top_killers": [
+    {
+      "id": 93194294,
+      "name": "Gektor Asamon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95999128,
+      "name": "Kiro Mun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113678525,
+      "name": "Tykho Brah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Severus Kahn",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

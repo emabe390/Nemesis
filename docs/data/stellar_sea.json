@@ -1,0 +1,46 @@
+{
+  "character_id": 2123905826,
+  "total_losses": 9,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123905817,
+    "name": "Stellar ship",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123905817,
+      "name": "Stellar ship",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2119979871,
+      "name": "StationACE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122582702,
+      "name": "Makilunn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123905836,
+      "name": "Stellar ALEX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stellar Sea",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

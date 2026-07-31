@@ -1,0 +1,40 @@
+{
+  "character_id": 90003146,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120972657,
+    "name": "zorya triangle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702947,
+    "alliance_id": 99012950,
+    "corporation_name": "highsec cleanup",
+    "alliance_name": "Stacmon Border Patrol"
+  },
+  "top_killers": [
+    {
+      "id": 2120972657,
+      "name": "zorya triangle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122165946,
+      "name": "Da111kevich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122226760,
+      "name": "Latrs Rasid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "chaos 321",
+  "corporation_id": 1761823736,
+  "alliance_id": null,
+  "corporation_name": "OzNuk Federation",
+  "alliance_name": null
+}

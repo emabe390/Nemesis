@@ -1,0 +1,40 @@
+{
+  "character_id": 2117310248,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124189242,
+    "name": "ex-lawer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124189242,
+      "name": "ex-lawer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90500669,
+      "name": "Dreadnaught X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1240395334,
+      "name": "StellarMalice",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hoj0 Aele",
+  "corporation_id": 98515458,
+  "alliance_id": 99003581,
+  "corporation_name": "u.k militia forces",
+  "alliance_name": "Fraternity."
+}

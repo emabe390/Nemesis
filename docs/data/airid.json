@@ -1,0 +1,40 @@
+{
+  "character_id": 2114605486,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113832167,
+    "name": "Reinhard Arenzberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642916,
+    "alliance_id": 1354830081,
+    "corporation_name": "Arenzberger Trading Consortium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113832167,
+      "name": "Reinhard Arenzberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113441007,
+      "name": "Sneak Fly",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114742787,
+      "name": "Rodhi Grarling",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Airid",
+  "corporation_id": 2014367342,
+  "alliance_id": 99009927,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Deepwater Hooligans"
+}

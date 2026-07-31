@@ -1,0 +1,40 @@
+{
+  "character_id": 2118666981,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92184723,
+    "name": "Cameron Utama",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92184723,
+      "name": "Cameron Utama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112289996,
+      "name": "Leonidas Snow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118069302,
+      "name": "Dalamar Argentt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurali Shikkoken",
+  "corporation_id": 98749631,
+  "alliance_id": 99014963,
+  "corporation_name": "Copium Industries Inc.",
+  "alliance_name": "Intended Behavior"
+}

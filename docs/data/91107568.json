@@ -1,0 +1,40 @@
+{
+  "character_id": 91107568,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91439239,
+    "name": "Kahless Monstrosity",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686314,
+    "alliance_id": 99008985,
+    "corporation_name": "Violator The Clown",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 91439239,
+      "name": "Kahless Monstrosity",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 595312219,
+      "name": "Young Guns",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113068986,
+      "name": "Kirreniem Nakrar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morriarti Delamuerte",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

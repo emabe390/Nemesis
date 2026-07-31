@@ -1,0 +1,52 @@
+{
+  "character_id": 2123040874,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 90635737,
+    "name": "opsid 67",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98496411,
+    "alliance_id": 99003581,
+    "corporation_name": "WipeOut Inc.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 90635737,
+      "name": "opsid 67",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95234804,
+      "name": "OpteroN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114969228,
+      "name": "Hanson Sun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "V50",
+  "corporation_id": 98768255,
+  "alliance_id": null,
+  "corporation_name": "Homefront Guild",
+  "alliance_name": null
+}

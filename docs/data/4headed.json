@@ -1,0 +1,52 @@
+{
+  "character_id": 2124213526,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120340275,
+    "name": "HeavyTree",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790733,
+    "alliance_id": null,
+    "corporation_name": "Heavy's Slaves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95446412,
+      "name": "Sun Set Shimmer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 380196726,
+      "name": "Sallah Nefari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 617217029,
+      "name": "Character 617217029",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "4Headed",
+  "corporation_id": 98665606,
+  "alliance_id": 99011144,
+  "corporation_name": "Lux Mundi Exploration Company",
+  "alliance_name": "Lux Collective"
+}

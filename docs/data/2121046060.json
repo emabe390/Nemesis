@@ -1,0 +1,52 @@
+{
+  "character_id": 2121046060,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 90022620,
+    "name": "il Padrone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98442405,
+    "alliance_id": 99012911,
+    "corporation_name": "The New Eden Yacht Club",
+    "alliance_name": "The New Eden Yacht Club."
+  },
+  "top_killers": [
+    {
+      "id": 90022620,
+      "name": "il Padrone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91036798,
+      "name": "Aleksandr Patrin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91139333,
+      "name": "Kyle Anstian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94584535,
+      "name": "Pherrahab",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95497451,
+      "name": "Fen Frimon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Spy Guy",
+  "corporation_id": 98695361,
+  "alliance_id": null,
+  "corporation_name": "Omertao EXORT",
+  "alliance_name": null
+}

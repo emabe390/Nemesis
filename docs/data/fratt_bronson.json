@@ -1,0 +1,52 @@
+{
+  "character_id": 2123096721,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91657844,
+    "name": "Prometheus Dormiens",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1062104492,
+    "alliance_id": null,
+    "corporation_name": "Deep South Confederate Rebel Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91657844,
+      "name": "Prometheus Dormiens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92089530,
+      "name": "Aaril",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94944032,
+      "name": "Phase Dwives Activated",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 148089518,
+      "name": "Zonnor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 901320273,
+      "name": "Rahmiro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fratt Bronson",
+  "corporation_id": 98367024,
+  "alliance_id": 99008701,
+  "corporation_name": "New Jovian Exploration Department",
+  "alliance_name": "New Jovian Collective"
+}

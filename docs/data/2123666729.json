@@ -1,0 +1,52 @@
+{
+  "character_id": 2123666729,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93123351,
+    "name": "Ashka Cera",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93123351,
+      "name": "Ashka Cera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119524993,
+      "name": "M2002M",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119979985,
+      "name": "MADRICO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cerydra",
+  "corporation_id": 98632030,
+  "alliance_id": 99003581,
+  "corporation_name": "Red Scarf Humpback",
+  "alliance_name": "Fraternity."
+}

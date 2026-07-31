@@ -1,0 +1,52 @@
+{
+  "character_id": 2123087342,
+  "total_losses": 19,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 1106585739,
+    "name": "Re'Lith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766303,
+    "alliance_id": null,
+    "corporation_name": "Rookie Crewkie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1106585739,
+      "name": "Re'Lith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115488091,
+      "name": "War martyrdom Freedom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91479992,
+      "name": "Ganar Weyoun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91686051,
+      "name": "Xarion Xentox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92051692,
+      "name": "Sahl Helghan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cooper08",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

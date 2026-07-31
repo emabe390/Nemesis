@@ -1,0 +1,34 @@
+{
+  "character_id": 2124422637,
+  "total_losses": 10,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124410587,
+    "name": "Thaddeus Cassian Renatus",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98765852,
+    "alliance_id": null,
+    "corporation_name": "Inala Exploration LLC",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124410587,
+      "name": "Thaddeus Cassian Renatus",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124468663,
+      "name": "Thaddren",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "AIR Assistant",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

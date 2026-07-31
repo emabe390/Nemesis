@@ -1,0 +1,52 @@
+{
+  "character_id": 2123597580,
+  "total_losses": 45,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2122609143,
+    "name": "Izula",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826088,
+    "alliance_id": 99008751,
+    "corporation_name": "We are Beltalowda",
+    "alliance_name": "MARABUNTA"
+  },
+  "top_killers": [
+    {
+      "id": 2122609143,
+      "name": "Izula",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94896011,
+      "name": "Raingondo Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204595952,
+      "name": "John Gato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 904892827,
+      "name": "GDaemon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kovanen Eto",
+  "corporation_id": 98814487,
+  "alliance_id": null,
+  "corporation_name": "Long night usher dawn",
+  "alliance_name": null
+}

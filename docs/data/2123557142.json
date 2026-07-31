@@ -1,0 +1,40 @@
+{
+  "character_id": 2123557142,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91478058,
+    "name": "Sco Nolander",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 91478058,
+      "name": "Sco Nolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1660686431,
+      "name": "Lord Warlock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121103839,
+      "name": "Varro Rubio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cathy Milo",
+  "corporation_id": 98783156,
+  "alliance_id": null,
+  "corporation_name": "Cult of the Moon",
+  "alliance_name": null
+}

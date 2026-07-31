@@ -1,0 +1,40 @@
+{
+  "character_id": 2123818242,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1130628277,
+    "name": "Warlon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98603221,
+    "alliance_id": 99005178,
+    "corporation_name": "Sodium Chloride Mining Institute",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 1130628277,
+      "name": "Warlon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115540800,
+      "name": "bloodcaster Anthar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mobed Thara",
+  "corporation_id": 98824581,
+  "alliance_id": null,
+  "corporation_name": "Mobed Thara Corporation",
+  "alliance_name": null
+}

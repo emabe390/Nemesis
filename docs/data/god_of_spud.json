@@ -1,0 +1,40 @@
+{
+  "character_id": 2118052746,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115466945,
+    "name": "Combat Droid Bravo",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98611404,
+    "alliance_id": 99013132,
+    "corporation_name": "Bush Meanies",
+    "alliance_name": "Caduceus."
+  },
+  "top_killers": [
+    {
+      "id": 2115466945,
+      "name": "Combat Droid Bravo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123113286,
+      "name": "Constance Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119131522,
+      "name": "FlukeFart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "God of Spud",
+  "corporation_id": 98367024,
+  "alliance_id": 99008701,
+  "corporation_name": "New Jovian Exploration Department",
+  "alliance_name": "New Jovian Collective"
+}

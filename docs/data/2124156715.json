@@ -1,0 +1,46 @@
+{
+  "character_id": 2124156715,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123080081,
+    "name": "Dogwelder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123080081,
+      "name": "Dogwelder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95155084,
+      "name": "Aaelena Wallace",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120383311,
+      "name": "Hans Elemagor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121934498,
+      "name": "Mpmoller1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LNSY-009",
+  "corporation_id": 98722876,
+  "alliance_id": 99003995,
+  "corporation_name": "Omega Interstellar Academy",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2118164555,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 640595536,
+    "name": "Avarr",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112558085,
+      "name": "Dred Roberts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92091313,
+      "name": "Chuck Sanussi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97058001,
+      "name": "Kane Valentine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bento-Ender",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

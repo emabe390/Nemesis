@@ -1,0 +1,40 @@
+{
+  "character_id": 2123975318,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92883235,
+    "name": "Mister Ducky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806746,
+    "alliance_id": null,
+    "corporation_name": "100K1",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92883235,
+      "name": "Mister Ducky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120512575,
+      "name": "BurntMicrowavedRice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123359783,
+      "name": "NickyTricky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Broglaf",
+  "corporation_id": 98700073,
+  "alliance_id": 99012021,
+  "corporation_name": "Pasika.UA",
+  "alliance_name": "UA Fleets"
+}

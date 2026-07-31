@@ -1,0 +1,52 @@
+{
+  "character_id": 2123877918,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113013879,
+    "name": "Britt Trin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98585716,
+    "alliance_id": null,
+    "corporation_name": "Snuggly Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113013879,
+      "name": "Britt Trin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123709682,
+      "name": "Croun Lefourbe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91630190,
+      "name": "Bedloun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123129819,
+      "name": "Galatine Puregrave",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Graaf Mysteriis",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120495332,
+  "total_losses": 21,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 299762341,
+    "name": "Destropia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 299762341,
+      "name": "Destropia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 301083460,
+      "name": "pecofox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 358191535,
+      "name": "Deadi9",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 589604136,
+      "name": "General Xance",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91127838,
+      "name": "Character 91127838",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KGB 151",
+  "corporation_id": 98826814,
+  "alliance_id": 99014884,
+  "corporation_name": "KGB 151 Corp",
+  "alliance_name": "NamFam"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 96106113,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 1503258284,
+    "name": "Scharf Secundus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98606870,
+    "alliance_id": null,
+    "corporation_name": "Blunderbuss.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1503258284,
+      "name": "Scharf Secundus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118059038,
+      "name": "banu tano",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 334850516,
+      "name": "TheGood Friar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1292592102,
+      "name": "Marius Tisati",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atrioc",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

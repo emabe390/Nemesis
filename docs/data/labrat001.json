@@ -1,0 +1,52 @@
+{
+  "character_id": 1172770456,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117381670,
+    "name": "Newbie LV",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98527592,
+    "alliance_id": null,
+    "corporation_name": "Woodpeckers From Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117381670,
+      "name": "Newbie LV",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2118283104,
+      "name": "Gravitys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122559910,
+      "name": "Reginald Sterks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122876713,
+      "name": "z2 azure",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "labrat001",
+  "corporation_id": 98480050,
+  "alliance_id": 1900696668,
+  "corporation_name": "Fancypants Inc",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2117487445,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96399680,
+    "name": "Arm Death",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98328100,
+    "alliance_id": null,
+    "corporation_name": "Hollow Ataraxia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96399680,
+      "name": "Arm Death",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 94031420,
+      "name": "Kaneda92 Shima",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baby Gravity",
+  "corporation_id": 98328100,
+  "alliance_id": null,
+  "corporation_name": "Hollow Ataraxia",
+  "alliance_name": null
+}

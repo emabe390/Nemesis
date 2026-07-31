@@ -1,0 +1,40 @@
+{
+  "character_id": 2123383243,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94000610,
+    "name": "Carlos Jumperneck",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98678960,
+    "alliance_id": null,
+    "corporation_name": "Alternative Freight Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94000610,
+      "name": "Carlos Jumperneck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 487193151,
+      "name": "Character 487193151",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Michael-Gabriel",
+  "corporation_id": 98811080,
+  "alliance_id": 99009758,
+  "corporation_name": "Star Fleet Productions",
+  "alliance_name": "Absolute Will"
+}

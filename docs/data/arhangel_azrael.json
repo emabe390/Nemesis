@@ -1,0 +1,52 @@
+{
+  "character_id": 2123334015,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123796356,
+    "name": "Ibram Ventarian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123796356,
+      "name": "Ibram Ventarian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91698165,
+      "name": "Urs Blank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118693340,
+      "name": "Character 2118693340",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arhangel Azrael",
+  "corporation_id": 98804498,
+  "alliance_id": null,
+  "corporation_name": "WHITE AHYC SYNDICATE",
+  "alliance_name": null
+}

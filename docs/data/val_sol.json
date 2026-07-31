@@ -1,0 +1,52 @@
+{
+  "character_id": 2123122990,
+  "total_losses": 38,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122995636,
+    "name": "Seinul",
+    "kill_count": 25,
+    "final_blows": 25,
+    "corporation_id": 98829463,
+    "alliance_id": null,
+    "corporation_name": "Iwamura Mineral Group",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122995636,
+      "name": "Seinul",
+      "kill_count": 25,
+      "final_blows": 25
+    },
+    {
+      "id": 2121985434,
+      "name": "Jordy Blaster",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94570493,
+      "name": "Assembled Servant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1039759612,
+      "name": "Ganrii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92547496,
+      "name": "Degriz Oda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Val Sol",
+  "corporation_id": 98829463,
+  "alliance_id": null,
+  "corporation_name": "Iwamura Mineral Group",
+  "alliance_name": null
+}

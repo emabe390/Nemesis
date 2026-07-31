@@ -1,0 +1,40 @@
+{
+  "character_id": 2123814171,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96693322,
+    "name": "Robert Greer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98494263,
+    "alliance_id": null,
+    "corporation_name": "Beck Krystall Mining",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96693322,
+      "name": "Robert Greer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122977457,
+      "name": "Jace-Beleren",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dr Artalia",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

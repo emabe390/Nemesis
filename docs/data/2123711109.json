@@ -1,0 +1,52 @@
+{
+  "character_id": 2123711109,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 91939357,
+    "name": "Shimizu Tokugawa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91939357,
+      "name": "Shimizu Tokugawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122621175,
+      "name": "Optimistor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92983087,
+      "name": "kandera Alabel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94066800,
+      "name": "fernandoG taboada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 768044194,
+      "name": "Aceoil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Woltzir",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

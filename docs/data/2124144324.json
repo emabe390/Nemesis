@@ -1,0 +1,34 @@
+{
+  "character_id": 2124144324,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122959010,
+    "name": "Nouri Arareb",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 976640448,
+    "alliance_id": 99013937,
+    "corporation_name": "Beyond Redemption Corp",
+    "alliance_name": "Beyond Redemption."
+  },
+  "top_killers": [
+    {
+      "id": 2122959010,
+      "name": "Nouri Arareb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116281043,
+      "name": "Bogdanoff Grichka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anubis Worl",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

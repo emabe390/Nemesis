@@ -1,0 +1,40 @@
+{
+  "character_id": 2114216492,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118512371,
+    "name": "Huricane Tom",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 2118512371,
+      "name": "Huricane Tom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122558022,
+      "name": "MirrMIRT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122980304,
+      "name": "Sullen Brom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neep Chancel",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

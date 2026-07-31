@@ -1,0 +1,52 @@
+{
+  "character_id": 2123789862,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93832256,
+    "name": "Major Wayde",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98730717,
+    "alliance_id": 1900696668,
+    "corporation_name": "Goat to Go",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93832256,
+      "name": "Major Wayde",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92964521,
+      "name": "TJ Onzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118315488,
+      "name": "Murphy Nyx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114896515,
+      "name": "Domon Kikker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122614618,
+      "name": "Atacher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GH03",
+  "corporation_id": 98637688,
+  "alliance_id": 99014401,
+  "corporation_name": "Red Blood Dragon Ride",
+  "alliance_name": "Republic Dragon Riders Legion"
+}

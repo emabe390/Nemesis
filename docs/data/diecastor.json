@@ -1,0 +1,40 @@
+{
+  "character_id": 987343719,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1661880308,
+    "name": "Miss Leeloo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045540,
+    "alliance_id": 99013072,
+    "corporation_name": "Stain Forever",
+    "alliance_name": "Stain Neurodiverse Democracy"
+  },
+  "top_killers": [
+    {
+      "id": 1661880308,
+      "name": "Miss Leeloo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123334844,
+      "name": "Adrijana Brankovic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117003961,
+      "name": "Dawn Johnson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diecastor",
+  "corporation_id": 98773084,
+  "alliance_id": null,
+  "corporation_name": "Blackout Company",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 94040747,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93169480,
+    "name": "Exilens",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 641435244,
+    "alliance_id": null,
+    "corporation_name": "The Hackenings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93169480,
+      "name": "Exilens",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115432620,
+      "name": "Yule Maulerant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1071521448,
+      "name": "Kasper Skov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jacob Calradia",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

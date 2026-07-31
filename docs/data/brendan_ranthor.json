@@ -1,0 +1,52 @@
+{
+  "character_id": 2121160178,
+  "total_losses": 23,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2113583127,
+    "name": "Modern dwarf",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98813364,
+    "alliance_id": null,
+    "corporation_name": "Hysera kebab delivery",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92964521,
+      "name": "TJ Onzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95448424,
+      "name": "Marcus Maulerant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95509019,
+      "name": "Zopiclone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1456614170,
+      "name": "Aender Wiggin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Brendan Ranthor",
+  "corporation_id": 98444440,
+  "alliance_id": 99015024,
+  "corporation_name": "Fly Sideways",
+  "alliance_name": "Low Class"
+}

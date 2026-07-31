@@ -1,0 +1,52 @@
+{
+  "character_id": 2120155558,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91408843,
+    "name": "Roomero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114651374,
+      "name": "Zerg Uitra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118499972,
+      "name": "Provoked Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120575471,
+      "name": "Axikor Aegon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122341774,
+      "name": "Pinch Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serena Storm",
+  "corporation_id": 98727604,
+  "alliance_id": 99014687,
+  "corporation_name": "BasementDwellers INC.",
+  "alliance_name": "CellarWorx Interstellar Services"
+}

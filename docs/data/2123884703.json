@@ -1,0 +1,40 @@
+{
+  "character_id": 2123884703,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1851490190,
+      "name": "GeneralKnoxxx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112133747,
+      "name": "Alooker YAG",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "John Billingsley",
+  "corporation_id": 98817088,
+  "alliance_id": 99013920,
+  "corporation_name": "Aureus Company",
+  "alliance_name": "Embers of the Void"
+}

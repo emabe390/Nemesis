@@ -1,0 +1,40 @@
+{
+  "character_id": 2124445224,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 890208342,
+    "name": "Phoenix IV",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 890208342,
+      "name": "Phoenix IV",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119634760,
+      "name": "Acaxa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121089383,
+      "name": "MoJiangHan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lidar Search",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

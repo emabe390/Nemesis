@@ -1,0 +1,52 @@
+{
+  "character_id": 2123142880,
+  "total_losses": 126,
+  "unique_killers": 82,
+  "nemesis": {
+    "id": 1230873801,
+    "name": "Killer Rasta",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1186576736,
+      "name": "Hratan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118847820,
+      "name": "Jakkalas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90658635,
+      "name": "Zaneti",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Fedoykin",
+  "corporation_id": 98377651,
+  "alliance_id": 99013097,
+  "corporation_name": "Russian Star Federation",
+  "alliance_name": "Suetology"
+}

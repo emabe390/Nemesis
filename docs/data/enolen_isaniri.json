@@ -1,0 +1,34 @@
+{
+  "character_id": 2123048519,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120798315,
+    "name": "Hornetchild",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98358620,
+    "alliance_id": 99012239,
+    "corporation_name": "Rogue Territory",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 2120798315,
+      "name": "Hornetchild",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119188017,
+      "name": "Hammamux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enolen Isaniri",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

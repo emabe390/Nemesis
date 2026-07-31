@@ -1,0 +1,40 @@
+{
+  "character_id": 2112216750,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95684149,
+    "name": "Drogozor Law",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95684149,
+      "name": "Drogozor Law",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 141577085,
+      "name": "Kytus Bos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 942264552,
+      "name": "Turix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "David Arrund",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

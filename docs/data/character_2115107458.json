@@ -1,0 +1,40 @@
+{
+  "character_id": 2115107458,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 149849961,
+    "name": "Zmey Gorynich",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98535701,
+    "alliance_id": 99013851,
+    "corporation_name": "Geto-Dacii",
+    "alliance_name": "M A C U L A"
+  },
+  "top_killers": [
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 851352703,
+      "name": "Em Interference",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 368173866,
+      "name": "Flip Inghell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2115107458",
+  "corporation_id": 98476260,
+  "alliance_id": null,
+  "corporation_name": "Enemy in System",
+  "alliance_name": null
+}

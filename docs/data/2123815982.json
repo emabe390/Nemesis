@@ -1,0 +1,52 @@
+{
+  "character_id": 2123815982,
+  "total_losses": 158,
+  "unique_killers": 130,
+  "nemesis": {
+    "id": 2118367568,
+    "name": "Claire Lightning Farron",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98663556,
+    "alliance_id": 99005601,
+    "corporation_name": "ST Borg",
+    "alliance_name": "Rainbow Knights"
+  },
+  "top_killers": [
+    {
+      "id": 2118367568,
+      "name": "Claire Lightning Farron",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90522015,
+      "name": "Hen Cerbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90738917,
+      "name": "Raquel Saissore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93052327,
+      "name": "Commander Yurkov",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Amarr Hound",
+  "corporation_id": 98444728,
+  "alliance_id": null,
+  "corporation_name": "Wandering Dreams",
+  "alliance_name": null
+}

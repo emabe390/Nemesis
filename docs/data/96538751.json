@@ -1,0 +1,52 @@
+{
+  "character_id": 96538751,
+  "total_losses": 27,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 96539998,
+    "name": "Georgy Markov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98553218,
+    "alliance_id": null,
+    "corporation_name": "Pleasure Factory",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96539998,
+      "name": "Georgy Markov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91242859,
+      "name": "None Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91674011,
+      "name": "Ms Twister",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93740012,
+      "name": "Mia Kioto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94079989,
+      "name": "Rinshum Yen-Kuo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fler Breau",
+  "corporation_id": 98520878,
+  "alliance_id": 99001317,
+  "corporation_name": "Russian Space Community",
+  "alliance_name": "Banderlogs Alliance"
+}

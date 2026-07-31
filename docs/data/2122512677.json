@@ -1,0 +1,52 @@
+{
+  "character_id": 2122512677,
+  "total_losses": 18,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 1873092303,
+    "name": "Tilburn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98804604,
+    "alliance_id": null,
+    "corporation_name": "Late Night Bang Bang",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1873092303,
+      "name": "Tilburn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90472844,
+      "name": "Seyth Enshakor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92155326,
+      "name": "Bloody James",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94026258,
+      "name": "Filius Endo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dora Aldard",
+  "corporation_id": 98249619,
+  "alliance_id": null,
+  "corporation_name": "Clownspider LLC",
+  "alliance_name": null
+}

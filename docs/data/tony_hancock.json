@@ -1,0 +1,40 @@
+{
+  "character_id": 2121422175,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121311097,
+    "name": "KOT-CPET-B-KOCMOCE",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98739667,
+    "alliance_id": 99014233,
+    "corporation_name": "Fake Taxi to Jita",
+    "alliance_name": "CBOPA KOTOB OT COBETOB B KOCMOCE"
+  },
+  "top_killers": [
+    {
+      "id": 2121311097,
+      "name": "KOT-CPET-B-KOCMOCE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123025324,
+      "name": "KOT-CHOBA-ECT-BEHTYPY",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751918,
+      "name": "DemonicMandem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tony Hancock",
+  "corporation_id": 98743337,
+  "alliance_id": 99012862,
+  "corporation_name": "Mining Under the Influence",
+  "alliance_name": "Influential Operations"
+}

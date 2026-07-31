@@ -1,0 +1,40 @@
+{
+  "character_id": 2124317651,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92814450,
+    "name": "Xenon Motsu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 92814450,
+      "name": "Xenon Motsu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114511027,
+      "name": "Anakeen Skywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Breadbeard",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

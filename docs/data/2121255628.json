@@ -1,0 +1,40 @@
+{
+  "character_id": 2121255628,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1826725567,
+    "name": "DeathStripe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98030681,
+    "alliance_id": 1900696668,
+    "corporation_name": "ANGELGARD.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1826725567,
+      "name": "DeathStripe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119775647,
+      "name": "Y6430",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121792031,
+      "name": "Sepavaila Koskanaiken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marata Esil Metesur",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

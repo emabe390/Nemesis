@@ -1,0 +1,40 @@
+{
+  "character_id": 2121437537,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 269366694,
+    "name": "Character 269366694",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805016,
+    "alliance_id": 99014522,
+    "corporation_name": "PBM Dynamics",
+    "alliance_name": "Fireball."
+  },
+  "top_killers": [
+    {
+      "id": 269366694,
+      "name": "Character 269366694",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 196489183,
+      "name": "Psychee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116814777,
+      "name": "Dragon Reckless",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victor Svarozhich",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

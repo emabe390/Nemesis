@@ -1,0 +1,52 @@
+{
+  "character_id": 2112530609,
+  "total_losses": 32,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2113311183,
+    "name": "Tore Katt",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95408404,
+      "name": "Highlord Zorrel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94443642,
+      "name": "Chronos Aion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 627298186,
+      "name": "Oakatsura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 671214409,
+      "name": "Chalice Malice",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pteros",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2118851776,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 796754948,
+    "name": "Ebola viral",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98789008,
+    "alliance_id": 99009539,
+    "corporation_name": "JERNBYRD",
+    "alliance_name": "Pain And Compliance"
+  },
+  "top_killers": [
+    {
+      "id": 796754948,
+      "name": "Ebola viral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1196060207,
+      "name": "Pimp Cane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118138234,
+      "name": "Afganski Szuszak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rida Oksaras",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

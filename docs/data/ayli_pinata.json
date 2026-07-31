@@ -1,0 +1,40 @@
+{
+  "character_id": 2123899065,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93835199,
+    "name": "Zekdek Demented",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98634861,
+    "alliance_id": null,
+    "corporation_name": "No tax for me Company",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93835199,
+      "name": "Zekdek Demented",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114266344,
+      "name": "bayue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123032185,
+      "name": "Zeroth Commander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ayli Pinata",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123150401,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118743417,
+    "name": "Slippery Snake",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1031960637,
+    "alliance_id": 99013884,
+    "corporation_name": "Distant Horizons",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 2118743417,
+      "name": "Slippery Snake",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122188786,
+      "name": "Briar Sten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93304490,
+      "name": "Character 93304490",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117003961,
+      "name": "Dawn Johnson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121750603,
+      "name": "Marianne Sten",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Samantha Sten",
+  "corporation_id": 98360452,
+  "alliance_id": 99011279,
+  "corporation_name": "Naval Defence Force",
+  "alliance_name": "Naval Defence Alliance"
+}

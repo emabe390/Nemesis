@@ -1,0 +1,52 @@
+{
+  "character_id": 2123554164,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91381164,
+    "name": "Rusty Ford",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 91381164,
+      "name": "Rusty Ford",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117758670,
+      "name": "Eugate Maulerant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119337581,
+      "name": "Tupak Corvus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97215302,
+      "name": "Tania BoTania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1735126831,
+      "name": "Rehvun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shootie Mac Shoot",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

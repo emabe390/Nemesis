@@ -1,0 +1,40 @@
+{
+  "character_id": 2122303771,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113409641,
+    "name": "GrayHeart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2113409641,
+      "name": "GrayHeart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118568440,
+      "name": "Oreo Otichoda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93794087,
+      "name": "Justin Nero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carlos Montana",
+  "corporation_id": 98697448,
+  "alliance_id": 99011119,
+  "corporation_name": "The Dead Woods",
+  "alliance_name": "Absolute Glory"
+}

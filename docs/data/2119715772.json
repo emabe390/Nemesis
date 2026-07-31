@@ -1,0 +1,52 @@
+{
+  "character_id": 2119715772,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94474608,
+      "name": "honeyrose hiho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114398364,
+      "name": "Martin Honestman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116149179,
+      "name": "Ein Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116307221,
+      "name": "Seath Aucie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Imperator Aurora",
+  "corporation_id": 98628734,
+  "alliance_id": 99011271,
+  "corporation_name": "Sargos Corporation",
+  "alliance_name": "4Crabs Tavern"
+}

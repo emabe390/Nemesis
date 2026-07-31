@@ -1,0 +1,52 @@
+{
+  "character_id": 2123424002,
+  "total_losses": 77,
+  "unique_killers": 68,
+  "nemesis": {
+    "id": 553837318,
+    "name": "Akirry",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 724997872,
+    "alliance_id": 1354830081,
+    "corporation_name": "EVE-RO",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 553837318,
+      "name": "Akirry",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120840885,
+      "name": "GoodBread",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91240348,
+      "name": "Kentak Melida",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Broot Heluene",
+  "corporation_id": 724997872,
+  "alliance_id": 1354830081,
+  "corporation_name": "EVE-RO",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122302250,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92208231,
+      "name": "Brain Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93550544,
+      "name": "Jack Renekton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96861669,
+      "name": "Antiglitch Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aumi warrior",
+  "corporation_id": 98805140,
+  "alliance_id": 99013537,
+  "corporation_name": "Sunset Red Activity Club",
+  "alliance_name": "Insidious."
+}

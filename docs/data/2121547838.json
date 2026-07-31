@@ -1,0 +1,34 @@
+{
+  "character_id": 2121547838,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1958504836,
+    "name": "Rolling Stones",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98528107,
+    "alliance_id": 99005178,
+    "corporation_name": "Dire Wolfes",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 1958504836,
+      "name": "Rolling Stones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92895259,
+      "name": "Bvrface Isindahouse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duzzian Slarr",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

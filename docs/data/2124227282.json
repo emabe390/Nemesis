@@ -1,0 +1,40 @@
+{
+  "character_id": 2124227282,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120887426,
+      "name": "WhoNeedsTether",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121366978,
+      "name": "Hillbilly-6000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "xNoch",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

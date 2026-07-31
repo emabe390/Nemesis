@@ -1,0 +1,40 @@
+{
+  "character_id": 2123235378,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122582702,
+    "name": "Makilunn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98253255,
+    "alliance_id": 431502563,
+    "corporation_name": "Proudly Snoring",
+    "alliance_name": "Ministry of Inappropriate Footwork"
+  },
+  "top_killers": [
+    {
+      "id": 2122582702,
+      "name": "Makilunn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96813828,
+      "name": "D Kondr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112627858,
+      "name": "Dva Uchonela",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hola Udan",
+  "corporation_id": 98764385,
+  "alliance_id": 99005338,
+  "corporation_name": "Target Idol",
+  "alliance_name": "Pandemic Horde"
+}

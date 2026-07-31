@@ -1,0 +1,52 @@
+{
+  "character_id": 2123087332,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94285021,
+    "name": "McEricita",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594317,
+    "alliance_id": 99009229,
+    "corporation_name": "Biomass Transit",
+    "alliance_name": "Seven Four Five"
+  },
+  "top_killers": [
+    {
+      "id": 94285021,
+      "name": "McEricita",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 962215199,
+      "name": "Wrik Hoover",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1399878028,
+      "name": "Canalos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1756880362,
+      "name": "Nikalath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112590199,
+      "name": "John Snow Nos-Nuttin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dwandy",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

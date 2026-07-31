@@ -1,0 +1,52 @@
+{
+  "character_id": 94821358,
+  "total_losses": 39,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122327236,
+      "name": "MorffeII",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91730584,
+      "name": "Character 91730584",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Odin Igg",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

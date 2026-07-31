@@ -1,0 +1,52 @@
+{
+  "character_id": 2123806903,
+  "total_losses": 15,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121842351,
+    "name": "Isabella Lennox",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98810644,
+    "alliance_id": 99008985,
+    "corporation_name": "Echo Protocol",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 2121842351,
+      "name": "Isabella Lennox",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91887782,
+      "name": "Alisa Noud",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94994333,
+      "name": "Raziel Windstorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112839602,
+      "name": "El en Marland",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yukkun",
+  "corporation_id": 98805043,
+  "alliance_id": null,
+  "corporation_name": "La Maisson d'Arnor",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1599903998,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 96861620,
+    "name": "Agimus VI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 361891121,
+      "name": "Giulia Hunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92153461,
+      "name": "Nahu Mori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93758512,
+      "name": "Miki Gonson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96158434,
+      "name": "Elckron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dron Basher",
+  "corporation_id": 98760035,
+  "alliance_id": null,
+  "corporation_name": "Loot and Rocks",
+  "alliance_name": null
+}

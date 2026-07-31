@@ -1,0 +1,40 @@
+{
+  "character_id": 2123780742,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117384528,
+    "name": "Buck Roundhouse",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98066577,
+    "alliance_id": null,
+    "corporation_name": "Shore Leave Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117384528,
+      "name": "Buck Roundhouse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119212767,
+      "name": "Knightzshade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 912291025,
+      "name": "Faye Tirea",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sengom",
+  "corporation_id": 98774390,
+  "alliance_id": 99013995,
+  "corporation_name": "RODHEIM",
+  "alliance_name": "REDHEIM Empire"
+}

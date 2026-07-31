@@ -1,0 +1,34 @@
+{
+  "character_id": 2115665162,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 542322221,
+    "name": "Xen Kira",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821498,
+    "alliance_id": 99014651,
+    "corporation_name": "TopGunMaverickInverted",
+    "alliance_name": "Inverted."
+  },
+  "top_killers": [
+    {
+      "id": 542322221,
+      "name": "Xen Kira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94481616,
+      "name": "Willow Adelayde",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jovial",
+  "corporation_id": 98800166,
+  "alliance_id": 99012239,
+  "corporation_name": "Aggressive Optimisim",
+  "alliance_name": "Desolate."
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123500807,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95525344,
+      "name": "Kanye North",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120576722,
+      "name": "Bergof",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "kaelan strix",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

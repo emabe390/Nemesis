@@ -1,0 +1,52 @@
+{
+  "character_id": 2124510220,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124511616,
+    "name": "Sid Morse",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124511616,
+      "name": "Sid Morse",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2114325799,
+      "name": "Iceacid Frostpacker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95524755,
+      "name": "Aguta Hareka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120874414,
+      "name": "Character 2120874414",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nalia Sorn",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

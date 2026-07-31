@@ -1,0 +1,46 @@
+{
+  "character_id": 2118638639,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122397166,
+    "name": "Griff Carlyle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752603,
+    "alliance_id": null,
+    "corporation_name": "BobVult",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122397166,
+      "name": "Griff Carlyle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94220973,
+      "name": "Fate Shadowmaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95671368,
+      "name": "Hans Miller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1922855106,
+      "name": "10of15",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vanilla Pepper",
+  "corporation_id": 98784423,
+  "alliance_id": 99014945,
+  "corporation_name": "Whimsy Industrial Complex",
+  "alliance_name": "Pool Hall."
+}

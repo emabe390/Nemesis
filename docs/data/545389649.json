@@ -1,0 +1,52 @@
+{
+  "character_id": 545389649,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 95767597,
+    "name": "Nyth Hinken",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98567606,
+    "alliance_id": null,
+    "corporation_name": "Goryn Clade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95767597,
+      "name": "Nyth Hinken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90678061,
+      "name": "Kicum Pereira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90981094,
+      "name": "Mobius USAGI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92920443,
+      "name": "Bruxo Bentley",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 545389649",
+  "corporation_id": 1234259884,
+  "alliance_id": 154104258,
+  "corporation_name": "Vesuvian Fleet",
+  "alliance_name": "Apocalypse Now."
+}

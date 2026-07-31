@@ -1,0 +1,40 @@
+{
+  "character_id": 2124162321,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95613383,
+    "name": "Fiudovy Tekitsu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98613346,
+    "alliance_id": null,
+    "corporation_name": "Piou",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95613383,
+      "name": "Fiudovy Tekitsu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1759030164,
+      "name": "Scott Renton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120219956,
+      "name": "Stray Egnald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tin Mabata",
+  "corporation_id": 98700198,
+  "alliance_id": 99012654,
+  "corporation_name": "Corporation of stars",
+  "alliance_name": "Ant Tiger"
+}

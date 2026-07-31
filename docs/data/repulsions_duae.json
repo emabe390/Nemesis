@@ -1,0 +1,52 @@
+{
+  "character_id": 2123976234,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 629760460,
+    "name": "Drake Trondor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93632869,
+      "name": "TYxUSMC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121767379,
+      "name": "Alina Hayashi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122741240,
+      "name": "Godo Sparks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123899260,
+      "name": "Urken Soikutsu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Repulsions Duae",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

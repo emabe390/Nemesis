@@ -1,0 +1,46 @@
+{
+  "character_id": 2124561104,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115560942,
+    "name": "Kyle Ketar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 604035876,
+    "alliance_id": 99001317,
+    "corporation_name": "Free Space Tech",
+    "alliance_name": "Banderlogs Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2115560942,
+      "name": "Kyle Ketar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93446901,
+      "name": "Kovalski Gnitcev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94142115,
+      "name": "Mich Faya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120650731,
+      "name": "Cat6663",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ongvi Stuf",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

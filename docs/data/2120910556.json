@@ -1,0 +1,52 @@
+{
+  "character_id": 2120910556,
+  "total_losses": 43,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 367350913,
+      "name": "Savel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 671625259,
+      "name": "ZigZagMan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 882461398,
+      "name": "LeetSystems",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116322116,
+      "name": "Dizzy Acami",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "IronPatriot",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

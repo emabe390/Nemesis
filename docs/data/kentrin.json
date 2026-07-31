@@ -1,0 +1,46 @@
+{
+  "character_id": 2123823107,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121156330,
+    "name": "YobaFlex",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121156330,
+      "name": "YobaFlex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 432590883,
+      "name": "Battelstar1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116666838,
+      "name": "TONGX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118182043,
+      "name": "Jarett le jeu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KentRin",
+  "corporation_id": 98721110,
+  "alliance_id": 99003581,
+  "corporation_name": "Nocte Vigilo",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122014961,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 92630339,
+    "name": "Gregory McMorrow",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98152202,
+    "alliance_id": 99010995,
+    "corporation_name": "A few Amigos",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112650453,
+      "name": "DromethiusAI rubicon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94572188,
+      "name": "Blezk Yngstein Yahngschmitz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112774776,
+      "name": "Minos Cadmus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120912889,
+      "name": "Lord Dert",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack Thaloot",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

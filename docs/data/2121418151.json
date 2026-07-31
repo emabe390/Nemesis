@@ -1,0 +1,40 @@
+{
+  "character_id": 2121418151,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122679655,
+    "name": "Maximus Ploud",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98762184,
+    "alliance_id": 99014963,
+    "corporation_name": "J-Space Preservation Society",
+    "alliance_name": "Intended Behavior"
+  },
+  "top_killers": [
+    {
+      "id": 2122679655,
+      "name": "Maximus Ploud",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118999220,
+      "name": "Frofr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deon McCray",
+  "corporation_id": 98763564,
+  "alliance_id": 99011248,
+  "corporation_name": "McCray's",
+  "alliance_name": "Big Green Fly"
+}

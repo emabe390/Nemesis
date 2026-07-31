@@ -1,0 +1,52 @@
+{
+  "character_id": 2123629650,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2122791185,
+    "name": "Zorath Aeloria",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122791185,
+      "name": "Zorath Aeloria",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1780692465,
+      "name": "NanoSpirit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119364630,
+      "name": "Poppy Quado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90421160,
+      "name": "Mordecai Holtzgrund",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93081241,
+      "name": "Gorakhal the Relentless",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rhiok Feldt",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

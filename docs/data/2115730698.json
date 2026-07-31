@@ -1,0 +1,52 @@
+{
+  "character_id": 2115730698,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 2112783102,
+      "name": "Kotovski 23Rus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115691214,
+      "name": "Nga Blaze",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92182514,
+      "name": "Skynet Hun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nga Tornado",
+  "corporation_id": 98702890,
+  "alliance_id": 99003581,
+  "corporation_name": "Descendants of Shen Nong",
+  "alliance_name": "Fraternity."
+}

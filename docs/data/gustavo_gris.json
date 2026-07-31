@@ -1,0 +1,40 @@
+{
+  "character_id": 2123112723,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121985434,
+    "name": "Jordy Blaster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 2121985434,
+      "name": "Jordy Blaster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91220153,
+      "name": "Slave Clone01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92028851,
+      "name": "delilah brightblade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gustavo Gris",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

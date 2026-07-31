@@ -1,0 +1,40 @@
+{
+  "character_id": 92222040,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95148018,
+    "name": "Jon B Fletcher",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686314,
+    "alliance_id": 99008985,
+    "corporation_name": "Violator The Clown",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 95148018,
+      "name": "Jon B Fletcher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 181928805,
+      "name": "Memnos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112935474,
+      "name": "Kolyantos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nedd Lowe",
+  "corporation_id": 98337442,
+  "alliance_id": 99015132,
+  "corporation_name": "Bite Down on This",
+  "alliance_name": "Forced Entry Doctrine"
+}

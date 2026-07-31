@@ -1,0 +1,40 @@
+{
+  "character_id": 2123846198,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95897480,
+    "name": "Nishius Khurelem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724631,
+    "alliance_id": 99014719,
+    "corporation_name": "Nomad Space Kingdom",
+    "alliance_name": "Mostly Nomads"
+  },
+  "top_killers": [
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1801079207,
+      "name": "Kate'ne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97160085,
+      "name": "Paul Zibertovych",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AlphaGhost1004",
+  "corporation_id": 98770476,
+  "alliance_id": 99013264,
+  "corporation_name": "Monsters Incorporated",
+  "alliance_name": "The Mole Den Coalition"
+}

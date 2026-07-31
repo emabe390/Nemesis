@@ -1,0 +1,40 @@
+{
+  "character_id": 91034245,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91353462,
+    "name": "le blanck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817456,
+    "alliance_id": null,
+    "corporation_name": "Questionable Tactics Average Skill",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91353462,
+      "name": "le blanck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91034245,
+      "name": "Xela Sho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119286287,
+      "name": "707 Joe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xela Sho",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

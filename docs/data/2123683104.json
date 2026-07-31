@@ -1,0 +1,52 @@
+{
+  "character_id": 2123683104,
+  "total_losses": 39,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2123683025,
+    "name": "Ps1001",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98777162,
+    "alliance_id": 1354830081,
+    "corporation_name": "TRIGLAVIAN EXECUYIR",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123683025,
+      "name": "Ps1001",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 337921161,
+      "name": "CPT Grabowsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115594651,
+      "name": "Valkyr1e",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115731180,
+      "name": "RFC 2549",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ps1002",
+  "corporation_id": 98777162,
+  "alliance_id": 1354830081,
+  "corporation_name": "TRIGLAVIAN EXECUYIR",
+  "alliance_name": "Goonswarm Federation"
+}

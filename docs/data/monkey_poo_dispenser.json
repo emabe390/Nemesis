@@ -1,0 +1,40 @@
+{
+  "character_id": 91843564,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91089456,
+    "name": "Providence Kys",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98532165,
+    "alliance_id": 99010787,
+    "corporation_name": "Little Red Riding Hole",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 91089456,
+      "name": "Providence Kys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92579236,
+      "name": "Vladimir Krechenkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112286970,
+      "name": "Lagos Landin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Monkey Poo Dispenser",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

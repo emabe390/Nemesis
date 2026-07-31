@@ -1,0 +1,52 @@
+{
+  "character_id": 2124189354,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112320012,
+      "name": "Oldy McBee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123669688,
+      "name": "Kain Ireul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92058270,
+      "name": "Ajzorza Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119411655,
+      "name": "Rick Burner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FaafnirM",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

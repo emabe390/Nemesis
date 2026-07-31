@@ -1,0 +1,40 @@
+{
+  "character_id": 2120268595,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91630606,
+    "name": "William Follet",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98475956,
+    "alliance_id": 99003995,
+    "corporation_name": "Schweine im Weltall GmbH",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 91630606,
+      "name": "William Follet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118401398,
+      "name": "Hide Andseek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121453367,
+      "name": "R Sky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Moist Socks",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

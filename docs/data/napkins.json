@@ -1,0 +1,52 @@
+{
+  "character_id": 2120530859,
+  "total_losses": 75,
+  "unique_killers": 65,
+  "nemesis": {
+    "id": 243941398,
+    "name": "masty",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 243941398,
+      "name": "masty",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90983472,
+      "name": "Jaime Gomes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 904000908,
+      "name": "Tiberious Marz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Napkins",
+  "corporation_id": 98825597,
+  "alliance_id": null,
+  "corporation_name": "Napkins' Holding",
+  "alliance_name": null
+}

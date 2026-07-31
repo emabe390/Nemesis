@@ -1,0 +1,40 @@
+{
+  "character_id": 2124532742,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113902682,
+    "name": "Kento Bento Box",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118649343,
+      "name": "Randon Deimos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indsund Evotori",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

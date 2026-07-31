@@ -1,0 +1,52 @@
+{
+  "character_id": 2123618995,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 463160387,
+    "name": "Yolk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 691309535,
+    "alliance_id": null,
+    "corporation_name": "Art of War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 463160387,
+      "name": "Yolk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91099996,
+      "name": "Scirocco Sturm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91752781,
+      "name": "Maya Kholzakova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 272405573,
+      "name": "Tukuarikan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 658928645,
+      "name": "Bitlex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sayo Hoshikage",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

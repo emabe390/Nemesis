@@ -1,0 +1,52 @@
+{
+  "character_id": 1589081608,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1080826239,
+    "name": "Zorro's shadow",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98820251,
+    "alliance_id": null,
+    "corporation_name": "Shadows United",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1080826239,
+      "name": "Zorro's shadow",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92071832,
+      "name": "Tophok Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112657046,
+      "name": "Lovin Jr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118943860,
+      "name": "Skuld Omagat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ziriamm",
+  "corporation_id": 1488044028,
+  "alliance_id": null,
+  "corporation_name": "Divine Sanctum",
+  "alliance_name": null
+}

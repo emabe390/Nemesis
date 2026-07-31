@@ -1,0 +1,40 @@
+{
+  "character_id": 91033430,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 112597121,
+    "name": "MIROMAX",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 112597121,
+      "name": "MIROMAX",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91017278,
+      "name": "Ivy Kuznetsova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96223472,
+      "name": "Tira Alvarez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Crystal",
+  "corporation_id": 98174147,
+  "alliance_id": null,
+  "corporation_name": "Barrel Roll Squad",
+  "alliance_name": null
+}

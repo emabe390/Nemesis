@@ -1,0 +1,52 @@
+{
+  "character_id": 2119672396,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92770445,
+      "name": "Boo Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95236990,
+      "name": "Xeno Solos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95310711,
+      "name": "RedComet24243",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kokoina",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

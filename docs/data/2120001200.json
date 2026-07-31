@@ -1,0 +1,52 @@
+{
+  "character_id": 2120001200,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1198211449,
+    "name": "ColRelentless",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 1198211449,
+      "name": "ColRelentless",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1358387696,
+      "name": "Justari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116250507,
+      "name": "solansh matib",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122585842,
+      "name": "WP Prophet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Whalebone",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

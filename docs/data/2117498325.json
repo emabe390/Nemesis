@@ -1,0 +1,40 @@
+{
+  "character_id": 2117498325,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1548197308,
+    "name": "In Norden",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98629465,
+    "alliance_id": 99012019,
+    "corporation_name": "Formica Corp.",
+    "alliance_name": "Can i bring my Drake..."
+  },
+  "top_killers": [
+    {
+      "id": 1548197308,
+      "name": "In Norden",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93282091,
+      "name": "Hosay Hugmonster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93284207,
+      "name": "Cen Illa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Egosi",
+  "corporation_id": 98588649,
+  "alliance_id": null,
+  "corporation_name": "Krict Corporation",
+  "alliance_name": null
+}

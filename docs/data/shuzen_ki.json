@@ -1,0 +1,46 @@
+{
+  "character_id": 2117667749,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95115372,
+      "name": "Vance Desai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112148425,
+      "name": "Evie Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117171488,
+      "name": "River MT",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shuzen Ki",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123314753,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 951295718,
+    "name": "qvq",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98444440,
+    "alliance_id": null,
+    "corporation_name": "Fly Sideways",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 951295718,
+      "name": "qvq",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119655271,
+      "name": "Tsukishima Haruka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119558901,
+      "name": "Nia Raven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lentiaika",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

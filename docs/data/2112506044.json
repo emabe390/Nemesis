@@ -1,0 +1,40 @@
+{
+  "character_id": 2112506044,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92274994,
+    "name": "Fyodor Ivanov Svoboda",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98812062,
+    "alliance_id": null,
+    "corporation_name": "RedCat Exploration",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92274994,
+      "name": "Fyodor Ivanov Svoboda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95680468,
+      "name": "Lob Lot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Michael Foley'z",
+  "corporation_id": 98731295,
+  "alliance_id": 1042504553,
+  "corporation_name": "Renegade Revenge Technologies",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121512373,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2118421038,
+    "name": "Ascia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98165469,
+    "alliance_id": null,
+    "corporation_name": "Hammerwerke",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118421038,
+      "name": "Ascia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93679479,
+      "name": "Zhana Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93856334,
+      "name": "Aleister Carver",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96807652,
+      "name": "Horocycle Saccheri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daniel-Coyote",
+  "corporation_id": 98802466,
+  "alliance_id": null,
+  "corporation_name": "Coyote Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2113720654,
+  "total_losses": 28,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2113244496,
+    "name": "LZSB AA",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113244496,
+      "name": "LZSB AA",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95509019,
+      "name": "Zopiclone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123335773,
+      "name": "Dess von Simp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123385739,
+      "name": "Endoki",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Medium Audier",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

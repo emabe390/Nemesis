@@ -1,0 +1,46 @@
+{
+  "character_id": 2119393473,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93724660,
+    "name": "Annie Moennan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93724660,
+      "name": "Annie Moennan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 128140932,
+      "name": "Karin Mirin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115054328,
+      "name": "Dira Trepidation",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119986854,
+      "name": "David Wooderson III",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amanda Sage",
+  "corporation_id": 98784423,
+  "alliance_id": 99014945,
+  "corporation_name": "Whimsy Industrial Complex",
+  "alliance_name": "Pool Hall."
+}

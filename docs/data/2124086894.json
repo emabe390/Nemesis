@@ -1,0 +1,40 @@
+{
+  "character_id": 2124086894,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123451474,
+      "name": "Sovistry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123471953,
+      "name": "Sovitain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark Lord Tea",
+  "corporation_id": 98824611,
+  "alliance_id": 99014735,
+  "corporation_name": "Narrow Exit",
+  "alliance_name": "Psyno Theory"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123292617,
+  "total_losses": 23,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2123350822,
+    "name": "Bombardio Crocodilo",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98819994,
+    "alliance_id": null,
+    "corporation_name": "The Horizon Jurisdiction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123350822,
+      "name": "Bombardio Crocodilo",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94815670,
+      "name": "Nikol Park",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95147667,
+      "name": "nota Noban",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95520679,
+      "name": "Jaynara Nalelmir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91363763,
+      "name": "Ska Tastrophy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "lancelot 801",
+  "corporation_id": 98538918,
+  "alliance_id": 99003581,
+  "corporation_name": "Foredawn Business Corporation",
+  "alliance_name": "Fraternity."
+}

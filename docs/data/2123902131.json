@@ -1,0 +1,34 @@
+{
+  "character_id": 2123902131,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123473710,
+    "name": "Tasa Irvam",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2123473710,
+      "name": "Tasa Irvam",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120929404,
+      "name": "Julanez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TampaKodiak",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

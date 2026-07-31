@@ -1,0 +1,52 @@
+{
+  "character_id": 2124409687,
+  "total_losses": 18,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2120792409,
+    "name": "Westlia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98714140,
+    "alliance_id": 99011952,
+    "corporation_name": "Fliet Pizza Delivery",
+    "alliance_name": "Of Essence"
+  },
+  "top_killers": [
+    {
+      "id": 2120792409,
+      "name": "Westlia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123176929,
+      "name": "Be Cu Mine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124398966,
+      "name": "Meshif Rahim",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Findme",
+  "corporation_id": 98836330,
+  "alliance_id": null,
+  "corporation_name": "FMK Industries",
+  "alliance_name": null
+}

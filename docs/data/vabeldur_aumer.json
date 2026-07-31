@@ -1,0 +1,52 @@
+{
+  "character_id": 2122468412,
+  "total_losses": 100,
+  "unique_killers": 80,
+  "nemesis": {
+    "id": 2113305888,
+    "name": "Character 2113305888",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115058050,
+      "name": "Cyrelle Aurilen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121700413,
+      "name": "Boogie Howser",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90665511,
+      "name": "Alexander Fawkes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92864573,
+      "name": "Candace DeLaMesa",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vabeldur Aumer",
+  "corporation_id": 98483924,
+  "alliance_id": 99007928,
+  "corporation_name": "Mackies Raiders",
+  "alliance_name": "Wild Geese."
+}

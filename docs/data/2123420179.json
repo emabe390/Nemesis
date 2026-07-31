@@ -1,0 +1,52 @@
+{
+  "character_id": 2123420179,
+  "total_losses": 115,
+  "unique_killers": 66,
+  "nemesis": {
+    "id": 2121168241,
+    "name": "Bangla Bold",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98784900,
+    "alliance_id": null,
+    "corporation_name": "BASCAPE Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121168241,
+      "name": "Bangla Bold",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 92574496,
+      "name": "Saint Michaels Soul",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1916938553,
+      "name": "Zack Armstrong",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Verdene Arnolles",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123699709,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118861906,
+    "name": "Sigma Siguri",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776729,
+    "alliance_id": 99013390,
+    "corporation_name": "Tidal Lock",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2118861906,
+      "name": "Sigma Siguri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118986591,
+      "name": "Columbuz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Type 5a",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

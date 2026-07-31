@@ -1,0 +1,52 @@
+{
+  "character_id": 2118728917,
+  "total_losses": 18,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92955001,
+      "name": "Evelyn Vaille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96185946,
+      "name": "NapoIeon Bonaparte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113662572,
+      "name": "MiTom Mi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114134147,
+      "name": "Anna Blades",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Radist A",
+  "corporation_id": 98628734,
+  "alliance_id": 99011271,
+  "corporation_name": "Sargos Corporation",
+  "alliance_name": "4Crabs Tavern"
+}

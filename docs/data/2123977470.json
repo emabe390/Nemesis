@@ -1,0 +1,34 @@
+{
+  "character_id": 2123977470,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117188567,
+    "name": "Unusual Eve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679965,
+    "alliance_id": 99002411,
+    "corporation_name": "Stainless Stain",
+    "alliance_name": "Happy Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2117188567,
+      "name": "Unusual Eve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122570329,
+      "name": "Cesar76",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dispra",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

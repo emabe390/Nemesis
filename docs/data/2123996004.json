@@ -1,0 +1,52 @@
+{
+  "character_id": 2123996004,
+  "total_losses": 27,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122252155,
+      "name": "shikongsa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122822665,
+      "name": "Character 2122822665",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90797201,
+      "name": "Alexander Asanti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91749472,
+      "name": "PhoenixP59",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex and me",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

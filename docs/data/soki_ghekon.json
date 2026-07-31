@@ -1,0 +1,40 @@
+{
+  "character_id": 2119527346,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1684204265,
+    "name": "Alice Celadon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98457503,
+    "alliance_id": 99009927,
+    "corporation_name": "Full Broadside",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1684204265,
+      "name": "Alice Celadon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113191119,
+      "name": "Tony Pellion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115649981,
+      "name": "Gwyndolin M",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soki Ghekon",
+  "corporation_id": 98711373,
+  "alliance_id": 99013420,
+  "corporation_name": "Republic Vanguard",
+  "alliance_name": "Helios Initiative"
+}

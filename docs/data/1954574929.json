@@ -1,0 +1,46 @@
+{
+  "character_id": 1954574929,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 647361337,
+    "name": "Criminal Riksta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98077648,
+    "alliance_id": 99014878,
+    "corporation_name": "Island Assault Force",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 647361337,
+      "name": "Criminal Riksta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94332020,
+      "name": "Admentus Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 327771665,
+      "name": "Criminal Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2051916136,
+      "name": "mellifera",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hoppo Explorer",
+  "corporation_id": 98800354,
+  "alliance_id": null,
+  "corporation_name": "Wyrmhole Foundries Inc.",
+  "alliance_name": null
+}

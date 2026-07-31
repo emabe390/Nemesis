@@ -1,0 +1,52 @@
+{
+  "character_id": 2121020764,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1190901474,
+    "name": "Lefty Guns",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1610970612,
+    "alliance_id": 99010325,
+    "corporation_name": "Rage For Order",
+    "alliance_name": "Patchwork Freelancers"
+  },
+  "top_killers": [
+    {
+      "id": 1190901474,
+      "name": "Lefty Guns",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121173898,
+      "name": "Tacitus Varus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112151860,
+      "name": "SergeantUA Odunen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122729325,
+      "name": "Isolde von Reuenthal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124181095,
+      "name": "Addicted To Death",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahala Boma",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

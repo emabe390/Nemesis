@@ -1,0 +1,52 @@
+{
+  "character_id": 2123195029,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91603660,
+    "name": "Lee Flint",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831045,
+    "alliance_id": 99012982,
+    "corporation_name": "Irradiated",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 91603660,
+      "name": "Lee Flint",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119739538,
+      "name": "Tiberius Arthuron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120571208,
+      "name": "Amet Mellia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121283789,
+      "name": "Twixels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123488968,
+      "name": "Hotkot-ua",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Valera White",
+  "corporation_id": 98796344,
+  "alliance_id": null,
+  "corporation_name": "Deep Vengeance",
+  "alliance_name": null
+}

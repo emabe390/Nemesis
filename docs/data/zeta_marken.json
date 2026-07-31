@@ -1,0 +1,40 @@
+{
+  "character_id": 2112976565,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 903765649,
+    "name": "Jahnor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 903765649,
+      "name": "Jahnor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116678086,
+      "name": "FRESHOPP 1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124119928,
+      "name": "Vesa Erata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zeta Marken",
+  "corporation_id": 98458923,
+  "alliance_id": null,
+  "corporation_name": "Dark Eyehole inc.",
+  "alliance_name": null
+}

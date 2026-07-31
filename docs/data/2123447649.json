@@ -1,0 +1,40 @@
+{
+  "character_id": 2123447649,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122545067,
+    "name": "Pekkae",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 2122545067,
+      "name": "Pekkae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93663885,
+      "name": "Skooma Moonsugar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122281764,
+      "name": "Fredy Bigfoots",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hikera Olmae Kalkoken",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

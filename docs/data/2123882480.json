@@ -1,0 +1,52 @@
+{
+  "character_id": 2123882480,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 111175275,
+    "name": "Sharhaner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114573069,
+      "name": "ICECRO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 803351063,
+      "name": "Elena701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 971304605,
+      "name": "Bletttt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HashMan88",
+  "corporation_id": 98664224,
+  "alliance_id": null,
+  "corporation_name": "TwistedBrain",
+  "alliance_name": null
+}

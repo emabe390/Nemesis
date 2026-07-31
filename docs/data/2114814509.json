@@ -1,0 +1,40 @@
+{
+  "character_id": 2114814509,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95059175,
+    "name": "Adrian Darlan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98634936,
+    "alliance_id": 1354830081,
+    "corporation_name": "Memento. Mori.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95059175,
+      "name": "Adrian Darlan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 543101799,
+      "name": "gallen2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123228070,
+      "name": "Neekee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hal Drake",
+  "corporation_id": 98518695,
+  "alliance_id": 1042504553,
+  "corporation_name": "OPSEC - Shadow Fighters",
+  "alliance_name": "Solyaris Chtonium"
+}

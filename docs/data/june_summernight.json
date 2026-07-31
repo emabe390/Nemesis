@@ -1,0 +1,52 @@
+{
+  "character_id": 2123775255,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 127181490,
+    "name": "Delanhunt",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118648533,
+      "name": "Soura Ichosira",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92736736,
+      "name": "Eiko Wolfwind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93255989,
+      "name": "SIdd Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93684815,
+      "name": "Stenten Brath",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "June Summernight",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

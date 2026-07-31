@@ -1,0 +1,52 @@
+{
+  "character_id": 2123698567,
+  "total_losses": 22,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 492042336,
+    "name": "Lefhamier",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 543393296,
+    "alliance_id": 99010421,
+    "corporation_name": "Angel of War",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 492042336,
+      "name": "Lefhamier",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 1075294210,
+      "name": "Character 1075294210",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113687204,
+      "name": "JunMing Li",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95015999,
+      "name": "ayu mai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tom Triglav",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

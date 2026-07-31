@@ -1,0 +1,52 @@
+{
+  "character_id": 2123348122,
+  "total_losses": 43,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 299762341,
+    "name": "Destropia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 299762341,
+      "name": "Destropia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 599208355,
+      "name": "Toolizm",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 168026118,
+      "name": "Dillion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1618058211,
+      "name": "Etuura Zellis",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kriz Wilzard",
+  "corporation_id": 98802034,
+  "alliance_id": 99012843,
+  "corporation_name": "Wilzard Industry",
+  "alliance_name": "Kenshin Shogunate."
+}

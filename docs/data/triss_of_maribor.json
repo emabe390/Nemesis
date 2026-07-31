@@ -1,0 +1,40 @@
+{
+  "character_id": 2115246565,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95283302,
+    "name": "kev kammer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98815625,
+    "alliance_id": 99011127,
+    "corporation_name": "Speaker for the Dead",
+    "alliance_name": "Stay Feral"
+  },
+  "top_killers": [
+    {
+      "id": 95283302,
+      "name": "kev kammer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113208290,
+      "name": "gentleprobe cyan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120894096,
+      "name": "Ash Torp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Triss of Maribor",
+  "corporation_id": 98601277,
+  "alliance_id": 99009163,
+  "corporation_name": "Fuente Vacio",
+  "alliance_name": "Dracarys."
+}

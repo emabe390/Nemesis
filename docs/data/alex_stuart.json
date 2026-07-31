@@ -1,0 +1,40 @@
+{
+  "character_id": 2114022162,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94165474,
+    "name": "Demoria Asques",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98807915,
+    "alliance_id": null,
+    "corporation_name": "Advanced Lifeform Imitating Earths Native Species",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94165474,
+      "name": "Demoria Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120106244,
+      "name": "Sylvana Salvager",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Stuart",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

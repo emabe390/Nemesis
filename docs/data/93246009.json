@@ -1,0 +1,52 @@
+{
+  "character_id": 93246009,
+  "total_losses": 47,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 91894516,
+    "name": "Vladimir Ba",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 605796230,
+    "alliance_id": null,
+    "corporation_name": "Another War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118645825,
+      "name": "2canova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121089744,
+      "name": "Sraven Shadow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Omen Aumerest",
+  "corporation_id": 840323545,
+  "alliance_id": 99011699,
+  "corporation_name": "The Forsakened Few",
+  "alliance_name": "We Forsakened Few"
+}

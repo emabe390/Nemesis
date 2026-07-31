@@ -1,0 +1,40 @@
+{
+  "character_id": 2121587957,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 677728662,
+    "name": "ORACOM",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 978732825,
+      "name": "Anara Rital",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1721591810,
+      "name": "Kingsley II",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "player 23",
+  "corporation_id": 98775438,
+  "alliance_id": null,
+  "corporation_name": "Dux Excavations Inc.",
+  "alliance_name": null
+}

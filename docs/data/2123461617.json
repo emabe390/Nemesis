@@ -1,0 +1,52 @@
+{
+  "character_id": 2123461617,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122822665,
+    "name": "Character 2122822665",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 937664582,
+    "alliance_id": 99011426,
+    "corporation_name": "Shadow Legion X",
+    "alliance_name": "Seriously Suspicious"
+  },
+  "top_killers": [
+    {
+      "id": 2122822665,
+      "name": "Character 2122822665",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 91760715,
+      "name": "Matthew Blackmoore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1156615136,
+      "name": "Death Killer21",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115046375,
+      "name": "Firebon Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toshiro Lazar",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

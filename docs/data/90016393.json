@@ -1,0 +1,52 @@
+{
+  "character_id": 90016393,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123677925,
+    "name": "Archros",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123677925,
+      "name": "Archros",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96853633,
+      "name": "IS116b19ffb9ca6c",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 94891058,
+      "name": "Kai Mirrabel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sunsworn",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

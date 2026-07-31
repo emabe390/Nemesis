@@ -1,0 +1,40 @@
+{
+  "character_id": 2123943150,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94525833,
+      "name": "Iris Poke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123260398,
+      "name": "KingorosBasedGod",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vieee",
+  "corporation_id": 98728404,
+  "alliance_id": 99005830,
+  "corporation_name": "CloroFormo",
+  "alliance_name": "Memento Moriendo"
+}

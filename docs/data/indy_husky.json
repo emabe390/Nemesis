@@ -1,0 +1,40 @@
+{
+  "character_id": 2113784189,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118176049,
+    "name": "Barreiro",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98077439,
+    "alliance_id": 99004901,
+    "corporation_name": "Lightning Squad",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2118176049,
+      "name": "Barreiro",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2118531355,
+      "name": "Character 2118531355",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119863515,
+      "name": "Chili Mixed Rice",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indy Husky",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

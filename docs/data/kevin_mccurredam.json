@@ -1,0 +1,40 @@
+{
+  "character_id": 95909107,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92355885,
+    "name": "Joey Majik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98530982,
+    "alliance_id": 99013551,
+    "corporation_name": "Solarmark",
+    "alliance_name": "Stellarium Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92355885,
+      "name": "Joey Majik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123650653,
+      "name": "Character 2123650653",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kevin McCurredam",
+  "corporation_id": 98412304,
+  "alliance_id": 99014238,
+  "corporation_name": "7 White Horses",
+  "alliance_name": "Unbound Horizons"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121502750,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90725487,
+    "name": "igorti",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802730,
+    "alliance_id": null,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90725487,
+      "name": "igorti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94925177,
+      "name": "Loki Cen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116542200,
+      "name": "Harvey Ster",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Proton Satori",
+  "corporation_id": 98751897,
+  "alliance_id": 99012575,
+  "corporation_name": "Lonetrek State Opportunities",
+  "alliance_name": "Care-Free Coalition"
+}

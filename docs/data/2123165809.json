@@ -1,0 +1,40 @@
+{
+  "character_id": 2123165809,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 128140932,
+    "name": "Karin Mirin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98524493,
+    "alliance_id": 99009206,
+    "corporation_name": "Szescienna-Geometria",
+    "alliance_name": "Cuboidus-Ultimatus"
+  },
+  "top_killers": [
+    {
+      "id": 128140932,
+      "name": "Karin Mirin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 582410316,
+      "name": "Tomalpl2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113595652,
+      "name": "Brodi PingPong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SkorpL Llanes",
+  "corporation_id": 98777713,
+  "alliance_id": null,
+  "corporation_name": "Miners Feed",
+  "alliance_name": null
+}

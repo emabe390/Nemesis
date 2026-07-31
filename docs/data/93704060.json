@@ -1,0 +1,52 @@
+{
+  "character_id": 93704060,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93529614,
+    "name": "Lacisum Utama",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98625930,
+    "alliance_id": 99008245,
+    "corporation_name": "Utama Incorporated",
+    "alliance_name": "Astral Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93529614,
+      "name": "Lacisum Utama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118655693,
+      "name": "MoonRock7900",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96337929,
+      "name": "Mikael Nolen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96395339,
+      "name": "Helios Axion Axistos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 719834366,
+      "name": "Narcotic XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sol Inco",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

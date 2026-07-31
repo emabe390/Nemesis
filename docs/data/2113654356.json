@@ -1,0 +1,52 @@
+{
+  "character_id": 2113654356,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1200958699,
+    "name": "Cyber Crow",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98690460,
+    "alliance_id": 99007262,
+    "corporation_name": "Transilvania Vampires",
+    "alliance_name": "Wrecktical Supremacy."
+  },
+  "top_killers": [
+    {
+      "id": 1200958699,
+      "name": "Cyber Crow",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1991432800,
+      "name": "extremedeath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 850753283,
+      "name": "Panselutza",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sorin Rillon",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

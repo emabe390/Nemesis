@@ -1,0 +1,40 @@
+{
+  "character_id": 2123112206,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96041000,
+    "name": "migy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98541160,
+    "alliance_id": 99015045,
+    "corporation_name": "Stain Corp.",
+    "alliance_name": "H O S T I L E"
+  },
+  "top_killers": [
+    {
+      "id": 96041000,
+      "name": "migy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94809006,
+      "name": "Jack Scat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122038309,
+      "name": "H3LLSCAPE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phosphor Bronze",
+  "corporation_id": 98796270,
+  "alliance_id": null,
+  "corporation_name": "Phosphoros Law",
+  "alliance_name": null
+}

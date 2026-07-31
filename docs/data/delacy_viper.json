@@ -1,0 +1,34 @@
+{
+  "character_id": 2112376050,
+  "total_losses": 7,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112091050,
+    "name": "Admiral Boris",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98809909,
+    "alliance_id": null,
+    "corporation_name": "Admiral Boris Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112091050,
+      "name": "Admiral Boris",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DeLacy Viper",
+  "corporation_id": 98809909,
+  "alliance_id": null,
+  "corporation_name": "Admiral Boris Corporation",
+  "alliance_name": null
+}

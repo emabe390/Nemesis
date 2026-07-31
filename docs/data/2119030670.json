@@ -1,0 +1,52 @@
+{
+  "character_id": 2119030670,
+  "total_losses": 25,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 703302510,
+      "name": "Surrender Piero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124070336,
+      "name": "Iko Gin Hakaari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94141136,
+      "name": "Denlo Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Greir Moor",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 93171609,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115984130,
+      "name": "91 mr fa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123647922,
+      "name": "Len Parmala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stan Killmer",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

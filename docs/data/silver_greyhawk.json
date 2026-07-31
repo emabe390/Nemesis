@@ -1,0 +1,46 @@
+{
+  "character_id": 2123461893,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1149811334,
+    "name": "Ouroborosg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98653604,
+    "alliance_id": 99010102,
+    "corporation_name": "The Blood Raiders Children's Charity",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 1149811334,
+      "name": "Ouroborosg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117653937,
+      "name": "Shin Kansinse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123661465,
+      "name": "Zowski",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silver Greyhawk",
+  "corporation_id": 98805150,
+  "alliance_id": null,
+  "corporation_name": "Eggerts Empire",
+  "alliance_name": null
+}

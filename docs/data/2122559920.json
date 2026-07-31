@@ -1,0 +1,52 @@
+{
+  "character_id": 2122559920,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1836922253,
+    "name": "Dark Follower",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1428108581,
+    "alliance_id": null,
+    "corporation_name": "Kantian Principle",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1836922253,
+      "name": "Dark Follower",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121093138,
+      "name": "Pulya St",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90614014,
+      "name": "Jack Times",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pavel Meser",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

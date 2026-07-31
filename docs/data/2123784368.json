@@ -1,0 +1,40 @@
+{
+  "character_id": 2123784368,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121694378,
+    "name": "Character 2121694378",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1685853583,
+      "name": "Cameron22",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Conradin",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

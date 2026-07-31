@@ -1,0 +1,52 @@
+{
+  "character_id": 2119923340,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93565869,
+      "name": "CyMrak Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1449961651,
+      "name": "J Funt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaivuumies",
+  "corporation_id": 98270640,
+  "alliance_id": 1354830081,
+  "corporation_name": "BOVRIL bOREers Mining CO-OP",
+  "alliance_name": "Goonswarm Federation"
+}

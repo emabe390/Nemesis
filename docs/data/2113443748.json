@@ -1,0 +1,40 @@
+{
+  "character_id": 2113443748,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90146672,
+    "name": "Khermes",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90146672,
+      "name": "Khermes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121813442,
+      "name": "S1rpentis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122851789,
+      "name": "AutAghC1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khermander",
+  "corporation_id": 98705678,
+  "alliance_id": 99012009,
+  "corporation_name": "Minmatar Fleet Logistics",
+  "alliance_name": "Minmatar Fleet Associates"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123203629,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123882978,
+    "name": "lteron",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98535868,
+    "alliance_id": 99014783,
+    "corporation_name": "ChuangShi",
+    "alliance_name": "Wings Freedom."
+  },
+  "top_killers": [
+    {
+      "id": 2123882978,
+      "name": "lteron",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 546701999,
+      "name": "Spyriadon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122704732,
+      "name": "RAWwuji",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CJR21",
+  "corporation_id": 98802363,
+  "alliance_id": null,
+  "corporation_name": "Eclipsing Dawn",
+  "alliance_name": null
+}

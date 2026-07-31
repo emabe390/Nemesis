@@ -1,0 +1,40 @@
+{
+  "character_id": 2123704412,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93081241,
+    "name": "Gorakhal the Relentless",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98315666,
+    "alliance_id": 1354830081,
+    "corporation_name": "The Night Watchmen",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93081241,
+      "name": "Gorakhal the Relentless",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94479778,
+      "name": "Ventorderan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115869888,
+      "name": "Moon Tomas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alba Iulia",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

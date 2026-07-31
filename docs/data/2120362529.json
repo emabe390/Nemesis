@@ -1,0 +1,40 @@
+{
+  "character_id": 2120362529,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97200379,
+    "name": "Han Cho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 781331374,
+      "name": "Robapin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120494869,
+      "name": "O'Rourke Kashada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "xanthose",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

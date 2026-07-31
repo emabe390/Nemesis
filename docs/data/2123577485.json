@@ -1,0 +1,40 @@
+{
+  "character_id": 2123577485,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96022136,
+    "name": "Free trial Aideron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98487359,
+    "alliance_id": 99011614,
+    "corporation_name": "Ronin ONE",
+    "alliance_name": "Ronin Reloaded"
+  },
+  "top_killers": [
+    {
+      "id": 96022136,
+      "name": "Free trial Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115958167,
+      "name": "Blaze Stasarik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118838746,
+      "name": "Ebie Bayard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pellena",
+  "corporation_id": 98633589,
+  "alliance_id": 99007203,
+  "corporation_name": "Ros Shovel Corporation",
+  "alliance_name": "Siberian Squads"
+}

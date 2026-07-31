@@ -1,0 +1,52 @@
+{
+  "character_id": 2123569608,
+  "total_losses": 23,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2114993571,
+    "name": "Thraxis Grey",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98838034,
+    "alliance_id": 99011978,
+    "corporation_name": "The Ministry Of Ungentlemanly Warfare inc.",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2114993571,
+      "name": "Thraxis Grey",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92221115,
+      "name": "Haldraim Naglerus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96866017,
+      "name": "Mighty Dorgeshuun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1550803871,
+      "name": "Transmission 116",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Fena Sharisa",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

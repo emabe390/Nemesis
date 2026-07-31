@@ -1,0 +1,52 @@
+{
+  "character_id": 2119282731,
+  "total_losses": 42,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 90215243,
+    "name": "Glavior",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 90215243,
+      "name": "Glavior",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 1021830239,
+      "name": "Roland 99",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2116815965,
+      "name": "Wigand Gunnarson",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2114405561,
+      "name": "Sigurd Rudr",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90267480,
+      "name": "Sadams",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kapau",
+  "corporation_id": 98785258,
+  "alliance_id": 99013831,
+  "corporation_name": "Redshift Horizon",
+  "alliance_name": "Sleeper Protocol"
+}

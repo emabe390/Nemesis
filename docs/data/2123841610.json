@@ -1,0 +1,40 @@
+{
+  "character_id": 2123841610,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94515428,
+    "name": "Black FIy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 94515428,
+      "name": "Black FIy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1727698026,
+      "name": "Kaeda Maxwell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114251835,
+      "name": "Argo Brutus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shepard Dex Mckay",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

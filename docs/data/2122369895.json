@@ -1,0 +1,52 @@
+{
+  "character_id": 2122369895,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 96090608,
+    "name": "0934 4789",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96090608,
+      "name": "0934 4789",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1540264760,
+      "name": "Kh'ahtun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114490490,
+      "name": "Stuart Archasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119510392,
+      "name": "Bayaz Yaztromo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94117575,
+      "name": "Johny Ganem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nolen Eolen",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

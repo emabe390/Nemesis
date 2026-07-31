@@ -1,0 +1,52 @@
+{
+  "character_id": 2123714375,
+  "total_losses": 66,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2122054135,
+    "name": "Z-33H3",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 475038305,
+      "name": "Mikasa",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 223726310,
+      "name": "Beld Ermon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1021830239,
+      "name": "Roland 99",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1366766598,
+      "name": "Mekirel",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Ephemeral Dream",
+  "corporation_id": 98696463,
+  "alliance_id": 99003581,
+  "corporation_name": "Light Spot Poacher",
+  "alliance_name": "Fraternity."
+}

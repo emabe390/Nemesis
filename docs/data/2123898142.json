@@ -1,0 +1,52 @@
+{
+  "character_id": 2123898142,
+  "total_losses": 23,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2118508773,
+    "name": "Solomon Purvanen",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98825616,
+    "alliance_id": 933731581,
+    "corporation_name": "Renegade Raccoons",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2118508773,
+      "name": "Solomon Purvanen",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 92009401,
+      "name": "Matthew O'Hearn",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93938269,
+      "name": "Matt Doe",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123390501,
+      "name": "John Greater",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96297704,
+      "name": "Frank Casstle",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kal'tsit 3322",
+  "corporation_id": 98824507,
+  "alliance_id": 99013541,
+  "corporation_name": "Fuxi Military Academy",
+  "alliance_name": "Fraternity Auxiliary"
+}

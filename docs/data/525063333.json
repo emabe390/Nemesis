@@ -1,0 +1,40 @@
+{
+  "character_id": 525063333,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2115133763,
+      "name": "Paul Steinor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arwaan",
+  "corporation_id": 98415039,
+  "alliance_id": null,
+  "corporation_name": "Serenity DYNKs",
+  "alliance_name": null
+}

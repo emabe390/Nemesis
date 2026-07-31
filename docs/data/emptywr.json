@@ -1,0 +1,52 @@
+{
+  "character_id": 2123182812,
+  "total_losses": 20,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 239783732,
+    "name": "Fedor E",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 495392624,
+    "alliance_id": 1900696668,
+    "corporation_name": "GeoCorp.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 239783732,
+      "name": "Fedor E",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91194792,
+      "name": "Baratoz Erata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121303334,
+      "name": "Darth Mcfly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122806268,
+      "name": "Aurore Bellic",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "EmptyWR",
+  "corporation_id": 98737921,
+  "alliance_id": 99011387,
+  "corporation_name": "WE ARE ZERGLINGS",
+  "alliance_name": "ZERG REBORN"
+}

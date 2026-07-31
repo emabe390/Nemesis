@@ -1,0 +1,40 @@
+{
+  "character_id": 2123832381,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 977054475,
+    "name": "Manfred Stahler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92769128,
+      "name": "Amaki Sternschlag",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tadamora Yamato",
+  "corporation_id": 98815353,
+  "alliance_id": null,
+  "corporation_name": "Tadamora Family",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123789563,
+  "total_losses": 89,
+  "unique_killers": 56,
+  "nemesis": {
+    "id": 1734126381,
+    "name": "Leckdock",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98091301,
+    "alliance_id": 99003581,
+    "corporation_name": "RomFleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 93895347,
+      "name": "Kamehameha Keikira",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122624863,
+      "name": "Plague Rider",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91765971,
+      "name": "Rion Visik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93153594,
+      "name": "Fallas Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Takara Eizou",
+  "corporation_id": 98826088,
+  "alliance_id": 99008751,
+  "corporation_name": "We are Beltalowda",
+  "alliance_name": "MARABUNTA"
+}

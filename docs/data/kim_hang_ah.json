@@ -1,0 +1,40 @@
+{
+  "character_id": 2123369588,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118798113,
+    "name": "SuperProwler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98708076,
+    "alliance_id": null,
+    "corporation_name": "CONTROL.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 526031522,
+      "name": "Ra1n Forest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1412975374,
+      "name": "killer 1951",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kim Hang-ah",
+  "corporation_id": 497926671,
+  "alliance_id": 1900696668,
+  "corporation_name": "Unleashed' Fury",
+  "alliance_name": "The Initiative."
+}

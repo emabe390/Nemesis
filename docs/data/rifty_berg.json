@@ -1,0 +1,40 @@
+{
+  "character_id": 2124101234,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 820120980,
+    "name": "Superinmita",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98110767,
+    "alliance_id": 1042504553,
+    "corporation_name": "Lisnave",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 820120980,
+      "name": "Superinmita",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116601950,
+      "name": "James Beratna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rifty Berg",
+  "corporation_id": 98749510,
+  "alliance_id": null,
+  "corporation_name": "Embellishment",
+  "alliance_name": null
+}

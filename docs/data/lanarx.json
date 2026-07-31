@@ -1,0 +1,52 @@
+{
+  "character_id": 2123003643,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 148351537,
+    "name": "Javanabal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 148351537,
+      "name": "Javanabal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118404812,
+      "name": "Baldry Hogex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121160178,
+      "name": "Brendan Ranthor",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lanarx",
+  "corporation_id": 98681379,
+  "alliance_id": null,
+  "corporation_name": "Nodus Empire",
+  "alliance_name": null
+}

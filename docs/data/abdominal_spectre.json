@@ -1,0 +1,52 @@
+{
+  "character_id": 2123434847,
+  "total_losses": 51,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 2123149100,
+    "name": "Aviai Auho Akachi",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123149100,
+      "name": "Aviai Auho Akachi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 895249801,
+      "name": "Zeconian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118673716,
+      "name": "Tionfig Tiomping",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119734907,
+      "name": "sPACE JERALD",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Abdominal Spectre",
+  "corporation_id": 98812037,
+  "alliance_id": 99009163,
+  "corporation_name": "Steel Legion Brotherhood",
+  "alliance_name": "Dracarys."
+}

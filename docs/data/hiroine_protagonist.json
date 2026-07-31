@@ -1,0 +1,52 @@
+{
+  "character_id": 2124465248,
+  "total_losses": 86,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 2121687828,
+    "name": "Altai Fritz",
+    "kill_count": 29,
+    "final_blows": 29,
+    "corporation_id": 98658625,
+    "alliance_id": 99011957,
+    "corporation_name": "Goosefleet",
+    "alliance_name": "Gooseflock Featheration"
+  },
+  "top_killers": [
+    {
+      "id": 2121687828,
+      "name": "Altai Fritz",
+      "kill_count": 29,
+      "final_blows": 29
+    },
+    {
+      "id": 2124458558,
+      "name": "Melonie Halliarre",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93164360,
+      "name": "Lucan Aakiwa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hiroine Protagonist",
+  "corporation_id": 98658625,
+  "alliance_id": 99011957,
+  "corporation_name": "Goosefleet",
+  "alliance_name": "Gooseflock Featheration"
+}

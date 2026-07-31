@@ -1,0 +1,40 @@
+{
+  "character_id": 2123744587,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117010482,
+    "name": "Odbayar1",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98748702,
+    "alliance_id": null,
+    "corporation_name": "Soylent Green Industrial Conglomerate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117010482,
+      "name": "Odbayar1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123698037,
+      "name": "Zarunda Imi Vardasor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123717497,
+      "name": "Plotarus van Sohmar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dravira Oksaras",
+  "corporation_id": 98692599,
+  "alliance_id": null,
+  "corporation_name": "ARNA Industries",
+  "alliance_name": null
+}

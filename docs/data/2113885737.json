@@ -1,0 +1,40 @@
+{
+  "character_id": 2113885737,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 820474900,
+    "name": "Vantera",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98801782,
+    "alliance_id": null,
+    "corporation_name": "Quantum Quay",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 820474900,
+      "name": "Vantera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118787659,
+      "name": "Patit Renard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122854100,
+      "name": "Rocket 3419",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veltorn Afterthought",
+  "corporation_id": 98808576,
+  "alliance_id": 99003568,
+  "corporation_name": "Vaguely Interesting",
+  "alliance_name": "Order of Allied Knights"
+}

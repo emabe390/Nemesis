@@ -1,0 +1,40 @@
+{
+  "character_id": 96124544,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116399087,
+    "name": "HailWind Bloodlines",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98647659,
+    "alliance_id": 99011978,
+    "corporation_name": "Soltech Armada",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2116399087,
+      "name": "HailWind Bloodlines",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 746672996,
+      "name": "TigreTek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1782961258,
+      "name": "Sol Na'gilsvul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Risiker",
+  "corporation_id": 98647659,
+  "alliance_id": 99011978,
+  "corporation_name": "Soltech Armada",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

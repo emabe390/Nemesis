@@ -1,0 +1,52 @@
+{
+  "character_id": 2123535945,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1002536352,
+    "name": "Tekkaa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1268333930,
+    "alliance_id": 99005178,
+    "corporation_name": "QuantumTech Industries",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 1002536352,
+      "name": "Tekkaa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122351738,
+      "name": "Angel Takenoko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123633675,
+      "name": "Jeans Fetish",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93754192,
+      "name": "Anostraca Arareb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94716868,
+      "name": "Alefir Ulfhiemon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Di Foxi",
+  "corporation_id": 98821446,
+  "alliance_id": null,
+  "corporation_name": "Workaholics With Wrenches",
+  "alliance_name": null
+}

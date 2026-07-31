@@ -1,0 +1,52 @@
+{
+  "character_id": 2123569493,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122924546,
+    "name": "tagknife",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122924546,
+      "name": "tagknife",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1766137286,
+      "name": "Not Your",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118317380,
+      "name": "Arato Kion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1238517769,
+      "name": "Ncc 1709",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121851289,
+      "name": "fullmetallnoob",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "citizen712",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

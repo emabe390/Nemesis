@@ -1,0 +1,40 @@
+{
+  "character_id": 2112520100,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 416127123,
+    "name": "Character 416127123",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98571973,
+    "alliance_id": null,
+    "corporation_name": "One Men Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 416127123,
+      "name": "Character 416127123",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1464644391,
+      "name": "Vico Hur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114239704,
+      "name": "Alexx Rave",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marvin Gaye",
+  "corporation_id": 98672190,
+  "alliance_id": 99005601,
+  "corporation_name": "Air Terrific Control",
+  "alliance_name": "Rainbow Knights"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2122571354,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 528258379,
+    "name": "Vogels",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98395918,
+    "alliance_id": 99000852,
+    "corporation_name": "Sudden Death.",
+    "alliance_name": "Exodus."
+  },
+  "top_killers": [
+    {
+      "id": 528258379,
+      "name": "Vogels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zeron Solios",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

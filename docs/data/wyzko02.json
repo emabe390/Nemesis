@@ -1,0 +1,52 @@
+{
+  "character_id": 2123915517,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123915359,
+    "name": "wyzko01",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123915359,
+      "name": "wyzko01",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123915517,
+      "name": "wyzko02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1163603067,
+      "name": "Synthetic Rhythm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1700284711,
+      "name": "Seabronc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113751404,
+      "name": "LAdaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "wyzko02",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

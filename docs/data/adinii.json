@@ -1,0 +1,52 @@
+{
+  "character_id": 2123224734,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94210174,
+      "name": "MIhail Varnaev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95411402,
+      "name": "GoYoung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2078987361,
+      "name": "5kyscreamx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120291845,
+      "name": "Onvag",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adinii",
+  "corporation_id": 98681394,
+  "alliance_id": 99003214,
+  "corporation_name": "Council of Exiles",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123092665,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90365096,
+    "name": "Alecsa Milano",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98690953,
+    "alliance_id": 99007629,
+    "corporation_name": "Old Nags",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 90365096,
+      "name": "Alecsa Milano",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94685871,
+      "name": "Character 94685871",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123465248,
+      "name": "RanKoh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CCRFT Worker",
+  "corporation_id": 98794181,
+  "alliance_id": 99011248,
+  "corporation_name": "Custom Craft",
+  "alliance_name": "Big Green Fly"
+}

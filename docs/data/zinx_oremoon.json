@@ -1,0 +1,40 @@
+{
+  "character_id": 2124045648,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118129368,
+    "name": "Branchy",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98548155,
+    "alliance_id": 99012843,
+    "corporation_name": "Black Scorpion Industries",
+    "alliance_name": "Kenshin Shogunate."
+  },
+  "top_killers": [
+    {
+      "id": 2118129368,
+      "name": "Branchy",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 211150393,
+      "name": "Rawstyle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113313610,
+      "name": "Valerie June",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zinx Oremoon",
+  "corporation_id": 98830385,
+  "alliance_id": 99014221,
+  "corporation_name": "False Logistic Services",
+  "alliance_name": "Weapons of Mass Logistics"
+}

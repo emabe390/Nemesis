@@ -1,0 +1,52 @@
+{
+  "character_id": 2123686698,
+  "total_losses": 16,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123309132,
+    "name": "Sax Berro",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98756765,
+    "alliance_id": 99003581,
+    "corporation_name": "Star.Men",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123309132,
+      "name": "Sax Berro",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 798502576,
+      "name": "HypnotiX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93413844,
+      "name": "Tyson Aardvark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114102735,
+      "name": "Michael Owenn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122554275,
+      "name": "darkpower01",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "La Berra",
+  "corporation_id": 98756765,
+  "alliance_id": 99003581,
+  "corporation_name": "Star.Men",
+  "alliance_name": "Fraternity."
+}

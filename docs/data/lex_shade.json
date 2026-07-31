@@ -1,0 +1,46 @@
+{
+  "character_id": 2123452664,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119206846,
+    "name": "Dainslief",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119206846,
+      "name": "Dainslief",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90286544,
+      "name": "Archangel's Echo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113161996,
+      "name": "LouisXdw WWW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114562591,
+      "name": "Hold Seven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lex Shade",
+  "corporation_id": 98786768,
+  "alliance_id": null,
+  "corporation_name": "GoldenGate Corp",
+  "alliance_name": null
+}

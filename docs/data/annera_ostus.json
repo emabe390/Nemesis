@@ -1,0 +1,40 @@
+{
+  "character_id": 2123834944,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116049569,
+    "name": "Alistair Kruger",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2116049569,
+      "name": "Alistair Kruger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117171809,
+      "name": "Silvinho Estranho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121469994,
+      "name": "SazaCantabile",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Annera Ostus",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

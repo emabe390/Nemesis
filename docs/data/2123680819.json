@@ -1,0 +1,52 @@
+{
+  "character_id": 2123680819,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123647344,
+    "name": "Sgaeyl Coltarain",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98813111,
+    "alliance_id": null,
+    "corporation_name": "Wiskards",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123647344,
+      "name": "Sgaeyl Coltarain",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113461657,
+      "name": "Alexander Bearson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113054935,
+      "name": "Sokrat Inquis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123680819",
+  "corporation_id": 98444440,
+  "alliance_id": 99015024,
+  "corporation_name": "Fly Sideways",
+  "alliance_name": "Low Class"
+}

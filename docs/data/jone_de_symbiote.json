@@ -1,0 +1,40 @@
+{
+  "character_id": 2124216812,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92470684,
+    "name": "Bega Hadah",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98145424,
+    "alliance_id": null,
+    "corporation_name": "2 Guys 1 Badger",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92470684,
+      "name": "Bega Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1600033563,
+      "name": "Cadel Mars",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jone de Symbiote",
+  "corporation_id": 98829055,
+  "alliance_id": null,
+  "corporation_name": "Symbiote Hive Systems",
+  "alliance_name": null
+}

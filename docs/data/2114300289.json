@@ -1,0 +1,40 @@
+{
+  "character_id": 2114300289,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116492521,
+    "name": "Nuri Valar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2116492521,
+      "name": "Nuri Valar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 282415299,
+      "name": "OttoVonKatz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116544127,
+      "name": "Athena Valar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ventra Valar",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

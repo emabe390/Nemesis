@@ -1,0 +1,52 @@
+{
+  "character_id": 2124167731,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124167741,
+    "name": "LB004",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98645589,
+    "alliance_id": 99009163,
+    "corporation_name": "Faceless.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2124167741,
+      "name": "LB004",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124167723,
+      "name": "LB002",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2121632876,
+      "name": "KOH403",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123374083,
+      "name": "Yilinsensei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124025096,
+      "name": "LB001",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LB003",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

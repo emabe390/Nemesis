@@ -1,0 +1,40 @@
+{
+  "character_id": 2124099158,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115798866,
+    "name": "BtsBma",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98788243,
+    "alliance_id": 99015041,
+    "corporation_name": "Hull Miners inc",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113294063,
+      "name": "Av3nger Maricadie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121013122,
+      "name": "Teramar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Girthy McBirthy",
+  "corporation_id": 98734699,
+  "alliance_id": null,
+  "corporation_name": "Heveb137-Ind Corporation",
+  "alliance_name": null
+}

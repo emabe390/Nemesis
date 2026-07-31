@@ -1,0 +1,52 @@
+{
+  "character_id": 2123696424,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123586584,
+    "name": "824 Anastasia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98701240,
+    "alliance_id": null,
+    "corporation_name": "000' Bandits Ophiuchi",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90943415,
+      "name": "t8xxic Thiesant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94331100,
+      "name": "Gwenevick Kenyon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115276122,
+      "name": "T'ral Vsengne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amila Carter",
+  "corporation_id": 98656140,
+  "alliance_id": 99011281,
+  "corporation_name": "Caldari Fire Demons University",
+  "alliance_name": "Naval Defence Institute"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123879746,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112948529,
+    "name": "Carlos Warren",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98499432,
+    "alliance_id": 99011953,
+    "corporation_name": "The Sound Of Thunder",
+    "alliance_name": "The Sound Of Thunder Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2112948529,
+      "name": "Carlos Warren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97212746,
+      "name": "Sety A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124138270,
+      "name": "Rigged All Along",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lilian Lyolevan",
+  "corporation_id": 98631594,
+  "alliance_id": 99009845,
+  "corporation_name": "Sons of Seyllin",
+  "alliance_name": "Sedition."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123939472,
+  "total_losses": 20,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123995028,
+    "name": "Arsh Tein",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98820028,
+    "alliance_id": null,
+    "corporation_name": "Ashlars Services Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123995028,
+      "name": "Arsh Tein",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 96925300,
+      "name": "Antony Sinner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 208472006,
+      "name": "Xlost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1229175010,
+      "name": "Bletday2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119142332,
+      "name": "RuGret",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Manatos",
+  "corporation_id": 98820028,
+  "alliance_id": null,
+  "corporation_name": "Ashlars Services Corporation",
+  "alliance_name": null
+}

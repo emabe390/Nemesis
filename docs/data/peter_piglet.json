@@ -1,0 +1,52 @@
+{
+  "character_id": 2124509285,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123112890,
+    "name": "Corran Vosk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630716,
+    "alliance_id": 99009830,
+    "corporation_name": "Volantean Nation",
+    "alliance_name": "Lan'Tean Imperium"
+  },
+  "top_killers": [
+    {
+      "id": 2123112890,
+      "name": "Corran Vosk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91825213,
+      "name": "moren frost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117782101,
+      "name": "Shurik13",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121305264,
+      "name": "Arthur2009",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Peter Piglet",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

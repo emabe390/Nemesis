@@ -1,0 +1,52 @@
+{
+  "character_id": 2124173657,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1205752527,
+      "name": "Almagar Phog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124112764,
+      "name": "Dax Morro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117801502,
+      "name": "Ghost-Strife",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123426887,
+      "name": "Kugelschieber",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suco Vega",
+  "corporation_id": 98827491,
+  "alliance_id": null,
+  "corporation_name": "Linux SecOps Collective",
+  "alliance_name": null
+}

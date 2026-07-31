@@ -1,0 +1,40 @@
+{
+  "character_id": 2123382626,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2002995698,
+    "name": "Archaic Blade",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98498664,
+    "alliance_id": 99012982,
+    "corporation_name": "Straylight Systems",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 2002995698,
+      "name": "Archaic Blade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118378803,
+      "name": "Void1245",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122937234,
+      "name": "Frost Bear",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DrCrusher",
+  "corporation_id": 98747287,
+  "alliance_id": 99014611,
+  "corporation_name": "Doctors Orders",
+  "alliance_name": "Red Orchestra Triangle Enthusiasts"
+}

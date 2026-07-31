@@ -1,0 +1,40 @@
+{
+  "character_id": 2121958988,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2113591782,
+      "name": "Sobeit Erata",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113797163,
+      "name": "Cassius Callistus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yogas Pokka Oksaras",
+  "corporation_id": 98600350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Watch Eagle",
+  "alliance_name": "Goonswarm Federation"
+}

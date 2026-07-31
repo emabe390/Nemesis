@@ -1,0 +1,40 @@
+{
+  "character_id": 2122570627,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1683212692,
+    "name": "Blaster Worm",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98421067,
+    "alliance_id": 99012042,
+    "corporation_name": "Xanthidae Auditorium",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 1683212692,
+      "name": "Blaster Worm",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1588674118,
+      "name": "Harnost",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Steven Anita Smith",
+  "corporation_id": 98760194,
+  "alliance_id": 99012009,
+  "corporation_name": "Store Brand Alphabet Soup",
+  "alliance_name": "Minmatar Fleet Associates"
+}

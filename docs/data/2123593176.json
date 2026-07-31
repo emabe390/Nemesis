@@ -1,0 +1,52 @@
+{
+  "character_id": 2123593176,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95058094,
+    "name": "Jacques Seingallt",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000437,
+    "alliance_id": null,
+    "corporation_name": "Commando Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95058094,
+      "name": "Jacques Seingallt",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94452796,
+      "name": "Eimantas Triber",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119220103,
+      "name": "Gesichtsgarten",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121303334,
+      "name": "Darth Mcfly",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Minukami",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

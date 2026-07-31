@@ -1,0 +1,52 @@
+{
+  "character_id": 2114973555,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 90391771,
+    "name": "Frank Bean",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90391771,
+      "name": "Frank Bean",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120480685,
+      "name": "Artur Hawking",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94502741,
+      "name": "Mongo the Mechanic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95283302,
+      "name": "kev kammer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95973782,
+      "name": "Ajunta Semah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Redrin",
+  "corporation_id": 828800677,
+  "alliance_id": 386292982,
+  "corporation_name": "Sniggerdly",
+  "alliance_name": "Pandemic Legion"
+}

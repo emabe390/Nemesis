@@ -1,0 +1,52 @@
+{
+  "character_id": 2123863761,
+  "total_losses": 23,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 94706456,
+      "name": "serpent power",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96035709,
+      "name": "Henning fon Holzendorf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96246748,
+      "name": "Tiger space Thedark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93494558,
+      "name": "Inei Dark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BYD B02",
+  "corporation_id": 98814023,
+  "alliance_id": 99014284,
+  "corporation_name": "Imperrors Children",
+  "alliance_name": "7.62"
+}

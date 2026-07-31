@@ -1,0 +1,52 @@
+{
+  "character_id": 2122311322,
+  "total_losses": 24,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 94085313,
+    "name": "Bryan Tinker",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1081304772,
+    "alliance_id": 99014375,
+    "corporation_name": "Deep Axion",
+    "alliance_name": "The Frog Boiler"
+  },
+  "top_killers": [
+    {
+      "id": 94085313,
+      "name": "Bryan Tinker",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1930785991,
+      "name": "Viritas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92761737,
+      "name": "Belneth Kalaidras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92904498,
+      "name": "Ben Thara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95204778,
+      "name": "Turil Pyrope",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Torfin Stark",
+  "corporation_id": 98798083,
+  "alliance_id": 99009163,
+  "corporation_name": "High Orbit Operations",
+  "alliance_name": "Dracarys."
+}

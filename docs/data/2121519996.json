@@ -1,0 +1,34 @@
+{
+  "character_id": 2121519996,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114891378,
+    "name": "Doom's Harbinger",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98614319,
+    "alliance_id": 99014735,
+    "corporation_name": "Sunlight Corsairs",
+    "alliance_name": "Psyno Theory"
+  },
+  "top_killers": [
+    {
+      "id": 2114891378,
+      "name": "Doom's Harbinger",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114115567,
+      "name": "Fryon Aivo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aetora Opper",
+  "corporation_id": 98756606,
+  "alliance_id": null,
+  "corporation_name": "Chester's faygo",
+  "alliance_name": null
+}

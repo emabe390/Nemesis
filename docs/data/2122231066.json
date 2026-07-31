@@ -1,0 +1,52 @@
+{
+  "character_id": 2122231066,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2116924477,
+    "name": "Johny Clash",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98606368,
+    "alliance_id": 99011559,
+    "corporation_name": "Affinity MATRiX Network",
+    "alliance_name": "Universal Workers Union"
+  },
+  "top_killers": [
+    {
+      "id": 2116924477,
+      "name": "Johny Clash",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93156751,
+      "name": "Zajic Zajicova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 151283822,
+      "name": "Robert Griffen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 405604052,
+      "name": "Hakheane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 698393108,
+      "name": "Pretoko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Douglas McGrath",
+  "corporation_id": 98525766,
+  "alliance_id": 99011223,
+  "corporation_name": "Vanguardia DR",
+  "alliance_name": "Sigma Grindset"
+}

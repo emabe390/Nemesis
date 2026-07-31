@@ -1,0 +1,52 @@
+{
+  "character_id": 2121094142,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 223316996,
+      "name": "mandravela",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1593200549,
+      "name": "Tinker Rage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116196931,
+      "name": "Ancelia Burnhard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123531343,
+      "name": "DreamLove",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TsalriothCap",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

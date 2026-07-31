@@ -1,0 +1,46 @@
+{
+  "character_id": 2123499811,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112307895,
+    "name": "George Painter",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98555281,
+    "alliance_id": 1354830081,
+    "corporation_name": "Painter Freight Services",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112307895,
+      "name": "George Painter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114097675,
+      "name": "Josiah Kusion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118984954,
+      "name": "Nado 9 Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122532694,
+      "name": "Interpolz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baller Tinchen",
+  "corporation_id": 98775860,
+  "alliance_id": 99014081,
+  "corporation_name": "Marauders Logistic",
+  "alliance_name": "Synergy of Support"
+}

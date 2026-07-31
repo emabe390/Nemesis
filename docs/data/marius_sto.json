@@ -1,0 +1,40 @@
+{
+  "character_id": 2123730597,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95283302,
+    "name": "kev kammer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98815625,
+    "alliance_id": 99011127,
+    "corporation_name": "Speaker for the Dead",
+    "alliance_name": "Stay Feral"
+  },
+  "top_killers": [
+    {
+      "id": 95283302,
+      "name": "kev kammer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116989532,
+      "name": "Hauke Ichaim Hibra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marius Sto",
+  "corporation_id": 98683163,
+  "alliance_id": 99011223,
+  "corporation_name": "Arial Enterprise",
+  "alliance_name": "Sigma Grindset"
+}

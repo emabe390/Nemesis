@@ -1,0 +1,46 @@
+{
+  "character_id": 1123779093,
+  "total_losses": 23,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 777953923,
+    "name": "Tad Lynch",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 98823866,
+    "alliance_id": 99014467,
+    "corporation_name": "Tryggr Mining Independentents",
+    "alliance_name": "Empire's Edge Trading Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 777953923,
+      "name": "Tad Lynch",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122496512,
+      "name": "POLICEMAN THREE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123375427,
+      "name": "Sha11tear Bloodfallen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cally Lynch",
+  "corporation_id": 98823866,
+  "alliance_id": 99014467,
+  "corporation_name": "Tryggr Mining Independentents",
+  "alliance_name": "Empire's Edge Trading Cartel"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123767581,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1267890505,
+    "name": "Liyanna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1267890505,
+      "name": "Liyanna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1475312152,
+      "name": "Zorg Emperor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 221976796,
+      "name": "BlackDeath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117690284,
+      "name": "Taratal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tattersail Reborn",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

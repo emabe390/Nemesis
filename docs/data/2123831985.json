@@ -1,0 +1,52 @@
+{
+  "character_id": 2123831985,
+  "total_losses": 30,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96925300,
+      "name": "Antony Sinner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sullivan Steel",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

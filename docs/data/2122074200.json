@@ -1,0 +1,40 @@
+{
+  "character_id": 2122074200,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121374550,
+    "name": "Niwashi King",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766884,
+    "alliance_id": 99013251,
+    "corporation_name": "Bluestar Knights",
+    "alliance_name": "Circle of Vheroka"
+  },
+  "top_killers": [
+    {
+      "id": 2121374550,
+      "name": "Niwashi King",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92871474,
+      "name": "Aenox TK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95390904,
+      "name": "Mist Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veldman Beta",
+  "corporation_id": 98800321,
+  "alliance_id": 99011239,
+  "corporation_name": "The Newb Federation",
+  "alliance_name": "Ligma Grindset"
+}

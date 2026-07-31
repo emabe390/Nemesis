@@ -1,0 +1,34 @@
+{
+  "character_id": 2123937793,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 814370720,
+    "name": "Phase Three",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771388,
+    "alliance_id": 555959926,
+    "corporation_name": "Tactical Grace.",
+    "alliance_name": "Vanguard."
+  },
+  "top_killers": [
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 322123027,
+      "name": "Makatozi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grelle Minas",
+  "corporation_id": 98566334,
+  "alliance_id": null,
+  "corporation_name": "Fire Stunner's Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119863187,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116654157,
+      "name": "Cannibal Khan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NotaOrca",
+  "corporation_id": 98710167,
+  "alliance_id": null,
+  "corporation_name": "Not a Blob",
+  "alliance_name": null
+}

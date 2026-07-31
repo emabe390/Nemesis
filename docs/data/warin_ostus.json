@@ -1,0 +1,40 @@
+{
+  "character_id": 2121589058,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93348464,
+    "name": "Tariy Makanen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98570535,
+    "alliance_id": 99010457,
+    "corporation_name": "NanoNerf Inc.",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93348464,
+      "name": "Tariy Makanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114832159,
+      "name": "Bardcode Antollare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119166796,
+      "name": "Dark Evan Swan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Warin Ostus",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

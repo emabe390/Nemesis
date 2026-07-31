@@ -1,0 +1,52 @@
+{
+  "character_id": 96421860,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 509463475,
+    "name": "Caravan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98555959,
+    "alliance_id": 99005393,
+    "corporation_name": "TOCAIA",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 509463475,
+      "name": "Caravan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1502160986,
+      "name": "Nenharma Hayabuza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118263336,
+      "name": "Oroon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90464927,
+      "name": "Jarasta Farai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90636062,
+      "name": "Neron Drichev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tibarius",
+  "corporation_id": 98587423,
+  "alliance_id": null,
+  "corporation_name": "Tiberian Shadow",
+  "alliance_name": null
+}

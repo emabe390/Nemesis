@@ -1,0 +1,40 @@
+{
+  "character_id": 368120522,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90754911,
+    "name": "Shane Rockwell",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90754911,
+      "name": "Shane Rockwell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95826761,
+      "name": "Character 95826761",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "M1n1Tach",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

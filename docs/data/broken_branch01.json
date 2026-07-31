@@ -1,0 +1,40 @@
+{
+  "character_id": 2121389379,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91728587,
+    "name": "Chapalaha",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98107624,
+    "alliance_id": null,
+    "corporation_name": "Real Enemy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91728587,
+      "name": "Chapalaha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95768685,
+      "name": "Vantage Industry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120507714,
+      "name": "I say patata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "broken-branch01",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

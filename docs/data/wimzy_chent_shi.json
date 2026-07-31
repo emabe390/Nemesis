@@ -1,0 +1,40 @@
+{
+  "character_id": 93774499,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93074710,
+    "name": "Victoria Lannister",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98587919,
+    "alliance_id": null,
+    "corporation_name": "Friends with the Benedicts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93074710,
+      "name": "Victoria Lannister",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120380447,
+      "name": "Koda Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120840885,
+      "name": "GoodBread",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wimzy Chent-Shi",
+  "corporation_id": 98530802,
+  "alliance_id": 99003581,
+  "corporation_name": "Glory Navy",
+  "alliance_name": "Fraternity."
+}

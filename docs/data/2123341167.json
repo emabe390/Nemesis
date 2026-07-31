@@ -1,0 +1,52 @@
+{
+  "character_id": 2123341167,
+  "total_losses": 282,
+  "unique_killers": 246,
+  "nemesis": {
+    "id": 202625575,
+    "name": "Wesley Baird",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 202625575,
+      "name": "Wesley Baird",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119742927,
+      "name": "Character 2119742927",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90114202,
+      "name": "Lady Ati",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90592224,
+      "name": "Ivan Guy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92972839,
+      "name": "Jessica Pather",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "lt HawkEye",
+  "corporation_id": 98628015,
+  "alliance_id": 99003581,
+  "corporation_name": "Hollow United Garuda",
+  "alliance_name": "Fraternity."
+}

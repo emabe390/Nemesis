@@ -1,0 +1,40 @@
+{
+  "character_id": 2121813466,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119703664,
+    "name": "Arato Kado",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98827905,
+    "alliance_id": null,
+    "corporation_name": "Tri-Clade Dominion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119703664,
+      "name": "Arato Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121193847,
+      "name": "Arishi Kautsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121546652,
+      "name": "Epic Trees",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "spacemanX",
+  "corporation_id": 98770416,
+  "alliance_id": 99009698,
+  "corporation_name": "F1 Academy",
+  "alliance_name": "Worst Alliance Ever"
+}

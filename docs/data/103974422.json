@@ -1,0 +1,52 @@
+{
+  "character_id": 103974422,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1902851063,
+    "name": "Miesmaccher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98373387,
+    "alliance_id": null,
+    "corporation_name": "Daily Terror",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1902851063,
+      "name": "Miesmaccher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122604145,
+      "name": "Urahekken Otomeya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90961916,
+      "name": "Aries Stargazer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 103974422,
+      "name": "Namarrilla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Namarrilla",
+  "corporation_id": 98813151,
+  "alliance_id": 99014402,
+  "corporation_name": "Industry Manifest",
+  "alliance_name": "Plenitude Alliance"
+}

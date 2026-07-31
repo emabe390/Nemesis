@@ -1,0 +1,52 @@
+{
+  "character_id": 2114634763,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 842126237,
+    "name": "Eliane Mckenzie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1101208023,
+    "alliance_id": null,
+    "corporation_name": "Black Skull Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 842126237,
+      "name": "Eliane Mckenzie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94104396,
+      "name": "Alex Doverhill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcus Aurelior",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

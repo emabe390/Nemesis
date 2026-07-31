@@ -1,0 +1,52 @@
+{
+  "character_id": 2123395503,
+  "total_losses": 27,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96628834,
+      "name": "Gentle Vigilante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96706197,
+      "name": "Anita Mantalay",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1360171353,
+      "name": "Reko Eyswulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116744398,
+      "name": "Kassi Othelia",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Thunderstill",
+  "corporation_id": 98595253,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order II",
+  "alliance_name": "Absolute Honor"
+}

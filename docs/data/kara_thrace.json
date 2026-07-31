@@ -1,0 +1,52 @@
+{
+  "character_id": 2119179066,
+  "total_losses": 25,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 355274556,
+    "name": "TheUnknown",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1025146968,
+    "alliance_id": null,
+    "corporation_name": "Trauma Ward",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 355274556,
+      "name": "TheUnknown",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97076271,
+      "name": "Aiden Malcolm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97187230,
+      "name": "Razeleao",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116354915,
+      "name": "Rostar Aya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119023115,
+      "name": "Schadsquatch",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kara-Thrace",
+  "corporation_id": 98612312,
+  "alliance_id": 99009129,
+  "corporation_name": "Not In Local.",
+  "alliance_name": "No Visual."
+}

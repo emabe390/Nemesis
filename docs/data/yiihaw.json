@@ -1,0 +1,52 @@
+{
+  "character_id": 2123511464,
+  "total_losses": 82,
+  "unique_killers": 63,
+  "nemesis": {
+    "id": 2118902627,
+    "name": "Kvant K",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118902627,
+      "name": "Kvant K",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113115476,
+      "name": "Hultaji Gogiko",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114342174,
+      "name": "Nado Tsutola",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yiihaw",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

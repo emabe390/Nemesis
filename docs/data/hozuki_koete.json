@@ -1,0 +1,52 @@
+{
+  "character_id": 2123886317,
+  "total_losses": 56,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 2122217330,
+    "name": "Jane AM Christie",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122217330,
+      "name": "Jane AM Christie",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96026176,
+      "name": "Rondogg Deez",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "hozuki koete",
+  "corporation_id": 98713511,
+  "alliance_id": 99012697,
+  "corporation_name": "nihonium 113th Fleet",
+  "alliance_name": "High Elements Alliance"
+}

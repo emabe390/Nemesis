@@ -1,0 +1,52 @@
+{
+  "character_id": 2123375085,
+  "total_losses": 10,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94479685,
+      "name": "Alisson Red-White",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147842707,
+      "name": "Mars Volta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 355772323,
+      "name": "Ghalantor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 923036394,
+      "name": "Giacomo Carissimi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "lq2",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

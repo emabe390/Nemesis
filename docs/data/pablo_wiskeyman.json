@@ -1,0 +1,40 @@
+{
+  "character_id": 2124386535,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114263495,
+    "name": "Gosha Pavlov",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 369264884,
+    "alliance_id": 99011095,
+    "corporation_name": "Anarchist Dawn",
+    "alliance_name": "U N K N O W N"
+  },
+  "top_killers": [
+    {
+      "id": 2114263495,
+      "name": "Gosha Pavlov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114810723,
+      "name": "Cate Avenger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116201497,
+      "name": "Skywalker H",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pablo Wiskeyman",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

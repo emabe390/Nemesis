@@ -1,0 +1,52 @@
+{
+  "character_id": 2113662123,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123821615,
+    "name": "Iqratxib",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802730,
+    "alliance_id": null,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123821615,
+      "name": "Iqratxib",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95172082,
+      "name": "Kiim scala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 216084687,
+      "name": "AnarkiTheStorm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 783634874,
+      "name": "Chuz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raderra Johanson",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 228053542,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 952368979,
+    "name": "Koppite",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 952368979,
+      "name": "Koppite",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 987440069,
+      "name": "Zeal0t",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117392699,
+      "name": "Vay Vay Culz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ors Melanuth",
+  "corporation_id": 98335809,
+  "alliance_id": 99005338,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Pandemic Horde"
+}

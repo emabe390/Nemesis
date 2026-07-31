@@ -1,0 +1,52 @@
+{
+  "character_id": 2123908332,
+  "total_losses": 64,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 95634803,
+    "name": "Leblanc",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98829294,
+    "alliance_id": 99015041,
+    "corporation_name": "Even Odds Theory",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 95634803,
+      "name": "Leblanc",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93063157,
+      "name": "Qiang Feng",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91560847,
+      "name": "Magna Magnum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92574496,
+      "name": "Saint Michaels Soul",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hitka",
+  "corporation_id": 98067874,
+  "alliance_id": null,
+  "corporation_name": "Useless Idea",
+  "alliance_name": null
+}

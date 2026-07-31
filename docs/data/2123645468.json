@@ -1,0 +1,40 @@
+{
+  "character_id": 2123645468,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113841977,
+    "name": "Rekoo King",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113841977,
+      "name": "Rekoo King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119095332,
+      "name": "Wlerds",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121918991,
+      "name": "S0dET",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Venola Aphra",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640964,
+  "total_losses": 113,
+  "unique_killers": 90,
+  "nemesis": {
+    "id": 2123740018,
+    "name": "Wren Etmenh",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98790080,
+    "alliance_id": null,
+    "corporation_name": "Rainbow Fleet",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123740018,
+      "name": "Wren Etmenh",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 92521281,
+      "name": "Lt Lunar Lazair",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92635823,
+      "name": "Chase Fallon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ilik Tabibak",
+  "corporation_id": 98187159,
+  "alliance_id": 99015054,
+  "corporation_name": "Screaming Hayabusa",
+  "alliance_name": "War of the Flea"
+}

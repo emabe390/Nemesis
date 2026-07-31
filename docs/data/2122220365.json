@@ -1,0 +1,52 @@
+{
+  "character_id": 2122220365,
+  "total_losses": 50,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2122531819,
+    "name": "Wilfred G",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98732877,
+    "alliance_id": 1354830081,
+    "corporation_name": "Iron Whales",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122531819,
+      "name": "Wilfred G",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 91966561,
+      "name": "Caliph Alai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92878809,
+      "name": "Xak Wales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120736800,
+      "name": "Captain Ginjuic",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Primarch Roboute-Gulliman",
+  "corporation_id": 98824762,
+  "alliance_id": null,
+  "corporation_name": "GOcto-9",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123229678,
+  "total_losses": 54,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 91657434,
+    "name": "Genesis Ahashion",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98797553,
+    "alliance_id": null,
+    "corporation_name": "Umbrella Asset Management",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91657434,
+      "name": "Genesis Ahashion",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 1225874954,
+      "name": "Father Biff",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92574496,
+      "name": "Saint Michaels Soul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 269925950,
+      "name": "Goupil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 299762341,
+      "name": "Destropia",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Fabricator Alpha",
+  "corporation_id": 98797553,
+  "alliance_id": null,
+  "corporation_name": "Umbrella Asset Management",
+  "alliance_name": null
+}

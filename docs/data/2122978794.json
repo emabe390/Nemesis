@@ -1,0 +1,40 @@
+{
+  "character_id": 2122978794,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91258561,
+    "name": "Northen Wind",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 91258561,
+      "name": "Northen Wind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1206461516,
+      "name": "Rage OSX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124069321,
+      "name": "Carabinieri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Vanguardian",
+  "corporation_id": 98791043,
+  "alliance_id": null,
+  "corporation_name": "The Shalom Saints",
+  "alliance_name": null
+}

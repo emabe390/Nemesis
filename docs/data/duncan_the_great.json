@@ -1,0 +1,52 @@
+{
+  "character_id": 2123435801,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95076173,
+    "name": "Dredd Imperious",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98628063,
+    "alliance_id": 99012982,
+    "corporation_name": "Heavily Redacted",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 95076173,
+      "name": "Dredd Imperious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 332552662,
+      "name": "Tia'maat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1130628277,
+      "name": "Warlon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1548443126,
+      "name": "Wattwatt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1907645642,
+      "name": "Character 1907645642",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duncan the Great",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

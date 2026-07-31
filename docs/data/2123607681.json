@@ -1,0 +1,52 @@
+{
+  "character_id": 2123607681,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123415312,
+    "name": "Pvt Randy Bobandy",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98813876,
+    "alliance_id": null,
+    "corporation_name": "The Dirty Burger",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123415312,
+      "name": "Pvt Randy Bobandy",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91969261,
+      "name": "Tier Nan Gorduin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 334347692,
+      "name": "Sgt Redemption",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118174853,
+      "name": "Octavia Bee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123129863,
+      "name": "Pav Gin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "BlightFox",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

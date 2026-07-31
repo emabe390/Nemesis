@@ -1,0 +1,52 @@
+{
+  "character_id": 2122695952,
+  "total_losses": 13,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114909551,
+    "name": "Lina Ventress",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98590109,
+    "alliance_id": null,
+    "corporation_name": "System Private Enforcement Contractors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114909551,
+      "name": "Lina Ventress",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 483700182,
+      "name": "Kimongr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112883869,
+      "name": "Bin Tissant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95719102,
+      "name": "Yggdrasil Cesaille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jake the Mus",
+  "corporation_id": 98590109,
+  "alliance_id": null,
+  "corporation_name": "System Private Enforcement Contractors",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123059051,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 97185652,
+    "name": "LordBlack I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791332,
+    "alliance_id": 1354830081,
+    "corporation_name": "Imperial Ghosts",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 97185652,
+      "name": "LordBlack I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112475206,
+      "name": "LordBlack II",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LordBlack III",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

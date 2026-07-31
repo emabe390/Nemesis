@@ -1,0 +1,34 @@
+{
+  "character_id": 2123532821,
+  "total_losses": 9,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123527638,
+    "name": "Leo SkyBlaze",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123527638,
+      "name": "Leo SkyBlaze",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 139820002,
+      "name": "PreZiDenT1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo SkyBlade",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

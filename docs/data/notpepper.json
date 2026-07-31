@@ -1,0 +1,52 @@
+{
+  "character_id": 2123673928,
+  "total_losses": 27,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2123564876,
+    "name": "Mirosslav",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98777806,
+    "alliance_id": 99014308,
+    "corporation_name": "Stone Warriors",
+    "alliance_name": "Stone Warriors Fleet"
+  },
+  "top_killers": [
+    {
+      "id": 2123564876,
+      "name": "Mirosslav",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90888664,
+      "name": "Salan Steel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94260398,
+      "name": "Cheryl Astelir",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "NotPepper",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

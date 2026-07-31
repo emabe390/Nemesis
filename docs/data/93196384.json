@@ -1,0 +1,52 @@
+{
+  "character_id": 93196384,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 93168000,
+    "name": "Fingolfin Finwei",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 98153321,
+    "alliance_id": 99013327,
+    "corporation_name": "Cephalopods of Destiny",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 93168000,
+      "name": "Fingolfin Finwei",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 91089456,
+      "name": "Providence Kys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92449190,
+      "name": "Dcybele Aulmais",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96860276,
+      "name": "Erik vonKastell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112472144,
+      "name": "Glavniy Nachalnik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TeleMachus Odyssey",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

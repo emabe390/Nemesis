@@ -1,0 +1,52 @@
+{
+  "character_id": 2122210460,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 90277086,
+      "name": "Ando Gart",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90914355,
+      "name": "Everet Garo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91372348,
+      "name": "Jacob Garo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94873247,
+      "name": "Aliva Okaski",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rassenya",
+  "corporation_id": 98459195,
+  "alliance_id": 99014933,
+  "corporation_name": "RAFIN KOFINZ",
+  "alliance_name": "Expired Intelligence Booster"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123641726,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94302854,
+    "name": "Carmina Aideron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98743337,
+    "alliance_id": 99012862,
+    "corporation_name": "Mining Under the Influence",
+    "alliance_name": "Influential Operations"
+  },
+  "top_killers": [
+    {
+      "id": 94302854,
+      "name": "Carmina Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121231596,
+      "name": "SerhioI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1104531524,
+      "name": "Wurdalac",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112718795,
+      "name": "Nathan Rollin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lotgar",
+  "corporation_id": 98771219,
+  "alliance_id": null,
+  "corporation_name": "Vyriy Scout Corporation",
+  "alliance_name": null
+}

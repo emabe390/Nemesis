@@ -1,0 +1,40 @@
+{
+  "character_id": 2122555661,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 796754948,
+    "name": "Ebola viral",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98789008,
+    "alliance_id": 99009539,
+    "corporation_name": "JERNBYRD",
+    "alliance_name": "Pain And Compliance"
+  },
+  "top_killers": [
+    {
+      "id": 796754948,
+      "name": "Ebola viral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123011192,
+      "name": "KOT ECT-KOBETOP-HA-3ABTPAK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123025324,
+      "name": "KOT-CHOBA-ECT-BEHTYPY",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pahruti Ohu",
+  "corporation_id": 98782947,
+  "alliance_id": null,
+  "corporation_name": "Last frontier Miner Association",
+  "alliance_name": null
+}

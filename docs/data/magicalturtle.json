@@ -1,0 +1,40 @@
+{
+  "character_id": 2120854290,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 698404960,
+    "name": "Qutis Hanid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98055703,
+    "alliance_id": 99009567,
+    "corporation_name": "ShimaTech Solutions.",
+    "alliance_name": "Plucky Adventurers"
+  },
+  "top_killers": [
+    {
+      "id": 698404960,
+      "name": "Qutis Hanid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120358100,
+      "name": "Saliwen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115653568,
+      "name": "Sakanash",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MagicalTurtle",
+  "corporation_id": 98755360,
+  "alliance_id": 99012770,
+  "corporation_name": "Black Rose Inc.",
+  "alliance_name": "Black Rose."
+}

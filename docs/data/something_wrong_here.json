@@ -1,0 +1,52 @@
+{
+  "character_id": 2121231371,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96373114,
+    "name": "Larear Aideron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98664397,
+    "alliance_id": null,
+    "corporation_name": "Young Steel and Logistics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96373114,
+      "name": "Larear Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116503388,
+      "name": "Chuck Blevins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120502713,
+      "name": "Acturus cattle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121449310,
+      "name": "Flametail Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122445447,
+      "name": "Ivanovic Yulia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "something wrong here",
+  "corporation_id": 98710383,
+  "alliance_id": 495729389,
+  "corporation_name": "Late night poets",
+  "alliance_name": "Shadow Cartel"
+}

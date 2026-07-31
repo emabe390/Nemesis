@@ -1,0 +1,40 @@
+{
+  "character_id": 2123306849,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1290709513,
+    "name": "Mike Kisiel",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117090622,
+      "name": "See you at4-4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Llamas and Goats",
+  "corporation_id": 98786007,
+  "alliance_id": null,
+  "corporation_name": "The Grief Counselors",
+  "alliance_name": null
+}

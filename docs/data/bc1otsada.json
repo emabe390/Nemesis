@@ -1,0 +1,40 @@
+{
+  "character_id": 2122085785,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123959251,
+    "name": "vector-N",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123959251,
+      "name": "vector-N",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95278751,
+      "name": "Nik Phelt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97034920,
+      "name": "Swath Boanerges",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BC1Otsada",
+  "corporation_id": 98408597,
+  "alliance_id": 1354830081,
+  "corporation_name": "rRED ANTS",
+  "alliance_name": "Goonswarm Federation"
+}

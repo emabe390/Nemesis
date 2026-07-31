@@ -1,0 +1,52 @@
+{
+  "character_id": 2123280066,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 420604419,
+    "name": "Herbstleyd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808346,
+    "alliance_id": null,
+    "corporation_name": "Marubika",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 420604419,
+      "name": "Herbstleyd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95648191,
+      "name": "Razors Vankillsing",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 560294646,
+      "name": "Suzi Que",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shusty",
+  "corporation_id": 98801350,
+  "alliance_id": null,
+  "corporation_name": "Yoyodyne Industries",
+  "alliance_name": null
+}

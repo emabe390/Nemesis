@@ -1,0 +1,52 @@
+{
+  "character_id": 2123538094,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91297180,
+    "name": "Tom K'rathma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 91297180,
+      "name": "Tom K'rathma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 101363971,
+      "name": "WayCharles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 922418655,
+      "name": "Charoth Amperod",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112922510,
+      "name": "Molly Murderface",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yisus Flowers",
+  "corporation_id": 98829471,
+  "alliance_id": null,
+  "corporation_name": "Brigada 49",
+  "alliance_name": null
+}

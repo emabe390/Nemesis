@@ -1,0 +1,52 @@
+{
+  "character_id": 2116473179,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1282075762,
+    "name": "Corevas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98633650,
+    "alliance_id": 1988009451,
+    "corporation_name": "Melphalan",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1282075762,
+      "name": "Corevas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117155537,
+      "name": "Templar-min",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91765953,
+      "name": "Reitaga Piloris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95591493,
+      "name": "Panther Zwei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lorgar Bukandara",
+  "corporation_id": 98244982,
+  "alliance_id": null,
+  "corporation_name": "Die Woge des Wahnsinns",
+  "alliance_name": null
+}

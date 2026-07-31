@@ -1,0 +1,40 @@
+{
+  "character_id": 2123676019,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114658809,
+    "name": "N-E-G-A-T-I-V-E",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98779490,
+    "alliance_id": 1900696668,
+    "corporation_name": "Goose Squad",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114658809,
+      "name": "N-E-G-A-T-I-V-E",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96609955,
+      "name": "Zmiija",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122465130,
+      "name": "Karina Fleet Issue",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Janielli",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

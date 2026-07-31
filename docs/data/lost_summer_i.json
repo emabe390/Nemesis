@@ -1,0 +1,52 @@
+{
+  "character_id": 2123911019,
+  "total_losses": 212,
+  "unique_killers": 110,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 27,
+    "final_blows": 27,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 27,
+      "final_blows": 27
+    },
+    {
+      "id": 2115165953,
+      "name": "Yukikaze 0038",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2115437774,
+      "name": "Orhoth Namri",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2119658569,
+      "name": "Daughter of Ares",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123194675,
+      "name": "WS01",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Lost Summer I",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 93040000,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95777322,
+    "name": "Janos Sazas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 95777322,
+      "name": "Janos Sazas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95320742,
+      "name": "Character 95320742",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 227443434,
+      "name": "Hydro0",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 253052392,
+      "name": "Julio Danglsak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mark Rain",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

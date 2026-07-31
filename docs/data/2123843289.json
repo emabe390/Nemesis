@@ -1,0 +1,40 @@
+{
+  "character_id": 2123843289,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93180809,
+    "name": "Anna L'Tante",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98159956,
+    "alliance_id": null,
+    "corporation_name": "Stromberg Erze GmbH",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93180809,
+      "name": "Anna L'Tante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96860550,
+      "name": "Shiqi Xue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tuun Ijonen",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

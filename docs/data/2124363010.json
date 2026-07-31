@@ -1,0 +1,40 @@
+{
+  "character_id": 2124363010,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113237500,
+    "name": "EmperorVeles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98772776,
+    "alliance_id": 99013846,
+    "corporation_name": "Totality Squad",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124041687,
+      "name": "rmtpack IlIIlIlIIl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124041778,
+      "name": "rmtpack llIIlllIlI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Testify lIlIIlIlIlI",
+  "corporation_id": 98790514,
+  "alliance_id": null,
+  "corporation_name": "United Nations of Earth",
+  "alliance_name": null
+}

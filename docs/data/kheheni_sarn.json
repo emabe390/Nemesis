@@ -1,0 +1,40 @@
+{
+  "character_id": 2121870520,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96392826,
+    "name": "Sharagoth",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 693378155,
+    "alliance_id": 498125261,
+    "corporation_name": "Unholy Knights of Cthulhu",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 96392826,
+      "name": "Sharagoth",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 313431206,
+      "name": "Olegshaman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118624282,
+      "name": "V1nchenso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kheheni Sarn",
+  "corporation_id": 693378155,
+  "alliance_id": 498125261,
+  "corporation_name": "Unholy Knights of Cthulhu",
+  "alliance_name": "Test Alliance Please Ignore"
+}

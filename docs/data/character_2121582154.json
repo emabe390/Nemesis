@@ -1,0 +1,40 @@
+{
+  "character_id": 2121582154,
+  "total_losses": 20,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119015698,
+    "name": "Exmora Aiur",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98628141,
+    "alliance_id": 99012852,
+    "corporation_name": "Catskull Cartel",
+    "alliance_name": "Grimskulls"
+  },
+  "top_killers": [
+    {
+      "id": 2119015698,
+      "name": "Exmora Aiur",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2122642060,
+      "name": "Martina Aiur",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1171790020,
+      "name": "Big Meko",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2121582154",
+  "corporation_id": 98628141,
+  "alliance_id": 99012852,
+  "corporation_name": "Catskull Cartel",
+  "alliance_name": "Grimskulls"
+}

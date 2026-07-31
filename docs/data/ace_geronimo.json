@@ -1,0 +1,40 @@
+{
+  "character_id": 2123931217,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 474734598,
+    "name": "Carrionlich",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98646775,
+    "alliance_id": 495729389,
+    "corporation_name": "Banana-Republic.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 474734598,
+      "name": "Carrionlich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115144523,
+      "name": "Ahmya Hina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122818299,
+      "name": "Droop Dead",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ace Geronimo",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

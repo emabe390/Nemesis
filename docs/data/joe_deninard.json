@@ -1,0 +1,46 @@
+{
+  "character_id": 95367634,
+  "total_losses": 13,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95141153,
+    "name": "Jarvis Aurelius",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2112078050,
+      "name": "Meeble borp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116776051,
+      "name": "oisa Otichoda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95367634,
+      "name": "Joe Deninard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joe Deninard",
+  "corporation_id": 98366055,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ministry of Offense",
+  "alliance_name": "Goonswarm Federation"
+}

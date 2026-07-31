@@ -1,0 +1,52 @@
+{
+  "character_id": 2122898064,
+  "total_losses": 60,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1409278048,
+      "name": "Valatie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chillingus",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

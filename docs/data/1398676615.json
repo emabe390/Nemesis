@@ -1,0 +1,52 @@
+{
+  "character_id": 1398676615,
+  "total_losses": 43,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 1398676615,
+    "name": "Odin Valknir",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1020135437,
+    "alliance_id": 1354830081,
+    "corporation_name": "Universalis Imperium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1398676615,
+      "name": "Odin Valknir",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92739305,
+      "name": "Tentakel Jack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 768488282,
+      "name": "Character 768488282",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 884085686,
+      "name": "Tarkis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 995325012,
+      "name": "Safour",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Odin Valknir",
+  "corporation_id": 1020135437,
+  "alliance_id": 1354830081,
+  "corporation_name": "Universalis Imperium",
+  "alliance_name": "Goonswarm Federation"
+}

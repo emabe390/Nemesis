@@ -1,0 +1,52 @@
+{
+  "character_id": 2123690263,
+  "total_losses": 18,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1323924212,
+      "name": "Balthazar Estargia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119346106,
+      "name": "Venoxius Waaskar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123428345,
+      "name": "Mei Ygore Wang",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Exarch Drevath Malrik",
+  "corporation_id": 98820345,
+  "alliance_id": 99000163,
+  "corporation_name": "BlackWatch Neophytes",
+  "alliance_name": "Northern Associates."
+}

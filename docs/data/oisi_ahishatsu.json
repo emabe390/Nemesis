@@ -1,0 +1,40 @@
+{
+  "character_id": 2124301402,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1503395585,
+    "name": "Edward Harris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 251593602,
+    "alliance_id": null,
+    "corporation_name": "Inner Geek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1503395585,
+      "name": "Edward Harris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115522631,
+      "name": "AsperuS Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122121274,
+      "name": "ChairmanMo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oisi Ahishatsu",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

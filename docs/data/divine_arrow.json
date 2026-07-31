@@ -1,0 +1,40 @@
+{
+  "character_id": 95383657,
+  "total_losses": 13,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120997818,
+    "name": "Revan X",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 2120997818,
+      "name": "Revan X",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 96474688,
+      "name": "Noel Ichinumi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91754129,
+      "name": "ShiniYuri",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Divine Arrow",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123662164,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119767984,
+    "name": "John McJohn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790648,
+    "alliance_id": null,
+    "corporation_name": "34th Banana Republic of Amash-Akura",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119767984,
+      "name": "John McJohn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94123966,
+      "name": "Duff Akiin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1422296594,
+      "name": "Zashiran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114493736,
+      "name": "Lando Fisher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Takeshi Fenix",
+  "corporation_id": 98734668,
+  "alliance_id": null,
+  "corporation_name": "Cortex Collective",
+  "alliance_name": null
+}

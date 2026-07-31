@@ -1,0 +1,52 @@
+{
+  "character_id": 2123673889,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2112807073,
+    "name": "Teguran Omaristos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98782470,
+    "alliance_id": null,
+    "corporation_name": "The Intrinsic Ones",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112807073,
+      "name": "Teguran Omaristos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117890816,
+      "name": "Hidetoshi Okamura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119326206,
+      "name": "Djuzep",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90565732,
+      "name": "Rankka Ikkala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93954389,
+      "name": "Afely Hariere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maxo Bathory",
+  "corporation_id": 98803587,
+  "alliance_id": 99014050,
+  "corporation_name": "Moonlight Academy",
+  "alliance_name": "Lunar Luminescence"
+}

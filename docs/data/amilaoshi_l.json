@@ -1,0 +1,52 @@
+{
+  "character_id": 2123856238,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 1213527055,
+      "name": "Jawer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119852318,
+      "name": "LightCarrot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123636340,
+      "name": "AMiLaoShi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123714786,
+      "name": "AMiLaoShi XL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AMiLaoShi L",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

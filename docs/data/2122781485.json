@@ -1,0 +1,52 @@
+{
+  "character_id": 2122781485,
+  "total_losses": 27,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2112478988,
+    "name": "Katsume",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98765680,
+    "alliance_id": null,
+    "corporation_name": "The Fun Epic Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112478988,
+      "name": "Katsume",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1707405802,
+      "name": "Xearo001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93054714,
+      "name": "Nolx Tsasan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taikore",
+  "corporation_id": 98710763,
+  "alliance_id": 1900696668,
+  "corporation_name": "Perfusus Sanguine",
+  "alliance_name": "The Initiative."
+}

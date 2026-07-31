@@ -1,0 +1,40 @@
+{
+  "character_id": 285682694,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112832315,
+    "name": "Mrs Smart B",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98768071,
+    "alliance_id": 99010804,
+    "corporation_name": "Khanid Border Patrol",
+    "alliance_name": "Macabric Trick"
+  },
+  "top_killers": [
+    {
+      "id": 2112832315,
+      "name": "Mrs Smart B",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mei Sui",
+  "corporation_id": 98105314,
+  "alliance_id": null,
+  "corporation_name": "Hades Covenant",
+  "alliance_name": null
+}

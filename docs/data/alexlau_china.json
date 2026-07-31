@@ -1,0 +1,40 @@
+{
+  "character_id": 2123332021,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113906997,
+    "name": "Cer Bernarov",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98615927,
+    "alliance_id": 99013519,
+    "corporation_name": "Red Eye Inc.",
+    "alliance_name": "Flower Children"
+  },
+  "top_killers": [
+    {
+      "id": 2113906997,
+      "name": "Cer Bernarov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118931222,
+      "name": "PELEKAIS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120611521,
+      "name": "Tharusha nethindu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AlexLau China",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

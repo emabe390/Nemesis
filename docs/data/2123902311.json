@@ -1,0 +1,52 @@
+{
+  "character_id": 2123902311,
+  "total_losses": 45,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 338285735,
+    "name": "OT Smithers",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98060878,
+    "alliance_id": 99009584,
+    "corporation_name": "Buccaneer's Den",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94199960,
+      "name": "Maexi Power",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94896011,
+      "name": "Raingondo Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 230442825,
+      "name": "Lord Lorkaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 732859954,
+      "name": "Rotten Ralph",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Feris Von Broc",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

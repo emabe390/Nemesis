@@ -1,0 +1,46 @@
+{
+  "character_id": 2112913629,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2030696588,
+    "name": "Character 2030696588",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98805768,
+    "alliance_id": null,
+    "corporation_name": "Hybrium Accord",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2030696588,
+      "name": "Character 2030696588",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117122196,
+      "name": "Talon Calais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117323011,
+      "name": "Lorde Calais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118601699,
+      "name": "Dishonored Selek-Blayi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toad Roach",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

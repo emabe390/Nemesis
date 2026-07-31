@@ -1,0 +1,40 @@
+{
+  "character_id": 2123873477,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91057149,
+    "name": "Raven Kvetina",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98774105,
+    "alliance_id": 99003581,
+    "corporation_name": "Dependable Delinquents",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95448424,
+      "name": "Marcus Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121103211,
+      "name": "Darius Red 2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inki Magenta",
+  "corporation_id": 98816346,
+  "alliance_id": null,
+  "corporation_name": "Rad Scorp Corp.",
+  "alliance_name": null
+}

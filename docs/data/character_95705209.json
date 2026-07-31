@@ -1,0 +1,40 @@
+{
+  "character_id": 95705209,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92931849,
+    "name": "Marie Maulerant",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92931849,
+      "name": "Marie Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95196146,
+      "name": "Nustrivia Zateki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124083851,
+      "name": "Fabaer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 95705209",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123856445,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115525031,
+    "name": "Charlie Regrets Zorunda",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98616922,
+    "alliance_id": 99003214,
+    "corporation_name": "Galactic Deep Space Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2115525031,
+      "name": "Charlie Regrets Zorunda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123020919,
+      "name": "I Forgot Who",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112596068,
+      "name": "Pr0m3th3u5",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115749558,
+      "name": "Vitaliy Zhitnik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Archivist Niamai",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

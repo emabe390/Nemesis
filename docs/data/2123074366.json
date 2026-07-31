@@ -1,0 +1,40 @@
+{
+  "character_id": 2123074366,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1238517769,
+    "name": "Ncc 1709",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1238517769,
+      "name": "Ncc 1709",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1373387511,
+      "name": "LasXkill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112116916,
+      "name": "Character 2112116916",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seniya Kober",
+  "corporation_id": 98710763,
+  "alliance_id": 99005338,
+  "corporation_name": "Perfusus Sanguine",
+  "alliance_name": "Pandemic Horde"
+}

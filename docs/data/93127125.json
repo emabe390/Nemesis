@@ -1,0 +1,52 @@
+{
+  "character_id": 93127125,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 234325807,
+    "name": "De Guillaume",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 234325807,
+      "name": "De Guillaume",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 898788345,
+      "name": "Risn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90221443,
+      "name": "Rykirs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90510818,
+      "name": "Cap James Tkirk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90871280,
+      "name": "Tank Aranka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trilobite Mastodon",
+  "corporation_id": 98745531,
+  "alliance_id": 99003214,
+  "corporation_name": "Last Sol Fire",
+  "alliance_name": "Brave Collective"
+}

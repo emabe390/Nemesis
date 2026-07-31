@@ -1,0 +1,40 @@
+{
+  "character_id": 2123138586,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117459371,
+    "name": "Kaptin Tiberius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2117459371,
+      "name": "Kaptin Tiberius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123309046,
+      "name": "Chalien Plaude",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fotoship",
+  "corporation_id": 98807497,
+  "alliance_id": null,
+  "corporation_name": "Fotoship Corporation",
+  "alliance_name": null
+}

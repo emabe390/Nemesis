@@ -1,0 +1,40 @@
+{
+  "character_id": 2118229574,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115587909,
+    "name": "Oliver Sparks",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98698041,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech Fool",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115587909,
+      "name": "Oliver Sparks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121403451,
+      "name": "Dev Terran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122538402,
+      "name": "Rakkadan Aihaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Weedplant",
+  "corporation_id": 98422578,
+  "alliance_id": 99010787,
+  "corporation_name": "Almost Dangerous",
+  "alliance_name": "Wolves Amongst Strangers"
+}

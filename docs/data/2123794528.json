@@ -1,0 +1,46 @@
+{
+  "character_id": 2123794528,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123816935,
+    "name": "Chasteaux Claec Aurgnet",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98815335,
+    "alliance_id": null,
+    "corporation_name": "Arlan Mining Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123816935,
+      "name": "Chasteaux Claec Aurgnet",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1913385353,
+      "name": "Edurardo D'Appaza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erika Von Arlan",
+  "corporation_id": 98815335,
+  "alliance_id": null,
+  "corporation_name": "Arlan Mining Corp",
+  "alliance_name": null
+}

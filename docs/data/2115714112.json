@@ -1,0 +1,40 @@
+{
+  "character_id": 2115714112,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112270582,
+    "name": "Bixtarqiv",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112270582,
+      "name": "Bixtarqiv",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114885889,
+      "name": "Alic Kutia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114906370,
+      "name": "Mia Kutia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ian Meza",
+  "corporation_id": 98479040,
+  "alliance_id": 99010240,
+  "corporation_name": "Immortal Wanderers",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120412217,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90994877,
+    "name": "Bertral",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90994877,
+      "name": "Bertral",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117436026,
+      "name": "FireMaccon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123997296,
+      "name": "A1isone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishakaitoh Ries Ozuwara",
+  "corporation_id": 98799413,
+  "alliance_id": null,
+  "corporation_name": "Turvo miners lNC",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123375460,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92671285,
+    "name": "Victor Medvil",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98806391,
+    "alliance_id": null,
+    "corporation_name": "New Eden Engineers And Science Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92671285,
+      "name": "Victor Medvil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118539722,
+      "name": "Hivemind Blueberry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123810800,
+      "name": "Akio Sunbeam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "V1ctim",
+  "corporation_id": 98838963,
+  "alliance_id": null,
+  "corporation_name": "The Democratic People's Republic of Genesis",
+  "alliance_name": null
+}

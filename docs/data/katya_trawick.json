@@ -1,0 +1,52 @@
+{
+  "character_id": 2123765738,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2117195251,
+    "name": "Jack teh Ripper",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 2117195251,
+      "name": "Jack teh Ripper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123313744,
+      "name": "Smash Haymaker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Katya Trawick",
+  "corporation_id": 98794368,
+  "alliance_id": null,
+  "corporation_name": "Arcfield Works",
+  "alliance_name": null
+}

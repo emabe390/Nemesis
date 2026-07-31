@@ -1,0 +1,52 @@
+{
+  "character_id": 2124364412,
+  "total_losses": 24,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2123642466,
+    "name": "Velocity Raptor",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98663820,
+    "alliance_id": 99012847,
+    "corporation_name": "13th Revelation",
+    "alliance_name": "GunFam"
+  },
+  "top_killers": [
+    {
+      "id": 2123642466,
+      "name": "Velocity Raptor",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 93523362,
+      "name": "Ahri Uchiha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90696748,
+      "name": "Dragos Darkuhl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95527904,
+      "name": "Siegmeyer Hearthfield",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95728676,
+      "name": "Maverick TopGun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FR33Z3",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

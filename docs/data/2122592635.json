@@ -1,0 +1,52 @@
+{
+  "character_id": 2122592635,
+  "total_losses": 78,
+  "unique_killers": 65,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90808493,
+      "name": "Rocky Aivoras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92012251,
+      "name": "Jezza McWaffle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92109726,
+      "name": "Frank Zane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92540683,
+      "name": "Dracarna Serpentine",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Baby Borg",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

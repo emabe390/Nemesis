@@ -1,0 +1,40 @@
+{
+  "character_id": 2121758319,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117623123,
+    "name": "Roy Davies",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98075412,
+    "alliance_id": 99001969,
+    "corporation_name": "Grimm Hounds",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 2117623123,
+      "name": "Roy Davies",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90212579,
+      "name": "Gomohr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chustnut Man",
+  "corporation_id": 98811351,
+  "alliance_id": null,
+  "corporation_name": "Eire Mithril Mining Co",
+  "alliance_name": null
+}

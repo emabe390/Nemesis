@@ -1,0 +1,52 @@
+{
+  "character_id": 2123247019,
+  "total_losses": 33,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2112498484,
+    "name": "Peter Yurgin",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1934335478,
+    "alliance_id": 99013880,
+    "corporation_name": "The Black Hand Mafia",
+    "alliance_name": "No Open Tether Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2112498484,
+      "name": "Peter Yurgin",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94804577,
+      "name": "Dagney Blackrose Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95130444,
+      "name": "Katia Senegit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 743054412,
+      "name": "Marcus Terani",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Romanowski",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

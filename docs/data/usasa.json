@@ -1,0 +1,40 @@
+{
+  "character_id": 2123632701,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119670383,
+    "name": "ChuanQiong",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98535868,
+    "alliance_id": 99014783,
+    "corporation_name": "ChuangShi",
+    "alliance_name": "Wings Freedom."
+  },
+  "top_killers": [
+    {
+      "id": 2119670383,
+      "name": "ChuanQiong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119674973,
+      "name": "Mrx Krypton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121907862,
+      "name": "Tuulonen Tekitsu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "USASA",
+  "corporation_id": 98833918,
+  "alliance_id": null,
+  "corporation_name": "Scourpin Hauling Fed",
+  "alliance_name": null
+}

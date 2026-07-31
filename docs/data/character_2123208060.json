@@ -1,0 +1,52 @@
+{
+  "character_id": 2123208060,
+  "total_losses": 22,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123208239,
+    "name": "Character 2123208239",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123208239,
+      "name": "Character 2123208239",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 621178426,
+      "name": "Cypher V",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119313972,
+      "name": "AisPobo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93193152,
+      "name": "Nihlius Bloodstone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123208060",
+  "corporation_id": 98825203,
+  "alliance_id": null,
+  "corporation_name": "United States of Onio",
+  "alliance_name": null
+}

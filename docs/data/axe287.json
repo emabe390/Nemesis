@@ -1,0 +1,52 @@
+{
+  "character_id": 2123535243,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2114657949,
+    "name": "Tak Litari",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98786656,
+    "alliance_id": null,
+    "corporation_name": "Astrometric Aggression",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114657949,
+      "name": "Tak Litari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122217621,
+      "name": "Dage-2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114600962,
+      "name": "kupa stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115998897,
+      "name": "Dredd Ivy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Axe287",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

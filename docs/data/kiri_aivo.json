@@ -1,0 +1,52 @@
+{
+  "character_id": 2123360306,
+  "total_losses": 65,
+  "unique_killers": 59,
+  "nemesis": {
+    "id": 2121987306,
+    "name": "o Hierarch o",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121987306,
+      "name": "o Hierarch o",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93250376,
+      "name": "m3rcurial",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112660090,
+      "name": "Honour GG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112913928,
+      "name": "xiao Look",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113457579,
+      "name": "Necrostrider Strider",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kiri Aivo",
+  "corporation_id": 98768225,
+  "alliance_id": null,
+  "corporation_name": "Fast Rabbits at Play",
+  "alliance_name": null
+}

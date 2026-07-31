@@ -1,0 +1,40 @@
+{
+  "character_id": 93508777,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93985921,
+    "name": "Vilzuh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1021659068,
+      "name": "Jack Union",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117976380,
+      "name": "Farwyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bri Alduin",
+  "corporation_id": 98196687,
+  "alliance_id": null,
+  "corporation_name": "Em Interference Corporation",
+  "alliance_name": null
+}

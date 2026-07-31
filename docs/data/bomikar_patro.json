@@ -1,0 +1,40 @@
+{
+  "character_id": 2119899263,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94946916,
+    "name": "Lysander Strontium",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98700281,
+    "alliance_id": 99010995,
+    "corporation_name": "Task Force 641",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 94946916,
+      "name": "Lysander Strontium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119726240,
+      "name": "Ms Prism",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123235002,
+      "name": "HAL 7",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bomikar Patro",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

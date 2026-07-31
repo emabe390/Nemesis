@@ -1,0 +1,40 @@
+{
+  "character_id": 94345082,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122866078,
+    "name": "Alivian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788164,
+    "alliance_id": null,
+    "corporation_name": "Ronek corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122866078,
+      "name": "Alivian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116184185,
+      "name": "Jericho Stryfe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wolf Jhonson",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121171365,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 871846177,
+    "name": "Johnny Punisher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 463750601,
+    "alliance_id": null,
+    "corporation_name": "Paisti",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 871846177,
+      "name": "Johnny Punisher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122802066,
+      "name": "Kozu Kurvora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123194984,
+      "name": "SpeEdRu1ner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Filius Belli",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

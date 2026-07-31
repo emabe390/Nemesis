@@ -1,0 +1,46 @@
+{
+  "character_id": 2123639984,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119968929,
+    "name": "Oko sauronovo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2119968929,
+      "name": "Oko sauronovo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96917773,
+      "name": "Jonny Guns McGuire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112259056,
+      "name": "Bloodwynova Devka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Johnny the Boy",
+  "corporation_id": 98790350,
+  "alliance_id": 99013537,
+  "corporation_name": "Unprofitable Ventures Inc.",
+  "alliance_name": "Insidious."
+}

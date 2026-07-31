@@ -1,0 +1,52 @@
+{
+  "character_id": 2123933101,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96813828,
+    "name": "D Kondr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96813828,
+      "name": "D Kondr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 373204774,
+      "name": "Cassius Rex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 685998643,
+      "name": "InstinctiveKiller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115702365,
+      "name": "Ma Tissant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119673150,
+      "name": "Beedo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YS 002",
+  "corporation_id": 98702890,
+  "alliance_id": 99003581,
+  "corporation_name": "Descendants of Shen Nong",
+  "alliance_name": "Fraternity."
+}

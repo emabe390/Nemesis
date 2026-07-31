@@ -1,0 +1,40 @@
+{
+  "character_id": 2124478117,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1688015311,
+    "name": "Dakxon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98523162,
+    "alliance_id": null,
+    "corporation_name": "BoneSquad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1688015311,
+      "name": "Dakxon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91442750,
+      "name": "Triscuit Tristan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120099828,
+      "name": "Otstarva Akkon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CarrotWake2A",
+  "corporation_id": 98834652,
+  "alliance_id": 99014768,
+  "corporation_name": "CarrotCake CannotWake",
+  "alliance_name": "Storm Petrel Alliance"
+}

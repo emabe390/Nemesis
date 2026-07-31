@@ -1,0 +1,46 @@
+{
+  "character_id": 2123181606,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123181594,
+    "name": "Ikkasen Tokila",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98591829,
+    "alliance_id": 99012042,
+    "corporation_name": "Cyber Collapse.",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 2123181594,
+      "name": "Ikkasen Tokila",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121263939,
+      "name": "FilledWithLemonade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118754182,
+      "name": "Nibreiger Musana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122245734,
+      "name": "Snail Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nakko Ijonen",
+  "corporation_id": 98591829,
+  "alliance_id": 99012042,
+  "corporation_name": "Cyber Collapse.",
+  "alliance_name": "Fanatic Legion."
+}

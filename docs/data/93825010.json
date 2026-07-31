@@ -1,0 +1,34 @@
+{
+  "character_id": 93825010,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90208148,
+    "name": "Selusa Secundus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98251840,
+    "alliance_id": 99010421,
+    "corporation_name": "Beyond Remorse.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 90208148,
+      "name": "Selusa Secundus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 234899860,
+      "name": "Adarnof",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avenkey",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

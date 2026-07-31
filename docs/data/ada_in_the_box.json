@@ -1,0 +1,52 @@
+{
+  "character_id": 2122033636,
+  "total_losses": 115,
+  "unique_killers": 92,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 8,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 8,
+      "final_blows": 5
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 92148882,
+      "name": "Zand Anstian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94280900,
+      "name": "Xaifas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95584010,
+      "name": "Aleksandr Dmitriev",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ada-in-the-Box",
+  "corporation_id": 98838350,
+  "alliance_id": null,
+  "corporation_name": "Harmony's Garden",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113400501,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118985294,
+      "name": "Timmy Chan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ha Chee",
+  "corporation_id": 98574078,
+  "alliance_id": null,
+  "corporation_name": "Safe Deposit Service Marketeers Inc.",
+  "alliance_name": null
+}

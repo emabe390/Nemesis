@@ -1,0 +1,52 @@
+{
+  "character_id": 2123529940,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90753521,
+    "name": "Sinimox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704442,
+    "alliance_id": null,
+    "corporation_name": "Raised by Wolves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90753521,
+      "name": "Sinimox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2030637297,
+      "name": "Aurous Victoirespere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119993693,
+      "name": "Mehu Katti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92993708,
+      "name": "Huku Bartopolos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1797393156,
+      "name": "Sallest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chevy Joe",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2117516083,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122003565,
+    "name": "Lieutenant Ackermann",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122003565,
+      "name": "Lieutenant Ackermann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 347498754,
+      "name": "lille ispind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114088709,
+      "name": "safira jomita",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114374385,
+      "name": "TheProxy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119524546,
+      "name": "Cortana Koschinov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexa Koschinov",
+  "corporation_id": 1184675423,
+  "alliance_id": 1354830081,
+  "corporation_name": "Amok.",
+  "alliance_name": "Goonswarm Federation"
+}

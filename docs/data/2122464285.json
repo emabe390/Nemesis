@@ -1,0 +1,40 @@
+{
+  "character_id": 2122464285,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91836904,
+    "name": "Count Darwin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98734047,
+    "alliance_id": 1354830081,
+    "corporation_name": "Carebears -With- Guns",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91836904,
+      "name": "Count Darwin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112374623,
+      "name": "Chinese Pilot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114617910,
+      "name": "Count Descartes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Helaverie Nalliery",
+  "corporation_id": 98694020,
+  "alliance_id": 99014427,
+  "corporation_name": "Amarr Resources Unlimited",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

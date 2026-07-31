@@ -1,0 +1,40 @@
+{
+  "character_id": 2122303906,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1271559711,
+      "name": "Rattuus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113535129,
+      "name": "Character 2113535129",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thumphi",
+  "corporation_id": 98798949,
+  "alliance_id": null,
+  "corporation_name": "Rogue Wave Academy",
+  "alliance_name": null
+}

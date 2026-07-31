@@ -1,0 +1,52 @@
+{
+  "character_id": 2123331363,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 92245397,
+    "name": "Hroki Saken",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98637264,
+    "alliance_id": 99011223,
+    "corporation_name": "Sensible People",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119299628,
+      "name": "Maksimus-Decimus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95491417,
+      "name": "Mia Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brawdog",
+  "corporation_id": 98648808,
+  "alliance_id": 99011239,
+  "corporation_name": "Material Management Inc",
+  "alliance_name": "Ligma Grindset"
+}

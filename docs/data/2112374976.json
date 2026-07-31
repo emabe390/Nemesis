@@ -1,0 +1,52 @@
+{
+  "character_id": 2112374976,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92109726,
+      "name": "Frank Zane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93041548,
+      "name": "Lucho IYI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96041000,
+      "name": "migy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kalo en Chasteaux",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

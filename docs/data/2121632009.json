@@ -1,0 +1,46 @@
+{
+  "character_id": 2121632009,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121028515,
+    "name": "SacredSpins",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98426237,
+    "alliance_id": 99004604,
+    "corporation_name": "Phoenix Naval Operations",
+    "alliance_name": "Phoenix Naval Systems"
+  },
+  "top_killers": [
+    {
+      "id": 2121028515,
+      "name": "SacredSpins",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121016791,
+      "name": "Hakata'n Salt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121421857,
+      "name": "Home Control",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Moon Light Drive",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

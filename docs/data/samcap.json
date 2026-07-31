@@ -1,0 +1,52 @@
+{
+  "character_id": 2123945999,
+  "total_losses": 16,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 629760460,
+    "name": "Drake Trondor",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90170660,
+      "name": "Firestormize",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90780002,
+      "name": "Hawke Nolen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93052327,
+      "name": "Commander Yurkov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95204778,
+      "name": "Turil Pyrope",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Samcap",
+  "corporation_id": 98809880,
+  "alliance_id": 1988009451,
+  "corporation_name": "Tabou.",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

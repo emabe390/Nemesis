@@ -1,0 +1,52 @@
+{
+  "character_id": 2123371806,
+  "total_losses": 29,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 582261123,
+      "name": "Snezmy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 998179727,
+      "name": "killing youquick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "qwerty-asdf",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

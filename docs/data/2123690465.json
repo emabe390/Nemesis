@@ -1,0 +1,34 @@
+{
+  "character_id": 2123690465,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117365898,
+    "name": "squashman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98526559,
+    "alliance_id": 99011195,
+    "corporation_name": "Hold The Pod",
+    "alliance_name": "Not Purple Shoot It."
+  },
+  "top_killers": [
+    {
+      "id": 2117365898,
+      "name": "squashman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120358100,
+      "name": "Saliwen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maj Phillip Assh01e",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

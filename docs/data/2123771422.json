@@ -1,0 +1,34 @@
+{
+  "character_id": 2123771422,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91948946,
+    "name": "Boid Marshal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825388,
+    "alliance_id": null,
+    "corporation_name": "Other Minds",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91948946,
+      "name": "Boid Marshal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115276122,
+      "name": "T'ral Vsengne",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Stigvard",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

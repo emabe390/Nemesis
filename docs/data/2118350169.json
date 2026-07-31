@@ -1,0 +1,40 @@
+{
+  "character_id": 2118350169,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1845208695,
+    "name": "ASDIC 2029",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98519746,
+    "alliance_id": 99003581,
+    "corporation_name": "Deep Space Coalition",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1845208695,
+      "name": "ASDIC 2029",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113955001,
+      "name": "wicked-welk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122003565,
+      "name": "Lieutenant Ackermann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ShermanTank",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

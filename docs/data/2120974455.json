@@ -1,0 +1,40 @@
+{
+  "character_id": 2120974455,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96830902,
+      "name": "Mysty Porqupine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114623101,
+      "name": "VINTIK X",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaliohma",
+  "corporation_id": 2025613147,
+  "alliance_id": null,
+  "corporation_name": "Runnin With Scissors",
+  "alliance_name": null
+}

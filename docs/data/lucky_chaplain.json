@@ -1,0 +1,40 @@
+{
+  "character_id": 2121271448,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123172262,
+    "name": "Lucky Lancer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98804833,
+    "alliance_id": 1354830081,
+    "corporation_name": "Forever Stardust Navy Combined Fleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123172262,
+      "name": "Lucky Lancer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113399393,
+      "name": "Blake Beard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121271448,
+      "name": "Lucky Chaplain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucky Chaplain",
+  "corporation_id": 98804833,
+  "alliance_id": 1354830081,
+  "corporation_name": "Forever Stardust Navy Combined Fleet",
+  "alliance_name": "Goonswarm Federation"
+}

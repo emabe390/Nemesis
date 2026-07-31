@@ -1,0 +1,52 @@
+{
+  "character_id": 2123303216,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96299780,
+    "name": "StreLa Audanie",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98773416,
+    "alliance_id": 1900696668,
+    "corporation_name": "Primal Instinct Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96299780,
+      "name": "StreLa Audanie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116770016,
+      "name": "Smiley Thespian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120485312,
+      "name": "Dromihet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122252166,
+      "name": "StilNothing",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucian Dalesheart",
+  "corporation_id": 98820427,
+  "alliance_id": 99014284,
+  "corporation_name": "Agarthan Technologies",
+  "alliance_name": "7.62"
+}

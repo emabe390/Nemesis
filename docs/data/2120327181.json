@@ -1,0 +1,46 @@
+{
+  "character_id": 2120327181,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93219100,
+    "name": "Sea Sick Steve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 944838017,
+    "alliance_id": 99009163,
+    "corporation_name": "AWE Corporation",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 93219100,
+      "name": "Sea Sick Steve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95863191,
+      "name": "ThatGuyToxic Tox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119904305,
+      "name": "Peter StankFinger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Peter BigFinger",
+  "corporation_id": 944838017,
+  "alliance_id": 99009163,
+  "corporation_name": "AWE Corporation",
+  "alliance_name": "Dracarys."
+}

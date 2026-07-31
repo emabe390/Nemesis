@@ -1,0 +1,40 @@
+{
+  "character_id": 747470368,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96410765,
+    "name": "Cinder Volcan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96410765,
+      "name": "Cinder Volcan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1530607479,
+      "name": "Barathor Agma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121998608,
+      "name": "Snauso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Callyn Correll",
+  "corporation_id": 98742622,
+  "alliance_id": 99010484,
+  "corporation_name": "Kanoi Industy Inc",
+  "alliance_name": "The Burning Contingent Alliance"
+}

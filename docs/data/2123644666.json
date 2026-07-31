@@ -1,0 +1,52 @@
+{
+  "character_id": 2123644666,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 97233059,
+    "name": "Gideon Zendikar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370339,
+    "alliance_id": 99012428,
+    "corporation_name": "D-sync",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91032425,
+      "name": "Invisusira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93080093,
+      "name": "Little Sotken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93818426,
+      "name": "Seira Katsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fortuna Sons",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

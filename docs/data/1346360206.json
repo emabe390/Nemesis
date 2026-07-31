@@ -1,0 +1,52 @@
+{
+  "character_id": 1346360206,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123429601,
+    "name": "TackleMan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96506815,
+      "name": "Xaivada Skywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96724929,
+      "name": "Arthur Hemanseh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112188656,
+      "name": "Plz Don't Shoot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113385861,
+      "name": "Character 2113385861",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "P Johnson",
+  "corporation_id": 98748167,
+  "alliance_id": null,
+  "corporation_name": "Sanguine Sect",
+  "alliance_name": null
+}

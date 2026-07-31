@@ -1,0 +1,34 @@
+{
+  "character_id": 2124573992,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122874420,
+    "name": "Emma Windfield",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98824020,
+    "alliance_id": 99014821,
+    "corporation_name": "Uedama Nasty Girls",
+    "alliance_name": "Nasty Girls"
+  },
+  "top_killers": [
+    {
+      "id": 2122874420,
+      "name": "Emma Windfield",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121859495,
+      "name": "Olive Tenshi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Waschlappensoldat",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

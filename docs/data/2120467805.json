@@ -1,0 +1,40 @@
+{
+  "character_id": 2120467805,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Danger Ranger",
+  "corporation_id": 98664079,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cosmos Collective",
+  "alliance_name": "Goonswarm Federation"
+}

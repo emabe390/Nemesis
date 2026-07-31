@@ -1,0 +1,52 @@
+{
+  "character_id": 2118902100,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119871509,
+    "name": "Cargo Shop",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2119871509,
+      "name": "Cargo Shop",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90654372,
+      "name": "Mihael Molou",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2069822721,
+      "name": "Croowdrio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121517235,
+      "name": "MihaelJ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aquinate",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

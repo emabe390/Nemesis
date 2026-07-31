@@ -1,0 +1,46 @@
+{
+  "character_id": 2123995874,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123046492,
+    "name": "Bodick Vognepalniy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98735960,
+    "alliance_id": 1900696668,
+    "corporation_name": "Solar Meta",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123046492,
+      "name": "Bodick Vognepalniy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93227004,
+      "name": "Lukas Nemec",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95253739,
+      "name": "Elsy Brinalle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ERO Miner",
+  "corporation_id": 98820862,
+  "alliance_id": null,
+  "corporation_name": "Zadrot MOD ON",
+  "alliance_name": null
+}

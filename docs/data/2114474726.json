@@ -1,0 +1,52 @@
+{
+  "character_id": 2114474726,
+  "total_losses": 25,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123987976,
+    "name": "Creme Luxuria",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98818028,
+    "alliance_id": null,
+    "corporation_name": "Korhal Holdings Limited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123987976,
+      "name": "Creme Luxuria",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2114474269,
+      "name": "Mochi Bashi",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123072453,
+      "name": "Lee Shank",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95352834,
+      "name": "Lorenz Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gum Slinger",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

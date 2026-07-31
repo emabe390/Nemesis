@@ -1,0 +1,52 @@
+{
+  "character_id": 2123853383,
+  "total_losses": 19,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2117304506,
+    "name": "Richard Heppovich",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2117304506,
+      "name": "Richard Heppovich",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2115606649,
+      "name": "Carnivore 666",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92092936,
+      "name": "Balto Aidaron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 427321592,
+      "name": "Shimrock",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Telethia Testarossa",
+  "corporation_id": 773499566,
+  "alliance_id": 1900696668,
+  "corporation_name": "The Graduates",
+  "alliance_name": "The Initiative."
+}

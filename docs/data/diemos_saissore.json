@@ -1,0 +1,40 @@
+{
+  "character_id": 2115230152,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1237782593,
+    "name": "Gallius Vale",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 1237782593,
+      "name": "Gallius Vale",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 222100217,
+      "name": "Tahnil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1007617072,
+      "name": "Benzmann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diemos Saissore",
+  "corporation_id": 98792331,
+  "alliance_id": null,
+  "corporation_name": "Yinz Corp",
+  "alliance_name": null
+}

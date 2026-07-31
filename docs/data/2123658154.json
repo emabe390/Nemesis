@@ -1,0 +1,52 @@
+{
+  "character_id": 2123658154,
+  "total_losses": 317,
+  "unique_killers": 160,
+  "nemesis": {
+    "id": 92627901,
+    "name": "Baron Von Ripmanstein",
+    "kill_count": 65,
+    "final_blows": 65,
+    "corporation_id": 98149901,
+    "alliance_id": null,
+    "corporation_name": "Nuclear Futures",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92627901,
+      "name": "Baron Von Ripmanstein",
+      "kill_count": 65,
+      "final_blows": 65
+    },
+    {
+      "id": 2113013879,
+      "name": "Britt Trin",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Sirjala Shikkoken",
+  "corporation_id": 98812395,
+  "alliance_id": 99014419,
+  "corporation_name": "Skiff to the heavens",
+  "alliance_name": "Seals on the rocks"
+}

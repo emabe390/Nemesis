@@ -1,0 +1,52 @@
+{
+  "character_id": 2116280426,
+  "total_losses": 48,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 1649802006,
+    "name": "Dovonus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1649802006,
+      "name": "Dovonus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114817393,
+      "name": "Carog Lawron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90321945,
+      "name": "Wayne Xiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90547537,
+      "name": "Darius Caliente",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91517911,
+      "name": "Kyonko Nola",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bisi Kring",
+  "corporation_id": 98770788,
+  "alliance_id": 1042504553,
+  "corporation_name": "R.A.A.",
+  "alliance_name": "Solyaris Chtonium"
+}

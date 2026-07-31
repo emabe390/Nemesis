@@ -1,0 +1,46 @@
+{
+  "character_id": 2122441137,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93315636,
+      "name": "Za Grim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1906205970,
+      "name": "MajorJenkins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118864194,
+      "name": "Oqia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "X62B52 LH",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

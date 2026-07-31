@@ -1,0 +1,46 @@
+{
+  "character_id": 2123408068,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 152292085,
+    "name": "Zodicar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98648442,
+    "alliance_id": 99010452,
+    "corporation_name": "Center For Kids Who Can't Fly Good",
+    "alliance_name": "Zoo Landers"
+  },
+  "top_killers": [
+    {
+      "id": 152292085,
+      "name": "Zodicar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 885561527,
+      "name": "First Recon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1801079207,
+      "name": "Kate'ne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Falk Condor",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

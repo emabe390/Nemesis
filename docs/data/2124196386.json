@@ -1,0 +1,40 @@
+{
+  "character_id": 2124196386,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114599342,
+    "name": "Sa No",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818151,
+    "alliance_id": null,
+    "corporation_name": "The Other Side of the Medal",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114599342,
+      "name": "Sa No",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120980988,
+      "name": "Evalen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "iBitcoin",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123745635,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1479120987,
+    "name": "Toastbrotkillor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98666928,
+    "alliance_id": null,
+    "corporation_name": "Lucky.Punch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1479120987,
+      "name": "Toastbrotkillor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93280351,
+      "name": "Unseen Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96235294,
+      "name": "RMB",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CupC",
+  "corporation_id": 1097611545,
+  "alliance_id": 99003581,
+  "corporation_name": "Light of the moon",
+  "alliance_name": "Fraternity."
+}

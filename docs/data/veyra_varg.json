@@ -1,0 +1,40 @@
+{
+  "character_id": 2124365977,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91363454,
+    "name": "Taki Jeden",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 849473841,
+    "alliance_id": 99005724,
+    "corporation_name": "Beach Boys",
+    "alliance_name": "The Minions."
+  },
+  "top_killers": [
+    {
+      "id": 91363454,
+      "name": "Taki Jeden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113966531,
+      "name": "Essew Kadoko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120798947,
+      "name": "Amba Tublo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veyra Varg",
+  "corporation_id": 98833449,
+  "alliance_id": null,
+  "corporation_name": "Vargs have Fun",
+  "alliance_name": null
+}

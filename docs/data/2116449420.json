@@ -1,0 +1,52 @@
+{
+  "character_id": 2116449420,
+  "total_losses": 27,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2116463069,
+    "name": "Libvision",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116463069,
+      "name": "Libvision",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91560844,
+      "name": "Aurora Nebulae",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92587754,
+      "name": "Character 92587754",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93704821,
+      "name": "Gamma Orti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93847663,
+      "name": "Brutus Le'montac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Libvio Lemmont",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123921477,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118833875,
+    "name": "Lei Gellantara",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1997935844,
+    "alliance_id": 99007887,
+    "corporation_name": "Hooded Underworld Guys",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2118833875,
+      "name": "Lei Gellantara",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 404938808,
+      "name": "Scheitan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "UTZ-7B Aaronson",
+  "corporation_id": 98755102,
+  "alliance_id": null,
+  "corporation_name": "Venal Failure",
+  "alliance_name": null
+}

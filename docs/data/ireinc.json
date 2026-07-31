@@ -1,0 +1,52 @@
+{
+  "character_id": 2123228252,
+  "total_losses": 33,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 90688996,
+    "name": "Erev Garo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791475,
+    "alliance_id": null,
+    "corporation_name": "Exploding Pixels",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90688996,
+      "name": "Erev Garo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94294783,
+      "name": "Arata Kasenumi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121168143,
+      "name": "Ein Zion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123434250,
+      "name": "comp L",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "IREinc",
+  "corporation_id": 98632833,
+  "alliance_id": null,
+  "corporation_name": "Katolis",
+  "alliance_name": null
+}

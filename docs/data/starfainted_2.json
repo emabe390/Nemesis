@@ -1,0 +1,52 @@
+{
+  "character_id": 2123425407,
+  "total_losses": 24,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2116393724,
+    "name": "Character 2116393724",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679345,
+    "alliance_id": null,
+    "corporation_name": "KOT u CTADO",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116393724,
+      "name": "Character 2116393724",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90301943,
+      "name": "Felicia Nethers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94725624,
+      "name": "Aomame Kawana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96570993,
+      "name": "Magnis Solaris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96845790,
+      "name": "TotsMcGoats",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StarFainted-2",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

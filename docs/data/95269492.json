@@ -1,0 +1,52 @@
+{
+  "character_id": 95269492,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1209012503,
+    "name": "Kobrakilla",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 1209012503,
+      "name": "Kobrakilla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 584032531,
+      "name": "SparrowHawkeye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 852364753,
+      "name": "Torrent Talon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Horst Ademeit",
+  "corporation_id": 98375127,
+  "alliance_id": null,
+  "corporation_name": "Sheridan Tax Shelter",
+  "alliance_name": null
+}

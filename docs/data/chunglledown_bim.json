@@ -1,0 +1,52 @@
+{
+  "character_id": 2124122291,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 891847798,
+    "name": "Cauldron Marr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780225,
+    "alliance_id": null,
+    "corporation_name": "Hold My Rockets",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 891847798,
+      "name": "Cauldron Marr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124026088,
+      "name": "DonnyBoi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 765451240,
+      "name": "Elleryn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chunglledown Bim",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

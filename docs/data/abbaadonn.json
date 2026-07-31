@@ -1,0 +1,34 @@
+{
+  "character_id": 2123714640,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 404346796,
+    "name": "Cat T",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98656586,
+    "alliance_id": 99008787,
+    "corporation_name": "Idle Anarchist",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 404346796,
+      "name": "Cat T",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120037091,
+      "name": "TestoSlaine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AbbaaDonn",
+  "corporation_id": 98812042,
+  "alliance_id": null,
+  "corporation_name": "AXE Axiel",
+  "alliance_name": null
+}

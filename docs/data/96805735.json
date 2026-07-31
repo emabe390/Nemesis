@@ -1,0 +1,40 @@
+{
+  "character_id": 96805735,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90003504,
+    "name": "Moodell",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98701142,
+    "alliance_id": null,
+    "corporation_name": "DO.IT",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90003504,
+      "name": "Moodell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95613383,
+      "name": "Fiudovy Tekitsu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113643175,
+      "name": "Kalaloo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sledgehammer Thor",
+  "corporation_id": 98427812,
+  "alliance_id": 99007203,
+  "corporation_name": "Siberian Squad",
+  "alliance_name": "Siberian Squads"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123647922,
+  "total_losses": 20,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2115729463,
+    "name": "Holo Kavees",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98790350,
+    "alliance_id": 498125261,
+    "corporation_name": "Unprofitable Ventures Inc.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2115729463,
+      "name": "Holo Kavees",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122683452,
+      "name": "Character 2122683452",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123101295,
+      "name": "99Flare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123200705,
+      "name": "Localizer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Len Parmala",
+  "corporation_id": 98803702,
+  "alliance_id": 99003995,
+  "corporation_name": "Bloodiron Conviction",
+  "alliance_name": "Invidia Gloriae Comes"
+}

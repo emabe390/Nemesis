@@ -1,0 +1,46 @@
+{
+  "character_id": 2123665011,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123665014,
+    "name": "TheDog02",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98742946,
+    "alliance_id": 99003995,
+    "corporation_name": "Zhuque squad",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123665014,
+      "name": "TheDog02",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2117297105,
+      "name": "Aeleys",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 709075780,
+      "name": "JDevoe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123665024,
+      "name": "TheDog04",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheDog01",
+  "corporation_id": 98742946,
+  "alliance_id": 99003995,
+  "corporation_name": "Zhuque squad",
+  "alliance_name": "Invidia Gloriae Comes"
+}

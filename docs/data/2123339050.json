@@ -1,0 +1,40 @@
+{
+  "character_id": 2123339050,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 676001890,
+    "name": "Rianharte",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 676001890,
+      "name": "Rianharte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121065783,
+      "name": "PapaDios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122198875,
+      "name": "Fogaz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AstroDred 2",
+  "corporation_id": 98798159,
+  "alliance_id": 99012464,
+  "corporation_name": "DRONE REBORN",
+  "alliance_name": "C A M E L O T"
+}

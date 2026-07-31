@@ -1,0 +1,52 @@
+{
+  "character_id": 2123627625,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95340827,
+    "name": "Natural Clone Killer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95340827,
+      "name": "Natural Clone Killer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120627020,
+      "name": "Character 2120627020",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1860939322,
+      "name": "Hades Death",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113518050,
+      "name": "Excaliber Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arcturius Clevatus",
+  "corporation_id": 98668149,
+  "alliance_id": 99011162,
+  "corporation_name": "Alternate Intention",
+  "alliance_name": "Shadow Ultimatum"
+}

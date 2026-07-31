@@ -1,0 +1,52 @@
+{
+  "character_id": 2122859124,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114842208,
+    "name": "McBalls Taint",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 2114842208,
+      "name": "McBalls Taint",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115046664,
+      "name": "Dark Helmt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90323169,
+      "name": "Aeth Gemulus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 269925950,
+      "name": "Goupil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RiverTrade",
+  "corporation_id": 98787637,
+  "alliance_id": null,
+  "corporation_name": "RiverCorp",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2117879663,
+  "total_losses": 135,
+  "unique_killers": 118,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90101389,
+      "name": "SomeoneStrange",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90635307,
+      "name": "Mr. Burke",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90974906,
+      "name": "DANGERUS4U DEAD",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tanith Major",
+  "corporation_id": 98762887,
+  "alliance_id": 1354830081,
+  "corporation_name": "PodSwarm Logistics",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123501116,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122841411,
+    "name": "RedKest",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98599181,
+    "alliance_id": 99003581,
+    "corporation_name": "Attack On CALDARI",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122841411,
+      "name": "RedKest",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95708294,
+      "name": "ItzNightMare Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120293357,
+      "name": "whirling moon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121294402,
+      "name": "Badsaki war",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Demer Aylet",
+  "corporation_id": 98804833,
+  "alliance_id": 99005338,
+  "corporation_name": "Forever Stardust Navy Combined Fleet",
+  "alliance_name": "Pandemic Horde"
+}

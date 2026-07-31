@@ -1,0 +1,52 @@
+{
+  "character_id": 2123576198,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123576152,
+    "name": "01010010011",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98738067,
+    "alliance_id": 99009163,
+    "corporation_name": "Why So Sage",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123576152,
+      "name": "01010010011",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123576169,
+      "name": "01010010012",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 716070849,
+      "name": "Kavol Valarius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1625802820,
+      "name": "Revman Zim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121079598,
+      "name": "and chang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "01010010014",
+  "corporation_id": 98738067,
+  "alliance_id": 99009163,
+  "corporation_name": "Why So Sage",
+  "alliance_name": "Dracarys."
+}

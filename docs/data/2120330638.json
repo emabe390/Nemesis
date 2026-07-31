@@ -1,0 +1,40 @@
+{
+  "character_id": 2120330638,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1836922253,
+    "name": "Dark Follower",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1428108581,
+    "alliance_id": null,
+    "corporation_name": "Kantian Principle",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1836922253,
+      "name": "Dark Follower",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114337921,
+      "name": "Whadda Badasaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120944349,
+      "name": "GaLiGrue Raidi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Billy the Accountant",
+  "corporation_id": 98732457,
+  "alliance_id": 99012978,
+  "corporation_name": "Cyax",
+  "alliance_name": "CodeWalkers"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123312806,
+  "total_losses": 29,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2122033636,
+    "name": "Ada-in-the-Box",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98838350,
+    "alliance_id": null,
+    "corporation_name": "Harmony's Garden",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2121008130,
+      "name": "Electrah Uitra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121921594,
+      "name": "Thare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92329239,
+      "name": "Abrasive Jim Nardieu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92654608,
+      "name": "Twinblades Bastion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Myrdinn Harkonen",
+  "corporation_id": 98525766,
+  "alliance_id": 99011223,
+  "corporation_name": "Vanguardia DR",
+  "alliance_name": "Sigma Grindset"
+}

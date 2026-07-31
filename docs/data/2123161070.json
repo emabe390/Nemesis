@@ -1,0 +1,40 @@
+{
+  "character_id": 2123161070,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 453022314,
+    "name": "Nylon Angel",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98656901,
+    "alliance_id": 495729389,
+    "corporation_name": "Ganja Clade",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 453022314,
+      "name": "Nylon Angel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1200501922,
+      "name": "Character 1200501922",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116776670,
+      "name": "Alexx Grott",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Naz Vanburace",
+  "corporation_id": 98763473,
+  "alliance_id": 99013212,
+  "corporation_name": "The Free Mining Alliance Refugees",
+  "alliance_name": "Crimson Interstellar Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124545123,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119675633,
+    "name": "Crockett IATS",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98729122,
+    "alliance_id": 99011489,
+    "corporation_name": "Sheriff.",
+    "alliance_name": "United Caldari Space Command."
+  },
+  "top_killers": [
+    {
+      "id": 2119675633,
+      "name": "Crockett IATS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95086092,
+      "name": "Shadow514 ironlion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1963176033,
+      "name": "Wirham Arcadia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124545123",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

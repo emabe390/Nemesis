@@ -1,0 +1,40 @@
+{
+  "character_id": 2122860394,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91630190,
+    "name": "Bedloun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91630190,
+      "name": "Bedloun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116146961,
+      "name": "Alexey Petrovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120692582,
+      "name": "FigliMigli",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rel Astrakin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

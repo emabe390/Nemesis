@@ -1,0 +1,40 @@
+{
+  "character_id": 2114993665,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 187568404,
+    "name": "Icarius",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1117330985,
+    "alliance_id": null,
+    "corporation_name": "The Wings of Maak",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 187568404,
+      "name": "Icarius",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92126032,
+      "name": "Riven Maskar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1830007514,
+      "name": "Cristalo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viktor Pojas",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124240274,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115377208,
+    "name": "Mikhail Rokossovsky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 2115377208,
+      "name": "Mikhail Rokossovsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91434310,
+      "name": "Zeddicus Stuhr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95693664,
+      "name": "Blazen DaGanja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sepsis Tres",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

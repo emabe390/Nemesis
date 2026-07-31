@@ -1,0 +1,28 @@
+{
+  "character_id": 2123762951,
+  "total_losses": 3,
+  "unique_killers": 1,
+  "nemesis": {
+    "id": 2121736862,
+    "name": "Juan Mecanico",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98816677,
+    "alliance_id": 99013794,
+    "corporation_name": "El Club de los Antisociales",
+    "alliance_name": "Capys Holding"
+  },
+  "top_killers": [
+    {
+      "id": 2121736862,
+      "name": "Juan Mecanico",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "CHIP-8",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

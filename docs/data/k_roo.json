@@ -1,0 +1,40 @@
+{
+  "character_id": 2123827034,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117246337,
+    "name": "Henrik Hrothgarsson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2117246337,
+      "name": "Henrik Hrothgarsson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121551136,
+      "name": "Anonymous Comet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "K Roo",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

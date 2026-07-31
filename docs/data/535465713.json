@@ -1,0 +1,52 @@
+{
+  "character_id": 535465713,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019604,
+    "name": "Cassandra Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 549627660,
+      "name": "Pawulonek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112752661,
+      "name": "Atomic Bomberman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118746200,
+      "name": "Muu Arr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121347498,
+      "name": "HectorSalamanka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nordsturm",
+  "corporation_id": 98682508,
+  "alliance_id": 99012018,
+  "corporation_name": "EDENCOM Section 7",
+  "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123229337,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113997419,
+    "name": "Gachi Aniki",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98280017,
+    "alliance_id": 99010877,
+    "corporation_name": "Into the Ether",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2113997419,
+      "name": "Gachi Aniki",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122335029,
+      "name": "Delta DDL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118409572,
+      "name": "Rin sai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cinhil Haldane",
+  "corporation_id": 98828939,
+  "alliance_id": null,
+  "corporation_name": "Haldane Mining Consortium",
+  "alliance_name": null
+}

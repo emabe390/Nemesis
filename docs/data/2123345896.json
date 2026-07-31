@@ -1,0 +1,52 @@
+{
+  "character_id": 2123345896,
+  "total_losses": 23,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2121697935,
+      "name": "Bella Chen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90003504,
+      "name": "Moodell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91325809,
+      "name": "Mellisa Cameltoe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91474184,
+      "name": "Xerlax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123345896",
+  "corporation_id": 98745845,
+  "alliance_id": 99005393,
+  "corporation_name": "Fighting Club Seafood Market",
+  "alliance_name": "Blades of Grass"
+}

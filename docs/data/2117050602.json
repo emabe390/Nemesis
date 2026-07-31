@@ -1,0 +1,40 @@
+{
+  "character_id": 2117050602,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122471614,
+    "name": "Moestarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122471614,
+      "name": "Moestarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112217856,
+      "name": "R-0-B-0-C-O-P",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113496805,
+      "name": "Mindarian Malukker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ASHULAMAZE",
+  "corporation_id": 98793036,
+  "alliance_id": 99013803,
+  "corporation_name": "Goats A'hoy - Miners Of The Deep",
+  "alliance_name": "Wicked Goats Enterprises"
+}

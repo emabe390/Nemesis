@@ -1,0 +1,52 @@
+{
+  "character_id": 2123366078,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2121062076,
+    "name": "Prisoner's Chain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91586888,
+      "name": "Czernobog Destylat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 504987652,
+      "name": "AtomicGrog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1963425214,
+      "name": "Khaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Piedone lo Sbirro",
+  "corporation_id": 98805285,
+  "alliance_id": 99009163,
+  "corporation_name": "Silent Protocol",
+  "alliance_name": "Dracarys."
+}

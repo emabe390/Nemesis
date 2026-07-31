@@ -1,0 +1,46 @@
+{
+  "character_id": 2120108257,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123810549,
+    "name": "Garnelio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98689216,
+    "alliance_id": null,
+    "corporation_name": "Tutel Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123810549,
+      "name": "Garnelio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96723543,
+      "name": "Sergei Malatov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112624022,
+      "name": "Playdoh Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118920087,
+      "name": "Ceremonial",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kanshin Tsukaya",
+  "corporation_id": 98158362,
+  "alliance_id": null,
+  "corporation_name": "Severasse Trading LLC",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122660499,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 904000908,
+      "name": "Tiberious Marz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 493167923,
+      "name": "Paul Orcanus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daylon Spiner",
+  "corporation_id": 98811009,
+  "alliance_id": 99014371,
+  "corporation_name": "Baddies Without Daddies",
+  "alliance_name": "S.T.A.N"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123187603,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112903628,
+    "name": "Den Bilzerian",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98154172,
+    "alliance_id": 99007887,
+    "corporation_name": "Nether Guards",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116239878,
+      "name": "Hily Ronuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116766249,
+      "name": "MSSS2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ava serendipitous",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

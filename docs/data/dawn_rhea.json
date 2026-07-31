@@ -1,0 +1,52 @@
+{
+  "character_id": 96665560,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 95590706,
+    "name": "Titus Lancaster",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 95590706,
+      "name": "Titus Lancaster",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93185543,
+      "name": "Shopa s topa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dawn Rhea",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

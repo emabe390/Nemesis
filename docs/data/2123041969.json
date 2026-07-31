@@ -1,0 +1,46 @@
+{
+  "character_id": 2123041969,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 589252559,
+    "name": "Futility 101",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 589252559,
+      "name": "Futility 101",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 174165620,
+      "name": "Serpent Fly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94902473,
+      "name": "novajlija23 Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Belegurth Sabnok",
+  "corporation_id": 98759754,
+  "alliance_id": null,
+  "corporation_name": "Straitjacket Dreamz",
+  "alliance_name": null
+}

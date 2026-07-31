@@ -1,0 +1,52 @@
+{
+  "character_id": 2124509936,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121017376,
+    "name": "Riviere de Lune",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744802,
+    "alliance_id": null,
+    "corporation_name": "Tax Evasion Corporation of Riviere de Lune",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121017376,
+      "name": "Riviere de Lune",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90196262,
+      "name": "Bariacs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91596170,
+      "name": "Head Flux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96523488,
+      "name": "Jon Lex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 298313416,
+      "name": "No'vac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ludicium",
+  "corporation_id": 972194211,
+  "alliance_id": 1900696668,
+  "corporation_name": "Demonic Retribution",
+  "alliance_name": "The Initiative."
+}

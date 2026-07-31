@@ -1,0 +1,40 @@
+{
+  "character_id": 2124563321,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1620588278,
+    "name": "Gonryu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98375813,
+    "alliance_id": 99006495,
+    "corporation_name": "Belt Raider Inc.",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 1620588278,
+      "name": "Gonryu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121999307,
+      "name": "Pixelated43",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90081967,
+      "name": "Freyr Virile",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aespev",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122962949,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123866429,
+    "name": "ValVivian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98539082,
+    "alliance_id": 1354830081,
+    "corporation_name": "Darkmoon Military Industrial Complex",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123866429,
+      "name": "ValVivian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96879052,
+      "name": "0mir Sarikusa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 496543538,
+      "name": "Freya Istarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faction Theseus",
+  "corporation_id": 98685597,
+  "alliance_id": 99012530,
+  "corporation_name": "Last Chance for Redemption",
+  "alliance_name": "FFEW Associates"
+}

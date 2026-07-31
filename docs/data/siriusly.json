@@ -1,0 +1,52 @@
+{
+  "character_id": 2123580485,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 845362885,
+    "name": "evistin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 845362885,
+      "name": "evistin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90724175,
+      "name": "Rotarian Boloskarl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119117285,
+      "name": "Shannon Albel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120420766,
+      "name": "godderive",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Siriusly",
+  "corporation_id": 98755037,
+  "alliance_id": 99013537,
+  "corporation_name": "Vogar Industrial",
+  "alliance_name": "Insidious."
+}

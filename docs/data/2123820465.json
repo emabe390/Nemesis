@@ -1,0 +1,52 @@
+{
+  "character_id": 2123820465,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 822886919,
+    "name": "Chip Flux",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 822886919,
+      "name": "Chip Flux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113286681,
+      "name": "Daythor danGlotka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119784292,
+      "name": "TJ Gaming403",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121234739,
+      "name": "chuntang xianjiu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91076228,
+      "name": "Knap Trbovlje",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vitowolf",
+  "corporation_id": 98450647,
+  "alliance_id": 99007203,
+  "corporation_name": "SpaceX Galactic",
+  "alliance_name": "Siberian Squads"
+}

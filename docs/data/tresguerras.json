@@ -1,0 +1,52 @@
+{
+  "character_id": 2123150523,
+  "total_losses": 132,
+  "unique_killers": 103,
+  "nemesis": {
+    "id": 1667664783,
+    "name": "archillae",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98688951,
+    "alliance_id": 99009856,
+    "corporation_name": "Mercury Arms Inc.",
+    "alliance_name": "Ghostbirds"
+  },
+  "top_killers": [
+    {
+      "id": 1667664783,
+      "name": "archillae",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91119149,
+      "name": "Gerski",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94171315,
+      "name": "Sniper Bros15",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116947057,
+      "name": "Znaxar Lemmont",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "TresGuerras",
+  "corporation_id": 98817209,
+  "alliance_id": null,
+  "corporation_name": "C.E.R.B.E.R.O",
+  "alliance_name": null
+}

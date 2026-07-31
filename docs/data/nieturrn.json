@@ -1,0 +1,46 @@
+{
+  "character_id": 2123075967,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 692959607,
+      "name": "Ecaterina Andronescu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120185493,
+      "name": "Zoinks Scooby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122497300,
+      "name": "Bloozz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NieTurrn",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120220061,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123672489,
+    "name": "Vasuda Manaan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806804,
+    "alliance_id": 99014431,
+    "corporation_name": "Scrapyard Artificer's",
+    "alliance_name": "Just Lizard"
+  },
+  "top_killers": [
+    {
+      "id": 2123672489,
+      "name": "Vasuda Manaan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95329155,
+      "name": "Sam Sapone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1488620037,
+      "name": "Neomaro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Barthakar Parvi",
+  "corporation_id": 98820866,
+  "alliance_id": null,
+  "corporation_name": "miliz freicor",
+  "alliance_name": null
+}

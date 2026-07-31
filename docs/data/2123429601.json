@@ -1,0 +1,52 @@
+{
+  "character_id": 2123429601,
+  "total_losses": 370,
+  "unique_killers": 297,
+  "nemesis": {
+    "id": 91581240,
+    "name": "Sarah Umbra",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1834143203,
+      "name": "Eredrius",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112149192,
+      "name": "Kong iBUN",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123563667,
+      "name": "DPSDaddy",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 161089797,
+      "name": "Hidden Devil",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "TackleMan",
+  "corporation_id": 98759906,
+  "alliance_id": null,
+  "corporation_name": "Honor Point",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123247888,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119368580,
+    "name": "Pirocluster",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98558521,
+    "alliance_id": 99009764,
+    "corporation_name": "Korporacija Umbrella",
+    "alliance_name": "Azure Citizen"
+  },
+  "top_killers": [
+    {
+      "id": 2119368580,
+      "name": "Pirocluster",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119367740,
+      "name": "Lady Avatarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119367849,
+      "name": "Blood Banshe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eclisser",
+  "corporation_id": 98423954,
+  "alliance_id": 1900696668,
+  "corporation_name": "Worthless Carebears",
+  "alliance_name": "The Initiative."
+}

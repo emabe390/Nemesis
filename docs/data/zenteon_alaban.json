@@ -1,0 +1,34 @@
+{
+  "character_id": 2117211533,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 878340150,
+    "name": "Zodaeus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1960489198,
+    "alliance_id": null,
+    "corporation_name": "Gravimetrics Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 878340150,
+      "name": "Zodaeus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 344049969,
+      "name": "Tyferris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zenteon Alaban",
+  "corporation_id": 98814776,
+  "alliance_id": null,
+  "corporation_name": "Seeker's Veil",
+  "alliance_name": null
+}

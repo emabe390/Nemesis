@@ -1,0 +1,40 @@
+{
+  "character_id": 2122621058,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121849329,
+    "name": "Decklan Starchaser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98285854,
+    "alliance_id": 1988009451,
+    "corporation_name": "Ember Inc.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121849329,
+      "name": "Decklan Starchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123224670,
+      "name": "Sauppola Yuas Otsolen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 834327940,
+      "name": "Leviathansoul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tommy-084",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

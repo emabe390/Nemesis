@@ -1,0 +1,46 @@
+{
+  "character_id": 1111160483,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95031260,
+    "name": "Prime Andedare",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820631,
+    "alliance_id": 1459096720,
+    "corporation_name": "High Command of Bad Decisions",
+    "alliance_name": "Brotherhood Of Silent Space"
+  },
+  "top_killers": [
+    {
+      "id": 95031260,
+      "name": "Prime Andedare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94396413,
+      "name": "Ganolen Morningwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1670899889,
+      "name": "Mosoman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122787929,
+      "name": "Gaywolf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StahlReaktormann",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122655569,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116334184,
+    "name": "Tavis Vemane",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98668936,
+    "alliance_id": 99011223,
+    "corporation_name": "The Awoken",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2116334184,
+      "name": "Tavis Vemane",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92644885,
+      "name": "Semper Liberi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93214934,
+      "name": "Kane Carnifex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95104840,
+      "name": "Illyas Cap",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95254306,
+      "name": "Perigo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "z'Time Lines'Too",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

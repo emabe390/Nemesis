@@ -1,0 +1,52 @@
+{
+  "character_id": 92989071,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96525633,
+    "name": "Kaivarian Coste",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833695,
+    "alliance_id": null,
+    "corporation_name": "Myyhera March",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90660445,
+      "name": "Cora Berger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 319042283,
+      "name": "Piolp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1678306834,
+      "name": "George Mante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1771780065,
+      "name": "NCC 1701E",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miranda Jenkins",
+  "corporation_id": 98480050,
+  "alliance_id": 1900696668,
+  "corporation_name": "Fancypants Inc",
+  "alliance_name": "The Initiative."
+}

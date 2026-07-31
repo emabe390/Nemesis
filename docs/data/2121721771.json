@@ -1,0 +1,40 @@
+{
+  "character_id": 2121721771,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124297937,
+    "name": "Character 2124297937",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817783,
+    "alliance_id": 495729389,
+    "corporation_name": "Silent Sojourner",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2124297937,
+      "name": "Character 2124297937",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1525961147,
+      "name": "CJ Walker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116269816,
+      "name": "Arkos Haginen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tyson Simbala",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

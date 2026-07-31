@@ -1,0 +1,52 @@
+{
+  "character_id": 2120777692,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2120521091,
+    "name": "Midnight T",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120521091,
+      "name": "Midnight T",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117085400,
+      "name": "Donwdo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119658569,
+      "name": "Daughter of Ares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MidnightU",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119210101,
+  "total_losses": 18,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 993607874,
+    "name": "TomHorn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670638,
+    "alliance_id": null,
+    "corporation_name": "Horn Brothers Holdings Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 993607874,
+      "name": "TomHorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91380678,
+      "name": "Acranti Egoroth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93911513,
+      "name": "Raylan Yutani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94876948,
+      "name": "Character 94876948",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95086092,
+      "name": "Shadow514 ironlion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bob Johnstone",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

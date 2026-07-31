@@ -1,0 +1,52 @@
+{
+  "character_id": 2123807808,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 528258379,
+    "name": "Vogels",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98395918,
+    "alliance_id": 99000852,
+    "corporation_name": "Sudden Death.",
+    "alliance_name": "Exodus."
+  },
+  "top_killers": [
+    {
+      "id": 528258379,
+      "name": "Vogels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90703254,
+      "name": "Xynta TT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91078475,
+      "name": "Adam Lees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96482802,
+      "name": "Tatsu Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1501588810,
+      "name": "Hideo san",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dagorian Ka",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

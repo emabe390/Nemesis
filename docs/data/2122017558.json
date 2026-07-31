@@ -1,0 +1,52 @@
+{
+  "character_id": 2122017558,
+  "total_losses": 45,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2122089962,
+    "name": "Renguer fw",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98773246,
+    "alliance_id": null,
+    "corporation_name": "B C B Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122089962,
+      "name": "Renguer fw",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2122308073,
+      "name": "Un poeta",
+      "kill_count": 8,
+      "final_blows": 5
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 6,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91628271,
+      "name": "Kilogertz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Corleone Renguer",
+  "corporation_id": 98746877,
+  "alliance_id": 99013766,
+  "corporation_name": "Flota Imperial",
+  "alliance_name": "Death Legion of Capybaras"
+}

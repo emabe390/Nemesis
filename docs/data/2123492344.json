@@ -1,0 +1,52 @@
+{
+  "character_id": 2123492344,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115689522,
+    "name": "Killari Seeker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98782897,
+    "alliance_id": 99013516,
+    "corporation_name": "Diamond Dogs.",
+    "alliance_name": "Mercenaires Sans Frontieres."
+  },
+  "top_killers": [
+    {
+      "id": 2115689522,
+      "name": "Killari Seeker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 409774390,
+      "name": "Lucas Stell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1192542854,
+      "name": "forgot name",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114113114,
+      "name": "ICBMbg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Burize",
+  "corporation_id": 98728397,
+  "alliance_id": null,
+  "corporation_name": "HIGH SEC MINING CORP",
+  "alliance_name": null
+}

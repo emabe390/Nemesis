@@ -1,0 +1,40 @@
+{
+  "character_id": 2121574256,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 111175275,
+    "name": "Sharhaner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121414463,
+      "name": "Lido",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96732471,
+      "name": "Peter Rangarian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "010203040506070809",
+  "corporation_id": 98813701,
+  "alliance_id": null,
+  "corporation_name": "corp 0101",
+  "alliance_name": null
+}

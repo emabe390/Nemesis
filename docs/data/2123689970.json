@@ -1,0 +1,52 @@
+{
+  "character_id": 2123689970,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94885982,
+    "name": "scott magna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800166,
+    "alliance_id": 99011279,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 94885982,
+      "name": "scott magna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113556364,
+      "name": "IceBleeD Toralen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122585718,
+      "name": "Phoenix Corn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115068974,
+      "name": "Sigmond Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arayai Alar",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

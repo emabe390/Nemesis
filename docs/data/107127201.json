@@ -1,0 +1,40 @@
+{
+  "character_id": 107127201,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91531672,
+    "name": "Bedlicka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91531672,
+      "name": "Bedlicka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90361191,
+      "name": "Voivod Bathory",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Areflex",
+  "corporation_id": 98819400,
+  "alliance_id": null,
+  "corporation_name": "Putzt hier nur",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123278991,
+  "total_losses": 33,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2114499871,
+    "name": "Character 2114499871",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2114499871,
+      "name": "Character 2114499871",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94512325,
+      "name": "Osrono Darksky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 268321879,
+      "name": "Kriomnimus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 612049940,
+      "name": "Nimitz Bhael",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Matt Salutatio",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

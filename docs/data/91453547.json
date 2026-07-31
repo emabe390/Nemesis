@@ -1,0 +1,52 @@
+{
+  "character_id": 91453547,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 91279102,
+    "name": "Sniper Isu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117112,
+    "alliance_id": null,
+    "corporation_name": "PIROCOR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95008756,
+      "name": "Ilary Agostini",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119008746,
+      "name": "Simen Pares",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97220202,
+      "name": "Raynor Adoudel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 475148880,
+      "name": "Shiny Diamond",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vas Spiegel",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

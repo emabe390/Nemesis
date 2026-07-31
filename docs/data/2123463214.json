@@ -1,0 +1,40 @@
+{
+  "character_id": 2123463214,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 895888203,
+    "name": "Laarz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 895888203,
+      "name": "Laarz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121940021,
+      "name": "Erik Heraldsen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121946947,
+      "name": "Emil Rastakillah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drisker Arc",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96153805,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1104531524,
+    "name": "Wurdalac",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 967501471,
+    "alliance_id": 99004804,
+    "corporation_name": "SoT",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 1104531524,
+      "name": "Wurdalac",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113317818,
+      "name": "Star Crusade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114446596,
+      "name": "SP Codie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lara Cabot",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

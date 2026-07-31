@@ -1,0 +1,40 @@
+{
+  "character_id": 2123518958,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 720896599,
+    "name": "Pericle No1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98824676,
+    "alliance_id": null,
+    "corporation_name": "Drifter's solution for farmers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 720896599,
+      "name": "Pericle No1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1363981399,
+      "name": "Rehnis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1641949091,
+      "name": "Wolfgang Thoreau",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RabidTrashPanda",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

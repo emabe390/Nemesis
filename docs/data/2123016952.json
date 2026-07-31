@@ -1,0 +1,46 @@
+{
+  "character_id": 2123016952,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121062076,
+    "name": "Prisoner's Chain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94866478,
+      "name": "Jayce Donbasovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116224220,
+      "name": "Candice Foster-Smith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123257990,
+      "name": "Gailia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Devian Aivo",
+  "corporation_id": 98791084,
+  "alliance_id": null,
+  "corporation_name": "Scien-micro",
+  "alliance_name": null
+}

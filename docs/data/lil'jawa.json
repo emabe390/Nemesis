@@ -1,0 +1,52 @@
+{
+  "character_id": 2123162408,
+  "total_losses": 56,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 123903693,
+    "name": "W3st",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 123903693,
+      "name": "W3st",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95079855,
+      "name": "Inam Pak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95634803,
+      "name": "Leblanc",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lil'Jawa",
+  "corporation_id": 98407286,
+  "alliance_id": null,
+  "corporation_name": "KARNAGE",
+  "alliance_name": null
+}

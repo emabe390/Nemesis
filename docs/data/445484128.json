@@ -1,0 +1,40 @@
+{
+  "character_id": 445484128,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90447941,
+    "name": "cryogenic Amatin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760719,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Bannermen",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90447941,
+      "name": "cryogenic Amatin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123179555,
+      "name": "Johnny Vigilante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 485337436,
+      "name": "Shinkendo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Malefacus",
+  "corporation_id": 98026964,
+  "alliance_id": null,
+  "corporation_name": "Six Degrees of Separation",
+  "alliance_name": null
+}

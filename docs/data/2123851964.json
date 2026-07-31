@@ -1,0 +1,40 @@
+{
+  "character_id": 2123851964,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120697240,
+    "name": "Alice Kamal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2120697240,
+      "name": "Alice Kamal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122804697,
+      "name": "Otsadan Sono Jovakko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122850332,
+      "name": "Noganhan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheElda",
+  "corporation_id": 98651213,
+  "alliance_id": 99003214,
+  "corporation_name": "PulaLeeroy Br",
+  "alliance_name": "Brave Collective"
+}

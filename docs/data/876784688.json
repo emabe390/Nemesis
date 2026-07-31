@@ -1,0 +1,40 @@
+{
+  "character_id": 876784688,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118682811,
+    "name": "Luna Faye",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98692599,
+    "alliance_id": 99012608,
+    "corporation_name": "ARNA Industries",
+    "alliance_name": "S.N.O.T."
+  },
+  "top_killers": [
+    {
+      "id": 2118682811,
+      "name": "Luna Faye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116320473,
+      "name": "Olaf Ronuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117488366,
+      "name": "Nanika Zoldyck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xandra VonCricket",
+  "corporation_id": 98158909,
+  "alliance_id": 99007335,
+  "corporation_name": "Sokar Syndicate",
+  "alliance_name": "Habitual Chaos"
+}

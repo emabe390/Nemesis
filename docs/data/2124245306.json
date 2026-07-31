@@ -1,0 +1,40 @@
+{
+  "character_id": 2124245306,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113185244,
+    "name": "Tekks Mekkanikka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98570035,
+    "alliance_id": 99011654,
+    "corporation_name": "Frontier Orbital",
+    "alliance_name": "Critical Space Theory."
+  },
+  "top_killers": [
+    {
+      "id": 2113185244,
+      "name": "Tekks Mekkanikka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95089298,
+      "name": "Kajin Kashuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95426205,
+      "name": "Filipo K",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ms Sunday",
+  "corporation_id": 98723911,
+  "alliance_id": null,
+  "corporation_name": "Mining Alliance Division 1",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119785258,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1743905655,
+    "name": "EF Beta",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117567676,
+      "name": "Dalten Henard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nalmeu02",
+  "corporation_id": 98716298,
+  "alliance_id": null,
+  "corporation_name": "BluePlanets",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123815669,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91262185,
+    "name": "Warrior Spec",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98127387,
+    "alliance_id": 1354830081,
+    "corporation_name": "Echelon Research",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91262185,
+      "name": "Warrior Spec",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96286321,
+      "name": "Stryke Sharpfeather",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122843453,
+      "name": "Fearless Edge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FluxRay",
+  "corporation_id": 98630790,
+  "alliance_id": 99013537,
+  "corporation_name": "Wolframium",
+  "alliance_name": "Insidious."
+}

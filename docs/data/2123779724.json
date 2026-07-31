@@ -1,0 +1,40 @@
+{
+  "character_id": 2123779724,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92291171,
+    "name": "Skol Marito",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98813849,
+    "alliance_id": 99013690,
+    "corporation_name": "Biomass and other waste recycling corporation Edem",
+    "alliance_name": "Critical. Mass."
+  },
+  "top_killers": [
+    {
+      "id": 92291171,
+      "name": "Skol Marito",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121832306,
+      "name": "Askhen Noi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123604802,
+      "name": "Hotaru Aika",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vein Isu",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

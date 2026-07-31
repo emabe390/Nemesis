@@ -1,0 +1,34 @@
+{
+  "character_id": 2122234987,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1428989288,
+    "name": "SSRS",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637264,
+    "alliance_id": 99011223,
+    "corporation_name": "Sensible People",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 1428989288,
+      "name": "SSRS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Renem Sertan",
+  "corporation_id": 98787027,
+  "alliance_id": 99008816,
+  "corporation_name": "Ghosts of Aridia",
+  "alliance_name": "Khimi Harar"
+}

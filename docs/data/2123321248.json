@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321248,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91660609,
+    "name": "LePeche Peachy",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 91660609,
+      "name": "LePeche Peachy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92141186,
+      "name": "Dessous",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93682208,
+      "name": "Chen Chao",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96619843,
+      "name": "Crystal Suicide Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Excavator Beta",
+  "corporation_id": 98249511,
+  "alliance_id": null,
+  "corporation_name": "Istvaan V",
+  "alliance_name": null
+}

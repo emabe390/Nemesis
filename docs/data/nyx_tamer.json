@@ -1,0 +1,40 @@
+{
+  "character_id": 1567845445,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90526786,
+    "name": "Milkman Ishere",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008663,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Angels Constructions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90526786,
+      "name": "Milkman Ishere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93181270,
+      "name": "Tasura Tokilan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113966531,
+      "name": "Essew Kadoko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nyx Tamer",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

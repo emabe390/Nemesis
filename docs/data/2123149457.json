@@ -1,0 +1,52 @@
+{
+  "character_id": 2123149457,
+  "total_losses": 62,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2122711705,
+    "name": "Haven Kado",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98805919,
+    "alliance_id": null,
+    "corporation_name": "Eviction Notice Served",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122711705,
+      "name": "Haven Kado",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 2123113286,
+      "name": "Constance Kado",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 91936837,
+      "name": "Xafen Katapi",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "I Love Sushi",
+  "corporation_id": 98816670,
+  "alliance_id": null,
+  "corporation_name": "No Man's Sky Inc.",
+  "alliance_name": null
+}

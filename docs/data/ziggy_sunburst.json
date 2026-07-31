@@ -1,0 +1,40 @@
+{
+  "character_id": 2124452525,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93257573,
+    "name": "MikMak Kado",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644972,
+    "alliance_id": 173714703,
+    "corporation_name": "Nano Rhinos",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 93257573,
+      "name": "MikMak Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 148448267,
+      "name": "Kathy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124452525,
+      "name": "Ziggy Sunburst",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ziggy Sunburst",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

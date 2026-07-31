@@ -1,0 +1,52 @@
+{
+  "character_id": 2123650622,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2112698901,
+    "name": "Alexandr Zaitcev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98676166,
+    "alliance_id": 99011973,
+    "corporation_name": "Really Power Blob.",
+    "alliance_name": "Really Power Blob. Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2112698901,
+      "name": "Alexandr Zaitcev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92088325,
+      "name": "Dmitry Mekhov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95379572,
+      "name": "Nikolas Anhelm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118980947,
+      "name": "Bathista",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122178251,
+      "name": "Igrellep",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123650622",
+  "corporation_id": 98700577,
+  "alliance_id": 99011387,
+  "corporation_name": "WE ARE ZERGS",
+  "alliance_name": "ZERG REBORN"
+}

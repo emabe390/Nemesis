@@ -1,0 +1,34 @@
+{
+  "character_id": 2124032763,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115400990,
+    "name": "Redwing Malukker",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 2115400990,
+      "name": "Redwing Malukker",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94536168,
+      "name": "ValiKush",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DrSun",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

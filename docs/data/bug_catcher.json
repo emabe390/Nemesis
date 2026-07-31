@@ -1,0 +1,52 @@
+{
+  "character_id": 2122734909,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119647778,
+    "name": "Steir Austrene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704442,
+    "alliance_id": null,
+    "corporation_name": "Raised by Wolves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119647778,
+      "name": "Steir Austrene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123128764,
+      "name": "Wood3h",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113113439,
+      "name": "Alter Farmer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114164421,
+      "name": "Salley Morgan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bug Catcher",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

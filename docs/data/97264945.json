@@ -1,0 +1,40 @@
+{
+  "character_id": 97264945,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112840481,
+    "name": "Apsconditum Imperium",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1705300610,
+    "alliance_id": 99010022,
+    "corporation_name": "The Dark Space Initiative",
+    "alliance_name": "Scary Wormhole People"
+  },
+  "top_killers": [
+    {
+      "id": 2112840481,
+      "name": "Apsconditum Imperium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90643820,
+      "name": "Zed Eye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92211084,
+      "name": "Caydon Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mirror Ashalot",
+  "corporation_id": 98796477,
+  "alliance_id": null,
+  "corporation_name": "World Edit Corporation",
+  "alliance_name": null
+}

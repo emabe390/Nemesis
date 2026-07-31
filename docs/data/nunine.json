@@ -1,0 +1,34 @@
+{
+  "character_id": 2124022109,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 926832912,
+    "name": "Mike X",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 273908971,
+    "alliance_id": null,
+    "corporation_name": "Heavy Load",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 926832912,
+      "name": "Mike X",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 726401996,
+      "name": "comrade christopher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nunine",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121322581,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122686066,
+      "name": "Lunaerys",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118269639,
+      "name": "Still not Julian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118533884,
+      "name": "Captain Inconvenience",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118772180,
+      "name": "Aps Amphal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MiningCorp",
+  "corporation_id": 98810348,
+  "alliance_id": 99014348,
+  "corporation_name": "GuildedLogiHolding",
+  "alliance_name": "K162 Collective"
+}

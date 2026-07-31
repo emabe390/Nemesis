@@ -1,0 +1,52 @@
+{
+  "character_id": 2123725680,
+  "total_losses": 100,
+  "unique_killers": 64,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115049871,
+      "name": "Avalon Sarain",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123451027,
+      "name": "ROK AF",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Eadled Taron",
+  "corporation_id": 144534752,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mercurialis Inc.",
+  "alliance_name": "Goonswarm Federation"
+}

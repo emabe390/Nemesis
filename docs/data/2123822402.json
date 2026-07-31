@@ -1,0 +1,46 @@
+{
+  "character_id": 2123822402,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123107920,
+    "name": "Wizard of Idium",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98768799,
+    "alliance_id": 99013692,
+    "corporation_name": "Black Rats Securities",
+    "alliance_name": "Independent Miners Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123107920,
+      "name": "Wizard of Idium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96230112,
+      "name": "Character 96230112",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1916938553,
+      "name": "Zack Armstrong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zilinus",
+  "corporation_id": 98636555,
+  "alliance_id": null,
+  "corporation_name": "S-K-S Corp.",
+  "alliance_name": null
+}

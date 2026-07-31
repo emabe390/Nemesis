@@ -1,0 +1,40 @@
+{
+  "character_id": 889340918,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93777665,
+    "name": "taylor parker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813284,
+    "alliance_id": 99009845,
+    "corporation_name": "Environmental Hazard.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 93777665,
+      "name": "taylor parker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90699595,
+      "name": "Tyrell Jackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115321209,
+      "name": "Jason Ernagas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tocha",
+  "corporation_id": 98028546,
+  "alliance_id": 99003214,
+  "corporation_name": "Forcas armadas",
+  "alliance_name": "Brave Collective"
+}

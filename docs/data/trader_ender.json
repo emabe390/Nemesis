@@ -1,0 +1,40 @@
+{
+  "character_id": 2122906207,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118861292,
+    "name": "JINTSUU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98347548,
+    "alliance_id": null,
+    "corporation_name": "Emergency Temporal Shift.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1656848294,
+      "name": "Altaen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123824846,
+      "name": "HAJIMI MANBO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trader Ender",
+  "corporation_id": 98787501,
+  "alliance_id": 99005830,
+  "corporation_name": "Ender Holding",
+  "alliance_name": "Memento Moriendo"
+}

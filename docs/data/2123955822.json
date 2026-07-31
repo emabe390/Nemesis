@@ -1,0 +1,52 @@
+{
+  "character_id": 2123955822,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 90438802,
+    "name": "Gorax Skord",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98285854,
+    "alliance_id": 1988009451,
+    "corporation_name": "Ember Inc.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90438802,
+      "name": "Gorax Skord",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 616320740,
+      "name": "Luko Melis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92884471,
+      "name": "Undersea Unicorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93030218,
+      "name": "Ares Tzestu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94681124,
+      "name": "Hallor Sinclair",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NM1012",
+  "corporation_id": 98143601,
+  "alliance_id": 99004567,
+  "corporation_name": "Way So Mad",
+  "alliance_name": "Honorable Third Party"
+}

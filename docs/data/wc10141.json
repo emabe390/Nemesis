@@ -1,0 +1,46 @@
+{
+  "character_id": 2123366995,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1613019230,
+    "name": "Roger Dodger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 967501471,
+    "alliance_id": 99004804,
+    "corporation_name": "SoT",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 1613019230,
+      "name": "Roger Dodger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96614471,
+      "name": "Afranius Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117098267,
+      "name": "Mallore Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "wc10141",
+  "corporation_id": 98567750,
+  "alliance_id": null,
+  "corporation_name": "Combined Logistics 205 Factory",
+  "alliance_name": null
+}

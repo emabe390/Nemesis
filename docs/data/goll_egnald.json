@@ -1,0 +1,40 @@
+{
+  "character_id": 2123600265,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91455988,
+    "name": "Barkura Kane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119786600,
+      "name": "Ramesen Illat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Goll Egnald",
+  "corporation_id": 98765559,
+  "alliance_id": 99010079,
+  "corporation_name": "Virtus Crusade Multipass Chapter",
+  "alliance_name": "Brave United"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123367356,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112364488,
+    "name": "Berty Egg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 722633285,
+    "alliance_id": null,
+    "corporation_name": "The Cod Pact",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112364488,
+      "name": "Berty Egg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91395281,
+      "name": "Krops Vont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92742436,
+      "name": "Naytiri Escobar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96420803,
+      "name": "Winzy Multi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1343677599,
+      "name": "Kara Totenkauf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BurntCoffee6",
+  "corporation_id": 98803102,
+  "alliance_id": 99014735,
+  "corporation_name": "Coffee Bean Emporium",
+  "alliance_name": "Psyno Theory"
+}

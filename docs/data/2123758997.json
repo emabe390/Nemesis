@@ -1,0 +1,52 @@
+{
+  "character_id": 2123758997,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120646800,
+      "name": "Neisseria G0n0rrhoeae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120836816,
+      "name": "G0ATWEED",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114494601,
+      "name": "Ramuda deruta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116059475,
+      "name": "Panda Sky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aikannor Prime",
+  "corporation_id": 98765559,
+  "alliance_id": 99010079,
+  "corporation_name": "Virtus Crusade Multipass Chapter",
+  "alliance_name": "Brave United"
+}

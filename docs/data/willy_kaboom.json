@@ -1,0 +1,52 @@
+{
+  "character_id": 2123314515,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95299451,
+    "name": "Lucian Lockard",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98597563,
+    "alliance_id": 99013480,
+    "corporation_name": "Novus Gallentia Archangeli",
+    "alliance_name": "Gallente United"
+  },
+  "top_killers": [
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90787958,
+      "name": "Jim Specter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96871790,
+      "name": "Guffor Atremi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122967863,
+      "name": "Five bi Five",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Willy Kaboom",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

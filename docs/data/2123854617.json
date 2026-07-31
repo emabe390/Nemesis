@@ -1,0 +1,52 @@
+{
+  "character_id": 2123854617,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96176433,
+    "name": "Telden Toontod",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96176433,
+      "name": "Telden Toontod",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1336673497,
+      "name": "Ig Neus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122083153,
+      "name": "Novus Upton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91811029,
+      "name": "Geffrey Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "C-segne",
+  "corporation_id": 98811002,
+  "alliance_id": 99014187,
+  "corporation_name": "Northern Crusades",
+  "alliance_name": "Dawn's Light"
+}

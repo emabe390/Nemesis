@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640277,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2120934742,
+    "name": "Formika Rufa",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98306027,
+    "alliance_id": 99003581,
+    "corporation_name": "SpaceFire Holding",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120934742,
+      "name": "Formika Rufa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95028519,
+      "name": "Unnamed Frozenhearth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120516249,
+      "name": "Shozo Yuki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 869284180,
+      "name": "Readus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116000828,
+      "name": "Eron Overlord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tetrikys",
+  "corporation_id": 98766473,
+  "alliance_id": null,
+  "corporation_name": "Tetra Formika Korp",
+  "alliance_name": null
+}

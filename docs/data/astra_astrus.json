@@ -1,0 +1,52 @@
+{
+  "character_id": 2122235584,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95252021,
+    "name": "Orin Oriki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95252021,
+      "name": "Orin Oriki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113424615,
+      "name": "Barnolf Chesare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94624783,
+      "name": "Juliett Sierra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112221522,
+      "name": "Attila TheHung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astra Astrus",
+  "corporation_id": 98450647,
+  "alliance_id": 99007203,
+  "corporation_name": "SpaceX Galactic",
+  "alliance_name": "Siberian Squads"
+}

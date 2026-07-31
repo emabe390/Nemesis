@@ -1,0 +1,52 @@
+{
+  "character_id": 2123329590,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120250143,
+    "name": "Don't Tackle Us",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 2120250143,
+      "name": "Don't Tackle Us",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95999487,
+      "name": "EVEPPAPGA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96734819,
+      "name": "XARUT CAXKYAN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 307025581,
+      "name": "charly5",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arcturus-Mengsk",
+  "corporation_id": 98809870,
+  "alliance_id": null,
+  "corporation_name": "Interstellar World Corporation",
+  "alliance_name": null
+}

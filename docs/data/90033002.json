@@ -1,0 +1,40 @@
+{
+  "character_id": 90033002,
+  "total_losses": 20,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124289386,
+    "name": "Opprigenix Opulus",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 1399602006,
+    "alliance_id": null,
+    "corporation_name": "Pride and Prestige",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124289386,
+      "name": "Opprigenix Opulus",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jackie Harkness",
+  "corporation_id": 1399602006,
+  "alliance_id": null,
+  "corporation_name": "Pride and Prestige",
+  "alliance_name": null
+}

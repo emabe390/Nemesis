@@ -1,0 +1,52 @@
+{
+  "character_id": 2124131513,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92702537,
+    "name": "Kot A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594202,
+    "alliance_id": 99010457,
+    "corporation_name": "Harmonist",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92702537,
+      "name": "Kot A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96481537,
+      "name": "Xel'lotath Tier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1045984810,
+      "name": "Primary Kate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1309649152,
+      "name": "sebaltor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1711421902,
+      "name": "Apollo Cypher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aghasura",
+  "corporation_id": 98822614,
+  "alliance_id": null,
+  "corporation_name": "Space Slums",
+  "alliance_name": null
+}

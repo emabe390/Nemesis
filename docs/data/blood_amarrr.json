@@ -1,0 +1,40 @@
+{
+  "character_id": 2112226948,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95241623,
+    "name": "Blue Jay",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98315934,
+    "alliance_id": 99014936,
+    "corporation_name": "Stuff and Junk Enterprises",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 95241623,
+      "name": "Blue Jay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 794343382,
+      "name": "Maruk Ihnati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122961714,
+      "name": "Verti Go",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blood Amarrr",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

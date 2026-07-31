@@ -1,0 +1,40 @@
+{
+  "character_id": 2123890096,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1073102432,
+    "name": "PromisedOne",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1073102432,
+      "name": "PromisedOne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120759822,
+      "name": "Selena Sardaukar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Uminishi Uisen",
+  "corporation_id": 98827705,
+  "alliance_id": null,
+  "corporation_name": "ILMF Corporation",
+  "alliance_name": null
+}

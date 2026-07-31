@@ -1,0 +1,52 @@
+{
+  "character_id": 2121842948,
+  "total_losses": 16,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 880070083,
+    "name": "Character 880070083",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98432393,
+    "alliance_id": 99011162,
+    "corporation_name": "Angelum Tenebrarum",
+    "alliance_name": "Shadow Ultimatum"
+  },
+  "top_killers": [
+    {
+      "id": 880070083,
+      "name": "Character 880070083",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 393750943,
+      "name": "Kosh Od",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 813634421,
+      "name": "SanZo Fengi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121053240,
+      "name": "Lilianaoftheveil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121842948,
+      "name": "DarkViking",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarkViking",
+  "corporation_id": 98432393,
+  "alliance_id": 99011162,
+  "corporation_name": "Angelum Tenebrarum",
+  "alliance_name": "Shadow Ultimatum"
+}

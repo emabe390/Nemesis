@@ -1,0 +1,52 @@
+{
+  "character_id": 2123984846,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 204263288,
+    "name": "Lucifer Lichtbringer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98298343,
+    "alliance_id": 99010421,
+    "corporation_name": "Phantom Brigade Ger",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1754715146,
+      "name": "Tirax Vale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114398220,
+      "name": "Leper Gnomee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123289177,
+      "name": "Moha Han",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eclipse IX",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

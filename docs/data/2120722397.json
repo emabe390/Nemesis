@@ -1,0 +1,52 @@
+{
+  "character_id": 2120722397,
+  "total_losses": 34,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 151515810,
+      "name": "DeT Resprox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113526566,
+      "name": "Anubis Djoser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114097675,
+      "name": "Josiah Kusion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115436045,
+      "name": "Gavin Petrie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Khalon Kurogami",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

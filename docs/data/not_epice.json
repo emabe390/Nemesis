@@ -1,0 +1,40 @@
+{
+  "character_id": 2123805014,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1115042854,
+    "name": "Character 1115042854",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1115042854,
+      "name": "Character 1115042854",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114130917,
+      "name": "Nol Jojo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118654068,
+      "name": "Ed Stonler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Not Epice",
+  "corporation_id": 98808452,
+  "alliance_id": null,
+  "corporation_name": "Tyranid HiveFleet",
+  "alliance_name": null
+}

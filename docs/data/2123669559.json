@@ -1,0 +1,52 @@
+{
+  "character_id": 2123669559,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119926405,
+    "name": "The Green Basturd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98445581,
+    "alliance_id": null,
+    "corporation_name": "Sum Dam Guys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119926405,
+      "name": "The Green Basturd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91082467,
+      "name": "DoraTheExplora Taft",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95541179,
+      "name": "Maniachelo Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112959830,
+      "name": "ChickaPrIzRaKa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120830440,
+      "name": "Alex EpicPotato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Porphurios",
+  "corporation_id": 98054920,
+  "alliance_id": 99009412,
+  "corporation_name": "Sector IX",
+  "alliance_name": "Outer Planets Association"
+}

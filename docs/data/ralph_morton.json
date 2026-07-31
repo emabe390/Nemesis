@@ -1,0 +1,52 @@
+{
+  "character_id": 2123547880,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94443642,
+    "name": "Chronos Aion",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98603158,
+    "alliance_id": 99012611,
+    "corporation_name": "Kamikaze Inc..",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 94443642,
+      "name": "Chronos Aion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117569679,
+      "name": "Karambo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117760320,
+      "name": "Roman X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119508114,
+      "name": "Stefan Molymeme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123987335,
+      "name": "Fei Hu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ralph Morton",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

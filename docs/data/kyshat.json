@@ -1,0 +1,52 @@
+{
+  "character_id": 2124262008,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96385065,
+    "name": "Bruno Jabroni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98700523,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Robbery Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96385065,
+      "name": "Bruno Jabroni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117753238,
+      "name": "Kyra Andile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 175601766,
+      "name": "Kaesarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 488882620,
+      "name": "Valen Vonkessell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KYSHAT",
+  "corporation_id": 98733616,
+  "alliance_id": null,
+  "corporation_name": "The Last Foundation",
+  "alliance_name": null
+}

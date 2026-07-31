@@ -1,0 +1,52 @@
+{
+  "character_id": 2123890270,
+  "total_losses": 23,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123311915,
+    "name": "Julaeth",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98826512,
+    "alliance_id": null,
+    "corporation_name": "JLZ HQ",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123311915,
+      "name": "Julaeth",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2120929404,
+      "name": "Julanez",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121800682,
+      "name": "Nox Phantomsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94124407,
+      "name": "Nass Cheba",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Svatopluk II sVelkym",
+  "corporation_id": 98811452,
+  "alliance_id": 99014402,
+  "corporation_name": "Plenitude Industrial Group",
+  "alliance_name": "Plenitude Alliance"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115905541,
+  "total_losses": 37,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120481908,
+      "name": "Akora Itiya Sasen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124385087,
+      "name": "mufaxor",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93783581,
+      "name": "Akai Sakura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chan Black",
+  "corporation_id": 98702288,
+  "alliance_id": 99013972,
+  "corporation_name": "Uncommon Horizon",
+  "alliance_name": "Vikings."
+}

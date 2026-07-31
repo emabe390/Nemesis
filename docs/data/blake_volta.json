@@ -1,0 +1,52 @@
+{
+  "character_id": 2123876877,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96346764,
+    "name": "Styx Prana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 96346764,
+      "name": "Styx Prana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93716452,
+      "name": "Torgo Tahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116438814,
+      "name": "Sik4tric3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123520793,
+      "name": "dmacc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123990928,
+      "name": "dmac2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blake Volta",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

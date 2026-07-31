@@ -1,0 +1,40 @@
+{
+  "character_id": 1511331418,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1600287919,
+    "name": "YankeePilot",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98761471,
+    "alliance_id": 99013637,
+    "corporation_name": "2 Days to Mine",
+    "alliance_name": "The Worst Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1600287919,
+      "name": "YankeePilot",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114364765,
+      "name": "Rain Shani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123659251,
+      "name": "Arrowny Christoph",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John McHenry",
+  "corporation_id": 98809556,
+  "alliance_id": 99009824,
+  "corporation_name": "Gov'nah Lee Made Me Do It",
+  "alliance_name": "Domain Research and Mining Inst. Logistics"
+}

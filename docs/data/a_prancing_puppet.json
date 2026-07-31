@@ -1,0 +1,52 @@
+{
+  "character_id": 2123456676,
+  "total_losses": 75,
+  "unique_killers": 60,
+  "nemesis": {
+    "id": 516392156,
+    "name": "Trikks",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98774989,
+    "alliance_id": 99013797,
+    "corporation_name": "Fourth District Sentinels",
+    "alliance_name": "The Caldari Fourth District"
+  },
+  "top_killers": [
+    {
+      "id": 516392156,
+      "name": "Trikks",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2120358772,
+      "name": "Res Cobon-Han",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90209288,
+      "name": "Sevenn T",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 403163173,
+      "name": "Aeryn Tiberius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 648926362,
+      "name": "Heimotz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "A Prancing Puppet",
+  "corporation_id": 98804674,
+  "alliance_id": null,
+  "corporation_name": "Maison Pantin Natya",
+  "alliance_name": null
+}

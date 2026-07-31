@@ -1,0 +1,52 @@
+{
+  "character_id": 2120771443,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116030273,
+    "name": "Braenn Brokilon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726811,
+    "alliance_id": null,
+    "corporation_name": "Bad Bonus Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116030273,
+      "name": "Braenn Brokilon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91259735,
+      "name": "Richard Stallmanu Stallmania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95036667,
+      "name": "Priamos Atrides",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 956094923,
+      "name": "Birgita",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122133286,
+      "name": "Potmidilain Ydier Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Death Duty",
+  "corporation_id": 98187159,
+  "alliance_id": 99015054,
+  "corporation_name": "Screaming Hayabusa",
+  "alliance_name": "War of the Flea"
+}

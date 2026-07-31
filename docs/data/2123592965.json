@@ -1,0 +1,40 @@
+{
+  "character_id": 2123592965,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 322843081,
+    "name": "Felicia Ha'thor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 566825158,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladiators of Rage",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 322843081,
+      "name": "Felicia Ha'thor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1454312349,
+      "name": "Malakai Asamov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113448000,
+      "name": "Apala Roxber",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Succulent Tenderloin",
+  "corporation_id": 98770617,
+  "alliance_id": 1354830081,
+  "corporation_name": "Front Line Solutions for Disadvantaged Youth",
+  "alliance_name": "Goonswarm Federation"
+}

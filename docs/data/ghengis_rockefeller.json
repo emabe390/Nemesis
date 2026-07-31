@@ -1,0 +1,40 @@
+{
+  "character_id": 2124153673,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 242501202,
+    "name": "Lord Egmond",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98623512,
+    "alliance_id": null,
+    "corporation_name": "Albions Revenge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 242501202,
+      "name": "Lord Egmond",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120765225,
+      "name": "Podbuster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122525326,
+      "name": "Artasen Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ghengis Rockefeller",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

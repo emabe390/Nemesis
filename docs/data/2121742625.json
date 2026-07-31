@@ -1,0 +1,40 @@
+{
+  "character_id": 2121742625,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123519261,
+    "name": "IDontKnowWhatIAmDoing",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807862,
+    "alliance_id": null,
+    "corporation_name": "SlightlyCompetent.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123519261,
+      "name": "IDontKnowWhatIAmDoing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1139615856,
+      "name": "Bovver Boy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119817088,
+      "name": "Inconspicuous Ivan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "James Alexander Anderson",
+  "corporation_id": 98749607,
+  "alliance_id": 99013440,
+  "corporation_name": "Counter Spell",
+  "alliance_name": "Eve Industrial Complex"
+}

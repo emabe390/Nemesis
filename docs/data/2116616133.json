@@ -1,0 +1,52 @@
+{
+  "character_id": 2116616133,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2114606780,
+    "name": "Wild Valenok",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98662843,
+    "alliance_id": 99003557,
+    "corporation_name": "Interstellar Scum",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117333477,
+      "name": "Rowshen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117862105,
+      "name": "Nuori Kira Inkunen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Yarik Migal",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96926231,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1613019230,
+      "name": "Roger Dodger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Object 117",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

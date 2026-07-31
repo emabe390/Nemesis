@@ -1,0 +1,40 @@
+{
+  "character_id": 94892427,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94026258,
+    "name": "Filius Endo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94026258,
+      "name": "Filius Endo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114861862,
+      "name": "Boost2020",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119545715,
+      "name": "Bad Babay",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andar Caltran",
+  "corporation_id": 98719096,
+  "alliance_id": 99010341,
+  "corporation_name": "Caltran Prospecting Co",
+  "alliance_name": "Malicious Mineral Hounds"
+}

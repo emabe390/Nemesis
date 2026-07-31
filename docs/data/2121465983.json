@@ -1,0 +1,40 @@
+{
+  "character_id": 2121465983,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95034355,
+    "name": "Jason Kusion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98502318,
+    "alliance_id": 1354830081,
+    "corporation_name": "KUSION SPECIAL TEAM",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95034355,
+      "name": "Jason Kusion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112269642,
+      "name": "Internet Wizard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116716343,
+      "name": "Empowered BlackWoman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viki Ichinumib",
+  "corporation_id": 98735335,
+  "alliance_id": 99013229,
+  "corporation_name": "Ichinumib's Space Force Milition",
+  "alliance_name": "Holy Gneiss Empire"
+}

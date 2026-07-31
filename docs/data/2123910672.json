@@ -1,0 +1,52 @@
+{
+  "character_id": 2123910672,
+  "total_losses": 32,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123106473,
+    "name": "Vaneliae",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98814441,
+    "alliance_id": 498125261,
+    "corporation_name": "Infinite Directive",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2123106473,
+      "name": "Vaneliae",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123709692,
+      "name": "Ice Frostyy",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95270250,
+      "name": "Warhawk Richard",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vuna Van Smith",
+  "corporation_id": 98355317,
+  "alliance_id": null,
+  "corporation_name": "Pass Online Company",
+  "alliance_name": null
+}

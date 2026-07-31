@@ -1,0 +1,40 @@
+{
+  "character_id": 2123882618,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90802673,
+    "name": "colin brunner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98689216,
+    "alliance_id": null,
+    "corporation_name": "Tutel Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90802673,
+      "name": "colin brunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92479966,
+      "name": "Raphael Vinters",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116805411,
+      "name": "Oscar Acha Achas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sergykal",
+  "corporation_id": 98815087,
+  "alliance_id": 99014495,
+  "corporation_name": "Tenebris Initiative",
+  "alliance_name": "Umbrella Initiative Alliance"
+}

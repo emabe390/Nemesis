@@ -1,0 +1,40 @@
+{
+  "character_id": 2124212565,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121037089,
+    "name": "Stomatolog-Proktolog",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98757282,
+    "alliance_id": null,
+    "corporation_name": "Elite Tactical Space Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121037089,
+      "name": "Stomatolog-Proktolog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124028753,
+      "name": "Rag Mk-668 Prime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91201278,
+      "name": "php3ch0 Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DiegoDeSierra",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

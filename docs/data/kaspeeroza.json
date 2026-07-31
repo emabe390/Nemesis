@@ -1,0 +1,40 @@
+{
+  "character_id": 2123866526,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122585842,
+    "name": "WP Prophet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833588,
+    "alliance_id": null,
+    "corporation_name": "Mishima Zaibatsu.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122585842,
+      "name": "WP Prophet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94512325,
+      "name": "Osrono Darksky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1916140599,
+      "name": "Bryan Yakinov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaspeeroza",
+  "corporation_id": 98815705,
+  "alliance_id": 99014552,
+  "corporation_name": "Placid Berner Farmers",
+  "alliance_name": "Political Catastrophe of New Eden"
+}

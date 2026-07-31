@@ -1,0 +1,52 @@
+{
+  "character_id": 2123155873,
+  "total_losses": 33,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 95072774,
+    "name": "Bob the Fourth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98814023,
+    "alliance_id": 99014284,
+    "corporation_name": "Imperrors Children",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96307776,
+      "name": "Chaz Beretta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 778105572,
+      "name": "Ryvian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 837434397,
+      "name": "Luminocity",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123155873",
+  "corporation_id": 98796766,
+  "alliance_id": null,
+  "corporation_name": "Momin and Damask",
+  "alliance_name": null
+}

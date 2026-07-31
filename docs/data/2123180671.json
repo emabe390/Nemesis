@@ -1,0 +1,52 @@
+{
+  "character_id": 2123180671,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 147718219,
+    "name": "Keeves",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98143154,
+    "alliance_id": 99004818,
+    "corporation_name": "Estamos Solos Corporation",
+    "alliance_name": "Estamos Solos Alliance."
+  },
+  "top_killers": [
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94305554,
+      "name": "Malatar Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94812976,
+      "name": "Ionia Blade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 930628122,
+      "name": "Bigyboo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1506758015,
+      "name": "Pothakos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Siegfried of Thidrekssaga",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

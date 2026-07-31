@@ -1,0 +1,34 @@
+{
+  "character_id": 90264888,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93180403,
+    "name": "Joseph Lundy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705257,
+    "alliance_id": null,
+    "corporation_name": "lmmortal players",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93180403,
+      "name": "Joseph Lundy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115436045,
+      "name": "Gavin Petrie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ISKPrinter Extraordinare",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

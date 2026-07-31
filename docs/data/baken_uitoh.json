@@ -1,0 +1,40 @@
+{
+  "character_id": 2122324503,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123443418,
+    "name": "HDFRT 1",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98734986,
+    "alliance_id": 99013160,
+    "corporation_name": "A despicable person",
+    "alliance_name": "Siberian Renters."
+  },
+  "top_killers": [
+    {
+      "id": 2123443418,
+      "name": "HDFRT 1",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123443436,
+      "name": "HDFRT 2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123443439,
+      "name": "HDFRT 3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baken Uitoh",
+  "corporation_id": 98734986,
+  "alliance_id": 99013160,
+  "corporation_name": "A despicable person",
+  "alliance_name": "Siberian Renters."
+}

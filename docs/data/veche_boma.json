@@ -1,0 +1,40 @@
+{
+  "character_id": 2117640872,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114436712,
+    "name": "Megacyte Jones",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98691522,
+    "alliance_id": 99012530,
+    "corporation_name": "FFEW Holdings",
+    "alliance_name": "FFEW Associates"
+  },
+  "top_killers": [
+    {
+      "id": 2114436712,
+      "name": "Megacyte Jones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122313529,
+      "name": "SecondH0pe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123263367,
+      "name": "QuantumBreak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veche Boma",
+  "corporation_id": 98696616,
+  "alliance_id": null,
+  "corporation_name": "Operations Division",
+  "alliance_name": null
+}

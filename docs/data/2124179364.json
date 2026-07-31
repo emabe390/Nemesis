@@ -1,0 +1,40 @@
+{
+  "character_id": 2124179364,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 250026850,
+    "name": "Serifex",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98674534,
+    "alliance_id": 99013513,
+    "corporation_name": "Voidlings",
+    "alliance_name": "V0IDLINGS"
+  },
+  "top_killers": [
+    {
+      "id": 250026850,
+      "name": "Serifex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112895096,
+      "name": "Ryno Tear",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122770581,
+      "name": "BlueSteelStare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indomitum Khirk",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124292472,
+  "total_losses": 20,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2124292423,
+    "name": "A-ZW-02",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124292423,
+      "name": "A-ZW-02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93319096,
+      "name": "Theo Keikira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97048783,
+      "name": "Working Class Man",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 709075780,
+      "name": "JDevoe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "A-ZW-03",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

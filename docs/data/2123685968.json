@@ -1,0 +1,40 @@
+{
+  "character_id": 2123685968,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124230367,
+      "name": "Dr Lance Boil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ms Gislina Blo",
+  "corporation_id": 98057138,
+  "alliance_id": 99009116,
+  "corporation_name": "Welcome to Estonia",
+  "alliance_name": "Post Nord"
+}

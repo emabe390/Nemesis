@@ -1,0 +1,52 @@
+{
+  "character_id": 2123949374,
+  "total_losses": 51,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 2122422795,
+    "name": "Number 95",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 423649791,
+    "alliance_id": null,
+    "corporation_name": "Virus 21",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122422795,
+      "name": "Number 95",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91810608,
+      "name": "Dalamus Malukker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 732859954,
+      "name": "Rotten Ralph",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Uko Virpio",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

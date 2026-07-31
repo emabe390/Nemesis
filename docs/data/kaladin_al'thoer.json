@@ -1,0 +1,46 @@
+{
+  "character_id": 2120493435,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119025621,
+    "name": "Wobba",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98689248,
+    "alliance_id": null,
+    "corporation_name": "Tengus are here.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119025621,
+      "name": "Wobba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118106252,
+      "name": "Vladislav Vetrovv",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118914334,
+      "name": "wotMIKA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119497538,
+      "name": "Log4j",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaladin al'Thoer",
+  "corporation_id": 98734001,
+  "alliance_id": 99013690,
+  "corporation_name": "S.A. NERV",
+  "alliance_name": "Critical. Mass."
+}

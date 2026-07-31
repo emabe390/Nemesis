@@ -1,0 +1,40 @@
+{
+  "character_id": 2123432158,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90615166,
+    "name": "Eve Days CEO",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90615166,
+      "name": "Eve Days CEO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116692521,
+      "name": "Snake Bob-Plissken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123482350,
+      "name": "Blacker Elvis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Murkkoken Otichoda",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

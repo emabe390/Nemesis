@@ -1,0 +1,40 @@
+{
+  "character_id": 2123276739,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123657282,
+    "name": "Dr Philip Fry",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98707671,
+    "alliance_id": 99011119,
+    "corporation_name": "Absolute Order XXXVII",
+    "alliance_name": "Absolute Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2123657282,
+      "name": "Dr Philip Fry",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94471524,
+      "name": "Toxic Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117326521,
+      "name": "Eira Nightgale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZepterSBR",
+  "corporation_id": 98572597,
+  "alliance_id": 99011621,
+  "corporation_name": "Dynamite Collective",
+  "alliance_name": "Drop Dead Cartel"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2114970967,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90364875,
+    "name": "Illustrale Mortales",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93223345,
+      "name": "Character 93223345",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93895347,
+      "name": "Kamehameha Keikira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 112384258,
+      "name": "Typherian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061967229,
+      "name": "Character 1061967229",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "baseLine",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

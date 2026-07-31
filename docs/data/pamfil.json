@@ -1,0 +1,40 @@
+{
+  "character_id": 2119832984,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 593062193,
+    "name": "Annexile",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 593062193,
+      "name": "Annexile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112767695,
+      "name": "Trabicsek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1724676886,
+      "name": "AlexSniper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pamfil",
+  "corporation_id": 98636420,
+  "alliance_id": 99009412,
+  "corporation_name": "DuckTape Enterprise",
+  "alliance_name": "Outer Planets Association"
+}

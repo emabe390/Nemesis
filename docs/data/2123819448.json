@@ -1,0 +1,40 @@
+{
+  "character_id": 2123819448,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115045182,
+    "name": "lfs xue",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802528,
+    "alliance_id": 99001969,
+    "corporation_name": "The Zephyr Brigade",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 2115045182,
+      "name": "lfs xue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115730320,
+      "name": "pin go",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121336473,
+      "name": "Baw-Jaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pukkala Ahishatsu",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

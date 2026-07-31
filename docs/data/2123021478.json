@@ -1,0 +1,52 @@
+{
+  "character_id": 2123021478,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123525807,
+    "name": "CapMino",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123086720,
+      "name": "Sprouty 0007",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123773317,
+      "name": "Character 2123773317",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92893972,
+      "name": "Quentoris Hedgehog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viana Koben",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

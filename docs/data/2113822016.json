@@ -1,0 +1,40 @@
+{
+  "character_id": 2113822016,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93392510,
+      "name": "Teme Odunen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113165642,
+      "name": "Character 2113165642",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StarGod",
+  "corporation_id": 98811167,
+  "alliance_id": 1354830081,
+  "corporation_name": "Atlas Horizon Dynamics Inc.",
+  "alliance_name": "Goonswarm Federation"
+}

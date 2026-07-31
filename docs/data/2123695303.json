@@ -1,0 +1,40 @@
+{
+  "character_id": 2123695303,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1756880362,
+    "name": "Nikalath",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 263585335,
+    "alliance_id": 99011978,
+    "corporation_name": "Black Omega Security",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1756880362,
+      "name": "Nikalath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90217161,
+      "name": "Loudyus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90737395,
+      "name": "Feth Dethahal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sherry Pennybottom",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

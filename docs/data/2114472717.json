@@ -1,0 +1,52 @@
+{
+  "character_id": 2114472717,
+  "total_losses": 63,
+  "unique_killers": 56,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 91070088,
+      "name": "J1m Raynor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92391533,
+      "name": "William Lindoa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93021970,
+      "name": "Unknown Nighthunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95863191,
+      "name": "ThatGuyToxic Tox",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Falendor Mar",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

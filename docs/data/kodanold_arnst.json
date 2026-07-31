@@ -1,0 +1,46 @@
+{
+  "character_id": 2123770417,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123770500,
+    "name": "Irver Moliko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123770500,
+      "name": "Irver Moliko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91409301,
+      "name": "Cody Miles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91768015,
+      "name": "Aterus Talvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123770429,
+      "name": "Kanger Silf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kodanold Arnst",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

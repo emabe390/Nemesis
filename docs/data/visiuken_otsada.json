@@ -1,0 +1,52 @@
+{
+  "character_id": 2123990306,
+  "total_losses": 68,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 334716679,
+    "name": "Daron Anik",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 334716679,
+      "name": "Daron Anik",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96706197,
+      "name": "Anita Mantalay",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90532329,
+      "name": "Kitty Duval",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90549811,
+      "name": "Wolfino",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90710624,
+      "name": "Dtex O'neil",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Visiuken Otsada",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

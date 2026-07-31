@@ -1,0 +1,34 @@
+{
+  "character_id": 2122710458,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93558221,
+    "name": "Everett Rockefeller",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98079349,
+    "alliance_id": 99005178,
+    "corporation_name": "National Liberation Force",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 93558221,
+      "name": "Everett Rockefeller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112828030,
+      "name": "Midniki",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Selim el-Hayil",
+  "corporation_id": 98782360,
+  "alliance_id": 99014704,
+  "corporation_name": "Boom Boom Salvage Services Inc.",
+  "alliance_name": "Space Whale Protection Agency"
+}

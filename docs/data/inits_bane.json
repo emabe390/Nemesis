@@ -1,0 +1,34 @@
+{
+  "character_id": 2120410481,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122421229,
+      "name": "Metalizer Dominatus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inits Bane",
+  "corporation_id": 98681394,
+  "alliance_id": 99003214,
+  "corporation_name": "Council of Exiles",
+  "alliance_name": "Brave Collective"
+}

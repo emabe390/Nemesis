@@ -1,0 +1,52 @@
+{
+  "character_id": 1287686605,
+  "total_losses": 48,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90573671,
+      "name": "Salidin Uitoh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91363454,
+      "name": "Taki Jeden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91477196,
+      "name": "Beacon Malaf Morgarit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IceGoon",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

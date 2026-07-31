@@ -1,0 +1,40 @@
+{
+  "character_id": 1134433580,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 931318966,
+    "name": "Aghira",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98683644,
+    "alliance_id": null,
+    "corporation_name": "Systech Astromantics Shipyard Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 931318966,
+      "name": "Aghira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 940427555,
+      "name": "Zen Horizon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1353163480,
+      "name": "oooh BIG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mezzoreth",
+  "corporation_id": 98373591,
+  "alliance_id": 131511956,
+  "corporation_name": "Jolly Dodgers Rogering Codgers",
+  "alliance_name": "Tactical Narcotics Team"
+}

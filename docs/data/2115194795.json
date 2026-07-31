@@ -1,0 +1,52 @@
+{
+  "character_id": 2115194795,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91266485,
+      "name": "Cpt Komoran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94423049,
+      "name": "Tolross Patrikeevna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cyan Glaze",
+  "corporation_id": 98803292,
+  "alliance_id": 99003995,
+  "corporation_name": "Dangerous technical cooperatives",
+  "alliance_name": "Invidia Gloriae Comes"
+}

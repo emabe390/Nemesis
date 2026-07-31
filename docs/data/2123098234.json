@@ -1,0 +1,52 @@
+{
+  "character_id": 2123098234,
+  "total_losses": 172,
+  "unique_killers": 135,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119020649,
+      "name": "RHlNOX",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123255343,
+      "name": "Blood Raider Goomb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118753294,
+      "name": "Dir World",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Railz",
+  "corporation_id": 98325373,
+  "alliance_id": 99012982,
+  "corporation_name": "Running with Dogs",
+  "alliance_name": "OnlyFleets."
+}

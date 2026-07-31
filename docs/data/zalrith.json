@@ -1,0 +1,52 @@
+{
+  "character_id": 2123204421,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112077183,
+    "name": "spookas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112077183,
+      "name": "spookas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120214950,
+      "name": "Bellum Mundos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91914392,
+      "name": "Haules Grznc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96806944,
+      "name": "Iris Sawtell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1386404133,
+      "name": "Rhetoricus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zalrith",
+  "corporation_id": 98808516,
+  "alliance_id": 99014284,
+  "corporation_name": "Lone Wormhole Nomad",
+  "alliance_name": "7.62"
+}

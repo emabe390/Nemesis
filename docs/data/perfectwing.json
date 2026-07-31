@@ -1,0 +1,52 @@
+{
+  "character_id": 91869744,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 104867899,
+    "name": "Silver Limited",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 101116365,
+    "alliance_id": 1988009451,
+    "corporation_name": "W.A.S.P",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 104867899,
+      "name": "Silver Limited",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92523684,
+      "name": "Disciple Amphal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PerfectWing",
+  "corporation_id": 98821024,
+  "alliance_id": 99010240,
+  "corporation_name": "Custodes Leonis Dentis",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

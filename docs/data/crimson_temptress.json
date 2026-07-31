@@ -1,0 +1,40 @@
+{
+  "character_id": 2123818564,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116291626,
+    "name": "Eva Starrchaser",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98745385,
+    "alliance_id": 99012544,
+    "corporation_name": "The God Hand.",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Crimson Temptress",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

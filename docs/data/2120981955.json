@@ -1,0 +1,52 @@
+{
+  "character_id": 2120981955,
+  "total_losses": 67,
+  "unique_killers": 61,
+  "nemesis": {
+    "id": 2116085579,
+    "name": "ME262",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2116085579,
+      "name": "ME262",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97007265,
+      "name": "Sven VanDamme",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1056152916,
+      "name": "Queen Minera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1440237961,
+      "name": "Vasim Vio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121151110,
+      "name": "Waseide Kondur",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Karkapti Tonn Garsk",
+  "corporation_id": 439896599,
+  "alliance_id": 99013537,
+  "corporation_name": "Therapy.",
+  "alliance_name": "Insidious."
+}

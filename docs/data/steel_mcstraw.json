@@ -1,0 +1,46 @@
+{
+  "character_id": 2123697045,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113349225,
+    "name": "freeman gadon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113349225,
+      "name": "freeman gadon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1320866393,
+      "name": "Herny Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1677119501,
+      "name": "Venui H",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119441760,
+      "name": "God-K",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Steel McStraw",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

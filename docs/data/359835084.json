@@ -1,0 +1,40 @@
+{
+  "character_id": 359835084,
+  "total_losses": 21,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 218326785,
+    "name": "tasos esmee",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98056778,
+    "alliance_id": 99000973,
+    "corporation_name": "Sylph Holdings",
+    "alliance_name": "Sons of Sylph"
+  },
+  "top_killers": [
+    {
+      "id": 218326785,
+      "name": "tasos esmee",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 182833890,
+      "name": "Wyrmrider",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mysterious Agent",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

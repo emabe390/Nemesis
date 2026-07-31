@@ -1,0 +1,52 @@
+{
+  "character_id": 2118722265,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90408677,
+    "name": "Mefc Ipret",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98722384,
+    "alliance_id": null,
+    "corporation_name": "Mefc Ipret Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122062785,
+      "name": "Mag Baugh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 872240029,
+      "name": "Lain Piero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114882009,
+      "name": "Zims Vector",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120185553,
+      "name": "TimHorntons",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deathium",
+  "corporation_id": 98663870,
+  "alliance_id": 99010431,
+  "corporation_name": "Ohnivak of Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123709540,
+  "total_losses": 20,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2117513321,
+    "name": "Lulelala Gaterau",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98665606,
+    "alliance_id": 99011144,
+    "corporation_name": "Lux Mundi Exploration Company",
+    "alliance_name": "Lux Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2117513321,
+      "name": "Lulelala Gaterau",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121195895,
+      "name": "Cailin Dioltas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 533403867,
+      "name": "Drusus Nerva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118411794,
+      "name": "Fable Takenoko",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Felyx Akka Yaken",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

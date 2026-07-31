@@ -1,0 +1,52 @@
+{
+  "character_id": 2123807941,
+  "total_losses": 17,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123623251,
+    "name": "Mally Malinez",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123623251,
+      "name": "Mally Malinez",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 91270573,
+      "name": "Decibel Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 208472006,
+      "name": "Xlost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1204020139,
+      "name": "Thrakil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1856194705,
+      "name": "GemsWest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tibal Sojourn",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

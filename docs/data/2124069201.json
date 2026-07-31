@@ -1,0 +1,46 @@
+{
+  "character_id": 2124069201,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123763885,
+    "name": "Freddy Lecter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117488712,
+      "name": "Sir Bongwater Hackalung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silent Kernel Veyne",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

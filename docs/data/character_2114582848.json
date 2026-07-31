@@ -1,0 +1,40 @@
+{
+  "character_id": 2114582848,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121653759,
+    "name": "Ausko Drakka",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 427125032,
+    "alliance_id": 1354830081,
+    "corporation_name": "TunDraGon",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121653759,
+      "name": "Ausko Drakka",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 345875676,
+      "name": "Caleb Drakka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2114582848",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

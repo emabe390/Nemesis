@@ -1,0 +1,40 @@
+{
+  "character_id": 1633218082,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91357604,
+    "name": "Murs Melkan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 605796230,
+    "alliance_id": null,
+    "corporation_name": "Another War",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91357604,
+      "name": "Murs Melkan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1249390415,
+      "name": "Nephtali Zebulon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115775761,
+      "name": "Zorian Kazinski",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Squizz Caphinator",
+  "corporation_id": 98798418,
+  "alliance_id": 99010102,
+  "corporation_name": "Hole Lotta Trouble",
+  "alliance_name": "The Wormhole Police"
+}

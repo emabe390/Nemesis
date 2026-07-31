@@ -1,0 +1,52 @@
+{
+  "character_id": 1579301401,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112529143,
+    "name": "NB zhang",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630535,
+    "alliance_id": null,
+    "corporation_name": "NO.1024",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112529143,
+      "name": "NB zhang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1081126123,
+      "name": "Cryptosporidium_137",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1192419051,
+      "name": "DanOWars Dog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pimpeckas",
+  "corporation_id": 502658884,
+  "alliance_id": 99007629,
+  "corporation_name": "Ecliptic Control",
+  "alliance_name": "Ferrata Victrix"
+}

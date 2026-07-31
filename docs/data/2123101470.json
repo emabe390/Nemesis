@@ -1,0 +1,52 @@
+{
+  "character_id": 2123101470,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2114908004,
+    "name": "Polar Sky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98832332,
+    "alliance_id": null,
+    "corporation_name": "Nova Recon Group",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114908004,
+      "name": "Polar Sky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96120524,
+      "name": "Declyn Archer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 763179835,
+      "name": "AngryKid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112478281,
+      "name": "Rey Olerie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115232668,
+      "name": "Sancho Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zokora Droedning",
+  "corporation_id": 98394568,
+  "alliance_id": 99002685,
+  "corporation_name": "Hamburg Space Soldiers",
+  "alliance_name": "Synergy of Steel"
+}

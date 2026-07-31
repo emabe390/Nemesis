@@ -1,0 +1,52 @@
+{
+  "character_id": 2123878061,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92248620,
+    "name": "Brother Zebediah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92248620,
+      "name": "Brother Zebediah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120894096,
+      "name": "Ash Torp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121933518,
+      "name": "Aruulis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123513759,
+      "name": "Patoh Inota Shihari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91982218,
+      "name": "Vasquez Ovilo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ci-AJ",
+  "corporation_id": 98626718,
+  "alliance_id": 99009163,
+  "corporation_name": "Kuan.Dai.Shan",
+  "alliance_name": "Dracarys."
+}

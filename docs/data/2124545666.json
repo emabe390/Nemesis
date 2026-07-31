@@ -1,0 +1,52 @@
+{
+  "character_id": 2124545666,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116532118,
+      "name": "Ricardo's Banana Bonanza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96666656,
+      "name": "Xarfei Badasaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124545666",
+  "corporation_id": 98839356,
+  "alliance_id": 99009163,
+  "corporation_name": "Deepwell Resource Group",
+  "alliance_name": "Dracarys."
+}

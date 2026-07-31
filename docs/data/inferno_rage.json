@@ -1,0 +1,34 @@
+{
+  "character_id": 2123229090,
+  "total_losses": 9,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120442902,
+    "name": "Epicux Furor",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98646608,
+    "alliance_id": 99013766,
+    "corporation_name": "Crack Holes Inc.",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2120442902,
+      "name": "Epicux Furor",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2113715693,
+      "name": "leo ramma",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Inferno Rage",
+  "corporation_id": 98768800,
+  "alliance_id": null,
+  "corporation_name": "Dungeon Shack",
+  "alliance_name": null
+}

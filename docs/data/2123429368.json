@@ -1,0 +1,40 @@
+{
+  "character_id": 2123429368,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117735810,
+    "name": "Structure Evaporation Specialist",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750695,
+    "alliance_id": 99010421,
+    "corporation_name": "Fist By Fist",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2117735810,
+      "name": "Structure Evaporation Specialist",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113258917,
+      "name": "Jack Oslo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117033558,
+      "name": "Your Awesum Sista",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paddy Sedaria",
+  "corporation_id": 98488193,
+  "alliance_id": null,
+  "corporation_name": "Ruededay's Rednecks",
+  "alliance_name": null
+}

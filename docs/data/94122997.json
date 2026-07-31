@@ -1,0 +1,40 @@
+{
+  "character_id": 94122997,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95141153,
+    "name": "Jarvis Aurelius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122032251,
+      "name": "Twinkie69",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joe Mena",
+  "corporation_id": 98366055,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ministry of Offense",
+  "alliance_name": "Goonswarm Federation"
+}

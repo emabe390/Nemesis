@@ -1,0 +1,52 @@
+{
+  "character_id": 2123599818,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123687706,
+    "name": "Mary Alice Cullen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123687706,
+      "name": "Mary Alice Cullen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90447488,
+      "name": "Kiramati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 532538568,
+      "name": "Elder Thorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117633977,
+      "name": "Otsala Tsutola",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sylas Mailloux",
+  "corporation_id": 98808186,
+  "alliance_id": 99013442,
+  "corporation_name": "Occlusion Tech",
+  "alliance_name": "The Frog Foundry"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2079794360,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113500314,
+    "name": "Maximus Hnus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94848671,
+      "name": "Valentino Flex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113520942,
+      "name": "Mampi Swift",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Headerman",
+  "corporation_id": 1000060,
+  "alliance_id": null,
+  "corporation_name": "Native Freshfood",
+  "alliance_name": null
+}

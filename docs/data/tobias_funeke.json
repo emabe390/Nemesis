@@ -1,0 +1,52 @@
+{
+  "character_id": 92825942,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 2114813811,
+      "name": "Tammsin Valkyrie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90546403,
+      "name": "Red Askold",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92825942,
+      "name": "Tobias Funeke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93978834,
+      "name": "Euthymius Sagetus Remak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tobias Funeke",
+  "corporation_id": 98662323,
+  "alliance_id": 99010756,
+  "corporation_name": "Voidhounds",
+  "alliance_name": "Pretenders"
+}

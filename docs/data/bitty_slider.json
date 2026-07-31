@@ -1,0 +1,40 @@
+{
+  "character_id": 2124348023,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95995982,
+    "name": "Edgar Ottig",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95995982,
+      "name": "Edgar Ottig",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bitty Slider",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

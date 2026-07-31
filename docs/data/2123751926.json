@@ -1,0 +1,46 @@
+{
+  "character_id": 2123751926,
+  "total_losses": 11,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123736795,
+    "name": "Batou Baton",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123736795,
+      "name": "Batou Baton",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123752120,
+      "name": "Fiona McCarthy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94712373,
+      "name": "Bullet Anarchy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fernanda Santos",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

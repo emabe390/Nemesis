@@ -1,0 +1,52 @@
+{
+  "character_id": 2123601396,
+  "total_losses": 20,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2123792081,
+    "name": "Character 2123792081",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 251593602,
+    "alliance_id": null,
+    "corporation_name": "Inner Geek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123792081,
+      "name": "Character 2123792081",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94307363,
+      "name": "Anika Petrokova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94891058,
+      "name": "Kai Mirrabel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95940713,
+      "name": "Alex Jantex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96133420,
+      "name": "Walter Kayden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chinese Spy",
+  "corporation_id": 98801052,
+  "alliance_id": null,
+  "corporation_name": "Ventriloquists in the Dark",
+  "alliance_name": null
+}

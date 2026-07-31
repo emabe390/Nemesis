@@ -1,0 +1,40 @@
+{
+  "character_id": 2121666886,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93110002,
+    "name": "Festmester Uctionsson",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560158,
+    "alliance_id": 1042504553,
+    "corporation_name": "Konrakas Forged",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 93110002,
+      "name": "Festmester Uctionsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96065848,
+      "name": "Sergey Khamsi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 154955426,
+      "name": "Scrondo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oziel Garo",
+  "corporation_id": 98791475,
+  "alliance_id": null,
+  "corporation_name": "Exploding Pixels",
+  "alliance_name": null
+}

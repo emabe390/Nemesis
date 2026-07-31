@@ -1,0 +1,40 @@
+{
+  "character_id": 2123411254,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 552357022,
+    "name": "DoubleAught Buck",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98769211,
+    "alliance_id": 99011223,
+    "corporation_name": "Yamato Tech Solutions",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 552357022,
+      "name": "DoubleAught Buck",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1512855981,
+      "name": "Character 1512855981",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117724652,
+      "name": "iki mtu",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123411254",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

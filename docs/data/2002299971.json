@@ -1,0 +1,52 @@
+{
+  "character_id": 2002299971,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 509772749,
+    "name": "lightstorm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 509772749,
+      "name": "lightstorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 703729843,
+      "name": "Brinn Yerdola",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116486175,
+      "name": "02darling",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118965254,
+      "name": "Audanie Gidrine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119947844,
+      "name": "Aladar Krahn",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "deaths viper",
+  "corporation_id": 1000107,
+  "alliance_id": null,
+  "corporation_name": "The Scope",
+  "alliance_name": null
+}

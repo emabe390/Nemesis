@@ -1,0 +1,52 @@
+{
+  "character_id": 2123791122,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1373971920,
+    "name": "Heinrich Hertz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807228,
+    "alliance_id": 99014873,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121733211,
+      "name": "Ishtera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1042142793,
+      "name": "Joseph Flee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123791122",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

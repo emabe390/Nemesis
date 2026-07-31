@@ -1,0 +1,34 @@
+{
+  "character_id": 2123768233,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 224846390,
+    "name": "Bluedagger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 224846390,
+      "name": "Bluedagger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115668256,
+      "name": "WrecklessOne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "kamanda Zack",
+  "corporation_id": 98682508,
+  "alliance_id": 99012018,
+  "corporation_name": "EDENCOM Section 7",
+  "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+}

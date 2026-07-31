@@ -1,0 +1,52 @@
+{
+  "character_id": 2122805186,
+  "total_losses": 30,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2112444474,
+    "name": "Jon Carson",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98511397,
+    "alliance_id": null,
+    "corporation_name": "Jita Security Forces",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112444474,
+      "name": "Jon Carson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 852478401,
+      "name": "chriu1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1392128205,
+      "name": "muianol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90464749,
+      "name": "Chikaze Chitose",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nicholas Soldberg",
+  "corporation_id": 98795383,
+  "alliance_id": 99003956,
+  "corporation_name": "PushX Beacon Network",
+  "alliance_name": "Push Interstellar Network"
+}

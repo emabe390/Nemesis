@@ -1,0 +1,34 @@
+{
+  "character_id": 2122316274,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 789508125,
+    "name": "Transipid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 789508125,
+      "name": "Transipid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120398830,
+      "name": "Pulls 4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mr Romul",
+  "corporation_id": 98821805,
+  "alliance_id": null,
+  "corporation_name": "West Hercegovina Corp",
+  "alliance_name": null
+}

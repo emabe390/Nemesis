@@ -1,0 +1,46 @@
+{
+  "character_id": 2124470732,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95928021,
+    "name": "Gina Ferro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95928021,
+      "name": "Gina Ferro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 560468720,
+      "name": "Asbendale Silverblade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116678949,
+      "name": "Jonathan Pressfield",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MET0",
+  "corporation_id": 98673544,
+  "alliance_id": 99003581,
+  "corporation_name": "InFlames.",
+  "alliance_name": "Fraternity."
+}

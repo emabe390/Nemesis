@@ -1,0 +1,40 @@
+{
+  "character_id": 2117883010,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96264180,
+    "name": "Danny Darmazaf",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 96264180,
+      "name": "Danny Darmazaf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117654467,
+      "name": "Dr Kaden Tentis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rah Ature",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

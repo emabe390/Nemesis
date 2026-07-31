@@ -1,0 +1,40 @@
+{
+  "character_id": 987307227,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90364875,
+    "name": "Illustrale Mortales",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94163930,
+      "name": "Aleesha Al'Thor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Demitry Rasloph",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

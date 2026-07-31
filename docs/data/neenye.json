@@ -1,0 +1,40 @@
+{
+  "character_id": 2122407126,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94606990,
+    "name": "Warzlol",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 94606990,
+      "name": "Warzlol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neenye",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

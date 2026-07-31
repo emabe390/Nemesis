@@ -1,0 +1,52 @@
+{
+  "character_id": 2124163450,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120719322,
+    "name": "Hymn to Ninkasi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795520,
+    "alliance_id": null,
+    "corporation_name": "Red Viper Gang",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120719322,
+      "name": "Hymn to Ninkasi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122021933,
+      "name": "Latevell Belvar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91683397,
+      "name": "davie leach",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93794087,
+      "name": "Justin Nero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94210135,
+      "name": "Dino Pellion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ecstx",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

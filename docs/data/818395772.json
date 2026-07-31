@@ -1,0 +1,52 @@
+{
+  "character_id": 818395772,
+  "total_losses": 29,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 97007244,
+      "name": "Baikal 52rus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112909557,
+      "name": "TsukiAkari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123582330,
+      "name": "Ryvixa Arylia",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "numpy",
+  "corporation_id": 693378155,
+  "alliance_id": 498125261,
+  "corporation_name": "Unholy Knights of Cthulhu",
+  "alliance_name": "Test Alliance Please Ignore"
+}

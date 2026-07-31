@@ -1,0 +1,52 @@
+{
+  "character_id": 2124280753,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123797036,
+      "name": "Black Hare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1007617072,
+      "name": "Benzmann",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1696881463,
+      "name": "Character 1696881463",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pinballmaschine",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

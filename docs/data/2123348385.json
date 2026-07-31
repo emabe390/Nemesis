@@ -1,0 +1,52 @@
+{
+  "character_id": 2123348385,
+  "total_losses": 56,
+  "unique_killers": 52,
+  "nemesis": {
+    "id": 2115841087,
+    "name": "I-TVOI-ROT EDA-SHATAL",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98828016,
+    "alliance_id": null,
+    "corporation_name": "Mewgenics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115841087,
+      "name": "I-TVOI-ROT EDA-SHATAL",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122877153,
+      "name": "Russian Spy VIII",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122929547,
+      "name": "Morgan lIlIIlIlll",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020062,
+      "name": "Allecto Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3020064,
+      "name": "Tisiphone Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "skolkio kamnia",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

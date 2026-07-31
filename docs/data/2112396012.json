@@ -1,0 +1,52 @@
+{
+  "character_id": 2112396012,
+  "total_losses": 23,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 94905595,
+    "name": "World Wide Web",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98759555,
+    "alliance_id": 99012929,
+    "corporation_name": "Abrupt Decay",
+    "alliance_name": "Deteriorated"
+  },
+  "top_killers": [
+    {
+      "id": 94905595,
+      "name": "World Wide Web",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 322843081,
+      "name": "Felicia Ha'thor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96071269,
+      "name": "Jacques Perl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fabrizz Adama",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

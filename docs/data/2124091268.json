@@ -1,0 +1,52 @@
+{
+  "character_id": 2124091268,
+  "total_losses": 23,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123429601,
+    "name": "TackleMan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90547537,
+      "name": "Darius Caliente",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929795590,
+      "name": "Qindar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114726406,
+      "name": "Xantali Outamon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114930997,
+      "name": "Jacques Omanid",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Troll King 01",
+  "corporation_id": 98801578,
+  "alliance_id": 99014087,
+  "corporation_name": "CHUANGSHI Foundation",
+  "alliance_name": "ChuangShi Federation"
+}

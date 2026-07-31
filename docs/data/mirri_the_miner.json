@@ -1,0 +1,52 @@
+{
+  "character_id": 2123535214,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115274195,
+      "name": "newdoublex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122405104,
+      "name": "stella nutella",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mirri the miner",
+  "corporation_id": 98811081,
+  "alliance_id": 150097440,
+  "corporation_name": "The Deep Nest",
+  "alliance_name": "Get Off My Lawn"
+}

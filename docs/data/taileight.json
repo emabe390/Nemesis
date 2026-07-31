@@ -1,0 +1,52 @@
+{
+  "character_id": 2123560893,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2112931443,
+    "name": "Leon Haias",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98494391,
+    "alliance_id": 99009287,
+    "corporation_name": "Fish Vending Machine",
+    "alliance_name": "Beyond the Breach"
+  },
+  "top_killers": [
+    {
+      "id": 2112931443,
+      "name": "Leon Haias",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114980900,
+      "name": "Uncle Wired",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116275889,
+      "name": "Freedom Hero X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121060855,
+      "name": "NEOYC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122445447,
+      "name": "Ivanovic Yulia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TailEight",
+  "corporation_id": 98818418,
+  "alliance_id": 99014548,
+  "corporation_name": "The Ouroboros Collective",
+  "alliance_name": "Project Oasis"
+}

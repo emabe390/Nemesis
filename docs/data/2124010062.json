@@ -1,0 +1,40 @@
+{
+  "character_id": 2124010062,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 380645459,
+    "name": "Tyrinath Silverwing",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 380645459,
+      "name": "Tyrinath Silverwing",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116881392,
+      "name": "Kevan Karstark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117608364,
+      "name": "Shivon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grave Pastrami",
+  "corporation_id": 98578122,
+  "alliance_id": 99013502,
+  "corporation_name": "The Peoples Space Republic",
+  "alliance_name": "Itty Bitty Asteroid Committee"
+}

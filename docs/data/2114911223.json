@@ -1,0 +1,40 @@
+{
+  "character_id": 2114911223,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122309045,
+    "name": "BarryBravo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 814655894,
+    "alliance_id": null,
+    "corporation_name": "Master Miners",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122309045,
+      "name": "BarryBravo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 540377496,
+      "name": "Dark Drifter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115252603,
+      "name": "Christina Kashuken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zyros Ellecon",
+  "corporation_id": 98797987,
+  "alliance_id": null,
+  "corporation_name": "Arctic Wolf Ship Industry",
+  "alliance_name": null
+}

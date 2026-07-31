@@ -1,0 +1,52 @@
+{
+  "character_id": 2123268485,
+  "total_losses": 29,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2121970090,
+    "name": "Cpt Pepinion",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98789084,
+    "alliance_id": null,
+    "corporation_name": "The Voyager FM",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121970090,
+      "name": "Cpt Pepinion",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95356395,
+      "name": "Mick Wilde",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Meseal",
+  "corporation_id": 98799550,
+  "alliance_id": null,
+  "corporation_name": "MSL Corp",
+  "alliance_name": null
+}

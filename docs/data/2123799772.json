@@ -1,0 +1,40 @@
+{
+  "character_id": 2123799772,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123795204,
+    "name": "Exorzlst",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98778431,
+    "alliance_id": 99014309,
+    "corporation_name": "Cursed Legacy Keepers",
+    "alliance_name": "Bright Side of Life"
+  },
+  "top_killers": [
+    {
+      "id": 2123795204,
+      "name": "Exorzlst",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 787362669,
+      "name": "Character 787362669",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Glotsper",
+  "corporation_id": 98814422,
+  "alliance_id": null,
+  "corporation_name": "W1NX",
+  "alliance_name": null
+}

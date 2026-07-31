@@ -1,0 +1,34 @@
+{
+  "character_id": 2118434205,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113209982,
+    "name": "Rick Killjoy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2113209982,
+      "name": "Rick Killjoy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121943644,
+      "name": "Igor Vladianov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arkaelus Deth",
+  "corporation_id": 98824191,
+  "alliance_id": null,
+  "corporation_name": "Free Associators of New Eden",
+  "alliance_name": null
+}

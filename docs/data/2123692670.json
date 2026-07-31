@@ -1,0 +1,52 @@
+{
+  "character_id": 2123692670,
+  "total_losses": 240,
+  "unique_killers": 191,
+  "nemesis": {
+    "id": 268321879,
+    "name": "Kriomnimus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 268321879,
+      "name": "Kriomnimus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 449592077,
+      "name": "Relentlis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93903530,
+      "name": "Ishtar Jesus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Stellan Drax",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

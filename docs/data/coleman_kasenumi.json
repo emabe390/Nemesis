@@ -1,0 +1,52 @@
+{
+  "character_id": 92207185,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95634389,
+    "name": "Rubicant Chisel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752603,
+    "alliance_id": null,
+    "corporation_name": "BobVult",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95634389,
+      "name": "Rubicant Chisel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91839646,
+      "name": "Rebecca Coleman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120778556,
+      "name": "EF Zeta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coleman Kasenumi",
+  "corporation_id": 98748326,
+  "alliance_id": null,
+  "corporation_name": "Forgot to repair",
+  "alliance_name": null
+}

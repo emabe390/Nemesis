@@ -1,0 +1,52 @@
+{
+  "character_id": 2120792809,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 1
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91143928,
+      "name": "Xanndros Yamato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mimo KrokKodil",
+  "corporation_id": 98520878,
+  "alliance_id": 99001317,
+  "corporation_name": "Russian Space Community",
+  "alliance_name": "Banderlogs Alliance"
+}

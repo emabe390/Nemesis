@@ -1,0 +1,34 @@
+{
+  "character_id": 2124502958,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1556713165,
+    "name": "Baranor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1056867436,
+    "alliance_id": 99003581,
+    "corporation_name": "Super Villains",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1556713165,
+      "name": "Baranor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95828218,
+      "name": "Character 95828218",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nobodywillknow",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

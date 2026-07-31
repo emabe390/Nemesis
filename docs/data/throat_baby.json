@@ -1,0 +1,52 @@
+{
+  "character_id": 2123656364,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120292469,
+    "name": "PRIMARCH R0GAL D0RN",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98808921,
+    "alliance_id": null,
+    "corporation_name": "Veil of the Black Vulture",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120292469,
+      "name": "PRIMARCH R0GAL D0RN",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 255014718,
+      "name": "Pushtan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 354772370,
+      "name": "VONDITCH",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 992181402,
+      "name": "Strife Senior",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1044455859,
+      "name": "The Maintz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Throat Baby",
+  "corporation_id": 98799729,
+  "alliance_id": 1900696668,
+  "corporation_name": "Splash Inc.",
+  "alliance_name": "The Initiative."
+}

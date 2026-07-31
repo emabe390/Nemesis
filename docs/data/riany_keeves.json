@@ -1,0 +1,40 @@
+{
+  "character_id": 2123987113,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123147208,
+    "name": "Devorax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1101208023,
+    "alliance_id": null,
+    "corporation_name": "Black Skull Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123147208,
+      "name": "Devorax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115107587,
+      "name": "Character 2115107587",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118655693,
+      "name": "MoonRock7900",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Riany Keeves",
+  "corporation_id": 98632371,
+  "alliance_id": null,
+  "corporation_name": "Look some one's coming",
+  "alliance_name": null
+}

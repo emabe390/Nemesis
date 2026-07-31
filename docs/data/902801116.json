@@ -1,0 +1,40 @@
+{
+  "character_id": 902801116,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90994762,
+    "name": "Bill Sharts",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 90994762,
+      "name": "Bill Sharts",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 867941714,
+      "name": "Dark Pandemonium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121763741,
+      "name": "Yeramell23",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Damol",
+  "corporation_id": 98676755,
+  "alliance_id": null,
+  "corporation_name": "Verge of Mortalis",
+  "alliance_name": null
+}

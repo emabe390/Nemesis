@@ -1,0 +1,40 @@
+{
+  "character_id": 2121449647,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121902764,
+    "name": "Omtriam",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98089975,
+    "alliance_id": 99005034,
+    "corporation_name": "ANCIENT SYNDICATE",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 2121902764,
+      "name": "Omtriam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119019806,
+      "name": "NewCharacterIn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chaston en Marland",
+  "corporation_id": 98827024,
+  "alliance_id": null,
+  "corporation_name": "Grimm Ice Stone Corporation",
+  "alliance_name": null
+}

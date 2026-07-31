@@ -1,0 +1,40 @@
+{
+  "character_id": 2121384837,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 275909629,
+    "name": "Ira Warwick",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98583746,
+    "alliance_id": null,
+    "corporation_name": "Bad and Dumb",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 275909629,
+      "name": "Ira Warwick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121384837,
+      "name": "Elliosh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123619269,
+      "name": "Private Sens",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elliosh",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

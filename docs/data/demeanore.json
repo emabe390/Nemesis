@@ -1,0 +1,40 @@
+{
+  "character_id": 1881696181,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91969249,
+      "name": "F1ashKa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122700765,
+      "name": "Nada Tor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Demeanore",
+  "corporation_id": 967501471,
+  "alliance_id": 99004804,
+  "corporation_name": "SoT",
+  "alliance_name": "DarkSide."
+}

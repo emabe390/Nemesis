@@ -1,0 +1,40 @@
+{
+  "character_id": 90403870,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92051284,
+    "name": "Viktor Vladislav",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92051284,
+      "name": "Viktor Vladislav",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92000736,
+      "name": "Scott Auscent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120838803,
+      "name": "Jenham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "zebulon xavier",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

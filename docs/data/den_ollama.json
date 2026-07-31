@@ -1,0 +1,52 @@
+{
+  "character_id": 2123291101,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 92150428,
+    "name": "Blackstar 13",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98307258,
+    "alliance_id": 99004357,
+    "corporation_name": "Boars on Parade",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 92150428,
+      "name": "Blackstar 13",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115982523,
+      "name": "Mieko Aoyama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118499079,
+      "name": "Yii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118502403,
+      "name": "Raude Attey Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118684909,
+      "name": "De3insektor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Den Ollama",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

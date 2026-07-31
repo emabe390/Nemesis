@@ -1,0 +1,40 @@
+{
+  "character_id": 96379193,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93838156,
+    "name": "Abu Galia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695839,
+    "alliance_id": 99003214,
+    "corporation_name": "South Sun Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 93838156,
+      "name": "Abu Galia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114042685,
+      "name": "Jeigger Master",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114635658,
+      "name": "enichaM NKD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bal Tak",
+  "corporation_id": 709221692,
+  "alliance_id": 99005393,
+  "corporation_name": "Blueprint Haus",
+  "alliance_name": "Blades of Grass"
+}

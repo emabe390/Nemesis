@@ -1,0 +1,40 @@
+{
+  "character_id": 2122599453,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121763655,
+      "name": "Goddess of Destruction",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123414672,
+      "name": "BoskiApollo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Evgeny Chernyavsky",
+  "corporation_id": 98812395,
+  "alliance_id": 99014419,
+  "corporation_name": "Skiff to the heavens",
+  "alliance_name": "Seals on the rocks"
+}

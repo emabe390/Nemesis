@@ -1,0 +1,52 @@
+{
+  "character_id": 2123894801,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1644138151,
+    "name": "Arcanier",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 1644138151,
+      "name": "Arcanier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113608503,
+      "name": "Ittihat Ve-Terakki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123779626,
+      "name": "Vollmer Mortium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123894792,
+      "name": "Vollmer Fidelis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vollmer Supra",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

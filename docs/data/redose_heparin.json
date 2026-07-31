@@ -1,0 +1,52 @@
+{
+  "character_id": 2123788716,
+  "total_losses": 11,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90151749,
+    "name": "Zjorg",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90151749,
+      "name": "Zjorg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91145490,
+      "name": "Peter Johannsen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94111010,
+      "name": "Nate Marston",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112440947,
+      "name": "NightTime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115634435,
+      "name": "Schindler's Access List",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Redose Heparin",
+  "corporation_id": 98816518,
+  "alliance_id": null,
+  "corporation_name": "Limb Salvage",
+  "alliance_name": null
+}

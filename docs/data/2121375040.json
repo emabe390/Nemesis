@@ -1,0 +1,52 @@
+{
+  "character_id": 2121375040,
+  "total_losses": 42,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2123811423,
+      "name": "Amaro Averna",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115710345,
+      "name": "Sara Not-Conor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Elisa Star Labyrinth",
+  "corporation_id": 98818355,
+  "alliance_id": 99013766,
+  "corporation_name": "Capys Legion",
+  "alliance_name": "Death Legion of Capybaras"
+}

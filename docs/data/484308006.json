@@ -1,0 +1,52 @@
+{
+  "character_id": 484308006,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 214665328,
+    "name": "Mr Dima",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 484308006,
+      "name": "Ginpour",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95390574,
+      "name": "qneb Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 481794202,
+      "name": "MrAssasin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 531713522,
+      "name": "Sigurd Gudmundson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ginpour",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

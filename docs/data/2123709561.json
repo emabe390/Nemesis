@@ -1,0 +1,40 @@
+{
+  "character_id": 2123709561,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112270582,
+    "name": "Bixtarqiv",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112270582,
+      "name": "Bixtarqiv",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121959222,
+      "name": "GregoryHouse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121977777,
+      "name": "KurtBunker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HighlandFire",
+  "corporation_id": 98559450,
+  "alliance_id": 99003214,
+  "corporation_name": "DanJev United",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123925226,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123842865,
+    "name": "Chamomile Pearl",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98812908,
+    "alliance_id": 99003995,
+    "corporation_name": "Domain of Death",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123842865,
+      "name": "Chamomile Pearl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123940029,
+      "name": "Xiang Chai Qun3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123851525,
+      "name": "Xiang Chai Qun1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xiang Chai Qun2",
+  "corporation_id": 98812908,
+  "alliance_id": 99003995,
+  "corporation_name": "Domain of Death",
+  "alliance_name": "Invidia Gloriae Comes"
+}

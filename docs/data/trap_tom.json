@@ -1,0 +1,40 @@
+{
+  "character_id": 2113980169,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123908332,
+    "name": "Hitka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123908332,
+      "name": "Hitka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116406318,
+      "name": "Donald TrumpRus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120239208,
+      "name": "Ash3D",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trap Tom",
+  "corporation_id": 98536399,
+  "alliance_id": 99003581,
+  "corporation_name": "Galloglas",
+  "alliance_name": "Fraternity."
+}

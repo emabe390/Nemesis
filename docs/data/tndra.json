@@ -1,0 +1,40 @@
+{
+  "character_id": 2124369497,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122996071,
+    "name": "Cecillya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837758,
+    "alliance_id": null,
+    "corporation_name": "KAIJU FRIENDLY",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122996071,
+      "name": "Cecillya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114346858,
+      "name": "XereCard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117545614,
+      "name": "Jorji Costava",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TNDRA",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119384726,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117318211,
+    "name": "okoshnik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98683208,
+    "alliance_id": 99007203,
+    "corporation_name": "RED HOT Team.",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2117318211,
+      "name": "okoshnik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 278162822,
+      "name": "Enord Metsys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 620836340,
+      "name": "CATfromCheshire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1632015551,
+      "name": "Zakalve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ClanTrader",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

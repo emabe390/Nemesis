@@ -1,0 +1,40 @@
+{
+  "character_id": 90120256,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114015384,
+    "name": "Bri Kato",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1673385956,
+    "alliance_id": 99011223,
+    "corporation_name": "Syndicate Enterprise",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2114015384,
+      "name": "Bri Kato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119243948,
+      "name": "Scott Thomas 21",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vladimier Armassa",
+  "corporation_id": 1997935844,
+  "alliance_id": 99007887,
+  "corporation_name": "Hooded Underworld Guys",
+  "alliance_name": "Brotherhood of Spacers"
+}

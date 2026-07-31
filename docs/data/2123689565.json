@@ -1,0 +1,52 @@
+{
+  "character_id": 2123689565,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 149849961,
+    "name": "Zmey Gorynich",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98535701,
+    "alliance_id": 99013851,
+    "corporation_name": "Geto-Dacii",
+    "alliance_name": "M A C U L A"
+  },
+  "top_killers": [
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1656471481,
+      "name": "PeteLaci",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120838803,
+      "name": "Jenham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gideon Tanarian",
+  "corporation_id": 98297722,
+  "alliance_id": 99002685,
+  "corporation_name": "Space Colony",
+  "alliance_name": "Synergy of Steel"
+}

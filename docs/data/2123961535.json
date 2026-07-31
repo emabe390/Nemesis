@@ -1,0 +1,46 @@
+{
+  "character_id": 2123961535,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92952998,
+    "name": "Tricycle Jones",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 92952998,
+      "name": "Tricycle Jones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95796688,
+      "name": "Sonya Redgun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96128670,
+      "name": "Pterry Dactyl Kasterborous",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Logistician 0",
+  "corporation_id": 98655899,
+  "alliance_id": null,
+  "corporation_name": "Priesting",
+  "alliance_name": null
+}

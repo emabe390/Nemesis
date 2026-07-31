@@ -1,0 +1,52 @@
+{
+  "character_id": 2117864435,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117779152,
+    "name": "Dominus Socuscius",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117779152,
+      "name": "Dominus Socuscius",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117779202,
+      "name": "Dominus Cosades",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117779214,
+      "name": "Dominus Jiub",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115973314,
+      "name": "Jebediah Monaliz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123830935,
+      "name": "Helena Carahan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dominus Dagoth Ur",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

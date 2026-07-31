@@ -1,0 +1,52 @@
+{
+  "character_id": 2123866839,
+  "total_losses": 24,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 350182592,
+    "name": "Zu Tsang",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98592854,
+    "alliance_id": 495729389,
+    "corporation_name": "Mea Culpa.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 595312219,
+      "name": "Young Guns",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90428742,
+      "name": "Maez Naadrin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91470795,
+      "name": "Marqus Aurellius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94171315,
+      "name": "Sniper Bros15",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Araiin",
+  "corporation_id": 98256015,
+  "alliance_id": null,
+  "corporation_name": "Broken Tins.",
+  "alliance_name": null
+}

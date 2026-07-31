@@ -1,0 +1,52 @@
+{
+  "character_id": 2115221642,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 338285735,
+    "name": "OT Smithers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98060878,
+    "alliance_id": 99009584,
+    "corporation_name": "Buccaneer's Den",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96422430,
+      "name": "Seung Koo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1210068557,
+      "name": "Scaeva",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1829202916,
+      "name": "Jim Raynot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112978405,
+      "name": "George Springer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eleanor Skylark",
+  "corporation_id": 98634436,
+  "alliance_id": null,
+  "corporation_name": "Soup Du Jour",
+  "alliance_name": null
+}

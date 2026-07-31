@@ -1,0 +1,46 @@
+{
+  "character_id": 279481247,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 695455013,
+    "name": "Lady Gar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1383509675,
+    "alliance_id": 99007335,
+    "corporation_name": "Aardvark Everly Associates",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 695455013,
+      "name": "Lady Gar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96374618,
+      "name": "Michael Foley Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96923171,
+      "name": "Angus Sinulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1077529719,
+      "name": "Laurent Zagla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Boedy",
+  "corporation_id": 98824673,
+  "alliance_id": null,
+  "corporation_name": "Electrik Boogaloo",
+  "alliance_name": null
+}

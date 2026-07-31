@@ -1,0 +1,52 @@
+{
+  "character_id": 2122561064,
+  "total_losses": 20,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2119997444,
+    "name": "Autocannon Automaton",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98784423,
+    "alliance_id": null,
+    "corporation_name": "Whimsy Industrial Complex",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119997444,
+      "name": "Autocannon Automaton",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 95771165,
+      "name": "Arien Iluvitar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1444877368,
+      "name": "Taiji QI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1991436805,
+      "name": "xXsambookaXx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Floresmariposa",
+  "corporation_id": 1234259884,
+  "alliance_id": 498125261,
+  "corporation_name": "Vesuvian Fleet",
+  "alliance_name": "Test Alliance Please Ignore"
+}

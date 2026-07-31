@@ -1,0 +1,40 @@
+{
+  "character_id": 2123221398,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114600859,
+    "name": "Filin urmamovich",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98788012,
+    "alliance_id": 99013690,
+    "corporation_name": "The Edge of Heretics",
+    "alliance_name": "Critical. Mass."
+  },
+  "top_killers": [
+    {
+      "id": 2114600859,
+      "name": "Filin urmamovich",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1075598849,
+      "name": "Character 1075598849",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119136438,
+      "name": "Meriven Vaal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Irber Skir",
+  "corporation_id": 98786421,
+  "alliance_id": null,
+  "corporation_name": "Huff'n Puff inc.",
+  "alliance_name": null
+}

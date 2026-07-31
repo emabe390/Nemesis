@@ -1,0 +1,52 @@
+{
+  "character_id": 2123129366,
+  "total_losses": 61,
+  "unique_killers": 56,
+  "nemesis": {
+    "id": 255014718,
+    "name": "Pushtan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1696098108,
+    "alliance_id": 1354830081,
+    "corporation_name": "Trust Doesn't Rust",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 255014718,
+      "name": "Pushtan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 851434349,
+      "name": "jamelii",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1542940128,
+      "name": "Lucian Veridan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91603660,
+      "name": "Lee Flint",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92623780,
+      "name": "Caria Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stavroz",
+  "corporation_id": 98818607,
+  "alliance_id": null,
+  "corporation_name": "Dynamic Mining Operations",
+  "alliance_name": null
+}

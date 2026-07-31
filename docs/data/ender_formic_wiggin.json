@@ -1,0 +1,40 @@
+{
+  "character_id": 2123905038,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117056971,
+      "name": "Ziggyisnothererightnow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121366978,
+      "name": "Hillbilly-6000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ender Formic Wiggin",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

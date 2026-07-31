@@ -1,0 +1,52 @@
+{
+  "character_id": 232821100,
+  "total_losses": 33,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 507556947,
+    "name": "Character 507556947",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1063360566,
+    "alliance_id": 1354830081,
+    "corporation_name": "SUNDERING",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 507556947,
+      "name": "Character 507556947",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90699595,
+      "name": "Tyrell Jackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91495101,
+      "name": "Valnara Maricadie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93127125,
+      "name": "Trilobite Mastodon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mohenjo Daro",
+  "corporation_id": 98589727,
+  "alliance_id": 498125261,
+  "corporation_name": "Storm Chasers.",
+  "alliance_name": "Test Alliance Please Ignore"
+}

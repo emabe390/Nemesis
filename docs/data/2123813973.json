@@ -1,0 +1,52 @@
+{
+  "character_id": 2123813973,
+  "total_losses": 26,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123771080,
+    "name": "Asanagi Uzume",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98779710,
+    "alliance_id": 99009163,
+    "corporation_name": "Tactical Trauma Team",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123771080,
+      "name": "Asanagi Uzume",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93675443,
+      "name": "LEON SIN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1424870980,
+      "name": "Cyber Snype",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019584,
+      "name": "Hikanta Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Takamagahara Uzume",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

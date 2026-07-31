@@ -1,0 +1,40 @@
+{
+  "character_id": 2123520450,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 905089797,
+    "name": "Sozeles Harbinger",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98800166,
+    "alliance_id": 99011279,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 905089797,
+      "name": "Sozeles Harbinger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1213400193,
+      "name": "LORD HAKU",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120174155,
+      "name": "Liora Light",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cleofus James",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

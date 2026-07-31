@@ -1,0 +1,52 @@
+{
+  "character_id": 2124382792,
+  "total_losses": 77,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 2123959182,
+    "name": "vector-Z",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123959182,
+      "name": "vector-Z",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91005892,
+      "name": "Save Africa",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119038775,
+      "name": "Nui Harime",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90327791,
+      "name": "Aeon Maps",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Goth Barista",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

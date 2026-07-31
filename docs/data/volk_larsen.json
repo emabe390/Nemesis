@@ -1,0 +1,52 @@
+{
+  "character_id": 2114369611,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2113064813,
+    "name": "Remi Tyldek",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113064813,
+      "name": "Remi Tyldek",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92163548,
+      "name": "Noctus Thanatos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90594639,
+      "name": "28 Days Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Volk Larsen",
+  "corporation_id": 98603207,
+  "alliance_id": 99009698,
+  "corporation_name": "Zero To High",
+  "alliance_name": "Worst Alliance Ever"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124222200,
+  "total_losses": 32,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 93911513,
+    "name": "Raylan Yutani",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702259,
+    "alliance_id": null,
+    "corporation_name": "The Boneyard Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93911513,
+      "name": "Raylan Yutani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91421021,
+      "name": "Tristen Michaels",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91918814,
+      "name": "jerne Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marshall Carradon",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

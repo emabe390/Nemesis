@@ -1,0 +1,52 @@
+{
+  "character_id": 2123674472,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1858474200,
+    "name": "KingSaphira",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1413715023,
+    "alliance_id": 99011978,
+    "corporation_name": "The Dark Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1858474200,
+      "name": "KingSaphira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115000757,
+      "name": "Moist Lipwig",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120516093,
+      "name": "Sherrie Sky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94134438,
+      "name": "Benedict Socrates",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 814852043,
+      "name": "ZelRox",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gardar Gable",
+  "corporation_id": 98831581,
+  "alliance_id": null,
+  "corporation_name": "Fortis Maris Imperium",
+  "alliance_name": null
+}

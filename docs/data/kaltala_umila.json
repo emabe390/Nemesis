@@ -1,0 +1,46 @@
+{
+  "character_id": 2123542933,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114297051,
+    "name": "Sammuel Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1551757800,
+    "alliance_id": 99003581,
+    "corporation_name": "Armaggedon Inc.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114297051,
+      "name": "Sammuel Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118406012,
+      "name": "Coal Powered",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 141577085,
+      "name": "Kytus Bos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122867177,
+      "name": "CillianMurphy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaltala Umila",
+  "corporation_id": 98803651,
+  "alliance_id": 99011312,
+  "corporation_name": "Interstellar Military-industrial complex",
+  "alliance_name": "Mohist Alliance"
+}

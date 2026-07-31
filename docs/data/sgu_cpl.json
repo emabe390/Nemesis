@@ -1,0 +1,40 @@
+{
+  "character_id": 2115573309,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115793841,
+      "name": "Bentusi Keidan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SGU CPL",
+  "corporation_id": 98071293,
+  "alliance_id": 99013537,
+  "corporation_name": "Knights of the Dark Rose",
+  "alliance_name": "Insidious."
+}

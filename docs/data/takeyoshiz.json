@@ -1,0 +1,40 @@
+{
+  "character_id": 2123554774,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 159280380,
+    "name": "Hans I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779121,
+    "alliance_id": 99014341,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122576268,
+      "name": "misterrabbit",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "TakeyoshiZ",
+  "corporation_id": 98054920,
+  "alliance_id": 99009412,
+  "corporation_name": "Sector IX",
+  "alliance_name": "Outer Planets Association"
+}

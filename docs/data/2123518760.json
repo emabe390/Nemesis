@@ -1,0 +1,52 @@
+{
+  "character_id": 2123518760,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 640595536,
+    "name": "Avarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1251896671,
+      "name": "Maritimus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1752558042,
+      "name": "Janwaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95489848,
+      "name": "Falshire Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 580537053,
+      "name": "Carusius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avenira",
+  "corporation_id": 98798863,
+  "alliance_id": null,
+  "corporation_name": "Eclipse Production Syndicate",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123637760,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dremon Tus",
+  "corporation_id": 98812600,
+  "alliance_id": null,
+  "corporation_name": "Lang Technologies Group",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2120202997,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alexander Zhurba",
+  "corporation_id": 98799855,
+  "alliance_id": null,
+  "corporation_name": "Zhurba Logistic",
+  "alliance_name": null
+}

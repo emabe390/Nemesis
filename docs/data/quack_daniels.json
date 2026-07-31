@@ -1,0 +1,52 @@
+{
+  "character_id": 2123387517,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122776953,
+    "name": "Captian Quack Sparrow",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98595944,
+    "alliance_id": 99011162,
+    "corporation_name": "Bureau Inferno",
+    "alliance_name": "Shadow Ultimatum"
+  },
+  "top_killers": [
+    {
+      "id": 2122776953,
+      "name": "Captian Quack Sparrow",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114731379,
+      "name": "Kalifa Surmia Ederton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92371457,
+      "name": "Jake Skord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93496954,
+      "name": "Moros Commander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123188523,
+      "name": "Abyss Nosha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Quack Daniels",
+  "corporation_id": 98595944,
+  "alliance_id": 99011162,
+  "corporation_name": "Bureau Inferno",
+  "alliance_name": "Shadow Ultimatum"
+}

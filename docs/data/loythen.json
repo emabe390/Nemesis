@@ -1,0 +1,46 @@
+{
+  "character_id": 2120713629,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2116261025,
+      "name": "Risa 'Sally' Shiramine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122493765,
+      "name": "I-Just-Bought-This-Ship",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122697831,
+      "name": "Joey zergling",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loythen",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

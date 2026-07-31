@@ -1,0 +1,52 @@
+{
+  "character_id": 2121403451,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 93034758,
+    "name": "Trajan Al'Thor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93034758,
+      "name": "Trajan Al'Thor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92565981,
+      "name": "Xanos Xellos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94677255,
+      "name": "Terriaki Chancel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96080132,
+      "name": "VpFalcon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dev Terran",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

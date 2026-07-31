@@ -1,0 +1,34 @@
+{
+  "character_id": 2123668673,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115319269,
+    "name": "Dragan Brankovic",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788545,
+    "alliance_id": 99012544,
+    "corporation_name": "Old Gentlemen",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95070840,
+      "name": "Maia Anakin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DawnFire42",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

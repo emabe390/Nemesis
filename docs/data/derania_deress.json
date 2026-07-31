@@ -1,0 +1,52 @@
+{
+  "character_id": 2113782370,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116042690,
+    "name": "Sam Mask",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115278985,
+      "name": "Posta Paket",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Derania Deress",
+  "corporation_id": 98747505,
+  "alliance_id": null,
+  "corporation_name": "Kronos Deepwater",
+  "alliance_name": null
+}

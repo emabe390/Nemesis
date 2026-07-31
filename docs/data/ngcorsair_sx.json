@@ -1,0 +1,40 @@
+{
+  "character_id": 2119681846,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1745598880,
+    "name": "Bane Nucleus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98737423,
+    "alliance_id": 99012941,
+    "corporation_name": "Anomalous Empire",
+    "alliance_name": "Transmission Lost"
+  },
+  "top_killers": [
+    {
+      "id": 1745598880,
+      "name": "Bane Nucleus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93286838,
+      "name": "Blackfeathers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1963256473,
+      "name": "Spr1nger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NGCorsair SX",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

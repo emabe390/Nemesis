@@ -1,0 +1,40 @@
+{
+  "character_id": 96064599,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117879663,
+    "name": "Tanith Major",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98762887,
+    "alliance_id": 1354830081,
+    "corporation_name": "PodSwarm Logistics",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117879663,
+      "name": "Tanith Major",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121171082,
+      "name": "BCGGaming",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121539947,
+      "name": "Nazra Tens Pares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Regualtor Lemmont",
+  "corporation_id": 98681117,
+  "alliance_id": null,
+  "corporation_name": "MOONFIRE SERVICE PROVIDER",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123306319,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118301314,
+      "name": "Nickgenerator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven Riseup",
+  "corporation_id": 98702890,
+  "alliance_id": 99003581,
+  "corporation_name": "Descendants of Shen Nong",
+  "alliance_name": "Fraternity."
+}

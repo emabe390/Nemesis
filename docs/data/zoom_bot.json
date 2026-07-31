@@ -1,0 +1,52 @@
+{
+  "character_id": 96132396,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123269567,
+    "name": "Market Dan",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123269567,
+      "name": "Market Dan",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92497987,
+      "name": "POMAH HETOBIR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95987816,
+      "name": "Lash Wolfram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zoom Bot",
+  "corporation_id": 724997872,
+  "alliance_id": 1354830081,
+  "corporation_name": "EVE-RO",
+  "alliance_name": "Goonswarm Federation"
+}

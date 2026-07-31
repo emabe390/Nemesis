@@ -1,0 +1,34 @@
+{
+  "character_id": 2121082770,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123501111,
+    "name": "ZhuangYan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123501111,
+      "name": "ZhuangYan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121128725,
+      "name": "huakuangzi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duncan Idao",
+  "corporation_id": 98571968,
+  "alliance_id": 99003581,
+  "corporation_name": "Cristicorpus",
+  "alliance_name": "Fraternity."
+}

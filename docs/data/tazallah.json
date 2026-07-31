@@ -1,0 +1,40 @@
+{
+  "character_id": 90031132,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93745947,
+    "name": "Bunka en Daire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1831131676,
+    "alliance_id": 99005839,
+    "corporation_name": "V0LTA",
+    "alliance_name": "WE FORM V0LTA"
+  },
+  "top_killers": [
+    {
+      "id": 93745947,
+      "name": "Bunka en Daire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113063190,
+      "name": "BoneChilling Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tazallah",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122357232,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116679390,
+    "name": "Character 2116679390",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98678807,
+    "alliance_id": 99013766,
+    "corporation_name": "Settlers Inc.",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2116679390,
+      "name": "Character 2116679390",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122536262,
+      "name": "Come to KB",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123683890,
+      "name": "EasyClap15",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ugas Olma",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

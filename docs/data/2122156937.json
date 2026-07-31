@@ -1,0 +1,46 @@
+{
+  "character_id": 2122156937,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117546533,
+    "name": "Macrinus Varus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98546611,
+    "alliance_id": 99008816,
+    "corporation_name": "Bounding Bunny Brigade",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123819760,
+      "name": "Yondu Rax Udonta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123825966,
+      "name": "Stakar Ogord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123829956,
+      "name": "Erik Zane Killmonger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "xContemptor",
+  "corporation_id": 98826843,
+  "alliance_id": null,
+  "corporation_name": "Azure Bastion",
+  "alliance_name": null
+}

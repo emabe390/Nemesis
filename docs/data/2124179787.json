@@ -1,0 +1,52 @@
+{
+  "character_id": 2124179787,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1920120050,
+    "name": "mamaligarul",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679965,
+    "alliance_id": 99002411,
+    "corporation_name": "Stainless Stain",
+    "alliance_name": "Happy Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 1920120050,
+      "name": "mamaligarul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 101363971,
+      "name": "WayCharles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boss Guts",
+  "corporation_id": 98829833,
+  "alliance_id": null,
+  "corporation_name": "BOSSCORP",
+  "alliance_name": null
+}

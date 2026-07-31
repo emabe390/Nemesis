@@ -1,0 +1,52 @@
+{
+  "character_id": 2123673208,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 525728691,
+    "name": "Izolator",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98721110,
+    "alliance_id": 99003581,
+    "corporation_name": "Nocte Vigilo",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 525728691,
+      "name": "Izolator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94563590,
+      "name": "Maatta Horvath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 816239139,
+      "name": "Blanc Neige",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113512654,
+      "name": "Demitr Demikus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "William Ospreay",
+  "corporation_id": 98676166,
+  "alliance_id": 99011973,
+  "corporation_name": "Really Power Blob.",
+  "alliance_name": "Really Power Blob. Alliance"
+}

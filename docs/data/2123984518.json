@@ -1,0 +1,52 @@
+{
+  "character_id": 2123984518,
+  "total_losses": 50,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 2122626046,
+    "name": "Ustialod Aelin Adestur",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98794878,
+    "alliance_id": null,
+    "corporation_name": "Corp 668",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90547514,
+      "name": "Konnor Maklaud",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92501622,
+      "name": "Michael Starlight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 466972257,
+      "name": "Zigam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Planetoider1",
+  "corporation_id": 98427812,
+  "alliance_id": 99007203,
+  "corporation_name": "Siberian Squad",
+  "alliance_name": "Siberian Squads"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123634002,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91976791,
+    "name": "dercrow stark",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000006,
+    "alliance_id": null,
+    "corporation_name": "Deep Core Mining Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91976791,
+      "name": "dercrow stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119099774,
+      "name": "Nexual Terminator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121245902,
+      "name": "Zala Athmi Pedel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123655887,
+      "name": "Special One89",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahedad Pserad",
+  "corporation_id": 98809880,
+  "alliance_id": 99010240,
+  "corporation_name": "Tabou.",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

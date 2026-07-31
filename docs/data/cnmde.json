@@ -1,0 +1,52 @@
+{
+  "character_id": 2123795851,
+  "total_losses": 19,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1130903144,
+      "name": "pizzaguy99",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118508773,
+      "name": "Solomon Purvanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92009401,
+      "name": "Matthew O'Hearn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cnmde",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

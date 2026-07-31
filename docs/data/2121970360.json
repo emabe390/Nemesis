@@ -1,0 +1,52 @@
+{
+  "character_id": 2121970360,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95719906,
+      "name": "Captain Toastbrot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96851889,
+      "name": "Katlas CasualHero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96943284,
+      "name": "Adria Hato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 988041720,
+      "name": "Mortuus Angelus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yeonghwa",
+  "corporation_id": 98071293,
+  "alliance_id": 99009927,
+  "corporation_name": "Knights of the Dark Rose",
+  "alliance_name": "Deepwater Hooligans"
+}

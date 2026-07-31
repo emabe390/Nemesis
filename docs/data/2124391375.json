@@ -1,0 +1,52 @@
+{
+  "character_id": 2124391375,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124391390,
+    "name": "Dazhe'ne Kryahtela",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98833961,
+    "alliance_id": null,
+    "corporation_name": "Potnaya Galaktika",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124391390,
+      "name": "Dazhe'ne Kryahtela",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2115668403,
+      "name": "Frik Apol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116099853,
+      "name": "Greygore Taron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124089166,
+      "name": "Lazrun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dazhe'ne Vspotela",
+  "corporation_id": 98833961,
+  "alliance_id": null,
+  "corporation_name": "Potnaya Galaktika",
+  "alliance_name": null
+}

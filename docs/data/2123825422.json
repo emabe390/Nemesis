@@ -1,0 +1,40 @@
+{
+  "character_id": 2123825422,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91218217,
+    "name": "Morse Arcturus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98779121,
+    "alliance_id": null,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91218217,
+      "name": "Morse Arcturus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96008817,
+      "name": "Nibbles VI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116699391,
+      "name": "krakov jahr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SherCorp",
+  "corporation_id": 98815480,
+  "alliance_id": null,
+  "corporation_name": "SherCorp Limited",
+  "alliance_name": null
+}

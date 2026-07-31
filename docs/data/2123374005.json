@@ -1,0 +1,46 @@
+{
+  "character_id": 2123374005,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93643575,
+    "name": "Rikhara Sokarad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98009116,
+    "alliance_id": 99002329,
+    "corporation_name": "Casalt Corp",
+    "alliance_name": "CAStabouts"
+  },
+  "top_killers": [
+    {
+      "id": 93643575,
+      "name": "Rikhara Sokarad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95362087,
+      "name": "Myriam Taredi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119703664,
+      "name": "Arato Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lost Existance",
+  "corporation_id": 98470930,
+  "alliance_id": null,
+  "corporation_name": "eXpanse eXploration",
+  "alliance_name": null
+}

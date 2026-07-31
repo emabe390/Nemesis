@@ -1,0 +1,52 @@
+{
+  "character_id": 2123278083,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116886824,
+    "name": "Aaron Roos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98686431,
+    "alliance_id": 99013177,
+    "corporation_name": "Fixers Corporation",
+    "alliance_name": "Pillars of Liberty"
+  },
+  "top_killers": [
+    {
+      "id": 2116886824,
+      "name": "Aaron Roos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1130628277,
+      "name": "Warlon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117573348,
+      "name": "12we23",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "La Galleta",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124291085,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 107657277,
+    "name": "Nemfirot Alpha",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1490148392,
+    "alliance_id": null,
+    "corporation_name": "Dominion Foundation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 107657277,
+      "name": "Nemfirot Alpha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113608503,
+      "name": "Ittihat Ve-Terakki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121927454,
+      "name": "Thick and hard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blue Fremen",
+  "corporation_id": 98701987,
+  "alliance_id": 99013794,
+  "corporation_name": "Fenicios",
+  "alliance_name": "Capys Holding"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124010058,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 934167299,
+    "name": "BitComet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98742941,
+    "alliance_id": null,
+    "corporation_name": "Steele Technology and Security Solutions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 934167299,
+      "name": "BitComet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123854306,
+      "name": "One Wild Ride",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96863368,
+      "name": "Dantalian Letrou",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yoriel",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

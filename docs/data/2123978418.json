@@ -1,0 +1,40 @@
+{
+  "character_id": 2123978418,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119416470,
+    "name": "OzzySBR",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98814748,
+    "alliance_id": 99003285,
+    "corporation_name": "Mountain Marauder",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2119416470,
+      "name": "OzzySBR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123562247,
+      "name": "Hashinko Inamo Hakaari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123978418,
+      "name": "Tar Ross",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tar Ross",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

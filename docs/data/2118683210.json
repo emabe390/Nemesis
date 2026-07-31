@@ -1,0 +1,52 @@
+{
+  "character_id": 2118683210,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122089339,
+    "name": "Colin Beardman",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122089339,
+      "name": "Colin Beardman",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2116641266,
+      "name": "hawkma CN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121671607,
+      "name": "Kasaras Haro Heleneto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121970090,
+      "name": "Cpt Pepinion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122963042,
+      "name": "Here I am",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyzinta",
+  "corporation_id": 98147576,
+  "alliance_id": 99014858,
+  "corporation_name": "Deep Space Mining Industry",
+  "alliance_name": "Midgard Marauders"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123173132,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1624836179,
+    "name": "Masandox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 828800677,
+    "alliance_id": 386292982,
+    "corporation_name": "Sniggerdly",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116005154,
+      "name": "Symphony Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94857233,
+      "name": "Dom Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116814777,
+      "name": "Dragon Reckless",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118985691,
+      "name": "Sir Amu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Milo Mills",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

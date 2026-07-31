@@ -1,0 +1,52 @@
+{
+  "character_id": 2116718018,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2122462807,
+    "name": "Voiras",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98617815,
+    "alliance_id": null,
+    "corporation_name": "Space Oddities Join Us",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122462807,
+      "name": "Voiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 212983164,
+      "name": "Lord Augustus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 229038573,
+      "name": "Railsmith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 373958167,
+      "name": "Culvs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 584032531,
+      "name": "SparrowHawkeye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gator Hilanen",
+  "corporation_id": 98749950,
+  "alliance_id": null,
+  "corporation_name": "Stellar Soloists United",
+  "alliance_name": null
+}

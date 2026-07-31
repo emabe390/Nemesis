@@ -1,0 +1,40 @@
+{
+  "character_id": 2123461894,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115133763,
+    "name": "Paul Steinor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98735003,
+    "alliance_id": 99014747,
+    "corporation_name": "Fat Dragon Pirate Co.",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 2115133763,
+      "name": "Paul Steinor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115542631,
+      "name": "Ba Ks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115842258,
+      "name": "SydBristow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "dying is easy",
+  "corporation_id": 98780132,
+  "alliance_id": 99003214,
+  "corporation_name": "30plus LLC",
+  "alliance_name": "Brave Collective"
+}

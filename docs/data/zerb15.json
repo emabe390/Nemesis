@@ -1,0 +1,52 @@
+{
+  "character_id": 2123233585,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2112740945,
+    "name": "Marek Dachowski",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98671183,
+    "alliance_id": null,
+    "corporation_name": "Hmm 2",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112740945,
+      "name": "Marek Dachowski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116896838,
+      "name": "Rats Degouts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118443159,
+      "name": "selkor33",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95051030,
+      "name": "Spectre Piet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96076326,
+      "name": "Maison Candervelle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zerb15",
+  "corporation_id": 98075413,
+  "alliance_id": null,
+  "corporation_name": "Haluter Deep Space Explorations",
+  "alliance_name": null
+}

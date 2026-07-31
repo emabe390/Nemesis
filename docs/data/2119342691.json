@@ -1,0 +1,40 @@
+{
+  "character_id": 2119342691,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1906715019,
+    "name": "herjan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 1906715019,
+      "name": "herjan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sebator",
+  "corporation_id": 98595253,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order II",
+  "alliance_name": "Absolute Honor"
+}

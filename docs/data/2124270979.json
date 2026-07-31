@@ -1,0 +1,52 @@
+{
+  "character_id": 2124270979,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 97200379,
+    "name": "Han Cho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90959560,
+      "name": "Candace Myan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91839624,
+      "name": "Owns Bones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92198971,
+      "name": "Colin McFry",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hanzo Takemashi",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2120279759,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113732843,
+    "name": "Spacekoala Fo'twenteh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113732843,
+      "name": "Spacekoala Fo'twenteh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91062187,
+      "name": "Plank HB",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caldonon",
+  "corporation_id": 2014367342,
+  "alliance_id": 99005338,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Pandemic Horde"
+}

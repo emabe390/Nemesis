@@ -1,0 +1,52 @@
+{
+  "character_id": 2123493659,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 964330275,
+    "name": "Aegis Stormborn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121742782,
+      "name": "Vortex the Monger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95973205,
+      "name": "Camille Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121800160,
+      "name": "Beliala Succura",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marie Jane Ahrire",
+  "corporation_id": 98785213,
+  "alliance_id": null,
+  "corporation_name": "Arca Ouranos",
+  "alliance_name": null
+}

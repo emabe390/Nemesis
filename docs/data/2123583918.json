@@ -1,0 +1,52 @@
+{
+  "character_id": 2123583918,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120802806,
+      "name": "Crimson Suitcase",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92815148,
+      "name": "perter Khami",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93538830,
+      "name": "Disciple JamJam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94707235,
+      "name": "Ten Inch Oregano",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mini Oriki",
+  "corporation_id": 98826207,
+  "alliance_id": 99002826,
+  "corporation_name": "Failure to Integrate - Industrials",
+  "alliance_name": "KIA Alliance"
+}

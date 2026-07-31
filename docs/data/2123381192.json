@@ -1,0 +1,40 @@
+{
+  "character_id": 2123381192,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 642622751,
+    "name": "Master Bigans",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 642622751,
+      "name": "Master Bigans",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113975464,
+      "name": "Character 2113975464",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121534404,
+      "name": "Blue N Fox",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zoe Stormborn",
+  "corporation_id": 98539741,
+  "alliance_id": null,
+  "corporation_name": "The Dark Zen Prophets",
+  "alliance_name": null
+}

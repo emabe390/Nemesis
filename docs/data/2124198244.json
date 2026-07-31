@@ -1,0 +1,40 @@
+{
+  "character_id": 2124198244,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1271559711,
+    "name": "Rattuus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744491,
+    "alliance_id": 99013330,
+    "corporation_name": "URSA PRIMUS",
+    "alliance_name": "URSA."
+  },
+  "top_killers": [
+    {
+      "id": 1271559711,
+      "name": "Rattuus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 886064549,
+      "name": "Kameko Dai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115033916,
+      "name": "Peaceflyer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CigamacFury",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

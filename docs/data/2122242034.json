@@ -1,0 +1,34 @@
+{
+  "character_id": 2122242034,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121340905,
+    "name": "saber lv8",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98640194,
+    "alliance_id": 99014738,
+    "corporation_name": "Salted Fish Inc",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2121340905,
+      "name": "saber lv8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95106177,
+      "name": "Flarenlothar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "cc 004",
+  "corporation_id": 98769100,
+  "alliance_id": null,
+  "corporation_name": "OZZZ HOME",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123393554,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112650011,
+    "name": "GLaDOS Momaki",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98056695,
+    "alliance_id": 99013357,
+    "corporation_name": "Archangels Inc.",
+    "alliance_name": "End of Natural Lifetime"
+  },
+  "top_killers": [
+    {
+      "id": 2112650011,
+      "name": "GLaDOS Momaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116915042,
+      "name": "Seze Mo'at'ite",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123576435,
+      "name": "Minty Mastic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ARC F012",
+  "corporation_id": 98743131,
+  "alliance_id": 99012781,
+  "corporation_name": "ARC Security",
+  "alliance_name": "I Showed You My Probes... Please Respond..."
+}

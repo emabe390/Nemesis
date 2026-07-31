@@ -1,0 +1,34 @@
+{
+  "character_id": 2124026004,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1328848965,
+    "name": "Artem Myagkoff",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 530227507,
+    "alliance_id": 99006146,
+    "corporation_name": "Shadows in Space",
+    "alliance_name": "Spirit of the Universe"
+  },
+  "top_killers": [
+    {
+      "id": 1328848965,
+      "name": "Artem Myagkoff",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123115524,
+      "name": "Anyone-Want-To-Gank",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joe Bridger",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

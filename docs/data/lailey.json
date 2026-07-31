@@ -1,0 +1,40 @@
+{
+  "character_id": 2123784935,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1229139925,
+    "name": "Alathus Christensen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 251593602,
+    "alliance_id": null,
+    "corporation_name": "Inner Geek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1229139925,
+      "name": "Alathus Christensen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 673000985,
+      "name": "Cersei Xoy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1448793415,
+      "name": "Whacked viper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lailey",
+  "corporation_id": 98810684,
+  "alliance_id": 99013285,
+  "corporation_name": "Quiet night gas co",
+  "alliance_name": "Incorporeal Conglomerate Society"
+}

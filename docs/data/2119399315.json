@@ -1,0 +1,52 @@
+{
+  "character_id": 2119399315,
+  "total_losses": 16,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2119997444,
+    "name": "Autocannon Automaton",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98784423,
+    "alliance_id": null,
+    "corporation_name": "Whimsy Industrial Complex",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119997444,
+      "name": "Autocannon Automaton",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2119234820,
+      "name": "Atlas Archon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90361191,
+      "name": "Voivod Bathory",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95796688,
+      "name": "Sonya Redgun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1127444080,
+      "name": "Cold Abyss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rashike",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

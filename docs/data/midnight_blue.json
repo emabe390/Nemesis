@@ -1,0 +1,52 @@
+{
+  "character_id": 2123666296,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116517717,
+    "name": "Wolf Stormcaller",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 2116517717,
+      "name": "Wolf Stormcaller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123106902,
+      "name": "Natexd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96017341,
+      "name": "Jon Corley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96090432,
+      "name": "Leomund Dalaan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Midnight-Blue",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

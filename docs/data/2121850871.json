@@ -1,0 +1,52 @@
+{
+  "character_id": 2121850871,
+  "total_losses": 12,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115998897,
+    "name": "Dredd Ivy",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2115998897,
+      "name": "Dredd Ivy",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117003961,
+      "name": "Dawn Johnson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123589891,
+      "name": "Inspector Bam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115595455,
+      "name": "Abortifacient",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123001236,
+      "name": "Erchel Patrouette",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kuusen Otsolen",
+  "corporation_id": 98273417,
+  "alliance_id": null,
+  "corporation_name": "T.R.I.A.L.S",
+  "alliance_name": null
+}

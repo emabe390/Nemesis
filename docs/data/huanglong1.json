@@ -1,0 +1,52 @@
+{
+  "character_id": 2123488040,
+  "total_losses": 71,
+  "unique_killers": 63,
+  "nemesis": {
+    "id": 2123586424,
+    "name": "huanglong2",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98825941,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kun-Lun",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123586424,
+      "name": "huanglong2",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93088717,
+      "name": "Exhunt HD",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93382112,
+      "name": "Boris Boroti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1110653236,
+      "name": "Peter Hathor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121378179,
+      "name": "Elver Frid",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "huanglong1",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

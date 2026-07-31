@@ -1,0 +1,52 @@
+{
+  "character_id": 2123324115,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 515554158,
+    "name": "Lord Road",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98608845,
+    "alliance_id": 99013296,
+    "corporation_name": "People's Democratic Republic of Gatecamping",
+    "alliance_name": "SUS Holding"
+  },
+  "top_killers": [
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95514011,
+      "name": "Dracos Rhaghar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 371792633,
+      "name": "PsyBlade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114982814,
+      "name": "Ruthraki Krogsard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118914858,
+      "name": "Nohkano",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MooseHunter",
+  "corporation_id": 98731763,
+  "alliance_id": 1354830081,
+  "corporation_name": "Amped.",
+  "alliance_name": "Goonswarm Federation"
+}

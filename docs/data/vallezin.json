@@ -1,0 +1,46 @@
+{
+  "character_id": 2123385680,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 765451240,
+    "name": "Elleryn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831363,
+    "alliance_id": 99014936,
+    "corporation_name": "Guns n' Glory",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 765451240,
+      "name": "Elleryn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 756395568,
+      "name": "Lord Debbe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117149855,
+      "name": "taclerina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123778314,
+      "name": "golgoroth-orix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vallezin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

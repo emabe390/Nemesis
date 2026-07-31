@@ -1,0 +1,40 @@
+{
+  "character_id": 2119617263,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1102516218,
+    "name": "Kenjiro Kurita",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98680640,
+    "alliance_id": 99011223,
+    "corporation_name": "Stahlwerk AG",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 1102516218,
+      "name": "Kenjiro Kurita",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2076689589,
+      "name": "Shen'dralar Zeratul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123072950,
+      "name": "Natalia Strongil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tomomi Yuki",
+  "corporation_id": 98228780,
+  "alliance_id": 99010389,
+  "corporation_name": "JPL Aeronautics and Defence",
+  "alliance_name": "Outsmarted"
+}

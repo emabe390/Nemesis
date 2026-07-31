@@ -1,0 +1,46 @@
+{
+  "character_id": 2123160078,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93105530,
+    "name": "Manfred Phillips",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98185698,
+    "alliance_id": 99004567,
+    "corporation_name": "Trillium Invariant",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 93105530,
+      "name": "Manfred Phillips",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96591856,
+      "name": "FastForward",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113224337,
+      "name": "Havers Wayne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121795813,
+      "name": "HUAWEI METE 60PRO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Qurlik",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

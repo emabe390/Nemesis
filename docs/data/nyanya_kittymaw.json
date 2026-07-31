@@ -1,0 +1,46 @@
+{
+  "character_id": 2123707320,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 2116893356,
+      "name": "Hayden Shteel Conner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123338155,
+      "name": "Nyanya Kittypaw",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 693863860,
+      "name": "2Shae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nyanya Kittymaw",
+  "corporation_id": 98171228,
+  "alliance_id": 498125261,
+  "corporation_name": "SergalJerk",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 92333159,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93001317,
+      "name": "Prodobrey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1143464337,
+      "name": "The Shackler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112651057,
+      "name": "Frantisek Neplecha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114341013,
+      "name": "T2 Siege Module",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Albric Ormand",
+  "corporation_id": 98200247,
+  "alliance_id": 99014846,
+  "corporation_name": "Sapientes Currentem",
+  "alliance_name": "D.A.R.E. Cartel"
+}

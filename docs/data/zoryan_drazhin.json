@@ -1,0 +1,52 @@
+{
+  "character_id": 2123517664,
+  "total_losses": 155,
+  "unique_killers": 98,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 11,
+    "final_blows": 9,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 11,
+      "final_blows": 9
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92822651,
+      "name": "Rustymattok Farpast",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 146594891,
+      "name": "MiniWeasel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 408342471,
+      "name": "PherryRhodaSon",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Zoryan Drazhin",
+  "corporation_id": 98753933,
+  "alliance_id": 1900696668,
+  "corporation_name": "Knock Knock.",
+  "alliance_name": "The Initiative."
+}

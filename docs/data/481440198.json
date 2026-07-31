@@ -1,0 +1,40 @@
+{
+  "character_id": 481440198,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122314666,
+    "name": "Jaymee Smith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98311406,
+    "alliance_id": 1042504553,
+    "corporation_name": "The Exchange Collective",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2122314666,
+      "name": "Jaymee Smith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 261187785,
+      "name": "Exie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119348477,
+      "name": "Zana Lagrange",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Traska Gannel",
+  "corporation_id": 98593174,
+  "alliance_id": 1042504553,
+  "corporation_name": "Pyke Syndicate",
+  "alliance_name": "Solyaris Chtonium"
+}

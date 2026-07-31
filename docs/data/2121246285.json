@@ -1,0 +1,52 @@
+{
+  "character_id": 2121246285,
+  "total_losses": 55,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 2116954327,
+    "name": "Jubert Aldard",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98187440,
+    "alliance_id": 99013831,
+    "corporation_name": "Scandium Defense and Security Inc.",
+    "alliance_name": "Sleeper Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 2116954327,
+      "name": "Jubert Aldard",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93053072,
+      "name": "CRISTELL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 386739347,
+      "name": "Aqualonda",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MLCG",
+  "corporation_id": 98756996,
+  "alliance_id": null,
+  "corporation_name": "Santa in Lapland",
+  "alliance_name": null
+}

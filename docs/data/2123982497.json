@@ -1,0 +1,40 @@
+{
+  "character_id": 2123982497,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121833453,
+    "name": "Hanson Sun1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575120,
+    "alliance_id": 99003581,
+    "corporation_name": "Sylvanas Windrunner United Fleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121833453,
+      "name": "Hanson Sun1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120386112,
+      "name": "Pulls 3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120398830,
+      "name": "Pulls 4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Azar",
+  "corporation_id": 98738777,
+  "alliance_id": 99014584,
+  "corporation_name": "Rising Moon Wolf Pack Inc.",
+  "alliance_name": "Lonetrek Benevolent Association"
+}

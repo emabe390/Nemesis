@@ -1,0 +1,40 @@
+{
+  "character_id": 2123670690,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EISADEL",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

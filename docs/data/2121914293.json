@@ -1,0 +1,52 @@
+{
+  "character_id": 2121914293,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95391100,
+    "name": "Camulus Ghasha",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95391100,
+      "name": "Camulus Ghasha",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95203521,
+      "name": "Kenshiro Hokuto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 904000908,
+      "name": "Tiberious Marz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91380678,
+      "name": "Acranti Egoroth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92790804,
+      "name": "Zharinth Starskeeter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mary Gaius",
+  "corporation_id": 98821596,
+  "alliance_id": null,
+  "corporation_name": "House of Broken Tales",
+  "alliance_name": null
+}

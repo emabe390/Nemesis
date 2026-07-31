@@ -1,0 +1,40 @@
+{
+  "character_id": 2112803324,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90883327,
+    "name": "Mia Wonder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98285854,
+    "alliance_id": 1988009451,
+    "corporation_name": "Ember Inc.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90883327,
+      "name": "Mia Wonder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95008756,
+      "name": "Ilary Agostini",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96847338,
+      "name": "Alex Nisi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boris Arbosa",
+  "corporation_id": 98610966,
+  "alliance_id": null,
+  "corporation_name": "DaGuddaCorporation",
+  "alliance_name": null
+}

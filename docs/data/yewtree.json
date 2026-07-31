@@ -1,0 +1,52 @@
+{
+  "character_id": 2121653919,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2112375742,
+    "name": "Crock Over",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98719951,
+    "alliance_id": null,
+    "corporation_name": "Diapers Legion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112375742,
+      "name": "Crock Over",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1519626680,
+      "name": "Nastorrian",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yewtree",
+  "corporation_id": 98539082,
+  "alliance_id": 1354830081,
+  "corporation_name": "Darkmoon Military Industrial Complex",
+  "alliance_name": "Goonswarm Federation"
+}

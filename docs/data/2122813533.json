@@ -1,0 +1,34 @@
+{
+  "character_id": 2122813533,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "CoCoStraw3",
+  "corporation_id": 98600350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Watch Eagle",
+  "alliance_name": "Goonswarm Federation"
+}

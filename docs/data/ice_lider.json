@@ -1,0 +1,40 @@
+{
+  "character_id": 2114290511,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112160477,
+    "name": "Mickey Hesse",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 944838017,
+    "alliance_id": 99009163,
+    "corporation_name": "AWE Corporation",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2112160477,
+      "name": "Mickey Hesse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114529194,
+      "name": "Melchy Chakaid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119837609,
+      "name": "Silent Curt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ice Lider",
+  "corporation_id": 98427812,
+  "alliance_id": 99007203,
+  "corporation_name": "Siberian Squad",
+  "alliance_name": "Siberian Squads"
+}

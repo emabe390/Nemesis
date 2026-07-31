@@ -1,0 +1,34 @@
+{
+  "character_id": 90061162,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1112075961,
+    "name": "Kaminar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98659412,
+    "alliance_id": 1354830081,
+    "corporation_name": "Close Encounters of the EVE Kind",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1112075961,
+      "name": "Kaminar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120598336,
+      "name": "Africa Heras Gavilan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 90061162",
+  "corporation_id": 98811452,
+  "alliance_id": 99014402,
+  "corporation_name": "Plenitude Industrial Group",
+  "alliance_name": "Plenitude Alliance"
+}

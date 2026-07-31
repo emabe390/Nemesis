@@ -1,0 +1,40 @@
+{
+  "character_id": 2123490847,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91586742,
+    "name": "Lynx Claw",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98692241,
+    "alliance_id": null,
+    "corporation_name": "Wolfostan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91586742,
+      "name": "Lynx Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92855536,
+      "name": "Gaika007",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112721924,
+      "name": "Brynne Roshero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The'Architect",
+  "corporation_id": 98182376,
+  "alliance_id": 99013187,
+  "corporation_name": "Quafe Commandos",
+  "alliance_name": "The Obsidian Front - Reborn"
+}

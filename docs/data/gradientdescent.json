@@ -1,0 +1,52 @@
+{
+  "character_id": 2124107827,
+  "total_losses": 8,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 204595952,
+    "name": "John Gato",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 204595952,
+      "name": "John Gato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 572582797,
+      "name": "Gabriel Theodoulos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 683857241,
+      "name": "ZoNoV",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113027115,
+      "name": "Rudie DeNiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114715836,
+      "name": "Big All",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GradientDescent",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

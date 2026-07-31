@@ -1,0 +1,40 @@
+{
+  "character_id": 2123866604,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 756371639,
+    "name": "Dekaar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 756371639,
+      "name": "Dekaar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120683648,
+      "name": "Una Luna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "cyberanarchist",
+  "corporation_id": 98817577,
+  "alliance_id": null,
+  "corporation_name": "01100110 01110101 01100011 01101011",
+  "alliance_name": null
+}

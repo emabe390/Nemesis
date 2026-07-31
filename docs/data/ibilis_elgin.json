@@ -1,0 +1,52 @@
+{
+  "character_id": 2123821920,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1450265635,
+    "name": "D J",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98796214,
+    "alliance_id": 1683694957,
+    "corporation_name": "Tactical Raki",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92972924,
+      "name": "Serena Anderson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 457053187,
+      "name": "Bladeburner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ibilis Elgin",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

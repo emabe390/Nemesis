@@ -1,0 +1,52 @@
+{
+  "character_id": 2113917250,
+  "total_losses": 10,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90904627,
+      "name": "Trisimio Trisimio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93619435,
+      "name": "Nomad Hinken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94825639,
+      "name": "Praxx Errsys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95386416,
+      "name": "Antagonist Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suraya",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

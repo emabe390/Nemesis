@@ -1,0 +1,52 @@
+{
+  "character_id": 2123206811,
+  "total_losses": 58,
+  "unique_killers": 55,
+  "nemesis": {
+    "id": 1541731959,
+    "name": "ARMED1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817074,
+    "alliance_id": 99007887,
+    "corporation_name": "Safety Third",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 1541731959,
+      "name": "ARMED1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113138194,
+      "name": "Strive",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114980900,
+      "name": "Uncle Wired",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91589595,
+      "name": "Mac deKiev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91667131,
+      "name": "Dreaksy Tyr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sovadin",
+  "corporation_id": 98809144,
+  "alliance_id": 1354830081,
+  "corporation_name": "No Friends Just Alts",
+  "alliance_name": "Goonswarm Federation"
+}

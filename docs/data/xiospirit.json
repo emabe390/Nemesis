@@ -1,0 +1,40 @@
+{
+  "character_id": 2124050530,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1050151575,
+    "name": "Inseno",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98762098,
+    "alliance_id": 1900696668,
+    "corporation_name": "Aegis Victorium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1050151575,
+      "name": "Inseno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115742713,
+      "name": "Tsung Mordan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123361956,
+      "name": "Pushstart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "XioSpirit",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

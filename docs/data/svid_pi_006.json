@@ -1,0 +1,34 @@
+{
+  "character_id": 2121459897,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 930305047,
+    "name": "Sweet Trader",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98058678,
+    "alliance_id": null,
+    "corporation_name": "The Hollow Men",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 930305047,
+      "name": "Sweet Trader",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 601487895,
+      "name": "Character 601487895",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "svid-pi-006",
+  "corporation_id": 98802586,
+  "alliance_id": 99012009,
+  "corporation_name": "Dadsuleers",
+  "alliance_name": "Minmatar Fleet Associates"
+}

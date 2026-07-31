@@ -1,0 +1,52 @@
+{
+  "character_id": 2123816092,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115373837,
+    "name": "Steve Maxius",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115373837,
+      "name": "Steve Maxius",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117260031,
+      "name": "Huns Jones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 771616484,
+      "name": "Fridder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iron8orn",
+  "corporation_id": 98549595,
+  "alliance_id": 386292982,
+  "corporation_name": "Squid Inc.",
+  "alliance_name": "Pandemic Legion"
+}

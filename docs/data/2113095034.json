@@ -1,0 +1,52 @@
+{
+  "character_id": 2113095034,
+  "total_losses": 24,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2122198356,
+    "name": "lpfarmer04",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1696098108,
+    "alliance_id": 1354830081,
+    "corporation_name": "Trust Doesn't Rust",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122198356,
+      "name": "lpfarmer04",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113779998,
+      "name": "Cloud RAN Pappotte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122196667,
+      "name": "lpfarmer02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96243221,
+      "name": "am justa normalguy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97212821,
+      "name": "Zulvuxo Lemmont",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "An Alliance Alt",
+  "corporation_id": 98808870,
+  "alliance_id": 99013541,
+  "corporation_name": "Opulence LLC",
+  "alliance_name": "Fraternity Auxiliary"
+}

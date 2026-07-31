@@ -1,0 +1,34 @@
+{
+  "character_id": 2122255537,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 97200379,
+    "name": "Han Cho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114063749,
+      "name": "Halley Reade",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Viggo Brun",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

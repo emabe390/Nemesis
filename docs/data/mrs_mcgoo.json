@@ -1,0 +1,34 @@
+{
+  "character_id": 2118462251,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119020110,
+    "name": "Jonny Fire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2119020110,
+      "name": "Jonny Fire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118110830,
+      "name": "Freefire Doomsdays",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mrs McGoo",
+  "corporation_id": 98693660,
+  "alliance_id": 99012617,
+  "corporation_name": "Yum Brands Inc.",
+  "alliance_name": "Great Wildlands Conservation Society"
+}

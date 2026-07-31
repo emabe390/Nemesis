@@ -1,0 +1,40 @@
+{
+  "character_id": 2123915839,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96929939,
+    "name": "Teresa Leventis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98001428,
+    "alliance_id": 99004804,
+    "corporation_name": "F.A.M.I.L.Y",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 96929939,
+      "name": "Teresa Leventis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sabaton Rex",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

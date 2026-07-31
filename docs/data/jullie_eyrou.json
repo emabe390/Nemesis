@@ -1,0 +1,40 @@
+{
+  "character_id": 2112999543,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 956803617,
+    "name": "The Pilgrimage",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98591522,
+    "alliance_id": null,
+    "corporation_name": "New Eden Graffiti Abatement Team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 956803617,
+      "name": "The Pilgrimage",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119351415,
+      "name": "Comtesse d'Artois",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120900708,
+      "name": "Comte d'Artois",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jullie Eyrou",
+  "corporation_id": 98811741,
+  "alliance_id": 99000580,
+  "corporation_name": "Hunky-Dory Inc.",
+  "alliance_name": "Ignore This."
+}

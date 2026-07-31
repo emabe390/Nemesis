@@ -1,0 +1,52 @@
+{
+  "character_id": 2123921320,
+  "total_losses": 46,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 94863215,
+    "name": "Mevatla Vekraspek",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98423767,
+    "alliance_id": null,
+    "corporation_name": "MVC Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94863215,
+      "name": "Mevatla Vekraspek",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112545710,
+      "name": "Awesome Alt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91578428,
+      "name": "Johnie Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93284207,
+      "name": "Cen Illa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93872395,
+      "name": "Punish MyHeaven",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alex Itsuki",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

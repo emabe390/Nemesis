@@ -1,0 +1,40 @@
+{
+  "character_id": 2124411352,
+  "total_losses": 19,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124411290,
+    "name": "Iron Eve IV",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98834811,
+    "alliance_id": null,
+    "corporation_name": "Seventeen Black",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124411290,
+      "name": "Iron Eve IV",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2124411297,
+      "name": "Iron Eve V",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124411310,
+      "name": "Iron Eve VI",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Weight Pusher",
+  "corporation_id": 98834811,
+  "alliance_id": null,
+  "corporation_name": "Seventeen Black",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123931570,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116492645,
+    "name": "King MJ Aldent",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 712577137,
+    "alliance_id": 99010015,
+    "corporation_name": "Commonwealth Mercenaries",
+    "alliance_name": "BLACKFLAG."
+  },
+  "top_killers": [
+    {
+      "id": 2116492645,
+      "name": "King MJ Aldent",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123467436,
+      "name": "Mad Reaperr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112269642,
+      "name": "Internet Wizard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113191649,
+      "name": "Sorry I'm Blind",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tichus Astarius",
+  "corporation_id": 98812037,
+  "alliance_id": 99009163,
+  "corporation_name": "Steel Legion Brotherhood",
+  "alliance_name": "Dracarys."
+}

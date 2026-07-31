@@ -1,0 +1,40 @@
+{
+  "character_id": 2123832596,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122688928,
+    "name": "Tor Baines",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725773,
+    "alliance_id": 99013390,
+    "corporation_name": "Vapor Lock.",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2122688928,
+      "name": "Tor Baines",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96876343,
+      "name": "Character 96876343",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116354915,
+      "name": "Rostar Aya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vander Llennodo",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

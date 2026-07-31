@@ -1,0 +1,40 @@
+{
+  "character_id": 2116664760,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121071230,
+    "name": "Barberton",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779017,
+    "alliance_id": 99013597,
+    "corporation_name": "Black Budget Forestry Corporation",
+    "alliance_name": "Rixa Ipsis"
+  },
+  "top_killers": [
+    {
+      "id": 2121071230,
+      "name": "Barberton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92742390,
+      "name": "Grench Skir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1693448508,
+      "name": "PVDNS77",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Flywright",
+  "corporation_id": 98779233,
+  "alliance_id": 99011119,
+  "corporation_name": "Halo - Wars",
+  "alliance_name": "Absolute Glory"
+}

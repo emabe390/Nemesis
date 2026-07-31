@@ -1,0 +1,40 @@
+{
+  "character_id": 2123377783,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113009548,
+    "name": "Character 2113009548",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98770416,
+    "alliance_id": 99009698,
+    "corporation_name": "F1 Academy",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2113009548,
+      "name": "Character 2113009548",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112754226,
+      "name": "Lady Semtex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Himatori Kun",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

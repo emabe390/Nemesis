@@ -1,0 +1,46 @@
+{
+  "character_id": 2123941312,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91541220,
+    "name": "Kyle Reclaimer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98367143,
+    "alliance_id": 99005601,
+    "corporation_name": "United Serf Federation",
+    "alliance_name": "Rainbow Knights"
+  },
+  "top_killers": [
+    {
+      "id": 91541220,
+      "name": "Kyle Reclaimer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113614588,
+      "name": "Stormy Times",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114309358,
+      "name": "Ping-Ping",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1328149095,
+      "name": "Tandail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Van Hal",
+  "corporation_id": 98815087,
+  "alliance_id": 99014495,
+  "corporation_name": "Tenebris Initiative",
+  "alliance_name": "Umbrella Initiative Alliance"
+}

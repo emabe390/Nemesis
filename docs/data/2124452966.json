@@ -1,0 +1,34 @@
+{
+  "character_id": 2124452966,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124444712,
+    "name": "Jessie Alnagant",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98180825,
+    "alliance_id": 99013803,
+    "corporation_name": "Burning-Technologies",
+    "alliance_name": "Wicked Goats Enterprises"
+  },
+  "top_killers": [
+    {
+      "id": 2124444712,
+      "name": "Jessie Alnagant",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94430064,
+      "name": "Carl Syntax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jessie Alanagante",
+  "corporation_id": 98180825,
+  "alliance_id": 99013803,
+  "corporation_name": "Burning-Technologies",
+  "alliance_name": "Wicked Goats Enterprises"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123456257,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112785931,
+    "name": "Farrel Valran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rekium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112785931,
+      "name": "Farrel Valran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96268143,
+      "name": "Keval Kovalev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96333330,
+      "name": "signifiedzero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 270556702,
+      "name": "Sir Howard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Not A Spy04",
+  "corporation_id": 98806867,
+  "alliance_id": null,
+  "corporation_name": "The Not A Spy",
+  "alliance_name": null
+}

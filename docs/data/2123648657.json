@@ -1,0 +1,52 @@
+{
+  "character_id": 2123648657,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1774584613,
+    "name": "Trueside Winder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 1774584613,
+      "name": "Trueside Winder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119065205,
+      "name": "DefiantMorph",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94618411,
+      "name": "Vokan Izia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94943243,
+      "name": "King's Power",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1678984740,
+      "name": "Wrateh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jarcok",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

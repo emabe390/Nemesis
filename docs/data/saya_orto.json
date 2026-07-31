@@ -1,0 +1,40 @@
+{
+  "character_id": 2124498320,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121979812,
+    "name": "Scarlet Police",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121979812,
+      "name": "Scarlet Police",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123378278,
+      "name": "Adarialis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saya Orto",
+  "corporation_id": 98837408,
+  "alliance_id": null,
+  "corporation_name": "Ukaka Corporation",
+  "alliance_name": null
+}

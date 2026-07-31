@@ -1,0 +1,40 @@
+{
+  "character_id": 2118860358,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114912504,
+    "name": "Medusa Serenity",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98185110,
+    "alliance_id": 99003581,
+    "corporation_name": "Fuxi Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114912504,
+      "name": "Medusa Serenity",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115070156,
+      "name": "Voreios Asteri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122523789,
+      "name": "Edge-007",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mars Retrograde",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

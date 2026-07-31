@@ -1,0 +1,40 @@
+{
+  "character_id": 2120302321,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112782066,
+    "name": "Character 2112782066",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98782897,
+    "alliance_id": 99013516,
+    "corporation_name": "Diamond Dogs.",
+    "alliance_name": "Mercenaires Sans Frontieres."
+  },
+  "top_killers": [
+    {
+      "id": 2112782066,
+      "name": "Character 2112782066",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95551469,
+      "name": "Demaga Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117647518,
+      "name": "Wolf von Filnek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rallan Farin",
+  "corporation_id": 98811071,
+  "alliance_id": 99014691,
+  "corporation_name": "All You Can Eat Holes",
+  "alliance_name": "All You Can"
+}

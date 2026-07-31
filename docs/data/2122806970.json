@@ -1,0 +1,40 @@
+{
+  "character_id": 2122806970,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 913171352,
+    "name": "Hellrazer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98298938,
+    "alliance_id": 917526329,
+    "corporation_name": "Captain's Quarters",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123209206,
+      "name": "Character 2123209206",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124098870,
+      "name": "zLegion 28",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aura Hemipleic",
+  "corporation_id": 506928548,
+  "alliance_id": null,
+  "corporation_name": "Forge Boyz",
+  "alliance_name": null
+}

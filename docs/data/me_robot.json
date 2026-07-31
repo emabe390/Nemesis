@@ -1,0 +1,40 @@
+{
+  "character_id": 96110366,
+  "total_losses": 19,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92682146,
+    "name": "Character 92682146",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98771594,
+    "alliance_id": null,
+    "corporation_name": "ComGuards",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92682146,
+      "name": "Character 92682146",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 2120443112,
+      "name": "Gia Ironthumb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120048924,
+      "name": "Ghost Echo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Me Robot",
+  "corporation_id": 98427714,
+  "alliance_id": null,
+  "corporation_name": "Total Annihilation 2",
+  "alliance_name": null
+}

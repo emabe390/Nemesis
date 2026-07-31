@@ -1,0 +1,52 @@
+{
+  "character_id": 95766616,
+  "total_losses": 32,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 284306820,
+    "name": "Asasin's",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815771,
+    "alliance_id": null,
+    "corporation_name": "Celestial Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 284306820,
+      "name": "Asasin's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90703478,
+      "name": "fring light",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91353462,
+      "name": "le blanck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Revenant Pilot",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

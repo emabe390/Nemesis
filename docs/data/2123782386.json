@@ -1,0 +1,52 @@
+{
+  "character_id": 2123782386,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 91757554,
+    "name": "Doctor Barmental",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 786953927,
+    "alliance_id": null,
+    "corporation_name": "back in the USSR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91757554,
+      "name": "Doctor Barmental",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119761349,
+      "name": "Demian1 De Fugasov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90948149,
+      "name": "Cavalier Knox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92878809,
+      "name": "Xak Wales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 602903871,
+      "name": "Shake Reinquist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "F-78C",
+  "corporation_id": 98000682,
+  "alliance_id": 99009902,
+  "corporation_name": "Southern Cross Monopoly",
+  "alliance_name": "Flying Dangerous"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121682380,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1114073982,
+    "name": "CSISTRA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789418,
+    "alliance_id": null,
+    "corporation_name": "Mental Disruption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1114073982,
+      "name": "CSISTRA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95346329,
+      "name": "Fredrick Romanov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112881656,
+      "name": "Aepus Saisorre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116350275,
+      "name": "Happy Isaac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akita Co'en",
+  "corporation_id": 98473459,
+  "alliance_id": 99014617,
+  "corporation_name": "Lethal Devotion",
+  "alliance_name": "D E L I R I U M"
+}

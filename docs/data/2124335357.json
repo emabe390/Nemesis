@@ -1,0 +1,52 @@
+{
+  "character_id": 2124335357,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95167320,
+    "name": "Pete Zachanassian",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98375813,
+    "alliance_id": 99006495,
+    "corporation_name": "Belt Raider Inc.",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 762977248,
+      "name": "Ralph Makaev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117202728,
+      "name": "Mary Gankins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119128866,
+      "name": "Numbered",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vladimir Kazakovv",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2015806116,
+  "total_losses": 18,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 997395628,
+    "name": "Nobody PL",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 997395628,
+      "name": "Nobody PL",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90433496,
+      "name": "Sin Uanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93840572,
+      "name": "Gad Magus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94069636,
+      "name": "Emta Fumimasa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94165171,
+      "name": "Alex Sukorov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Flaura",
+  "corporation_id": 98244286,
+  "alliance_id": null,
+  "corporation_name": "Flying With Animals",
+  "alliance_name": null
+}

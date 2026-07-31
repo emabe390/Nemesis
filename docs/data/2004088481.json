@@ -1,0 +1,34 @@
+{
+  "character_id": 2004088481,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123750963,
+    "name": "AIvatar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821529,
+    "alliance_id": 99010457,
+    "corporation_name": "VictualBrothers",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123750963,
+      "name": "AIvatar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1550803871,
+      "name": "Transmission 116",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KerrYGaH",
+  "corporation_id": 1000072,
+  "alliance_id": null,
+  "corporation_name": "Imperial Shipment",
+  "alliance_name": null
+}

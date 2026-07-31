@@ -1,0 +1,34 @@
+{
+  "character_id": 2123938182,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117907675,
+    "name": "bonq",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2117907675,
+      "name": "bonq",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122558022,
+      "name": "MirrMIRT",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neo Zephyr Aurelius",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

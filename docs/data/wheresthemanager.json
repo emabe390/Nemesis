@@ -1,0 +1,52 @@
+{
+  "character_id": 2124529989,
+  "total_losses": 26,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 608036776,
+    "name": "Ice Garfield",
+    "kill_count": 18,
+    "final_blows": 18,
+    "corporation_id": 98553805,
+    "alliance_id": null,
+    "corporation_name": "WE HATE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 608036776,
+      "name": "Ice Garfield",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 96962524,
+      "name": "Daniel OHaleno",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94495114,
+      "name": "Rage Zombie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 927473147,
+      "name": "Elijah Ghost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122462807,
+      "name": "Voiras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WheresTheManager",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

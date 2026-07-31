@@ -1,0 +1,52 @@
+{
+  "character_id": 174838673,
+  "total_losses": 53,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 1124878530,
+    "name": "Ellena",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 98817477,
+    "alliance_id": 1354830081,
+    "corporation_name": "Surefire Inc.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1124878530,
+      "name": "Ellena",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 2123663571,
+      "name": "Alieya",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90656762,
+      "name": "Jam Tanto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91077880,
+      "name": "Orpheus Singularity",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amonte",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

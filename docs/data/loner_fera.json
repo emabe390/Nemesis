@@ -1,0 +1,52 @@
+{
+  "character_id": 2123890890,
+  "total_losses": 77,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 91440948,
+    "name": "Goppi Koks",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98568321,
+    "alliance_id": null,
+    "corporation_name": "Get silents",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91440948,
+      "name": "Goppi Koks",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96188400,
+      "name": "Grimoire Erkkinen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96385065,
+      "name": "Bruno Jabroni",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 606087195,
+      "name": "Grahfie",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93107163,
+      "name": "Givz Severasse",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Loner Fera",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

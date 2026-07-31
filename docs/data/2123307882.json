@@ -1,0 +1,52 @@
+{
+  "character_id": 2123307882,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121485414,
+    "name": "SQsad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798876,
+    "alliance_id": 99009927,
+    "corporation_name": "Family Guy.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2121485414,
+      "name": "SQsad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122729012,
+      "name": "Doc333",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93053887,
+      "name": "Perke-32",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94452796,
+      "name": "Eimantas Triber",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 677129442,
+      "name": "Excession Aura",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gris Stonewater",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

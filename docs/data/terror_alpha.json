@@ -1,0 +1,52 @@
+{
+  "character_id": 2113042309,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 647907454,
+    "name": "Fighter Bulls",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98106336,
+    "alliance_id": 99003557,
+    "corporation_name": "Renovatio Invaders",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96923171,
+      "name": "Angus Sinulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93312945,
+      "name": "Laslo Hekard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94307363,
+      "name": "Anika Petrokova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94469106,
+      "name": "Zaib Vega",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Terror Alpha",
+  "corporation_id": 98652891,
+  "alliance_id": 1042504553,
+  "corporation_name": "Dutch Legions",
+  "alliance_name": "Solyaris Chtonium"
+}

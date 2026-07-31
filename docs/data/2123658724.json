@@ -1,0 +1,40 @@
+{
+  "character_id": 2123658724,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93868523,
+    "name": "Lefty Berregianno",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98386461,
+    "alliance_id": null,
+    "corporation_name": "Red Sea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93868523,
+      "name": "Lefty Berregianno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96694814,
+      "name": "Coramyr Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123664704,
+      "name": "Kimiko Ishi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eeragas Itinen",
+  "corporation_id": 98802155,
+  "alliance_id": 99006728,
+  "corporation_name": "Quantum Penguin Inc.",
+  "alliance_name": "Catastrophic Experiment"
+}

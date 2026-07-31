@@ -1,0 +1,40 @@
+{
+  "character_id": 2123101623,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 138302040,
+    "name": "Captain Slackbladder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 622886381,
+      "name": "Nargile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121526331,
+      "name": "darin ifrim",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Black Proot",
+  "corporation_id": 98800320,
+  "alliance_id": null,
+  "corporation_name": "OuinOuin Corporation",
+  "alliance_name": null
+}

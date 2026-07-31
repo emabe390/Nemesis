@@ -1,0 +1,40 @@
+{
+  "character_id": 2116088138,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92453874,
+    "name": "David Razer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98793443,
+    "alliance_id": null,
+    "corporation_name": "Apres la pluie le beau temps",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92453874,
+      "name": "David Razer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96347353,
+      "name": "Ronon Inkunen-Dex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116296656,
+      "name": "Insani Ti",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crixodor",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

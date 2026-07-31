@@ -1,0 +1,52 @@
+{
+  "character_id": 96837223,
+  "total_losses": 29,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2115141660,
+    "name": "Alex Mixter",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98744893,
+    "alliance_id": null,
+    "corporation_name": "Mixter corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115141660,
+      "name": "Alex Mixter",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120784322,
+      "name": "Dracul Mihawk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90301943,
+      "name": "Felicia Nethers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sky Dart",
+  "corporation_id": 98628734,
+  "alliance_id": 99011271,
+  "corporation_name": "Sargos Corporation",
+  "alliance_name": "4Crabs Tavern"
+}

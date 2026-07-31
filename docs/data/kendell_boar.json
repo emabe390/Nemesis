@@ -1,0 +1,46 @@
+{
+  "character_id": 2123561739,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1121029034,
+    "name": "Cpt Armarlio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98614632,
+    "alliance_id": null,
+    "corporation_name": "Scary Ships On D-Scan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116517717,
+      "name": "Wolf Stormcaller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 872311767,
+      "name": "Tetrocius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 895888203,
+      "name": "Laarz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kendell Boar",
+  "corporation_id": 98737239,
+  "alliance_id": 99013284,
+  "corporation_name": "Exgesis Theorum",
+  "alliance_name": "Grand Inquisitors Federation"
+}

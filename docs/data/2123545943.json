@@ -1,0 +1,40 @@
+{
+  "character_id": 2123545943,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 778105572,
+    "name": "Ryvian",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98772776,
+    "alliance_id": 99013846,
+    "corporation_name": "Totality Squad",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 778105572,
+      "name": "Ryvian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114980201,
+      "name": "IMFOX Miromme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119337581,
+      "name": "Tupak Corvus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HaciAbla",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

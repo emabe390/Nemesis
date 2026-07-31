@@ -1,0 +1,52 @@
+{
+  "character_id": 95759720,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92225865,
+    "name": "Gusar Tuz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98742693,
+    "alliance_id": null,
+    "corporation_name": "Haven Enjoyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92225865,
+      "name": "Gusar Tuz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94908023,
+      "name": "Deni Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94782355,
+      "name": "Anastasia Mahyisti",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RVAMitchell",
+  "corporation_id": 144534752,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mercurialis Inc.",
+  "alliance_name": "Goonswarm Federation"
+}

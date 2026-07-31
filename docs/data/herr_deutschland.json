@@ -1,0 +1,52 @@
+{
+  "character_id": 2123668857,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91628728,
+    "name": "Illustras Mortales",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 951420810,
+      "name": "TrouserDeagle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123137065,
+      "name": "Ryko Erukka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123375143,
+      "name": "Zmey Drifters",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123544049,
+      "name": "Noki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Herr Deutschland",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

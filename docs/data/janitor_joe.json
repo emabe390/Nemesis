@@ -1,0 +1,34 @@
+{
+  "character_id": 2122828580,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 906890510,
+    "name": "Gryphon Darkcloud",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 906890510,
+      "name": "Gryphon Darkcloud",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122810325,
+      "name": "gaili58",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Janitor Joe",
+  "corporation_id": 98786691,
+  "alliance_id": null,
+  "corporation_name": "Pochven Cleanup Crew",
+  "alliance_name": null
+}

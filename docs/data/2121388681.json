@@ -1,0 +1,40 @@
+{
+  "character_id": 2121388681,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1361122480,
+    "name": "October Infection",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98586140,
+    "alliance_id": null,
+    "corporation_name": "Rock Breakers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1361122480,
+      "name": "October Infection",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 943701296,
+      "name": "Zigler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121846839,
+      "name": "Mir Vsem Nam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SicCommander",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

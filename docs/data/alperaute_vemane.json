@@ -1,0 +1,52 @@
+{
+  "character_id": 2123757446,
+  "total_losses": 42,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2122290386,
+    "name": "Dark Knight Joker",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98604876,
+    "alliance_id": 99013284,
+    "corporation_name": "Holey Amarrian Inquisition",
+    "alliance_name": "Grand Inquisitors Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122290386,
+      "name": "Dark Knight Joker",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2120136465,
+      "name": "Eugate Vares Vyvorant",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alperaute Vemane",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

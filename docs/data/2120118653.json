@@ -1,0 +1,52 @@
+{
+  "character_id": 2120118653,
+  "total_losses": 35,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 93255801,
+    "name": "Atmora Green",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98343343,
+    "alliance_id": 99004567,
+    "corporation_name": "Anoikis Equilibrium",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 93255801,
+      "name": "Atmora Green",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2113084930,
+      "name": "Kapt Sherlock",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90360702,
+      "name": "Ethien Green",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90542475,
+      "name": "Hitonme Aivo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114078816,
+      "name": "Johny Crichton",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Drakon Trelos",
+  "corporation_id": 98824267,
+  "alliance_id": 99014995,
+  "corporation_name": "Ferengi Commerce Consortium",
+  "alliance_name": "Star Fleet Union"
+}

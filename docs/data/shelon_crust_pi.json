@@ -1,0 +1,46 @@
+{
+  "character_id": 2123993111,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113233546,
+    "name": "Sven Bauer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90421201,
+      "name": "MRJXD Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91323840,
+      "name": "Roberrrto Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shelon Crust PI",
+  "corporation_id": 98823527,
+  "alliance_id": null,
+  "corporation_name": "Musky Fellas",
+  "alliance_name": null
+}

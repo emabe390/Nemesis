@@ -1,0 +1,40 @@
+{
+  "character_id": 2124500989,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113930045,
+    "name": "Renfri Katelo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98654799,
+    "alliance_id": 498125261,
+    "corporation_name": "KillTronic",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2113930045,
+      "name": "Renfri Katelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123933922,
+      "name": "MP5K",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91895342,
+      "name": "Jane Blackend",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "weiyangyang",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

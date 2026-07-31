@@ -1,0 +1,40 @@
+{
+  "character_id": 93331608,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93366253,
+    "name": "Ember Zion",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93366253,
+      "name": "Ember Zion",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2116133037,
+      "name": "Fan Banshi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123621956,
+      "name": "Raven Elric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven Zion",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

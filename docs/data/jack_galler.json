@@ -1,0 +1,40 @@
+{
+  "character_id": 2114274668,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95684040,
+    "name": "Rawdawg Law",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95684040,
+      "name": "Rawdawg Law",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105360523,
+      "name": "Muraghnar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147350000,
+      "name": "Leon Fox",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack Galler",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

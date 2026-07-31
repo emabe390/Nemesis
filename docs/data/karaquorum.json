@@ -1,0 +1,34 @@
+{
+  "character_id": 2124292347,
+  "total_losses": 7,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121887372,
+    "name": "Donald Barr",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98825616,
+    "alliance_id": 933731581,
+    "corporation_name": "Renegade Raccoons",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2121887372,
+      "name": "Donald Barr",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 320958469,
+      "name": "CPT Justin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karaquorum",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 90735210,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123751503,
+    "name": "Know Okaski",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123751503,
+      "name": "Know Okaski",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2122188719,
+      "name": "Know the Elder",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95897901,
+      "name": "Bud Bentza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90594639,
+      "name": "28 Days Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120887441,
+      "name": "Hillbilly-3000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Know Tsu",
+  "corporation_id": 98066577,
+  "alliance_id": 99014101,
+  "corporation_name": "Shore Leave Inc.",
+  "alliance_name": "Reckless Empire"
+}

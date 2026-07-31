@@ -1,0 +1,34 @@
+{
+  "character_id": 2123934568,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123302689,
+    "name": "Wyverna Pavlovna",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98620346,
+    "alliance_id": 1220922756,
+    "corporation_name": "Zero Transversal",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123302689,
+      "name": "Wyverna Pavlovna",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123302510,
+      "name": "Kaban4ik NaturaLniy",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Masculine Manager",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

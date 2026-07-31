@@ -1,0 +1,40 @@
+{
+  "character_id": 2123206699,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1628801748,
+    "name": "quietslayer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 1628801748,
+      "name": "quietslayer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Predatorka",
+  "corporation_id": 98491510,
+  "alliance_id": null,
+  "corporation_name": "Polish Interstellar Forces",
+  "alliance_name": null
+}

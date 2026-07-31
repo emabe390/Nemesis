@@ -1,0 +1,40 @@
+{
+  "character_id": 144978400,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95405668,
+    "name": "Dumbotron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98314546,
+    "alliance_id": null,
+    "corporation_name": "Why You So Mad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95405668,
+      "name": "Dumbotron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112165536,
+      "name": "Yuri Marnichik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112223967,
+      "name": "Six Nyendi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joe Nova",
+  "corporation_id": 98210135,
+  "alliance_id": 99005338,
+  "corporation_name": "Infinite Point",
+  "alliance_name": "Pandemic Horde"
+}

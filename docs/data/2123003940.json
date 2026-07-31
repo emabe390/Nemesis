@@ -1,0 +1,40 @@
+{
+  "character_id": 2123003940,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 148902561,
+    "name": "Space Beard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98631800,
+    "alliance_id": null,
+    "corporation_name": "Deep Hard Galactic",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 148902561,
+      "name": "Space Beard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121723616,
+      "name": "Ningbogege",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123740426,
+      "name": "Dangerpantz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KNCC",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

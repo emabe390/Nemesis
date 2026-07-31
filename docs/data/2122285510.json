@@ -1,0 +1,52 @@
+{
+  "character_id": 2122285510,
+  "total_losses": 22,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2117385850,
+    "name": "Haurrier Antollare",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2117385850,
+      "name": "Haurrier Antollare",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 761270465,
+      "name": "Raphyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 931138935,
+      "name": "Teh Tripple",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1189060489,
+      "name": "Celes Grizzard",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "CANSIN",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

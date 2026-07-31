@@ -1,0 +1,52 @@
+{
+  "character_id": 2123868590,
+  "total_losses": 19,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123044579,
+    "name": "Onzo Daiga",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98833833,
+    "alliance_id": null,
+    "corporation_name": "The Eternal Collapse",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123044579,
+      "name": "Onzo Daiga",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115064058,
+      "name": "Ichimusai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121697723,
+      "name": "LewsTherinTelamon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "WandererClown",
+  "corporation_id": 98798732,
+  "alliance_id": 99014405,
+  "corporation_name": "Corporacion Minera Universal",
+  "alliance_name": "Zalvarians Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 250214258,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 250214258",
+  "corporation_id": 98652891,
+  "alliance_id": 1042504553,
+  "corporation_name": "Dutch Legions",
+  "alliance_name": "Solyaris Chtonium"
+}

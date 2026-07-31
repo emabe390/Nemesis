@@ -1,0 +1,52 @@
+{
+  "character_id": 2122493840,
+  "total_losses": 19,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112765539,
+    "name": "Arcadis Inkura",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98715717,
+    "alliance_id": 99014092,
+    "corporation_name": "Horngry",
+    "alliance_name": "Quafe Liberation Front"
+  },
+  "top_killers": [
+    {
+      "id": 2112765539,
+      "name": "Arcadis Inkura",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94242769,
+      "name": "Dax StarRunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nox Rak",
+  "corporation_id": 98787223,
+  "alliance_id": null,
+  "corporation_name": "Nox Rak Corporation",
+  "alliance_name": null
+}

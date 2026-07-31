@@ -1,0 +1,34 @@
+{
+  "character_id": 2123450190,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119488871,
+    "name": "Mataviejitas",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98322623,
+    "alliance_id": 99013537,
+    "corporation_name": "Interbellum",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 2119488871,
+      "name": "Mataviejitas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96630662,
+      "name": "Shani Lafisques",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soulfather Fearslayer",
+  "corporation_id": 98742307,
+  "alliance_id": null,
+  "corporation_name": "Quantshure",
+  "alliance_name": null
+}

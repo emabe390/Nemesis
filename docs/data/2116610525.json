@@ -1,0 +1,40 @@
+{
+  "character_id": 2116610525,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116638663,
+    "name": "Dr Mungos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116638663,
+      "name": "Dr Mungos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119800715,
+      "name": "Rokot Campanak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123952558,
+      "name": "Hotja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silvia Blade",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

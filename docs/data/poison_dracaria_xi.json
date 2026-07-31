@@ -1,0 +1,40 @@
+{
+  "character_id": 2121621316,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1750313004,
+    "name": "Lordmurloc",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571715,
+    "alliance_id": 1900696668,
+    "corporation_name": "Xynodyne",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1750313004,
+      "name": "Lordmurloc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Poison Dracaria XI",
+  "corporation_id": 98747435,
+  "alliance_id": null,
+  "corporation_name": "Blood Raiders Charity Donation Logistics",
+  "alliance_name": null
+}

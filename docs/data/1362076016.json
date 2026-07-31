@@ -1,0 +1,52 @@
+{
+  "character_id": 1362076016,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2121278393,
+    "name": "Metrox-01A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98818355,
+    "alliance_id": 99013766,
+    "corporation_name": "Capys Legion",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121278393,
+      "name": "Metrox-01A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121382180,
+      "name": "Imonoi Arava Hinken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121333778,
+      "name": "Stalin914",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90861008,
+      "name": "Rezorin Rezaraev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arcelian",
+  "corporation_id": 98724947,
+  "alliance_id": 99014548,
+  "corporation_name": "0nus",
+  "alliance_name": "Project Oasis"
+}

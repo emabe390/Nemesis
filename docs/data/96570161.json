@@ -1,0 +1,40 @@
+{
+  "character_id": 96570161,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92410190,
+    "name": "Lathaen Cathal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92410190,
+      "name": "Lathaen Cathal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1329297199,
+      "name": "Dio DeCler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nathaniel Crane",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

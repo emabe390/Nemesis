@@ -1,0 +1,52 @@
+{
+  "character_id": 805018455,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 835161914,
+    "name": "Blue Dot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 668298004,
+    "alliance_id": 99003581,
+    "corporation_name": "Sacred Templars",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 835161914,
+      "name": "Blue Dot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90466218,
+      "name": "Asgardsam Stargate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93947591,
+      "name": "Jacob Velora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94472974,
+      "name": "Sebastian Charantes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 539066690,
+      "name": "Lume O'dear",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LimitedEdition",
+  "corporation_id": 668298004,
+  "alliance_id": 99003581,
+  "corporation_name": "Sacred Templars",
+  "alliance_name": "Fraternity."
+}

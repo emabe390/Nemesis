@@ -1,0 +1,52 @@
+{
+  "character_id": 2123976795,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2118118047,
+    "name": "Leyo Desp",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98654305,
+    "alliance_id": null,
+    "corporation_name": "Trident Alpha",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93223345,
+      "name": "Character 93223345",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115270103,
+      "name": "Fox Skytail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo Extricor",
+  "corporation_id": 98620289,
+  "alliance_id": 99010444,
+  "corporation_name": "Ascendance Rising",
+  "alliance_name": "Ascendance.."
+}

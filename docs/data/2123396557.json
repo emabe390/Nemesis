@@ -1,0 +1,34 @@
+{
+  "character_id": 2123396557,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120425402,
+    "name": "eonert12",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1324429368,
+    "alliance_id": 1354830081,
+    "corporation_name": "NED-Clan",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120425402,
+      "name": "eonert12",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jarrol Marr",
+  "corporation_id": 98790110,
+  "alliance_id": 99014402,
+  "corporation_name": "Dark Mercenary Company",
+  "alliance_name": "Plenitude Alliance"
+}

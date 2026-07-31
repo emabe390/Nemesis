@@ -1,0 +1,52 @@
+{
+  "character_id": 2123956312,
+  "total_losses": 15,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123976492,
+    "name": "Kasata Duyen",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98821546,
+    "alliance_id": null,
+    "corporation_name": "Hanoma Holdings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123976492,
+      "name": "Kasata Duyen",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123949269,
+      "name": "Kaas Hanoma",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92543112,
+      "name": "Nephilim Stargazer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92662629,
+      "name": "Eonok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96420227,
+      "name": "Keeperofthe7keys af-Septem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaden Hanoma",
+  "corporation_id": 98815625,
+  "alliance_id": 99011127,
+  "corporation_name": "Speaker for the Dead",
+  "alliance_name": "Stay Feral"
+}

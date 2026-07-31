@@ -1,0 +1,52 @@
+{
+  "character_id": 1007000786,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114354000,
+    "name": "Character 2114354000",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98719995,
+    "alliance_id": 99006225,
+    "corporation_name": "Ophidian Ag",
+    "alliance_name": "Rote Works"
+  },
+  "top_killers": [
+    {
+      "id": 2114354000,
+      "name": "Character 2114354000",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90737185,
+      "name": "Ominess Shadow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 224285719,
+      "name": "Lenid Kalkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Copa Cabana",
+  "corporation_id": 1020135437,
+  "alliance_id": 1354830081,
+  "corporation_name": "Universalis Imperium",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123492678,
+  "total_losses": 19,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2123492243,
+    "name": "Maraka Austrene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98325731,
+    "alliance_id": 1354830081,
+    "corporation_name": "Windrammers",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123492243,
+      "name": "Maraka Austrene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123504144,
+      "name": "Olla Tissant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90433496,
+      "name": "Sin Uanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92187676,
+      "name": "zefirchik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93840572,
+      "name": "Gad Magus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erout Amatin",
+  "corporation_id": 98799892,
+  "alliance_id": 99010468,
+  "corporation_name": "False Gods",
+  "alliance_name": "Weapons Of Mass Production."
+}

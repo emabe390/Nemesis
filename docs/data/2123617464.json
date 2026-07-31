@@ -1,0 +1,52 @@
+{
+  "character_id": 2123617464,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117558119,
+    "name": "Anomalocaris UA",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98696581,
+    "alliance_id": 99012021,
+    "corporation_name": "Haidamaky",
+    "alliance_name": "UA Fleets"
+  },
+  "top_killers": [
+    {
+      "id": 2117558119,
+      "name": "Anomalocaris UA",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123690852,
+      "name": "Artur Wilde",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1800487696,
+      "name": "Sacourist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118920087,
+      "name": "Ceremonial",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123384113,
+      "name": "Darkstel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jita Akatsuki",
+  "corporation_id": 379354739,
+  "alliance_id": null,
+  "corporation_name": "Silver.Wing",
+  "alliance_name": null
+}

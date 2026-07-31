@@ -1,0 +1,52 @@
+{
+  "character_id": 2123789256,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 945066386,
+    "name": "KingOf Beer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98361497,
+    "alliance_id": 1354830081,
+    "corporation_name": "True Faces Hungary",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 945066386,
+      "name": "KingOf Beer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95986361,
+      "name": "Picike Szeretet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 974599555,
+      "name": "Tuzmadar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113321344,
+      "name": "Domini Djones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113481712,
+      "name": "Lovr0",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HSINC D",
+  "corporation_id": 98806766,
+  "alliance_id": 99009163,
+  "corporation_name": "Spear of Morning Star",
+  "alliance_name": "Dracarys."
+}

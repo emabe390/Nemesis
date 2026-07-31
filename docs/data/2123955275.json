@@ -1,0 +1,40 @@
+{
+  "character_id": 2123955275,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95986361,
+    "name": "Picike Szeretet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 143968112,
+    "alliance_id": 99007629,
+    "corporation_name": "Wings of Turul",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 95986361,
+      "name": "Picike Szeretet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115049942,
+      "name": "Cly Patrouette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 974599555,
+      "name": "Tuzmadar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heartstring Scout",
+  "corporation_id": 98806766,
+  "alliance_id": 99009163,
+  "corporation_name": "Spear of Morning Star",
+  "alliance_name": "Dracarys."
+}

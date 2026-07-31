@@ -1,0 +1,40 @@
+{
+  "character_id": 2121888310,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117569679,
+    "name": "Karambo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98770220,
+    "alliance_id": 99007203,
+    "corporation_name": "POLAR ZEBRA",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2117569679,
+      "name": "Karambo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117650433,
+      "name": "Hi im Piet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116964688,
+      "name": "Mastic the Cator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cool Jack",
+  "corporation_id": 2036478771,
+  "alliance_id": 99013840,
+  "corporation_name": "Ocean Eleven",
+  "alliance_name": "Quietly Eerie"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123457246,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91640376,
+      "name": "Hollywood Cole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93350722,
+      "name": "Milena Drakaris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 280252949,
+      "name": "lekea",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Knowledge Producer",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120864104,
+  "total_losses": 58,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92489946,
+      "name": "Alex Helion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95298092,
+      "name": "Matashibi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 669462756,
+      "name": "Muad al'Haqim",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zhekatron",
+  "corporation_id": 98788012,
+  "alliance_id": 99013690,
+  "corporation_name": "The Edge of Heretics",
+  "alliance_name": "Critical. Mass."
+}

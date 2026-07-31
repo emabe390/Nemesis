@@ -1,0 +1,40 @@
+{
+  "character_id": 2113645624,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96850285,
+    "name": "Ava Inferno",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98509292,
+    "alliance_id": 99012544,
+    "corporation_name": "Infernal Corporation",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 96850285,
+      "name": "Ava Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114288686,
+      "name": "Lazlow Klang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123908221,
+      "name": "Sallamander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suna Zar",
+  "corporation_id": 98744946,
+  "alliance_id": null,
+  "corporation_name": "True Survivors",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123163701,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116440630,
+    "name": "Shaufrall Nephthys",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744002,
+    "alliance_id": null,
+    "corporation_name": "New Growth Apples",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116440630,
+      "name": "Shaufrall Nephthys",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117207979,
+      "name": "Fadetoblack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90632029,
+      "name": "Ignitius Charante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112877244,
+      "name": "Sunra Hekki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122311465,
+      "name": "Hello Dog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sashaan",
+  "corporation_id": 98728397,
+  "alliance_id": 99012722,
+  "corporation_name": "HIGH SEC MINING CORP",
+  "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
+}

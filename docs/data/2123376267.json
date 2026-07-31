@@ -1,0 +1,52 @@
+{
+  "character_id": 2123376267,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 93911513,
+    "name": "Raylan Yutani",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98702259,
+    "alliance_id": null,
+    "corporation_name": "The Boneyard Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93911513,
+      "name": "Raylan Yutani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 781741932,
+      "name": "Capt Harston",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1509479780,
+      "name": "Randejo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1598152562,
+      "name": "Cown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112854706,
+      "name": "Doob Jakatar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zmrd",
+  "corporation_id": 98513466,
+  "alliance_id": 99010089,
+  "corporation_name": "We Break Things",
+  "alliance_name": "Novus Ordo."
+}

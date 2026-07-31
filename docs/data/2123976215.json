@@ -1,0 +1,52 @@
+{
+  "character_id": 2123976215,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94130782,
+    "name": "Vael Praetorius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797147,
+    "alliance_id": null,
+    "corporation_name": "Kubinen Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94130782,
+      "name": "Vael Praetorius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90001584,
+      "name": "Hroovitnir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1463288760,
+      "name": "Lord Maagnus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116002892,
+      "name": "Omri Cipriani",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "masterballs",
+  "corporation_id": 98750990,
+  "alliance_id": 99010756,
+  "corporation_name": "New Eden Exploration and Uprising Syndicate",
+  "alliance_name": "Pretenders"
+}

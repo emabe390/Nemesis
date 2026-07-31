@@ -1,0 +1,52 @@
+{
+  "character_id": 2124167723,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2124167731,
+    "name": "LB003",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98645589,
+    "alliance_id": 99009163,
+    "corporation_name": "Faceless.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2124167731,
+      "name": "LB003",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116984782,
+      "name": "aoligei ganjiuwanl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121189791,
+      "name": "Kyoland Engineer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121984675,
+      "name": "Banished Comet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LB002",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

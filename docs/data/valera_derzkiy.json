@@ -1,0 +1,40 @@
+{
+  "character_id": 2124559297,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118232641,
+    "name": "Victor Lovett",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822724,
+    "alliance_id": 99013846,
+    "corporation_name": "Pochven Police Department",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 2118232641,
+      "name": "Victor Lovett",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92470684,
+      "name": "Bega Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124492575,
+      "name": "eve-Hunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valera Derzkiy",
+  "corporation_id": 98772435,
+  "alliance_id": null,
+  "corporation_name": "Bizarre Adventure Artel",
+  "alliance_name": null
+}

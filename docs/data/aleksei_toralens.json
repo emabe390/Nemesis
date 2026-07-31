@@ -1,0 +1,40 @@
+{
+  "character_id": 2122605099,
+  "total_losses": 20,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124028843,
+    "name": "Bala Envenenada",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98777436,
+    "alliance_id": 99013327,
+    "corporation_name": "Hyperion Bikers Corporation",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2124028843,
+      "name": "Bala Envenenada",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2123202960,
+      "name": "Joan Andromeda",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123497401,
+      "name": "Asmodeus914",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aleksei Toralens",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

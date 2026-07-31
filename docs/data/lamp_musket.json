@@ -1,0 +1,34 @@
+{
+  "character_id": 2123810388,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1411317204,
+    "name": "Rat 1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1004600589,
+    "alliance_id": null,
+    "corporation_name": "Rat Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1411317204,
+      "name": "Rat 1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123437303,
+      "name": "Wuchengen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lamp Musket",
+  "corporation_id": 98738617,
+  "alliance_id": null,
+  "corporation_name": "French Interstellar Enterprise",
+  "alliance_name": null
+}

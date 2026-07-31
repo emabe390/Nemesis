@@ -1,0 +1,52 @@
+{
+  "character_id": 2114433166,
+  "total_losses": 19,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2117332550,
+    "name": "degeva",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98127387,
+    "alliance_id": 1354830081,
+    "corporation_name": "Echelon Research",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117332550,
+      "name": "degeva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95660888,
+      "name": "Animyx Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95663404,
+      "name": "Dark Knight Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 323748923,
+      "name": "Frank Wiggles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 329151590,
+      "name": "Jomby",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2114433166",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

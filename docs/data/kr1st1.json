@@ -1,0 +1,40 @@
+{
+  "character_id": 2124191837,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 821787492,
+    "name": "Ralli",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 821787492,
+      "name": "Ralli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 765451240,
+      "name": "Elleryn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122578541,
+      "name": "Vitaly Abramovich VI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "kr1st1",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

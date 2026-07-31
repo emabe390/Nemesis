@@ -1,0 +1,52 @@
+{
+  "character_id": 2123251320,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 93775532,
+    "name": "Fenix Nikolajsen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98794423,
+    "alliance_id": 99012060,
+    "corporation_name": "Lonetrek Directorate of Taxation",
+    "alliance_name": "Standard Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120180025,
+      "name": "Dodgey Sen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91201278,
+      "name": "php3ch0 Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95680405,
+      "name": "Dangor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yashperka",
+  "corporation_id": 98435365,
+  "alliance_id": 99014570,
+  "corporation_name": "Weird Unicorn Studio",
+  "alliance_name": "Weird Industries"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112233073,
+  "total_losses": 25,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2118895424,
+    "name": "Onecage Leming",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98427812,
+    "alliance_id": 99007203,
+    "corporation_name": "Siberian Squad",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2118895424,
+      "name": "Onecage Leming",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2123441391,
+      "name": "True Corsar 1",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123441402,
+      "name": "True Corsar 2",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114891503,
+      "name": "Vinsales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118007261,
+      "name": "Character 2118007261",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Specific Dynamics",
+  "corporation_id": 98773416,
+  "alliance_id": 1900696668,
+  "corporation_name": "Primal Instinct Inc.",
+  "alliance_name": "The Initiative."
+}

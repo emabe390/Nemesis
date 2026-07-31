@@ -1,0 +1,40 @@
+{
+  "character_id": 2118174283,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123079860,
+    "name": "Moogi Ra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1031960637,
+    "alliance_id": 99013884,
+    "corporation_name": "Distant Horizons",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 2123079860,
+      "name": "Moogi Ra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92886274,
+      "name": "Razio Hedikai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122849876,
+      "name": "Blondie Emerald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Unpercieved",
+  "corporation_id": 98838305,
+  "alliance_id": null,
+  "corporation_name": "Illiquidity",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123560739,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 90107819,
+    "name": "Oxinome",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98818593,
+    "alliance_id": 99009845,
+    "corporation_name": "Bangzhu Cartel",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 732859954,
+      "name": "Rotten Ralph",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1007617072,
+      "name": "Benzmann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1190226993,
+      "name": "Cpt JackSparow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117273105,
+      "name": "Matvik",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mara RedFox",
+  "corporation_id": 98571607,
+  "alliance_id": null,
+  "corporation_name": "G.T.U.",
+  "alliance_name": null
+}

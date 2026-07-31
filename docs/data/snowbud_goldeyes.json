@@ -1,0 +1,52 @@
+{
+  "character_id": 2123693996,
+  "total_losses": 132,
+  "unique_killers": 119,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91950085,
+      "name": "Sovereign Rotineque",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92871474,
+      "name": "Aenox TK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93292720,
+      "name": "Slanesh Alduin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95940713,
+      "name": "Alex Jantex",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Snowbud Goldeyes",
+  "corporation_id": 230445889,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mindstar Technology",
+  "alliance_name": "Goonswarm Federation"
+}

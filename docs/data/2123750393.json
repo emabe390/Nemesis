@@ -1,0 +1,40 @@
+{
+  "character_id": 2123750393,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122636640,
+    "name": "Faulty Fingers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98422578,
+    "alliance_id": 99010787,
+    "corporation_name": "Almost Dangerous",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 2122636640,
+      "name": "Faulty Fingers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115934463,
+      "name": "Klim Churyumov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122785577,
+      "name": "Ugaro Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harroken Anneto Pat",
+  "corporation_id": 98811649,
+  "alliance_id": null,
+  "corporation_name": "Hole Prospectors",
+  "alliance_name": null
+}

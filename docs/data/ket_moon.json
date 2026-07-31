@@ -1,0 +1,40 @@
+{
+  "character_id": 2114563712,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 227664659,
+    "name": "Deuteros Sicling",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98077439,
+    "alliance_id": 99004901,
+    "corporation_name": "Lightning Squad",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 227664659,
+      "name": "Deuteros Sicling",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ket Moon",
+  "corporation_id": 98565090,
+  "alliance_id": null,
+  "corporation_name": "Behemoth 66",
+  "alliance_name": null
+}

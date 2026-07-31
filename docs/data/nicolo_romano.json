@@ -1,0 +1,52 @@
+{
+  "character_id": 2123697832,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1510566922,
+    "name": "Aegareth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98069995,
+    "alliance_id": null,
+    "corporation_name": "Suddenly taken over",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1510566922,
+      "name": "Aegareth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123651445,
+      "name": "Character 2123651445",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1190901474,
+      "name": "Lefty Guns",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120438766,
+      "name": "Therin Darkstar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nicolo Romano",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

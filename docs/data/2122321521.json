@@ -1,0 +1,40 @@
+{
+  "character_id": 2122321521,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92198971,
+    "name": "Colin McFry",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98453536,
+    "alliance_id": null,
+    "corporation_name": "Corporation Red X",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92198971,
+      "name": "Colin McFry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93939079,
+      "name": "Cara Neom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118981978,
+      "name": "mr Williams",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vincent Leone",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

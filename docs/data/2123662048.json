@@ -1,0 +1,46 @@
+{
+  "character_id": 2123662048,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1685027902,
+    "name": "Lady Nova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98221538,
+    "alliance_id": 99003581,
+    "corporation_name": "C5 Flight",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1685027902,
+      "name": "Lady Nova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93284493,
+      "name": "EvE Janes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96080040,
+      "name": "Dank WormholeIsk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122851147,
+      "name": "Gallente Citizen 2122851147",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Winston Cenergy",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

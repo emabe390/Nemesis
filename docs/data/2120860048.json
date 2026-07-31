@@ -1,0 +1,46 @@
+{
+  "character_id": 2120860048,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 609879808,
+    "name": "Armid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98672446,
+    "alliance_id": 99008412,
+    "corporation_name": "Target Solution",
+    "alliance_name": "Lost and Clowned"
+  },
+  "top_killers": [
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122699860,
+      "name": "Na Pivo Dam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nephthys Labratox",
+  "corporation_id": 98734691,
+  "alliance_id": 99014891,
+  "corporation_name": "Labratox Mining and Trading Corporation",
+  "alliance_name": "Stellar Resource Collective"
+}

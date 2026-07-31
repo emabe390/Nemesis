@@ -1,0 +1,46 @@
+{
+  "character_id": 2123897720,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94003370,
+    "name": "Loc'Na Morbiditti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98568086,
+    "alliance_id": null,
+    "corporation_name": "EveIsBoring",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94003370,
+      "name": "Loc'Na Morbiditti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92770445,
+      "name": "Boo Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121277989,
+      "name": "Saraki Co 2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serotla",
+  "corporation_id": 98801130,
+  "alliance_id": 99013420,
+  "corporation_name": "Republic Strategic Reserve",
+  "alliance_name": "Helios Initiative"
+}

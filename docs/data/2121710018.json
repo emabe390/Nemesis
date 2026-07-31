@@ -1,0 +1,52 @@
+{
+  "character_id": 2121710018,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 96618419,
+      "name": "kim jam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119959114,
+      "name": "Jinx Alvarez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 165332291,
+      "name": "Hunter Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mucat",
+  "corporation_id": 244898283,
+  "alliance_id": 1354830081,
+  "corporation_name": "OEG",
+  "alliance_name": "Goonswarm Federation"
+}

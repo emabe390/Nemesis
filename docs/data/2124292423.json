@@ -1,0 +1,52 @@
+{
+  "character_id": 2124292423,
+  "total_losses": 18,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2124292472,
+    "name": "A-ZW-03",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124292472,
+      "name": "A-ZW-03",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119552236,
+      "name": "seba380",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124292559,
+      "name": "A-ZW-04",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92493967,
+      "name": "Omnaria Kautsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93319096,
+      "name": "Theo Keikira",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "A-ZW-02",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123656249,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123855263,
+    "name": "St'Shark",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98677509,
+    "alliance_id": 99010412,
+    "corporation_name": "Nisuwa Dairy Union",
+    "alliance_name": "Nisuwa Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2123855263,
+      "name": "St'Shark",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95089298,
+      "name": "Kajin Kashuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96391844,
+      "name": "glacier white",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113696973,
+      "name": "Rafe Macauley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113791683,
+      "name": "bluewing sky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JamaicanCreamPie",
+  "corporation_id": 98796794,
+  "alliance_id": 99014106,
+  "corporation_name": "Pie Holdings Inc.",
+  "alliance_name": "Snail Church"
+}

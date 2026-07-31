@@ -1,0 +1,34 @@
+{
+  "character_id": 2121833752,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120372751,
+    "name": "Chuck Lone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98823740,
+    "alliance_id": 99015107,
+    "corporation_name": "Cessio Asset Reclamation",
+    "alliance_name": "Suspiciously Well-Oiled Gamers"
+  },
+  "top_killers": [
+    {
+      "id": 2120372751,
+      "name": "Chuck Lone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124046061,
+      "name": "Ducky Quackers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tsukasa'Aoi",
+  "corporation_id": 98760430,
+  "alliance_id": null,
+  "corporation_name": "Sakura PLC",
+  "alliance_name": null
+}

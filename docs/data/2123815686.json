@@ -1,0 +1,40 @@
+{
+  "character_id": 2123815686,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113937465,
+    "name": "Wulfric Durin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 2113937465,
+      "name": "Wulfric Durin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113963475,
+      "name": "Sathorian Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115377208,
+      "name": "Mikhail Rokossovsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frost Revenant",
+  "corporation_id": 98630790,
+  "alliance_id": null,
+  "corporation_name": "Wolframium",
+  "alliance_name": null
+}

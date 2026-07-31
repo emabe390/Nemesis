@@ -1,0 +1,40 @@
+{
+  "character_id": 2123868100,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122810901,
+    "name": "Zandra Cassandra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758537,
+    "alliance_id": null,
+    "corporation_name": "T H E . S E A G A L S",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122810901,
+      "name": "Zandra Cassandra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94855503,
+      "name": "Falling Lief",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112109453,
+      "name": "Orimary Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akulp",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

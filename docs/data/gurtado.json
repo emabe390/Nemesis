@@ -1,0 +1,52 @@
+{
+  "character_id": 2123578818,
+  "total_losses": 25,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91500790,
+      "name": "Crackpot V",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114772624,
+      "name": "Sion Felicia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Gurtado",
+  "corporation_id": 98824254,
+  "alliance_id": null,
+  "corporation_name": "Gurt's Demons",
+  "alliance_name": null
+}

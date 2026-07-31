@@ -1,0 +1,52 @@
+{
+  "character_id": 2123569865,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2115049942,
+    "name": "Cly Patrouette",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837449,
+    "alliance_id": null,
+    "corporation_name": "Sound Of Madness",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115049942,
+      "name": "Cly Patrouette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116413082,
+      "name": "Snow Chaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120598336,
+      "name": "Africa Heras Gavilan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90253386,
+      "name": "Lars Fjell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90752355,
+      "name": "Sarah Ichinumi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Egura Bolt",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

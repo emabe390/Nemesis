@@ -1,0 +1,52 @@
+{
+  "character_id": 2123812890,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 93708068,
+    "name": "Alis Lesso",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98565559,
+    "alliance_id": null,
+    "corporation_name": "Boarding Party",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93708068,
+      "name": "Alis Lesso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90787958,
+      "name": "Jim Specter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94147135,
+      "name": "Alex Lesso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94255955,
+      "name": "Bjorn Broadside",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1120815457,
+      "name": "F1ip",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Generic Pirate",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

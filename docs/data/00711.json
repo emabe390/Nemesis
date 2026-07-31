@@ -1,0 +1,52 @@
+{
+  "character_id": 2123734221,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 962215199,
+    "name": "Wrik Hoover",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 425883056,
+    "alliance_id": 99004901,
+    "corporation_name": "Hoover Inc.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 962215199,
+      "name": "Wrik Hoover",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94443642,
+      "name": "Chronos Aion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 804683739,
+      "name": "Character 804683739",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "00711",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

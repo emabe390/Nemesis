@@ -1,0 +1,40 @@
+{
+  "character_id": 2112989601,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1254099509,
+    "name": "Vizzar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1254099509,
+      "name": "Vizzar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90574889,
+      "name": "Venom Ultra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117463498,
+      "name": "Dalt Verfit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jehoshaphat Ambraelle",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

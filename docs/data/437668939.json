@@ -1,0 +1,40 @@
+{
+  "character_id": 437668939,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95436116,
+    "name": "General Hein",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98753041,
+    "alliance_id": 99011223,
+    "corporation_name": "Mostly Cap Stable",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 95436116,
+      "name": "General Hein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1001141335,
+      "name": "Shitanko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121218168,
+      "name": "Satta Kemos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darker Domain",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

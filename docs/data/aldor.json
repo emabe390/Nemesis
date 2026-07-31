@@ -1,0 +1,52 @@
+{
+  "character_id": 145158474,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92655600,
+    "name": "Guybertini",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98155447,
+    "alliance_id": 99002775,
+    "corporation_name": "New Order Logistics",
+    "alliance_name": "CODE."
+  },
+  "top_killers": [
+    {
+      "id": 92655600,
+      "name": "Guybertini",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 143294059,
+      "name": "KingRizen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 472515957,
+      "name": "De Ra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 759554548,
+      "name": "Ingel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 934214322,
+      "name": "Moridin Bashere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aldor",
+  "corporation_id": 1739655225,
+  "alliance_id": null,
+  "corporation_name": "Alternate Horizons",
+  "alliance_name": null
+}

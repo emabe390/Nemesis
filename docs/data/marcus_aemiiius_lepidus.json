@@ -1,0 +1,40 @@
+{
+  "character_id": 2123305297,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 249626851,
+      "name": "zx896",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122497563,
+      "name": "kagari 3-3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcus AemiIius Lepidus",
+  "corporation_id": 98805211,
+  "alliance_id": 99013513,
+  "corporation_name": "The Defenders of Managed Democracy",
+  "alliance_name": "V0IDLINGS"
+}

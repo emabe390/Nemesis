@@ -1,0 +1,40 @@
+{
+  "character_id": 2122731884,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1648763621,
+      "name": "Bruce Kemp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123101404,
+      "name": "Mel Medarda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fighting Crab",
+  "corporation_id": 98723884,
+  "alliance_id": null,
+  "corporation_name": "W-space guardians",
+  "alliance_name": null
+}

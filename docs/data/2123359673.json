@@ -1,0 +1,52 @@
+{
+  "character_id": 2123359673,
+  "total_losses": 29,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2119633690,
+    "name": "Ti-prd",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98696536,
+    "alliance_id": null,
+    "corporation_name": "TRX 26cm mens corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119633690,
+      "name": "Ti-prd",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119496798,
+      "name": "Rossi Rose",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123869176,
+      "name": "Leshiy Son Chernobog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90159499,
+      "name": "Jeremiah Galtus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93339910,
+      "name": "Rezdon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mabotto",
+  "corporation_id": 98693541,
+  "alliance_id": 99012161,
+  "corporation_name": "Take this...",
+  "alliance_name": "SHOULD NOT EXPLODE..."
+}

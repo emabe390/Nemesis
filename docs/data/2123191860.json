@@ -1,0 +1,52 @@
+{
+  "character_id": 2123191860,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 91455988,
+    "name": "Barkura Kane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93745430,
+      "name": "Roman Ostanin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96775499,
+      "name": "Gorien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97102875,
+      "name": "Prorok Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112231000,
+      "name": "DaLi Tekataki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishukel",
+  "corporation_id": 98786652,
+  "alliance_id": 99013097,
+  "corporation_name": "Snow Mans",
+  "alliance_name": "Suetology"
+}

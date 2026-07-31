@@ -1,0 +1,52 @@
+{
+  "character_id": 2116985161,
+  "total_losses": 25,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2121849577,
+    "name": "Zver Razruchitel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2121849577,
+      "name": "Zver Razruchitel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93944571,
+      "name": "Ander Arili",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96131029,
+      "name": "Triunewolf Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96847674,
+      "name": "cron david",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crownslayer",
+  "corporation_id": 98818418,
+  "alliance_id": 99014548,
+  "corporation_name": "The Ouroboros Collective",
+  "alliance_name": "Project Oasis"
+}

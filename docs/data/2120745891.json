@@ -1,0 +1,40 @@
+{
+  "character_id": 2120745891,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115758972,
+    "name": "Grinwig",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98000682,
+    "alliance_id": 99009902,
+    "corporation_name": "Southern Cross Monopoly",
+    "alliance_name": "Flying Dangerous"
+  },
+  "top_killers": [
+    {
+      "id": 2115758972,
+      "name": "Grinwig",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90890526,
+      "name": "Johnson Joringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93184630,
+      "name": "Zena Budhala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mele KaIikimaka",
+  "corporation_id": 98759170,
+  "alliance_id": null,
+  "corporation_name": "Christmas in Hawaii",
+  "alliance_name": null
+}

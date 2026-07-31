@@ -1,0 +1,52 @@
+{
+  "character_id": 2123652931,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116238698,
+    "name": "TCRoberto Tlak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98626494,
+    "alliance_id": 99003581,
+    "corporation_name": "STARCHASER Inc",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116238698,
+      "name": "TCRoberto Tlak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120894528,
+      "name": "i Nexy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116105023,
+      "name": "Drithi Moonshae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kara Daniels",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

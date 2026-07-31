@@ -1,0 +1,34 @@
+{
+  "character_id": 2123972475,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123582330,
+    "name": "Ryvixa Arylia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123582330,
+      "name": "Ryvixa Arylia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Justin Minwar",
+  "corporation_id": 98801637,
+  "alliance_id": 99014645,
+  "corporation_name": "TUITEK",
+  "alliance_name": "Total System Failure"
+}

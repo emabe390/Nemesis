@@ -1,0 +1,34 @@
+{
+  "character_id": 2121901181,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123589891,
+    "name": "Inspector Bam",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1031960637,
+    "alliance_id": 99013884,
+    "corporation_name": "Distant Horizons",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 2123589891,
+      "name": "Inspector Bam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vangelire Macella",
+  "corporation_id": 98746955,
+  "alliance_id": null,
+  "corporation_name": "Light Spectrum Specialties",
+  "alliance_name": null
+}

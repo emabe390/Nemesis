@@ -1,0 +1,52 @@
+{
+  "character_id": 406568408,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 281823501,
+    "name": "Lar Gunta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 295602303,
+    "alliance_id": null,
+    "corporation_name": "Reptilian Research",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 281823501,
+      "name": "Lar Gunta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90037483,
+      "name": "Ivicek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 199063363,
+      "name": "Mex Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 358315710,
+      "name": "Rex Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1475312152,
+      "name": "Zorg Emperor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sirus Redeemer",
+  "corporation_id": 295602303,
+  "alliance_id": null,
+  "corporation_name": "Reptilian Research",
+  "alliance_name": null
+}

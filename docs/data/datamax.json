@@ -1,0 +1,52 @@
+{
+  "character_id": 145852403,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91455988,
+    "name": "Barkura Kane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90751220,
+      "name": "Julia Connor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 631961998,
+      "name": "TheNewEclipse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113707288,
+      "name": "Eposz Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Datamax",
+  "corporation_id": 149968901,
+  "alliance_id": 1988009451,
+  "corporation_name": "Genco",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

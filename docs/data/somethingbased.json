@@ -1,0 +1,52 @@
+{
+  "character_id": 2121757271,
+  "total_losses": 30,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2118452748,
+    "name": "Sun armonie",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98740993,
+    "alliance_id": null,
+    "corporation_name": "Black Sun Rays",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118452748,
+      "name": "Sun armonie",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94280900,
+      "name": "Xaifas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116136809,
+      "name": "Xyuhao Asanari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121830670,
+      "name": "Sambowny",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SomethingBased",
+  "corporation_id": 98779879,
+  "alliance_id": 99010421,
+  "corporation_name": "Some Regarded Pandas",
+  "alliance_name": "Something Really Pretentious"
+}

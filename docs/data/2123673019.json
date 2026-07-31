@@ -1,0 +1,52 @@
+{
+  "character_id": 2123673019,
+  "total_losses": 21,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2117058773,
+    "name": "Fury Bastaria",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98797896,
+    "alliance_id": null,
+    "corporation_name": "Savages of Ardes",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117058773,
+      "name": "Fury Bastaria",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 348968070,
+      "name": "Glyndi",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93726812,
+      "name": "Buddi Enderas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 357662406,
+      "name": "Gibson Thunderbird",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SIU005",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

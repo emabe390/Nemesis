@@ -1,0 +1,46 @@
+{
+  "character_id": 2121568894,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120294676,
+    "name": "SLBY BC",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98765090,
+    "alliance_id": 99003581,
+    "corporation_name": "Titan Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120294676,
+      "name": "SLBY BC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121011889,
+      "name": "Raven Hallows",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123704319,
+      "name": "CaoCao IIIllIIIII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123704339,
+      "name": "CaoCao IlIIlIlIIl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ethan Brannon",
+  "corporation_id": 98457033,
+  "alliance_id": 1900696668,
+  "corporation_name": "United Mining and Hauling Inc",
+  "alliance_name": "The Initiative."
+}

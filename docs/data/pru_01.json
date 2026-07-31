@@ -1,0 +1,52 @@
+{
+  "character_id": 2117555113,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3020007,
+    "name": "Cephisso Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118205282,
+      "name": "MoMo-Maximus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122737934,
+      "name": "Frank Drebin hadnagy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PRU 01",
+  "corporation_id": 98677430,
+  "alliance_id": 99002685,
+  "corporation_name": "Earth Watch Orbit Control",
+  "alliance_name": "Synergy of Steel"
+}

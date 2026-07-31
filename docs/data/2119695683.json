@@ -1,0 +1,40 @@
+{
+  "character_id": 2119695683,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112482805,
+    "name": "Ashalia Fender",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98553361,
+    "alliance_id": null,
+    "corporation_name": "Relict Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112482805,
+      "name": "Ashalia Fender",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116360111,
+      "name": "Yoyo Maricadie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122492582,
+      "name": "This-Is-An-Exploit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Admiral Yang",
+  "corporation_id": 98795700,
+  "alliance_id": null,
+  "corporation_name": "Nulla Vectigalia",
+  "alliance_name": null
+}

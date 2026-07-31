@@ -1,0 +1,52 @@
+{
+  "character_id": 2122271680,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 371792633,
+    "name": "PsyBlade",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740697,
+    "alliance_id": 99014676,
+    "corporation_name": "The Holy Church of the Barghest",
+    "alliance_name": "The Excommunicati"
+  },
+  "top_killers": [
+    {
+      "id": 371792633,
+      "name": "PsyBlade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93292720,
+      "name": "Slanesh Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96126879,
+      "name": "Tainted milk Xiongmao",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97258227,
+      "name": "Daniel Dire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 692959607,
+      "name": "Ecaterina Andronescu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lilith de Marseille",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123659880,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115056769,
+    "name": "alex soban",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808628,
+    "alliance_id": null,
+    "corporation_name": "Xelrak Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115056769,
+      "name": "alex soban",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115733987,
+      "name": "AsRain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95120863,
+      "name": "Anika Hansen 7of9",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96879169,
+      "name": "BenriYa Sklor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117907675,
+      "name": "bonq",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clive Mawr",
+  "corporation_id": 98785802,
+  "alliance_id": 99009961,
+  "corporation_name": "Celtic Dragon Corp Inc",
+  "alliance_name": "The Gorram Shiney Alliance"
+}

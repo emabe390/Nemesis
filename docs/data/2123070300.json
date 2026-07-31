@@ -1,0 +1,52 @@
+{
+  "character_id": 2123070300,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120646800,
+    "name": "Neisseria G0n0rrhoeae",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120646800,
+      "name": "Neisseria G0n0rrhoeae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94050539,
+      "name": "jack henry williams",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95390904,
+      "name": "Mist Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112284164,
+      "name": "Kill Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119677744,
+      "name": "Franco Williams",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wilmah Blue",
+  "corporation_id": 98598794,
+  "alliance_id": 99005830,
+  "corporation_name": "Hide Into Darkness",
+  "alliance_name": "Memento Moriendo"
+}

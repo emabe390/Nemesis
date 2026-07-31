@@ -1,0 +1,52 @@
+{
+  "character_id": 2112413675,
+  "total_losses": 51,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 94502741,
+      "name": "Mongo the Mechanic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1222473089,
+      "name": "Naprisna Mon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118617567,
+      "name": "Reaper JO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119494234,
+      "name": "Tian Zaharin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Espi Airuta",
+  "corporation_id": 98683975,
+  "alliance_id": null,
+  "corporation_name": "The Golden Dawn",
+  "alliance_name": null
+}

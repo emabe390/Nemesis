@@ -1,0 +1,40 @@
+{
+  "character_id": 2124023636,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122543446,
+    "name": "Alina Starkovv",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98772712,
+    "alliance_id": null,
+    "corporation_name": "Dirty Rotten Bandits",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122543446,
+      "name": "Alina Starkovv",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115717188,
+      "name": "Hirozen Nite",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122775746,
+      "name": "Counter Shinrae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hona Shahni",
+  "corporation_id": 98632357,
+  "alliance_id": 1900696668,
+  "corporation_name": "Imperium Cartel.",
+  "alliance_name": "The Initiative."
+}

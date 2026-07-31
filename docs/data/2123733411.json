@@ -1,0 +1,52 @@
+{
+  "character_id": 2123733411,
+  "total_losses": 47,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2122422795,
+    "name": "Number 95",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 423649791,
+    "alliance_id": null,
+    "corporation_name": "Virus 21",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122422795,
+      "name": "Number 95",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93526858,
+      "name": "Ammy Jones",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1829202916,
+      "name": "Jim Raynot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116454581,
+      "name": "Bloody Pancake",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123733411",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2116946027,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115058076,
+    "name": "PetarII",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826415,
+    "alliance_id": null,
+    "corporation_name": "PainNess double",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115058076,
+      "name": "PetarII",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Armand Thared",
+  "corporation_id": 98659686,
+  "alliance_id": 99012664,
+  "corporation_name": "R1vals",
+  "alliance_name": "Recursive Horizons"
+}

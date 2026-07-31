@@ -1,0 +1,52 @@
+{
+  "character_id": 2112471737,
+  "total_losses": 21,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 11,
+    "final_blows": 8,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 11,
+      "final_blows": 8
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 5,
+      "final_blows": 2
+    },
+    {
+      "id": 820120980,
+      "name": "Superinmita",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114553976,
+      "name": "Vakiriana Duruodo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 502599534,
+      "name": "Satrugna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aizene Inkunen",
+  "corporation_id": 781729299,
+  "alliance_id": 99006820,
+  "corporation_name": "Exploration Frontier inc",
+  "alliance_name": "Tactical-Retreat"
+}

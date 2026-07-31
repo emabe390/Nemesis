@@ -1,0 +1,40 @@
+{
+  "character_id": 2112098277,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116042690,
+    "name": "Sam Mask",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118608456,
+      "name": "Luke Pericles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "spatterjay ecs",
+  "corporation_id": 98176387,
+  "alliance_id": null,
+  "corporation_name": "deflagratio",
+  "alliance_name": null
+}

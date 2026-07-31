@@ -1,0 +1,40 @@
+{
+  "character_id": 2112534456,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96754789,
+    "name": "Character 96754789",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98688818,
+    "alliance_id": 1354830081,
+    "corporation_name": "Big Black Crows",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96754789,
+      "name": "Character 96754789",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 537636856,
+      "name": "Eagles Strike",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122209856,
+      "name": "kadienme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paul Von Oberstein",
+  "corporation_id": 98537981,
+  "alliance_id": 99003581,
+  "corporation_name": "Galactic Empire Co LTD",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 216812620,
+  "total_losses": 33,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 91615135,
+    "name": "Rincewind Atuin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000437,
+    "alliance_id": null,
+    "corporation_name": "Commando Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91615135,
+      "name": "Rincewind Atuin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113059926,
+      "name": "True Hubik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118648533,
+      "name": "Soura Ichosira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90888042,
+      "name": "Jawls Rohn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94059134,
+      "name": "Aden Marrivaldi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyshaena",
+  "corporation_id": 98335809,
+  "alliance_id": 99003581,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Fraternity."
+}

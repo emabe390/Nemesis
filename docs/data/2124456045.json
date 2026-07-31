@@ -1,0 +1,52 @@
+{
+  "character_id": 2124456045,
+  "total_losses": 42,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2124221315,
+    "name": "Alina Vanila",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98441510,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Wanderers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124221315,
+      "name": "Alina Vanila",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94977150,
+      "name": "Boleon Siray",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 763488576,
+      "name": "Hans Greyfier",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Crane Dreck",
+  "corporation_id": 98831658,
+  "alliance_id": null,
+  "corporation_name": "Window Cat Enterprises",
+  "alliance_name": null
+}

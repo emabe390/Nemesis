@@ -1,0 +1,52 @@
+{
+  "character_id": 2123734237,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96037475,
+    "name": "Luke Skywalking",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98555944,
+    "alliance_id": null,
+    "corporation_name": "C0NC0RD Branch Office",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96037475,
+      "name": "Luke Skywalking",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120576722,
+      "name": "Bergof",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96456599,
+      "name": "Tace Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Angel Buffy",
+  "corporation_id": 98815455,
+  "alliance_id": null,
+  "corporation_name": "Wombats Mini Mining Inc",
+  "alliance_name": null
+}

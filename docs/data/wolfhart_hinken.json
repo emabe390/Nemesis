@@ -1,0 +1,40 @@
+{
+  "character_id": 2112234722,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90838351,
+    "name": "Guillaume Adoulin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95524356,
+      "name": "ManiakBOX Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 872503111,
+      "name": "Rosehunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wolfhart Hinken",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

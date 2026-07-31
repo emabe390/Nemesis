@@ -1,0 +1,40 @@
+{
+  "character_id": 92743887,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 355274556,
+    "name": "TheUnknown",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1025146968,
+    "alliance_id": null,
+    "corporation_name": "Trauma Ward",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 355274556,
+      "name": "TheUnknown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118058935,
+      "name": "Izaak Letsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Malcolm Amatin",
+  "corporation_id": 98535573,
+  "alliance_id": 99002329,
+  "corporation_name": "Cas Ghetto Miners Corp",
+  "alliance_name": "CAStabouts"
+}

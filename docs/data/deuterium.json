@@ -1,0 +1,52 @@
+{
+  "character_id": 1123332926,
+  "total_losses": 17,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 91926327,
+    "name": "Kingababa Nyulo",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817910,
+    "alliance_id": null,
+    "corporation_name": "Outer Rim Nomads",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91926327,
+      "name": "Kingababa Nyulo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1834965470,
+      "name": "XROM AVRORIYS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 391334192,
+      "name": "Hunter Darkside",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 418244827,
+      "name": "Dani Lizardov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112444544,
+      "name": "Lee true",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deuterium",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

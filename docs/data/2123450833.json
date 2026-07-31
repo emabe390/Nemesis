@@ -1,0 +1,40 @@
+{
+  "character_id": 2123450833,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 233871261,
+    "name": "unterkernon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98637499,
+    "alliance_id": 99005724,
+    "corporation_name": "TOP DAMAGE Ltd.",
+    "alliance_name": "The Minions."
+  },
+  "top_killers": [
+    {
+      "id": 233871261,
+      "name": "unterkernon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116843836,
+      "name": "Maras Drogos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121554845,
+      "name": "Character 2121554845",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "markwhatneyspacecowpoker",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

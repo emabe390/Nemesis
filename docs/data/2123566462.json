@@ -1,0 +1,52 @@
+{
+  "character_id": 2123566462,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 156733382,
+    "name": "Wolfe Dakata",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624539652,
+    "alliance_id": 99011223,
+    "corporation_name": "Priory Of The Lemon",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 156733382,
+      "name": "Wolfe Dakata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1842159769,
+      "name": "MrMaaX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119506797,
+      "name": "Haskas Vaira Kurvora",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dingus Amanta",
+  "corporation_id": 98829045,
+  "alliance_id": 99014716,
+  "corporation_name": "Dingus Home",
+  "alliance_name": "Tethys System"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123140925,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91826665,
+    "name": "Kroste Pelion",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1443797456,
+    "alliance_id": 495729389,
+    "corporation_name": "Republican Guard",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 91826665,
+      "name": "Kroste Pelion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121107461,
+      "name": "Someon3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123783854,
+      "name": "USAGI attack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123839891,
+      "name": "Undead lullaby",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Helpboy",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

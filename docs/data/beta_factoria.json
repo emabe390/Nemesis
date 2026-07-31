@@ -1,0 +1,46 @@
+{
+  "character_id": 2122235490,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91581240,
+    "name": "Sarah Umbra",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1808729611,
+      "name": "Harvey Skywarker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114821864,
+      "name": "Adventure Annie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117582867,
+      "name": "Grape Penguin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beta Factoria",
+  "corporation_id": 98803587,
+  "alliance_id": 99014050,
+  "corporation_name": "Moonlight Academy",
+  "alliance_name": "Lunar Luminescence"
+}

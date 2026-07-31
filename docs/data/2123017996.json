@@ -1,0 +1,52 @@
+{
+  "character_id": 2123017996,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119102591,
+    "name": "Nolen Davidson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119102591,
+      "name": "Nolen Davidson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95661362,
+      "name": "Bridget Bishop",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96128422,
+      "name": "Sigrid Freud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113845227,
+      "name": "Fury al-Shabazz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113891241,
+      "name": "FrukT ToZ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarkKniight",
+  "corporation_id": 98615800,
+  "alliance_id": null,
+  "corporation_name": "Darkness Paradise",
+  "alliance_name": null
+}

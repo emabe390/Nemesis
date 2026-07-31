@@ -1,0 +1,52 @@
+{
+  "character_id": 2121916024,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2113791998,
+    "name": "Wolf Doukas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113791998,
+      "name": "Wolf Doukas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92739305,
+      "name": "Tentakel Jack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93745947,
+      "name": "Bunka en Daire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94469106,
+      "name": "Zaib Vega",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mishi Chotan",
+  "corporation_id": 98664079,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cosmos Collective",
+  "alliance_name": "Goonswarm Federation"
+}

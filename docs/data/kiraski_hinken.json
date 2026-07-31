@@ -1,0 +1,40 @@
+{
+  "character_id": 2123124244,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113682367,
+    "name": "Cesar Barviainen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98651639,
+    "alliance_id": null,
+    "corporation_name": "Prima Signa Inaurata",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113682367,
+      "name": "Cesar Barviainen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121427878,
+      "name": "Alna Janus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123757371,
+      "name": "Triss Deka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kiraski Hinken",
+  "corporation_id": 98665672,
+  "alliance_id": 99003214,
+  "corporation_name": "Rise Of Exiles",
+  "alliance_name": "Brave Collective"
+}

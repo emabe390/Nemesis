@@ -1,0 +1,40 @@
+{
+  "character_id": 2123214911,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92338468,
+    "name": "BillusKillus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1997935844,
+    "alliance_id": 99007887,
+    "corporation_name": "Hooded Underworld Guys",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 92338468,
+      "name": "BillusKillus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96850285,
+      "name": "Ava Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96979414,
+      "name": "Kyrah Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iamunen Tsero",
+  "corporation_id": 98830385,
+  "alliance_id": 99006125,
+  "corporation_name": "False Logistic Services",
+  "alliance_name": "SLYCE Pirates"
+}

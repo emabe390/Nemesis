@@ -1,0 +1,52 @@
+{
+  "character_id": 2123470100,
+  "total_losses": 18,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 95355245,
+    "name": "Muon Farstrider",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98331648,
+    "alliance_id": 99007252,
+    "corporation_name": "Hidden Flame",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 95355245,
+      "name": "Muon Farstrider",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121050391,
+      "name": "Toby Wolfenstein",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95658501,
+      "name": "Nexile",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trinity's Kirifuji Nagisa",
+  "corporation_id": 98539082,
+  "alliance_id": 1354830081,
+  "corporation_name": "Darkmoon Military Industrial Complex",
+  "alliance_name": "Goonswarm Federation"
+}

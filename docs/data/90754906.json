@@ -1,0 +1,52 @@
+{
+  "character_id": 90754906,
+  "total_losses": 40,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 2123087332,
+    "name": "Dwandy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123087332,
+      "name": "Dwandy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94661246,
+      "name": "Amk Zuel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90699595,
+      "name": "Tyrell Jackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91305466,
+      "name": "Twinker Ronuken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Psypher Locke",
+  "corporation_id": 98647659,
+  "alliance_id": 99011978,
+  "corporation_name": "Soltech Armada",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121765318,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112640164,
+    "name": "Sunburnt Elly",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822966,
+    "alliance_id": null,
+    "corporation_name": "Sunburnt Industries LLC",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112640164,
+      "name": "Sunburnt Elly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123087515,
+      "name": "Arei Plad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96621410,
+      "name": "Pedro Alejandro Alvarez",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96867764,
+      "name": "Txema Txemez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CobaltGreen",
+  "corporation_id": 98624572,
+  "alliance_id": 99011223,
+  "corporation_name": "Industrial Mining and Mayhem",
+  "alliance_name": "Sigma Grindset"
+}

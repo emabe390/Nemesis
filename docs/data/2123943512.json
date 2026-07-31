@@ -1,0 +1,40 @@
+{
+  "character_id": 2123943512,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119416470,
+    "name": "OzzySBR",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98814748,
+    "alliance_id": 99003285,
+    "corporation_name": "Mountain Marauder",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2119416470,
+      "name": "OzzySBR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122736518,
+      "name": "Exalted Michael Altman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123943512,
+      "name": "Vuk Ek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vuk Ek",
+  "corporation_id": 98787157,
+  "alliance_id": 99012770,
+  "corporation_name": "Subterfuge Blackmail Sabotage Deception Network",
+  "alliance_name": "Black Rose."
+}

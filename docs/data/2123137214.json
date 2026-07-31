@@ -1,0 +1,52 @@
+{
+  "character_id": 2123137214,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91353462,
+    "name": "le blanck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817456,
+    "alliance_id": null,
+    "corporation_name": "Questionable Tactics Average Skill",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91353462,
+      "name": "le blanck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 711065891,
+      "name": "SilentSlave",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1513842584,
+      "name": "Borazlak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Za'bas",
+  "corporation_id": 98176563,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rekium",
+  "alliance_name": "Goonswarm Federation"
+}

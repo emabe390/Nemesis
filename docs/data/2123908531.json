@@ -1,0 +1,34 @@
+{
+  "character_id": 2123908531,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123263367,
+    "name": "QuantumBreak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98139309,
+    "alliance_id": 99007879,
+    "corporation_name": "Don't Wake a sleeping bear",
+    "alliance_name": "TIME CRIT"
+  },
+  "top_killers": [
+    {
+      "id": 2123263367,
+      "name": "QuantumBreak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93619076,
+      "name": "Kilyavi Alaailaa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ChanterKing",
+  "corporation_id": 98640194,
+  "alliance_id": 99014738,
+  "corporation_name": "Salted Fish Inc",
+  "alliance_name": "The Black Shores"
+}

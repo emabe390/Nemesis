@@ -1,0 +1,52 @@
+{
+  "character_id": 92399977,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115436045,
+      "name": "Gavin Petrie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92526450,
+      "name": "Kendra Souterre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94992477,
+      "name": "Leo Ekanon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Odd Owens",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

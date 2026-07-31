@@ -1,0 +1,46 @@
+{
+  "character_id": 2122047020,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119997000,
+    "name": "Giovanni Varirie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769044,
+    "alliance_id": 99013400,
+    "corporation_name": "OnlyFreight.",
+    "alliance_name": "OnlyAlts."
+  },
+  "top_killers": [
+    {
+      "id": 2119997000,
+      "name": "Giovanni Varirie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90532814,
+      "name": "Zork Crane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122038996,
+      "name": "Giuseppe Varirie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sophia Varirie",
+  "corporation_id": 98725132,
+  "alliance_id": 99012982,
+  "corporation_name": "Phoenix Connection",
+  "alliance_name": "OnlyFleets."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122292352,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92945930,
+    "name": "Mal Warre",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98685256,
+    "alliance_id": null,
+    "corporation_name": "Merdur Masheen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115875869,
+      "name": "Kim Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paschid alt2",
+  "corporation_id": 98651050,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XVIII",
+  "alliance_name": "Absolute Will"
+}

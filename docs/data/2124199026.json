@@ -1,0 +1,40 @@
+{
+  "character_id": 2124199026,
+  "total_losses": 15,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124193152,
+    "name": "Nytalie",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98681463,
+    "alliance_id": 99009843,
+    "corporation_name": "Chroma Corp",
+    "alliance_name": "Prismatic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2124193152,
+      "name": "Nytalie",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2116660171,
+      "name": "Joachim Karsten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 333402883,
+      "name": "WarOrion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucid Spark",
+  "corporation_id": 98681463,
+  "alliance_id": 99009843,
+  "corporation_name": "Chroma Corp",
+  "alliance_name": "Prismatic Legion"
+}

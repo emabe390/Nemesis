@@ -1,0 +1,52 @@
+{
+  "character_id": 2120002486,
+  "total_losses": 20,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2119008746,
+    "name": "Simen Pares",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810926,
+    "alliance_id": null,
+    "corporation_name": "C0BRA KAY",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119008746,
+      "name": "Simen Pares",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92838401,
+      "name": "Roger Y0ung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93292720,
+      "name": "Slanesh Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95612313,
+      "name": "XCuseMeMadam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96292053,
+      "name": "Breken Dupont",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Step One",
+  "corporation_id": 98738371,
+  "alliance_id": 99010457,
+  "corporation_name": "Crab Lovers",
+  "alliance_name": "Parallaxis Alliance"
+}

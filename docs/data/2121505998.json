@@ -1,0 +1,52 @@
+{
+  "character_id": 2121505998,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95012754,
+    "name": "Der Tauber",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98823090,
+    "alliance_id": null,
+    "corporation_name": "Last Signature",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95012754,
+      "name": "Der Tauber",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 944007751,
+      "name": "Lars Henrikson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119506797,
+      "name": "Haskas Vaira Kurvora",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92461631,
+      "name": "Adamo Aldent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 890208342,
+      "name": "Phoenix IV",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "gilles arnauld",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

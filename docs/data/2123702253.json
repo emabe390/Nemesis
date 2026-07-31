@@ -1,0 +1,52 @@
+{
+  "character_id": 2123702253,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90960742,
+      "name": "Lord Wumba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95461953,
+      "name": "Princess Yumi Ceraveli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1720328013,
+      "name": "Adde Helecton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elarel-03",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

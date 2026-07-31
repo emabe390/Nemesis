@@ -1,0 +1,40 @@
+{
+  "character_id": 2123786356,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 597958543,
+    "name": "Loredana Cameron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 425883056,
+    "alliance_id": 99004901,
+    "corporation_name": "Hoover Inc.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 597958543,
+      "name": "Loredana Cameron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116776670,
+      "name": "Alexx Grott",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "smoke2isk",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

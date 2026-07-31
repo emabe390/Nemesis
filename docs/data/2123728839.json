@@ -1,0 +1,52 @@
+{
+  "character_id": 2123728839,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113512654,
+    "name": "Demitr Demikus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98756704,
+    "alliance_id": 99013484,
+    "corporation_name": "Kingdom of Crooked Mirrors",
+    "alliance_name": "Crocodili et mammoths"
+  },
+  "top_killers": [
+    {
+      "id": 2113512654,
+      "name": "Demitr Demikus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116690047,
+      "name": "Dung Nut",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90109670,
+      "name": "Ravenor528",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 899829676,
+      "name": "Tesker Flant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113474806,
+      "name": "Dominicus Carnes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enderbot",
+  "corporation_id": 98813958,
+  "alliance_id": null,
+  "corporation_name": "ENDCORP",
+  "alliance_name": null
+}

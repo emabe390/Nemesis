@@ -1,0 +1,40 @@
+{
+  "character_id": 90164342,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94284211,
+    "name": "Mr Deleted",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98659412,
+    "alliance_id": 1354830081,
+    "corporation_name": "Close Encounters of the EVE Kind",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94284211,
+      "name": "Mr Deleted",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2029780168,
+      "name": "Feson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112927506,
+      "name": "Commander Stella Fairchild",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darth Loraine",
+  "corporation_id": 98802477,
+  "alliance_id": null,
+  "corporation_name": "Scallywags Of New Eden",
+  "alliance_name": null
+}

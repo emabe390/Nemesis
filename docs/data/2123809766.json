@@ -1,0 +1,52 @@
+{
+  "character_id": 2123809766,
+  "total_losses": 55,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 1209488500,
+    "name": "Ravangard",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98075412,
+    "alliance_id": 99001969,
+    "corporation_name": "Grimm Hounds",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 1209488500,
+      "name": "Ravangard",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93456181,
+      "name": "Eikin Skjald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94736209,
+      "name": "Dolthar Achasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 903898715,
+      "name": "Karenar Corna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113623664,
+      "name": "passer two",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pontifex Maximus Clemens",
+  "corporation_id": 98822551,
+  "alliance_id": 1042504553,
+  "corporation_name": "Forsaken GameCenter",
+  "alliance_name": "Solyaris Chtonium"
+}

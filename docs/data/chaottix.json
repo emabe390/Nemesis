@@ -1,0 +1,52 @@
+{
+  "character_id": 2121727413,
+  "total_losses": 16,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 92866950,
+    "name": "Nesushka",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98302513,
+    "alliance_id": null,
+    "corporation_name": "zx incorporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92866950,
+      "name": "Nesushka",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 249626851,
+      "name": "zx896",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95261300,
+      "name": "Grima The Mad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1184417342,
+      "name": "Genevensis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chaottix",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

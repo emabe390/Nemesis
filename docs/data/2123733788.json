@@ -1,0 +1,52 @@
+{
+  "character_id": 2123733788,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123283921,
+    "name": "Xephyr DXII",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98639548,
+    "alliance_id": 99011489,
+    "corporation_name": "United Caldari Navy",
+    "alliance_name": "United Caldari Space Command."
+  },
+  "top_killers": [
+    {
+      "id": 2123283921,
+      "name": "Xephyr DXII",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 671214409,
+      "name": "Chalice Malice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 752900096,
+      "name": "Lazlax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1024699363,
+      "name": "Sillanda Kachira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1160996029,
+      "name": "HKMP5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123733788",
+  "corporation_id": 98817286,
+  "alliance_id": null,
+  "corporation_name": "New Eden Police Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123400347,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1835421473,
+    "name": "menacher",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98810109,
+    "alliance_id": 1691647675,
+    "corporation_name": "Cal-Matar Auxiliary Forces",
+    "alliance_name": "Ishuk-Raata Enforcement Directive"
+  },
+  "top_killers": [
+    {
+      "id": 1835421473,
+      "name": "menacher",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114222863,
+      "name": "CeRbeRuS BoS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121970090,
+      "name": "Cpt Pepinion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Svarax",
+  "corporation_id": 98801350,
+  "alliance_id": null,
+  "corporation_name": "Yoyodyne Industries",
+  "alliance_name": null
+}

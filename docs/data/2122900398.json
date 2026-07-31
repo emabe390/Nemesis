@@ -1,0 +1,40 @@
+{
+  "character_id": 2122900398,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95621054,
+    "name": "Sebastian Wick",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98532165,
+    "alliance_id": 99010787,
+    "corporation_name": "Little Red Riding Hole",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 95621054,
+      "name": "Sebastian Wick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120191441,
+      "name": "maybeimnotafk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122907110,
+      "name": "Doc-Ryo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NFK02",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

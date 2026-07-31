@@ -1,0 +1,40 @@
+{
+  "character_id": 2124178754,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113678150,
+    "name": "Farwin Dust",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98749303,
+    "alliance_id": 99012572,
+    "corporation_name": "Savagerie",
+    "alliance_name": "Wildlife"
+  },
+  "top_killers": [
+    {
+      "id": 2113678150,
+      "name": "Farwin Dust",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117231210,
+      "name": "Ararie Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123804865,
+      "name": "Jet Wilder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chrident Vaille",
+  "corporation_id": 98820645,
+  "alliance_id": null,
+  "corporation_name": "PhaseShift Industries",
+  "alliance_name": null
+}

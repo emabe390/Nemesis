@@ -1,0 +1,52 @@
+{
+  "character_id": 2123320231,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 850452726,
+    "name": "Gaius Ceasar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1005661681,
+    "alliance_id": 495729389,
+    "corporation_name": "Sonnenlegion",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 850452726,
+      "name": "Gaius Ceasar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91755520,
+      "name": "Arthur Hellsing",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96210762,
+      "name": "Mala Mitternacht",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97046106,
+      "name": "Thendrik Alexander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 577234161,
+      "name": "Logical Chaos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Final Ascendancy",
+  "corporation_id": 98800735,
+  "alliance_id": null,
+  "corporation_name": "Final Ascendancy Logistics and Holdings",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120950855,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114930997,
+    "name": "Jacques Omanid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98753742,
+    "alliance_id": null,
+    "corporation_name": "Jacques Omanid Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114930997,
+      "name": "Jacques Omanid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95303099,
+      "name": "Character 95303099",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95653229,
+      "name": "Kroha Arran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95984278,
+      "name": "Cadelanne Madullier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 821958794,
+      "name": "Debiloid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ethan Roark",
+  "corporation_id": 98732467,
+  "alliance_id": 99010882,
+  "corporation_name": "Q-ZAR inc.",
+  "alliance_name": "Nasty Watcher Group"
+}

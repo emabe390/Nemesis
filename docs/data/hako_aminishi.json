@@ -1,0 +1,46 @@
+{
+  "character_id": 2123603742,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94918414,
+    "name": "Coward Style",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94918414,
+      "name": "Coward Style",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119755977,
+      "name": "Barticus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hako Aminishi",
+  "corporation_id": 98344103,
+  "alliance_id": null,
+  "corporation_name": "Hammer and Anvil Muppets",
+  "alliance_name": null
+}

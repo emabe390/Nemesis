@@ -1,0 +1,40 @@
+{
+  "character_id": 2123358707,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113561330,
+    "name": "TheVoidX",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98777498,
+    "alliance_id": 99013537,
+    "corporation_name": "1st Order",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 2113561330,
+      "name": "TheVoidX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123847640,
+      "name": "srytobother",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Primus Camillus",
+  "corporation_id": 98454925,
+  "alliance_id": 1354830081,
+  "corporation_name": "Blackwater Task Forces",
+  "alliance_name": "Goonswarm Federation"
+}

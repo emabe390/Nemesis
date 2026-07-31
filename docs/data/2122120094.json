@@ -1,0 +1,40 @@
+{
+  "character_id": 2122120094,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 601487895,
+    "name": "Character 601487895",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 601487895,
+      "name": "Character 601487895",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1392757657,
+      "name": "WE DELIVER",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bumblesniff Cheddarcheese",
+  "corporation_id": 98788146,
+  "alliance_id": null,
+  "corporation_name": "Zaphods Stupid Inc.",
+  "alliance_name": null
+}

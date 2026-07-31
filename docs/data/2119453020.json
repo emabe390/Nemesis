@@ -1,0 +1,40 @@
+{
+  "character_id": 2119453020,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120303734,
+      "name": "William-V-Hugo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123484330,
+      "name": "Moon Oreheart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sohros",
+  "corporation_id": 98470069,
+  "alliance_id": 150097440,
+  "corporation_name": "Obsidian Engineering",
+  "alliance_name": "Get Off My Lawn"
+}

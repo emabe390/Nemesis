@@ -1,0 +1,52 @@
+{
+  "character_id": 2124006372,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2116660171,
+    "name": "Joachim Karsten",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826500,
+    "alliance_id": 99008788,
+    "corporation_name": "Polaris Requiem",
+    "alliance_name": "The Skeleton Crew"
+  },
+  "top_killers": [
+    {
+      "id": 2116660171,
+      "name": "Joachim Karsten",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2041957180,
+      "name": "Fexten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96924401,
+      "name": "Winterblitz Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1381872987,
+      "name": "Vayio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mercian Solette",
+  "corporation_id": 98681947,
+  "alliance_id": null,
+  "corporation_name": "Karsten Inc.",
+  "alliance_name": null
+}

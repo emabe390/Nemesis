@@ -1,0 +1,52 @@
+{
+  "character_id": 2123349888,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 253132870,
+    "name": "Character 253132870",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 253132870,
+      "name": "Character 253132870",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93095895,
+      "name": "Artack35",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 955593279,
+      "name": "Palendiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117980392,
+      "name": "Dage The Evil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Engineer A",
+  "corporation_id": 98822134,
+  "alliance_id": 99013537,
+  "corporation_name": "Insidious Inc",
+  "alliance_name": "Insidious."
+}

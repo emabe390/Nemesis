@@ -1,0 +1,40 @@
+{
+  "character_id": 2120231561,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2076460356,
+    "name": "Mersedec",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98591829,
+    "alliance_id": 99012042,
+    "corporation_name": "Cyber Collapse.",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 2076460356,
+      "name": "Mersedec",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 295654886,
+      "name": "AHGEL",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1834965470,
+      "name": "XROM AVRORIYS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Armageddon XX",
+  "corporation_id": 98741783,
+  "alliance_id": 99007629,
+  "corporation_name": "Veridium",
+  "alliance_name": "Ferrata Victrix"
+}

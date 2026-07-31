@@ -1,0 +1,52 @@
+{
+  "character_id": 2123242506,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2121347377,
+    "name": "Dante Dimario",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121347377,
+      "name": "Dante Dimario",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061967229,
+      "name": "Character 1061967229",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119932804,
+      "name": "Almatinochka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123367355,
+      "name": "BurntCoffee5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Methiforus",
+  "corporation_id": 583616018,
+  "alliance_id": 1354830081,
+  "corporation_name": "Black Aces",
+  "alliance_name": "Goonswarm Federation"
+}

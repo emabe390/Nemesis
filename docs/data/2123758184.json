@@ -1,0 +1,52 @@
+{
+  "character_id": 2123758184,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123757307,
+    "name": "Justin Yashed",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123757307,
+      "name": "Justin Yashed",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1486100897,
+      "name": "Dendarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123640964,
+      "name": "Ilik Tabibak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123156181,
+      "name": "Character 2123156181",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123156217,
+      "name": "Character 2123156217",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zara Balderas",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

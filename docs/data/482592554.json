@@ -1,0 +1,40 @@
+{
+  "character_id": 482592554,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96872063,
+    "name": "Sergei Skazzor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98720009,
+    "alliance_id": 1354830081,
+    "corporation_name": "guerrilla.squad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96872063,
+      "name": "Sergei Skazzor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 263073680,
+      "name": "Alteru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116322021,
+      "name": "Sylara Corvus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lev Verner",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

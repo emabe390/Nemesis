@@ -1,0 +1,46 @@
+{
+  "character_id": 2123626260,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119431692,
+    "name": "Zeta Ophiuchus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98701240,
+    "alliance_id": null,
+    "corporation_name": "000' Bandits Ophiuchi",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95760450,
+      "name": "Friggin Buckethead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1600120440,
+      "name": "Leon Hohokam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hank Saw",
+  "corporation_id": 98743337,
+  "alliance_id": 99012862,
+  "corporation_name": "Mining Under the Influence",
+  "alliance_name": "Influential Operations"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121354159,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 559883966,
+    "name": "ceyriot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802001,
+    "alliance_id": 99010995,
+    "corporation_name": "Empyrean Academy",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 559883966,
+      "name": "ceyriot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 740330065,
+      "name": "Barem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116776670,
+      "name": "Alexx Grott",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darth Obi-one",
+  "corporation_id": 98782949,
+  "alliance_id": null,
+  "corporation_name": "Shadow Whisperers Corporation",
+  "alliance_name": null
+}

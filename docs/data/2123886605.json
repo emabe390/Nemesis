@@ -1,0 +1,40 @@
+{
+  "character_id": 2123886605,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112921096,
+    "name": "Lena Grime",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112921096,
+      "name": "Lena Grime",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1374032406,
+      "name": "Trenton Napier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114017032,
+      "name": "Vasilios",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caldari-A",
+  "corporation_id": 98800081,
+  "alliance_id": null,
+  "corporation_name": "Exploradores Del Hoyo",
+  "alliance_name": null
+}

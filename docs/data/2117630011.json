@@ -1,0 +1,40 @@
+{
+  "character_id": 2117630011,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115984474,
+    "name": "TS K",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98416134,
+    "alliance_id": 99006941,
+    "corporation_name": "Sons of Black Rise",
+    "alliance_name": "Siege Green."
+  },
+  "top_killers": [
+    {
+      "id": 2115984474,
+      "name": "TS K",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122626046,
+      "name": "Ustialod Aelin Adestur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122662492,
+      "name": "Shandios Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alcantla",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

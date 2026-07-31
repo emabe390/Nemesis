@@ -1,0 +1,52 @@
+{
+  "character_id": 675831434,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123183250,
+    "name": "vilkka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98638037,
+    "alliance_id": null,
+    "corporation_name": "Adeptus Mechanicus Coalition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123183250,
+      "name": "vilkka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90277315,
+      "name": "Alistar Ubereem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 274910204,
+      "name": "Patrick Kasper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 315151368,
+      "name": "Orbixx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 583575491,
+      "name": "Calyse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Unutrius",
+  "corporation_id": 98052179,
+  "alliance_id": 933731581,
+  "corporation_name": "Tactical Tea Baggers",
+  "alliance_name": "Triumvirate."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123281301,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91425455,
+    "name": "Johny Tomala",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98512711,
+    "alliance_id": 99009013,
+    "corporation_name": "Czarna-Kompania",
+    "alliance_name": "Czarna-Kompania."
+  },
+  "top_killers": [
+    {
+      "id": 91425455,
+      "name": "Johny Tomala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113831562,
+      "name": "Emanuel Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123128764,
+      "name": "Wood3h",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sister Aspirant Rosa-Leigh",
+  "corporation_id": 98807683,
+  "alliance_id": null,
+  "corporation_name": "Sad But Dads",
+  "alliance_name": null
+}

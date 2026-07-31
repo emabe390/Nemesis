@@ -1,0 +1,52 @@
+{
+  "character_id": 2123989049,
+  "total_losses": 8,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95108758,
+      "name": "Tnklstheredneck Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95226571,
+      "name": "Eleonor 701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118277218,
+      "name": "Geriana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Merci Le Morte",
+  "corporation_id": 98548155,
+  "alliance_id": 99012843,
+  "corporation_name": "Black Scorpion Industries",
+  "alliance_name": "Kenshin Shogunate."
+}

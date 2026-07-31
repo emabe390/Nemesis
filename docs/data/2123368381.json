@@ -1,0 +1,52 @@
+{
+  "character_id": 2123368381,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95012754,
+    "name": "Der Tauber",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98823090,
+    "alliance_id": null,
+    "corporation_name": "Last Signature",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95012754,
+      "name": "Der Tauber",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92503710,
+      "name": "ManiacheG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93053887,
+      "name": "Perke-32",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93825616,
+      "name": "illusio Morey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tazani von Carrot",
+  "corporation_id": 98776927,
+  "alliance_id": null,
+  "corporation_name": "Black Harbor Inc.",
+  "alliance_name": null
+}

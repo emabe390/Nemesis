@@ -1,0 +1,52 @@
+{
+  "character_id": 2115534566,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2120313156,
+    "name": "hisua",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98762691,
+    "alliance_id": 99014668,
+    "corporation_name": "Arquebus Co.",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 2120313156,
+      "name": "hisua",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92476841,
+      "name": "Trelnyx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 193099457,
+      "name": "RTSAvalanche",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 835035454,
+      "name": "stickymicky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frites",
+  "corporation_id": 98266427,
+  "alliance_id": 99008751,
+  "corporation_name": "Primal Elemental",
+  "alliance_name": "MARABUNTA"
+}

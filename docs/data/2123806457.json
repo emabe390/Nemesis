@@ -1,0 +1,40 @@
+{
+  "character_id": 2123806457,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112785931,
+    "name": "Farrel Valran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rekium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112785931,
+      "name": "Farrel Valran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105165308,
+      "name": "Marclonus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Void Six",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

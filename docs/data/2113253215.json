@@ -1,0 +1,46 @@
+{
+  "character_id": 2113253215,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96808241,
+    "name": "Czajnol Kopara",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720121,
+    "alliance_id": 99007928,
+    "corporation_name": "Wild Ratels",
+    "alliance_name": "Wild Geese."
+  },
+  "top_killers": [
+    {
+      "id": 96808241,
+      "name": "Czajnol Kopara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115958270,
+      "name": "Father TR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116683038,
+      "name": "harloock Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124210864,
+      "name": "Cassian Vale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rust Hinken",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

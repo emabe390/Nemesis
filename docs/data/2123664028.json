@@ -1,0 +1,40 @@
+{
+  "character_id": 2123664028,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93601369,
+    "name": "Espen Onzo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98753233,
+    "alliance_id": null,
+    "corporation_name": "Mirage.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93601369,
+      "name": "Espen Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119727747,
+      "name": "Plankton Jr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123654409,
+      "name": "KittyClara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kitty Erlinda",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

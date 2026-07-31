@@ -1,0 +1,52 @@
+{
+  "character_id": 2123320022,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123344371,
+    "name": "Jottalen Ekoni Kashuken",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98782672,
+    "alliance_id": 99003006,
+    "corporation_name": "The rebellious rebel",
+    "alliance_name": "Brothers of Tangra"
+  },
+  "top_killers": [
+    {
+      "id": 2123344371,
+      "name": "Jottalen Ekoni Kashuken",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 790391335,
+      "name": "Wido San",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115668403,
+      "name": "Frik Apol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122977420,
+      "name": "Negativestatus II",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Phasorun",
+  "corporation_id": 98700577,
+  "alliance_id": 99011387,
+  "corporation_name": "WE ARE ZERGS",
+  "alliance_name": "ZERG REBORN"
+}

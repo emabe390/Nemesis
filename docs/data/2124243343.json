@@ -1,0 +1,40 @@
+{
+  "character_id": 2124243343,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123429601,
+    "name": "TackleMan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124243331,
+      "name": "Fujala Sunji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124243347,
+      "name": "Saapialen Aivo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kudasen Tsutola",
+  "corporation_id": 98839215,
+  "alliance_id": 99010877,
+  "corporation_name": "TianGong Custodes",
+  "alliance_name": "Out of the Blue."
+}

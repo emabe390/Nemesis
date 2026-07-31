@@ -1,0 +1,40 @@
+{
+  "character_id": 2123885383,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113409641,
+    "name": "GrayHeart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2113409641,
+      "name": "GrayHeart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116016649,
+      "name": "HARUSARI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122604145,
+      "name": "Urahekken Otomeya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaszojad",
+  "corporation_id": 98383760,
+  "alliance_id": 99013928,
+  "corporation_name": "The Quantum of EvE",
+  "alliance_name": "PGR Czarna-Kompania"
+}

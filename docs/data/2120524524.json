@@ -1,0 +1,40 @@
+{
+  "character_id": 2120524524,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92256155,
+    "name": "Lee Blackwood",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 851352703,
+      "name": "Em Interference",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123641989,
+      "name": "Rita Ricochet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JT Helmans",
+  "corporation_id": 98735858,
+  "alliance_id": 99013284,
+  "corporation_name": "Orkamungus Of Blood",
+  "alliance_name": "Grand Inquisitors Federation"
+}

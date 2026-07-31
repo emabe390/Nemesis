@@ -1,0 +1,52 @@
+{
+  "character_id": 2113476553,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113412539,
+      "name": "Miss Bacon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90808493,
+      "name": "Rocky Aivoras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92693290,
+      "name": "Dogsuperhero doghouse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VVoodes Rogers",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

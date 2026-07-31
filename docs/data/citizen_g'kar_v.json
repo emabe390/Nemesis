@@ -1,0 +1,40 @@
+{
+  "character_id": 2123698977,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95957110,
+    "name": "Aviv Perekomsky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98426099,
+    "alliance_id": 99007326,
+    "corporation_name": "Special Expedition for Space Works",
+    "alliance_name": "Space Search and Rescue"
+  },
+  "top_killers": [
+    {
+      "id": 95957110,
+      "name": "Aviv Perekomsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Citizen G'kar V",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

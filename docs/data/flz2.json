@@ -1,0 +1,34 @@
+{
+  "character_id": 2121598162,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123294181,
+    "name": "Akipara Okanata",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799957,
+    "alliance_id": null,
+    "corporation_name": "Akipara Okanata Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123294181,
+      "name": "Akipara Okanata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115477164,
+      "name": "Pugnacious Spino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FLZ2",
+  "corporation_id": 98776033,
+  "alliance_id": 99003214,
+  "corporation_name": "Red Board",
+  "alliance_name": "Brave Collective"
+}

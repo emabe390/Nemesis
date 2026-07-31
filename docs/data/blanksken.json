@@ -1,0 +1,52 @@
+{
+  "character_id": 2123117945,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116612115,
+    "name": "Tofu Hunter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725089,
+    "alliance_id": 99003581,
+    "corporation_name": "Arknights.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116612115,
+      "name": "Tofu Hunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94696741,
+      "name": "Queeg 900",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1417371863,
+      "name": "Pandoralica",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112556668,
+      "name": "Fayuul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118746200,
+      "name": "Muu Arr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blanksken",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

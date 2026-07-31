@@ -1,0 +1,52 @@
+{
+  "character_id": 2123507520,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123211232,
+      "name": "Vydaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90597913,
+      "name": "4 Weeks Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1155497947,
+      "name": "Sirqeul Maltidar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clone 78",
+  "corporation_id": 98702288,
+  "alliance_id": 99013972,
+  "corporation_name": "Uncommon Horizon",
+  "alliance_name": "Vikings."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123000357,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91308825,
+      "name": "Esra Udan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96456599,
+      "name": "Tace Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113615862,
+      "name": "AnatanD Airin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121106804,
+      "name": "Lilinella",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sokisela Tawate",
+  "corporation_id": 98657999,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rage Confederacy",
+  "alliance_name": "Goonswarm Federation"
+}

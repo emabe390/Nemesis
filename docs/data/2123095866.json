@@ -1,0 +1,52 @@
+{
+  "character_id": 2123095866,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121745298,
+    "name": "Nightzwatch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98422578,
+    "alliance_id": 99010787,
+    "corporation_name": "Almost Dangerous",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 2121745298,
+      "name": "Nightzwatch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122359635,
+      "name": "ScriptNoobAim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94716868,
+      "name": "Alefir Ulfhiemon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112679906,
+      "name": "Hverdung Midgard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119674880,
+      "name": "Sargasso Ijonen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "43Fenix",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

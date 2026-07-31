@@ -1,0 +1,40 @@
+{
+  "character_id": 2120010351,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112980188,
+    "name": "Angry Rooster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704682,
+    "alliance_id": null,
+    "corporation_name": "Rogue Herring.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112980188,
+      "name": "Angry Rooster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96548190,
+      "name": "You Got Dunked",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2120010351",
+  "corporation_id": 98651050,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XVIII",
+  "alliance_name": "Absolute Will"
+}

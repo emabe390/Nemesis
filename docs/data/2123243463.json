@@ -1,0 +1,40 @@
+{
+  "character_id": 2123243463,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93993130,
+    "name": "Azora Anzomi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98700281,
+    "alliance_id": 99010995,
+    "corporation_name": "Task Force 641",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 93993130,
+      "name": "Azora Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119468513,
+      "name": "Yamon Airuta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122598918,
+      "name": "Cristhian Rayl2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Papaki Demos",
+  "corporation_id": 98671597,
+  "alliance_id": 1900696668,
+  "corporation_name": "Papaki Industries",
+  "alliance_name": "The Initiative."
+}

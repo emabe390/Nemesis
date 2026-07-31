@@ -1,0 +1,40 @@
+{
+  "character_id": 2124337678,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95391100,
+    "name": "Camulus Ghasha",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95391100,
+      "name": "Camulus Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1865272548,
+      "name": "Geodossi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115444713,
+      "name": "Kent Enderass",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyra Alaxel",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

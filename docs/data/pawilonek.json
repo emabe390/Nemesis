@@ -1,0 +1,46 @@
+{
+  "character_id": 2119533882,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113619124,
+    "name": "Good Russian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113619124,
+      "name": "Good Russian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117003162,
+      "name": "Nashti McStevens",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96980839,
+      "name": "Xiao Five2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113526566,
+      "name": "Anubis Djoser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pawilonek",
+  "corporation_id": 98684420,
+  "alliance_id": 99011416,
+  "corporation_name": "Silent Vale",
+  "alliance_name": "LinkNet"
+}

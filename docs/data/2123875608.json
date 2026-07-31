@@ -1,0 +1,40 @@
+{
+  "character_id": 2123875608,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122604145,
+    "name": "Urahekken Otomeya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781795,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Unlimited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122604145,
+      "name": "Urahekken Otomeya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123040238,
+      "name": "Combatus wombatus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishrakan",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

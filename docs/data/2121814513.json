@@ -1,0 +1,52 @@
+{
+  "character_id": 2121814513,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122413626,
+      "name": "foremisario",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93670961,
+      "name": "Ionis en Gravonere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96245959,
+      "name": "Nazrinah Hinken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Warthog A-10",
+  "corporation_id": 98812171,
+  "alliance_id": 99012933,
+  "corporation_name": "The Beratnas",
+  "alliance_name": "E.C.H.O Holding"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 1300834416,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 677728662,
+    "name": "ORACOM",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91127751,
+      "name": "Character 91127751",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 755421293,
+      "name": "Haary",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112736867,
+      "name": "Higgins Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Z06",
+  "corporation_id": 903172770,
+  "alliance_id": null,
+  "corporation_name": "Kaputz Scooter",
+  "alliance_name": null
+}

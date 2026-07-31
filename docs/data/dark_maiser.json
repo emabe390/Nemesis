@@ -1,0 +1,34 @@
+{
+  "character_id": 2123976030,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113953503,
+    "name": "jodee1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113953503,
+      "name": "jodee1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95780112,
+      "name": "hapser alt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark Maiser",
+  "corporation_id": 98818398,
+  "alliance_id": null,
+  "corporation_name": "Neo-Yakuza Industry",
+  "alliance_name": null
+}

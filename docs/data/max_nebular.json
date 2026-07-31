@@ -1,0 +1,52 @@
+{
+  "character_id": 415207180,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91427841,
+    "name": "Davion Dragonfall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 91427841,
+      "name": "Davion Dragonfall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93652503,
+      "name": "Chain Deepwood",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113138194,
+      "name": "Strive",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95008831,
+      "name": "Geca Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Max Nebular",
+  "corporation_id": 1000072,
+  "alliance_id": null,
+  "corporation_name": "Imperial Shipment",
+  "alliance_name": null
+}

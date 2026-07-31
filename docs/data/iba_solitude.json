@@ -1,0 +1,40 @@
+{
+  "character_id": 2123331817,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93336799,
+    "name": "Tyrone Lamar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98782897,
+    "alliance_id": 99013516,
+    "corporation_name": "Diamond Dogs.",
+    "alliance_name": "Mercenaires Sans Frontieres."
+  },
+  "top_killers": [
+    {
+      "id": 93336799,
+      "name": "Tyrone Lamar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95312825,
+      "name": "Bloodthirsty Scientist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iba Solitude",
+  "corporation_id": 98760719,
+  "alliance_id": 1900696668,
+  "corporation_name": "The Bannermen",
+  "alliance_name": "The Initiative."
+}

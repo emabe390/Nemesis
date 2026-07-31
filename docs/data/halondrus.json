@@ -1,0 +1,34 @@
+{
+  "character_id": 2122586185,
+  "total_losses": 20,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122586030,
+    "name": "Ansurek",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98582333,
+    "alliance_id": null,
+    "corporation_name": "Last Stand Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122586030,
+      "name": "Ansurek",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2122594819,
+      "name": "Sikran",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Halondrus",
+  "corporation_id": 98582333,
+  "alliance_id": null,
+  "corporation_name": "Last Stand Enterprises",
+  "alliance_name": null
+}

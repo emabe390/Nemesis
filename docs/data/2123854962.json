@@ -1,0 +1,52 @@
+{
+  "character_id": 2123854962,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91276665,
+    "name": "Hallucinosis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98737423,
+    "alliance_id": 99012941,
+    "corporation_name": "Anomalous Empire",
+    "alliance_name": "Transmission Lost"
+  },
+  "top_killers": [
+    {
+      "id": 91276665,
+      "name": "Hallucinosis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93413844,
+      "name": "Tyson Aardvark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96668088,
+      "name": "Eric Willemse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96942777,
+      "name": "Lorash Kadeyooh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 787037589,
+      "name": "Bayonetta Dex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mike Stratton",
+  "corporation_id": 98662225,
+  "alliance_id": 99010389,
+  "corporation_name": "Outsmarted Holding",
+  "alliance_name": "Outsmarted"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124328942,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115774039,
+    "name": "Sasori Udan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 2115774039,
+      "name": "Sasori Udan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 860121078,
+      "name": "Morphose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119035343,
+      "name": "TOONII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Obi Akio",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

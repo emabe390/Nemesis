@@ -1,0 +1,40 @@
+{
+  "character_id": 2121874301,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116690047,
+    "name": "Dung Nut",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724947,
+    "alliance_id": 99014548,
+    "corporation_name": "0nus",
+    "alliance_name": "Project Oasis"
+  },
+  "top_killers": [
+    {
+      "id": 2116690047,
+      "name": "Dung Nut",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119390623,
+      "name": "RusRaider02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122001443,
+      "name": "Lelo Ornalhando",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nadia Adder",
+  "corporation_id": 98809304,
+  "alliance_id": null,
+  "corporation_name": "Warp Lagoon",
+  "alliance_name": null
+}

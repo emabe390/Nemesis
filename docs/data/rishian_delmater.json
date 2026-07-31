@@ -1,0 +1,52 @@
+{
+  "character_id": 91155555,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 91029855,
+    "name": "Phantom Oracle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91029855,
+      "name": "Phantom Oracle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117112971,
+      "name": "Daario-Naharis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93296390,
+      "name": "Choice Angus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93555437,
+      "name": "Prophanitii Tsuruomo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95295919,
+      "name": "Leona Syndra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rishian Delmater",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 628919642,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93985921,
+    "name": "Vilzuh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92626451,
+      "name": "Theo D'sal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96385065,
+      "name": "Bruno Jabroni",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ama Zone",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

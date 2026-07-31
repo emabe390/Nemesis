@@ -1,0 +1,40 @@
+{
+  "character_id": 2123613029,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 338285735,
+    "name": "OT Smithers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98060878,
+    "alliance_id": 99009584,
+    "corporation_name": "Buccaneer's Den",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118258677,
+      "name": "Viktor sawhead",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121500820,
+      "name": "Ylta Okanata",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Thalor Dren Vaxis",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

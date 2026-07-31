@@ -1,0 +1,40 @@
+{
+  "character_id": 2123101315,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122154990,
+    "name": "Globus gorit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2122154990,
+      "name": "Globus gorit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 296212957,
+      "name": "Leopoldinos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1876138946,
+      "name": "mrjknyazev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Estamel's quankang",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

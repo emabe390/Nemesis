@@ -1,0 +1,34 @@
+{
+  "character_id": 2124447242,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 362606210,
+    "name": "Aven'sis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380701,
+    "alliance_id": 99014826,
+    "corporation_name": "invalid",
+    "alliance_name": "Pirate Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 362606210,
+      "name": "Aven'sis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124029125,
+      "name": "Daro Voss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krispy Tofu",
+  "corporation_id": 98835834,
+  "alliance_id": null,
+  "corporation_name": "SwoleAut",
+  "alliance_name": null
+}

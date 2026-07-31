@@ -1,0 +1,52 @@
+{
+  "character_id": 2123567697,
+  "total_losses": 25,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96608556,
+    "name": "Joe Bananowy",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2112270061,
+      "name": "AnarchyAlien Dimaloun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114870011,
+      "name": "Alisa zZ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90547537,
+      "name": "Darius Caliente",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93194294,
+      "name": "Gektor Asamon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ti-Tete",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

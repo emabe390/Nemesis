@@ -1,0 +1,52 @@
+{
+  "character_id": 2122296089,
+  "total_losses": 137,
+  "unique_killers": 112,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112619348,
+      "name": "Elite Pixels",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1803448959,
+      "name": "Pregma",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123519385,
+      "name": "MaidSpac",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124011341,
+      "name": "SpacSpac",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Spac Maid",
+  "corporation_id": 98808713,
+  "alliance_id": null,
+  "corporation_name": "Space Watermelons",
+  "alliance_name": null
+}

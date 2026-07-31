@@ -1,0 +1,52 @@
+{
+  "character_id": 2124261810,
+  "total_losses": 29,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 326254586,
+      "name": "Prion Crassiros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1633218082,
+      "name": "Squizz Caphinator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2029780168,
+      "name": "Feson",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "James of Old",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

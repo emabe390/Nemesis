@@ -1,0 +1,52 @@
+{
+  "character_id": 2114961469,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123408059,
+    "name": "Aurora Inara",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94291830,
+      "name": "Gance Amilupar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95836181,
+      "name": "Julieta Chavez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 878340150,
+      "name": "Zodaeus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114204038,
+      "name": "Patogen Vorchliv",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FW 190A-5",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

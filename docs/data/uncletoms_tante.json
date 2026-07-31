@@ -1,0 +1,52 @@
+{
+  "character_id": 2113562729,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90746389,
+    "name": "Sonny O'neil",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94834100,
+      "name": "Ikaros Cremory",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112867957,
+      "name": "Klamacz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115226978,
+      "name": "Drak Kervora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "UncleToms Tante",
+  "corporation_id": 98605451,
+  "alliance_id": 99005830,
+  "corporation_name": "Skilldefizit",
+  "alliance_name": "Memento Moriendo"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2116515967,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 679815158,
+    "name": "Wasp 223",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 679815158,
+      "name": "Wasp 223",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115997626,
+      "name": "Phyzor Smelkie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117938025,
+      "name": "Hetevom Gatri Kelmalu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khaleesi Nemesis",
+  "corporation_id": 98518695,
+  "alliance_id": 1042504553,
+  "corporation_name": "OPSEC - Shadow Fighters",
+  "alliance_name": "Solyaris Chtonium"
+}

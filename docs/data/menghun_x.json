@@ -1,0 +1,52 @@
+{
+  "character_id": 2119889971,
+  "total_losses": 20,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2115657646,
+      "name": "Jovian Researcher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90323995,
+      "name": "Matthias Anchor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92580069,
+      "name": "Brilok Jogbar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MengHun X",
+  "corporation_id": 98626494,
+  "alliance_id": 99003581,
+  "corporation_name": "STARCHASER Inc",
+  "alliance_name": "Fraternity."
+}

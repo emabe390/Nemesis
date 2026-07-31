@@ -1,0 +1,40 @@
+{
+  "character_id": 2123731846,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92208231,
+    "name": "Brain Acme",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 92208231,
+      "name": "Brain Acme",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92742545,
+      "name": "Parazoid Azi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122862520,
+      "name": "Arlo Doom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OporowyAutobusLini107",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

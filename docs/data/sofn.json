@@ -1,0 +1,46 @@
+{
+  "character_id": 2124541126,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95728676,
+    "name": "Maverick TopGun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 95728676,
+      "name": "Maverick TopGun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 275803489,
+      "name": "Teranec",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123550502,
+      "name": "Decimus krull",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121463583,
+      "name": "Marcus Atriedes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SOFN",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

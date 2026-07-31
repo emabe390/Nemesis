@@ -1,0 +1,52 @@
+{
+  "character_id": 2123714676,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123981664,
+    "name": "Aarius Warren",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98816545,
+    "alliance_id": 99011162,
+    "corporation_name": "Spectrum Armada",
+    "alliance_name": "Shadow Ultimatum"
+  },
+  "top_killers": [
+    {
+      "id": 2123981664,
+      "name": "Aarius Warren",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91948946,
+      "name": "Boid Marshal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112591713,
+      "name": "Alexander Nerva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93403916,
+      "name": "Christel Walkaround",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2007116409,
+      "name": "Robbyshaker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sadrax Raven",
+  "corporation_id": 98807683,
+  "alliance_id": null,
+  "corporation_name": "Sad But Dads",
+  "alliance_name": null
+}

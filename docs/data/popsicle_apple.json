@@ -1,0 +1,52 @@
+{
+  "character_id": 2123034604,
+  "total_losses": 20,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 93777665,
+    "name": "taylor parker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813284,
+    "alliance_id": 99009845,
+    "corporation_name": "Environmental Hazard.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 93777665,
+      "name": "taylor parker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 418822900,
+      "name": "Cadavrus Ordo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116491471,
+      "name": "Stown Heidg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121794905,
+      "name": "Popsicle tomato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123850273,
+      "name": "Popsicle orange",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Popsicle Apple",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

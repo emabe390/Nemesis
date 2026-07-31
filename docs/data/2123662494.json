@@ -1,0 +1,52 @@
+{
+  "character_id": 2123662494,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93700368,
+    "name": "Peter Panpan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2040769686,
+    "alliance_id": 99010877,
+    "corporation_name": "Unexpected Company",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 93700368,
+      "name": "Peter Panpan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121065783,
+      "name": "PapaDios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 701330063,
+      "name": "Unit562",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1658254666,
+      "name": "Tali'Zorah VasNeema",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123127841,
+      "name": "Character 2123127841",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PadreMarcus",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123035053,
+  "total_losses": 47,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 92432857,
+    "name": "Count Szadek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98483924,
+    "alliance_id": 99007928,
+    "corporation_name": "Mackies Raiders",
+    "alliance_name": "Wild Geese."
+  },
+  "top_killers": [
+    {
+      "id": 92432857,
+      "name": "Count Szadek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124214546,
+      "name": "Ciitta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90699595,
+      "name": "Tyrell Jackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91839624,
+      "name": "Owns Bones",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roxanne Dupont",
+  "corporation_id": 98747520,
+  "alliance_id": null,
+  "corporation_name": "Targets Locked",
+  "alliance_name": null
+}

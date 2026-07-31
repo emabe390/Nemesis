@@ -1,0 +1,52 @@
+{
+  "character_id": 2124353240,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 228912111,
+    "name": "Gurg1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 228912111,
+      "name": "Gurg1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91526421,
+      "name": "Scout Omanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1222764376,
+      "name": "UCF DARKSTAR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120161083,
+      "name": "Patrick Head",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124432526,
+      "name": "Erasmus Edhar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Larks'Tongues in Aspic",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

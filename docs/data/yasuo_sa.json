@@ -1,0 +1,52 @@
+{
+  "character_id": 2123730108,
+  "total_losses": 15,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120234821,
+    "name": "Jinkens Support",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98715953,
+    "alliance_id": null,
+    "corporation_name": "House Dad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120234821,
+      "name": "Jinkens Support",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2119160961,
+      "name": "Jerren Osborne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123616255,
+      "name": "Buinier Lafisques",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1506758015,
+      "name": "Pothakos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1802602052,
+      "name": "Khruzad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YASUO-SA",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

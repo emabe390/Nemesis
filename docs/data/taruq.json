@@ -1,0 +1,52 @@
+{
+  "character_id": 2122206109,
+  "total_losses": 23,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95728676,
+      "name": "Maverick TopGun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120823003,
+      "name": "VaaaaS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90656762,
+      "name": "Jam Tanto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91913556,
+      "name": "Temujin-Khan OfThe9",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taruq",
+  "corporation_id": 98817730,
+  "alliance_id": null,
+  "corporation_name": "709's South Side Systems",
+  "alliance_name": null
+}

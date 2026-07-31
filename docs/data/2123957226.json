@@ -1,0 +1,52 @@
+{
+  "character_id": 2123957226,
+  "total_losses": 24,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2115840203,
+    "name": "Earth Wonder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1097611545,
+    "alliance_id": 99003581,
+    "corporation_name": "Light of the moon",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115840203,
+      "name": "Earth Wonder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117934760,
+      "name": "Lucky Strike",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92361974,
+      "name": "Dima Volenkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95277360,
+      "name": "Enderas Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95393581,
+      "name": "Walter EastPak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Teodor Drayzer",
+  "corporation_id": 98790508,
+  "alliance_id": 99014050,
+  "corporation_name": "Moonlight Mouse Hole",
+  "alliance_name": "Lunar Luminescence"
+}

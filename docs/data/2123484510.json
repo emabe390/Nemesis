@@ -1,0 +1,52 @@
+{
+  "character_id": 2123484510,
+  "total_losses": 38,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2122550464,
+    "name": "MephyCH",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98557697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Lost Legends",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2122550464,
+      "name": "MephyCH",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91163213,
+      "name": "Ikko Ikki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 203409404,
+      "name": "Archaeda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 282415299,
+      "name": "OttoVonKatz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DF-11",
+  "corporation_id": 98626494,
+  "alliance_id": 99003581,
+  "corporation_name": "STARCHASER Inc",
+  "alliance_name": "Fraternity."
+}

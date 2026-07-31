@@ -1,0 +1,52 @@
+{
+  "character_id": 2123036011,
+  "total_losses": 234,
+  "unique_killers": 205,
+  "nemesis": {
+    "id": 92245397,
+    "name": "Hroki Saken",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98637264,
+    "alliance_id": 99011223,
+    "corporation_name": "Sensible People",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123095651,
+      "name": "Alexiskaes cousin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91477196,
+      "name": "Beacon Malaf Morgarit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96790981,
+      "name": "Anna Corvette",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "AexisKae",
+  "corporation_id": 557199155,
+  "alliance_id": 99011223,
+  "corporation_name": "The New Federation",
+  "alliance_name": "Sigma Grindset"
+}

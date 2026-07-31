@@ -1,0 +1,52 @@
+{
+  "character_id": 2124036891,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2118106252,
+    "name": "Vladislav Vetrovv",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98742693,
+    "alliance_id": null,
+    "corporation_name": "Haven Enjoyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118106252,
+      "name": "Vladislav Vetrovv",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120798947,
+      "name": "Amba Tublo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113236403,
+      "name": "Arzi Uanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116988639,
+      "name": "Babbl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Block 52",
+  "corporation_id": 98279775,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deep Space Conquerors",
+  "alliance_name": "Goonswarm Federation"
+}

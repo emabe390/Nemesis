@@ -1,0 +1,46 @@
+{
+  "character_id": 2123335408,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94383885,
+      "name": "Roma Imba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2010346382,
+      "name": "Gunnred",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123131896,
+      "name": "Dominicos Tinkos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Domi Naari",
+  "corporation_id": 98686050,
+  "alliance_id": 1042504553,
+  "corporation_name": "Velesova Legie",
+  "alliance_name": "Solyaris Chtonium"
+}

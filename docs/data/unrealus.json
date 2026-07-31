@@ -1,0 +1,40 @@
+{
+  "character_id": 2122030964,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121022498,
+    "name": "Daniel Yash",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98628734,
+    "alliance_id": 99011271,
+    "corporation_name": "Sargos Corporation",
+    "alliance_name": "4Crabs Tavern"
+  },
+  "top_killers": [
+    {
+      "id": 2121022498,
+      "name": "Daniel Yash",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123947270,
+      "name": "System Effect",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121770959,
+      "name": "SteelzZ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Unrealus",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

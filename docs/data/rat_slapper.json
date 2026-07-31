@@ -1,0 +1,34 @@
+{
+  "character_id": 2121448418,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123511826,
+      "name": "Cecily Fayth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rat Slapper",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

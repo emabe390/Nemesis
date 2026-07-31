@@ -1,0 +1,40 @@
+{
+  "character_id": 2124145463,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95913362,
+    "name": "Marc Decker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751036,
+    "alliance_id": 99014431,
+    "corporation_name": "For All Intents and Porpoises",
+    "alliance_name": "Just Lizard"
+  },
+  "top_killers": [
+    {
+      "id": 95913362,
+      "name": "Marc Decker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96143629,
+      "name": "Robert xHendleyx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122229694,
+      "name": "Nadia Verne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arriwedmain",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

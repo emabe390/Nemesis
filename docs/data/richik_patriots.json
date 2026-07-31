@@ -1,0 +1,52 @@
+{
+  "character_id": 2123589096,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121700413,
+    "name": "Boogie Howser",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98700281,
+    "alliance_id": 99010995,
+    "corporation_name": "Task Force 641",
+    "alliance_name": "Empyrean Edict"
+  },
+  "top_killers": [
+    {
+      "id": 2121700413,
+      "name": "Boogie Howser",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121457793,
+      "name": "Acion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123789014,
+      "name": "Thorondor Echoriath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96808241,
+      "name": "Czajnol Kopara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 181044554,
+      "name": "JitaWarrior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Richik Patriots",
+  "corporation_id": 98450647,
+  "alliance_id": 99007203,
+  "corporation_name": "SpaceX Galactic",
+  "alliance_name": "Siberian Squads"
+}

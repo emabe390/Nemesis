@@ -1,0 +1,40 @@
+{
+  "character_id": 2112175330,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 526282137,
+    "name": "Decimus James",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98737554,
+    "alliance_id": 99005178,
+    "corporation_name": "The Raravathians",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 526282137,
+      "name": "Decimus James",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113068986,
+      "name": "Kirreniem Nakrar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117977485,
+      "name": "Sup Nerds",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurea Saisima",
+  "corporation_id": 98812867,
+  "alliance_id": null,
+  "corporation_name": "DDoS Factory",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1500705275,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 855251435,
+    "name": "warp thrower",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98762098,
+    "alliance_id": 1900696668,
+    "corporation_name": "Aegis Victorium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 855251435,
+      "name": "warp thrower",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112384842,
+      "name": "Sab II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117155789,
+      "name": "LeParrain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tinydogg",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

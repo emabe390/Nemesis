@@ -1,0 +1,40 @@
+{
+  "character_id": 2123746662,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122640572,
+    "name": "Eat'nBananas4daShape",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799440,
+    "alliance_id": 1042504553,
+    "corporation_name": "High Insertion Velocity",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2122640572,
+      "name": "Eat'nBananas4daShape",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 182642454,
+      "name": "Hsu Li",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119354690,
+      "name": "ChromeClaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Flaying Orca",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

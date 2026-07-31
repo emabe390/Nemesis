@@ -1,0 +1,52 @@
+{
+  "character_id": 2121116852,
+  "total_losses": 93,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2120346524,
+    "name": "Omizto",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2120346524,
+      "name": "Omizto",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123473710,
+      "name": "Tasa Irvam",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 187558964,
+      "name": "Llorona",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90267484,
+      "name": "Dominion Death",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91064618,
+      "name": "Loreleen Kouvo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sami Hokema",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123677416,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1944280240,
+    "name": "bmgc",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798969,
+    "alliance_id": 99013972,
+    "corporation_name": "Vikings Holding",
+    "alliance_name": "Vikings."
+  },
+  "top_killers": [
+    {
+      "id": 1944280240,
+      "name": "bmgc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114769585,
+      "name": "Auchegal Saisima",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jerry-Wayne Odom",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

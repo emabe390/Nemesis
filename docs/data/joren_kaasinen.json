@@ -1,0 +1,46 @@
+{
+  "character_id": 2123122662,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96114955,
+    "name": "Ronda Cesaille",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98394508,
+    "alliance_id": null,
+    "corporation_name": "The Charlatans",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96114955,
+      "name": "Ronda Cesaille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 884116165,
+      "name": "Eva Unit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118613809,
+      "name": "Westlegend",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123121630,
+      "name": "Madboyrust",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joren Kaasinen",
+  "corporation_id": 98820670,
+  "alliance_id": 99003581,
+  "corporation_name": "Gladius Tenebris",
+  "alliance_name": "Fraternity."
+}

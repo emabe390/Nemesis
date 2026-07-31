@@ -1,0 +1,52 @@
+{
+  "character_id": 2123177082,
+  "total_losses": 110,
+  "unique_killers": 98,
+  "nemesis": {
+    "id": 2112393255,
+    "name": "Konnen Jung",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 103932206,
+      "name": "Gard Loki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 711776709,
+      "name": "Anjela Fareli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1241075041,
+      "name": "Gadoosh",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Picolos",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

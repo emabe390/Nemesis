@@ -1,0 +1,28 @@
+{
+  "character_id": 2123456483,
+  "total_losses": 5,
+  "unique_killers": 1,
+  "nemesis": {
+    "id": 2121745279,
+    "name": "VeneroID",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98721110,
+    "alliance_id": 99003581,
+    "corporation_name": "Nocte Vigilo",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121745279,
+      "name": "VeneroID",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Kire Mistwalker",
+  "corporation_id": 98608010,
+  "alliance_id": null,
+  "corporation_name": "ATLAS CORPORATION S.A",
+  "alliance_name": null
+}

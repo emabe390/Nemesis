@@ -1,0 +1,52 @@
+{
+  "character_id": 2120829642,
+  "total_losses": 46,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 2121632876,
+      "name": "KOH403",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91632000,
+      "name": "Gendo Akorian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94741222,
+      "name": "gmoney mcswaggins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vault Seven",
+  "corporation_id": 98824902,
+  "alliance_id": 99009163,
+  "corporation_name": "QuackOps",
+  "alliance_name": "Dracarys."
+}

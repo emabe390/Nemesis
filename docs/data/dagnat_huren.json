@@ -1,0 +1,40 @@
+{
+  "character_id": 2123291105,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113291663,
+    "name": "Jonathan Apples",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98423954,
+    "alliance_id": 1900696668,
+    "corporation_name": "Worthless Carebears",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2113291663,
+      "name": "Jonathan Apples",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97258227,
+      "name": "Daniel Dire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116651624,
+      "name": "xxx1972 Talvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dagnat Huren",
+  "corporation_id": 98609265,
+  "alliance_id": 99009163,
+  "corporation_name": "Death'sEnd",
+  "alliance_name": "Dracarys."
+}

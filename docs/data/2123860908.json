@@ -1,0 +1,52 @@
+{
+  "character_id": 2123860908,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115631068,
+    "name": "Character 2115631068",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704442,
+    "alliance_id": null,
+    "corporation_name": "Raised by Wolves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115631068,
+      "name": "Character 2115631068",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122013785,
+      "name": "Little Fugglet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96172084,
+      "name": "Xenon Aspirse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1041034789,
+      "name": "Parov Stelar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116826354,
+      "name": "Joanna Bayrid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Void Bridger",
+  "corporation_id": 98813867,
+  "alliance_id": 99003214,
+  "corporation_name": "Impalers",
+  "alliance_name": "Brave Collective"
+}

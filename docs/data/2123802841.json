@@ -1,0 +1,46 @@
+{
+  "character_id": 2123802841,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90784163,
+      "name": "muppet Pappotte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1225874954,
+      "name": "Father Biff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anno Blank",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

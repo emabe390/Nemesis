@@ -1,0 +1,52 @@
+{
+  "character_id": 2116138905,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2112549365,
+    "name": "Elan Yanumano",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98258093,
+    "alliance_id": 99009268,
+    "corporation_name": "Strategic Exploration and Development Corp",
+    "alliance_name": "Silent Company"
+  },
+  "top_killers": [
+    {
+      "id": 2112549365,
+      "name": "Elan Yanumano",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94069577,
+      "name": "Esperia Genevra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 223726310,
+      "name": "Beld Ermon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beelphegor Kashada",
+  "corporation_id": 98749126,
+  "alliance_id": 99011416,
+  "corporation_name": "Silent Knights.",
+  "alliance_name": "LinkNet"
+}

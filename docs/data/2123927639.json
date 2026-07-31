@@ -1,0 +1,40 @@
+{
+  "character_id": 2123927639,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 384297163,
+    "name": "my clone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 566825158,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladiators of Rage",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 384297163,
+      "name": "my clone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112736867,
+      "name": "Higgins Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Getty111",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122442409,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1506758015,
+    "name": "Pothakos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1506758015,
+      "name": "Pothakos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1092083425,
+      "name": "Dank Fortuente",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Koox",
+  "corporation_id": 98792425,
+  "alliance_id": 99009614,
+  "corporation_name": "Deep Exploration Company",
+  "alliance_name": "C U L T"
+}

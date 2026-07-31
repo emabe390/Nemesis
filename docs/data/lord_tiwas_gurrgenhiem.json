@@ -1,0 +1,52 @@
+{
+  "character_id": 2123954668,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 92180062,
+    "name": "Shilliam Watner",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1413346124,
+      "name": "drones man",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1944223975,
+      "name": "slave man",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117243575,
+      "name": "Erik Hrothgarsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117244013,
+      "name": "Mikael Shilliamsson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lord Tiwas Gurrgenhiem",
+  "corporation_id": 98787453,
+  "alliance_id": 99013893,
+  "corporation_name": "Brigade of the Lost Capsuleer",
+  "alliance_name": "Photonic Scourge"
+}

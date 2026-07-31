@@ -1,0 +1,52 @@
+{
+  "character_id": 2123353292,
+  "total_losses": 116,
+  "unique_killers": 84,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 559883966,
+      "name": "ceyriot",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 782820249,
+      "name": "Phelan K'ell",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Waysten Windherz",
+  "corporation_id": 98483536,
+  "alliance_id": 99011990,
+  "corporation_name": "Gods Of Gold",
+  "alliance_name": "D3ad End"
+}

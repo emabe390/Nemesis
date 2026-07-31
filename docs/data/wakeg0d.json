@@ -1,0 +1,52 @@
+{
+  "character_id": 2123758600,
+  "total_losses": 21,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123933922,
+    "name": "MP5K",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98530802,
+    "alliance_id": 99003581,
+    "corporation_name": "Glory Navy",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123933922,
+      "name": "MP5K",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90247385,
+      "name": "GregAlex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93119700,
+      "name": "Is Secundary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115238053,
+      "name": "Masami GameOn",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "WakeG0D",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

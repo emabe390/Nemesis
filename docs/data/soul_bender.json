@@ -1,0 +1,40 @@
+{
+  "character_id": 2124568262,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 789171923,
+    "name": "Comisnake",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98531454,
+    "alliance_id": 1354830081,
+    "corporation_name": "Asteroid Farm Unlimited",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 789171923,
+      "name": "Comisnake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1409153869,
+      "name": "Tack Gybe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93449714,
+      "name": "Velasara Aveline",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soul-Bender",
+  "corporation_id": 98651051,
+  "alliance_id": 99011119,
+  "corporation_name": "Absolute Order XIX",
+  "alliance_name": "Absolute Glory"
+}

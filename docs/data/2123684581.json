@@ -1,0 +1,34 @@
+{
+  "character_id": 2123684581,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119932804,
+    "name": "Almatinochka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720063,
+    "alliance_id": null,
+    "corporation_name": "Money making corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119932804,
+      "name": "Almatinochka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 707126205,
+      "name": "Gattsume",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Archie Astroid",
+  "corporation_id": 98609265,
+  "alliance_id": 99005338,
+  "corporation_name": "Death'sEnd",
+  "alliance_name": "Pandemic Horde"
+}

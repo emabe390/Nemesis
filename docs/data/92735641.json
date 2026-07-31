@@ -1,0 +1,40 @@
+{
+  "character_id": 92735641,
+  "total_losses": 42,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 797536924,
+    "name": "Kaltener",
+    "kill_count": 40,
+    "final_blows": 40,
+    "corporation_id": 668298004,
+    "alliance_id": 99003581,
+    "corporation_name": "Sacred Templars",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 797536924,
+      "name": "Kaltener",
+      "kill_count": 40,
+      "final_blows": 40
+    },
+    {
+      "id": 95995982,
+      "name": "Edgar Ottig",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 509017886,
+      "name": "Romanessa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Professor Kotori",
+  "corporation_id": 98044257,
+  "alliance_id": 99013541,
+  "corporation_name": "Sacred Templar Knights",
+  "alliance_name": "Fraternity Auxiliary"
+}

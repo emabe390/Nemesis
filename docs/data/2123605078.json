@@ -1,0 +1,52 @@
+{
+  "character_id": 2123605078,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 93548815,
+    "name": "Jefferson Spence",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98302172,
+    "alliance_id": null,
+    "corporation_name": "Lonely Island United",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93548815,
+      "name": "Jefferson Spence",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115765330,
+      "name": "Viet Phuong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117974420,
+      "name": "Woland Dark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118656452,
+      "name": "Netaga Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119095332,
+      "name": "Wlerds",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Babylon Crazy Badger",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

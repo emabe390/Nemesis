@@ -1,0 +1,52 @@
+{
+  "character_id": 2121722595,
+  "total_losses": 59,
+  "unique_killers": 58,
+  "nemesis": {
+    "id": 2112393255,
+    "name": "Konnen Jung",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91089809,
+      "name": "Douglas Aurelius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91331330,
+      "name": "Abby Silverwind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91665081,
+      "name": "Saffron Rynolds",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91682985,
+      "name": "Mariko Ishii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ol'Frosty",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

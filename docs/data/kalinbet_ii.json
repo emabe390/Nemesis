@@ -1,0 +1,52 @@
+{
+  "character_id": 2123683381,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92945930,
+    "name": "Mal Warre",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98685256,
+    "alliance_id": null,
+    "corporation_name": "Merdur Masheen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116216266,
+      "name": "Dagon Madeveda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113845227,
+      "name": "Fury al-Shabazz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123195381,
+      "name": "Merry the Merciless",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kalinbet II",
+  "corporation_id": 98811953,
+  "alliance_id": null,
+  "corporation_name": "Kalinbet Mining",
+  "alliance_name": null
+}

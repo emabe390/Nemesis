@@ -1,0 +1,52 @@
+{
+  "character_id": 2121105101,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2120569259,
+    "name": "Stacy Hart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758422,
+    "alliance_id": 99014284,
+    "corporation_name": "Consultancy",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2120569259,
+      "name": "Stacy Hart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90934350,
+      "name": "VIsus IronFox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92475411,
+      "name": "Mark Ryden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97031217,
+      "name": "Avel Aishai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 821174425,
+      "name": "Pigger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oge Pas Rin",
+  "corporation_id": 98789418,
+  "alliance_id": null,
+  "corporation_name": "Mental Disruption",
+  "alliance_name": null
+}

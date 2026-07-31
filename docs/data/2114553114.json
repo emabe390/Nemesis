@@ -1,0 +1,46 @@
+{
+  "character_id": 2114553114,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 835806057,
+    "name": "Vengeful Shade",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 835806057,
+      "name": "Vengeful Shade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114119191,
+      "name": "Scratchin' Mastermind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120664883,
+      "name": "Korbli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121331790,
+      "name": "Uncaring Boomer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lios Baron",
+  "corporation_id": 98815723,
+  "alliance_id": null,
+  "corporation_name": "Baron Corp",
+  "alliance_name": null
+}

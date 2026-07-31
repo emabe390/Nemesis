@@ -1,0 +1,52 @@
+{
+  "character_id": 2123197983,
+  "total_losses": 56,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 2118722264,
+    "name": "Roskolnikov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90711855,
+      "name": "Juktus Groth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93046957,
+      "name": "Alex PROTOSS",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "The Mole S",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

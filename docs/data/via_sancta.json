@@ -1,0 +1,52 @@
+{
+  "character_id": 2123750885,
+  "total_losses": 25,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123918644,
+    "name": "AlkoSollo",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98833240,
+    "alliance_id": 99003995,
+    "corporation_name": "Dream Fleet",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123918644,
+      "name": "AlkoSollo",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2123749087,
+      "name": "Zoza The Brave",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 929509038,
+      "name": "Sabik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122193048,
+      "name": "Assie P",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90340202,
+      "name": "MR AUSLANDOR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Via Sancta",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112092530,
+  "total_losses": 18,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2112772737,
+    "name": "Sidreana",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1091440439,
+    "alliance_id": 498125261,
+    "corporation_name": "AlcoDOTTE",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2112772737,
+      "name": "Sidreana",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92963832,
+      "name": "Shaftmaster Mastershafts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123226994,
+      "name": "Zival Tzash",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90966319,
+      "name": "Nyan Lafisques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92371457,
+      "name": "Jake Skord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stallgrass",
+  "corporation_id": 1091440439,
+  "alliance_id": 498125261,
+  "corporation_name": "AlcoDOTTE",
+  "alliance_name": "Test Alliance Please Ignore"
+}

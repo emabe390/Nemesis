@@ -1,0 +1,40 @@
+{
+  "character_id": 2115164978,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1072346560,
+    "name": "aLostProphet",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 1072346560,
+      "name": "aLostProphet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116497351,
+      "name": "Francis Armanius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121644507,
+      "name": "PastorJ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nikita Lisenko",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

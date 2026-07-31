@@ -1,0 +1,40 @@
+{
+  "character_id": 2122681364,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91365609,
+    "name": "Igor Gorodbin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123820084,
+      "name": "sspeche",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122681364,
+      "name": "KonKerre",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KonKerre",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123641096,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118024720,
+    "name": "Character 2118024720",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98536418,
+    "alliance_id": null,
+    "corporation_name": "Academy of Russian Federation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118024720,
+      "name": "Character 2118024720",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121622153,
+      "name": "Boot of Zarzakhia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117065223,
+      "name": "LI JIE 3",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheEntity-001",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

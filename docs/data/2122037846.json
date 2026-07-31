@@ -1,0 +1,40 @@
+{
+  "character_id": 2122037846,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 873525366,
+    "name": "Ladel Teravada",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1169891682,
+    "alliance_id": 1988009451,
+    "corporation_name": "Caldari Independent Navy Reserve",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 873525366,
+      "name": "Ladel Teravada",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118562260,
+      "name": "Honor Alexander-Harrington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118703021,
+      "name": "New Order Enforcer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valeria Prince",
+  "corporation_id": 98480589,
+  "alliance_id": null,
+  "corporation_name": "Magister Mortalis.",
+  "alliance_name": null
+}

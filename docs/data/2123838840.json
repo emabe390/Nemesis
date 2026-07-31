@@ -1,0 +1,40 @@
+{
+  "character_id": 2123838840,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123798067,
+    "name": "Sanguis II",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98497733,
+    "alliance_id": null,
+    "corporation_name": "Drop the Soap",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123798067,
+      "name": "Sanguis II",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112878375,
+      "name": "minshaft Godfathers",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kaniliah",
+  "corporation_id": 98815087,
+  "alliance_id": null,
+  "corporation_name": "Tenebris Initiative",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123190459,
+  "total_losses": 12,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122552323,
+      "name": "Sleepy McKnight Knight",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115401170,
+      "name": "Angela Chent-Shi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123543978,
+      "name": "Teor Trild",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JasonLH",
+  "corporation_id": 98806948,
+  "alliance_id": 99003995,
+  "corporation_name": "Your Ex's",
+  "alliance_name": "Invidia Gloriae Comes"
+}

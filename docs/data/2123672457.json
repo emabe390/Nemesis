@@ -1,0 +1,52 @@
+{
+  "character_id": 2123672457,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95321456,
+      "name": "Character 95321456",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark soul eater",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

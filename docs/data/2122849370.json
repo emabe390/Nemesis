@@ -1,0 +1,52 @@
+{
+  "character_id": 2122849370,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2119752589,
+    "name": "Nitulim Belja Beli",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119752589,
+      "name": "Nitulim Belja Beli",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1568530872,
+      "name": "Dimitryy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90604044,
+      "name": "Charon Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90628149,
+      "name": "Dratos Good",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fendorion",
+  "corporation_id": 98805208,
+  "alliance_id": 99014665,
+  "corporation_name": "Player Owned Equipment Specialists",
+  "alliance_name": "Invictus Industries LtD"
+}

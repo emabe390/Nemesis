@@ -1,0 +1,40 @@
+{
+  "character_id": 2124323986,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 413496529,
+    "name": "slim picins",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 413496529,
+      "name": "slim picins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112765539,
+      "name": "Arcadis Inkura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120696692,
+      "name": "CTA61",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ryouma Varek",
+  "corporation_id": 98830269,
+  "alliance_id": null,
+  "corporation_name": "Helix Strategic Response Group",
+  "alliance_name": null
+}

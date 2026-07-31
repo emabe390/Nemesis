@@ -1,0 +1,40 @@
+{
+  "character_id": 2123726703,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123150828,
+    "name": "Palaziy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715924,
+    "alliance_id": null,
+    "corporation_name": "ARTEK CAMP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123150828,
+      "name": "Palaziy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123232581,
+      "name": "Astra-Stella",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 426313061,
+      "name": "Tira Mitzu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Talmoro Anneto",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

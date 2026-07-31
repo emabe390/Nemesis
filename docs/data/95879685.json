@@ -1,0 +1,40 @@
+{
+  "character_id": 95879685,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jeff Hudson",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

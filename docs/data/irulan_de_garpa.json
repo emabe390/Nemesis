@@ -1,0 +1,46 @@
+{
+  "character_id": 2122870908,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122844937,
+    "name": "Panikovsky",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98785164,
+    "alliance_id": null,
+    "corporation_name": "Dark Guild",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122844937,
+      "name": "Panikovsky",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92883027,
+      "name": "Rachel Miles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95996083,
+      "name": "Tyrus Mortellus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122012982,
+      "name": "lasse00",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Irulan De Garpa",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

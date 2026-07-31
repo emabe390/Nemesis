@@ -1,0 +1,40 @@
+{
+  "character_id": 2121164641,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92180062,
+    "name": "Shilliam Watner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117243575,
+      "name": "Erik Hrothgarsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117247924,
+      "name": "Hjalmar Svennsen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thorgal Dvergatal",
+  "corporation_id": 98691989,
+  "alliance_id": null,
+  "corporation_name": "The Corp Family Fr",
+  "alliance_name": null
+}

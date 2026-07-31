@@ -1,0 +1,40 @@
+{
+  "character_id": 2116142444,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114606780,
+    "name": "Wild Valenok",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98662843,
+    "alliance_id": 99003557,
+    "corporation_name": "Interstellar Scum",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123012816,
+      "name": "Yorsa Jaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123688559,
+      "name": "Kotar X",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trader Maulerant",
+  "corporation_id": 98641263,
+  "alliance_id": 99000580,
+  "corporation_name": "Hauler and Trader Tax Evasion",
+  "alliance_name": "Ignore This."
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 94973490,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 105360523,
+    "name": "Muraghnar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 105360523,
+      "name": "Muraghnar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 731398258,
+      "name": "Rossarii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113196490,
+      "name": "Norkk Senstrive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Federal Navy DedMoroz",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

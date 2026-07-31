@@ -1,0 +1,40 @@
+{
+  "character_id": 2123739521,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92195106,
+    "name": "Lanac Egnald",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 92195106,
+      "name": "Lanac Egnald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zookleys",
+  "corporation_id": 98813936,
+  "alliance_id": null,
+  "corporation_name": "TArd Squad",
+  "alliance_name": null
+}

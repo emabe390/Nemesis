@@ -1,0 +1,52 @@
+{
+  "character_id": 2123190316,
+  "total_losses": 47,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 242489909,
+    "name": "cl1de",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 242489909,
+      "name": "cl1de",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1673598068,
+      "name": "Diabolai Lionheart",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93997594,
+      "name": "munsking",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "IPingCorpsInAllyGen",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

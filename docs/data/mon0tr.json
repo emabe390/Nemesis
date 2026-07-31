@@ -1,0 +1,40 @@
+{
+  "character_id": 2124415897,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118578699,
+    "name": "Mecka",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 953808580,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cloaked Goof",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2118578699,
+      "name": "Mecka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124415809,
+      "name": "Mon4tr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124415821,
+      "name": "Mon6tr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mon0tr",
+  "corporation_id": 98805140,
+  "alliance_id": 99013537,
+  "corporation_name": "Sunset Red Activity Club",
+  "alliance_name": "Insidious."
+}

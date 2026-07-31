@@ -1,0 +1,52 @@
+{
+  "character_id": 2124189032,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1079691556,
+    "name": "Korgoroth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98444440,
+    "alliance_id": 99015024,
+    "corporation_name": "Fly Sideways",
+    "alliance_name": "Low Class"
+  },
+  "top_killers": [
+    {
+      "id": 1079691556,
+      "name": "Korgoroth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114560347,
+      "name": "TD DH-LP",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94644478,
+      "name": "Stan Morbus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96928223,
+      "name": "Eve Aldarvale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 145123391,
+      "name": "Cmdr Jameson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jamsire",
+  "corporation_id": 98795387,
+  "alliance_id": null,
+  "corporation_name": "Fruit Flies",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123670687,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 748572335,
+    "name": "Schiltrom",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98792799,
+    "alliance_id": null,
+    "corporation_name": "The Wages of Sin",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 748572335,
+      "name": "Schiltrom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "qiyi",
+  "corporation_id": 98802528,
+  "alliance_id": 99011181,
+  "corporation_name": "The Zephyr Brigade",
+  "alliance_name": "East Wind."
+}

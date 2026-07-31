@@ -1,0 +1,40 @@
+{
+  "character_id": 2123870467,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117544343,
+    "name": "Holocron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98803682,
+    "alliance_id": null,
+    "corporation_name": "HVLVCRON DREVD COVEN",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117544343,
+      "name": "Holocron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 634779975,
+      "name": "Mutchy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121101974,
+      "name": "Devon Rhyker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123870467",
+  "corporation_id": 98831068,
+  "alliance_id": null,
+  "corporation_name": "Stellar Cartography Initiative",
+  "alliance_name": null
+}

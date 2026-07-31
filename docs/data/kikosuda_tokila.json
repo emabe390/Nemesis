@@ -1,0 +1,52 @@
+{
+  "character_id": 2123605700,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113488903,
+    "name": "Lloyd Braun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113488903,
+      "name": "Lloyd Braun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120181910,
+      "name": "LordPo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120704925,
+      "name": "Lee Levy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118617567,
+      "name": "Reaper JO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kikosuda Tokila",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

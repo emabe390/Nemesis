@@ -1,0 +1,40 @@
+{
+  "character_id": 2123405716,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93944571,
+    "name": "Ander Arili",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98110767,
+    "alliance_id": 1042504553,
+    "corporation_name": "Lisnave",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 93944571,
+      "name": "Ander Arili",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114688084,
+      "name": "Estel Ciryandor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118339639,
+      "name": "Aitt duominx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Malloras Saraki",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

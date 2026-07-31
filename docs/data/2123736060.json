@@ -1,0 +1,40 @@
+{
+  "character_id": 2123736060,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 960907441,
+      "name": "Luukje",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123286012,
+      "name": "NoPK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FaFaFirstMixedFleet",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

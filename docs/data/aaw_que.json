@@ -1,0 +1,34 @@
+{
+  "character_id": 2123882471,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2071073391,
+    "name": "Ronan Constantine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99004344,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 2071073391,
+      "name": "Ronan Constantine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123274707,
+      "name": "Kuken Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aaw Que",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

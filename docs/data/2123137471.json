@@ -1,0 +1,40 @@
+{
+  "character_id": 2123137471,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95079834,
+    "name": "Krimson Serenity",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98457503,
+    "alliance_id": 99009927,
+    "corporation_name": "Full Broadside",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 95079834,
+      "name": "Krimson Serenity",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96044483,
+      "name": "Miolaka Gott",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96113248,
+      "name": "Venetta Cesaille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tower Guard 1",
+  "corporation_id": 98711373,
+  "alliance_id": 99013420,
+  "corporation_name": "Republic Vanguard",
+  "alliance_name": "Helios Initiative"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123736640,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 735288141,
+    "name": "Tefkros",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123168687,
+      "name": "zLegion 12",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124098870,
+      "name": "zLegion 28",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Calgard Pragon",
+  "corporation_id": 98756906,
+  "alliance_id": 99006260,
+  "corporation_name": "Jay's Army",
+  "alliance_name": "The Republic."
+}

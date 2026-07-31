@@ -1,0 +1,40 @@
+{
+  "character_id": 2121910166,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 203409404,
+    "name": "Archaeda",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98523162,
+    "alliance_id": null,
+    "corporation_name": "BoneSquad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 203409404,
+      "name": "Archaeda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 579386461,
+      "name": "Jorraan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1873092303,
+      "name": "Tilburn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OverdriveTails",
+  "corporation_id": 98819016,
+  "alliance_id": 99014577,
+  "corporation_name": "Silentrix",
+  "alliance_name": "High Sec Mining Consortium"
+}

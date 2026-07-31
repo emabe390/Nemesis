@@ -1,0 +1,52 @@
+{
+  "character_id": 96621121,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96830902,
+      "name": "Mysty Porqupine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112964488,
+      "name": "Rhayn Rowe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121873069,
+      "name": "Herid Mysun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122081739,
+      "name": "Loong Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tilikum",
+  "corporation_id": 98457033,
+  "alliance_id": 1900696668,
+  "corporation_name": "United Mining and Hauling Inc",
+  "alliance_name": "The Initiative."
+}

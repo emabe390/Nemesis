@@ -1,0 +1,34 @@
+{
+  "character_id": 2121995700,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90746389,
+    "name": "Sonny O'neil",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91381906,
+      "name": "Kislotnik Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FreddieDread",
+  "corporation_id": 98699928,
+  "alliance_id": 99013327,
+  "corporation_name": "Armor Piercing Discarding Sabot",
+  "alliance_name": "Hard Knocks Executors"
+}

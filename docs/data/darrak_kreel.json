@@ -1,0 +1,52 @@
+{
+  "character_id": 91348566,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 91365609,
+    "name": "Igor Gorodbin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95933011,
+      "name": "Sator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92071832,
+      "name": "Tophok Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darrak Kreel",
+  "corporation_id": 98822353,
+  "alliance_id": null,
+  "corporation_name": "Children of Enceladus",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2114944900,
+  "total_losses": 33,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 92665983,
+    "name": "Captain Alduin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98325373,
+    "alliance_id": 99012982,
+    "corporation_name": "Running with Dogs",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 92665983,
+      "name": "Captain Alduin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116368886,
+      "name": "Holymoly Roller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123061989,
+      "name": "Saheila Skadi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91522825,
+      "name": "Byrbeglin Alcantar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92109726,
+      "name": "Frank Zane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chris Worming",
+  "corporation_id": 98165469,
+  "alliance_id": null,
+  "corporation_name": "Hammerwerke",
+  "alliance_name": null
+}

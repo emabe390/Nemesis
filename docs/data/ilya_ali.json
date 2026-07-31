@@ -1,0 +1,52 @@
+{
+  "character_id": 2114991051,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3020075,
+    "name": "Phylarch Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 93909364,
+      "name": "Asgart Zaacaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92551769,
+      "name": "Arctic Kalkoken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94161160,
+      "name": "Character 94161160",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ilya Ali",
+  "corporation_id": 98633589,
+  "alliance_id": 99007203,
+  "corporation_name": "Ros Shovel Corporation",
+  "alliance_name": "Siberian Squads"
+}

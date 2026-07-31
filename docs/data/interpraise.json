@@ -1,0 +1,34 @@
+{
+  "character_id": 2122227103,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119979985,
+    "name": "MADRICO",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2119979985,
+      "name": "MADRICO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Interpraise",
+  "corporation_id": 98770461,
+  "alliance_id": null,
+  "corporation_name": "Interpraise Corporation",
+  "alliance_name": null
+}

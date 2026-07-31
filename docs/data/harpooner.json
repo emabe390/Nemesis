@@ -1,0 +1,52 @@
+{
+  "character_id": 1990142253,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 1172700338,
+    "name": "Posteman",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98091322,
+    "alliance_id": null,
+    "corporation_name": "Why You Dont Get A Job",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1172700338,
+      "name": "Posteman",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92418259,
+      "name": "Iro Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93038028,
+      "name": "Ni'Mark Kos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93244624,
+      "name": "GATS HALF",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harpooner",
+  "corporation_id": 98788012,
+  "alliance_id": 99013690,
+  "corporation_name": "The Edge of Heretics",
+  "alliance_name": "Critical. Mass."
+}

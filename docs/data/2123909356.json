@@ -1,0 +1,40 @@
+{
+  "character_id": 2123909356,
+  "total_losses": 19,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 427848869,
+    "name": "EXE16",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98818551,
+    "alliance_id": null,
+    "corporation_name": "Solar Wind Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 427848869,
+      "name": "EXE16",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 2121825256,
+      "name": "urns",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115774039,
+      "name": "Sasori Udan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadowman Orti",
+  "corporation_id": 98818551,
+  "alliance_id": null,
+  "corporation_name": "Solar Wind Inc",
+  "alliance_name": null
+}

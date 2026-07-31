@@ -1,0 +1,40 @@
+{
+  "character_id": 2118042688,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121695427,
+    "name": "Product Manager 001",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750747,
+    "alliance_id": 99012464,
+    "corporation_name": "Watcher Out",
+    "alliance_name": "C A M E L O T"
+  },
+  "top_killers": [
+    {
+      "id": 2121695427,
+      "name": "Product Manager 001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90421160,
+      "name": "Mordecai Holtzgrund",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93934418,
+      "name": "Joel Freon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheSupremeMagus",
+  "corporation_id": 98663247,
+  "alliance_id": 99011193,
+  "corporation_name": "ThunderStrike Corp",
+  "alliance_name": "Pewgilism."
+}

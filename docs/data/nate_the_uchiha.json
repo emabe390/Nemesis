@@ -1,0 +1,40 @@
+{
+  "character_id": 2123859509,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95068538,
+    "name": "Carlos Bandolier",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98451057,
+    "alliance_id": 99014193,
+    "corporation_name": "Fibonacci Futures",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95891003,
+      "name": "Marc Anneto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1963425214,
+      "name": "Khaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nate The Uchiha",
+  "corporation_id": 98817572,
+  "alliance_id": null,
+  "corporation_name": "Union de Bobers Industriales",
+  "alliance_name": null
+}

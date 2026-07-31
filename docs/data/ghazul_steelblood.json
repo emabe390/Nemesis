@@ -1,0 +1,52 @@
+{
+  "character_id": 2123986426,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120794912,
+    "name": "pyrostasis1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799688,
+    "alliance_id": 99014193,
+    "corporation_name": "Bustin Space Ships INC.",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123577365,
+      "name": "Kalen Okaski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95047271,
+      "name": "Gunstorm Annages",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 332927726,
+      "name": "Nicholas Damask",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 764643376,
+      "name": "Sisko Urso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ghazul Steelblood",
+  "corporation_id": 98664364,
+  "alliance_id": 99014141,
+  "corporation_name": "WillCo.",
+  "alliance_name": "Hole Association"
+}

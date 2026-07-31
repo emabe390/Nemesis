@@ -1,0 +1,52 @@
+{
+  "character_id": 2123478755,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2118861292,
+    "name": "JINTSUU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98347548,
+    "alliance_id": null,
+    "corporation_name": "Emergency Temporal Shift.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121276341,
+      "name": "Pavoneo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123927477,
+      "name": "fredrick IV",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90722094,
+      "name": "Antoine McKenna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115616791,
+      "name": "nick buckhard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MinorHauler",
+  "corporation_id": 98829170,
+  "alliance_id": null,
+  "corporation_name": "Drifters Guild",
+  "alliance_name": null
+}

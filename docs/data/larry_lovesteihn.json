@@ -1,0 +1,40 @@
+{
+  "character_id": 2118297302,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118119304,
+    "name": "Ourg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98092494,
+    "alliance_id": null,
+    "corporation_name": "Besra Overwatch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118119304,
+      "name": "Ourg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92088325,
+      "name": "Dmitry Mekhov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92606049,
+      "name": "sultanov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Larry Lovesteihn",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

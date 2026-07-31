@@ -1,0 +1,40 @@
+{
+  "character_id": 2114850026,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95779000,
+    "name": "Dwark",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98594202,
+    "alliance_id": 99010457,
+    "corporation_name": "Harmonist",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95779000,
+      "name": "Dwark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96901445,
+      "name": "Rozo Druprime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121901365,
+      "name": "CtrlShiftEsc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sollen Sklor",
+  "corporation_id": 1000049,
+  "alliance_id": null,
+  "corporation_name": "Brutor Tribe",
+  "alliance_name": null
+}

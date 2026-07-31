@@ -1,0 +1,40 @@
+{
+  "character_id": 2123213809,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91234968,
+      "name": "Flo May",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91265846,
+      "name": "Jeroin Akselson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xeyly",
+  "corporation_id": 724710872,
+  "alliance_id": 99003566,
+  "corporation_name": "Black Lotus Heavy Industries",
+  "alliance_name": "Ethereal Dawn"
+}

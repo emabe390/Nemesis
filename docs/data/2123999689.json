@@ -1,0 +1,52 @@
+{
+  "character_id": 2123999689,
+  "total_losses": 44,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2119431692,
+    "name": "Zeta Ophiuchus",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98701240,
+    "alliance_id": null,
+    "corporation_name": "000' Bandits Ophiuchi",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 219778731,
+      "name": "aendei",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119635407,
+      "name": "Tricky Merchant",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91657844,
+      "name": "Prometheus Dormiens",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Captain Liviu",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

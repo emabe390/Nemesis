@@ -1,0 +1,40 @@
+{
+  "character_id": 2123894373,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91615359,
+    "name": "lt Deano",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1855894480,
+    "alliance_id": 99003940,
+    "corporation_name": "Annihilate.",
+    "alliance_name": "That Escalated Quickly."
+  },
+  "top_killers": [
+    {
+      "id": 91615359,
+      "name": "lt Deano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 260436269,
+      "name": "Boneafi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1390265691,
+      "name": "UberLube",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gurney Thurr",
+  "corporation_id": 98802394,
+  "alliance_id": null,
+  "corporation_name": "Synchronized Worlds",
+  "alliance_name": null
+}

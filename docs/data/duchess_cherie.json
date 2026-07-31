@@ -1,0 +1,52 @@
+{
+  "character_id": 2123256067,
+  "total_losses": 16,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2117318211,
+    "name": "okoshnik",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98683208,
+    "alliance_id": 99007203,
+    "corporation_name": "RED HOT Team.",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2117318211,
+      "name": "okoshnik",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2112917522,
+      "name": "Schneepulver Weissherd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116612115,
+      "name": "Tofu Hunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118406012,
+      "name": "Coal Powered",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Duchess Cherie",
+  "corporation_id": 98710763,
+  "alliance_id": 99005338,
+  "corporation_name": "Perfusus Sanguine",
+  "alliance_name": "Pandemic Horde"
+}

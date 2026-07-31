@@ -1,0 +1,52 @@
+{
+  "character_id": 2121793658,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 93706535,
+    "name": "Joel Rusch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 197097487,
+    "alliance_id": 1900696668,
+    "corporation_name": "4S Corporation",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93706535,
+      "name": "Joel Rusch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122229618,
+      "name": "Mong1ong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90567267,
+      "name": "Norek Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Airagoth",
+  "corporation_id": 98806804,
+  "alliance_id": 99014431,
+  "corporation_name": "Scrapyard Artificer's",
+  "alliance_name": "Just Lizard"
+}

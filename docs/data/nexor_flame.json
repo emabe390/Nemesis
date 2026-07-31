@@ -1,0 +1,34 @@
+{
+  "character_id": 2124239394,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123666667,
+    "name": "Max Rustatansky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 2123666667,
+      "name": "Max Rustatansky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114446534,
+      "name": "jommy Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nexor Flame",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

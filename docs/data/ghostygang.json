@@ -1,0 +1,40 @@
+{
+  "character_id": 2124165769,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90215243,
+    "name": "Glavior",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 90215243,
+      "name": "Glavior",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2113694751,
+      "name": "Officer Jim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118409227,
+      "name": "Character 2118409227",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GhostyGang",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

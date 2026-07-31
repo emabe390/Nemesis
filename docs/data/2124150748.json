@@ -1,0 +1,40 @@
+{
+  "character_id": 2124150748,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123999741,
+      "name": "KARMA'S REVENGE 6",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124000280,
+      "name": "KARMA'S REVENGE 9",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NikFox",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

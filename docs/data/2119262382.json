@@ -1,0 +1,40 @@
+{
+  "character_id": 2119262382,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95509019,
+    "name": "Zopiclone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98517677,
+    "alliance_id": null,
+    "corporation_name": "Vigilance Training Bureau",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95509019,
+      "name": "Zopiclone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123655887,
+      "name": "Special One89",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Han Riose",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

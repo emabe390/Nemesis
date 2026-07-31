@@ -1,0 +1,52 @@
+{
+  "character_id": 2113402963,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 147718219,
+    "name": "Keeves",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98143154,
+    "alliance_id": 99004818,
+    "corporation_name": "Estamos Solos Corporation",
+    "alliance_name": "Estamos Solos Alliance."
+  },
+  "top_killers": [
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90572155,
+      "name": "Darkworlds Shaishi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92889682,
+      "name": "The Main Jihad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95411402,
+      "name": "GoYoung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Younger DN",
+  "corporation_id": 98504153,
+  "alliance_id": 99003581,
+  "corporation_name": "Stay Alive.",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123205608,
+  "total_losses": 25,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1202859987,
+    "name": "Lai Menn",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98812470,
+    "alliance_id": null,
+    "corporation_name": "Moonways Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1202859987,
+      "name": "Lai Menn",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 93255989,
+      "name": "SIdd Severasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1155965519,
+      "name": "Merenia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94716739,
+      "name": "Sloth Dalazy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jane Dunne",
+  "corporation_id": 635210548,
+  "alliance_id": 99003581,
+  "corporation_name": "Fusion Enterprises Ltd",
+  "alliance_name": "Fraternity."
+}

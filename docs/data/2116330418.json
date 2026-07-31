@@ -1,0 +1,40 @@
+{
+  "character_id": 2116330418,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92312876,
+    "name": "Saweet Alar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112131739,
+      "name": "MagaMet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113039544,
+      "name": "CovopsGorilla Hauler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebastian Schmid",
+  "corporation_id": 345823295,
+  "alliance_id": null,
+  "corporation_name": "Feuer Schwerter",
+  "alliance_name": null
+}

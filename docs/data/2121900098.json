@@ -1,0 +1,52 @@
+{
+  "character_id": 2121900098,
+  "total_losses": 34,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 284306820,
+    "name": "Asasin's",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98815771,
+    "alliance_id": null,
+    "corporation_name": "Celestial Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 284306820,
+      "name": "Asasin's",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90517294,
+      "name": "J A Aloysiusz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94921870,
+      "name": "Sid Matthews",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 235695799,
+      "name": "Agent 004",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1045147051,
+      "name": "Angel75",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tokiko Gamma",
+  "corporation_id": 98530802,
+  "alliance_id": 99003581,
+  "corporation_name": "Glory Navy",
+  "alliance_name": "Fraternity."
+}

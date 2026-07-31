@@ -1,0 +1,52 @@
+{
+  "character_id": 2123353117,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 92860580,
+    "name": "MAXOP WINTER",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98696536,
+    "alliance_id": null,
+    "corporation_name": "TRX 26cm mens corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92860580,
+      "name": "MAXOP WINTER",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91517843,
+      "name": "Sam Chadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95249134,
+      "name": "Ellie Scylax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 679815158,
+      "name": "Wasp 223",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 807750123,
+      "name": "Bronwolff LeCroix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Callidus Rage",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

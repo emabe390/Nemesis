@@ -1,0 +1,52 @@
+{
+  "character_id": 2123591129,
+  "total_losses": 20,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2120560723,
+    "name": "Una chica",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98614860,
+    "alliance_id": null,
+    "corporation_name": "Un grupo de chicas",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120560723,
+      "name": "Una chica",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112083797,
+      "name": "Bocatadeatun Aljomar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mavila Nolen",
+  "corporation_id": 98803643,
+  "alliance_id": 99014167,
+  "corporation_name": "XANAX Withdrawal Corp.",
+  "alliance_name": "XANAX Withdrawal Corp. Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124357897,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tax Evasionman",
+  "corporation_id": 98833863,
+  "alliance_id": null,
+  "corporation_name": "Black Templars of Eden",
+  "alliance_name": null
+}

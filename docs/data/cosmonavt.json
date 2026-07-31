@@ -1,0 +1,40 @@
+{
+  "character_id": 910254793,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94294442,
+    "name": "Sqn Malukker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783029,
+    "alliance_id": null,
+    "corporation_name": "Rabbit of Caerbannogg",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94294442,
+      "name": "Sqn Malukker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92968871,
+      "name": "Pandora Kalante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120576722,
+      "name": "Bergof",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cosmonavt",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

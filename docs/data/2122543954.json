@@ -1,0 +1,52 @@
+{
+  "character_id": 2122543954,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2119264479,
+    "name": "Rex Zeroni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833747,
+    "alliance_id": null,
+    "corporation_name": "Deep Interstellar Kiloparsec",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119264479,
+      "name": "Rex Zeroni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121337719,
+      "name": "Danelas Dahma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 163712725,
+      "name": "Pillan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1324246309,
+      "name": "Kapalkaa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112905183,
+      "name": "Nefthada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gankprone Tom",
+  "corporation_id": 98762184,
+  "alliance_id": 99009324,
+  "corporation_name": "J-Space Preservation Society",
+  "alliance_name": "Wardec Mechanics"
+}

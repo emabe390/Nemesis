@@ -1,0 +1,40 @@
+{
+  "character_id": 2123828044,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1904987094,
+      "name": "dezigan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118930038,
+      "name": "Grivennik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark Necromant",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

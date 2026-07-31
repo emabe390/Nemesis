@@ -1,0 +1,52 @@
+{
+  "character_id": 2123089857,
+  "total_losses": 20,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2119909715,
+    "name": "fort G U",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98807451,
+    "alliance_id": 99009163,
+    "corporation_name": "Night Garden",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2119909715,
+      "name": "fort G U",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 659627617,
+      "name": "Ryu Chaos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114433099,
+      "name": "Character 2114433099",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119121829,
+      "name": "Lize Helesta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121238729,
+      "name": "Skord Blorpho",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "FORP GU",
+  "corporation_id": 98807451,
+  "alliance_id": 99009163,
+  "corporation_name": "Night Garden",
+  "alliance_name": "Dracarys."
+}

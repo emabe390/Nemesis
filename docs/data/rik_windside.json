@@ -1,0 +1,52 @@
+{
+  "character_id": 2123144063,
+  "total_losses": 40,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 2123449719,
+    "name": "Stealthy Snowfox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755360,
+    "alliance_id": 99010468,
+    "corporation_name": "Black Rose Inc.",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 2123449719,
+      "name": "Stealthy Snowfox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90133156,
+      "name": "Feline Corelli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90369376,
+      "name": "Aline Durcet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90564066,
+      "name": "Lintilla Allitnil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90694902,
+      "name": "Arthie Madullier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rik Windside",
+  "corporation_id": 98790508,
+  "alliance_id": 99014050,
+  "corporation_name": "Moonlight Mouse Hole",
+  "alliance_name": "Lunar Luminescence"
+}

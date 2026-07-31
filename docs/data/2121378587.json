@@ -1,0 +1,52 @@
+{
+  "character_id": 2121378587,
+  "total_losses": 62,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 90699595,
+    "name": "Tyrell Jackson",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98475591,
+    "alliance_id": 99009927,
+    "corporation_name": "Integritas",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 90699595,
+      "name": "Tyrell Jackson",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91757554,
+      "name": "Doctor Barmental",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92876326,
+      "name": "Greg Deminion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 778559076,
+      "name": "Bloom Field",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1479191168,
+      "name": "Starien Weiss",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sith Amane",
+  "corporation_id": 98748854,
+  "alliance_id": 99007887,
+  "corporation_name": "Casa De Coppola",
+  "alliance_name": "Brotherhood of Spacers"
+}

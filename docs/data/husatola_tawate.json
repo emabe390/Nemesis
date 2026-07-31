@@ -1,0 +1,34 @@
+{
+  "character_id": 2124456395,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119512062,
+    "name": "Cassilda Chambers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98242799,
+    "alliance_id": 99008816,
+    "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2119512062,
+      "name": "Cassilda Chambers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96980839,
+      "name": "Xiao Five2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Husatola Tawate",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

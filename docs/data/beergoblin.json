@@ -1,0 +1,40 @@
+{
+  "character_id": 1889947968,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1313290727,
+    "name": "Nerclid",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 507020344,
+    "alliance_id": null,
+    "corporation_name": "F.R.E.E. Explorer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1313290727,
+      "name": "Nerclid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115436045,
+      "name": "Gavin Petrie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123956312,
+      "name": "Kaden Hanoma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BeerGoblin",
+  "corporation_id": 98120479,
+  "alliance_id": null,
+  "corporation_name": "BLOMI",
+  "alliance_name": null
+}

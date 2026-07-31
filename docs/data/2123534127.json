@@ -1,0 +1,52 @@
+{
+  "character_id": 2123534127,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 90423407,
+    "name": "Dragon QxReyho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 90423407,
+      "name": "Dragon QxReyho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118648533,
+      "name": "Soura Ichosira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92742748,
+      "name": "Leah Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93860351,
+      "name": "Fantasia El",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94108642,
+      "name": "Bourne Xavier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sybot",
+  "corporation_id": 98805195,
+  "alliance_id": null,
+  "corporation_name": "Lightyears Apart",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1106132102,
+  "total_losses": 49,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 2120174155,
+    "name": "Liora Light",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120174155,
+      "name": "Liora Light",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123970309,
+      "name": "Chango Mullymon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dreamlane",
+  "corporation_id": 98559450,
+  "alliance_id": 99003214,
+  "corporation_name": "DanJev United",
+  "alliance_name": "Brave Collective"
+}

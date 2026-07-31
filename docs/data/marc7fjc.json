@@ -1,0 +1,40 @@
+{
+  "character_id": 730334395,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120860770,
+      "name": "ImPickle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MARC7FJC",
+  "corporation_id": 98672881,
+  "alliance_id": null,
+  "corporation_name": "Warden Industry Corporation",
+  "alliance_name": null
+}

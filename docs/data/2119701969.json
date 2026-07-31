@@ -1,0 +1,52 @@
+{
+  "character_id": 2119701969,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 786787363,
+    "name": "Dodgy Bob",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 786787363,
+      "name": "Dodgy Bob",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113406412,
+      "name": "Cacique Yuhasz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116037676,
+      "name": "Grola 'bomber' Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119945140,
+      "name": "Tarsisk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SMSgt Zoe Washburne",
+  "corporation_id": 98477766,
+  "alliance_id": 99005338,
+  "corporation_name": "Horde Vanguard.",
+  "alliance_name": "Pandemic Horde"
+}

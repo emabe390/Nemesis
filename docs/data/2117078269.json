@@ -1,0 +1,52 @@
+{
+  "character_id": 2117078269,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112654920,
+    "name": "Mirra Faith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112654920,
+      "name": "Mirra Faith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91982218,
+      "name": "Vasquez Ovilo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92247361,
+      "name": "Vesperi Kobra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 713029960,
+      "name": "Admiral Traun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 847112579,
+      "name": "Borderjumper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Empress D101",
+  "corporation_id": 98176563,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rekium",
+  "alliance_name": "Goonswarm Federation"
+}

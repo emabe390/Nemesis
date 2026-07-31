@@ -1,0 +1,52 @@
+{
+  "character_id": 2122545492,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 714098202,
+      "name": "Raznarok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Koshanala Virpio",
+  "corporation_id": 98192171,
+  "alliance_id": 99013842,
+  "corporation_name": "Whale Girth",
+  "alliance_name": "Touched by the Tism"
+}

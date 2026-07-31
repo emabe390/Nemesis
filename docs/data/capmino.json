@@ -1,0 +1,52 @@
+{
+  "character_id": 2123525807,
+  "total_losses": 256,
+  "unique_killers": 204,
+  "nemesis": {
+    "id": 90656762,
+    "name": "Jam Tanto",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 90656762,
+      "name": "Jam Tanto",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2121966515,
+      "name": "Astaroth130",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91586742,
+      "name": "Lynx Claw",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "CapMino",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

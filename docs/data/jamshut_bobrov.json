@@ -1,0 +1,52 @@
+{
+  "character_id": 2115685170,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2120321488,
+    "name": "Alexeus Star",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98462540,
+    "alliance_id": 1900696668,
+    "corporation_name": "DERUS ORDER",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2120321488,
+      "name": "Alexeus Star",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91737552,
+      "name": "Andy Thor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93767075,
+      "name": "Bashi Belvar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95790823,
+      "name": "Thomas Nexas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jamshut Bobrov",
+  "corporation_id": 98815613,
+  "alliance_id": null,
+  "corporation_name": "Fellowship of the KEDR",
+  "alliance_name": null
+}

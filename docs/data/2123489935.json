@@ -1,0 +1,28 @@
+{
+  "character_id": 2123489935,
+  "total_losses": 5,
+  "unique_killers": 1,
+  "nemesis": {
+    "id": 2123689801,
+    "name": "Oki Kai",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98799265,
+    "alliance_id": 99012444,
+    "corporation_name": "Say no to taxman",
+    "alliance_name": "Order Collective Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123689801,
+      "name": "Oki Kai",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Tina Kosik",
+  "corporation_id": 98799265,
+  "alliance_id": null,
+  "corporation_name": "Say no to taxman",
+  "alliance_name": null
+}

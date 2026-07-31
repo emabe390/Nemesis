@@ -1,0 +1,52 @@
+{
+  "character_id": 2123784604,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 90064412,
+    "name": "Mara Faleemtuk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98287486,
+    "alliance_id": null,
+    "corporation_name": "Improvised Spaceship Demolition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90064412,
+      "name": "Mara Faleemtuk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113466514,
+      "name": "Nalani Firestone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122415466,
+      "name": "LordKam Alpha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 761270465,
+      "name": "Raphyon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1423548589,
+      "name": "Hudson Gustav",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tree of Ent",
+  "corporation_id": 98054920,
+  "alliance_id": 99009412,
+  "corporation_name": "Sector IX",
+  "alliance_name": "Outer Planets Association"
+}

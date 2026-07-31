@@ -1,0 +1,40 @@
+{
+  "character_id": 2122049946,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 901320273,
+    "name": "Rahmiro",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 901320273,
+      "name": "Rahmiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1181754335,
+      "name": "Aranochh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116127285,
+      "name": "Kaluth Plaude",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Will Audelas",
+  "corporation_id": 98530982,
+  "alliance_id": 99013551,
+  "corporation_name": "Solarmark",
+  "alliance_name": "Stellarium Alliance"
+}

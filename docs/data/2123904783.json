@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904783,
+  "total_losses": 18,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123669688,
+    "name": "Kain Ireul",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98406814,
+    "alliance_id": 99012398,
+    "corporation_name": "Victory or Whatever",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 2123669688,
+      "name": "Kain Ireul",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 92156088,
+      "name": "Raikia Nardieu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1045499371,
+      "name": "RGC Godfather",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117484027,
+      "name": "Psedillas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Brochacho Rex",
+  "corporation_id": 98833496,
+  "alliance_id": null,
+  "corporation_name": "The Brocean",
+  "alliance_name": null
+}

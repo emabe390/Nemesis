@@ -1,0 +1,40 @@
+{
+  "character_id": 2123456749,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 137705723,
+    "name": "Balthazarra",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98644898,
+    "alliance_id": 99003699,
+    "corporation_name": "Guardians Incorporated",
+    "alliance_name": "Cynosural Field Theory."
+  },
+  "top_killers": [
+    {
+      "id": 137705723,
+      "name": "Balthazarra",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124201063,
+      "name": "KFCone",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Blink Observer 1",
+  "corporation_id": 98781311,
+  "alliance_id": 99014187,
+  "corporation_name": "Dawn's LightP",
+  "alliance_name": "Dawn's Light"
+}

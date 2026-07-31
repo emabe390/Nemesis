@@ -1,0 +1,40 @@
+{
+  "character_id": 2123600840,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123359783,
+    "name": "NickyTricky",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98753510,
+    "alliance_id": 99010569,
+    "corporation_name": "Servant Sisters of GRIEF",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 2123359783,
+      "name": "NickyTricky",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122462807,
+      "name": "Voiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112927506,
+      "name": "Commander Stella Fairchild",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nocram",
+  "corporation_id": 98807040,
+  "alliance_id": 99012722,
+  "corporation_name": "New Mining Corporation",
+  "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
+}

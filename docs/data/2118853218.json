@@ -1,0 +1,40 @@
+{
+  "character_id": 2118853218,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112082674,
+    "name": "Lektro Illuminate",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1169891682,
+    "alliance_id": 1988009451,
+    "corporation_name": "Caldari Independent Navy Reserve",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2112082674,
+      "name": "Lektro Illuminate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90435486,
+      "name": "Ritt Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123040238,
+      "name": "Combatus wombatus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jaqq Daenils",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

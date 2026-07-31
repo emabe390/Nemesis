@@ -1,0 +1,34 @@
+{
+  "character_id": 96493743,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120279812,
+    "name": "Raphael Tempest",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98725696,
+    "alliance_id": 99010079,
+    "corporation_name": "Jura Tempest Federation Nullsec Outreach",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 2120279812,
+      "name": "Raphael Tempest",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115946331,
+      "name": "Enter Mid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Terrance Blackbeard",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

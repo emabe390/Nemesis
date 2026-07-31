@@ -1,0 +1,52 @@
+{
+  "character_id": 2123920132,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2051916136,
+    "name": "mellifera",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98077648,
+    "alliance_id": 99014878,
+    "corporation_name": "Island Assault Force",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2051916136,
+      "name": "mellifera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90064412,
+      "name": "Mara Faleemtuk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 647361337,
+      "name": "Criminal Riksta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121256501,
+      "name": "Lowseed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122951398,
+      "name": "Balpheus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arhelaos",
+  "corporation_id": 98746727,
+  "alliance_id": 99008905,
+  "corporation_name": "Lone Wolves Mining",
+  "alliance_name": "EZ. Street"
+}

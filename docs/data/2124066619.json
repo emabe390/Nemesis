@@ -1,0 +1,40 @@
+{
+  "character_id": 2124066619,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96045797,
+    "name": "Dmitri Petroyovik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96045797,
+      "name": "Dmitri Petroyovik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121117469,
+      "name": "Kel'thiras Handir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Market Cuban",
+  "corporation_id": 98652516,
+  "alliance_id": 99014726,
+  "corporation_name": "Terminus Technologies Inc.",
+  "alliance_name": "Terminally Inept Traders and Scanners"
+}

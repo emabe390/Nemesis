@@ -1,0 +1,40 @@
+{
+  "character_id": 2124160032,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91809357,
+    "name": "Abraham Solis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98534496,
+    "alliance_id": 99009991,
+    "corporation_name": "Boondocks Industrial",
+    "alliance_name": "Intaki-Business Logistics Union"
+  },
+  "top_killers": [
+    {
+      "id": 91809357,
+      "name": "Abraham Solis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93200191,
+      "name": "Zeus Austin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120440129,
+      "name": "Prometheus Austin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Megabit1",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

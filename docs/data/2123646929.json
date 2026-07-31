@@ -1,0 +1,52 @@
+{
+  "character_id": 2123646929,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120894096,
+    "name": "Ash Torp",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120894096,
+      "name": "Ash Torp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96331068,
+      "name": "Raze Shadows Shadows",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116416154,
+      "name": "The last EVE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118019744,
+      "name": "K X Ind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119029627,
+      "name": "Sirtoh Omo Purvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hostile-Dreads-On-Field",
+  "corporation_id": 98835672,
+  "alliance_id": 99010468,
+  "corporation_name": "Can't park there m8",
+  "alliance_name": "Weapons Of Mass Production."
+}

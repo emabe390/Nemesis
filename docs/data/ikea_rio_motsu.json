@@ -1,0 +1,40 @@
+{
+  "character_id": 2121069085,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1566547047,
+    "name": "Pah'Tain",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98408349,
+    "alliance_id": 99005034,
+    "corporation_name": "Heralds of Darkness",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 1566547047,
+      "name": "Pah'Tain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123959122,
+      "name": "vector-F",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ikea Rio Motsu",
+  "corporation_id": 98687745,
+  "alliance_id": null,
+  "corporation_name": "Free Mining Alliance",
+  "alliance_name": null
+}

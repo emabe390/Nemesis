@@ -1,0 +1,52 @@
+{
+  "character_id": 90292760,
+  "total_losses": 62,
+  "unique_killers": 52,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 4,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 475500356,
+      "name": "Icuwarrior",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 569183267,
+      "name": "Hwi Kante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 869280317,
+      "name": "True Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SilentMajority",
+  "corporation_id": 1091440439,
+  "alliance_id": 498125261,
+  "corporation_name": "AlcoDOTTE",
+  "alliance_name": "Test Alliance Please Ignore"
+}

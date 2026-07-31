@@ -1,0 +1,52 @@
+{
+  "character_id": 2123104275,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121337719,
+    "name": "Danelas Dahma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747372,
+    "alliance_id": 99013766,
+    "corporation_name": "Regrediens",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121337719,
+      "name": "Danelas Dahma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95154290,
+      "name": "Potter Cohen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 649500207,
+      "name": "Ofen Ror",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113866750,
+      "name": "Colonel Catpetter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dubra Yeh Tzash",
+  "corporation_id": 98783859,
+  "alliance_id": 99013216,
+  "corporation_name": "Eve Academy Corporation",
+  "alliance_name": "Nomad Alliance"
+}

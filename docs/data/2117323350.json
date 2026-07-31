@@ -1,0 +1,52 @@
+{
+  "character_id": 2117323350,
+  "total_losses": 82,
+  "unique_killers": 69,
+  "nemesis": {
+    "id": 249626851,
+    "name": "zx896",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98302513,
+    "alliance_id": null,
+    "corporation_name": "zx incorporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 249626851,
+      "name": "zx896",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91162180,
+      "name": "Detective W",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92866950,
+      "name": "Nesushka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94843529,
+      "name": "Fenrir Nordson",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "RedCorsair",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

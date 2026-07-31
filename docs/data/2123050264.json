@@ -1,0 +1,52 @@
+{
+  "character_id": 2123050264,
+  "total_losses": 31,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123106473,
+    "name": "Vaneliae",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98814441,
+    "alliance_id": 498125261,
+    "corporation_name": "Infinite Directive",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2123106473,
+      "name": "Vaneliae",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92042393,
+      "name": "Creepy Ambramotte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 842169503,
+      "name": "Myz Toyou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116953217,
+      "name": "Ogin Helugo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116988639,
+      "name": "Babbl",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ozirakko Keikira",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

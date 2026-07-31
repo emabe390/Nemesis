@@ -1,0 +1,52 @@
+{
+  "character_id": 2123803036,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113311183,
+    "name": "Tore Katt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92561675,
+      "name": "Xanderfall Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92983913,
+      "name": "Fegpawn Kaundur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116941046,
+      "name": "Ermintrude Viliana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "secondLifeman",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

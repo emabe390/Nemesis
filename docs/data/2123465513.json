@@ -1,0 +1,52 @@
+{
+  "character_id": 2123465513,
+  "total_losses": 35,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 90117368,
+    "name": "Evezer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90117368,
+      "name": "Evezer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1808729611,
+      "name": "Harvey Skywarker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91050191,
+      "name": "Sol Weintroub",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91225146,
+      "name": "Marcel Chelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91439663,
+      "name": "Ognak Belvar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "stoneybreaker",
+  "corporation_id": 98618881,
+  "alliance_id": 99013537,
+  "corporation_name": "Ni Industries",
+  "alliance_name": "Insidious."
+}

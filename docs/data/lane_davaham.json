@@ -1,0 +1,52 @@
+{
+  "character_id": 2115137981,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121088350,
+    "name": "New York Taxi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98473459,
+    "alliance_id": 99014617,
+    "corporation_name": "Lethal Devotion",
+    "alliance_name": "D E L I R I U M"
+  },
+  "top_killers": [
+    {
+      "id": 2121088350,
+      "name": "New York Taxi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90688996,
+      "name": "Erev Garo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 674268403,
+      "name": "Siriyana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061643970,
+      "name": "Nishai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116394639,
+      "name": "Praud Jovakko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lane Davaham",
+  "corporation_id": 98681463,
+  "alliance_id": 99009843,
+  "corporation_name": "Chroma Corp",
+  "alliance_name": "Prismatic Legion"
+}

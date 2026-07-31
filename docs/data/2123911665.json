@@ -1,0 +1,34 @@
+{
+  "character_id": 2123911665,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121434332,
+    "name": "Carkas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98745656,
+    "alliance_id": null,
+    "corporation_name": "shtangentsirkul",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1399211800,
+      "name": "Braygo Khallazar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jalu Acami",
+  "corporation_id": 98818355,
+  "alliance_id": 99013766,
+  "corporation_name": "Capys Legion",
+  "alliance_name": "Death Legion of Capybaras"
+}

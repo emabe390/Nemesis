@@ -1,0 +1,40 @@
+{
+  "character_id": 2123164032,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 453960416,
+    "name": "Parkuras",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98428318,
+    "alliance_id": 99014747,
+    "corporation_name": "Best Kept Dunked",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 453960416,
+      "name": "Parkuras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116932625,
+      "name": "Kas Vortex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122330794,
+      "name": "Zealot Makkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Urpa Yaken",
+  "corporation_id": 98770719,
+  "alliance_id": 99010882,
+  "corporation_name": "Just Another Pointless Corporation",
+  "alliance_name": "Nasty Watcher Group"
+}

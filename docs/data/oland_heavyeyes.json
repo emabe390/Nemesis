@@ -1,0 +1,40 @@
+{
+  "character_id": 2122686816,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121682491,
+    "name": "Gizikk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98607248,
+    "alliance_id": 1220922756,
+    "corporation_name": "King Crab Party",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121682491,
+      "name": "Gizikk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92033685,
+      "name": "NoLogos Zaminous",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1005712057,
+      "name": "Tarcq",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oland Heavyeyes",
+  "corporation_id": 98794061,
+  "alliance_id": null,
+  "corporation_name": "Second-Order Simulacra",
+  "alliance_name": null
+}

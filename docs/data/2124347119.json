@@ -1,0 +1,40 @@
+{
+  "character_id": 2124347119,
+  "total_losses": 14,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122798224,
+    "name": "Iron Chumbo",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98834811,
+    "alliance_id": null,
+    "corporation_name": "Seventeen Black",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122798224,
+      "name": "Iron Chumbo",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 148089518,
+      "name": "Zonnor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122789976,
+      "name": "Drazhar Jain Zar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iron Eve II",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

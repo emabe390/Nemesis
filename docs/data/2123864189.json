@@ -1,0 +1,40 @@
+{
+  "character_id": 2123864189,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117811835,
+    "name": "Salvio",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98729384,
+    "alliance_id": 99014826,
+    "corporation_name": "DACEU",
+    "alliance_name": "Pirate Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119837206,
+      "name": "Abusexl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120245520,
+      "name": "UnixV",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sullen'1",
+  "corporation_id": 98818679,
+  "alliance_id": null,
+  "corporation_name": "Aerotyne Interstellar Corporation GMBH",
+  "alliance_name": null
+}

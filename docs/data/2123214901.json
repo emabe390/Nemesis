@@ -1,0 +1,52 @@
+{
+  "character_id": 2123214901,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117903184,
+      "name": "Mandalorian Fett",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 805804420,
+      "name": "Yuki Li",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121846839,
+      "name": "Mir Vsem Nam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boring Hippo",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

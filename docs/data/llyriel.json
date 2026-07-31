@@ -1,0 +1,40 @@
+{
+  "character_id": 2123747651,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115859312,
+    "name": "Julian Snelders",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115859312,
+      "name": "Julian Snelders",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118486807,
+      "name": "007 Missis Bond",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Llyriel",
+  "corporation_id": 98591966,
+  "alliance_id": 99011546,
+  "corporation_name": "The Abyss Watchers",
+  "alliance_name": "The Charter"
+}

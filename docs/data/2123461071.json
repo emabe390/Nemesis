@@ -1,0 +1,52 @@
+{
+  "character_id": 2123461071,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2121286942,
+    "name": "MysteriousSkars",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 2121286942,
+      "name": "MysteriousSkars",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93045147,
+      "name": "Zeke Zamomin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93393353,
+      "name": "Purple Cheech",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94350997,
+      "name": "Nesser Bee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 517083806,
+      "name": "Shimmora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tris Isberg",
+  "corporation_id": 98419517,
+  "alliance_id": 99014081,
+  "corporation_name": "Weasels in the Rabbithole",
+  "alliance_name": "Synergy of Support"
+}

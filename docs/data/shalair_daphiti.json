@@ -1,0 +1,52 @@
+{
+  "character_id": 2123756111,
+  "total_losses": 14,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91560847,
+    "name": "Magna Magnum",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98628063,
+    "alliance_id": 99012982,
+    "corporation_name": "Heavily Redacted",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 91560847,
+      "name": "Magna Magnum",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93853518,
+      "name": "Azon Ohaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115749558,
+      "name": "Vitaliy Zhitnik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117653913,
+      "name": "greenyknight",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Shalair Daphiti",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

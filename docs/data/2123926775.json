@@ -1,0 +1,40 @@
+{
+  "character_id": 2123926775,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 924610593,
+    "name": "Sicks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1262577328,
+    "alliance_id": 99006975,
+    "corporation_name": "Doom Generation",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charlie Robb",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

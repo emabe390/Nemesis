@@ -1,0 +1,52 @@
+{
+  "character_id": 500940012,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 90986358,
+    "name": "Character 90986358",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790208,
+    "alliance_id": null,
+    "corporation_name": "Crystal Clearwater H2O",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90986358,
+      "name": "Character 90986358",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95973782,
+      "name": "Ajunta Semah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96243221,
+      "name": "am justa normalguy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cordova",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124247661,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119073900,
+    "name": "Character 2119073900",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2042491468,
+    "alliance_id": 99012702,
+    "corporation_name": "Inevitable Outcome",
+    "alliance_name": "E.C.H.O"
+  },
+  "top_killers": [
+    {
+      "id": 2119073900,
+      "name": "Character 2119073900",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123492403,
+      "name": "Lyudmila Ilyinichna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123554168,
+      "name": "Weltennascher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gerda vonBich",
+  "corporation_id": 98716579,
+  "alliance_id": 99014081,
+  "corporation_name": "Marauders Shadow",
+  "alliance_name": "Synergy of Support"
+}

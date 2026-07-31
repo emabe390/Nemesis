@@ -1,0 +1,52 @@
+{
+  "character_id": 2123200482,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123200458,
+    "name": "Blue and Star",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123200458,
+      "name": "Blue and Star",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2116726862,
+      "name": "mover keeper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122551306,
+      "name": "Yun1031",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123200505,
+      "name": "Blue-and Star",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blue-and-Star",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 90018706,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117013481,
+      "name": "Ivanthebad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122655013,
+      "name": "Meanbob",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anton Cross",
+  "corporation_id": 98748854,
+  "alliance_id": 99007887,
+  "corporation_name": "Casa De Coppola",
+  "alliance_name": "Brotherhood of Spacers"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123565790,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 950325390,
+    "name": "William Hart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758422,
+    "alliance_id": 99014284,
+    "corporation_name": "Consultancy",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 950325390,
+      "name": "William Hart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93460084,
+      "name": "Zane Dempsey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95872464,
+      "name": "Lukas Van Eind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95929950,
+      "name": "Cyber Tsepesh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hollow Silent",
+  "corporation_id": 98795823,
+  "alliance_id": null,
+  "corporation_name": "THE Keyboard COMMANDOS",
+  "alliance_name": null
+}

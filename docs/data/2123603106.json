@@ -1,0 +1,52 @@
+{
+  "character_id": 2123603106,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112348119,
+      "name": "GIMA ACOLYTE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116988196,
+      "name": "Zombi 2020",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123313744,
+      "name": "Smash Haymaker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123622706,
+      "name": "Yokoni Otomeya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "astrlmm",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

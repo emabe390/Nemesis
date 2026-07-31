@@ -1,0 +1,40 @@
+{
+  "character_id": 2124433338,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1548392405,
+    "name": "Lupus Lupus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1541365482,
+    "alliance_id": null,
+    "corporation_name": "Nosferatu Security Foundation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1548392405,
+      "name": "Lupus Lupus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113844966,
+      "name": "Maximum Boner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 570880456,
+      "name": "HighSeeress Arnarra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Theo Toussaint",
+  "corporation_id": 98835273,
+  "alliance_id": null,
+  "corporation_name": "New Horizons Mining and Industry",
+  "alliance_name": null
+}

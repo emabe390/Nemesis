@@ -1,0 +1,52 @@
+{
+  "character_id": 2123996557,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96504102,
+    "name": "steels Hakaari",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98540851,
+    "alliance_id": null,
+    "corporation_name": "White Hunter Black Heart",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96504102,
+      "name": "steels Hakaari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95141738,
+      "name": "Nyder Peregrine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96404200,
+      "name": "Petal Bee Blossom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96404902,
+      "name": "Grom Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114712312,
+      "name": "Smidders Udan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morrgen Runman",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

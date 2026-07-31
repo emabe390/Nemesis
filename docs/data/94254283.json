@@ -1,0 +1,52 @@
+{
+  "character_id": 94254283,
+  "total_losses": 26,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 96609103,
+    "name": "Nix Wittro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98567606,
+    "alliance_id": null,
+    "corporation_name": "Goryn Clade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96609103,
+      "name": "Nix Wittro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 319042283,
+      "name": "Piolp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122980304,
+      "name": "Sullen Brom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92361974,
+      "name": "Dima Volenkov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 94254283",
+  "corporation_id": 98529818,
+  "alliance_id": 99014301,
+  "corporation_name": "CreepShow Company",
+  "alliance_name": "Creep.Show"
+}

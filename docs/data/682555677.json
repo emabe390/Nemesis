@@ -1,0 +1,52 @@
+{
+  "character_id": 682555677,
+  "total_losses": 143,
+  "unique_killers": 123,
+  "nemesis": {
+    "id": 91906929,
+    "name": "Rukia Hamazu",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98192155,
+    "alliance_id": null,
+    "corporation_name": "Zeeman Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93284493,
+      "name": "EvE Janes",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95004823,
+      "name": "Rahkesh Harshmallows",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95987816,
+      "name": "Lash Wolfram",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Daemon Lucifus",
+  "corporation_id": 98811299,
+  "alliance_id": 99001969,
+  "corporation_name": "Raised By Boars",
+  "alliance_name": "SONS of BANE"
+}

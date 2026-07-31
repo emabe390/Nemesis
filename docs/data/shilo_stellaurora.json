@@ -1,0 +1,40 @@
+{
+  "character_id": 2123148393,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96969021,
+    "name": "Evan Kozak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 96969021,
+      "name": "Evan Kozak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122032390,
+      "name": "Cora Cain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shilo Stellaurora",
+  "corporation_id": 98795902,
+  "alliance_id": null,
+  "corporation_name": "Alpha and Omega Saugus Rojus",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123032288,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2118861906,
+    "name": "Sigma Siguri",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776729,
+    "alliance_id": 99013390,
+    "corporation_name": "Tidal Lock",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2118861906,
+      "name": "Sigma Siguri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122523296,
+      "name": "Goldennutsss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123102643,
+      "name": "Daint Actault",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92200254,
+      "name": "Chew Two",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92752958,
+      "name": "Dissection Bloodred",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Curtis Miller",
+  "corporation_id": 98045653,
+  "alliance_id": null,
+  "corporation_name": "The Riot Formation",
+  "alliance_name": null
+}

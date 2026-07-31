@@ -1,0 +1,40 @@
+{
+  "character_id": 2123490172,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123468178,
+    "name": "Lysandra Langryn",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98827193,
+    "alliance_id": null,
+    "corporation_name": "House Norwynn",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123468178,
+      "name": "Lysandra Langryn",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123355011,
+      "name": "Morningstar F6F",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92385566,
+      "name": "Lucien Letoile",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yuu Yevon",
+  "corporation_id": 98827193,
+  "alliance_id": null,
+  "corporation_name": "House Norwynn",
+  "alliance_name": null
+}

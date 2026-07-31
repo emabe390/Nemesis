@@ -1,0 +1,52 @@
+{
+  "character_id": 94390769,
+  "total_losses": 103,
+  "unique_killers": 80,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 92971548,
+      "name": "Age Deka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93677704,
+      "name": "Bart Ottig",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96823715,
+      "name": "Bon Shardani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105360523,
+      "name": "Muraghnar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Wheeee Bastard",
+  "corporation_id": 693378155,
+  "alliance_id": 498125261,
+  "corporation_name": "Unholy Knights of Cthulhu",
+  "alliance_name": "Test Alliance Please Ignore"
+}

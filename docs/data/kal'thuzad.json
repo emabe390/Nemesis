@@ -1,0 +1,52 @@
+{
+  "character_id": 1282863489,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 355356547,
+    "name": "Big Trey",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 355356547,
+      "name": "Big Trey",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94526702,
+      "name": "Seven0f Nine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1632018508,
+      "name": "Kosipol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1830379766,
+      "name": "Tokaero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kal'Thuzad",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

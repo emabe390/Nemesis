@@ -1,0 +1,40 @@
+{
+  "character_id": 2123993708,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 830785119,
+    "name": "Character 830785119",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98764904,
+    "alliance_id": null,
+    "corporation_name": "Fierce Guardians",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 830785119,
+      "name": "Character 830785119",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114498069,
+      "name": "Nasbashov Ibruin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115587600,
+      "name": "Hans Ludemann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Two collors",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

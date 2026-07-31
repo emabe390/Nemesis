@@ -1,0 +1,52 @@
+{
+  "character_id": 2122995636,
+  "total_losses": 19,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123122990,
+    "name": "Val Sol",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98829463,
+    "alliance_id": null,
+    "corporation_name": "Iwamura Mineral Group",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123122990,
+      "name": "Val Sol",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1674416072,
+      "name": "Pasteboard Hero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93935868,
+      "name": "Priyananu Armer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94396413,
+      "name": "Ganolen Morningwood",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seinul",
+  "corporation_id": 98829463,
+  "alliance_id": null,
+  "corporation_name": "Iwamura Mineral Group",
+  "alliance_name": null
+}

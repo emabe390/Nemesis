@@ -1,0 +1,40 @@
+{
+  "character_id": 2119783634,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 519258929,
+    "name": "kim'dong",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98737423,
+    "alliance_id": 99012941,
+    "corporation_name": "Anomalous Empire",
+    "alliance_name": "Transmission Lost"
+  },
+  "top_killers": [
+    {
+      "id": 519258929,
+      "name": "kim'dong",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1198457584,
+      "name": "Creeonix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jakob der Reiche",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

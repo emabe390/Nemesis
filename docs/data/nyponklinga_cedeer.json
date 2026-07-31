@@ -1,0 +1,52 @@
+{
+  "character_id": 2112912926,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2115806515,
+    "name": "Diablo DeFuego",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98744946,
+    "alliance_id": null,
+    "corporation_name": "True Survivors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115806515,
+      "name": "Diablo DeFuego",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90614014,
+      "name": "Jack Times",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 449592077,
+      "name": "Relentlis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122745696,
+      "name": "Splenic fever",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 494193539,
+      "name": "Character 494193539",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nyponklinga Cedeer",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

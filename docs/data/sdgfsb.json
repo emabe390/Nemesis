@@ -1,0 +1,52 @@
+{
+  "character_id": 2123216975,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 830867348,
+    "name": "Cyrise",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1956739507,
+      "name": "Draimin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90498276,
+      "name": "Gemini TheOne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93212713,
+      "name": "Oh hi Denny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113089640,
+      "name": "Lambert NirvanaY",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SDGFSB",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

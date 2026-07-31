@@ -1,0 +1,34 @@
+{
+  "character_id": 2123859407,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1735756654,
+    "name": "Dub Pistols",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1735756654,
+      "name": "Dub Pistols",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vanlend",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

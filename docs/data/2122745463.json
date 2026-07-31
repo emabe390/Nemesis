@@ -1,0 +1,52 @@
+{
+  "character_id": 2122745463,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1743905749,
+    "name": "EF Gamma",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122018065,
+      "name": "Drahnoel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098616,
+      "name": "Sorpas Airuta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Otto Maddick Van-Zehnder",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

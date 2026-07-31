@@ -1,0 +1,52 @@
+{
+  "character_id": 2121786707,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2051916136,
+    "name": "mellifera",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98077648,
+    "alliance_id": 99014878,
+    "corporation_name": "Island Assault Force",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2051916136,
+      "name": "mellifera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 627311583,
+      "name": "keune",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 629712509,
+      "name": "AAtlas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Flavius Scipio Belasarius",
+  "corporation_id": 98782093,
+  "alliance_id": null,
+  "corporation_name": "Whizbang Enterprises",
+  "alliance_name": null
+}

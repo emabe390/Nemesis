@@ -1,0 +1,40 @@
+{
+  "character_id": 1895962188,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93160072,
+    "name": "Vinta Bayle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98201246,
+    "alliance_id": 917526329,
+    "corporation_name": "College of Winterhold",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 93160072,
+      "name": "Vinta Bayle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112413465,
+      "name": "Sapco Trade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123212211,
+      "name": "Rmhn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omen task",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121709403,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120027296,
+    "name": "Enara Sharisa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2120027296,
+      "name": "Enara Sharisa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121016479,
+      "name": "Peter-Deng",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751928,
+      "name": "DuctTape Diplomat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bener Ramme Fonulique",
+  "corporation_id": 98632030,
+  "alliance_id": 99003581,
+  "corporation_name": "Red Scarf Humpback",
+  "alliance_name": "Fraternity."
+}

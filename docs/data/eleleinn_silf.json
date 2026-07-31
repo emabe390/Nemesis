@@ -1,0 +1,34 @@
+{
+  "character_id": 2123944400,
+  "total_losses": 15,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121694378,
+    "name": "Character 2121694378",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 94733142,
+      "name": "Yana Hendar",
+      "kill_count": 7,
+      "final_blows": 7
+    }
+  ],
+  "character_name": "Eleleinn Silf",
+  "corporation_id": 1000001,
+  "alliance_id": null,
+  "corporation_name": "Doomheim",
+  "alliance_name": null
+}

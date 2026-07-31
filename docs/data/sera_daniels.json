@@ -1,0 +1,52 @@
+{
+  "character_id": 2123408037,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120894528,
+      "name": "i Nexy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122294597,
+      "name": "Roberto Opes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95684149,
+      "name": "Drogozor Law",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 988390537,
+      "name": "Sol Xaxis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sera Daniels",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

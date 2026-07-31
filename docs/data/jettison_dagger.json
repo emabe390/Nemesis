@@ -1,0 +1,52 @@
+{
+  "character_id": 2123504106,
+  "total_losses": 55,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 1776297047,
+    "name": "GrauW",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 1776297047,
+      "name": "GrauW",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90398848,
+      "name": "MeGaVoLT Maken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91966561,
+      "name": "Caliph Alai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92626451,
+      "name": "Theo D'sal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jettison Dagger",
+  "corporation_id": 98571607,
+  "alliance_id": null,
+  "corporation_name": "G.T.U.",
+  "alliance_name": null
+}

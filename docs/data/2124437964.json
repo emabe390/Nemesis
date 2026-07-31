@@ -1,0 +1,40 @@
+{
+  "character_id": 2124437964,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114042817,
+    "name": "WilhelmDerEroberer",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114042817,
+      "name": "WilhelmDerEroberer",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2003128296,
+      "name": "Lexia Stone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kitsanen Igunen",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

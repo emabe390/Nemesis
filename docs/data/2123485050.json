@@ -1,0 +1,46 @@
+{
+  "character_id": 2123485050,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115193701,
+    "name": "Totally Bewildered",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98711324,
+    "alliance_id": null,
+    "corporation_name": "William Shatner's Rocket Men",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115193701,
+      "name": "Totally Bewildered",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118920087,
+      "name": "Ceremonial",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Patacake",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

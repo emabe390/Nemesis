@@ -1,0 +1,52 @@
+{
+  "character_id": 2123924189,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 97155806,
+    "name": "melichar agraelus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800166,
+    "alliance_id": 99011279,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 97155806,
+      "name": "melichar agraelus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123556019,
+      "name": "Aeeryk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113757248,
+      "name": "ClumsyOne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119755977,
+      "name": "Barticus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arota Inkura",
+  "corporation_id": 98812967,
+  "alliance_id": 99014556,
+  "corporation_name": "Phoenix Vanguard Republic",
+  "alliance_name": "Brotherhood of the Flame"
+}

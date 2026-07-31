@@ -1,0 +1,52 @@
+{
+  "character_id": 2116911657,
+  "total_losses": 23,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2068882210,
+    "name": "de4deye",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98183340,
+    "alliance_id": 99009845,
+    "corporation_name": "Terra Nova Innovations",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2068882210,
+      "name": "de4deye",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 993705361,
+      "name": "Naritan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90001188,
+      "name": "H3llblazer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90074430,
+      "name": "Chaddington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90228869,
+      "name": "kaskero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Commander Rust",
+  "corporation_id": 98802730,
+  "alliance_id": null,
+  "corporation_name": "Spaghetti Militia",
+  "alliance_name": null
+}

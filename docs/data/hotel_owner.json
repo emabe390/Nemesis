@@ -1,0 +1,52 @@
+{
+  "character_id": 2123906179,
+  "total_losses": 28,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 97224193,
+    "name": "Rebecca Ray",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98837244,
+    "alliance_id": null,
+    "corporation_name": "Fafnir's Eclipse",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97224193,
+      "name": "Rebecca Ray",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 96424385,
+      "name": "pel men",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94141136,
+      "name": "Denlo Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94191421,
+      "name": "Sigurd Wolfsson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hotel owner",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

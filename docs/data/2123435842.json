@@ -1,0 +1,46 @@
+{
+  "character_id": 2123435842,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 923919388,
+    "name": "Liteik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 967501471,
+    "alliance_id": 99004804,
+    "corporation_name": "SoT",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114913344,
+      "name": "Apolla Osiris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123770656,
+      "name": "Mortalica",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123708021,
+      "name": "Roger Bucky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Big Fly",
+  "corporation_id": 98567750,
+  "alliance_id": null,
+  "corporation_name": "Combined Logistics 205 Factory",
+  "alliance_name": null
+}

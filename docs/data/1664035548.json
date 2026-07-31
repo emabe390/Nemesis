@@ -1,0 +1,52 @@
+{
+  "character_id": 1664035548,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 187568404,
+      "name": "Icarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92078788,
+      "name": "Vagras Caderu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92404212,
+      "name": "Character 92404212",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Comets",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

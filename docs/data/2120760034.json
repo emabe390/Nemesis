@@ -1,0 +1,40 @@
+{
+  "character_id": 2120760034,
+  "total_losses": 20,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115337178,
+    "name": "Kirass",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98692241,
+    "alliance_id": null,
+    "corporation_name": "Wolfostan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115337178,
+      "name": "Kirass",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 1491607917,
+      "name": "Alfaksan",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2115298114,
+      "name": "Nerrilion Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inara Aki",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124524233,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 90196262,
+    "name": "Bariacs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 90196262,
+      "name": "Bariacs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96203506,
+      "name": "Stubby Nubby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118669449,
+      "name": "Elayn Wolfsblut",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122365912,
+      "name": "Ashriel Vaille",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Draconicuss",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

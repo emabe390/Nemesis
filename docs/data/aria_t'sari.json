@@ -1,0 +1,40 @@
+{
+  "character_id": 92010693,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1096990391,
+    "name": "Hensher",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1096990391,
+      "name": "Hensher",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92258649,
+      "name": "Kazumi Asayake",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aria T'Sari",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

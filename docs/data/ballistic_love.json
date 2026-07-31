@@ -1,0 +1,40 @@
+{
+  "character_id": 2124453911,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 138302040,
+    "name": "Captain Slackbladder",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 540377496,
+      "name": "Dark Drifter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ballistic Love",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

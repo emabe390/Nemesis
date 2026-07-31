@@ -1,0 +1,40 @@
+{
+  "character_id": 2123946196,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122751793,
+    "name": "Savu Xenoma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2122751793,
+      "name": "Savu Xenoma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1718289634,
+      "name": "iloo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123454731,
+      "name": "ip-man5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ayn Fei",
+  "corporation_id": 283723390,
+  "alliance_id": null,
+  "corporation_name": "Dawn's Requiem",
+  "alliance_name": null
+}

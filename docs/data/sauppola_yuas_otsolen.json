@@ -1,0 +1,52 @@
+{
+  "character_id": 2123224670,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 416127123,
+    "name": "Character 416127123",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571973,
+    "alliance_id": null,
+    "corporation_name": "One Men Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 416127123,
+      "name": "Character 416127123",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96724929,
+      "name": "Arthur Hemanseh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2037329567,
+      "name": "HardTrue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115922102,
+      "name": "sara proudmour",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sauppola Yuas Otsolen",
+  "corporation_id": 98820930,
+  "alliance_id": 99013831,
+  "corporation_name": "R.E.X.",
+  "alliance_name": "Sleeper Protocol"
+}

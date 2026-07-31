@@ -1,0 +1,40 @@
+{
+  "character_id": 2124096925,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122697831,
+    "name": "Joey zergling",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98801741,
+    "alliance_id": 99014391,
+    "corporation_name": "When to Run Where to Hide",
+    "alliance_name": "Howitzers and Champagne"
+  },
+  "top_killers": [
+    {
+      "id": 2122697831,
+      "name": "Joey zergling",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122714755,
+      "name": "Allone Lemmont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124168499,
+      "name": "Lol Mivalu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kim' Wexler",
+  "corporation_id": 98800613,
+  "alliance_id": null,
+  "corporation_name": "Emperor Scythes Academy",
+  "alliance_name": null
+}

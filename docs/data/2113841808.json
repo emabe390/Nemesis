@@ -1,0 +1,52 @@
+{
+  "character_id": 2113841808,
+  "total_losses": 45,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 377369005,
+      "name": "Desolator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 418852582,
+      "name": "Hector Centauri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1831501397,
+      "name": "Karasti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93007417,
+      "name": "Tyrell Cadabra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ciold",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

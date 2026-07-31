@@ -1,0 +1,40 @@
+{
+  "character_id": 2123870752,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94685209,
+    "name": "Character 94685209",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94685209,
+      "name": "Character 94685209",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1181492764,
+      "name": "SgtSlacker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116105023,
+      "name": "Drithi Moonshae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123870752",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

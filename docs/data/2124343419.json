@@ -1,0 +1,40 @@
+{
+  "character_id": 2124343419,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94712102,
+    "name": "Jagen H",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98695005,
+    "alliance_id": 1354830081,
+    "corporation_name": "Splintered Dreams",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94712102,
+      "name": "Jagen H",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114139127,
+      "name": "sailing Li",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119685962,
+      "name": "Cristobal Juarez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vinter Von Vinter",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

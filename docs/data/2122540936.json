@@ -1,0 +1,40 @@
+{
+  "character_id": 2122540936,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122269800,
+      "name": "Vegan Eater",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122540936,
+      "name": "Keir Starmer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keir Starmer",
+  "corporation_id": 668298004,
+  "alliance_id": 99003581,
+  "corporation_name": "Sacred Templars",
+  "alliance_name": "Fraternity."
+}

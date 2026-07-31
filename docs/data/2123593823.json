@@ -1,0 +1,46 @@
+{
+  "character_id": 2123593823,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1361264180,
+    "name": "Black Punisher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98493910,
+    "alliance_id": null,
+    "corporation_name": "0neManArmy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1361264180,
+      "name": "Black Punisher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92198971,
+      "name": "Colin McFry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1727698026,
+      "name": "Kaeda Maxwell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Uncle Otto",
+  "corporation_id": 1266832466,
+  "alliance_id": 99014058,
+  "corporation_name": "Drunken Beaver Mining",
+  "alliance_name": "Gnawthority"
+}

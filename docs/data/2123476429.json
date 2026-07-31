@@ -1,0 +1,52 @@
+{
+  "character_id": 2123476429,
+  "total_losses": 15,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 988041720,
+      "name": "Mortuus Angelus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1836634574,
+      "name": "sherile",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keroldur Mernher",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

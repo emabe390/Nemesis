@@ -1,0 +1,52 @@
+{
+  "character_id": 2121563509,
+  "total_losses": 33,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 95278850,
+    "name": "tisto",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98780761,
+    "alliance_id": 99014321,
+    "corporation_name": "Galactic Logistic",
+    "alliance_name": "Tilean Dominium"
+  },
+  "top_killers": [
+    {
+      "id": 95278850,
+      "name": "tisto",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115839808,
+      "name": "Star hunting",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tyr Adam",
+  "corporation_id": 98780761,
+  "alliance_id": 99014321,
+  "corporation_name": "Galactic Logistic",
+  "alliance_name": "Tilean Dominium"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122509035,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114928013,
+    "name": "Berserker Aries",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114928013,
+      "name": "Berserker Aries",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119142332,
+      "name": "RuGret",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119205426,
+      "name": "bbkao-01",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Citadel Clapper",
+  "corporation_id": 98710763,
+  "alliance_id": 99005338,
+  "corporation_name": "Perfusus Sanguine",
+  "alliance_name": "Pandemic Horde"
+}

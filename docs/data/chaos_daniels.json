@@ -1,0 +1,40 @@
+{
+  "character_id": 2122790202,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123333796,
+    "name": "Celeste Daniels",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788881,
+    "alliance_id": 99010756,
+    "corporation_name": "The Ecumene",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2123333796,
+      "name": "Celeste Daniels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96871790,
+      "name": "Guffor Atremi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 245073304,
+      "name": "Rixx Javix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chaos Daniels",
+  "corporation_id": 98788881,
+  "alliance_id": 99010756,
+  "corporation_name": "The Ecumene",
+  "alliance_name": "Pretenders"
+}

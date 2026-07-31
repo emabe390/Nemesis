@@ -1,0 +1,40 @@
+{
+  "character_id": 2123908293,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120512575,
+    "name": "BurntMicrowavedRice",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98774105,
+    "alliance_id": 99003581,
+    "corporation_name": "Dependable Delinquents",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120512575,
+      "name": "BurntMicrowavedRice",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122352829,
+      "name": "Achillesheel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122354688,
+      "name": "OrgrimmarXIII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mom Dismantler",
+  "corporation_id": 98819994,
+  "alliance_id": null,
+  "corporation_name": "The Horizon Jurisdiction",
+  "alliance_name": null
+}

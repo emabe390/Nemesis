@@ -1,0 +1,52 @@
+{
+  "character_id": 2124202920,
+  "total_losses": 55,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 7,
+    "final_blows": 6,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 7,
+      "final_blows": 6
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92489946,
+      "name": "Alex Helion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95181973,
+      "name": "Character 95181973",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Otokabe Anninen",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

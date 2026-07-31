@@ -1,0 +1,52 @@
+{
+  "character_id": 172989354,
+  "total_losses": 32,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 97200379,
+    "name": "Han Cho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119280018,
+      "name": "Shay Abaddon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91017278,
+      "name": "Ivy Kuznetsova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92889956,
+      "name": "Hiroshi Yuki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "El Muerte",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121486120,
+  "total_losses": 57,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 2118939872,
+    "name": "Dranghoul",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98690561,
+    "alliance_id": 99008816,
+    "corporation_name": "Long And Short",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2118939872,
+      "name": "Dranghoul",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123703123,
+      "name": "Lusinia Larvane",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93992789,
+      "name": "El Kapitan Steve",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96584048,
+      "name": "Sanadora",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123129819,
+      "name": "Galatine Puregrave",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Ash Atreides",
+  "corporation_id": 98807925,
+  "alliance_id": 99014384,
+  "corporation_name": "Drill-And-Kill",
+  "alliance_name": "Tactical Fiasco"
+}

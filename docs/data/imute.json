@@ -1,0 +1,40 @@
+{
+  "character_id": 2121371230,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113439037,
+    "name": "Adrameleth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98431483,
+    "alliance_id": 99014315,
+    "corporation_name": "Inner Hell",
+    "alliance_name": "H.E.L.L."
+  },
+  "top_killers": [
+    {
+      "id": 2113439037,
+      "name": "Adrameleth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95127862,
+      "name": "TabiNoTochuu Okanata",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "iMute",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

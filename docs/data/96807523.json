@@ -1,0 +1,40 @@
+{
+  "character_id": 96807523,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91862367,
+    "name": "Nuke Blast",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98688951,
+    "alliance_id": 99009856,
+    "corporation_name": "Mercury Arms Inc.",
+    "alliance_name": "Ghostbirds"
+  },
+  "top_killers": [
+    {
+      "id": 91862367,
+      "name": "Nuke Blast",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 483257271,
+      "name": "Death Trapp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427987236,
+      "name": "Loup S0litaire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zamayid Zanjoahir",
+  "corporation_id": 1261847707,
+  "alliance_id": null,
+  "corporation_name": "Genstar Inc",
+  "alliance_name": null
+}

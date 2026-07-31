@@ -1,0 +1,40 @@
+{
+  "character_id": 2124504216,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123211232,
+    "name": "Vydaar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790297,
+    "alliance_id": null,
+    "corporation_name": "Black Cinder",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123211232,
+      "name": "Vydaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120696692,
+      "name": "CTA61",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122525326,
+      "name": "Artasen Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "three fox",
+  "corporation_id": 98730202,
+  "alliance_id": null,
+  "corporation_name": "KDS Newble University",
+  "alliance_name": null
+}

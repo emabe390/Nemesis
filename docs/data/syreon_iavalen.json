@@ -1,0 +1,40 @@
+{
+  "character_id": 97108267,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90208148,
+    "name": "Selusa Secundus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98251840,
+    "alliance_id": 99010421,
+    "corporation_name": "Beyond Remorse.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 90208148,
+      "name": "Selusa Secundus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97108267,
+      "name": "Syreon Iavalen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114558055,
+      "name": "Graves Grace2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Syreon Iavalen",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113021849,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1222401549,
+    "name": "Skototounta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1222401549,
+      "name": "Skototounta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113713654,
+      "name": "Ashtarthe Davaham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120836853,
+      "name": "WITAKERR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FatMike Hemah",
+  "corporation_id": 98764230,
+  "alliance_id": 99013151,
+  "corporation_name": "JPMorgan Anti-Trust",
+  "alliance_name": "Better Banking Bureau"
+}

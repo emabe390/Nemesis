@@ -1,0 +1,40 @@
+{
+  "character_id": 2123738183,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122507546,
+    "name": "Amanda Banana",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98804852,
+    "alliance_id": 99014101,
+    "corporation_name": "Blackstar Foundries",
+    "alliance_name": "Reckless Empire"
+  },
+  "top_killers": [
+    {
+      "id": 2122507546,
+      "name": "Amanda Banana",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 306436359,
+      "name": "Deathtrooper2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mannfred Mann",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123000001,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96307776,
+    "name": "Chaz Beretta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98772776,
+    "alliance_id": 99013846,
+    "corporation_name": "Totality Squad",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 96307776,
+      "name": "Chaz Beretta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93112742,
+      "name": "Character 93112742",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115701667,
+      "name": "She Who Endures",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118232641,
+      "name": "Victor Lovett",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118802099,
+      "name": "LaoLiang JN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Wild Card",
+  "corporation_id": 98791604,
+  "alliance_id": 99011828,
+  "corporation_name": "ITS ALWAYS SUNNY IN NEW EDEN",
+  "alliance_name": "Abyssal Brick Rollers"
+}

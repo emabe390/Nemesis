@@ -1,0 +1,52 @@
+{
+  "character_id": 93501051,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 700000992,
+    "name": "Pete Thecow",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837049,
+    "alliance_id": null,
+    "corporation_name": "SMB Limited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 700000992,
+      "name": "Pete Thecow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90515554,
+      "name": "Quiick Submiind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96320539,
+      "name": "Victor Invictus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 600584511,
+      "name": "TF Disaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1881633289,
+      "name": "AnuQeiRo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Common Clapton",
+  "corporation_id": 98809475,
+  "alliance_id": null,
+  "corporation_name": "Call of the Void.",
+  "alliance_name": null
+}

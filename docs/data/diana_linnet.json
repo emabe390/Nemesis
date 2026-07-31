@@ -1,0 +1,40 @@
+{
+  "character_id": 2124437572,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93791103,
+    "name": "Clarice Jackson",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1705300610,
+    "alliance_id": 99010022,
+    "corporation_name": "The Dark Space Initiative",
+    "alliance_name": "Scary Wormhole People"
+  },
+  "top_killers": [
+    {
+      "id": 93791103,
+      "name": "Clarice Jackson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115679643,
+      "name": "Actus Rea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diana Linnet",
+  "corporation_id": 98835608,
+  "alliance_id": null,
+  "corporation_name": "Farming Aves Perchance",
+  "alliance_name": null
+}

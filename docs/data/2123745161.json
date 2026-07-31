@@ -1,0 +1,52 @@
+{
+  "character_id": 2123745161,
+  "total_losses": 47,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 557980461,
+    "name": "Tar esh",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98648808,
+    "alliance_id": 99011239,
+    "corporation_name": "Material Management Inc",
+    "alliance_name": "Ligma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 557980461,
+      "name": "Tar esh",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94363754,
+      "name": "Sem Skord",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95047537,
+      "name": "Dekka Dins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95778224,
+      "name": "Starlei Lavrinenko",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ansalen Muvila",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

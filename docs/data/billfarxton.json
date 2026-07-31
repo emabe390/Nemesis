@@ -1,0 +1,52 @@
+{
+  "character_id": 2124087870,
+  "total_losses": 22,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 93207098,
+    "name": "SAMA SANCHAN",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93207098,
+      "name": "SAMA SANCHAN",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91982218,
+      "name": "Vasquez Ovilo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93075768,
+      "name": "Cy Fi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118959054,
+      "name": "Samuel kom Skaikru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120579299,
+      "name": "Jinn Sky",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "BillFarxton",
+  "corporation_id": 98075412,
+  "alliance_id": 99001969,
+  "corporation_name": "Grimm Hounds",
+  "alliance_name": "SONS of BANE"
+}

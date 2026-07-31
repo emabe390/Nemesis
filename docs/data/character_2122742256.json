@@ -1,0 +1,40 @@
+{
+  "character_id": 2122742256,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90796316,
+    "name": "Panda Ostus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1158536999,
+      "name": "Martha Gomerz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122742256",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2112874890,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121813165,
+    "name": "Fime Auffrie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121813165,
+      "name": "Fime Auffrie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91492793,
+      "name": "Antonius Creed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1112948634,
+      "name": "Zarbow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stahano Vez",
+  "corporation_id": 98715093,
+  "alliance_id": 99003581,
+  "corporation_name": "Thunder Shield",
+  "alliance_name": "Fraternity."
+}

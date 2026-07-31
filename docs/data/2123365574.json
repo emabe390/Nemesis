@@ -1,0 +1,52 @@
+{
+  "character_id": 2123365574,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113233546,
+    "name": "Sven Bauer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118228662,
+      "name": "Arikaiken Sunji",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121825256,
+      "name": "urns",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "golan treveze",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

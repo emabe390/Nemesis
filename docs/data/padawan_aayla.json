@@ -1,0 +1,52 @@
+{
+  "character_id": 2123357422,
+  "total_losses": 52,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90426251,
+      "name": "Auhsoj Halldoro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96143629,
+      "name": "Robert xHendleyx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 488882620,
+      "name": "Valen Vonkessell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 922765974,
+      "name": "Gray DeathStalker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Padawan Aayla",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

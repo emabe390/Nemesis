@@ -1,0 +1,52 @@
+{
+  "character_id": 2123482598,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2112488080,
+      "name": "Elfsuf TFEC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118283200,
+      "name": "tzjz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123482733,
+      "name": "Shu Jian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HongZhongLaoDa",
+  "corporation_id": 98715582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Emperor Scythes",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123195928,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91454836,
+    "name": "Devill's Hill",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98786824,
+    "alliance_id": null,
+    "corporation_name": "The Distracted Destroyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1373387511,
+      "name": "LasXkill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118317380,
+      "name": "Arato Kion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karibidis",
+  "corporation_id": 98599210,
+  "alliance_id": 99003006,
+  "corporation_name": "STC LAST FRONTIER",
+  "alliance_name": "Brothers of Tangra"
+}

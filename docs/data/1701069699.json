@@ -1,0 +1,52 @@
+{
+  "character_id": 1701069699,
+  "total_losses": 66,
+  "unique_killers": 57,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 525469823,
+      "name": "StuRyan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 712964505,
+      "name": "Tewilligar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 946402945,
+      "name": "Metanii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114381160,
+      "name": "Jake Jr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Batboys",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

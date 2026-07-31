@@ -1,0 +1,40 @@
+{
+  "character_id": 2123633394,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122410546,
+    "name": "Xing Fei Weir",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122410546,
+      "name": "Xing Fei Weir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114940336,
+      "name": "Torar Shardani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123272852,
+      "name": "Shin Nakamoto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ArtemBusterov6346",
+  "corporation_id": 98631060,
+  "alliance_id": 99012070,
+  "corporation_name": "Russian Space Academy",
+  "alliance_name": "PEPE SQUAD"
+}

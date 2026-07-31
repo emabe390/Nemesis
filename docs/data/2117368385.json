@@ -1,0 +1,52 @@
+{
+  "character_id": 2117368385,
+  "total_losses": 23,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 94331100,
+    "name": "Gwenevick Kenyon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98751027,
+    "alliance_id": 99010877,
+    "corporation_name": "Federation Front Line Report",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 94331100,
+      "name": "Gwenevick Kenyon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122231402,
+      "name": "Awsur Darine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93233214,
+      "name": "Red Select",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93530516,
+      "name": "Rakkatosh Aldent",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shathorei",
+  "corporation_id": 98249443,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Icarus Expedition",
+  "alliance_name": "Solyaris Chtonium"
+}

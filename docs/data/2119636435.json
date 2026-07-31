@@ -1,0 +1,52 @@
+{
+  "character_id": 2119636435,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 95284295,
+    "name": "Samuel Fox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98269900,
+    "alliance_id": 495729389,
+    "corporation_name": "Kiwis In Space",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 95284295,
+      "name": "Samuel Fox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90146672,
+      "name": "Khermes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92000736,
+      "name": "Scott Auscent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92167492,
+      "name": "Caius Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118588482,
+      "name": "Vadian Sicatus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grimseld",
+  "corporation_id": 98094779,
+  "alliance_id": 99009845,
+  "corporation_name": "Heretic Army",
+  "alliance_name": "Sedition."
+}

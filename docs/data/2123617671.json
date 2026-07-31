@@ -1,0 +1,52 @@
+{
+  "character_id": 2123617671,
+  "total_losses": 23,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2115292318,
+    "name": "Character 2115292318",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98535068,
+    "alliance_id": 99012639,
+    "corporation_name": "Spectral Syndicate",
+    "alliance_name": "Stray Dogs."
+  },
+  "top_killers": [
+    {
+      "id": 2115292318,
+      "name": "Character 2115292318",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91530658,
+      "name": "Valkanto FitzGerald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96080132,
+      "name": "VpFalcon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 490145331,
+      "name": "Aqiz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "All-Lexx",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

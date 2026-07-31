@@ -1,0 +1,40 @@
+{
+  "character_id": 2124139447,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92814450,
+    "name": "Xenon Motsu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 92814450,
+      "name": "Xenon Motsu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93068068,
+      "name": "Link Aura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124187486,
+      "name": "EMorrigan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hibben",
+  "corporation_id": 98640845,
+  "alliance_id": 99011277,
+  "corporation_name": "The Inf3cted",
+  "alliance_name": "Pathog3n"
+}

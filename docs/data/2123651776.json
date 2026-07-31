@@ -1,0 +1,52 @@
+{
+  "character_id": 2123651776,
+  "total_losses": 44,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91772306,
+      "name": "Captain Fubu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95620256,
+      "name": "Zerocool Minner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123651776",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

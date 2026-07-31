@@ -1,0 +1,52 @@
+{
+  "character_id": 2124151724,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 284306820,
+    "name": "Asasin's",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815771,
+    "alliance_id": null,
+    "corporation_name": "Celestial Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 284306820,
+      "name": "Asasin's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94810788,
+      "name": "Draygon 152",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96650003,
+      "name": "Flower Fallen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96907808,
+      "name": "Sloppy Toppy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tyr Mer",
+  "corporation_id": 98804833,
+  "alliance_id": 1354830081,
+  "corporation_name": "Forever Stardust Navy Combined Fleet",
+  "alliance_name": "Goonswarm Federation"
+}

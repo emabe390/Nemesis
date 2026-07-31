@@ -1,0 +1,52 @@
+{
+  "character_id": 2115043626,
+  "total_losses": 35,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 93805383,
+    "name": "Maia Darine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98080323,
+    "alliance_id": 99005866,
+    "corporation_name": "Maraque Enterprises",
+    "alliance_name": "Just let it happen"
+  },
+  "top_killers": [
+    {
+      "id": 93805383,
+      "name": "Maia Darine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122339071,
+      "name": "Millie Darkside",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91533332,
+      "name": "Erenia Sovin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92006436,
+      "name": "Carl Bathana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95358151,
+      "name": "Arhit Maas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Illidan Stormrange",
+  "corporation_id": 98390683,
+  "alliance_id": 1354830081,
+  "corporation_name": "Hogyoku",
+  "alliance_name": "Goonswarm Federation"
+}

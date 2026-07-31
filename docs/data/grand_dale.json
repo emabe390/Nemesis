@@ -1,0 +1,52 @@
+{
+  "character_id": 2124210905,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122647146,
+    "name": "Spaceship Spanka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 2122647146,
+      "name": "Spaceship Spanka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122308739,
+      "name": "Elizabeth Von Smerch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123044420,
+      "name": "Gold Digger 9000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123131581,
+      "name": "Rickedydickedy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grand Dale",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

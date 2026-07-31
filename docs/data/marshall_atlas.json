@@ -1,0 +1,40 @@
+{
+  "character_id": 1570465408,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120779342,
+    "name": "Trade Hub Camper",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2120779342,
+      "name": "Trade Hub Camper",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90327639,
+      "name": "Dekoda1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112764453,
+      "name": "CloakAndDagger Insidious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marshall Atlas",
+  "corporation_id": 98746772,
+  "alliance_id": 99011990,
+  "corporation_name": "Ishikara Mechatronic Systems",
+  "alliance_name": "D3ad End"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2112430585,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 369850614,
+    "name": "Vigoras",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720928,
+    "alliance_id": 99014008,
+    "corporation_name": "Dead and Delirious",
+    "alliance_name": "BBQ BOIS"
+  },
+  "top_killers": [
+    {
+      "id": 369850614,
+      "name": "Vigoras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120917166,
+      "name": "Persephone Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123645960,
+      "name": "ZKBBKD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harad Sughoth",
+  "corporation_id": 98757007,
+  "alliance_id": null,
+  "corporation_name": "Cruentis Manibus Finance",
+  "alliance_name": null
+}

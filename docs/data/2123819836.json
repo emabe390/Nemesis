@@ -1,0 +1,52 @@
+{
+  "character_id": 2123819836,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95127032,
+    "name": "Biggerest Johnson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748169,
+    "alliance_id": 99005178,
+    "corporation_name": "Feather Rufflers",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96024689,
+      "name": "Lucas Falconus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113626872,
+      "name": "Kalista Oksaras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JaneAI",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

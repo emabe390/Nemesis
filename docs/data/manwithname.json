@@ -1,0 +1,52 @@
+{
+  "character_id": 2123559879,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123526568,
+    "name": "DonRic0",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1432288999,
+    "alliance_id": null,
+    "corporation_name": "Independent treasure hunters",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123526568,
+      "name": "DonRic0",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95529704,
+      "name": "Robotica Threebet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113435273,
+      "name": "Ilya Alekseev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113704511,
+      "name": "Loboto mite",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ManWithName",
+  "corporation_id": 1432288999,
+  "alliance_id": null,
+  "corporation_name": "Independent treasure hunters",
+  "alliance_name": null
+}

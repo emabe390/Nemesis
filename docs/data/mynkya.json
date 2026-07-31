@@ -1,0 +1,52 @@
+{
+  "character_id": 2122423921,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96708791,
+    "name": "Jason Aiderona",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 165332291,
+      "name": "Hunter Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2018437836,
+      "name": "Bucoviz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mynkya",
+  "corporation_id": 98756765,
+  "alliance_id": 99003581,
+  "corporation_name": "Star.Men",
+  "alliance_name": "Fraternity."
+}

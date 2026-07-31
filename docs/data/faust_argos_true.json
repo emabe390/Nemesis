@@ -1,0 +1,52 @@
+{
+  "character_id": 2121332864,
+  "total_losses": 12,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92503956,
+      "name": "GREEN PHOBOS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96246402,
+      "name": "Grim Iskander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 178660027,
+      "name": "Nomade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faust Argos True",
+  "corporation_id": 98591829,
+  "alliance_id": 99012042,
+  "corporation_name": "Cyber Collapse.",
+  "alliance_name": "Fanatic Legion."
+}

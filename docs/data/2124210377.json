@@ -1,0 +1,40 @@
+{
+  "character_id": 2124210377,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91276665,
+    "name": "Hallucinosis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98737423,
+    "alliance_id": 99012941,
+    "corporation_name": "Anomalous Empire",
+    "alliance_name": "Transmission Lost"
+  },
+  "top_killers": [
+    {
+      "id": 91276665,
+      "name": "Hallucinosis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 385606611,
+      "name": "pwnerer mooninites",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119861876,
+      "name": "Queen Ellee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DartCruiser",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

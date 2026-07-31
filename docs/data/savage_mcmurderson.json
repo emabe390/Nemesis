@@ -1,0 +1,40 @@
+{
+  "character_id": 2113989224,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 647165469,
+      "name": "amreddragon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 838187046,
+      "name": "Belazeel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Savage McMurderson",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

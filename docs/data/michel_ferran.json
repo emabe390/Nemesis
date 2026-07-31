@@ -1,0 +1,52 @@
+{
+  "character_id": 2119926377,
+  "total_losses": 26,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123282144,
+      "name": "Thokka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92938589,
+      "name": "Charco Kovacs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95546848,
+      "name": "Swiezaq",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96152796,
+      "name": "Seaweed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Michel Ferran",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

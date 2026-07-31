@@ -1,0 +1,46 @@
+{
+  "character_id": 2113212229,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1503258284,
+    "name": "Scharf Secundus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98606870,
+    "alliance_id": null,
+    "corporation_name": "Blunderbuss.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1503258284,
+      "name": "Scharf Secundus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93938773,
+      "name": "Zoidberg Fonulique",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 935780460,
+      "name": "Djordi Jolene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112643405,
+      "name": "Adrienne Perrine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ishikawa Cosi",
+  "corporation_id": 98242799,
+  "alliance_id": 99008816,
+  "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+  "alliance_name": "Khimi Harar"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119325135,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121629011,
+    "name": "DDeath",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 355443127,
+    "alliance_id": 1354830081,
+    "corporation_name": "ANZAC ALLIANCE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121629011,
+      "name": "DDeath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118016167,
+      "name": "Zeros Mu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123128764,
+      "name": "Wood3h",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Timonessa",
+  "corporation_id": 98182896,
+  "alliance_id": null,
+  "corporation_name": "Guards of Hell",
+  "alliance_name": null
+}

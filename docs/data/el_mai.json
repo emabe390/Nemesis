@@ -1,0 +1,34 @@
+{
+  "character_id": 2123621974,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122545769,
+    "name": "Spekthor",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98796636,
+    "alliance_id": null,
+    "corporation_name": "Whispers Beyond the Stars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122545769,
+      "name": "Spekthor",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123124872,
+      "name": "Regina Oberstein",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "El Mai",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

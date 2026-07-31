@@ -1,0 +1,52 @@
+{
+  "character_id": 95605638,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 92198971,
+    "name": "Colin McFry",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98453536,
+    "alliance_id": null,
+    "corporation_name": "Corporation Red X",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92198971,
+      "name": "Colin McFry",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92665983,
+      "name": "Captain Alduin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120626884,
+      "name": "Character 2120626884",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96737110,
+      "name": "Fury Rusich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baygur Thorson",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

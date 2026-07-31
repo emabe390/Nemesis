@@ -1,0 +1,52 @@
+{
+  "character_id": 95372850,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116400956,
+      "name": "Colour",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94542719,
+      "name": "Pappy Schmear",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1162256308,
+      "name": "Brusanan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115792566,
+      "name": "Shiguranile Sukarala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Velussa",
+  "corporation_id": 98762814,
+  "alliance_id": 99014152,
+  "corporation_name": "Constellation Defense Task Force",
+  "alliance_name": "Keyz Network"
+}

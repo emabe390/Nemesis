@@ -1,0 +1,52 @@
+{
+  "character_id": 2123486220,
+  "total_losses": 34,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 1431369930,
+    "name": "Culaure",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98834990,
+    "alliance_id": 99015041,
+    "corporation_name": "FRAC Holding Inc.",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1431369930,
+      "name": "Culaure",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93666195,
+      "name": "Ansla en Thielles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 486490772,
+      "name": "candlelight",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "devastadorurs",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

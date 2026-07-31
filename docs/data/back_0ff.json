@@ -1,0 +1,40 @@
+{
+  "character_id": 2118595705,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2012252990,
+    "name": "Dii minores",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1903628557,
+    "alliance_id": 99003557,
+    "corporation_name": "AirGuard",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92071832,
+      "name": "Tophok Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96071269,
+      "name": "Jacques Perl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Back 0ff",
+  "corporation_id": 1552312459,
+  "alliance_id": 99007887,
+  "corporation_name": "Star Frontiers",
+  "alliance_name": "Brotherhood of Spacers"
+}

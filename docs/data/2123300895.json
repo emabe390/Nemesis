@@ -1,0 +1,52 @@
+{
+  "character_id": 2123300895,
+  "total_losses": 26,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 2
+    },
+    {
+      "id": 960907441,
+      "name": "Luukje",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2041681324,
+      "name": "Hurome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118655113,
+      "name": "Paolo H Patel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119095332,
+      "name": "Wlerds",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sithue Leatteci",
+  "corporation_id": 98830069,
+  "alliance_id": 99014931,
+  "corporation_name": "Homefront Collective",
+  "alliance_name": "Alien Spy Stuff Syndicate"
+}

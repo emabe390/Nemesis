@@ -1,0 +1,40 @@
+{
+  "character_id": 2120693468,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 647388233,
+    "name": "John MacCoy",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98528707,
+    "alliance_id": null,
+    "corporation_name": "Independent Pilots Association",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 647388233,
+      "name": "John MacCoy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116307221,
+      "name": "Seath Aucie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122479585,
+      "name": "Good Girl Kara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tony the Tank",
+  "corporation_id": 98818601,
+  "alliance_id": 99014712,
+  "corporation_name": "Cult of Magik",
+  "alliance_name": "Congregation of Magiks"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123942941,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2120638736,
+    "name": "Stal Clon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 2120638736,
+      "name": "Stal Clon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123149100,
+      "name": "Aviai Auho Akachi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94418015,
+      "name": "Character 94418015",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2029780168,
+      "name": "Feson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114713490,
+      "name": "Ica Wing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Welkin",
+  "corporation_id": 98819914,
+  "alliance_id": null,
+  "corporation_name": "Darkline Interstellar",
+  "alliance_name": null
+}

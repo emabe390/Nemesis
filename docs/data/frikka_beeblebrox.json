@@ -1,0 +1,52 @@
+{
+  "character_id": 2122676931,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120065912,
+    "name": "FKON",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120065912,
+      "name": "FKON",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90100519,
+      "name": "Mighty Bk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2042160210,
+      "name": "Rhachator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frikka Beeblebrox",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

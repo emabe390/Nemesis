@@ -1,0 +1,34 @@
+{
+  "character_id": 2123123510,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2081750081,
+    "name": "Redeovg",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98556933,
+    "alliance_id": 99004901,
+    "corporation_name": "Infinity Avenger",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Schreb",
+  "corporation_id": 98691856,
+  "alliance_id": null,
+  "corporation_name": "Handlos Excavations",
+  "alliance_name": null
+}

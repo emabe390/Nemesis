@@ -1,0 +1,40 @@
+{
+  "character_id": 2121728746,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91943256,
+    "name": "Haix Exter",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 91943256,
+      "name": "Haix Exter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117098267,
+      "name": "Mallore Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120925308,
+      "name": "Fronswa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amus Burtan",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

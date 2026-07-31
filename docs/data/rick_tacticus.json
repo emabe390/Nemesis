@@ -1,0 +1,52 @@
+{
+  "character_id": 2113000342,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 242489909,
+    "name": "cl1de",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 242489909,
+      "name": "cl1de",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123323121,
+      "name": "Dibs 3D",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019584,
+      "name": "Hikanta Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96362702,
+      "name": "Saxaman Nobunaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rick Tacticus",
+  "corporation_id": 98828976,
+  "alliance_id": null,
+  "corporation_name": "Frontier Collective Corporation",
+  "alliance_name": null
+}

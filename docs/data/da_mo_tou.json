@@ -1,0 +1,52 @@
+{
+  "character_id": 2123743349,
+  "total_losses": 18,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2120934992,
+    "name": "Giussep Mole",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98835140,
+    "alliance_id": null,
+    "corporation_name": "Lobos Herrantes",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120934992,
+      "name": "Giussep Mole",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 151859313,
+      "name": "Sol Orr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 631111101,
+      "name": "Kazuma Yakuza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90010272,
+      "name": "Haniball Lecter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Da Mo Tou",
+  "corporation_id": 98812908,
+  "alliance_id": 99003995,
+  "corporation_name": "Domain of Death",
+  "alliance_name": "Invidia Gloriae Comes"
+}

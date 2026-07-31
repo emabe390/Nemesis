@@ -1,0 +1,52 @@
+{
+  "character_id": 2124258801,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113434790,
+    "name": "Omic 24",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98606029,
+    "alliance_id": 99009163,
+    "corporation_name": "Dam Scientific Research",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2113434790,
+      "name": "Omic 24",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113165642,
+      "name": "Character 2113165642",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113469145,
+      "name": "Yacine Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118614609,
+      "name": "Bone cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122217621,
+      "name": "Dage-2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doc Dordon",
+  "corporation_id": 98814441,
+  "alliance_id": 498125261,
+  "corporation_name": "Infinite Directive",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123965070,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 179004085,
+    "name": "Peter Powers",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1664427021,
+    "alliance_id": 99000818,
+    "corporation_name": "Terrorists of Dimensions",
+    "alliance_name": "HORSE-KILLERS"
+  },
+  "top_killers": [
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 362606210,
+      "name": "Aven'sis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123072453,
+      "name": "Lee Shank",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ALECSE",
+  "corporation_id": 98828970,
+  "alliance_id": 99014671,
+  "corporation_name": "Summer Knights.",
+  "alliance_name": "NecroSphere."
+}

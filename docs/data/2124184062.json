@@ -1,0 +1,40 @@
+{
+  "character_id": 2124184062,
+  "total_losses": 15,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124178217,
+    "name": "Arkaelin",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98597090,
+    "alliance_id": null,
+    "corporation_name": "Beyond Knowledge Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124178217,
+      "name": "Arkaelin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124178218,
+      "name": "Rokaelin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124178219,
+      "name": "Vokaelin",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Shoshkazim Anooh Pares",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

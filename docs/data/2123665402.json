@@ -1,0 +1,52 @@
+{
+  "character_id": 2123665402,
+  "total_losses": 48,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2123042372,
+    "name": "Collatelle Rin",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98790514,
+    "alliance_id": null,
+    "corporation_name": "United Nations of Earth",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123042372,
+      "name": "Collatelle Rin",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 639319407,
+      "name": "Andrejs L",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91005892,
+      "name": "Save Africa",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1071521448,
+      "name": "Kasper Skov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117059479,
+      "name": "MiniSpartan",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Isson Plaude",
+  "corporation_id": 98828763,
+  "alliance_id": 99014081,
+  "corporation_name": "Backbone Solutions",
+  "alliance_name": "Synergy of Support"
+}

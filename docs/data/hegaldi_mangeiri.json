@@ -1,0 +1,40 @@
+{
+  "character_id": 2123652542,
+  "total_losses": 17,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121375855,
+    "name": "Videllia",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98745140,
+    "alliance_id": null,
+    "corporation_name": "The Drone Zone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121375855,
+      "name": "Videllia",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2123218981,
+      "name": "Elancourt Ovaert",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119424353,
+      "name": "Bibi Boobs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hegaldi Mangeiri",
+  "corporation_id": 98742144,
+  "alliance_id": 99012369,
+  "corporation_name": "D I E . S T E I N B E I S S E R",
+  "alliance_name": "OUT OF THE DEEP"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2112073221,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 515313270,
+    "name": "Xabraak",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 515313270,
+      "name": "Xabraak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113160540,
+      "name": "Boutdechoux Malhorne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122714543,
+      "name": "Minthaarus Rha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rick Decard",
+  "corporation_id": 98830649,
+  "alliance_id": null,
+  "corporation_name": "Black Sea Void",
+  "alliance_name": null
+}

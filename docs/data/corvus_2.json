@@ -1,0 +1,52 @@
+{
+  "character_id": 2123218819,
+  "total_losses": 21,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1303757022,
+    "name": "Impervine Gast",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98426237,
+    "alliance_id": 99004604,
+    "corporation_name": "Phoenix Naval Operations",
+    "alliance_name": "Phoenix Naval Systems"
+  },
+  "top_killers": [
+    {
+      "id": 1303757022,
+      "name": "Impervine Gast",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121755637,
+      "name": "PsiFire5150",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117481077,
+      "name": "MrTwoBricks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121098859,
+      "name": "Graalis GinCarr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Corvus 2",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

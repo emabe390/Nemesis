@@ -1,0 +1,40 @@
+{
+  "character_id": 95150357,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118722264,
+    "name": "Roskolnikov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122914969,
+      "name": "KOT-CTPAXYET-KATOK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124115842,
+      "name": "KOT-HECET-CYETY-B-KOCMOC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Camaxtles",
+  "corporation_id": 98084418,
+  "alliance_id": 99007855,
+  "corporation_name": "CBC FORGE",
+  "alliance_name": "Mostly Newbies"
+}

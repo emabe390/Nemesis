@@ -1,0 +1,52 @@
+{
+  "character_id": 2123687615,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1160996029,
+    "name": "HKMP5",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 1160996029,
+      "name": "HKMP5",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 330619307,
+      "name": "Draxind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112177713,
+      "name": "Pandarenok Nighty",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "VP2",
+  "corporation_id": 98756765,
+  "alliance_id": 99003581,
+  "corporation_name": "Star.Men",
+  "alliance_name": "Fraternity."
+}

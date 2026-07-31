@@ -1,0 +1,52 @@
+{
+  "character_id": 2122801122,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91380020,
+      "name": "Queen Perfect Nolen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 644698429,
+      "name": "Nenia Leyto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 799738131,
+      "name": "Crystal Wyrm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karih Umid",
+  "corporation_id": 98679081,
+  "alliance_id": 1900696668,
+  "corporation_name": "Deaths Consortium",
+  "alliance_name": "The Initiative."
+}

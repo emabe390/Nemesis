@@ -1,0 +1,52 @@
+{
+  "character_id": 2123711638,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 443286234,
+    "name": "Ultrabug",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 678558985,
+    "alliance_id": null,
+    "corporation_name": "Morne Attitude",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93095895,
+      "name": "Artack35",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96071976,
+      "name": "Noah Khardula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123354734,
+      "name": "Acidpilled",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ogyaken",
+  "corporation_id": 98529628,
+  "alliance_id": 1354830081,
+  "corporation_name": "New Boreas",
+  "alliance_name": "Goonswarm Federation"
+}

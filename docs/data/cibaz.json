@@ -1,0 +1,40 @@
+{
+  "character_id": 2117331230,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122805106,
+    "name": "morgan san",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 2122805106,
+      "name": "morgan san",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113013879,
+      "name": "Britt Trin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121073977,
+      "name": "Jus T Diker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cibaz",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

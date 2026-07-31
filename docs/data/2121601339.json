@@ -1,0 +1,40 @@
+{
+  "character_id": 2121601339,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120527651,
+    "name": "Pin Paaltomo",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98781954,
+    "alliance_id": null,
+    "corporation_name": "SenoPolis",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120527651,
+      "name": "Pin Paaltomo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2117098267,
+      "name": "Mallore Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Links Up",
+  "corporation_id": 98628176,
+  "alliance_id": 1900696668,
+  "corporation_name": "Helgast Militarum",
+  "alliance_name": "The Initiative."
+}

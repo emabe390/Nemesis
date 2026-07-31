@@ -1,0 +1,52 @@
+{
+  "character_id": 2119042035,
+  "total_losses": 21,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123741113,
+    "name": "Cellblock 8",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98406802,
+    "alliance_id": null,
+    "corporation_name": "Blood Trident Endeavors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123741113,
+      "name": "Cellblock 8",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122534271,
+      "name": "Hosen Hilanen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90218977,
+      "name": "Ryasud",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657920202,
+      "name": "Mahik net",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95280436,
+      "name": "Eiska Delmonde",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PvE Division 5",
+  "corporation_id": 98447030,
+  "alliance_id": 99014821,
+  "corporation_name": "Beaver Swarm",
+  "alliance_name": "Nasty Girls"
+}

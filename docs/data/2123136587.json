@@ -1,0 +1,40 @@
+{
+  "character_id": 2123136587,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95420119,
+    "name": "Jason Flamerad",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 274620610,
+      "name": "Colonel Santiago",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113031858,
+      "name": "Burk Livelton",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "R2D2-MF",
+  "corporation_id": 98829834,
+  "alliance_id": 99010240,
+  "corporation_name": "Tachyon Syndicate",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124327142,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1121029034,
+    "name": "Cpt Armarlio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98614632,
+    "alliance_id": null,
+    "corporation_name": "Scary Ships On D-Scan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 894828184,
+      "name": "Leviathan G",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oskrata",
+  "corporation_id": 98831906,
+  "alliance_id": 99014964,
+  "corporation_name": "Omega-Group",
+  "alliance_name": "Omega-Republic"
+}

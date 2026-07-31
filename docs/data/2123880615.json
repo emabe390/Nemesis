@@ -1,0 +1,52 @@
+{
+  "character_id": 2123880615,
+  "total_losses": 22,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 97068585,
+    "name": "Reubanator",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98723996,
+    "alliance_id": null,
+    "corporation_name": "Entropic Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97068585,
+      "name": "Reubanator",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92636028,
+      "name": "Jukio Saisima",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "PaNa Pax",
+  "corporation_id": 98807248,
+  "alliance_id": 99011314,
+  "corporation_name": "Galactic Pet Carrier",
+  "alliance_name": "SLOW Logistics Alliance"
+}

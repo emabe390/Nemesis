@@ -1,0 +1,52 @@
+{
+  "character_id": 1051731693,
+  "total_losses": 19,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 1041034789,
+    "name": "Parov Stelar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98377551,
+    "alliance_id": 99004013,
+    "corporation_name": "Out of Focus",
+    "alliance_name": "Odin's Call"
+  },
+  "top_killers": [
+    {
+      "id": 1041034789,
+      "name": "Parov Stelar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121440637,
+      "name": "PolPodik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90110676,
+      "name": "Ch'angCh'ang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95352834,
+      "name": "Lorenz Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95602974,
+      "name": "Anton Tregellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Basienkaa",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

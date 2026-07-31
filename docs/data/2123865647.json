@@ -1,0 +1,52 @@
+{
+  "character_id": 2123865647,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92467736,
+      "name": "Jolly Wins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96178186,
+      "name": "Kardalak Blade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90378075,
+      "name": "Viking BARBAR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92204716,
+      "name": "Eletherus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SaltCaptain",
+  "corporation_id": 98737921,
+  "alliance_id": null,
+  "corporation_name": "WE ARE ZERGLINGS",
+  "alliance_name": null
+}

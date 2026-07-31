@@ -1,0 +1,52 @@
+{
+  "character_id": 2121633257,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95693711,
+      "name": "Pretty Vicious",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 802079700,
+      "name": "HabaHaba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120887426,
+      "name": "WhoNeedsTether",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121485546,
+      "name": "SAM FPS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tiusmulen Katelo",
+  "corporation_id": 98806237,
+  "alliance_id": null,
+  "corporation_name": "Red Caribbean skull",
+  "alliance_name": null
+}

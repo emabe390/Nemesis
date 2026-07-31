@@ -1,0 +1,52 @@
+{
+  "character_id": 2123384115,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2122054135,
+    "name": "Z-33H3",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123232579,
+      "name": "Soul Surfer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91687283,
+      "name": "Alex Conrad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92751333,
+      "name": "Kai Bloodwillow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WIG 20",
+  "corporation_id": 98803011,
+  "alliance_id": null,
+  "corporation_name": "WIG 20 Corp",
+  "alliance_name": null
+}

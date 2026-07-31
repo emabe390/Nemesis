@@ -1,0 +1,52 @@
+{
+  "character_id": 2123670993,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93508442,
+    "name": "Dmitri Vakarian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646775,
+    "alliance_id": 1727758877,
+    "corporation_name": "Banana-Republic.",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 93508442,
+      "name": "Dmitri Vakarian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123573436,
+      "name": "Arez Khardula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123589891,
+      "name": "Inspector Bam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karnatros",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

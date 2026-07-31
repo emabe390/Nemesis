@@ -1,0 +1,40 @@
+{
+  "character_id": 462581294,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112325205,
+      "name": "Jane MoneyBender",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112885914,
+      "name": "Foxy Moxy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Goodimen",
+  "corporation_id": 98621215,
+  "alliance_id": null,
+  "corporation_name": "Imperial Tomb",
+  "alliance_name": null
+}

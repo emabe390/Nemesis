@@ -1,0 +1,46 @@
+{
+  "character_id": 2123229865,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118838746,
+    "name": "Ebie Bayard",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98642737,
+    "alliance_id": null,
+    "corporation_name": "Chapayev Void Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118838746,
+      "name": "Ebie Bayard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120440372,
+      "name": "Herumi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121738722,
+      "name": "Hagami",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123808629,
+      "name": "Nadeshka Maaktal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sancho Del Pinta",
+  "corporation_id": 98823089,
+  "alliance_id": 99008985,
+  "corporation_name": "VOLATILE ACQUISITIONS 42",
+  "alliance_name": "Seker Matar"
+}

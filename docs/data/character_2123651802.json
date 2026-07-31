@@ -1,0 +1,34 @@
+{
+  "character_id": 2123651802,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 912054032,
+    "name": "The Aggressor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 912054032,
+      "name": "The Aggressor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1990414297,
+      "name": "FunkyMonk",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123651802",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

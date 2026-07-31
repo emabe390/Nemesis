@@ -1,0 +1,52 @@
+{
+  "character_id": 2122105070,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 127181490,
+    "name": "Delanhunt",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94804674,
+      "name": "Delta Zenochka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94252785,
+      "name": "Darius Mora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 245073304,
+      "name": "Rixx Javix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 904000908,
+      "name": "Tiberious Marz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FCKillMe",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

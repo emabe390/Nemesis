@@ -1,0 +1,40 @@
+{
+  "character_id": 2121928332,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94689867,
+    "name": "Rovan Fiss",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98640631,
+    "alliance_id": null,
+    "corporation_name": "Wormhooligans",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94689867,
+      "name": "Rovan Fiss",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96578589,
+      "name": "Red Music",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119851464,
+      "name": "John Karde",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BatteryWork",
+  "corporation_id": 98760192,
+  "alliance_id": 99012530,
+  "corporation_name": "BatteryCorp",
+  "alliance_name": "FFEW Associates"
+}

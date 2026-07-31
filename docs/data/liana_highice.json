@@ -1,0 +1,40 @@
+{
+  "character_id": 2122504696,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 495107354,
+    "name": "Mattos Vali",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liana HighIce",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

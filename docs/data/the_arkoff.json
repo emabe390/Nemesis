@@ -1,0 +1,52 @@
+{
+  "character_id": 2120522058,
+  "total_losses": 18,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91809357,
+    "name": "Abraham Solis",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98534496,
+    "alliance_id": 99009991,
+    "corporation_name": "Boondocks Industrial",
+    "alliance_name": "Intaki-Business Logistics Union"
+  },
+  "top_killers": [
+    {
+      "id": 91809357,
+      "name": "Abraham Solis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93558221,
+      "name": "Everett Rockefeller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94289397,
+      "name": "Karlione Brown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "The Arkoff",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

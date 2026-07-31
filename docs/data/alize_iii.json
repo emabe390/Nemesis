@@ -1,0 +1,40 @@
+{
+  "character_id": 375342864,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113340961,
+      "name": "Medusa of Eve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119014189,
+      "name": "Character 2119014189",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alize III",
+  "corporation_id": 105711418,
+  "alliance_id": null,
+  "corporation_name": "Dark EvE Light",
+  "alliance_name": null
+}

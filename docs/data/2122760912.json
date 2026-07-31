@@ -1,0 +1,52 @@
+{
+  "character_id": 2122760912,
+  "total_losses": 19,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2122498788,
+    "name": "Telari T'Nu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 724997872,
+    "alliance_id": 1354830081,
+    "corporation_name": "EVE-RO",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122498788,
+      "name": "Telari T'Nu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408092,
+      "name": "Shikamaru Takeda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91926327,
+      "name": "Kingababa Nyulo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92163725,
+      "name": "Joe Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92822651,
+      "name": "Rustymattok Farpast",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kuna Plarth",
+  "corporation_id": 98817910,
+  "alliance_id": null,
+  "corporation_name": "Outer Rim Nomads",
+  "alliance_name": null
+}

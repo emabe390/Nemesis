@@ -1,0 +1,40 @@
+{
+  "character_id": 939135522,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 156345365,
+    "name": "Gunni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 156345365,
+      "name": "Gunni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96022389,
+      "name": "Aregor Priggs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118141709,
+      "name": "Vegari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarkWynd",
+  "corporation_id": 98732136,
+  "alliance_id": 99011223,
+  "corporation_name": "Family Guys",
+  "alliance_name": "Sigma Grindset"
+}

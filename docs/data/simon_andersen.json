@@ -1,0 +1,52 @@
+{
+  "character_id": 2123795211,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123544612,
+    "name": "Postie0",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98803102,
+    "alliance_id": 99014735,
+    "corporation_name": "Coffee Bean Emporium",
+    "alliance_name": "Psyno Theory"
+  },
+  "top_killers": [
+    {
+      "id": 2123544612,
+      "name": "Postie0",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116253136,
+      "name": "Marczelini Bababouille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120319373,
+      "name": "Wentisagnel Beet Antollare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Simon Andersen",
+  "corporation_id": 98743227,
+  "alliance_id": 99013548,
+  "corporation_name": "Enigma Expanse",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 961880050,
+  "total_losses": 563,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 333500676,
+    "name": "Chatner",
+    "kill_count": 500,
+    "final_blows": 500,
+    "corporation_id": 687375441,
+    "alliance_id": null,
+    "corporation_name": "Enterprises O'Korr",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 333500676,
+      "name": "Chatner",
+      "kill_count": 500,
+      "final_blows": 500
+    },
+    {
+      "id": 1042974097,
+      "name": "Tiatupucu",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123833511,
+      "name": "Andrew Carnegie I",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123953846,
+      "name": "Y1MM1",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124127773,
+      "name": "Rizzmaster223",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Korr'Tanas",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

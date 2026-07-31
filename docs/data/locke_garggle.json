@@ -1,0 +1,52 @@
+{
+  "character_id": 2123528061,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123660671,
+    "name": "Locke Dhalia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98757945,
+    "alliance_id": null,
+    "corporation_name": "The Clyde Bank",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123660671,
+      "name": "Locke Dhalia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112971120,
+      "name": "Eilistraee Septimus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116214606,
+      "name": "Battle ComMK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116519784,
+      "name": "Pollard Lim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118995335,
+      "name": "Primarylogi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Locke Garggle",
+  "corporation_id": 98766100,
+  "alliance_id": 99013537,
+  "corporation_name": "Our Sanctum",
+  "alliance_name": "Insidious."
+}

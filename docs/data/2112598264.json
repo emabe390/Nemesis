@@ -1,0 +1,40 @@
+{
+  "character_id": 2112598264,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120443152,
+    "name": "KanameArisugawa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828506,
+    "alliance_id": null,
+    "corporation_name": "The Shiinigami",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120443152,
+      "name": "KanameArisugawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92177512,
+      "name": "Chosen One Erkkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113708428,
+      "name": "Thalvus Bucketbadger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ravid Bheskagor",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

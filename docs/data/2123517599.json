@@ -1,0 +1,40 @@
+{
+  "character_id": 2123517599,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116814777,
+    "name": "Dragon Reckless",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1056867436,
+    "alliance_id": 99003581,
+    "corporation_name": "Super Villains",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116814777,
+      "name": "Dragon Reckless",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1188888586,
+      "name": "Er Murazor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121654293,
+      "name": "Koikatoh Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ASDA SA",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

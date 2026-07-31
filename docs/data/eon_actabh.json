@@ -1,0 +1,40 @@
+{
+  "character_id": 2123613358,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94329248,
+    "name": "AutumnStar Tal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98117593,
+    "alliance_id": 1354830081,
+    "corporation_name": "Tritanium Industries and Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94329248,
+      "name": "AutumnStar Tal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95768685,
+      "name": "Vantage Industry",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97169683,
+      "name": "Satris Hysteric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eon Actabh",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120440129,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 90085013,
+    "name": "Tesla X1R",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98315934,
+    "alliance_id": 99014936,
+    "corporation_name": "Stuff and Junk Enterprises",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 90085013,
+      "name": "Tesla X1R",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119710165,
+      "name": "dRiFtEr ReSpOnSe BaTtLeShiip",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94210135,
+      "name": "Dino Pellion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 724312690,
+      "name": "Eveliddia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1838900137,
+      "name": "Gyro DuAquin1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Prometheus Austin",
+  "corporation_id": 98802662,
+  "alliance_id": null,
+  "corporation_name": "CORE Excursions",
+  "alliance_name": null
+}

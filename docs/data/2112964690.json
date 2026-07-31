@@ -1,0 +1,40 @@
+{
+  "character_id": 2112964690,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116251358,
+    "name": "Oper Aubaris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116251358,
+      "name": "Oper Aubaris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122609143,
+      "name": "Izula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123701397,
+      "name": "Mecclovin Tiberius Skywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Finn Spectre",
+  "corporation_id": 98534148,
+  "alliance_id": null,
+  "corporation_name": "Bourbon Soaked Bastards",
+  "alliance_name": null
+}

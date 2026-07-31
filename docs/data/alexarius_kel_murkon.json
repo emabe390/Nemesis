@@ -1,0 +1,46 @@
+{
+  "character_id": 2123724384,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 219778731,
+    "name": "aendei",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 333791300,
+    "alliance_id": null,
+    "corporation_name": "back to zero",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 219778731,
+      "name": "aendei",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 813965935,
+      "name": "Soulvomit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 740330065,
+      "name": "Barem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115000757,
+      "name": "Moist Lipwig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexarius Kel-Murkon",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

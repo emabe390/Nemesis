@@ -1,0 +1,52 @@
+{
+  "character_id": 2117162046,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 5,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 5,
+      "final_blows": 1
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 584304126,
+      "name": "LadyShu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1795859664,
+      "name": "The Naga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1883724629,
+      "name": "Nyppe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Georg Const",
+  "corporation_id": 98735960,
+  "alliance_id": 1900696668,
+  "corporation_name": "Solar Meta",
+  "alliance_name": "The Initiative."
+}

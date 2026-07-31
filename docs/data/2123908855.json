@@ -1,0 +1,34 @@
+{
+  "character_id": 2123908855,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96791669,
+    "name": "Laila Khema",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724833,
+    "alliance_id": null,
+    "corporation_name": "Mirror Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96791669,
+      "name": "Laila Khema",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116031090,
+      "name": "Demori Swoo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mifrah Fawmy",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

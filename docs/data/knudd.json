@@ -1,0 +1,40 @@
+{
+  "character_id": 2123413174,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121050517,
+    "name": "Stcake",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98600350,
+    "alliance_id": 99003995,
+    "corporation_name": "Watch Eagle",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2121050517,
+      "name": "Stcake",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 727382616,
+      "name": "Villa Strangiato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122991385,
+      "name": "Bartholomew Tinklebottom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Knudd",
+  "corporation_id": 98781311,
+  "alliance_id": null,
+  "corporation_name": "Dawn's LightP",
+  "alliance_name": null
+}

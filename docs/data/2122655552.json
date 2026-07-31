@@ -1,0 +1,46 @@
+{
+  "character_id": 2122655552,
+  "total_losses": 11,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116334184,
+    "name": "Tavis Vemane",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98668936,
+    "alliance_id": 99011223,
+    "corporation_name": "The Awoken",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2116334184,
+      "name": "Tavis Vemane",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 96193709,
+      "name": "Krastor Sandoval",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116202015,
+      "name": "Dreavous Meoa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96300155,
+      "name": "Kass White",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "z'Time Lines",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

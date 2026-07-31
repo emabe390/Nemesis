@@ -1,0 +1,52 @@
+{
+  "character_id": 2122519243,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1626829242,
+    "name": "RICO Ramierz",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98759370,
+    "alliance_id": null,
+    "corporation_name": "Ortner Engineering Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1626829242,
+      "name": "RICO Ramierz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121598301,
+      "name": "1yammm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93371436,
+      "name": "Krystal Sukarala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93915317,
+      "name": "Friedrich VonHayek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96057070,
+      "name": "Efficient Emptiness",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gabriel Vas Bloods",
+  "corporation_id": 98738777,
+  "alliance_id": 99014584,
+  "corporation_name": "Rising Moon Wolf Pack Inc.",
+  "alliance_name": "Lonetrek Benevolent Association"
+}

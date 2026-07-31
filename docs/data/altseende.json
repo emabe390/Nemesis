@@ -1,0 +1,40 @@
+{
+  "character_id": 2121234524,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96872063,
+    "name": "Sergei Skazzor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98720009,
+    "alliance_id": 1354830081,
+    "corporation_name": "guerrilla.squad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96872063,
+      "name": "Sergei Skazzor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 217355931,
+      "name": "kloktar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119131489,
+      "name": "Jeff Kali",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "altseende",
+  "corporation_id": 98738604,
+  "alliance_id": 99012513,
+  "corporation_name": "xXGame OverXx",
+  "alliance_name": "Tavern 4Crabs"
+}

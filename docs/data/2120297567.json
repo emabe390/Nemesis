@@ -1,0 +1,52 @@
+{
+  "character_id": 2120297567,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 234392947,
+      "name": "moontitties",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114331528,
+      "name": "Nevermore Shadows",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90907107,
+      "name": "Ariadne Nestea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92081427,
+      "name": "Vesna Sinulf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sussik Feni Fera",
+  "corporation_id": 98831853,
+  "alliance_id": 99013920,
+  "corporation_name": "Tyr's Space Janitors",
+  "alliance_name": "Embers of the Void"
+}

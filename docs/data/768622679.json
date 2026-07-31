@@ -1,0 +1,40 @@
+{
+  "character_id": 768622679,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123941891,
+    "name": "Kind Dall'e",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98834098,
+    "alliance_id": null,
+    "corporation_name": "We Fight at Zero",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123941891,
+      "name": "Kind Dall'e",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90809478,
+      "name": "Thore Brakeman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121213907,
+      "name": "Flando Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rocar Evaal",
+  "corporation_id": 98820741,
+  "alliance_id": 99014711,
+  "corporation_name": "Nightforge Voidworks",
+  "alliance_name": "Forge Eternal"
+}

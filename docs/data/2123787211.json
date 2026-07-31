@@ -1,0 +1,52 @@
+{
+  "character_id": 2123787211,
+  "total_losses": 33,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123753910,
+    "name": "AAARK",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123753910,
+      "name": "AAARK",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 92035954,
+      "name": "Character 92035954",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 242047691,
+      "name": "Flintina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1240608291,
+      "name": "alukard1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114347423,
+      "name": "Roman Almazov",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Perdolio Vespucci",
+  "corporation_id": 98814401,
+  "alliance_id": null,
+  "corporation_name": "The Wandering Unicorn",
+  "alliance_name": null
+}

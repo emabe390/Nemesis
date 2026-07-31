@@ -1,0 +1,34 @@
+{
+  "character_id": 2112349649,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 639591207,
+    "name": "Krizz Tokk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 639591207,
+      "name": "Krizz Tokk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1194352503,
+      "name": "ToTheCore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Overdrive Eoner",
+  "corporation_id": 98803508,
+  "alliance_id": null,
+  "corporation_name": "Silk Dance",
+  "alliance_name": null
+}

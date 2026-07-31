@@ -1,0 +1,40 @@
+{
+  "character_id": 94885788,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 145360232,
+    "name": "Wolfman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98428318,
+    "alliance_id": 99014747,
+    "corporation_name": "Best Kept Dunked",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 145360232,
+      "name": "Wolfman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119154038,
+      "name": "Petr Valeryianovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123544718,
+      "name": "Kefirny Bulkozavr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capt Yolo Olacar",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

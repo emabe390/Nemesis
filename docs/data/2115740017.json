@@ -1,0 +1,52 @@
+{
+  "character_id": 2115740017,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119573022,
+    "name": "StarOmniknight",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98476260,
+    "alliance_id": null,
+    "corporation_name": "Enemy in System",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119573022,
+      "name": "StarOmniknight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122290386,
+      "name": "Dark Knight Joker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122377515,
+      "name": "Adalle Hariere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92304254,
+      "name": "Aleks Ohmiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116709959,
+      "name": "Young Renegade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BO0G",
+  "corporation_id": 98805285,
+  "alliance_id": 99009163,
+  "corporation_name": "Silent Protocol",
+  "alliance_name": "Dracarys."
+}

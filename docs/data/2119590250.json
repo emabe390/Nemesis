@@ -1,0 +1,40 @@
+{
+  "character_id": 2119590250,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1812624832,
+    "name": "Rammit",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98624346,
+    "alliance_id": null,
+    "corporation_name": "Among Shadows",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1812624832,
+      "name": "Rammit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112253086,
+      "name": "Marlborow Hosay-Bay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115485968,
+      "name": "Yabiza Yummara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jai Akitana",
+  "corporation_id": 98785881,
+  "alliance_id": 99013580,
+  "corporation_name": "Akitana Enterprises",
+  "alliance_name": "High Bear Nation."
+}

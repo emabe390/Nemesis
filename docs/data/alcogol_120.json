@@ -1,0 +1,46 @@
+{
+  "character_id": 2123715359,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 909974458,
+      "name": "Coup Dgrace",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115400700,
+      "name": "Mannar Breau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116963174,
+      "name": "joulmeh Talvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alcogol 120",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

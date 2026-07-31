@@ -1,0 +1,40 @@
+{
+  "character_id": 2123817039,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93641168,
+    "name": "Oda Fett",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 539000123,
+    "alliance_id": 99011279,
+    "corporation_name": "EndlessRain",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93641168,
+      "name": "Oda Fett",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113266225,
+      "name": "Ranxerox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114282331,
+      "name": "grande18",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ufo Hibra",
+  "corporation_id": 98802395,
+  "alliance_id": null,
+  "corporation_name": "Gvozdica Corporation",
+  "alliance_name": null
+}

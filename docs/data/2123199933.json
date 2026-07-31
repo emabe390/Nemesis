@@ -1,0 +1,52 @@
+{
+  "character_id": 2123199933,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 539158206,
+    "name": "Thalatros",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 189632559,
+    "alliance_id": null,
+    "corporation_name": "Maza Nostra",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 539158206,
+      "name": "Thalatros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 823221444,
+      "name": "Kazualist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1058691321,
+      "name": "Mikaello",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1086172451,
+      "name": "Tratoc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "killrakill",
+  "corporation_id": 98792988,
+  "alliance_id": 99003995,
+  "corporation_name": "We do our best",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121726685,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92410190,
+    "name": "Lathaen Cathal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92410190,
+      "name": "Lathaen Cathal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 119618424,
+      "name": "Rikki Retardo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1005572585,
+      "name": "Guanchita",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dizzy Waters",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

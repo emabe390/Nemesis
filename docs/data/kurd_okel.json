@@ -1,0 +1,40 @@
+{
+  "character_id": 2123583827,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115135401,
+    "name": "Denemira Ashe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000437,
+    "alliance_id": null,
+    "corporation_name": "Commando Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115135401,
+      "name": "Denemira Ashe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116565824,
+      "name": "ghostwayn destroyer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kurd Okel",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123593830,
+  "total_losses": 40,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 9,
+    "final_blows": 7,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 9,
+      "final_blows": 7
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kane Price",
+  "corporation_id": 98803643,
+  "alliance_id": 99014167,
+  "corporation_name": "XANAX Withdrawal Corp.",
+  "alliance_name": "XANAX Withdrawal Corp. Alliance"
+}

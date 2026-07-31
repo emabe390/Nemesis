@@ -1,0 +1,52 @@
+{
+  "character_id": 2114751996,
+  "total_losses": 74,
+  "unique_killers": 50,
+  "nemesis": {
+    "id": 187568404,
+    "name": "Icarius",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1117330985,
+    "alliance_id": null,
+    "corporation_name": "The Wings of Maak",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 187568404,
+      "name": "Icarius",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93824648,
+      "name": "Thelonious Chelda",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hreidmar Seidhr",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123723636,
+  "total_losses": 56,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 2121774870,
+    "name": "Chad Cooks",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 2121774870,
+      "name": "Chad Cooks",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90640611,
+      "name": "GodsSoldier Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92660274,
+      "name": "Koloblicin Rahl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95500455,
+      "name": "Sobieski Taranogas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 189321628,
+      "name": "Hyperion Phoenix",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Arent Starborne",
+  "corporation_id": 98805195,
+  "alliance_id": null,
+  "corporation_name": "Lightyears Apart",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124273364,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122888276,
+    "name": "Character 2122888276",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98831845,
+    "alliance_id": null,
+    "corporation_name": "Schattenwald Industries.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122888276,
+      "name": "Character 2122888276",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124277636,
+      "name": "PhilippMamerDrone3",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90114202,
+      "name": "Lady Ati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97166157,
+      "name": "Norrec Morussian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PhilippMamerDrone2",
+  "corporation_id": 98831845,
+  "alliance_id": 99013541,
+  "corporation_name": "Schattenwald Industries.",
+  "alliance_name": "Fraternity Auxiliary"
+}

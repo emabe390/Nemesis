@@ -1,0 +1,40 @@
+{
+  "character_id": 2117179204,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121803074,
+    "name": "Blord Skorpho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98530982,
+    "alliance_id": 99013551,
+    "corporation_name": "Solarmark",
+    "alliance_name": "Stellarium Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121803074,
+      "name": "Blord Skorpho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121951854,
+      "name": "Solarisea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119732278,
+      "name": "mamamomo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "supermageman",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

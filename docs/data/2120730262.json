@@ -1,0 +1,40 @@
+{
+  "character_id": 2120730262,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91808938,
+    "name": "Imnu First",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98633650,
+    "alliance_id": 1988009451,
+    "corporation_name": "Melphalan",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91808938,
+      "name": "Imnu First",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116506361,
+      "name": "Deact S",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark Ar'het",
+  "corporation_id": 98490947,
+  "alliance_id": null,
+  "corporation_name": "Renegade Stars",
+  "alliance_name": null
+}

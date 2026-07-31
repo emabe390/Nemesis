@@ -1,0 +1,40 @@
+{
+  "character_id": 2123938097,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 830785119,
+    "name": "Character 830785119",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98764904,
+    "alliance_id": null,
+    "corporation_name": "Fierce Guardians",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 830785119,
+      "name": "Character 830785119",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92284830,
+      "name": "Freth Corvus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HotBoxUzi",
+  "corporation_id": 98819639,
+  "alliance_id": null,
+  "corporation_name": "HotBox Industries",
+  "alliance_name": null
+}

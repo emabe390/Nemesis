@@ -1,0 +1,34 @@
+{
+  "character_id": 2124116555,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120992602,
+      "name": "chusan yu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fenrik Uldo",
+  "corporation_id": 98827058,
+  "alliance_id": 99014855,
+  "corporation_name": "The Unvanquished",
+  "alliance_name": "The Unvanquished Order"
+}

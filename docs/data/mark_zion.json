@@ -1,0 +1,40 @@
+{
+  "character_id": 2124159308,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114342174,
+    "name": "Nado Tsutola",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98730717,
+    "alliance_id": 1900696668,
+    "corporation_name": "Goat to Go",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114342174,
+      "name": "Nado Tsutola",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95727518,
+      "name": "Glenn Martin Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114045593,
+      "name": "Sunog Izbor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mark Zion",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

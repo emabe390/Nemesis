@@ -1,0 +1,52 @@
+{
+  "character_id": 2124260895,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122283327,
+      "name": "Pampalka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123810549,
+      "name": "Garnelio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124051002,
+      "name": "Amphipteru",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "LackyStricker",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

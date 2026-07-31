@@ -1,0 +1,40 @@
+{
+  "character_id": 2124427136,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 245073304,
+    "name": "Rixx Javix",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 245073304,
+      "name": "Rixx Javix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116187569,
+      "name": "Fizz Fuoco",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120331345,
+      "name": "Kandash Jir Uanid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zyfridus",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123575468,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90635205,
+    "name": "drifter nomadian",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 495392624,
+    "alliance_id": 1900696668,
+    "corporation_name": "GeoCorp.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90635205,
+      "name": "drifter nomadian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1863889273,
+      "name": "Character 1863889273",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116354915,
+      "name": "Rostar Aya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123898006,
+      "name": "Kirk Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FreeBlue",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

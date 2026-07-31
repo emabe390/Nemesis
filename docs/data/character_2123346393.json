@@ -1,0 +1,52 @@
+{
+  "character_id": 2123346393,
+  "total_losses": 19,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112998307,
+    "name": "Assuna Sword",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98795415,
+    "alliance_id": null,
+    "corporation_name": "Reinforced Everyday",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112998307,
+      "name": "Assuna Sword",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92051003,
+      "name": "Nedrina Takonin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120981955,
+      "name": "Karkapti Tonn Garsk",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121238297,
+      "name": "Daenmdir",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 354364015,
+      "name": "Moxina 25",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123346393",
+  "corporation_id": 98703142,
+  "alliance_id": 99009163,
+  "corporation_name": "Why is this Pigeon so Big",
+  "alliance_name": "Dracarys."
+}

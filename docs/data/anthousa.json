@@ -1,0 +1,52 @@
+{
+  "character_id": 845632886,
+  "total_losses": 34,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2121259078,
+    "name": "Na Mene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778275,
+    "alliance_id": null,
+    "corporation_name": "Casually drifting",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121259078,
+      "name": "Na Mene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90730583,
+      "name": "Complete Fail",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92173338,
+      "name": "Herman Levin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93160072,
+      "name": "Vinta Bayle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anthousa",
+  "corporation_id": 98390683,
+  "alliance_id": 1354830081,
+  "corporation_name": "Hogyoku",
+  "alliance_name": "Goonswarm Federation"
+}

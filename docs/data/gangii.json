@@ -1,0 +1,52 @@
+{
+  "character_id": 2119096968,
+  "total_losses": 69,
+  "unique_killers": 50,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1242962572,
+      "name": "BoomBangGone",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116004529,
+      "name": "Douglas Edward",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91601112,
+      "name": "Teqq Cruiser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91810608,
+      "name": "Dalamus Malukker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Gangii",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

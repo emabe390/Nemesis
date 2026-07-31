@@ -1,0 +1,52 @@
+{
+  "character_id": 2123870937,
+  "total_losses": 35,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2123655920,
+    "name": "Elsa Hekard",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123655920,
+      "name": "Elsa Hekard",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119468513,
+      "name": "Yamon Airuta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121002622,
+      "name": "Secret Butter",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92051003,
+      "name": "Nedrina Takonin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123870937",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121628616,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94421702,
+    "name": "Subject 51",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98670226,
+    "alliance_id": 99010756,
+    "corporation_name": "StratsCo",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 94421702,
+      "name": "Subject 51",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114836004,
+      "name": "Violently Red",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121113302,
+      "name": "DRGozo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121550095,
+      "name": "Astrid Sky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Default Sky",
+  "corporation_id": 98834183,
+  "alliance_id": 99009163,
+  "corporation_name": "Last Warning BR",
+  "alliance_name": "Dracarys."
+}

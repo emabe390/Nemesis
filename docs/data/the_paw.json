@@ -1,0 +1,40 @@
+{
+  "character_id": 2117825941,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118925961,
+    "name": "Keitunen Vanina",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740495,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Peacekeeper",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118925961,
+      "name": "Keitunen Vanina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123072453,
+      "name": "Lee Shank",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96178430,
+      "name": "Lis Grey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Paw",
+  "corporation_id": 98662323,
+  "alliance_id": 99010756,
+  "corporation_name": "Voidhounds",
+  "alliance_name": "Pretenders"
+}

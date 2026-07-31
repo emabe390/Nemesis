@@ -1,0 +1,52 @@
+{
+  "character_id": 2124009012,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 315151368,
+    "name": "Orbixx",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799733,
+    "alliance_id": 498125261,
+    "corporation_name": "Drip Inc.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 315151368,
+      "name": "Orbixx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92293552,
+      "name": "stilet kda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mean Cat",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

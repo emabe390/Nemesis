@@ -1,0 +1,52 @@
+{
+  "character_id": 2123832392,
+  "total_losses": 31,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2112533368,
+    "name": "The white cat",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98632030,
+    "alliance_id": 99003581,
+    "corporation_name": "Red Scarf Humpback",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2112533368,
+      "name": "The white cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90188241,
+      "name": "3xl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91467054,
+      "name": "Nizzo Ituino",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91489783,
+      "name": "Pale Renalard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91560847,
+      "name": "Magna Magnum",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shiro Karasu",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

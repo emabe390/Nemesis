@@ -1,0 +1,52 @@
+{
+  "character_id": 2123854310,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121299350,
+    "name": "PseudoKuha",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777192,
+    "alliance_id": null,
+    "corporation_name": "Forbidden Memories",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121299350,
+      "name": "PseudoKuha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91418122,
+      "name": "Thomas McPlunge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1243432790,
+      "name": "Mina Zaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119016511,
+      "name": "Prototypeee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Custos Corvus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

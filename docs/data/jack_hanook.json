@@ -1,0 +1,46 @@
+{
+  "character_id": 2115725353,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113725291,
+    "name": "New-York",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98030681,
+    "alliance_id": 1900696668,
+    "corporation_name": "ANGELGARD.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2113725291,
+      "name": "New-York",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121128673,
+      "name": "LATOTTIM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93632869,
+      "name": "TYxUSMC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122709761,
+      "name": "shardio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack Hanook",
+  "corporation_id": 98700066,
+  "alliance_id": null,
+  "corporation_name": "Corporate erasing service",
+  "alliance_name": null
+}

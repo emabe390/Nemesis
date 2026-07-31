@@ -1,0 +1,52 @@
+{
+  "character_id": 2123742230,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1927174260,
+    "name": "Aurora Tagan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98515458,
+    "alliance_id": 99003581,
+    "corporation_name": "u.k militia forces",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1927174260,
+      "name": "Aurora Tagan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92818098,
+      "name": "Gregory Berr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95775823,
+      "name": "Nolan Gollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 642342045,
+      "name": "Derek Steele",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Condora the Explorer",
+  "corporation_id": 98814781,
+  "alliance_id": null,
+  "corporation_name": "Winwood High",
+  "alliance_name": null
+}

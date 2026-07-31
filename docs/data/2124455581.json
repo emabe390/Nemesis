@@ -1,0 +1,40 @@
+{
+  "character_id": 2124455581,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96761545,
+    "name": "ScorchBomb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96761545,
+      "name": "ScorchBomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115160077,
+      "name": "Glorgon Cashar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117202728,
+      "name": "Mary Gankins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orcepto",
+  "corporation_id": 98837902,
+  "alliance_id": null,
+  "corporation_name": "Ankoris",
+  "alliance_name": null
+}

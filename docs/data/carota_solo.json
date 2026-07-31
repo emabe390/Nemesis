@@ -1,0 +1,40 @@
+{
+  "character_id": 94140150,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119131489,
+    "name": "Jeff Kali",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119131489,
+      "name": "Jeff Kali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92002324,
+      "name": "Lola Alphonse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 151859313,
+      "name": "Sol Orr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carota Solo",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

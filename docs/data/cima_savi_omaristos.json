@@ -1,0 +1,40 @@
+{
+  "character_id": 2122013720,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90828002,
+    "name": "Charlie Severasse",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 90828002,
+      "name": "Charlie Severasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95771626,
+      "name": "nemo cell",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cima Savi Omaristos",
+  "corporation_id": 98817553,
+  "alliance_id": null,
+  "corporation_name": "Jovian Inc.",
+  "alliance_name": null
+}

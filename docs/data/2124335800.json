@@ -1,0 +1,52 @@
+{
+  "character_id": 2124335800,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 154604790,
+      "name": "Luciolla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122601876,
+      "name": "Character 2122601876",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91751575,
+      "name": "Harlett Joss",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Good Apostle",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

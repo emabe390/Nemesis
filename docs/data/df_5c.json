@@ -1,0 +1,52 @@
+{
+  "character_id": 2123769200,
+  "total_losses": 23,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 1360687042,
+    "name": "Lemon Fresh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1362506717,
+    "alliance_id": null,
+    "corporation_name": "PuddinCorp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1360687042,
+      "name": "Lemon Fresh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115733186,
+      "name": "Wolf Aussie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116612115,
+      "name": "Tofu Hunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90728860,
+      "name": "Sparrow Christensen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DF-5C",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119871509,
+  "total_losses": 76,
+  "unique_killers": 53,
+  "nemesis": {
+    "id": 2123825535,
+    "name": "The Guided One",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2113291663,
+      "name": "Jonathan Apples",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113665247,
+      "name": "Jeff Fastbender",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90910894,
+      "name": "Span Matsutake",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cargo Shop",
+  "corporation_id": 98756495,
+  "alliance_id": 99013888,
+  "corporation_name": "Monkey Killers",
+  "alliance_name": "Happy Turbo Friends"
+}

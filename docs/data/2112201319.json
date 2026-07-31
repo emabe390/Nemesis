@@ -1,0 +1,52 @@
+{
+  "character_id": 2112201319,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 93818426,
+      "name": "Seira Katsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94885350,
+      "name": "Zexxel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95569887,
+      "name": "Nicolas Kion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nadyah Lando",
+  "corporation_id": 98695839,
+  "alliance_id": 99003214,
+  "corporation_name": "South Sun Industries",
+  "alliance_name": "Brave Collective"
+}

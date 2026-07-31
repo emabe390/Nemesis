@@ -1,0 +1,52 @@
+{
+  "character_id": 91445278,
+  "total_losses": 23,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95719102,
+      "name": "Yggdrasil Cesaille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114731739,
+      "name": "Ash Vitaker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jean-Luke Picard",
+  "corporation_id": 98699553,
+  "alliance_id": 99014849,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative."
+}

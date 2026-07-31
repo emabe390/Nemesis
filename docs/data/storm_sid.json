@@ -1,0 +1,52 @@
+{
+  "character_id": 2123213439,
+  "total_losses": 33,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2123690852,
+    "name": "Artur Wilde",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98700073,
+    "alliance_id": 99012021,
+    "corporation_name": "Pasika.UA",
+    "alliance_name": "UA Fleets"
+  },
+  "top_killers": [
+    {
+      "id": 2123690852,
+      "name": "Artur Wilde",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96051914,
+      "name": "Kainus Rise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96089356,
+      "name": "Vastin Andedare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 446001483,
+      "name": "Skypinger",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Storm Sid",
+  "corporation_id": 98700073,
+  "alliance_id": 99012021,
+  "corporation_name": "Pasika.UA",
+  "alliance_name": "UA Fleets"
+}

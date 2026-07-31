@@ -1,0 +1,40 @@
+{
+  "character_id": 2121781885,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1325657808,
+    "name": "Anulcia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1325657808,
+      "name": "Anulcia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 988041720,
+      "name": "Mortuus Angelus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120659586,
+      "name": "Waari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ralphalicious McBeans",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

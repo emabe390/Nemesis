@@ -1,0 +1,52 @@
+{
+  "character_id": 2124390069,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 350182592,
+    "name": "Zu Tsang",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98592854,
+    "alliance_id": 495729389,
+    "corporation_name": "Mea Culpa.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114984960,
+      "name": "Cicada Adacic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124224296,
+      "name": "Yustekk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113279272,
+      "name": "Ry Aucie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118681763,
+      "name": "Muralla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NobleRogue",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

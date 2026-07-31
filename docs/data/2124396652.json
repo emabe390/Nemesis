@@ -1,0 +1,52 @@
+{
+  "character_id": 2124396652,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123962682,
+    "name": "Rendir Zane",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98830514,
+    "alliance_id": null,
+    "corporation_name": "El Imperio Eterno",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123962682,
+      "name": "Rendir Zane",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92205070,
+      "name": "Scyther Vrynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121276341,
+      "name": "Pavoneo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123016310,
+      "name": "Xlem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94909450,
+      "name": "Toxic Paul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loner Ferra",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

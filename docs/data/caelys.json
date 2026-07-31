@@ -1,0 +1,52 @@
+{
+  "character_id": 785338373,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123816952,
+    "name": "Flutox",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98738617,
+    "alliance_id": null,
+    "corporation_name": "French Interstellar Enterprise",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123816952,
+      "name": "Flutox",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120489286,
+      "name": "Warmog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117202728,
+      "name": "Mary Gankins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117588676,
+      "name": "Calysta Naerth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Caelys",
+  "corporation_id": 98738617,
+  "alliance_id": null,
+  "corporation_name": "French Interstellar Enterprise",
+  "alliance_name": null
+}

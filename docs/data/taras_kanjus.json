@@ -1,0 +1,34 @@
+{
+  "character_id": 2124278486,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96608556,
+    "name": "Joe Bananowy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1556249210,
+      "name": "RockNrollshik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taras Kanjus",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

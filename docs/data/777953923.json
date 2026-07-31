@@ -1,0 +1,52 @@
+{
+  "character_id": 777953923,
+  "total_losses": 31,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 91807292,
+    "name": "kayla stormfront",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91807292,
+      "name": "kayla stormfront",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 1123779093,
+      "name": "Cally Lynch",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93408320,
+      "name": "Hefty Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94847964,
+      "name": "Ignacio Layola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96874051,
+      "name": "Dovin Baan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tad Lynch",
+  "corporation_id": 98823866,
+  "alliance_id": 99014467,
+  "corporation_name": "Tryggr Mining Independentents",
+  "alliance_name": "Empire's Edge Trading Cartel"
+}

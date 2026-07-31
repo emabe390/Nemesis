@@ -1,0 +1,52 @@
+{
+  "character_id": 2122379999,
+  "total_losses": 34,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 96851889,
+    "name": "Katlas CasualHero",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98783150,
+    "alliance_id": null,
+    "corporation_name": "SXIMONKS",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96851889,
+      "name": "Katlas CasualHero",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2113330966,
+      "name": "Boss Shu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114116559,
+      "name": "The Goddess ISK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118016008,
+      "name": "Contingency-JCTX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121849329,
+      "name": "Decklan Starchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kerbal Pilot",
+  "corporation_id": 98783150,
+  "alliance_id": 99003285,
+  "corporation_name": "SXIMONKS",
+  "alliance_name": "WarDogs League"
+}

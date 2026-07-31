@@ -1,0 +1,40 @@
+{
+  "character_id": 2123617351,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114042854,
+    "name": "Emely Rados",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98478883,
+    "alliance_id": null,
+    "corporation_name": "Know-Nothings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114042854,
+      "name": "Emely Rados",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118648707,
+      "name": "besh0808",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119599620,
+      "name": "Nana7m2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Feyd-Rauthah",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

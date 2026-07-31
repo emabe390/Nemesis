@@ -1,0 +1,46 @@
+{
+  "character_id": 2123560243,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123487236,
+    "name": "Taerun Soothsayer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123487236,
+      "name": "Taerun Soothsayer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96230510,
+      "name": "Character 96230510",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123751918,
+      "name": "DemonicMandem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123754656,
+      "name": "Roskolnikovv",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coltarain GPT",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

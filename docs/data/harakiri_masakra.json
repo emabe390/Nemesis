@@ -1,0 +1,40 @@
+{
+  "character_id": 2123225948,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 695006926,
+    "name": "Cyclone71",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 695006926,
+      "name": "Cyclone71",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 979077152,
+      "name": "SyIpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112467277,
+      "name": "Huang Arnoux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harakiri Masakra",
+  "corporation_id": 1187207583,
+  "alliance_id": 1354830081,
+  "corporation_name": "Shocky Industries Ltd.",
+  "alliance_name": "Goonswarm Federation"
+}

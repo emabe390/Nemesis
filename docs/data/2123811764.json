@@ -1,0 +1,40 @@
+{
+  "character_id": 2123811764,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95226571,
+    "name": "Eleonor 701",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95226571,
+      "name": "Eleonor 701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113122175,
+      "name": "Khaza Skir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ashane",
+  "corporation_id": 98674534,
+  "alliance_id": 99013513,
+  "corporation_name": "Voidlings",
+  "alliance_name": "V0IDLINGS"
+}

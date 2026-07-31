@@ -1,0 +1,52 @@
+{
+  "character_id": 2113480497,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96809418,
+    "name": "Ooklay Agbay",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96809418,
+      "name": "Ooklay Agbay",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91548792,
+      "name": "Jrankel Liberman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90533540,
+      "name": "Keriani Noban",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Argonui",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

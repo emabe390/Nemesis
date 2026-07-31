@@ -1,0 +1,52 @@
+{
+  "character_id": 91846624,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90700523,
+      "name": "Zaatron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94974188,
+      "name": "Ashle Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1215109603,
+      "name": "Fat Partizan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raffie Roberts",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 96349488,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96622771,
+    "name": "Paul Hammer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96622771,
+      "name": "Paul Hammer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93742153,
+      "name": "Dorothy Galle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113407951,
+      "name": "Murray Rothbardo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114398220,
+      "name": "Leper Gnomee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Simon Portland",
+  "corporation_id": 98825998,
+  "alliance_id": 99009163,
+  "corporation_name": "Keno. Corp.",
+  "alliance_name": "Dracarys."
+}

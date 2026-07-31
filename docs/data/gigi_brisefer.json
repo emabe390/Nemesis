@@ -1,0 +1,46 @@
+{
+  "character_id": 2123546675,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 709070005,
+    "name": "Corniz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98342159,
+    "alliance_id": null,
+    "corporation_name": "Cleenad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 709070005,
+      "name": "Corniz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120003112,
+      "name": "KOT-B-ATAKE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122089339,
+      "name": "Colin Beardman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123011192,
+      "name": "KOT ECT-KOBETOP-HA-3ABTPAK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gigi Brisefer",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

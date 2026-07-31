@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904222,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 93075150,
+    "name": "Mackatoa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 1900696668,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93075150,
+      "name": "Mackatoa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96994026,
+      "name": "Leo Verk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113261196,
+      "name": "Kayn Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124398966,
+      "name": "Meshif Rahim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "broness",
+  "corporation_id": 1266832466,
+  "alliance_id": 99015022,
+  "corporation_name": "Drunken Beaver Mining",
+  "alliance_name": "Black Ribbit"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115400276,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1743905655,
+    "name": "EF Beta",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116598373,
+      "name": "Splorix Merkur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120778556,
+      "name": "EF Zeta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taylor Me",
+  "corporation_id": 98603606,
+  "alliance_id": null,
+  "corporation_name": "Climbing Business Company",
+  "alliance_name": null
+}

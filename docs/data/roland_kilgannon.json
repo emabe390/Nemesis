@@ -1,0 +1,40 @@
+{
+  "character_id": 2123683027,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120830004,
+    "name": "Razumton",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789018,
+    "alliance_id": null,
+    "corporation_name": "United Free Beings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120830004,
+      "name": "Razumton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123529778,
+      "name": "Zatekita",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roland Kilgannon",
+  "corporation_id": 98814739,
+  "alliance_id": null,
+  "corporation_name": "SDMF",
+  "alliance_name": null
+}

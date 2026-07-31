@@ -1,0 +1,40 @@
+{
+  "character_id": 2123238475,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92256155,
+    "name": "Lee Blackwood",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119795620,
+      "name": "Zaver78",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121638796,
+      "name": "Agent Krieg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RiverUnit002",
+  "corporation_id": 98787637,
+  "alliance_id": null,
+  "corporation_name": "RiverCorp",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2118952838,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116064095,
+    "name": "Magnus Dangereux",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98812126,
+    "alliance_id": 99012908,
+    "corporation_name": "Fifth Kingdom of Night",
+    "alliance_name": "Seker Academy"
+  },
+  "top_killers": [
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120206036,
+      "name": "Imalas Chiron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Skelloh",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

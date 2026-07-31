@@ -1,0 +1,52 @@
+{
+  "character_id": 2123972535,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1088333998,
+    "name": "Fat Zero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123953942,
+      "name": "Xiass Black-Keyzer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92004354,
+      "name": "Teysha Blackblade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96775499,
+      "name": "Gorien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96844065,
+      "name": "Nikole Joringer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xiass slave",
+  "corporation_id": 148873883,
+  "alliance_id": 99012982,
+  "corporation_name": "Section XIII",
+  "alliance_name": "OnlyFleets."
+}

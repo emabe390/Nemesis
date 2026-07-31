@@ -1,0 +1,40 @@
+{
+  "character_id": 2123705260,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123759225,
+    "name": "Melokuhle",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98707671,
+    "alliance_id": 99011119,
+    "corporation_name": "Absolute Order XXXVII",
+    "alliance_name": "Absolute Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2123759225,
+      "name": "Melokuhle",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 440776503,
+      "name": "Eugene Spencer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122374299,
+      "name": "Jart Hastmena",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AntiNastra",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

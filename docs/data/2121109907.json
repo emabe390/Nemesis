@@ -1,0 +1,40 @@
+{
+  "character_id": 2121109907,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95612826,
+    "name": "DaVinci Mishi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98744868,
+    "alliance_id": 99012442,
+    "corporation_name": "We Love Cynos",
+    "alliance_name": "We Use Cynos"
+  },
+  "top_killers": [
+    {
+      "id": 95612826,
+      "name": "DaVinci Mishi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114430371,
+      "name": "Marcus Arilia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krontook",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

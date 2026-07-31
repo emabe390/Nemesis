@@ -1,0 +1,40 @@
+{
+  "character_id": 2117968335,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 659499856,
+      "name": "Dr Cunter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122669393,
+      "name": "Atlas McMerc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kraken Dreamer",
+  "corporation_id": 98183500,
+  "alliance_id": 99009324,
+  "corporation_name": "Karmic Injustice",
+  "alliance_name": "Wardec Mechanics"
+}

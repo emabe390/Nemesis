@@ -1,0 +1,34 @@
+{
+  "character_id": 2123943937,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123133927,
+    "name": "edison-k",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805140,
+    "alliance_id": 99013537,
+    "corporation_name": "Sunset Red Activity Club",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 2123133927,
+      "name": "edison-k",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123646134,
+      "name": "Alaari Kautsuo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Abby HSR",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

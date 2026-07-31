@@ -1,0 +1,52 @@
+{
+  "character_id": 2124310774,
+  "total_losses": 52,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 96797014,
+    "name": "Breadfish Chelien",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98570801,
+    "alliance_id": null,
+    "corporation_name": "Insitution of Homeless Fish",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 5,
+      "final_blows": 4
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123235002,
+      "name": "HAL 7",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90201872,
+      "name": "R Hotzenplotz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Letero",
+  "corporation_id": 98743337,
+  "alliance_id": 99012862,
+  "corporation_name": "Mining Under the Influence",
+  "alliance_name": "Influential Operations"
+}

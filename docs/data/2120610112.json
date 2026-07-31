@@ -1,0 +1,40 @@
+{
+  "character_id": 2120610112,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 112597121,
+    "name": "MIROMAX",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 112597121,
+      "name": "MIROMAX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122170097,
+      "name": "Usui7",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124321266,
+      "name": "Hakotar Laduko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mila Fly",
+  "corporation_id": 98726655,
+  "alliance_id": null,
+  "corporation_name": "Atlantis Corporation YB",
+  "alliance_name": null
+}

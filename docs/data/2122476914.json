@@ -1,0 +1,40 @@
+{
+  "character_id": 2122476914,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112316160,
+    "name": "Spooky Bandit",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112316160,
+      "name": "Spooky Bandit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95141153,
+      "name": "Jarvis Aurelius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1342819338,
+      "name": "M0RE P0WER",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Winter Coalition",
+  "corporation_id": 98809489,
+  "alliance_id": 99014310,
+  "corporation_name": "THE HERITAGE FOUNDATION",
+  "alliance_name": "OBEY."
+}

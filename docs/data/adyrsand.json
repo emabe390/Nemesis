@@ -1,0 +1,40 @@
+{
+  "character_id": 2123492031,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 249759097,
+    "name": "Beljaki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 249759097,
+      "name": "Beljaki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91698165,
+      "name": "Urs Blank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 926245931,
+      "name": "StarConquer212",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adyrsand",
+  "corporation_id": 98810374,
+  "alliance_id": 99014101,
+  "corporation_name": "Suddenly Billionaire",
+  "alliance_name": "Reckless Empire"
+}

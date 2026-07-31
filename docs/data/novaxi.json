@@ -1,0 +1,52 @@
+{
+  "character_id": 2123803522,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95305336,
+    "name": "killing ju 101",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98632357,
+    "alliance_id": 1900696668,
+    "corporation_name": "Imperium Cartel.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 95305336,
+      "name": "killing ju 101",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119020649,
+      "name": "RHlNOX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123403681,
+      "name": "Alice Spade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93214934,
+      "name": "Kane Carnifex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Novaxi",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 426813520,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120340275,
+    "name": "HeavyTree",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790733,
+    "alliance_id": null,
+    "corporation_name": "Heavy's Slaves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122681891,
+      "name": "Eiko Kawashima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93445249,
+      "name": "KLuB Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 614736126,
+      "name": "Daedrus Falconar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 665416224,
+      "name": "Mohawk Mom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leneth Valkrie",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

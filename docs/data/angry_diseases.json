@@ -1,0 +1,52 @@
+{
+  "character_id": 2123063658,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 92146600,
+    "name": "Tim Ambraelle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833039,
+    "alliance_id": 99015041,
+    "corporation_name": "So It Goes.",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 92146600,
+      "name": "Tim Ambraelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 383636737,
+      "name": "The CloudyOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1104531524,
+      "name": "Wurdalac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 834344056,
+      "name": "Yarno Zykur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1208179253,
+      "name": "Aesari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Angry Diseases",
+  "corporation_id": 98827151,
+  "alliance_id": 99014828,
+  "corporation_name": "Axiom.",
+  "alliance_name": "Singularity..."
+}

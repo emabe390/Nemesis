@@ -1,0 +1,34 @@
+{
+  "character_id": 2123865216,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123489339,
+    "name": "Temu FC",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98112824,
+    "alliance_id": 99003581,
+    "corporation_name": "Balkan Mafia",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123489339,
+      "name": "Temu FC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 177189493,
+      "name": "Character 177189493",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Whale among stars",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

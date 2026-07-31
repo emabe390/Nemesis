@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321257,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123321244,
+    "name": "Excavator Alpha",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98249511,
+    "alliance_id": null,
+    "corporation_name": "Istvaan V",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123321244,
+      "name": "Excavator Alpha",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96520595,
+      "name": "R4f43l R054",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90065548,
+      "name": "MopsMann",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91927594,
+      "name": "Bruce 'Lee' Sin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Excavator Tau",
+  "corporation_id": 98249511,
+  "alliance_id": null,
+  "corporation_name": "Istvaan V",
+  "alliance_name": null
+}

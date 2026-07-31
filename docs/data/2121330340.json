@@ -1,0 +1,52 @@
+{
+  "character_id": 2121330340,
+  "total_losses": 84,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2123946473,
+    "name": "InfiniteHeaven",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123946473,
+      "name": "InfiniteHeaven",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2119658569,
+      "name": "Daughter of Ares",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122209190,
+      "name": "248625",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DownToZero",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

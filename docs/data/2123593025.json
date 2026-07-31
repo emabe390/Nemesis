@@ -1,0 +1,40 @@
+{
+  "character_id": 2123593025,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95085654,
+    "name": "Tis-A-Shart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 95085654,
+      "name": "Tis-A-Shart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91695574,
+      "name": "Interwebz Copernicus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1658742790,
+      "name": "General Calarin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beefy Muscle",
+  "corporation_id": 98811330,
+  "alliance_id": null,
+  "corporation_name": "Stellar Nexus",
+  "alliance_name": null
+}

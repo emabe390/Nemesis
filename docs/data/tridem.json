@@ -1,0 +1,52 @@
+{
+  "character_id": 2123938025,
+  "total_losses": 119,
+  "unique_killers": 87,
+  "nemesis": {
+    "id": 1309920473,
+    "name": "Supercool",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98373312,
+    "alliance_id": null,
+    "corporation_name": "Silence now",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1309920473,
+      "name": "Supercool",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95771165,
+      "name": "Arien Iluvitar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90656762,
+      "name": "Jam Tanto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92099164,
+      "name": "NayerSkeyak Vyvorant",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tridem",
+  "corporation_id": 98821864,
+  "alliance_id": 99002685,
+  "corporation_name": "Strategic Sourcing Association",
+  "alliance_name": "Synergy of Steel"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123743535,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 198615626,
+    "name": "Delta Flyer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 287987399,
+    "alliance_id": null,
+    "corporation_name": "The Burning Skull",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 198615626,
+      "name": "Delta Flyer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114088709,
+      "name": "safira jomita",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120493206,
+      "name": "HsmS21",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aedgur Madeveda",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

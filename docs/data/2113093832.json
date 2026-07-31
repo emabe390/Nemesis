@@ -1,0 +1,34 @@
+{
+  "character_id": 2113093832,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1470056671,
+    "name": "Damon Strife",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98491899,
+    "alliance_id": 99015170,
+    "corporation_name": "Sister Maggie's Consignment",
+    "alliance_name": "Iron Anchor Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1470056671,
+      "name": "Damon Strife",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaz Roth",
+  "corporation_id": 98565603,
+  "alliance_id": null,
+  "corporation_name": "Order of the Skybreakers",
+  "alliance_name": null
+}

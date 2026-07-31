@@ -1,0 +1,46 @@
+{
+  "character_id": 91317375,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113791998,
+    "name": "Wolf Doukas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113791998,
+      "name": "Wolf Doukas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1845121228,
+      "name": "Phantomite",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Twyla Alland",
+  "corporation_id": 98789606,
+  "alliance_id": 99003214,
+  "corporation_name": "Guild of Interdependent Pilots",
+  "alliance_name": "Brave Collective"
+}

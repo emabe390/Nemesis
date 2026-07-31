@@ -1,0 +1,52 @@
+{
+  "character_id": 1942848314,
+  "total_losses": 27,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 3020075,
+    "name": "Phylarch Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2122400117,
+      "name": "Tokohana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90355231,
+      "name": "VLD Miromme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91070088,
+      "name": "J1m Raynor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92423345,
+      "name": "andriana death",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven Bluefeathers",
+  "corporation_id": 98560158,
+  "alliance_id": 1042504553,
+  "corporation_name": "Konrakas Forged",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124103988,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1696881463,
+    "name": "Character 1696881463",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98785802,
+    "alliance_id": 99009961,
+    "corporation_name": "Celtic Dragon Corp Inc",
+    "alliance_name": "The Gorram Shiney Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1696881463,
+      "name": "Character 1696881463",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114303728,
+      "name": "Thorin Kashuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119883181,
+      "name": "Charonn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wise The Dumb",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

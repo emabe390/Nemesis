@@ -1,0 +1,40 @@
+{
+  "character_id": 2123906458,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91260604,
+    "name": "intruderUFO",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98467870,
+    "alliance_id": null,
+    "corporation_name": "Valhalla corp.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91260604,
+      "name": "intruderUFO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1041128212,
+      "name": "Fortune Mitford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115426916,
+      "name": "Behakhan Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Al Raach",
+  "corporation_id": 98819750,
+  "alliance_id": null,
+  "corporation_name": "Republique Of The Outer Border",
+  "alliance_name": null
+}

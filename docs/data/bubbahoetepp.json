@@ -1,0 +1,40 @@
+{
+  "character_id": 2124548458,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122177581,
+      "name": "Pounce like Pounce",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124316774,
+      "name": "Character 2124316774",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bubbahoetepp",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

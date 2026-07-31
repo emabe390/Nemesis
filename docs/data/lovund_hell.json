@@ -1,0 +1,40 @@
+{
+  "character_id": 2115279983,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95586788,
+    "name": "Chang'e luna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95586788,
+      "name": "Chang'e luna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 670482504,
+      "name": "Azikar 'Shariz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114648900,
+      "name": "Chimera Makanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lovund Hell",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

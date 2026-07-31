@@ -1,0 +1,52 @@
+{
+  "character_id": 2123977924,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121405431,
+    "name": "Mitis Wendy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98186730,
+    "alliance_id": 1354830081,
+    "corporation_name": "Brothers of Tyr",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121405431,
+      "name": "Mitis Wendy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 791875142,
+      "name": "FearBytes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1815363416,
+      "name": "Cameron Love",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115504802,
+      "name": "Blak Mandeling",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123656968,
+      "name": "Germes H",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vriska Makara",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123402710,
+  "total_losses": 22,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 101794511,
+    "name": "B2K008",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 101794511,
+      "name": "B2K008",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113830611,
+      "name": "Character 2113830611",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115050537,
+      "name": "Chadan Abduventri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115379909,
+      "name": "Flanker VRN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94017319,
+      "name": "Silver Villain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sha Hinken",
+  "corporation_id": 98838661,
+  "alliance_id": null,
+  "corporation_name": "Escalation Express",
+  "alliance_name": null
+}

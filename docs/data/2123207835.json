@@ -1,0 +1,52 @@
+{
+  "character_id": 2123207835,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95605572,
+    "name": "Astora",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98809179,
+    "alliance_id": null,
+    "corporation_name": "The Capstone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95605572,
+      "name": "Astora",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123631655,
+      "name": "LYue2020",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 358315710,
+      "name": "Rex Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120999216,
+      "name": "Mad McCraazyy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121885800,
+      "name": "Prince Moloch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123207835",
+  "corporation_id": 98175273,
+  "alliance_id": null,
+  "corporation_name": "WorldEaters",
+  "alliance_name": null
+}

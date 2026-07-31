@@ -1,0 +1,52 @@
+{
+  "character_id": 2123231882,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 147718219,
+    "name": "Keeves",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98143154,
+    "alliance_id": 99004818,
+    "corporation_name": "Estamos Solos Corporation",
+    "alliance_name": "Estamos Solos Alliance."
+  },
+  "top_killers": [
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122343253,
+      "name": "Earley Soriano",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91139333,
+      "name": "Kyle Anstian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96182682,
+      "name": "Alex 006",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114990350,
+      "name": "Radec Uitra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adele Normand",
+  "corporation_id": 98057377,
+  "alliance_id": 1354830081,
+  "corporation_name": "Core Industry.",
+  "alliance_name": "Goonswarm Federation"
+}

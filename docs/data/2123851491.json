@@ -1,0 +1,34 @@
+{
+  "character_id": 2123851491,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119979871,
+    "name": "StationACE",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98032343,
+    "alliance_id": 99012398,
+    "corporation_name": "Douchingtons",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 2119979871,
+      "name": "StationACE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117339708,
+      "name": "Jinx Beirut",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arkono Gore III",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

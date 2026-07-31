@@ -1,0 +1,52 @@
+{
+  "character_id": 2122718022,
+  "total_losses": 25,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 6,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 6,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 5,
+      "final_blows": 2
+    },
+    {
+      "id": 2122180761,
+      "name": "Ms Malaise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122693659,
+      "name": "ningzhou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90298267,
+      "name": "Ho Chi Minge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ningzhou-2",
+  "corporation_id": 98692697,
+  "alliance_id": 99009163,
+  "corporation_name": "D.C Logistics",
+  "alliance_name": "Dracarys."
+}

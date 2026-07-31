@@ -1,0 +1,52 @@
+{
+  "character_id": 2123710473,
+  "total_losses": 52,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2123388006,
+    "name": "MadNick",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98824437,
+    "alliance_id": 99003285,
+    "corporation_name": "Space Tramps of New Eden",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2123388006,
+      "name": "MadNick",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93926714,
+      "name": "Han Dong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94069577,
+      "name": "Esperia Genevra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96523488,
+      "name": "Jon Lex",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "seerkhan",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

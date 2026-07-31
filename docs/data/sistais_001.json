@@ -1,0 +1,52 @@
+{
+  "character_id": 2123905982,
+  "total_losses": 42,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2121705499,
+    "name": "Sistais",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98599181,
+    "alliance_id": 99003581,
+    "corporation_name": "Attack On CALDARI",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121705499,
+      "name": "Sistais",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123905982,
+      "name": "Sistais 001",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 1829031415,
+      "name": "Character 1829031415",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119831838,
+      "name": "268425",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90715403,
+      "name": "Judge Sarn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sistais 001",
+  "corporation_id": 98599181,
+  "alliance_id": 99003581,
+  "corporation_name": "Attack On CALDARI",
+  "alliance_name": "Fraternity."
+}

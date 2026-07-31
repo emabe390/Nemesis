@@ -1,0 +1,46 @@
+{
+  "character_id": 2123567516,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 265341811,
+    "name": "Moot Scudrunner",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 265341811,
+      "name": "Moot Scudrunner",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115903151,
+      "name": "shark daddy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118435201,
+      "name": "ultrababy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123476773,
+      "name": "Pita Zeljanica",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stable Wormhole",
+  "corporation_id": 98812065,
+  "alliance_id": null,
+  "corporation_name": "Plex Buyback",
+  "alliance_name": null
+}

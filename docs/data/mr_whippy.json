@@ -1,0 +1,40 @@
+{
+  "character_id": 2113330863,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124153666,
+    "name": "Connor Santos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98797524,
+    "alliance_id": 99013920,
+    "corporation_name": "Vestal Keepers",
+    "alliance_name": "Embers of the Void"
+  },
+  "top_killers": [
+    {
+      "id": 2124153666,
+      "name": "Connor Santos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 943529226,
+      "name": "DaHarMasterKor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120989022,
+      "name": "Minus de Bauldrey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mr Whippy",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

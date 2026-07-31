@@ -1,0 +1,40 @@
+{
+  "character_id": 2123953368,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120980538,
+    "name": "rolfhie",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98822134,
+    "alliance_id": 99013537,
+    "corporation_name": "Insidious Inc",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 2120980538,
+      "name": "rolfhie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121746771,
+      "name": "obstinate and unruly",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123156217,
+      "name": "Character 2123156217",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Storm Farkit",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

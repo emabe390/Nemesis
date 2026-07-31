@@ -1,0 +1,52 @@
+{
+  "character_id": 2121779779,
+  "total_losses": 14,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96482802,
+      "name": "Tatsu Hattori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1486007602,
+      "name": "Maximas Deridian",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Amy Slinko",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

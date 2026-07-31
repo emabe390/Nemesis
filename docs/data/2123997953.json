@@ -1,0 +1,40 @@
+{
+  "character_id": 2123997953,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 137690223,
+    "name": "Kryptek",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98065337,
+    "alliance_id": 99004567,
+    "corporation_name": "Bring The Noise",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 137690223,
+      "name": "Kryptek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117140944,
+      "name": "Cpt Rennegan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118907282,
+      "name": "Vevane Arnoux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Isok Pellion",
+  "corporation_id": 98378388,
+  "alliance_id": 99002685,
+  "corporation_name": "Marauders Associated",
+  "alliance_name": "Synergy of Steel"
+}

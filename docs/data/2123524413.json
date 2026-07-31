@@ -1,0 +1,52 @@
+{
+  "character_id": 2123524413,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96666596,
+    "name": "HARUT CAXKYAN",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96666596,
+      "name": "HARUT CAXKYAN",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94936738,
+      "name": "Docteur Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 243941398,
+      "name": "masty",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96734819,
+      "name": "XARUT CAXKYAN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gilder Lannister",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

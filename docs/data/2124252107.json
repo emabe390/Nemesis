@@ -1,0 +1,52 @@
+{
+  "character_id": 2124252107,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94882943,
+    "name": "Diablo's Gamekeeper",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 94882943,
+      "name": "Diablo's Gamekeeper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124052002,
+      "name": "Cornelius York",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96919940,
+      "name": "Futility Prevails",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1692648515,
+      "name": "Elitist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Auberon II",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

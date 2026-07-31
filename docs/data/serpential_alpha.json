@@ -1,0 +1,34 @@
+{
+  "character_id": 2119115063,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114852553,
+    "name": "Mrs Cortana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98582593,
+    "alliance_id": 1695357456,
+    "corporation_name": "Circle-0f-Two",
+    "alliance_name": "Circle-Of-Two"
+  },
+  "top_killers": [
+    {
+      "id": 2114852553,
+      "name": "Mrs Cortana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91648221,
+      "name": "Crypto Sporidium",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serpential Alpha",
+  "corporation_id": 98593817,
+  "alliance_id": 1354830081,
+  "corporation_name": "Flightless Birds Appreciation Station",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123924391,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1902851063,
+    "name": "Miesmaccher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98373387,
+    "alliance_id": null,
+    "corporation_name": "Daily Terror",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1902851063,
+      "name": "Miesmaccher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122878183,
+      "name": "Pyxith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90711855,
+      "name": "Juktus Groth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 819004125,
+      "name": "Aaaarrgg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122381779,
+      "name": "Kayra Moon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coozko",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

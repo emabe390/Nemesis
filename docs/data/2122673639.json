@@ -1,0 +1,52 @@
+{
+  "character_id": 2122673639,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122410546,
+    "name": "Xing Fei Weir",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122410546,
+      "name": "Xing Fei Weir",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96481537,
+      "name": "Xel'lotath Tier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119948779,
+      "name": "Vladimir Ekler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120104242,
+      "name": "Character 2120104242",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120204876,
+      "name": "Retian Bravo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bylibash",
+  "corporation_id": 98717146,
+  "alliance_id": 99012122,
+  "corporation_name": "Absolutely ineffective corp",
+  "alliance_name": "HOLD MY PROBS"
+}

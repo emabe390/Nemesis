@@ -1,0 +1,52 @@
+{
+  "character_id": 2113707971,
+  "total_losses": 45,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 2123687706,
+    "name": "Mary Alice Cullen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123687706,
+      "name": "Mary Alice Cullen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 993607874,
+      "name": "TomHorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123771141,
+      "name": "Warlock Industries Event",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90450303,
+      "name": "Kakeki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lydia Amine",
+  "corporation_id": 1894214152,
+  "alliance_id": 99011730,
+  "corporation_name": "Aideron Robotics",
+  "alliance_name": "Aideron Robotics."
+}

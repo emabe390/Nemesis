@@ -1,0 +1,40 @@
+{
+  "character_id": 96646200,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96103372,
+    "name": "WhatThePissTrainee",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98258093,
+    "alliance_id": 99009268,
+    "corporation_name": "Strategic Exploration and Development Corp",
+    "alliance_name": "Silent Company"
+  },
+  "top_killers": [
+    {
+      "id": 96103372,
+      "name": "WhatThePissTrainee",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114236089,
+      "name": "RedHulk1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123168642,
+      "name": "My Little Phoney",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Verba Kado",
+  "corporation_id": 98473251,
+  "alliance_id": null,
+  "corporation_name": "New SWIFT Verba Corp",
+  "alliance_name": null
+}

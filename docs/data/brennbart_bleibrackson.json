@@ -1,0 +1,40 @@
+{
+  "character_id": 2124350596,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 576365364,
+    "name": "Ponder Yonder",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 576365364,
+      "name": "Ponder Yonder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117394468,
+      "name": "Ozxy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123180054,
+      "name": "Splinter Askold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brennbart Bleibrackson",
+  "corporation_id": 98827382,
+  "alliance_id": null,
+  "corporation_name": "Elme Corp",
+  "alliance_name": null
+}

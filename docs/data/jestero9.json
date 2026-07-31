@@ -1,0 +1,40 @@
+{
+  "character_id": 2123712202,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123708191,
+    "name": "Clease",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98054920,
+    "alliance_id": 99009412,
+    "corporation_name": "Sector IX",
+    "alliance_name": "Outer Planets Association"
+  },
+  "top_killers": [
+    {
+      "id": 2123708191,
+      "name": "Clease",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114491873,
+      "name": "Alice Rebel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118986591,
+      "name": "Columbuz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JesterO9",
+  "corporation_id": 98054920,
+  "alliance_id": 99009412,
+  "corporation_name": "Sector IX",
+  "alliance_name": "Outer Planets Association"
+}

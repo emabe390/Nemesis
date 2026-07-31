@@ -1,0 +1,34 @@
+{
+  "character_id": 2123687235,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122472471,
+    "name": "BoomBlapPow",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779121,
+    "alliance_id": null,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122472471,
+      "name": "BoomBlapPow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118932151,
+      "name": "Character 2118932151",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Locke Nonni",
+  "corporation_id": 98766100,
+  "alliance_id": 99013537,
+  "corporation_name": "Our Sanctum",
+  "alliance_name": "Insidious."
+}

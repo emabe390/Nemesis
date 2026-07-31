@@ -1,0 +1,52 @@
+{
+  "character_id": 2123553274,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112191771,
+      "name": "Nick Ezinem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90943415,
+      "name": "t8xxic Thiesant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 315151368,
+      "name": "Orbixx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nar Hutta",
+  "corporation_id": 98716927,
+  "alliance_id": null,
+  "corporation_name": "Corvega Supply",
+  "alliance_name": null
+}

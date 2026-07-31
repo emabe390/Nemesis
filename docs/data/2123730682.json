@@ -1,0 +1,40 @@
+{
+  "character_id": 2123730682,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90423407,
+    "name": "Dragon QxReyho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 90423407,
+      "name": "Dragon QxReyho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1127613567,
+      "name": "Exosphere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115736299,
+      "name": "Hekki Rinn",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Greirt",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

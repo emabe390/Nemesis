@@ -1,0 +1,52 @@
+{
+  "character_id": 2122323601,
+  "total_losses": 99,
+  "unique_killers": 77,
+  "nemesis": {
+    "id": 2119206846,
+    "name": "Dainslief",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119206846,
+      "name": "Dainslief",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122164466,
+      "name": "Aaron Seivad",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94802808,
+      "name": "Gremlin Decronian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95362087,
+      "name": "Myriam Taredi",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Red MK Galaxy",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123635128,
+  "total_losses": 30,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123663003,
+    "name": "Espartanum Legio",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98288855,
+    "alliance_id": null,
+    "corporation_name": "Garra Ferrea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123663003,
+      "name": "Espartanum Legio",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 91891402,
+      "name": "Kuro Kakugo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93242586,
+      "name": "Prda Prda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95825416,
+      "name": "Heidi Mae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 646234498,
+      "name": "Ivan En'Vec",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Gedzeilo Brord Metesur",
+  "corporation_id": 98746840,
+  "alliance_id": null,
+  "corporation_name": "Industrial Integration Unit",
+  "alliance_name": null
+}

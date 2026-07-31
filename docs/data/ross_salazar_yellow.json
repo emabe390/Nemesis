@@ -1,0 +1,40 @@
+{
+  "character_id": 2124504548,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118358003,
+    "name": "dreadnought fire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98599181,
+    "alliance_id": 99003581,
+    "corporation_name": "Attack On CALDARI",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2118358003,
+      "name": "dreadnought fire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115884297,
+      "name": "R virushuan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116499964,
+      "name": "Michael Dua",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ross Salazar Yellow",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124091421,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112763988,
+    "name": "Character 2112763988",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98710056,
+    "alliance_id": null,
+    "corporation_name": "Antimatter Anonymous",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112763988,
+      "name": "Character 2112763988",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118893654,
+      "name": "Blaster Becky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119736384,
+      "name": "Chief Grug",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121308106,
+      "name": "Chieftess Grugette",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astarte I",
+  "corporation_id": 98693013,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XXV",
+  "alliance_name": "Absolute Will"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121943704,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124052002,
+    "name": "Cornelius York",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98280176,
+    "alliance_id": 99014695,
+    "corporation_name": "Feuersturm am Rhein",
+    "alliance_name": "Blackout Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 2124052002,
+      "name": "Cornelius York",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93548536,
+      "name": "Atmavadha Pantha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119152932,
+      "name": "Character 2119152932",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cephisos",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

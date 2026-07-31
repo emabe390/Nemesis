@@ -1,0 +1,52 @@
+{
+  "character_id": 2123638081,
+  "total_losses": 45,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2123431093,
+    "name": "Titivillus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98521871,
+    "alliance_id": 99003581,
+    "corporation_name": "Mineclub",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123431093,
+      "name": "Titivillus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91709897,
+      "name": "ddiere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95362087,
+      "name": "Myriam Taredi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 949417929,
+      "name": "Ghostmarine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1181492764,
+      "name": "SgtSlacker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hebard Auduin",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

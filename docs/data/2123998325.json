@@ -1,0 +1,40 @@
+{
+  "character_id": 2123998325,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96160600,
+    "name": "Kami Inari",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98775651,
+    "alliance_id": 99014518,
+    "corporation_name": "Puppygirls Anonymous",
+    "alliance_name": "PUT THE FRIES IN THE BAG"
+  },
+  "top_killers": [
+    {
+      "id": 96160600,
+      "name": "Kami Inari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123750963,
+      "name": "AIvatar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123843801,
+      "name": "TTGFTW",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gid Omaristos",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

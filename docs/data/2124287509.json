@@ -1,0 +1,52 @@
+{
+  "character_id": 2124287509,
+  "total_losses": 52,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2124370480,
+    "name": "pink-snake",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124370480,
+      "name": "pink-snake",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95877373,
+      "name": "Purdy Prda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 898899518,
+      "name": "Orco Manic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1236699241,
+      "name": "MooCowofKow",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "white-snake",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

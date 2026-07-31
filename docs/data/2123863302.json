@@ -1,0 +1,52 @@
+{
+  "character_id": 2123863302,
+  "total_losses": 21,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2114867663,
+    "name": "Sebastian Tombs",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2114867663,
+      "name": "Sebastian Tombs",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90700179,
+      "name": "Roger Rabitt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1041128212,
+      "name": "Fortune Mitford",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90500669,
+      "name": "Dreadnaught X",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Askilen Hita",
+  "corporation_id": 98799892,
+  "alliance_id": 99014402,
+  "corporation_name": "False Gods",
+  "alliance_name": "Plenitude Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 91355415,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 312546099,
+    "name": "Emperor Apophis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98011082,
+    "alliance_id": 1354830081,
+    "corporation_name": "Shadow State",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 312546099,
+      "name": "Emperor Apophis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115513442,
+      "name": "Grey Ignis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121989714,
+      "name": "Zara Havoc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 91355415",
+  "corporation_id": 98835044,
+  "alliance_id": null,
+  "corporation_name": "No Sympathy.",
+  "alliance_name": null
+}

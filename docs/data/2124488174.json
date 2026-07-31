@@ -1,0 +1,40 @@
+{
+  "character_id": 2124488174,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121951854,
+    "name": "Solarisea",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98504902,
+    "alliance_id": null,
+    "corporation_name": "Shadow Flight",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121951854,
+      "name": "Solarisea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114017032,
+      "name": "Vasilios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120214192,
+      "name": "Another Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andrion Cantu",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

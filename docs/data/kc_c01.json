@@ -1,0 +1,52 @@
+{
+  "character_id": 2113332900,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 92408788,
+    "name": "Argive Lonestar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92408788,
+      "name": "Argive Lonestar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90923189,
+      "name": "Android Reaper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95699127,
+      "name": "Aaron Namm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96884169,
+      "name": "Akee Aumer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 698404960,
+      "name": "Qutis Hanid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KC-C01",
+  "corporation_id": 98311523,
+  "alliance_id": 498125261,
+  "corporation_name": "Machiavellian Empire",
+  "alliance_name": "Test Alliance Please Ignore"
+}

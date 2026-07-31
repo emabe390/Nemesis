@@ -1,0 +1,52 @@
+{
+  "character_id": 2123061236,
+  "total_losses": 105,
+  "unique_killers": 61,
+  "nemesis": {
+    "id": 2121027256,
+    "name": "Strahlenkater",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98642009,
+    "alliance_id": 99013251,
+    "corporation_name": "Valentine Drone Design",
+    "alliance_name": "Circle of Vheroka"
+  },
+  "top_killers": [
+    {
+      "id": 2121027256,
+      "name": "Strahlenkater",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2122196229,
+      "name": "Keith Aero",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 6,
+      "final_blows": 1
+    },
+    {
+      "id": 2121152279,
+      "name": "Character 2121152279",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93682561,
+      "name": "Zon Dak",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Vyroclast",
+  "corporation_id": 98800345,
+  "alliance_id": null,
+  "corporation_name": "Pithum X",
+  "alliance_name": null
+}

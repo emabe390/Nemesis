@@ -1,0 +1,52 @@
+{
+  "character_id": 2121992330,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95310711,
+      "name": "RedComet24243",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 151515810,
+      "name": "DeT Resprox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1525961147,
+      "name": "CJ Walker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117339892,
+      "name": "Louh Jaynara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cornelius Snow",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

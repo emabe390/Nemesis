@@ -1,0 +1,52 @@
+{
+  "character_id": 783634874,
+  "total_losses": 45,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 3020062,
+    "name": "Allecto Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": null,
+    "alliance_id": null,
+    "corporation_name": null,
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020062,
+      "name": "Allecto Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 761353702,
+      "name": "Arttu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 790021397,
+      "name": "Heldrum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121926676,
+      "name": "Sabre Mommy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122730568,
+      "name": "Lagtrain",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chuz",
+  "corporation_id": 98754582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Baba Yagas",
+  "alliance_name": "The Initiative."
+}

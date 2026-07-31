@@ -1,0 +1,40 @@
+{
+  "character_id": 2121110033,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1953900463,
+    "name": "Kimanajaro",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 1953900463,
+      "name": "Kimanajaro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2057943890,
+      "name": "NinjaSpud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123584571,
+      "name": "ImWarg Wargasmatron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EnSkill",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

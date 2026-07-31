@@ -1,0 +1,52 @@
+{
+  "character_id": 94860969,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 94756387,
+    "name": "Planet Kiler",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98252033,
+    "alliance_id": 99004344,
+    "corporation_name": "Vision Inc",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 94756387,
+      "name": "Planet Kiler",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115559313,
+      "name": "Elena Cherry",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 293072694,
+      "name": "Alice's Death",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 342610312,
+      "name": "Shpingalett",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114419840,
+      "name": "Drack en Chasteaux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dirneo Hermetz",
+  "corporation_id": 98760356,
+  "alliance_id": 99014203,
+  "corporation_name": "Diplomatie Rapide",
+  "alliance_name": "Wreckflix and chill"
+}

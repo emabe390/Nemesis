@@ -1,0 +1,46 @@
+{
+  "character_id": 2123953902,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117035245,
+    "name": "Hefeweizen3",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2117035245,
+      "name": "Hefeweizen3",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1371569186,
+      "name": "Caleb Kadesh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114116559,
+      "name": "The Goddess ISK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123909041,
+      "name": "Alex 'Chef' Deschain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Y2MM2",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

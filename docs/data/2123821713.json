@@ -1,0 +1,52 @@
+{
+  "character_id": 2123821713,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120394364,
+      "name": "Ghost-Pilot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91409301,
+      "name": "Cody Miles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91542925,
+      "name": "Bruiser Miles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 840906167,
+      "name": "Epistemic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liggy Ligson",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

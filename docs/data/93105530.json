@@ -1,0 +1,40 @@
+{
+  "character_id": 93105530,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93603957,
+    "name": "Oliver Forks",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 786953927,
+    "alliance_id": null,
+    "corporation_name": "back in the USSR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93603957,
+      "name": "Oliver Forks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121561068,
+      "name": "Bad Santa 13",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122051454,
+      "name": "Kovap",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Manfred Phillips",
+  "corporation_id": 98185698,
+  "alliance_id": 99004567,
+  "corporation_name": "Trillium Invariant",
+  "alliance_name": "Honorable Third Party"
+}

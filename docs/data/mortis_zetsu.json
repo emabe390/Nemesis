@@ -1,0 +1,52 @@
+{
+  "character_id": 2123410439,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90201872,
+      "name": "R Hotzenplotz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95578092,
+      "name": "CALVIN HOOD HIGH",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1719170020,
+      "name": "Naguas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mortis Zetsu",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123544240,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 982259713,
+    "name": "Daemon Prince",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646925,
+    "alliance_id": 99012991,
+    "corporation_name": "Static Volatility",
+    "alliance_name": "Delectatio Morosa."
+  },
+  "top_killers": [
+    {
+      "id": 982259713,
+      "name": "Daemon Prince",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122703146,
+      "name": "Rehe8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112854706,
+      "name": "Doob Jakatar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "lugskip",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

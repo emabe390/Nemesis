@@ -1,0 +1,40 @@
+{
+  "character_id": 2123365043,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95702442,
+    "name": "Gondoleeza Ricin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98608056,
+    "alliance_id": 99010877,
+    "corporation_name": "Death Runs Riot",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 95702442,
+      "name": "Gondoleeza Ricin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 351099494,
+      "name": "AltDel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118147030,
+      "name": "Mampila Akiga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mitsuri Uta",
+  "corporation_id": 98267215,
+  "alliance_id": 99013537,
+  "corporation_name": "Serenity Mining and Industry Inc.",
+  "alliance_name": "Insidious."
+}

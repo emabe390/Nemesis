@@ -1,0 +1,40 @@
+{
+  "character_id": 95585699,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 351337745,
+    "name": "Mrs Curtain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 351337745,
+      "name": "Mrs Curtain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113094332,
+      "name": "Pak3n",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113401781,
+      "name": "Yondu Groot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "immortal fearmonger",
+  "corporation_id": 98679081,
+  "alliance_id": null,
+  "corporation_name": "Deaths Consortium",
+  "alliance_name": null
+}

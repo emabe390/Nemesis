@@ -1,0 +1,52 @@
+{
+  "character_id": 2120215366,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90792047,
+      "name": "vardon Deninard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123553253,
+      "name": "John Milne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92089166,
+      "name": "Egoiste Aele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1426461973,
+      "name": "Stillnox Dwil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elin Moong",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

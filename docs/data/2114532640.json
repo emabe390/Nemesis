@@ -1,0 +1,52 @@
+{
+  "character_id": 2114532640,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 479305039,
+    "name": "Ramson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 479305039,
+      "name": "Ramson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113291663,
+      "name": "Jonathan Apples",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114596431,
+      "name": "Sivoc Prothean",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93763978,
+      "name": "Maryonica",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94481983,
+      "name": "Reekjam Arthie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tim Solker",
+  "corporation_id": 98574542,
+  "alliance_id": null,
+  "corporation_name": "Hell's Miners Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123374656,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121964728,
+      "name": "Pengo Dornov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 251444320,
+      "name": "Darkrydar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1377469126,
+      "name": "Neoy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vielairas Hakaari",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

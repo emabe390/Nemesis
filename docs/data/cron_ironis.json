@@ -1,0 +1,40 @@
+{
+  "character_id": 97240104,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1156615136,
+      "name": "Death Killer21",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122231940,
+      "name": "Epicurious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cron Ironis",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

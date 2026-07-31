@@ -1,0 +1,52 @@
+{
+  "character_id": 2121443756,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2122745253,
+    "name": "91 mr A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98715582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Emperor Scythes",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2122745253,
+      "name": "91 mr A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96464355,
+      "name": "Cooper Den",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 321930857,
+      "name": "Bigjelmapro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 107269891,
+      "name": "Lusepher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147842707,
+      "name": "Mars Volta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "midgondorA",
+  "corporation_id": 98639667,
+  "alliance_id": null,
+  "corporation_name": "Fountain Hunter",
+  "alliance_name": null
+}

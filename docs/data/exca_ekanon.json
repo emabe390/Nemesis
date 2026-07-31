@@ -1,0 +1,52 @@
+{
+  "character_id": 91743262,
+  "total_losses": 72,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 2112730233,
+    "name": "Arte Azaph",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112730233,
+      "name": "Arte Azaph",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 95316405,
+      "name": "Little Focker",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96850177,
+      "name": "Daam Son",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Exca Ekanon",
+  "corporation_id": 98824902,
+  "alliance_id": 99009163,
+  "corporation_name": "QuackOps",
+  "alliance_name": "Dracarys."
+}

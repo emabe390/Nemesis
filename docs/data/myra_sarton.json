@@ -1,0 +1,52 @@
+{
+  "character_id": 1372333109,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112803932,
+    "name": "Dax Korath",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112803932,
+      "name": "Dax Korath",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95261300,
+      "name": "Grima The Mad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119094788,
+      "name": "Djofull",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123368285,
+      "name": "Granny Gran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112000314,
+      "name": "Davos Skyworth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Myra Sarton",
+  "corporation_id": 98744491,
+  "alliance_id": 99013330,
+  "corporation_name": "URSA PRIMUS",
+  "alliance_name": "URSA."
+}

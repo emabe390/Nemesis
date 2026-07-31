@@ -1,0 +1,52 @@
+{
+  "character_id": 2122057436,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2120109613,
+    "name": "li huan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725089,
+    "alliance_id": 99003581,
+    "corporation_name": "Arknights.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120109613,
+      "name": "li huan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123871965,
+      "name": "Evelynn Geos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93422769,
+      "name": "SabersKunk Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 924320597,
+      "name": "David Dyran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112986044,
+      "name": "Narzim Tazinas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gorzer",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

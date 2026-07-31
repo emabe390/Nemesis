@@ -1,0 +1,46 @@
+{
+  "character_id": 2112752661,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122534267,
+    "name": "Hakonen Virpio",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98777966,
+    "alliance_id": null,
+    "corporation_name": "F.L.Y. S.A.F.E.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122534267,
+      "name": "Hakonen Virpio",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 961880050,
+      "name": "Korr'Tanas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112305965,
+      "name": "Rodneyhun Mckay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124355318,
+      "name": "The Cleaner 00",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atomic Bomberman",
+  "corporation_id": 98513466,
+  "alliance_id": 99010089,
+  "corporation_name": "We Break Things",
+  "alliance_name": "Novus Ordo."
+}

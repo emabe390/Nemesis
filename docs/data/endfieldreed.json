@@ -1,0 +1,34 @@
+{
+  "character_id": 2124094038,
+  "total_losses": 20,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124094033,
+    "name": "PriestessEden",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2124094033,
+      "name": "PriestessEden",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2124094038,
+      "name": "EndfieldReed",
+      "kill_count": 9,
+      "final_blows": 9
+    }
+  ],
+  "character_name": "EndfieldReed",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

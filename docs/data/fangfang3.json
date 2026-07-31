@@ -1,0 +1,46 @@
+{
+  "character_id": 2123450711,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119190048,
+    "name": "Zhags",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370339,
+    "alliance_id": 99012428,
+    "corporation_name": "D-sync",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114187563,
+      "name": "MxdHana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FangFang3",
+  "corporation_id": 98710310,
+  "alliance_id": null,
+  "corporation_name": "BSEEV",
+  "alliance_name": null
+}

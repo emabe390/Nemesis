@@ -1,0 +1,40 @@
+{
+  "character_id": 2116668304,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116000457,
+    "name": "FleetBeacon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2116000457,
+      "name": "FleetBeacon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90384540,
+      "name": "angle Agalder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115947499,
+      "name": "Tohsaka Nagato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tolpess",
+  "corporation_id": 98625798,
+  "alliance_id": 917526329,
+  "corporation_name": "DominiCanes",
+  "alliance_name": "Death or Glory"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121200635,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91235264,
+    "name": "Oscar Cartel",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98646775,
+    "alliance_id": 1727758877,
+    "corporation_name": "Banana-Republic.",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 91235264,
+      "name": "Oscar Cartel",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91074002,
+      "name": "Eudora Hastmena",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92664583,
+      "name": "Murdoch Luther",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95307854,
+      "name": "Amus3d Athonille",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 517440336,
+      "name": "Xanatos Darklighter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chi Hauler",
+  "corporation_id": 98747628,
+  "alliance_id": 99013255,
+  "corporation_name": "House of the Shattered Sun",
+  "alliance_name": "Shattered Sun Confederation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123807619,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 589252559,
+    "name": "Futility 101",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 589252559,
+      "name": "Futility 101",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 197384492,
+      "name": "Ar Praznagor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 729531290,
+      "name": "Long Stroker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brociferous Maximus",
+  "corporation_id": 98581046,
+  "alliance_id": 99005100,
+  "corporation_name": "Takko Explorers",
+  "alliance_name": "All My Friends Are Ded"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123489469,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116443854,
+    "name": "GaiusOctavius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98696975,
+    "alliance_id": 99008816,
+    "corporation_name": "Vox Amarr",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2116443854,
+      "name": "GaiusOctavius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1010488576,
+      "name": "Princess Galadrier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121638796,
+      "name": "Agent Krieg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hori7on",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

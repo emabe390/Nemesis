@@ -1,0 +1,52 @@
+{
+  "character_id": 95386048,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91828300,
+      "name": "Seterinthia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92815697,
+      "name": "Zacewind Nightriver",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94191421,
+      "name": "Sigurd Wolfsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1449961651,
+      "name": "J Funt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wanton Dauntless",
+  "corporation_id": 98270640,
+  "alliance_id": 1354830081,
+  "corporation_name": "BOVRIL bOREers Mining CO-OP",
+  "alliance_name": "Goonswarm Federation"
+}

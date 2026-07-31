@@ -1,0 +1,52 @@
+{
+  "character_id": 2123665477,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1227055492,
+    "name": "Rathin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 1227055492,
+      "name": "Rathin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91235264,
+      "name": "Oscar Cartel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92884471,
+      "name": "Undersea Unicorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95241623,
+      "name": "Blue Jay",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inquisitor Kill Joy",
+  "corporation_id": 98811452,
+  "alliance_id": 99014402,
+  "corporation_name": "Plenitude Industrial Group",
+  "alliance_name": "Plenitude Alliance"
+}

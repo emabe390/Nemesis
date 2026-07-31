@@ -1,0 +1,40 @@
+{
+  "character_id": 2120944878,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1789139406,
+    "name": "bibble",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 402487260,
+    "alliance_id": 1727758877,
+    "corporation_name": "FinFleet",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 1789139406,
+      "name": "bibble",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116318893,
+      "name": "DDimks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120171663,
+      "name": "Zanda Moussou",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MudrajaSova",
+  "corporation_id": 98591829,
+  "alliance_id": 99012042,
+  "corporation_name": "Cyber Collapse.",
+  "alliance_name": "Fanatic Legion."
+}

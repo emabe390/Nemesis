@@ -1,0 +1,40 @@
+{
+  "character_id": 2123715171,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91752781,
+    "name": "Maya Kholzakova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758044,
+    "alliance_id": null,
+    "corporation_name": "Freemove",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91752781,
+      "name": "Maya Kholzakova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ro Boticus",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

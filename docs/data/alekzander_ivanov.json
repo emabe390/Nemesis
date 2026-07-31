@@ -1,0 +1,40 @@
+{
+  "character_id": 2122899881,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1331575631,
+    "name": "Jayne Cobby",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98757825,
+    "alliance_id": null,
+    "corporation_name": "Holier Than Thou.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1331575631,
+      "name": "Jayne Cobby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115793841,
+      "name": "Bentusi Keidan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121213907,
+      "name": "Flando Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alekzander Ivanov",
+  "corporation_id": 98682787,
+  "alliance_id": 99013794,
+  "corporation_name": "ScouT LegioN",
+  "alliance_name": "Capys Holding"
+}

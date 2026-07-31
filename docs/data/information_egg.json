@@ -1,0 +1,46 @@
+{
+  "character_id": 2123787679,
+  "total_losses": 34,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120950121,
+    "name": "SwingFish",
+    "kill_count": 24,
+    "final_blows": 24,
+    "corporation_id": 98747703,
+    "alliance_id": 99013615,
+    "corporation_name": "Cosmic Sanitation Squad",
+    "alliance_name": "MlNER NEEDs"
+  },
+  "top_killers": [
+    {
+      "id": 2120950121,
+      "name": "SwingFish",
+      "kill_count": 24,
+      "final_blows": 24
+    },
+    {
+      "id": 2119351415,
+      "name": "Comtesse d'Artois",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 94269768,
+      "name": "Maako Mori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124444010,
+      "name": "depodepo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "information-egg",
+  "corporation_id": 98593091,
+  "alliance_id": null,
+  "corporation_name": "NACHO Jump Drivers",
+  "alliance_name": null
+}

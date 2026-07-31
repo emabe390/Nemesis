@@ -1,0 +1,52 @@
+{
+  "character_id": 2121050029,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 416964105,
+    "name": "Botia Macracantha",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 416964105,
+      "name": "Botia Macracantha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114602476,
+      "name": "Large Akachi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92493967,
+      "name": "Omnaria Kautsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93601369,
+      "name": "Espen Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95804500,
+      "name": "Felynael",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Archey",
+  "corporation_id": 98210135,
+  "alliance_id": 99005338,
+  "corporation_name": "Infinite Point",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120590140,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 394413540,
+    "name": "William Walker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 394413540,
+      "name": "William Walker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122537589,
+      "name": "Ning2003",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019584,
+      "name": "Hikanta Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90423407,
+      "name": "Dragon QxReyho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Engilin Bedala",
+  "corporation_id": 98558686,
+  "alliance_id": 99012532,
+  "corporation_name": "Edge Dancers",
+  "alliance_name": "Angry Miners Alliance."
+}

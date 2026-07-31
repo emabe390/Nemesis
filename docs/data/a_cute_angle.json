@@ -1,0 +1,40 @@
+{
+  "character_id": 2123867422,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1355547717,
+    "name": "Sergeant Marcus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98780167,
+    "alliance_id": 99012617,
+    "corporation_name": "Wildlands Tactical Response Unit",
+    "alliance_name": "Great Wildlands Conservation Society"
+  },
+  "top_killers": [
+    {
+      "id": 1355547717,
+      "name": "Sergeant Marcus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1754715146,
+      "name": "Tirax Vale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116912155,
+      "name": "Cap'n Zulu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "A cute Angle",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123305230,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 453318661,
+    "name": "Saki Kozen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98300164,
+    "alliance_id": null,
+    "corporation_name": "10th Mountain Division",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 453318661,
+      "name": "Saki Kozen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 634921461,
+      "name": "Shaoli Skeako",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 776302425,
+      "name": "Bado Sten",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roldercy Madullier",
+  "corporation_id": 98158909,
+  "alliance_id": 99007335,
+  "corporation_name": "Sokar Syndicate",
+  "alliance_name": "Habitual Chaos"
+}

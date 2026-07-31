@@ -1,0 +1,34 @@
+{
+  "character_id": 1202859987,
+  "total_losses": 24,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1340332801,
+    "name": "James Moroe",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1340332801,
+      "name": "James Moroe",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 2123269534,
+      "name": "Kiera Smith",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Lai Menn",
+  "corporation_id": 98812470,
+  "alliance_id": null,
+  "corporation_name": "Moonways Industries",
+  "alliance_name": null
+}

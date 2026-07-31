@@ -1,0 +1,52 @@
+{
+  "character_id": 2123868755,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95007831,
+    "name": "Tyran Crow",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 95007831,
+      "name": "Tyran Crow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118906960,
+      "name": "Emily Abnett",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119871724,
+      "name": "Cheat Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121915423,
+      "name": "Durts",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122039432,
+      "name": "MoroWingen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chronos SyndicateX",
+  "corporation_id": 98824415,
+  "alliance_id": null,
+  "corporation_name": "Syndicate.",
+  "alliance_name": null
+}

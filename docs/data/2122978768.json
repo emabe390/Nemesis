@@ -1,0 +1,52 @@
+{
+  "character_id": 2122978768,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1262998027,
+    "name": "Tekka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825232,
+    "alliance_id": null,
+    "corporation_name": "The Hole Ticklers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1262998027,
+      "name": "Tekka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91962901,
+      "name": "johnny Agnon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 824538179,
+      "name": "Soljisk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 882977550,
+      "name": "Saragossa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1800395514,
+      "name": "poggly's child",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vendavel Calabran",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

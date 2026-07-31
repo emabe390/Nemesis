@@ -1,0 +1,34 @@
+{
+  "character_id": 2123755262,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1233436325,
+    "name": "dinosenno",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1233436325,
+      "name": "dinosenno",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93666195,
+      "name": "Ansla en Thielles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Catelnau Assye Aucie",
+  "corporation_id": 98515458,
+  "alliance_id": 99005338,
+  "corporation_name": "u.k militia forces",
+  "alliance_name": "Pandemic Horde"
+}

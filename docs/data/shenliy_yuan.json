@@ -1,0 +1,34 @@
+{
+  "character_id": 2124404661,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117107799,
+    "name": "yangwu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98655836,
+    "alliance_id": 99003581,
+    "corporation_name": "Spark Fleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2117107799,
+      "name": "yangwu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118512745,
+      "name": "ShenLiy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ShenLiy Yuan",
+  "corporation_id": 98655836,
+  "alliance_id": 99003581,
+  "corporation_name": "Spark Fleet",
+  "alliance_name": "Fraternity."
+}

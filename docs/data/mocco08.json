@@ -1,0 +1,40 @@
+{
+  "character_id": 2123889124,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96851301,
+    "name": "Wertstaar Maulerant",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 161990903,
+    "alliance_id": 154104258,
+    "corporation_name": "Noble House Inc.",
+    "alliance_name": "Apocalypse Now."
+  },
+  "top_killers": [
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96883164,
+      "name": "Crash0verride",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "mocco08",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

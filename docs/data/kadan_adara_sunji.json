@@ -1,0 +1,52 @@
+{
+  "character_id": 2123890153,
+  "total_losses": 47,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 1063926740,
+    "name": "Ronat",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 1063926740,
+      "name": "Ronat",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92940562,
+      "name": "Sith Gappeq",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kadan Adara Sunji",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

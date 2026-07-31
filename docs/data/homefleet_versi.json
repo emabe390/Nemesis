@@ -1,0 +1,40 @@
+{
+  "character_id": 2124018307,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 672666747,
+    "name": "Dxella",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 672666747,
+      "name": "Dxella",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061967229,
+      "name": "Character 1061967229",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124021253,
+      "name": "Character 2124021253",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HomeFleet Versi",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

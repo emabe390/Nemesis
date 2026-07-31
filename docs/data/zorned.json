@@ -1,0 +1,52 @@
+{
+  "character_id": 2123418463,
+  "total_losses": 18,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 1017057288,
+    "name": "Zorn Richter",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826717,
+    "alliance_id": 99013537,
+    "corporation_name": "Warforged Militants",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 1017057288,
+      "name": "Zorn Richter",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91225146,
+      "name": "Marcel Chelo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119356824,
+      "name": "Misae Sagara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92531298,
+      "name": "Fisher Zylon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97020359,
+      "name": "Baxter Trent",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zorned",
+  "corporation_id": 98826717,
+  "alliance_id": 99013537,
+  "corporation_name": "Warforged Militants",
+  "alliance_name": "Insidious."
+}

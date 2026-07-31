@@ -1,0 +1,52 @@
+{
+  "character_id": 2124282721,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1371569186,
+    "name": "Caleb Kadesh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 1371569186,
+      "name": "Caleb Kadesh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116929573,
+      "name": "Task3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 436078092,
+      "name": "inkswitch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 450715870,
+      "name": "Alex Ozzy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artem Gorkin",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

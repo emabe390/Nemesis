@@ -1,0 +1,52 @@
+{
+  "character_id": 2123775456,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92818659,
+      "name": "Cullen Foxhound",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95047537,
+      "name": "Dekka Dins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95220895,
+      "name": "Dart Sidious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dororo Do",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

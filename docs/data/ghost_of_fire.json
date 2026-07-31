@@ -1,0 +1,52 @@
+{
+  "character_id": 2120089493,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 152291184,
+    "name": "SUICIDAL Larsen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704863,
+    "alliance_id": null,
+    "corporation_name": "Pinky and the Brain.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 152291184,
+      "name": "SUICIDAL Larsen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1448318255,
+      "name": "Hasu Storm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115133763,
+      "name": "Paul Steinor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117630885,
+      "name": "Emily Moorey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ghost of Fire",
+  "corporation_id": 98795743,
+  "alliance_id": 99014427,
+  "corporation_name": "ITTY Industries",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

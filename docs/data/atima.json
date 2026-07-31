@@ -1,0 +1,40 @@
+{
+  "character_id": 939992582,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90975738,
+    "name": "Kragol Beldrulf",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 939992582,
+      "name": "Atima",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115748397,
+      "name": "AsRain FAX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Atima",
+  "corporation_id": 98513961,
+  "alliance_id": 99006805,
+  "corporation_name": "Pagids Legion",
+  "alliance_name": "Wormageddon"
+}

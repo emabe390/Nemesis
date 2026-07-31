@@ -1,0 +1,40 @@
+{
+  "character_id": 2123676926,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113421823,
+    "name": "Ket Attor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98427812,
+    "alliance_id": 99007203,
+    "corporation_name": "Siberian Squad",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2113421823,
+      "name": "Ket Attor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120831344,
+      "name": "Jeff Jeffsonson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silvermane Starweaver",
+  "corporation_id": 98558686,
+  "alliance_id": 99012532,
+  "corporation_name": "Edge Dancers",
+  "alliance_name": "Angry Miners Alliance."
+}

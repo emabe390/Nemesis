@@ -1,0 +1,40 @@
+{
+  "character_id": 95485371,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96485271,
+    "name": "Grifiend Ormand",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826453,
+    "alliance_id": 99005393,
+    "corporation_name": "Dragon Aeternum",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 96485271,
+      "name": "Grifiend Ormand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1106439179,
+      "name": "Handwaschpaste",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118838160,
+      "name": "Bolderi Esil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Void Sarbot",
+  "corporation_id": 98798261,
+  "alliance_id": 99013972,
+  "corporation_name": "The Valkyrie Viking Express",
+  "alliance_name": "Vikings."
+}

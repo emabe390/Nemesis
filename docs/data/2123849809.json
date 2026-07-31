@@ -1,0 +1,52 @@
+{
+  "character_id": 2123849809,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2113935444,
+    "name": "Cormack 634",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98186730,
+    "alliance_id": 1354830081,
+    "corporation_name": "Brothers of Tyr",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113935444,
+      "name": "Cormack 634",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115517492,
+      "name": "ibims Leshakend",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91375037,
+      "name": "Zira Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92855536,
+      "name": "Gaika007",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94740677,
+      "name": "Korvin Wowkar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Qle",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

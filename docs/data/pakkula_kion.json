@@ -1,0 +1,34 @@
+{
+  "character_id": 2124402810,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 285414301,
+    "name": "Azurius Dante",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747372,
+    "alliance_id": 99013766,
+    "corporation_name": "Regrediens",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 285414301,
+      "name": "Azurius Dante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 732937379,
+      "name": "DeadPoolSLS",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pakkula Kion",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

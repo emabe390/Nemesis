@@ -1,0 +1,52 @@
+{
+  "character_id": 2124174063,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2124109033,
+    "name": "Mekky",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124109033,
+      "name": "Mekky",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123962171,
+      "name": "Dobro25",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116207662,
+      "name": "jin Uchonela",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121800723,
+      "name": "Saskalen Koraka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shode Ahdan Kuha",
+  "corporation_id": 98679090,
+  "alliance_id": 99014768,
+  "corporation_name": "Wormholes In Nuts",
+  "alliance_name": "Storm Petrel Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123921905,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90355231,
+    "name": "VLD Miromme",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98440641,
+    "alliance_id": 99004357,
+    "corporation_name": "Project 1237",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 90355231,
+      "name": "VLD Miromme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92494154,
+      "name": "Zich Masor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96286321,
+      "name": "Stryke Sharpfeather",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Foo Hukukuka",
+  "corporation_id": 98792988,
+  "alliance_id": 99001969,
+  "corporation_name": "We do our best",
+  "alliance_name": "SONS of BANE"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123967777,
+  "total_losses": 20,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93591673,
+      "name": "Crossrot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97007265,
+      "name": "Sven VanDamme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 255399174,
+      "name": "MacaMyHe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1032958199,
+      "name": "Rob Swanson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mc Funnyman",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

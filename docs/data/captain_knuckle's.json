@@ -1,0 +1,52 @@
+{
+  "character_id": 2122700379,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92883235,
+    "name": "Mister Ducky",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98806746,
+    "alliance_id": null,
+    "corporation_name": "100K1",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92883235,
+      "name": "Mister Ducky",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115747799,
+      "name": "Genderqueer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122455749,
+      "name": "Hajat Fera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115842288,
+      "name": "Planned Obsolesence",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Knuckle's",
+  "corporation_id": 98814059,
+  "alliance_id": 99011248,
+  "corporation_name": "Baadman Town",
+  "alliance_name": "Big Green Fly"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2122797345,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 668460696,
+    "name": "Metallust",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820670,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladius Tenebris",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 668460696,
+      "name": "Metallust",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1014392058,
+      "name": "Tunning",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123784751,
+      "name": "Beezleboss the Broodlord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Korbin-Dalas",
+  "corporation_id": 98809919,
+  "alliance_id": null,
+  "corporation_name": "007-BEGINNER Corporation",
+  "alliance_name": null
+}

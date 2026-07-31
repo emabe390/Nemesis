@@ -1,0 +1,40 @@
+{
+  "character_id": 91689615,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 137690223,
+    "name": "Kryptek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98065337,
+    "alliance_id": 99004567,
+    "corporation_name": "Bring The Noise",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 137690223,
+      "name": "Kryptek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93160605,
+      "name": "Batacus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Athena Treyon Ano",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

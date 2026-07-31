@@ -1,0 +1,52 @@
+{
+  "character_id": 2123154214,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2113237500,
+    "name": "EmperorVeles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98772776,
+    "alliance_id": 99013846,
+    "corporation_name": "Totality Squad",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92291171,
+      "name": "Skol Marito",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92347438,
+      "name": "Mireille Tadaruwa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93824139,
+      "name": "Polozjnyak Harlamov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 405387511,
+      "name": "Bullet071",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Electra Diamandis",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

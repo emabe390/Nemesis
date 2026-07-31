@@ -1,0 +1,40 @@
+{
+  "character_id": 2120099836,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117811835,
+    "name": "Salvio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98729384,
+    "alliance_id": 99014826,
+    "corporation_name": "DACEU",
+    "alliance_name": "Pirate Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96665706,
+      "name": "Elvis Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurigo",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

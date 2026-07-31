@@ -1,0 +1,40 @@
+{
+  "character_id": 96532322,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 593090701,
+    "name": "Inco Reeve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1705300610,
+    "alliance_id": 99010022,
+    "corporation_name": "The Dark Space Initiative",
+    "alliance_name": "Scary Wormhole People"
+  },
+  "top_killers": [
+    {
+      "id": 593090701,
+      "name": "Inco Reeve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1727025426,
+      "name": "Perseus Kallistratos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116947841,
+      "name": "Elf Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ELF Prince",
+  "corporation_id": 98800747,
+  "alliance_id": null,
+  "corporation_name": "The American Sycamores",
+  "alliance_name": null
+}

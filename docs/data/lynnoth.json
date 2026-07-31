@@ -1,0 +1,52 @@
+{
+  "character_id": 2119173003,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1473842445,
+    "name": "tamurlane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1473842445,
+      "name": "tamurlane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91453450,
+      "name": "Crow White",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96053157,
+      "name": "Squal Fenix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96129379,
+      "name": "Lunaticka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96268143,
+      "name": "Keval Kovalev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lynnoth",
+  "corporation_id": 98295301,
+  "alliance_id": null,
+  "corporation_name": "Hesed House",
+  "alliance_name": null
+}

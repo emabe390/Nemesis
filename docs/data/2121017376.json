@@ -1,0 +1,52 @@
+{
+  "character_id": 2121017376,
+  "total_losses": 315,
+  "unique_killers": 189,
+  "nemesis": {
+    "id": 723464163,
+    "name": "Wulfrunner",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 723464163,
+      "name": "Wulfrunner",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 92996918,
+      "name": "sytaqe violacea",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2116744398,
+      "name": "Kassi Othelia",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 90501755,
+      "name": "James Ogeko",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92088916,
+      "name": "Alkmene Dunier",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Riviere de Lune",
+  "corporation_id": 98744802,
+  "alliance_id": null,
+  "corporation_name": "Tax Evasion Corporation of Riviere de Lune",
+  "alliance_name": null
+}

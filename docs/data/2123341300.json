@@ -1,0 +1,52 @@
+{
+  "character_id": 2123341300,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2120152540,
+    "name": "Jetstream Valenok",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98839301,
+    "alliance_id": 99015161,
+    "corporation_name": "Feel My Shine",
+    "alliance_name": "Pyrolanc Squad"
+  },
+  "top_killers": [
+    {
+      "id": 2120152540,
+      "name": "Jetstream Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92523684,
+      "name": "Disciple Amphal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93675443,
+      "name": "LEON SIN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94944032,
+      "name": "Phase Dwives Activated",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95249134,
+      "name": "Ellie Scylax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PP1300",
+  "corporation_id": 98456550,
+  "alliance_id": 99009163,
+  "corporation_name": "Eternity Pavilion",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121123513,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114260202,
+    "name": "Nira Mangeiri",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796651,
+    "alliance_id": null,
+    "corporation_name": "Kobold Krabhole.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 257227513,
+      "name": "Drake III",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 614850435,
+      "name": "CPTwalsh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 929643379,
+      "name": "aRs30",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115668403,
+      "name": "Frik Apol",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khryt",
+  "corporation_id": 98824136,
+  "alliance_id": 99010089,
+  "corporation_name": "New Eden Bureau Of Closeted Miner Investigations",
+  "alliance_name": "Novus Ordo."
+}

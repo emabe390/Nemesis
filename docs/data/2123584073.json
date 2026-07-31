@@ -1,0 +1,40 @@
+{
+  "character_id": 2123584073,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117551318,
+    "name": "Illshavah",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98808412,
+    "alliance_id": null,
+    "corporation_name": "Arc Light Division",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117551318,
+      "name": "Illshavah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121549658,
+      "name": "Caranya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122209376,
+      "name": "Ahdarji",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Slitaz",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

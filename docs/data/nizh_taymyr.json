@@ -1,0 +1,52 @@
+{
+  "character_id": 1700213789,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92866950,
+    "name": "Nesushka",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98302513,
+    "alliance_id": null,
+    "corporation_name": "zx incorporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92866950,
+      "name": "Nesushka",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 96694814,
+      "name": "Coramyr Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115780445,
+      "name": "Krratus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116900098,
+      "name": "Pen Blood Ink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120333860,
+      "name": "Slipsters Fisheye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nizh Taymyr",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123779490,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123860818,
+    "name": "Maki Silver",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98597090,
+    "alliance_id": null,
+    "corporation_name": "Beyond Knowledge Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123860818,
+      "name": "Maki Silver",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96915306,
+      "name": "Lincoln S STERRN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maki Gold",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119711928,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113489211,
+    "name": "Marick Sandiler",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98812535,
+    "alliance_id": 99013177,
+    "corporation_name": "Deep Space Industrialist",
+    "alliance_name": "Pillars of Liberty"
+  },
+  "top_killers": [
+    {
+      "id": 2113489211,
+      "name": "Marick Sandiler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113926439,
+      "name": "Hairy Krabs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121399208,
+      "name": "Character 2121399208",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IL-76TD",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

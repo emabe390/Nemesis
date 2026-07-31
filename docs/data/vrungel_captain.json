@@ -1,0 +1,40 @@
+{
+  "character_id": 1252432614,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124419924,
+    "name": "Asuka Mikoshi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000171,
+    "alliance_id": null,
+    "corporation_name": "Republic University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124419924,
+      "name": "Asuka Mikoshi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91696123,
+      "name": "Adan Dimaloun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93705626,
+      "name": "Andy Shearer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vrungel Captain",
+  "corporation_id": 679468421,
+  "alliance_id": 99012042,
+  "corporation_name": "Red October.",
+  "alliance_name": "Fanatic Legion."
+}

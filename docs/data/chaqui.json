@@ -1,0 +1,52 @@
+{
+  "character_id": 2123742309,
+  "total_losses": 75,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 2117796100,
+    "name": "Eva Mpire",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98752603,
+    "alliance_id": null,
+    "corporation_name": "BobVult",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117796100,
+      "name": "Eva Mpire",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124378329,
+      "name": "Chrono Maw",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124463909,
+      "name": "KreneNIys",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92564060,
+      "name": "Lavi Raynor",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Chaqui",
+  "corporation_id": 98788518,
+  "alliance_id": 99014405,
+  "corporation_name": "Zalvarians",
+  "alliance_name": "Zalvarians Alliance"
+}

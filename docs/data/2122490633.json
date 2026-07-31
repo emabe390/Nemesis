@@ -1,0 +1,52 @@
+{
+  "character_id": 2122490633,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2116955155,
+    "name": "Drakarys Stark",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98833765,
+    "alliance_id": null,
+    "corporation_name": "The Long Night",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116955155,
+      "name": "Drakarys Stark",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95523050,
+      "name": "Sam Boloskarl",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96182950,
+      "name": "Vidomina Irvam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96274632,
+      "name": "NightBlood1 Hurtini",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114217264,
+      "name": "Caligon Hemah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marquis Can",
+  "corporation_id": 98749162,
+  "alliance_id": 99009163,
+  "corporation_name": "De Vliegende Hollander.",
+  "alliance_name": "Dracarys."
+}

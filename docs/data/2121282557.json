@@ -1,0 +1,40 @@
+{
+  "character_id": 2121282557,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1065638780,
+    "name": "Character 1065638780",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 837833937,
+    "alliance_id": null,
+    "corporation_name": "Alcohol Fuelled",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1065638780,
+      "name": "Character 1065638780",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1620588278,
+      "name": "Gonryu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Kaah Ondo Oksaras",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

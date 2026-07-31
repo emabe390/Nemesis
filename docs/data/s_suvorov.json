@@ -1,0 +1,40 @@
+{
+  "character_id": 95534567,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 641794466,
+    "name": "Kilroy S",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1391279202,
+      "name": "Precurseur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "S Suvorov",
+  "corporation_id": 98404906,
+  "alliance_id": null,
+  "corporation_name": "Terra SVS",
+  "alliance_name": null
+}

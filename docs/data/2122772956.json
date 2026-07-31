@@ -1,0 +1,52 @@
+{
+  "character_id": 2122772956,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95897480,
+    "name": "Nishius Khurelem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724631,
+    "alliance_id": 99014719,
+    "corporation_name": "Nomad Space Kingdom",
+    "alliance_name": "Mostly Nomads"
+  },
+  "top_killers": [
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93223345,
+      "name": "Character 93223345",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94577030,
+      "name": "Michael Pancake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96344301,
+      "name": "Cupay",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tara Jansdottir",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

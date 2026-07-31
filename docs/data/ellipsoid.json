@@ -1,0 +1,40 @@
+{
+  "character_id": 2122592916,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96761070,
+    "name": "Drago Tzu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 96761070,
+      "name": "Drago Tzu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93947598,
+      "name": "Falkner Hayato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113053476,
+      "name": "Dejan Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ellipsoid",
+  "corporation_id": 98789518,
+  "alliance_id": null,
+  "corporation_name": "SaltValkyr Industries",
+  "alliance_name": null
+}

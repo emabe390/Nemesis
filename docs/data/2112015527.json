@@ -1,0 +1,40 @@
+{
+  "character_id": 2112015527,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 472771472,
+    "name": "Don Hubba",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825492,
+    "alliance_id": 99001105,
+    "corporation_name": "Lock - Point - Delete",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91368437,
+      "name": "Fenrir Hammer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 729345791,
+      "name": "Fica",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alanna Ayalar",
+  "corporation_id": 98276273,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Operations - Lollipop Division",
+  "alliance_name": "Brave Collective"
+}

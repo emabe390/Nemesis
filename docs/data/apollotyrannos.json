@@ -1,0 +1,46 @@
+{
+  "character_id": 2123785141,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95120312,
+    "name": "Chisholm Jayanar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 95120312,
+      "name": "Chisholm Jayanar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95340827,
+      "name": "Natural Clone Killer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115503421,
+      "name": "Joseph Gh0sty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123111027,
+      "name": "Vacantt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ApolloTyrannos",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2121680589,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112767695,
+    "name": "Trabicsek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98624572,
+    "alliance_id": 99011223,
+    "corporation_name": "Industrial Mining and Mayhem",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2112767695,
+      "name": "Trabicsek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1441302302,
+      "name": "Shalamari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121987180,
+      "name": "Erza Scarlit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Industrial Arm",
+  "corporation_id": 98749510,
+  "alliance_id": 99014415,
+  "corporation_name": "Embellishment",
+  "alliance_name": "Iron Rose."
+}

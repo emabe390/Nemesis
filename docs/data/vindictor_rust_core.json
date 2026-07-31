@@ -1,0 +1,40 @@
+{
+  "character_id": 2124478317,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116004529,
+    "name": "Douglas Edward",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98242799,
+    "alliance_id": 99008816,
+    "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2116004529,
+      "name": "Douglas Edward",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96732471,
+      "name": "Peter Rangarian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121175064,
+      "name": "Balbozorre",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vindictor Rust-Core",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

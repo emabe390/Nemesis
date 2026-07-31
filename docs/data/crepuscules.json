@@ -1,0 +1,52 @@
+{
+  "character_id": 2123746323,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 845362885,
+    "name": "evistin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 845362885,
+      "name": "evistin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91966561,
+      "name": "Caliph Alai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96387946,
+      "name": "Wanderkraft",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2077314038,
+      "name": "MJ Incognito",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114597595,
+      "name": "Atom Daily",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crepuscules",
+  "corporation_id": 98804833,
+  "alliance_id": 1354830081,
+  "corporation_name": "Forever Stardust Navy Combined Fleet",
+  "alliance_name": "Goonswarm Federation"
+}

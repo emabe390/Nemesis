@@ -1,0 +1,52 @@
+{
+  "character_id": 2121885090,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113413280,
+    "name": "zutur Arody",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113413280,
+      "name": "zutur Arody",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 698404960,
+      "name": "Qutis Hanid",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90018714,
+      "name": "Prahasta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145263997,
+      "name": "Yemen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 211150393,
+      "name": "Rawstyle",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Paraside Evo",
+  "corporation_id": 98297722,
+  "alliance_id": 99002685,
+  "corporation_name": "Space Colony",
+  "alliance_name": "Synergy of Steel"
+}

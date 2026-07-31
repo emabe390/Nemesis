@@ -1,0 +1,52 @@
+{
+  "character_id": 2121882378,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121172593,
+    "name": "WarmCola",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98738496,
+    "alliance_id": null,
+    "corporation_name": "One Bitcoin",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121172593,
+      "name": "WarmCola",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121174501,
+      "name": "WarmFanta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95278751,
+      "name": "Nik Phelt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96456599,
+      "name": "Tace Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tarcere en Marland",
+  "corporation_id": 98817310,
+  "alliance_id": 99009163,
+  "corporation_name": "Dusk dreadnought.",
+  "alliance_name": "Dracarys."
+}

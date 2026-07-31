@@ -1,0 +1,40 @@
+{
+  "character_id": 2122718839,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 825291091,
+    "name": "Rick Dastardly",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98280017,
+    "alliance_id": 99010877,
+    "corporation_name": "Into the Ether",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 825291091,
+      "name": "Rick Dastardly",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122200122,
+      "name": "Character 2122200122",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122536077,
+      "name": "sja abc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jean Loret",
+  "corporation_id": 98674747,
+  "alliance_id": 99010882,
+  "corporation_name": "Schroedinger Institute",
+  "alliance_name": "Nasty Watcher Group"
+}

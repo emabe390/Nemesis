@@ -1,0 +1,40 @@
+{
+  "character_id": 2123863251,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116560896,
+    "name": "cilicilia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98710383,
+    "alliance_id": 495729389,
+    "corporation_name": "Late night poets",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2116560896,
+      "name": "cilicilia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93118681,
+      "name": "StefanMcCormack McCormack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hurany",
+  "corporation_id": 98824382,
+  "alliance_id": null,
+  "corporation_name": "The Eyes of God",
+  "alliance_name": null
+}

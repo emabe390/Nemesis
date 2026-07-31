@@ -1,0 +1,40 @@
+{
+  "character_id": 2121048885,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94254283,
+    "name": "Character 94254283",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98529818,
+    "alliance_id": 99014301,
+    "corporation_name": "CreepShow Company",
+    "alliance_name": "Creep.Show"
+  },
+  "top_killers": [
+    {
+      "id": 94254283,
+      "name": "Character 94254283",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94693218,
+      "name": "Katrina BlackMine Kashada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121850440,
+      "name": "Priestess Athena",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sapphire Stonebreaker",
+  "corporation_id": 98825000,
+  "alliance_id": null,
+  "corporation_name": "BAD Mining Inc",
+  "alliance_name": null
+}

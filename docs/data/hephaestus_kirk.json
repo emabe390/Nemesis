@@ -1,0 +1,52 @@
+{
+  "character_id": 2123954827,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122988183,
+    "name": "Kalyra Starbloom",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98840294,
+    "alliance_id": null,
+    "corporation_name": "Octagen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122988183,
+      "name": "Kalyra Starbloom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91097124,
+      "name": "Pashko Morgan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91737658,
+      "name": "Omek Scarsdale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118465313,
+      "name": "Hauska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hephaestus Kirk",
+  "corporation_id": 98335968,
+  "alliance_id": 1042504553,
+  "corporation_name": "Alpha Trades",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124186599,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 589252559,
+    "name": "Futility 101",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 589252559,
+      "name": "Futility 101",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1205254836,
+      "name": "ELicken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123163672,
+      "name": "luyu01",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Auviken Akori Otichoda",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

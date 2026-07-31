@@ -1,0 +1,40 @@
+{
+  "character_id": 93783022,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113258917,
+    "name": "Jack Oslo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98734694,
+    "alliance_id": 99010421,
+    "corporation_name": "Fish And Game",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2113258917,
+      "name": "Jack Oslo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119257766,
+      "name": "E SHOGUN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taras Che Guevara",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

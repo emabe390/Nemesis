@@ -1,0 +1,34 @@
+{
+  "character_id": 2123311076,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121792792,
+    "name": "Mastner Visteen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2121792792,
+      "name": "Mastner Visteen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95329155,
+      "name": "Sam Sapone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aston Villa FC",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

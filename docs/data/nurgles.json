@@ -1,0 +1,52 @@
+{
+  "character_id": 2123788961,
+  "total_losses": 56,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 95203521,
+    "name": "Kenshiro Hokuto",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 95203521,
+      "name": "Kenshiro Hokuto",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1427987236,
+      "name": "Loup S0litaire",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123354342,
+      "name": "Zevi Marque",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90212579,
+      "name": "Gomohr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nurgles",
+  "corporation_id": 98795971,
+  "alliance_id": 99013442,
+  "corporation_name": "Regal Bovine Investments",
+  "alliance_name": "The Frog Foundry"
+}

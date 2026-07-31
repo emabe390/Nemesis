@@ -1,0 +1,52 @@
+{
+  "character_id": 2123020747,
+  "total_losses": 118,
+  "unique_killers": 88,
+  "nemesis": {
+    "id": 1898170300,
+    "name": "Etymon",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 419677168,
+    "alliance_id": null,
+    "corporation_name": "Cricas Portuguese Korp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1898170300,
+      "name": "Etymon",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2118883544,
+      "name": "Kira Motanas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120527920,
+      "name": "VascoF",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123865206,
+      "name": "Gabriel A Zuev",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91500692,
+      "name": "Old Shadowwalker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hadrian Lafisques",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

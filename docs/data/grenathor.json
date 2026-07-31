@@ -1,0 +1,52 @@
+{
+  "character_id": 321485798,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2115141660,
+    "name": "Alex Mixter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98744893,
+    "alliance_id": null,
+    "corporation_name": "Mixter corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115141660,
+      "name": "Alex Mixter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120922315,
+      "name": "Cushman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92002324,
+      "name": "Lola Alphonse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92335513,
+      "name": "Acika Hekard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94163601,
+      "name": "VioIator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grenathor",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

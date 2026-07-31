@@ -1,0 +1,40 @@
+{
+  "character_id": 2121361969,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ax MinmatarGeneral",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

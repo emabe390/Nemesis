@@ -1,0 +1,34 @@
+{
+  "character_id": 90203816,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120089480,
+    "name": "Agatha VanGlicklison",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98647659,
+    "alliance_id": 99011978,
+    "corporation_name": "Soltech Armada",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2120089480,
+      "name": "Agatha VanGlicklison",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116161037,
+      "name": "Telchek Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Redneck Bill",
+  "corporation_id": 98687095,
+  "alliance_id": 99012891,
+  "corporation_name": "Harbingers of War",
+  "alliance_name": "Leviathan."
+}

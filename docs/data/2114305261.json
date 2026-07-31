@@ -1,0 +1,34 @@
+{
+  "character_id": 2114305261,
+  "total_losses": 8,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114462771,
+    "name": "Atreides Aldent",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98577390,
+    "alliance_id": 99010193,
+    "corporation_name": "Psychotic Bird INC",
+    "alliance_name": "Ivy League Alt Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2114462771,
+      "name": "Atreides Aldent",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114645175,
+      "name": "Ahanu Aldent",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Jessica Farrish",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

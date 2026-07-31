@@ -1,0 +1,52 @@
+{
+  "character_id": 2123052858,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122351144,
+    "name": "Snowy Canary",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122351144,
+      "name": "Snowy Canary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90323169,
+      "name": "Aeth Gemulus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94111686,
+      "name": "Powder Q",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pubert Smithson",
+  "corporation_id": 98767046,
+  "alliance_id": null,
+  "corporation_name": "Boundless Horizons.",
+  "alliance_name": null
+}

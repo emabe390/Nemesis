@@ -1,0 +1,40 @@
+{
+  "character_id": 2123398822,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 383636737,
+    "name": "The CloudyOne",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1975749457,
+    "alliance_id": 933731581,
+    "corporation_name": "No.Mercy",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 383636737,
+      "name": "The CloudyOne",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94314134,
+      "name": "Carrie Mehrbrust",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123503024,
+      "name": "Vandolog",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Akvimas Grand",
+  "corporation_id": 98791359,
+  "alliance_id": null,
+  "corporation_name": "Spirit of Glory",
+  "alliance_name": null
+}

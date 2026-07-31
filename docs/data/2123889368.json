@@ -1,0 +1,40 @@
+{
+  "character_id": 2123889368,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1373971920,
+    "name": "Heinrich Hertz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98807228,
+    "alliance_id": 99014873,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114739715,
+      "name": "Tornado Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115046664,
+      "name": "Dark Helmt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "sir octavius fax",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

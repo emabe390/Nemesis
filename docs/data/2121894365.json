@@ -1,0 +1,52 @@
+{
+  "character_id": 2121894365,
+  "total_losses": 34,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2123142285,
+    "name": "Montara",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98803653,
+    "alliance_id": null,
+    "corporation_name": "Bolt Open Industry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123142285,
+      "name": "Montara",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113845227,
+      "name": "Fury al-Shabazz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Isidro Cortez",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123109120,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112883869,
+    "name": "Bin Tissant",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765680,
+    "alliance_id": null,
+    "corporation_name": "The Fun Epic Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112883869,
+      "name": "Bin Tissant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 549627660,
+      "name": "Pawulonek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113730253,
+      "name": "Dontomo XXX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cecilia Xio",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

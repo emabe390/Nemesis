@@ -1,0 +1,52 @@
+{
+  "character_id": 2123380263,
+  "total_losses": 42,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92483907,
+      "name": "Minzy Shaishi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93007417,
+      "name": "Tyrell Cadabra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93422769,
+      "name": "SabersKunk Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cyril Karn",
+  "corporation_id": 98817334,
+  "alliance_id": null,
+  "corporation_name": "Combine Honette Uber Advancer Mercantiles",
+  "alliance_name": null
+}

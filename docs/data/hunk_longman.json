@@ -1,0 +1,40 @@
+{
+  "character_id": 2116175500,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93985921,
+    "name": "Vilzuh",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122806268,
+      "name": "Aurore Bellic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hunk Longman",
+  "corporation_id": 98805534,
+  "alliance_id": null,
+  "corporation_name": "Darkstar Russian Collective",
+  "alliance_name": null
+}

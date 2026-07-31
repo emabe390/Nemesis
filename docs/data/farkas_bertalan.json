@@ -1,0 +1,40 @@
+{
+  "character_id": 1600035889,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96363409,
+    "name": "Varna Chivoj",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98546739,
+    "alliance_id": 1354830081,
+    "corporation_name": "Balkan Kings",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96363409,
+      "name": "Varna Chivoj",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113418708,
+      "name": "Austin Asanari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120514815,
+      "name": "Shendrygin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Farkas Bertalan",
+  "corporation_id": 98494407,
+  "alliance_id": null,
+  "corporation_name": "1st Ammatar Crusade",
+  "alliance_name": null
+}

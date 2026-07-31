@@ -1,0 +1,40 @@
+{
+  "character_id": 2123952252,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114125279,
+    "name": "Ankar Kado",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98633005,
+    "alliance_id": 99011372,
+    "corporation_name": "Protean Concept",
+    "alliance_name": "Moss Piglet Preservation Society"
+  },
+  "top_killers": [
+    {
+      "id": 2114125279,
+      "name": "Ankar Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94964653,
+      "name": "Cake Maestro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115635137,
+      "name": "Lili Tru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "C-Man Blaze",
+  "corporation_id": 98749126,
+  "alliance_id": 99011416,
+  "corporation_name": "Silent Knights.",
+  "alliance_name": "LinkNet"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123827366,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116360111,
+    "name": "Yoyo Maricadie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116360111,
+      "name": "Yoyo Maricadie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121833453,
+      "name": "Hanson Sun1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Torax Vendrin",
+  "corporation_id": 1788415543,
+  "alliance_id": null,
+  "corporation_name": "Wiggington's Widgits",
+  "alliance_name": null
+}

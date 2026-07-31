@@ -1,0 +1,52 @@
+{
+  "character_id": 2123895013,
+  "total_losses": 34,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2123218598,
+    "name": "Luigius Sublime",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116136809,
+      "name": "Xyuhao Asanari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91163138,
+      "name": "Kentril Ul-Diomed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hjoltorn Taron",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

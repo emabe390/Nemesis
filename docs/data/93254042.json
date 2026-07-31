@@ -1,0 +1,40 @@
+{
+  "character_id": 93254042,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 890472858,
+    "name": "Havra",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 890472858,
+      "name": "Havra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115426787,
+      "name": "Dualla Arrano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116413082,
+      "name": "Snow Chaser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Palladium Exquinox",
+  "corporation_id": 1634775132,
+  "alliance_id": 1354830081,
+  "corporation_name": "UK Corp",
+  "alliance_name": "Goonswarm Federation"
+}

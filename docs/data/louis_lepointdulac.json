@@ -1,0 +1,40 @@
+{
+  "character_id": 1092503719,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124216562,
+    "name": "Jitakato",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98816796,
+    "alliance_id": 99008788,
+    "corporation_name": "Syndicate Protectorate",
+    "alliance_name": "The Skeleton Crew"
+  },
+  "top_killers": [
+    {
+      "id": 2124216562,
+      "name": "Jitakato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112977167,
+      "name": "Revolving Hemoplague",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122697831,
+      "name": "Joey zergling",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Louis LePointduLac",
+  "corporation_id": 1890265062,
+  "alliance_id": null,
+  "corporation_name": "Weyland-Yutani Corporation I",
+  "alliance_name": null
+}

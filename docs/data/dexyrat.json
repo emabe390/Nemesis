@@ -1,0 +1,40 @@
+{
+  "character_id": 2123224652,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123763885,
+    "name": "Freddy Lecter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124023081,
+      "name": "Yukee Pm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124492575,
+      "name": "eve-Hunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dexyrat",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

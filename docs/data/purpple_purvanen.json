@@ -1,0 +1,52 @@
+{
+  "character_id": 2115945134,
+  "total_losses": 128,
+  "unique_killers": 95,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 4,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 1
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 820113254,
+      "name": "Xialis",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Purpple Purvanen",
+  "corporation_id": 98699553,
+  "alliance_id": 99014849,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative."
+}

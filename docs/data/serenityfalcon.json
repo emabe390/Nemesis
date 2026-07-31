@@ -1,0 +1,52 @@
+{
+  "character_id": 2118110390,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2084156076,
+    "name": "SinsRevenge",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2084156076,
+      "name": "SinsRevenge",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120482732,
+      "name": "JOilu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91586742,
+      "name": "Lynx Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1086347558,
+      "name": "InvalidCDkey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124224296,
+      "name": "Yustekk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SerenityFalcon",
+  "corporation_id": 98279893,
+  "alliance_id": null,
+  "corporation_name": "RogueCorp",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124358809,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 229869451,
+    "name": "Cusano",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 229869451,
+      "name": "Cusano",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1209261936,
+      "name": "Pubstomp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120342475,
+      "name": "Goodvibez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tyrannosaurus Joe",
+  "corporation_id": 98835046,
+  "alliance_id": null,
+  "corporation_name": "Vauntware",
+  "alliance_name": null
+}

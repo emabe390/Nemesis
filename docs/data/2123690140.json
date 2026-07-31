@@ -1,0 +1,40 @@
+{
+  "character_id": 2123690140,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92809371,
+    "name": "Nitto Orlenard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 92809371,
+      "name": "Nitto Orlenard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119577820,
+      "name": "Obbi Leusten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119096561,
+      "name": "Hakkunen Oramara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "H0MEA",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

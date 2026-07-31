@@ -1,0 +1,52 @@
+{
+  "character_id": 2123281045,
+  "total_losses": 10,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 515313270,
+    "name": "Xabraak",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679081,
+    "alliance_id": 1900696668,
+    "corporation_name": "Deaths Consortium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 515313270,
+      "name": "Xabraak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 690429868,
+      "name": "Boy Scout",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 918003457,
+      "name": "samba mk2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1639501870,
+      "name": "Siren Adall",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113208750,
+      "name": "Lyn Echerie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lassko",
+  "corporation_id": 98698608,
+  "alliance_id": null,
+  "corporation_name": "Raging Is No More.",
+  "alliance_name": null
+}

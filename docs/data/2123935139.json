@@ -1,0 +1,52 @@
+{
+  "character_id": 2123935139,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 90546403,
+    "name": "Red Askold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98442704,
+    "alliance_id": null,
+    "corporation_name": "Steengroeve",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90546403,
+      "name": "Red Askold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1052797048,
+      "name": "Tobiazo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95357734,
+      "name": "Alex Vandenberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117108808,
+      "name": "PancakePilot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117888816,
+      "name": "Karibas32",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Apple Velvet",
+  "corporation_id": 98747628,
+  "alliance_id": 99013255,
+  "corporation_name": "House of the Shattered Sun",
+  "alliance_name": "Shattered Sun Confederation"
+}

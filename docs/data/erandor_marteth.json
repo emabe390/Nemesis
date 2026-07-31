@@ -1,0 +1,46 @@
+{
+  "character_id": 93178824,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95816722,
+      "name": "Tsuro Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96456599,
+      "name": "Tace Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123512295,
+      "name": "Alashalton",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erandor Marteth",
+  "corporation_id": 98530982,
+  "alliance_id": 99013551,
+  "corporation_name": "Solarmark",
+  "alliance_name": "Stellarium Alliance"
+}

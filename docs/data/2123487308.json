@@ -1,0 +1,52 @@
+{
+  "character_id": 2123487308,
+  "total_losses": 27,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 567655533,
+    "name": "Tdawn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769610,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cosmic-Wanderers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 567655533,
+      "name": "Tdawn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1771809185,
+      "name": "Darmarkus XI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92887285,
+      "name": "yokozunacz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Overheat Propmod",
+  "corporation_id": 98325373,
+  "alliance_id": 99012982,
+  "corporation_name": "Running with Dogs",
+  "alliance_name": "OnlyFleets."
+}

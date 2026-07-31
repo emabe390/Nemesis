@@ -1,0 +1,46 @@
+{
+  "character_id": 2124058281,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97048783,
+      "name": "Working Class Man",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121855372,
+      "name": "91 mr C",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123617566,
+      "name": "An-Yu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lillix Nebula",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

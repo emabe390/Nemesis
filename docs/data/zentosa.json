@@ -1,0 +1,52 @@
+{
+  "character_id": 2123974762,
+  "total_losses": 37,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95331708,
+      "name": "Legion Masser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118187729,
+      "name": "Bloodthirsty Technician",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zentosa",
+  "corporation_id": 98217119,
+  "alliance_id": 99014628,
+  "corporation_name": "SECURITY SQUAD",
+  "alliance_name": "Texas."
+}

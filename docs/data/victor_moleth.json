@@ -1,0 +1,46 @@
+{
+  "character_id": 2121332069,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122889035,
+    "name": "Nahrzih Jomil Shana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 2122889035,
+      "name": "Nahrzih Jomil Shana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 861380549,
+      "name": "Erus Xiphias",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1190901474,
+      "name": "Lefty Guns",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victor Moleth",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

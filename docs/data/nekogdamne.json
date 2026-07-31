@@ -1,0 +1,40 @@
+{
+  "character_id": 2123900287,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112776089,
+    "name": "Sarg Crowins",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98469412,
+    "alliance_id": 99012982,
+    "corporation_name": "Godless Horizon.",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 2112776089,
+      "name": "Sarg Crowins",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112130453,
+      "name": "Erik Hanson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116576818,
+      "name": "Zepsii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NekogdaMne",
+  "corporation_id": 98782720,
+  "alliance_id": null,
+  "corporation_name": "Someone is nearby",
+  "alliance_name": null
+}

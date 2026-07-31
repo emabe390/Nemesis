@@ -1,0 +1,34 @@
+{
+  "character_id": 1003819023,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 284306820,
+    "name": "Asasin's",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815771,
+    "alliance_id": null,
+    "corporation_name": "Celestial Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 284306820,
+      "name": "Asasin's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120821124,
+      "name": "Capitan Tatarstann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gen Maximus",
+  "corporation_id": 98335809,
+  "alliance_id": 99003581,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123130273,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120981546,
+    "name": "Ahluic Ballar Calosandoral",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98793039,
+    "alliance_id": null,
+    "corporation_name": "Calosandoral Collective",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120981546,
+      "name": "Ahluic Ballar Calosandoral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2037329567,
+      "name": "HardTrue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115000408,
+      "name": "CyMpak YpykXau",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yansen Asanari",
+  "corporation_id": 98794671,
+  "alliance_id": 99013589,
+  "corporation_name": "The Chain Provides",
+  "alliance_name": "Lethal Estates"
+}

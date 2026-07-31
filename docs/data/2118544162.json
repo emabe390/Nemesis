@@ -1,0 +1,40 @@
+{
+  "character_id": 2118544162,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 190275227,
+    "name": "Empero",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 935907718,
+    "alliance_id": 1727758877,
+    "corporation_name": "Destructive Influence",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 190275227,
+      "name": "Empero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1670899889,
+      "name": "Mosoman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114926213,
+      "name": "Zod Yuri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Makai Tardis Devionheim",
+  "corporation_id": 98673851,
+  "alliance_id": null,
+  "corporation_name": "Save da Taxes",
+  "alliance_name": null
+}

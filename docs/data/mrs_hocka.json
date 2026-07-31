@@ -1,0 +1,46 @@
+{
+  "character_id": 2123970484,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122370035,
+    "name": "HPG",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98827938,
+    "alliance_id": null,
+    "corporation_name": "3 Sleeps Till Christmas",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122370035,
+      "name": "HPG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1257086297,
+      "name": "namtjoR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116678415,
+      "name": "Citir Hocka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120027089,
+      "name": "Pacoz Hocka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mrs Hocka",
+  "corporation_id": 1056867436,
+  "alliance_id": 99003581,
+  "corporation_name": "Super Villains",
+  "alliance_name": "Fraternity."
+}

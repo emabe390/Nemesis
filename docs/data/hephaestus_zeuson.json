@@ -1,0 +1,40 @@
+{
+  "character_id": 2122090063,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113191583,
+    "name": "Henry Bosch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98277602,
+    "alliance_id": null,
+    "corporation_name": "Dead Star Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113191583,
+      "name": "Henry Bosch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93649594,
+      "name": "DaggeR Blad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94552952,
+      "name": "Metr deTorquemada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hephaestus Zeuson",
+  "corporation_id": 98759149,
+  "alliance_id": null,
+  "corporation_name": "Brighten Factor",
+  "alliance_name": null
+}

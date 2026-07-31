@@ -1,0 +1,52 @@
+{
+  "character_id": 2123563735,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 93196728,
+    "name": "Rick Nixon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 93196728,
+      "name": "Rick Nixon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116016649,
+      "name": "HARUSARI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119234587,
+      "name": "Onprobation",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120446729,
+      "name": "Oitoh Zama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91043794,
+      "name": "Clarisse Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sidonus Astartes",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123622433,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121832236,
+    "name": "Dbo1",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121832236,
+      "name": "Dbo1",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1839610291,
+      "name": "Character 1839610291",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113357867,
+      "name": "Vyriz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119421626,
+      "name": "Alcatraz202",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122013960,
+      "name": "Afsediam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wingling 2",
+  "corporation_id": 98738943,
+  "alliance_id": 99005338,
+  "corporation_name": "Take The Bait.",
+  "alliance_name": "Pandemic Horde"
+}

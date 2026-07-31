@@ -1,0 +1,52 @@
+{
+  "character_id": 2123044200,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2112736906,
+    "name": "Terminal Theseus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 840323545,
+    "alliance_id": 99011699,
+    "corporation_name": "The Forsakened Few",
+    "alliance_name": "We Forsakened Few"
+  },
+  "top_killers": [
+    {
+      "id": 2112736906,
+      "name": "Terminal Theseus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115922102,
+      "name": "sara proudmour",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124037179,
+      "name": "Seso Sahichanji",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124037181,
+      "name": "Marcesam Hilartial",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90833117,
+      "name": "Iruna Kanjus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "velheim",
+  "corporation_id": 98829436,
+  "alliance_id": null,
+  "corporation_name": "Reckless Endangerment",
+  "alliance_name": null
+}

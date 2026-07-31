@@ -1,0 +1,52 @@
+{
+  "character_id": 2123843584,
+  "total_losses": 44,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2123846212,
+    "name": "Zyk Vaxor",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123846212,
+      "name": "Zyk Vaxor",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120049925,
+      "name": "Tinilau",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123701397,
+      "name": "Mecclovin Tiberius Skywalker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jarek Hallow",
+  "corporation_id": 98803457,
+  "alliance_id": 99013502,
+  "corporation_name": "An Itty Bitty Militia",
+  "alliance_name": "Itty Bitty Asteroid Committee"
+}

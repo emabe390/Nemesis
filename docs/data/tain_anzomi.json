@@ -1,0 +1,40 @@
+{
+  "character_id": 2123664742,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90308296,
+    "name": "Character 90308296",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98655573,
+    "alliance_id": 99003581,
+    "corporation_name": "Farmhouse.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 90308296,
+      "name": "Character 90308296",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 540456268,
+      "name": "Sparkas",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96645000,
+      "name": "Ekaterina Razumovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tain Anzomi",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

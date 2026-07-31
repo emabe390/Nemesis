@@ -1,0 +1,40 @@
+{
+  "character_id": 2124319149,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 334716679,
+    "name": "Daron Anik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 334716679,
+      "name": "Daron Anik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118615208,
+      "name": "Makahaga Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124122288,
+      "name": "Kara of Epartia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gakhireh",
+  "corporation_id": 98831774,
+  "alliance_id": null,
+  "corporation_name": "No-Local Syndicate",
+  "alliance_name": null
+}

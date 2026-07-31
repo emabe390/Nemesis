@@ -1,0 +1,52 @@
+{
+  "character_id": 2123793372,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123793328,
+    "name": "IAM RIZE",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98831774,
+    "alliance_id": null,
+    "corporation_name": "No-Local Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123793328,
+      "name": "IAM RIZE",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95280436,
+      "name": "Eiska Delmonde",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116637707,
+      "name": "wildness facto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123131896,
+      "name": "Dominicos Tinkos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123174512,
+      "name": "Jimmy the Snowman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IAM RIZE IV",
+  "corporation_id": 98831774,
+  "alliance_id": null,
+  "corporation_name": "No-Local Syndicate",
+  "alliance_name": null
+}

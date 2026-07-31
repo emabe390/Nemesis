@@ -1,0 +1,46 @@
+{
+  "character_id": 2122471373,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2017931313,
+    "name": "Harks",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2017931313,
+      "name": "Harks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1222401549,
+      "name": "Skototounta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122576420,
+      "name": "FADED-01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122576534,
+      "name": "FADED-02",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bakkanta Mabata",
+  "corporation_id": 98820420,
+  "alliance_id": null,
+  "corporation_name": "Control Group",
+  "alliance_name": null
+}

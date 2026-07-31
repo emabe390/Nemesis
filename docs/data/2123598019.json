@@ -1,0 +1,40 @@
+{
+  "character_id": 2123598019,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117117358,
+    "name": "Brettias Paynies",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98186730,
+    "alliance_id": 1354830081,
+    "corporation_name": "Brothers of Tyr",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117117358,
+      "name": "Brettias Paynies",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119377670,
+      "name": "Twippie",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1607871758,
+      "name": "WoOh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heinz Angel",
+  "corporation_id": 98819392,
+  "alliance_id": 99013541,
+  "corporation_name": "Angel Industrial Consortium",
+  "alliance_name": "Fraternity Auxiliary"
+}

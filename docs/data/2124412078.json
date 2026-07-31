@@ -1,0 +1,34 @@
+{
+  "character_id": 2124412078,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113407951,
+    "name": "Murray Rothbardo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98638278,
+    "alliance_id": 927292903,
+    "corporation_name": "Signal Reflection",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 2113407951,
+      "name": "Murray Rothbardo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121517235,
+      "name": "MihaelJ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "trade guy alt",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

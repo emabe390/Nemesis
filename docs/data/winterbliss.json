@@ -1,0 +1,52 @@
+{
+  "character_id": 123190465,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 90117368,
+    "name": "Evezer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90117368,
+      "name": "Evezer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1637643996,
+      "name": "Shanoexan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91258437,
+      "name": "Zaratun Positive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94240023,
+      "name": "Matrosov Glengoski Razyashchiy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Winterbliss",
+  "corporation_id": 355443127,
+  "alliance_id": 1354830081,
+  "corporation_name": "ANZAC ALLIANCE",
+  "alliance_name": "Goonswarm Federation"
+}

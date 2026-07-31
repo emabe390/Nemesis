@@ -1,0 +1,40 @@
+{
+  "character_id": 280225940,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 775694970,
+    "name": "Kania",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98666928,
+    "alliance_id": null,
+    "corporation_name": "Lucky.Punch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 775694970,
+      "name": "Kania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123657513,
+      "name": "Magnus override",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tea Astashi",
+  "corporation_id": 98135945,
+  "alliance_id": null,
+  "corporation_name": "The Dedicated Few",
+  "alliance_name": null
+}

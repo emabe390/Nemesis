@@ -1,0 +1,52 @@
+{
+  "character_id": 2123248421,
+  "total_losses": 25,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 1679570702,
+    "name": "spottington",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 302750157,
+    "alliance_id": 99004901,
+    "corporation_name": "ElitistOps",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 1679570702,
+      "name": "spottington",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90001584,
+      "name": "Hroovitnir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90980528,
+      "name": "Jean-Luc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92715893,
+      "name": "Komo Sunder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93030218,
+      "name": "Ares Tzestu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123248421",
+  "corporation_id": 98570535,
+  "alliance_id": 99010457,
+  "corporation_name": "NanoNerf Inc.",
+  "alliance_name": "Parallaxis Alliance"
+}

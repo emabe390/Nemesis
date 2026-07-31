@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Nemesis — EVE Nemesis Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .leaderboard {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .leaderboard-row {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 16px 20px;
+            background: var(--bg);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            transition: border-color 0.2s;
+        }
+        .leaderboard-row:hover {
+            border-color: var(--gold);
+        }
+        .leaderboard-row.top-1 {
+            border-color: var(--gold);
+            background: rgba(255, 170, 0, 0.05);
+        }
+        .leaderboard-row.top-2 {
+            border-color: var(--text-dim);
+            background: rgba(192, 192, 208, 0.03);
+        }
+        .leaderboard-row.top-3 {
+            border-color: #cd7f32;
+            background: rgba(205, 127, 50, 0.05);
+        }
+        .rank-badge {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--border);
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+        .leaderboard-row.top-1 .rank-badge {
+            background: var(--gold);
+            color: var(--bg);
+        }
+        .leaderboard-row.top-2 .rank-badge {
+            background: var(--text-dim);
+            color: var(--bg);
+        }
+        .leaderboard-row.top-3 .rank-badge {
+            background: #cd7f32;
+            color: var(--bg);
+        }
+        .leader-info {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            min-width: 0;
+        }
+        .leader-info .char-portrait {
+            width: 64px;
+            height: 64px;
+            border-radius: 8px;
+        }
+        .leader-name {
+            font-size: 1.15rem;
+            font-weight: 600;
+        }
+        .leader-orgs {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-left: 6px;
+        }
+        .org-logo {
+            width: 24px;
+            height: 24px;
+            border-radius: 4px;
+            object-fit: cover;
+            border: 1px solid var(--border);
+            flex-shrink: 0;
+        }
+        .leader-stats {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 4px;
+            flex-shrink: 0;
+        }
+        .stat-main {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--accent);
+        }
+        .stat-sub {
+            font-size: 0.8rem;
+            color: var(--text-dim);
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--text-dim);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .back-link:hover {
+            color: var(--gold);
+        }
+        .page-header {
+            margin-bottom: 30px;
+        }
+        .page-header h2 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .page-header p {
+            color: var(--text-dim);
+            font-size: 0.95rem;
+        }
+        @media (max-width: 600px) {
+            .leaderboard-row {
+                gap: 10px;
+                padding: 12px 14px;
+            }
+            .leader-info .char-portrait {
+                width: 44px;
+                height: 44px;
+            }
+            .leader-name {
+                font-size: 1rem;
+            }
+            .stat-main {
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><a href="./" class="site-title">⚔️ EVE Nemesis Tracker</a></h1>
+            <p>Find who kills you the most in New Eden</p>
+        </header>
+
+        <a href="./" class="back-link">← Back to search</a>
+
+        <div class="page-header">
+            <h2>🏆 Top Nemesis</h2>
+            <p>The pilots who are the #1 nemesis of the most characters</p>
+        </div>
+
+        <div id="loading">Loading leaderboard...</div>
+        <div id="leaderboard" class="leaderboard hidden"></div>
+        <div id="error" class="hidden"></div>
+
+        <footer class="disclaimer">
+            <p>EVE Online and all related assets are the property of Fenris Creations. This is an independent fan project and is not affiliated with or endorsed by Fenris Creations.</p>
+            <p class="creator">Created by <a href="./#Freany" class="char-link">Freany</a> — data from <a href="https://zkillboard.com/" target="_blank" rel="noopener">zKillboard</a></p>
+        </footer>
+    </div>
+
+    <script src="top.js"></script>
+</body>
+</html>

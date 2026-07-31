@@ -1,0 +1,40 @@
+{
+  "character_id": 2123501032,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94117575,
+    "name": "Johny Ganem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98613346,
+    "alliance_id": null,
+    "corporation_name": "Piou",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94117575,
+      "name": "Johny Ganem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1307353296,
+      "name": "TheUnpleasantOne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121216011,
+      "name": "Uzawa Reisa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Tronick",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

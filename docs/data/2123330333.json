@@ -1,0 +1,52 @@
+{
+  "character_id": 2123330333,
+  "total_losses": 19,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 583637272,
+    "name": "H5N1ONE",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2118033675,
+      "name": "GreenEyes",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92837550,
+      "name": "CryofDie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95486994,
+      "name": "Tal Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 733774415,
+      "name": "Gin Zeng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hiekilen Yanumano",
+  "corporation_id": 98716511,
+  "alliance_id": 99013005,
+  "corporation_name": "Die By The Sword",
+  "alliance_name": "Burn the Boats"
+}

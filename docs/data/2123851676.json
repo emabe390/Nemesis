@@ -1,0 +1,52 @@
+{
+  "character_id": 2123851676,
+  "total_losses": 31,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2123848214,
+    "name": "Brokkone",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98740495,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Peacekeeper",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123848214,
+      "name": "Brokkone",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91820772,
+      "name": "Kenneth Skybound",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95863403,
+      "name": "Zeta Zivkovic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1328149095,
+      "name": "Tandail",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Brokksecond",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2114089094,
+  "total_losses": 21,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91251313,
+      "name": "Grunt Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91990588,
+      "name": "Stifmeister's Mom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96172084,
+      "name": "Xenon Aspirse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sev Oakheart",
+  "corporation_id": 98560652,
+  "alliance_id": 1354830081,
+  "corporation_name": "Miners Inn",
+  "alliance_name": "Goonswarm Federation"
+}

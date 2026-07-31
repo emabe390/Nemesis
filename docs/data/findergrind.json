@@ -1,0 +1,40 @@
+{
+  "character_id": 2121062518,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 484393809,
+    "name": "MacGybo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 484393809,
+      "name": "MacGybo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122977457,
+      "name": "Jace-Beleren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221306,
+      "name": "WIndowLicker1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "findergrind",
+  "corporation_id": 98735817,
+  "alliance_id": null,
+  "corporation_name": "Stop Scream Man Corp",
+  "alliance_name": null
+}

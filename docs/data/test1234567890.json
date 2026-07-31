@@ -1,0 +1,52 @@
+{
+  "character_id": 2123889421,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 149849961,
+    "name": "Zmey Gorynich",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98535701,
+    "alliance_id": 99013851,
+    "corporation_name": "Geto-Dacii",
+    "alliance_name": "M A C U L A"
+  },
+  "top_killers": [
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114170211,
+      "name": "Ajduk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120375575,
+      "name": "Zirf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96214114,
+      "name": "WhaleHunter02",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Test1234567890",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

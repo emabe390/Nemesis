@@ -1,0 +1,40 @@
+{
+  "character_id": 2124405517,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 656810319,
+    "name": "Wikki Kayser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 656810319,
+      "name": "Wikki Kayser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 751200882,
+      "name": "the rainingdeath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123562529,
+      "name": "Gen-X-Warrior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boyd Knight",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

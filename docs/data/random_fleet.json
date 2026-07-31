@@ -1,0 +1,52 @@
+{
+  "character_id": 2123533826,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 95775823,
+    "name": "Nolan Gollard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95775823,
+      "name": "Nolan Gollard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 887603079,
+      "name": "Feek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94239044,
+      "name": "aky chikuma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96471767,
+      "name": "Kyo Yoichi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Random Fleet",
+  "corporation_id": 98807445,
+  "alliance_id": null,
+  "corporation_name": "Fleet Warps Only",
+  "alliance_name": null
+}

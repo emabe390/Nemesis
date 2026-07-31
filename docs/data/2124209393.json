@@ -1,0 +1,40 @@
+{
+  "character_id": 2124209393,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94943243,
+    "name": "King's Power",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 94943243,
+      "name": "King's Power",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119508114,
+      "name": "Stefan Molymeme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124209393,
+      "name": "Yarida Betep",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yarida Betep",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

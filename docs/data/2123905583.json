@@ -1,0 +1,52 @@
+{
+  "character_id": 2123905583,
+  "total_losses": 34,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2123890554,
+    "name": "WatermelonTaro",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98819815,
+    "alliance_id": null,
+    "corporation_name": "Watermelon LP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123890554,
+      "name": "WatermelonTaro",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123612330,
+      "name": "Aboh Shure Izia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92953553,
+      "name": "Jeromis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94798952,
+      "name": "Kalashnikov Mkhail",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "The Absolute",
+  "corporation_id": 98826477,
+  "alliance_id": null,
+  "corporation_name": "True Souls",
+  "alliance_name": null
+}

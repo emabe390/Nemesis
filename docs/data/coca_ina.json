@@ -1,0 +1,52 @@
+{
+  "character_id": 2123424529,
+  "total_losses": 21,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2118693447,
+    "name": "Character 2118693447",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98549595,
+    "alliance_id": 386292982,
+    "corporation_name": "Squid Inc.",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2118693447,
+      "name": "Character 2118693447",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119994887,
+      "name": "Kardaz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120740418,
+      "name": "Imperator Dreynar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122585718,
+      "name": "Phoenix Corn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95424427,
+      "name": "BeastlyKnightJ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coca Ina",
+  "corporation_id": 98828763,
+  "alliance_id": 99014081,
+  "corporation_name": "Backbone Solutions",
+  "alliance_name": "Synergy of Support"
+}

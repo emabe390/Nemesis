@@ -1,0 +1,34 @@
+{
+  "character_id": 2123770765,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121108231,
+    "name": "Sir Presto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769199,
+    "alliance_id": 1042504553,
+    "corporation_name": "Shiv Wreckoning",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2121108231,
+      "name": "Sir Presto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Torkebaira Mabata",
+  "corporation_id": 98809234,
+  "alliance_id": null,
+  "corporation_name": "Framgangur",
+  "alliance_name": null
+}

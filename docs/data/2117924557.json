@@ -1,0 +1,52 @@
+{
+  "character_id": 2117924557,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 166043480,
+    "name": "Ashag",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98686431,
+    "alliance_id": 99013177,
+    "corporation_name": "Fixers Corporation",
+    "alliance_name": "Pillars of Liberty"
+  },
+  "top_killers": [
+    {
+      "id": 166043480,
+      "name": "Ashag",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119514600,
+      "name": "Michael Ososi Rayl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119924248,
+      "name": "Chili Mlxed Rice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FRVR",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

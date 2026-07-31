@@ -1,0 +1,52 @@
+{
+  "character_id": 2123596282,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120560723,
+    "name": "Una chica",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98614860,
+    "alliance_id": null,
+    "corporation_name": "Un grupo de chicas",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120560723,
+      "name": "Una chica",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1023323993,
+      "name": "Ray Zen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 796153743,
+      "name": "Character 796153743",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119337393,
+      "name": "James Fuchs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123006134,
+      "name": "Shady Samwise",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lials",
+  "corporation_id": 98803643,
+  "alliance_id": 99014167,
+  "corporation_name": "XANAX Withdrawal Corp.",
+  "alliance_name": "XANAX Withdrawal Corp. Alliance"
+}

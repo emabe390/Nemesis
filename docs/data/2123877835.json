@@ -1,0 +1,52 @@
+{
+  "character_id": 2123877835,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 484393809,
+    "name": "MacGybo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 484393809,
+      "name": "MacGybo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90393747,
+      "name": "Gramps Pljugi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92574129,
+      "name": "Podlec King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 965009084,
+      "name": "Piir8",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1184548204,
+      "name": "Floorist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mesch Chastot",
+  "corporation_id": 98759940,
+  "alliance_id": 99015022,
+  "corporation_name": "Radio Free Zerg",
+  "alliance_name": "Black Ribbit"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 462070029,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1266971406,
+    "name": "Fellout",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1545193951,
+    "alliance_id": 498125261,
+    "corporation_name": "Ascendent.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 1266971406,
+      "name": "Fellout",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118083819,
+      "name": "Shiv Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119468513,
+      "name": "Yamon Airuta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grann Thefauto",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

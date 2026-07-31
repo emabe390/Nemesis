@@ -1,0 +1,52 @@
+{
+  "character_id": 2123948156,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1026183251,
+    "name": "Vabani",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1026183251,
+      "name": "Vabani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 158131114,
+      "name": "Jemiria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1255752002,
+      "name": "Achilla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1486352135,
+      "name": "Cyirak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112082674,
+      "name": "Lektro Illuminate",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NM1001",
+  "corporation_id": 98814875,
+  "alliance_id": 99013674,
+  "corporation_name": "OPA Free Navy",
+  "alliance_name": "Recklessly Tactical"
+}

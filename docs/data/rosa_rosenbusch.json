@@ -1,0 +1,52 @@
+{
+  "character_id": 2122334208,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2124029125,
+    "name": "Daro Voss",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828460,
+    "alliance_id": 99013548,
+    "corporation_name": "PhaseShift Drifters",
+    "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+  },
+  "top_killers": [
+    {
+      "id": 2124029125,
+      "name": "Daro Voss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 385111411,
+      "name": "Character 385111411",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 625637028,
+      "name": "Catastrophic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118515275,
+      "name": "Percephony",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rosa Rosenbusch",
+  "corporation_id": 98444889,
+  "alliance_id": 99007090,
+  "corporation_name": "Zentarim",
+  "alliance_name": "Combat Wombat."
+}

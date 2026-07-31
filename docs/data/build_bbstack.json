@@ -1,0 +1,52 @@
+{
+  "character_id": 2116153225,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2116153372,
+    "name": "tran BBstack",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98700758,
+    "alliance_id": null,
+    "corporation_name": "BB home",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116153372,
+      "name": "tran BBstack",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2121514519,
+      "name": "time wither",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93584147,
+      "name": "Endashi Hita",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "build BBstack",
+  "corporation_id": 98700758,
+  "alliance_id": null,
+  "corporation_name": "BB home",
+  "alliance_name": null
+}

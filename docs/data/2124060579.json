@@ -1,0 +1,40 @@
+{
+  "character_id": 2124060579,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1775391574,
+    "name": "Prosum",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1081304772,
+    "alliance_id": 99014375,
+    "corporation_name": "Deep Axion",
+    "alliance_name": "The Frog Boiler"
+  },
+  "top_killers": [
+    {
+      "id": 1775391574,
+      "name": "Prosum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117657970,
+      "name": "vector-B",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TaePI",
+  "corporation_id": 98824496,
+  "alliance_id": null,
+  "corporation_name": "Universal Eve Group",
+  "alliance_name": null
+}

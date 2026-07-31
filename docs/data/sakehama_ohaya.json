@@ -1,0 +1,40 @@
+{
+  "character_id": 2124112848,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1006289379,
+    "name": "Erehwon Rorschach",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 1006289379,
+      "name": "Erehwon Rorschach",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115620696,
+      "name": "Nanchuan Yan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123030234,
+      "name": "Fading Lotus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sakehama Ohaya",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1234106588,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95478452,
+    "name": "Red Tractor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98009828,
+    "alliance_id": 99007629,
+    "corporation_name": "Great Wind",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 95478452,
+      "name": "Red Tractor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112156402,
+      "name": "Hich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114325911,
+      "name": "Tessa Valois",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dufnut",
+  "corporation_id": 98457033,
+  "alliance_id": 1900696668,
+  "corporation_name": "United Mining and Hauling Inc",
+  "alliance_name": "The Initiative."
+}

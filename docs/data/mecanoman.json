@@ -1,0 +1,52 @@
+{
+  "character_id": 2122111801,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94199905,
+      "name": "Krist BAngs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118144036,
+      "name": "Erika Timpis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121022371,
+      "name": "Bee Kay",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1633218082,
+      "name": "Squizz Caphinator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mecanoman",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

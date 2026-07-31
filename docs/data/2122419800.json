@@ -1,0 +1,40 @@
+{
+  "character_id": 2122419800,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113779574,
+    "name": "Autophysian Lancer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113779574,
+      "name": "Autophysian Lancer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120319373,
+      "name": "Wentisagnel Beet Antollare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123231849,
+      "name": "Blistalin Egber Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eroken Tekitsu",
+  "corporation_id": 98607337,
+  "alliance_id": null,
+  "corporation_name": "Fellow Travelers",
+  "alliance_name": null
+}

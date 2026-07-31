@@ -1,0 +1,52 @@
+{
+  "character_id": 2118179193,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123895836,
+    "name": "Taron voss",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98648183,
+    "alliance_id": 99009885,
+    "corporation_name": "Ternary Solntse Industries",
+    "alliance_name": "Xagenic Freymvork"
+  },
+  "top_killers": [
+    {
+      "id": 2123895836,
+      "name": "Taron voss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94495114,
+      "name": "Rage Zombie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94609028,
+      "name": "Das Hagen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95249238,
+      "name": "PixyWarrior Ellecon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Whuzzock Ellecon",
+  "corporation_id": 98672060,
+  "alliance_id": 99009845,
+  "corporation_name": "Relentless Miners",
+  "alliance_name": "Sedition."
+}

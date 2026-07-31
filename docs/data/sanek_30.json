@@ -1,0 +1,52 @@
+{
+  "character_id": 2119557829,
+  "total_losses": 66,
+  "unique_killers": 49,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sanek 30",
+  "corporation_id": 98397049,
+  "alliance_id": 1354830081,
+  "corporation_name": "The Flying Dead.",
+  "alliance_name": "Goonswarm Federation"
+}

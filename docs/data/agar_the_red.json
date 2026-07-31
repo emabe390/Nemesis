@@ -1,0 +1,52 @@
+{
+  "character_id": 2123790489,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 850889739,
+    "name": "Sivalasan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98657999,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rage Confederacy",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 850889739,
+      "name": "Sivalasan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91172071,
+      "name": "Amonkhira Drell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117613923,
+      "name": "Timeloh Regho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121385390,
+      "name": "Liam John",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Agar The Red",
+  "corporation_id": 98731764,
+  "alliance_id": 99014278,
+  "corporation_name": "Mad Dogs of Doom",
+  "alliance_name": "Abyssal Booty Hunters"
+}

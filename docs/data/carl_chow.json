@@ -1,0 +1,52 @@
+{
+  "character_id": 2123739594,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2119531472,
+    "name": "Rogue System",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769890,
+    "alliance_id": null,
+    "corporation_name": "Anime Angel Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119531472,
+      "name": "Rogue System",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94177002,
+      "name": "Johnathan Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96643487,
+      "name": "Vacuum Cleaner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 197231124,
+      "name": "Urik Kahn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carl Chow",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

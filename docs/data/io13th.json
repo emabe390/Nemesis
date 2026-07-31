@@ -1,0 +1,46 @@
+{
+  "character_id": 2123991667,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95530807,
+      "name": "Slava Engsten",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95633746,
+      "name": "Karma Maken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 530590916,
+      "name": "Darth Felin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "io13th",
+  "corporation_id": 98698983,
+  "alliance_id": 99012122,
+  "corporation_name": "Scan Stakan",
+  "alliance_name": "HOLD MY PROBS"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119677112,
+  "total_losses": 35,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2112908697,
+    "name": "Mary Rough",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98553218,
+    "alliance_id": null,
+    "corporation_name": "Pleasure Factory",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112908697,
+      "name": "Mary Rough",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91611270,
+      "name": "Tony Goalardo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92042237,
+      "name": "Endor Belvar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2119677112",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

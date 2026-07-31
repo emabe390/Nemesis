@@ -1,0 +1,40 @@
+{
+  "character_id": 2123626122,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93122613,
+    "name": "Stanislav Aion",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98832663,
+    "alliance_id": null,
+    "corporation_name": "F1 Warriors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93122613,
+      "name": "Stanislav Aion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96143517,
+      "name": "Rene Berserker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kahir Null",
+  "corporation_id": 98699553,
+  "alliance_id": 99014849,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative."
+}

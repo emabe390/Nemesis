@@ -1,0 +1,52 @@
+{
+  "character_id": 2113368896,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122400110,
+      "name": "Gospitaller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112348119,
+      "name": "GIMA ACOLYTE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120631923,
+      "name": "Banner Pappotte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121884909,
+      "name": "Brennus Torx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hokan Rahl",
+  "corporation_id": 98801842,
+  "alliance_id": null,
+  "corporation_name": "NullRef .Tech",
+  "alliance_name": null
+}

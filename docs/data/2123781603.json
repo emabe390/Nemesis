@@ -1,0 +1,46 @@
+{
+  "character_id": 2123781603,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 913171352,
+    "name": "Hellrazer",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98298938,
+    "alliance_id": 917526329,
+    "corporation_name": "Captain's Quarters",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114498069,
+      "name": "Nasbashov Ibruin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116912155,
+      "name": "Cap'n Zulu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fantasy Skar Kaedar",
+  "corporation_id": 98825729,
+  "alliance_id": null,
+  "corporation_name": "Boulder Dash Corporation",
+  "alliance_name": null
+}

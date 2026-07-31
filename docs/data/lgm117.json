@@ -1,0 +1,34 @@
+{
+  "character_id": 2123866890,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123283416,
+    "name": "tenno cami",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825114,
+    "alliance_id": 99014657,
+    "corporation_name": "Euphoria.",
+    "alliance_name": "Ranger Regiment"
+  },
+  "top_killers": [
+    {
+      "id": 2123283416,
+      "name": "tenno cami",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96300142,
+      "name": "Leon Isoshima Hibra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LGM117",
+  "corporation_id": 98809948,
+  "alliance_id": null,
+  "corporation_name": "Astral Knights",
+  "alliance_name": null
+}

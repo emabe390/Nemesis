@@ -1,0 +1,40 @@
+{
+  "character_id": 2121419266,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93214934,
+    "name": "Kane Carnifex",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 994783381,
+    "alliance_id": 99003214,
+    "corporation_name": "Duty.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 93214934,
+      "name": "Kane Carnifex",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112789442,
+      "name": "Enrico Maxwell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113196490,
+      "name": "Norkk Senstrive",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ereya",
+  "corporation_id": 98770220,
+  "alliance_id": 99007203,
+  "corporation_name": "POLAR ZEBRA",
+  "alliance_name": "Siberian Squads"
+}

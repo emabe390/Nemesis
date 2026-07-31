@@ -1,0 +1,46 @@
+{
+  "character_id": 2123822082,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 274275469,
+    "name": "omega1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98531454,
+    "alliance_id": 1354830081,
+    "corporation_name": "Asteroid Farm Unlimited",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 274275469,
+      "name": "omega1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95578092,
+      "name": "CALVIN HOOD HIGH",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115242980,
+      "name": "MalcomReynolds Serenity",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hana Arasato",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

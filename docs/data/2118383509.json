@@ -1,0 +1,52 @@
+{
+  "character_id": 2118383509,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 94764801,
+    "name": "Irgwa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98797075,
+    "alliance_id": null,
+    "corporation_name": "Friendly Authority",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94764801,
+      "name": "Irgwa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95617479,
+      "name": "Exo Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 273213517,
+      "name": "Zoyya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114313561,
+      "name": "James Gear",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114699010,
+      "name": "Old Man Sarge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "paxfen",
+  "corporation_id": 98650314,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XIV",
+  "alliance_name": "Absolute Will"
+}

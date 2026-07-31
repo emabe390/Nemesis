@@ -1,0 +1,40 @@
+{
+  "character_id": 2123258891,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96214107,
+    "name": "WhaleHunter01",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000171,
+    "alliance_id": null,
+    "corporation_name": "Republic University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96214107,
+      "name": "WhaleHunter01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117243405,
+      "name": "Tely Merlyn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121746796,
+      "name": "Paanenen Aivoras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hene en Marland",
+  "corporation_id": 98785109,
+  "alliance_id": 99013541,
+  "corporation_name": "lotm ancient",
+  "alliance_name": "Fraternity Auxiliary"
+}

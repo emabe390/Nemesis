@@ -1,0 +1,52 @@
+{
+  "character_id": 2123783875,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 946402945,
+    "name": "Metanii",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502319709,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cloak and Daggers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 946402945,
+      "name": "Metanii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123745950,
+      "name": "Constantine Kador",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90100519,
+      "name": "Mighty Bk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91099858,
+      "name": "Holger Ecobruar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91366488,
+      "name": "Fashion c",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lawnor",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

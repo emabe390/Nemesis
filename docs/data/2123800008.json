@@ -1,0 +1,40 @@
+{
+  "character_id": 2123800008,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115000010,
+    "name": "Parsiska Ostus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98672533,
+    "alliance_id": 99005393,
+    "corporation_name": "BrainBox",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 2115000010,
+      "name": "Parsiska Ostus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 616138852,
+      "name": "Mimici",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1144781480,
+      "name": "Bredor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ObiWanCanMiney",
+  "corporation_id": 98819416,
+  "alliance_id": 1354830081,
+  "corporation_name": "Astral Forge Directorate",
+  "alliance_name": "Goonswarm Federation"
+}

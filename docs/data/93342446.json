@@ -1,0 +1,40 @@
+{
+  "character_id": 93342446,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93830016,
+    "name": "Icarus Osprey",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98405234,
+    "alliance_id": 99012410,
+    "corporation_name": "xDECOYx",
+    "alliance_name": "DECOY"
+  },
+  "top_killers": [
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 411225042,
+      "name": "BJK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118874405,
+      "name": "Mateo lex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alfa Zerg Nidus",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

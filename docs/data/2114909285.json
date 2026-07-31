@@ -1,0 +1,40 @@
+{
+  "character_id": 2114909285,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123299031,
+    "name": "Huger-A4",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98677509,
+    "alliance_id": 99010412,
+    "corporation_name": "Nisuwa Dairy Union",
+    "alliance_name": "Nisuwa Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2123299031,
+      "name": "Huger-A4",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 253100990,
+      "name": "SokoleOko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119861876,
+      "name": "Queen Ellee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zedd Lepplin",
+  "corporation_id": 98590904,
+  "alliance_id": null,
+  "corporation_name": "H.Y.P.E.",
+  "alliance_name": null
+}

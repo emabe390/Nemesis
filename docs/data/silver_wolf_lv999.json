@@ -1,0 +1,40 @@
+{
+  "character_id": 2124336711,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116734604,
+    "name": "dix otto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98450647,
+    "alliance_id": 99007203,
+    "corporation_name": "SpaceX Galactic",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 2116734604,
+      "name": "dix otto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120973779,
+      "name": "Shlong Silver",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silver Wolf LV999",
+  "corporation_id": 98819354,
+  "alliance_id": null,
+  "corporation_name": "Exactitude Syndicate",
+  "alliance_name": null
+}

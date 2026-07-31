@@ -1,0 +1,40 @@
+{
+  "character_id": 2118491447,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1567846404,
+    "name": "Max Morphite",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98604007,
+    "alliance_id": 1042504553,
+    "corporation_name": "Gregarious Games Mechanized Federation",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 1567846404,
+      "name": "Max Morphite",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93710245,
+      "name": "Tiber Galient",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117472733,
+      "name": "Dakken Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akiora",
+  "corporation_id": 98180098,
+  "alliance_id": 99001969,
+  "corporation_name": "Special Assault Unit",
+  "alliance_name": "SONS of BANE"
+}

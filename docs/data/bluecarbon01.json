@@ -1,0 +1,52 @@
+{
+  "character_id": 2123474702,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 94035725,
+    "name": "OfTheAncients",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1696098108,
+    "alliance_id": 1354830081,
+    "corporation_name": "Trust Doesn't Rust",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94035725,
+      "name": "OfTheAncients",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 848720950,
+      "name": "Ezapr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1679480235,
+      "name": "Jed Stevens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114013859,
+      "name": "n1tsuj",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114472717,
+      "name": "Falendor Mar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BlueCarbon01",
+  "corporation_id": 98830385,
+  "alliance_id": 99014221,
+  "corporation_name": "False Logistic Services",
+  "alliance_name": "Weapons of Mass Logistics"
+}

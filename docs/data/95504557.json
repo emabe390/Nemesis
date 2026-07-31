@@ -1,0 +1,40 @@
+{
+  "character_id": 95504557,
+  "total_losses": 21,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95215159,
+    "name": "Aly Abadalah",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 428685852,
+    "alliance_id": null,
+    "corporation_name": "Judgment Day Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95215159,
+      "name": "Aly Abadalah",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 170395484,
+      "name": "BUNIE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Judgment Day",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

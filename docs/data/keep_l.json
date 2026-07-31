@@ -1,0 +1,46 @@
+{
+  "character_id": 2124191048,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123957388,
+    "name": "Shleby",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98288855,
+    "alliance_id": 99013794,
+    "corporation_name": "Garra Ferrea",
+    "alliance_name": "Capys Holding"
+  },
+  "top_killers": [
+    {
+      "id": 2123957388,
+      "name": "Shleby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96962524,
+      "name": "Daniel OHaleno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120873305,
+      "name": "Obsidian Skar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122909448,
+      "name": "Aladar Goose",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keep L",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

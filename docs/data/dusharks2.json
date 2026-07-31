@@ -1,0 +1,52 @@
+{
+  "character_id": 2124329771,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2124161603,
+    "name": "FooBot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98639548,
+    "alliance_id": 99011489,
+    "corporation_name": "United Caldari Navy",
+    "alliance_name": "United Caldari Space Command."
+  },
+  "top_killers": [
+    {
+      "id": 2124161603,
+      "name": "FooBot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 836575670,
+      "name": "John Revenent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 882865073,
+      "name": "Ironcraze",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1339462940,
+      "name": "Carnax Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1689382640,
+      "name": "StickySticks",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dusharks2",
+  "corporation_id": 98829059,
+  "alliance_id": null,
+  "corporation_name": "Dawn's Light Guri",
+  "alliance_name": null
+}

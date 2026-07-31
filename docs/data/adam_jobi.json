@@ -1,0 +1,40 @@
+{
+  "character_id": 2124376697,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93147441,
+    "name": "Kibitt Kallinikov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91764176,
+      "name": "Rischulid Kallar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115915430,
+      "name": "Moong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adam Jobi",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

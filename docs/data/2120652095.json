@@ -1,0 +1,52 @@
+{
+  "character_id": 2120652095,
+  "total_losses": 76,
+  "unique_killers": 69,
+  "nemesis": {
+    "id": 2116443475,
+    "name": "Zero Santiago",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98549595,
+    "alliance_id": 386292982,
+    "corporation_name": "Squid Inc.",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2116443475,
+      "name": "Zero Santiago",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96396050,
+      "name": "Markus Fortran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 424638600,
+      "name": "Shobolingoza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115807753,
+      "name": "Diep Khanh Duong",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ragnar Lothbrok VK",
+  "corporation_id": 1696098108,
+  "alliance_id": 1354830081,
+  "corporation_name": "Trust Doesn't Rust",
+  "alliance_name": "Goonswarm Federation"
+}

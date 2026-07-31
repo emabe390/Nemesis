@@ -1,0 +1,52 @@
+{
+  "character_id": 2122202600,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 156345365,
+    "name": "Gunni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 156345365,
+      "name": "Gunni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91079014,
+      "name": "Frank Zateki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96914766,
+      "name": "Xiaohui Yan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 756949040,
+      "name": "ChessKiller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427391796,
+      "name": "Dr Volt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ApandaB",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

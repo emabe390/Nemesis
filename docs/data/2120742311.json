@@ -1,0 +1,52 @@
+{
+  "character_id": 2120742311,
+  "total_losses": 25,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 95590706,
+      "name": "Titus Lancaster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90742661,
+      "name": "Qlarenz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94124583,
+      "name": "Calico Jack Rose",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NotLoliBell",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

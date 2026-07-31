@@ -1,0 +1,52 @@
+{
+  "character_id": 2124542702,
+  "total_losses": 70,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 96881628,
+      "name": "Colvin Isu",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96921500,
+      "name": "Marrcus Edus Smithion",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1227994980,
+      "name": "Yellow Jackal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124374276,
+      "name": "Movmax",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Gantir Tian",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

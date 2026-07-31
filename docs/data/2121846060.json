@@ -1,0 +1,52 @@
+{
+  "character_id": 2121846060,
+  "total_losses": 36,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2121986378,
+    "name": "Samus Aran Zero",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98828424,
+    "alliance_id": null,
+    "corporation_name": "Weyland-Yutani Corp B.B.W.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123753003,
+      "name": "Jessica Atreides Dama",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123972070,
+      "name": "Imperator Furiosa Theron",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123204379,
+      "name": "Sarah Kerrigan Louise",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Rexbob Wilkinsonia",
+  "corporation_id": 98773560,
+  "alliance_id": null,
+  "corporation_name": "Anoikis Security Solutions",
+  "alliance_name": null
+}

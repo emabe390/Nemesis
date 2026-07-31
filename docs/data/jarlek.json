@@ -1,0 +1,40 @@
+{
+  "character_id": 131020076,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1456210623,
+    "name": "Captain Torlek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 605398057,
+    "alliance_id": 99003699,
+    "corporation_name": "Nocturnal Romance",
+    "alliance_name": "Cynosural Field Theory."
+  },
+  "top_killers": [
+    {
+      "id": 1456210623,
+      "name": "Captain Torlek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92580724,
+      "name": "Joe Garsk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96815517,
+      "name": "Barmaley BB",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jarlek",
+  "corporation_id": 98241737,
+  "alliance_id": null,
+  "corporation_name": "Boinas Rojas CO.",
+  "alliance_name": null
+}

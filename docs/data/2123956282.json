@@ -1,0 +1,52 @@
+{
+  "character_id": 2123956282,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 813634421,
+      "name": "SanZo Fengi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117431450,
+      "name": "Laksmi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112133747,
+      "name": "Alooker YAG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Escalofrios",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

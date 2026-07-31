@@ -1,0 +1,46 @@
+{
+  "character_id": 2123728576,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 265341811,
+    "name": "Moot Scudrunner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 265341811,
+      "name": "Moot Scudrunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1445152844,
+      "name": "Colri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117796100,
+      "name": "Eva Mpire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122975174,
+      "name": "Thing One PointOne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lost With Purpose",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

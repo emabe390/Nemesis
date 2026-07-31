@@ -1,0 +1,34 @@
+{
+  "character_id": 2123943647,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92655600,
+    "name": "Guybertini",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98155447,
+    "alliance_id": 99002775,
+    "corporation_name": "New Order Logistics",
+    "alliance_name": "CODE."
+  },
+  "top_killers": [
+    {
+      "id": 92655600,
+      "name": "Guybertini",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119281000,
+      "name": "Odin Starbane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Apherus Darthroon",
+  "corporation_id": 98813151,
+  "alliance_id": 99014402,
+  "corporation_name": "Industry Manifest",
+  "alliance_name": "Plenitude Alliance"
+}

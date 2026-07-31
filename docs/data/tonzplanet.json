@@ -1,0 +1,52 @@
+{
+  "character_id": 2112105195,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2120475019,
+    "name": "Delta de Lacourt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783156,
+    "alliance_id": null,
+    "corporation_name": "Cult of the Moon",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120475019,
+      "name": "Delta de Lacourt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91547663,
+      "name": "Avion Sundiver",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 100973920,
+      "name": "Bonezay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 151814577,
+      "name": "Tauron Torres",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TonzPlanet",
+  "corporation_id": 98805289,
+  "alliance_id": 99013537,
+  "corporation_name": "Heart in Blood",
+  "alliance_name": "Insidious."
+}

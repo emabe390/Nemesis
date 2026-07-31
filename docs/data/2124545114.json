@@ -1,0 +1,40 @@
+{
+  "character_id": 2124545114,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117176158,
+    "name": "Hirai Aheito",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767024,
+    "alliance_id": 99013563,
+    "corporation_name": "Allied Exploration Front",
+    "alliance_name": "Allied Exploration Front AXXF"
+  },
+  "top_killers": [
+    {
+      "id": 2117176158,
+      "name": "Hirai Aheito",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90209288,
+      "name": "Sevenn T",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119675633,
+      "name": "Crockett IATS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124545114",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

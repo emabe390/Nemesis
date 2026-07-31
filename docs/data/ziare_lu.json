@@ -1,0 +1,40 @@
+{
+  "character_id": 2123742692,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121712510,
+    "name": "Jamie0239",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98743337,
+    "alliance_id": 99012862,
+    "corporation_name": "Mining Under the Influence",
+    "alliance_name": "Influential Operations"
+  },
+  "top_killers": [
+    {
+      "id": 2121712510,
+      "name": "Jamie0239",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95872464,
+      "name": "Lukas Van Eind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123969722,
+      "name": "Gregson Gar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ziare Lu",
+  "corporation_id": 98829471,
+  "alliance_id": null,
+  "corporation_name": "Brigada 49",
+  "alliance_name": null
+}

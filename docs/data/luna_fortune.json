@@ -1,0 +1,52 @@
+{
+  "character_id": 2120744936,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 97233059,
+    "name": "Gideon Zendikar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370339,
+    "alliance_id": 99012428,
+    "corporation_name": "D-sync",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93185543,
+      "name": "Shopa s topa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93312945,
+      "name": "Laslo Hekard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95671004,
+      "name": "Grak Sarain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luna Fortune",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

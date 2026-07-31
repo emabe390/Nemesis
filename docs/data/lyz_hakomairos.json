@@ -1,0 +1,40 @@
+{
+  "character_id": 2116103954,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122352829,
+    "name": "Achillesheel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 230445889,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mindstar Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122352829,
+      "name": "Achillesheel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 123903693,
+      "name": "W3st",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115898965,
+      "name": "Bilko Breaux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LYZ Hakomairos",
+  "corporation_id": 98696463,
+  "alliance_id": 99003581,
+  "corporation_name": "Light Spot Poacher",
+  "alliance_name": "Fraternity."
+}

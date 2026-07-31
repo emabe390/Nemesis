@@ -1,0 +1,40 @@
+{
+  "character_id": 2120862760,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94835746,
+    "name": "Fade Morrow",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720281,
+    "alliance_id": null,
+    "corporation_name": "Blood Alcohol Content",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94835746,
+      "name": "Fade Morrow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94787985,
+      "name": "Schmidt Thiesant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116231052,
+      "name": "Chronic Hatfield",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Prelate Vorazun",
+  "corporation_id": 1248528484,
+  "alliance_id": 701459600,
+  "corporation_name": "SoE Roughriders",
+  "alliance_name": "Electus Matari"
+}

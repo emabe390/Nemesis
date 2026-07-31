@@ -1,0 +1,52 @@
+{
+  "character_id": 1625305908,
+  "total_losses": 70,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 93103770,
+    "name": "mr chunky",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98331133,
+    "alliance_id": null,
+    "corporation_name": "Napkin Nation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93103770,
+      "name": "mr chunky",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92964521,
+      "name": "TJ Onzo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123962171,
+      "name": "Dobro25",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Raynors",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

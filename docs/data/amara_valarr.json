@@ -1,0 +1,40 @@
+{
+  "character_id": 2124062818,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1290709513,
+    "name": "Mike Kisiel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93942007,
+      "name": "Nedakh Lightbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amara Valarr",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

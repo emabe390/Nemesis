@@ -1,0 +1,40 @@
+{
+  "character_id": 2123284651,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1859353938,
+    "name": "Quix Unar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98406814,
+    "alliance_id": 99012398,
+    "corporation_name": "Victory or Whatever",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 1859353938,
+      "name": "Quix Unar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113157094,
+      "name": "Funkeyero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119979871,
+      "name": "StationACE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sponnuty",
+  "corporation_id": 98799788,
+  "alliance_id": null,
+  "corporation_name": "The Brothers J",
+  "alliance_name": null
+}

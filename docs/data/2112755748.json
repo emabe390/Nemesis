@@ -1,0 +1,40 @@
+{
+  "character_id": 2112755748,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 964330275,
+    "name": "Aegis Stormborn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96541134,
+      "name": "Ronald Raygunn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Petra Smith",
+  "corporation_id": 98002340,
+  "alliance_id": null,
+  "corporation_name": "DarkStar Technologies",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124266358,
+  "total_losses": 28,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2113898124,
+    "name": "General TAnk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829059,
+    "alliance_id": null,
+    "corporation_name": "Dawn's Light Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113898124,
+      "name": "General TAnk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91251687,
+      "name": "Rashaab merkava",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92806130,
+      "name": "Cosmo Paladin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93632869,
+      "name": "TYxUSMC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mihak Annie",
+  "corporation_id": 98833956,
+  "alliance_id": 99003995,
+  "corporation_name": "Sparrow In Cage",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123445000,
+  "total_losses": 22,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2049784221,
+    "name": "Onionz",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92722482,
+      "name": "sLy809",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93687548,
+      "name": "Jakob Pokrajac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94814220,
+      "name": "Rima Ambraelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "PizzaZone",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

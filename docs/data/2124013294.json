@@ -1,0 +1,34 @@
+{
+  "character_id": 2124013294,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95190225,
+    "name": "Darkon Chanlin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97023234,
+      "name": "Zosh Odunen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arthur Russell",
+  "corporation_id": 98822126,
+  "alliance_id": null,
+  "corporation_name": "Russell Interstellar Technology Industries",
+  "alliance_name": null
+}

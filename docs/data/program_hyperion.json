@@ -1,0 +1,52 @@
+{
+  "character_id": 2123735533,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 784156357,
+    "name": "Tandros Kreel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807228,
+    "alliance_id": null,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 784156357,
+      "name": "Tandros Kreel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1389345678,
+      "name": "MusicQueen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96254492,
+      "name": "Skeeter Mcgee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119569522,
+      "name": "Ienonanen Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121966515,
+      "name": "Astaroth130",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Program Hyperion",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

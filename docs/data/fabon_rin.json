@@ -1,0 +1,40 @@
+{
+  "character_id": 2123606620,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123342004,
+    "name": "uxdi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98801395,
+    "alliance_id": null,
+    "corporation_name": "mistrial",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123342004,
+      "name": "uxdi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123935332,
+      "name": "Character 2123935332",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123963816,
+      "name": "Against the Tide",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fabon Rin",
+  "corporation_id": 98798839,
+  "alliance_id": null,
+  "corporation_name": "U.N.E Holding",
+  "alliance_name": null
+}

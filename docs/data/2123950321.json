@@ -1,0 +1,40 @@
+{
+  "character_id": 2123950321,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95546848,
+    "name": "Swiezaq",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 849473841,
+    "alliance_id": 99005724,
+    "corporation_name": "Beach Boys",
+    "alliance_name": "The Minions."
+  },
+  "top_killers": [
+    {
+      "id": 95546848,
+      "name": "Swiezaq",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117085400,
+      "name": "Donwdo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117107799,
+      "name": "yangwu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Owen Davion",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

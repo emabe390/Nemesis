@@ -1,0 +1,40 @@
+{
+  "character_id": 2124350354,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124356481,
+    "name": "Mo-Jo",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 2040217380,
+    "alliance_id": null,
+    "corporation_name": "Don't Judge Me Monkey",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124356481,
+      "name": "Mo-Jo",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120359694,
+      "name": "S-6539",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119299759,
+      "name": "FelixIsG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mo1otov",
+  "corporation_id": 2040217380,
+  "alliance_id": null,
+  "corporation_name": "Don't Judge Me Monkey",
+  "alliance_name": null
+}

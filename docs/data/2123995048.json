@@ -1,0 +1,52 @@
+{
+  "character_id": 2123995048,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123600830,
+    "name": "Silent Alaska",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1187847980,
+      "name": "Alopex03",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117311648,
+      "name": "Doov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Detective Naoto Shirogane",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

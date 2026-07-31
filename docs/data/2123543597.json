@@ -1,0 +1,52 @@
+{
+  "character_id": 2123543597,
+  "total_losses": 35,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2120516249,
+    "name": "Shozo Yuki",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120516249,
+      "name": "Shozo Yuki",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122122448,
+      "name": "Hiura Keikira",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92554013,
+      "name": "Praetorias Akira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93118797,
+      "name": "Nykos Penken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "AsyncEagle",
+  "corporation_id": 98520878,
+  "alliance_id": 99001317,
+  "corporation_name": "Russian Space Community",
+  "alliance_name": "Banderlogs Alliance"
+}

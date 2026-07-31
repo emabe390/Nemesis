@@ -1,0 +1,40 @@
+{
+  "character_id": 2124234155,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123669688,
+    "name": "Kain Ireul",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98406814,
+    "alliance_id": 99012398,
+    "corporation_name": "Victory or Whatever",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 2123669688,
+      "name": "Kain Ireul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 321354000,
+      "name": "Leg Cramp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117339708,
+      "name": "Jinx Beirut",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SixNineSixSeven",
+  "corporation_id": 98335801,
+  "alliance_id": null,
+  "corporation_name": "Dark Wormhole Industry",
+  "alliance_name": null
+}

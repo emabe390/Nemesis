@@ -1,0 +1,40 @@
+{
+  "character_id": 2112212801,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123781196,
+      "name": "Top Show T",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 462392023,
+      "name": "Sassari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mortiferuz",
+  "corporation_id": 98008663,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Angels Constructions",
+  "alliance_name": "Goonswarm Federation"
+}

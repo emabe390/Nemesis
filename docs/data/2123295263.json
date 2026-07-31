@@ -1,0 +1,52 @@
+{
+  "character_id": 2123295263,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117654545,
+    "name": "Ondre Adare Riraille",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 183360667,
+    "alliance_id": 99012936,
+    "corporation_name": "Warlord Supply Inc",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121913377,
+      "name": "Dr Browne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93884050,
+      "name": "t1ran0s Iwaira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94019721,
+      "name": "Black Anette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xorpa",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

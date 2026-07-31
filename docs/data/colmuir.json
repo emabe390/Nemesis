@@ -1,0 +1,52 @@
+{
+  "character_id": 90103946,
+  "total_losses": 16,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90715403,
+    "name": "Judge Sarn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98161982,
+    "alliance_id": null,
+    "corporation_name": "Bulls Fury",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90715403,
+      "name": "Judge Sarn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91785706,
+      "name": "Kuruk Arnook",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 245073304,
+      "name": "Rixx Javix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122525326,
+      "name": "Artasen Ernaga",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Colmuir",
+  "corporation_id": 98428144,
+  "alliance_id": 99013920,
+  "corporation_name": "Deas Gu Cath",
+  "alliance_name": "Embers of the Void"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2112348119,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92384690,
+    "name": "Kedaz Udan",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92384690,
+      "name": "Kedaz Udan",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96817328,
+      "name": "Anastasia Merlot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GIMA ACOLYTE",
+  "corporation_id": 98405758,
+  "alliance_id": 99007165,
+  "corporation_name": "Vandanian Order",
+  "alliance_name": "Greater Itamo Mafia"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119875808,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93388050,
+    "name": "DrJulian Bashir",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799729,
+    "alliance_id": 1900696668,
+    "corporation_name": "Splash Inc.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93388050,
+      "name": "DrJulian Bashir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122159532,
+      "name": "Character 2122159532",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123117961,
+      "name": "Zachary Boltzmann",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123177803,
+      "name": "Trauma Team II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123177824,
+      "name": "Trauma Team V",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sandra Riggs",
+  "corporation_id": 98737724,
+  "alliance_id": 1354830081,
+  "corporation_name": "Fluffy Space Bunnies of Love And Guns",
+  "alliance_name": "Goonswarm Federation"
+}

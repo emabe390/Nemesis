@@ -1,0 +1,40 @@
+{
+  "character_id": 2123993561,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1371809446,
+    "name": "FoxAzn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98814441,
+    "alliance_id": 1042504553,
+    "corporation_name": "Infinite Directive",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 1371809446,
+      "name": "FoxAzn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122923000,
+      "name": "Bigus Dingus DOI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116335934,
+      "name": "William Hopper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Polar bear BB",
+  "corporation_id": 98821880,
+  "alliance_id": null,
+  "corporation_name": "Linux VS Windows",
+  "alliance_name": null
+}

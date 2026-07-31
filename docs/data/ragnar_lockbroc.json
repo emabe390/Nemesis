@@ -1,0 +1,46 @@
+{
+  "character_id": 2113654360,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 433612671,
+    "name": "Domino Joe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98713865,
+    "alliance_id": 99013187,
+    "corporation_name": "Panic Bros",
+    "alliance_name": "The Obsidian Front - Reborn"
+  },
+  "top_killers": [
+    {
+      "id": 433612671,
+      "name": "Domino Joe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1181492764,
+      "name": "SgtSlacker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123378278,
+      "name": "Adarialis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ragnar Lockbroc",
+  "corporation_id": 1000072,
+  "alliance_id": null,
+  "corporation_name": "Imperial Shipment",
+  "alliance_name": null
+}

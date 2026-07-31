@@ -1,0 +1,52 @@
+{
+  "character_id": 2119350978,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 258753640,
+    "name": "Degarion Soth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 258753640,
+      "name": "Degarion Soth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 929643379,
+      "name": "aRs30",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121820391,
+      "name": "Scum Hunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gunnar der Grobe",
+  "corporation_id": 98799733,
+  "alliance_id": 498125261,
+  "corporation_name": "Drip Inc.",
+  "alliance_name": "Test Alliance Please Ignore"
+}

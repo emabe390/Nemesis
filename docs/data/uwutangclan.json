@@ -1,0 +1,34 @@
+{
+  "character_id": 2123623816,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1215775592,
+    "name": "Anoximus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98633589,
+    "alliance_id": 99007203,
+    "corporation_name": "Ros Shovel Corporation",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 1215775592,
+      "name": "Anoximus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122726372,
+      "name": "Sarada Oni",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "UwUTangClan",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

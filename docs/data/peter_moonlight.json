@@ -1,0 +1,52 @@
+{
+  "character_id": 92849707,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95590706,
+      "name": "Titus Lancaster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1490079163,
+      "name": "Executex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92563474,
+      "name": "Sornova Galdove",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1790003276,
+      "name": "Yuoree",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Peter Moonlight",
+  "corporation_id": 98326003,
+  "alliance_id": null,
+  "corporation_name": "Suddenly Carebears",
+  "alliance_name": null
+}

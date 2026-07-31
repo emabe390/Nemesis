@@ -1,0 +1,34 @@
+{
+  "character_id": 2123725876,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118176049,
+    "name": "Barreiro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98077439,
+    "alliance_id": 99004901,
+    "corporation_name": "Lightning Squad",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2118176049,
+      "name": "Barreiro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96723543,
+      "name": "Sergei Malatov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Livia Purrsilla",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

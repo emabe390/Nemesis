@@ -1,0 +1,52 @@
+{
+  "character_id": 2123675381,
+  "total_losses": 13,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 94105304,
+    "name": "Ayaka Iida",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98450869,
+    "alliance_id": 1727758877,
+    "corporation_name": "GAMILAS Security and Logistic Service",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 94105304,
+      "name": "Ayaka Iida",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95884936,
+      "name": "Arturo Safariii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 835806057,
+      "name": "Vengeful Shade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1192357732,
+      "name": "Tsasam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zalatra",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

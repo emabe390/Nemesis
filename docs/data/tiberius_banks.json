@@ -1,0 +1,40 @@
+{
+  "character_id": 2121995188,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112204267,
+    "name": "Gaius Proximus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1116537731,
+    "alliance_id": 99010877,
+    "corporation_name": "Per astera ad astra",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2112204267,
+      "name": "Gaius Proximus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112361896,
+      "name": "Cornelius Rufinus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117837123,
+      "name": "Henno Stoneback",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tiberius Banks",
+  "corporation_id": 1588647992,
+  "alliance_id": 99010240,
+  "corporation_name": "Xoth Inc",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

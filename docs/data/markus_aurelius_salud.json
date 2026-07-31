@@ -1,0 +1,40 @@
+{
+  "character_id": 2124306160,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 393298330,
+    "name": "D White",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98638996,
+    "alliance_id": 99012982,
+    "corporation_name": "Regiment Of Naga Association",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 393298330,
+      "name": "D White",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121728751,
+      "name": "Princess Bomberina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123376267,
+      "name": "Zmrd",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Markus Aurelius Salud",
+  "corporation_id": 98147576,
+  "alliance_id": 99014858,
+  "corporation_name": "Deep Space Mining Industry",
+  "alliance_name": "Midgard Marauders"
+}

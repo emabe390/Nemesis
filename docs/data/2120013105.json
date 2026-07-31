@@ -1,0 +1,40 @@
+{
+  "character_id": 2120013105,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91009792,
+    "name": "Delgrin DelMont",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1063360566,
+    "alliance_id": 1354830081,
+    "corporation_name": "SUNDERING",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91009792,
+      "name": "Delgrin DelMont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1573200647,
+      "name": "Crusher McCabe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113674503,
+      "name": "Trash Pye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Porter Rin",
+  "corporation_id": 98765047,
+  "alliance_id": null,
+  "corporation_name": "BHC Expeditions",
+  "alliance_name": null
+}

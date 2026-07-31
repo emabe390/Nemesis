@@ -1,0 +1,52 @@
+{
+  "character_id": 2121362361,
+  "total_losses": 35,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 93496954,
+    "name": "Moros Commander",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98824902,
+    "alliance_id": 99009163,
+    "corporation_name": "QuackOps",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 93496954,
+      "name": "Moros Commander",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90159535,
+      "name": "Javaeis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92484769,
+      "name": "Psifour Null",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93018672,
+      "name": "Nakala Kalama",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "General Krav",
+  "corporation_id": 98595944,
+  "alliance_id": 99011223,
+  "corporation_name": "Bureau Inferno",
+  "alliance_name": "Sigma Grindset"
+}

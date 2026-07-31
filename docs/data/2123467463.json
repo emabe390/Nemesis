@@ -1,0 +1,52 @@
+{
+  "character_id": 2123467463,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117906771,
+    "name": "Bane Blade",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704266,
+    "alliance_id": null,
+    "corporation_name": "Mongolian Fire Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117906771,
+      "name": "Bane Blade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 538712408,
+      "name": "gazthenailer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 997395628,
+      "name": "Nobody PL",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1669462605,
+      "name": "Character 1669462605",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114834929,
+      "name": "Smiena",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vulknir",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

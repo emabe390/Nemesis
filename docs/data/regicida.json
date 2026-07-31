@@ -1,0 +1,40 @@
+{
+  "character_id": 2123982961,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 276150103,
+    "name": "Slick Duoros",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98789008,
+    "alliance_id": 99009539,
+    "corporation_name": "JERNBYRD",
+    "alliance_name": "Pain And Compliance"
+  },
+  "top_killers": [
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119234820,
+      "name": "Atlas Archon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122362120,
+      "name": "jegserdig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Regicida",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

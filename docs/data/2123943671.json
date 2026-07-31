@@ -1,0 +1,52 @@
+{
+  "character_id": 2123943671,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 448452178,
+    "name": "Aulis Saiden",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 310281086,
+    "alliance_id": 1354830081,
+    "corporation_name": "Un4seen Development",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 448452178,
+      "name": "Aulis Saiden",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1175965179,
+      "name": "Juddah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117982087,
+      "name": "El Sicario",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122187241,
+      "name": "AUFR-FUBUKI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122594019,
+      "name": "Love-is-full-of-stars",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Elizabeth van Wilen",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

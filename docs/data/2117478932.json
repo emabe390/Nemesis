@@ -1,0 +1,34 @@
+{
+  "character_id": 2117478932,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Quill Beasly",
+  "corporation_id": 98818601,
+  "alliance_id": 99014712,
+  "corporation_name": "Cult of Magik",
+  "alliance_name": "Congregation of Magiks"
+}

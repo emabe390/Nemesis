@@ -1,0 +1,52 @@
+{
+  "character_id": 2123780717,
+  "total_losses": 83,
+  "unique_killers": 68,
+  "nemesis": {
+    "id": 219778731,
+    "name": "aendei",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 333791300,
+    "alliance_id": null,
+    "corporation_name": "back to zero",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 219778731,
+      "name": "aendei",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113061280,
+      "name": "Lerq Staw",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92636028,
+      "name": "Jukio Saisima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94140044,
+      "name": "Mihs Mouhs",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ogogo Votetoda",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

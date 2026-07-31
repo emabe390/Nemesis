@@ -1,0 +1,40 @@
+{
+  "character_id": 2124324614,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120613343,
+    "name": "Eberhart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98703471,
+    "alliance_id": 933731581,
+    "corporation_name": "Short Bus Buccaneers",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2120613343,
+      "name": "Eberhart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94940242,
+      "name": "Rayor Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112640164,
+      "name": "Sunburnt Elly",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wtdou Esploratore",
+  "corporation_id": 98832417,
+  "alliance_id": null,
+  "corporation_name": "Unspoken Word",
+  "alliance_name": null
+}

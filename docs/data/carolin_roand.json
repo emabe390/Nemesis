@@ -1,0 +1,40 @@
+{
+  "character_id": 2124110014,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123852386,
+    "name": "Old Redcap Sly",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98778904,
+    "alliance_id": 99015054,
+    "corporation_name": "Clandestinauts",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2123852386,
+      "name": "Old Redcap Sly",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121841954,
+      "name": "Jasnah Regyri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carolin Roand",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

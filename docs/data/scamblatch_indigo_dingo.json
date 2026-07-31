@@ -1,0 +1,40 @@
+{
+  "character_id": 2123631402,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90868967,
+    "name": "kikko manu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98620447,
+    "alliance_id": 99014489,
+    "corporation_name": "Possessed Wrecking Crew",
+    "alliance_name": "Heralds Of The Great One"
+  },
+  "top_killers": [
+    {
+      "id": 90868967,
+      "name": "kikko manu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120346524,
+      "name": "Omizto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123473710,
+      "name": "Tasa Irvam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scamblatch Indigo-Dingo",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

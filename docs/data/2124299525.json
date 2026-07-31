@@ -1,0 +1,46 @@
+{
+  "character_id": 2124299525,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96919940,
+    "name": "Futility Prevails",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 96919940,
+      "name": "Futility Prevails",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112117260,
+      "name": "Character 2112117260",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113418708,
+      "name": "Austin Asanari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120121388,
+      "name": "Character 2120121388",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Home Defense Fleet",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

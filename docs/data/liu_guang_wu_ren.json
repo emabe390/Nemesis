@@ -1,0 +1,52 @@
+{
+  "character_id": 2123835912,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2112042780,
+    "name": "Xecution",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2112042780,
+      "name": "Xecution",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120516093,
+      "name": "Sherrie Sky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1511920017,
+      "name": "Iddis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "liu-guang-wu-ren",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

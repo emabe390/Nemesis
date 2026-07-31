@@ -1,0 +1,52 @@
+{
+  "character_id": 2122871947,
+  "total_losses": 46,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91828300,
+      "name": "Seterinthia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95987816,
+      "name": "Lash Wolfram",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "DanishBandits",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

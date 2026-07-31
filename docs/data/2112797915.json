@@ -1,0 +1,40 @@
+{
+  "character_id": 2112797915,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95774779,
+    "name": "Prometheus Hinken",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 95774779,
+      "name": "Prometheus Hinken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 656673839,
+      "name": "Sixty Ever4",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118339639,
+      "name": "Aitt duominx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OuThere Vaille",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123942631,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 613305598,
+    "name": "Taeryn Braewyn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98000855,
+    "alliance_id": 99010877,
+    "corporation_name": "Titan Inc.",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 613305598,
+      "name": "Taeryn Braewyn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119771282,
+      "name": "Hila Aumon Talvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaiju Killer",
+  "corporation_id": 98728601,
+  "alliance_id": 99013537,
+  "corporation_name": "Astrology Club.",
+  "alliance_name": "Insidious."
+}

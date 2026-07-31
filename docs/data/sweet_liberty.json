@@ -1,0 +1,46 @@
+{
+  "character_id": 2123490408,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 680239898,
+    "name": "Max Gutman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 680239898,
+      "name": "Max Gutman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113832167,
+      "name": "Reinhard Arenzberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 384537766,
+      "name": "Okapir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113732717,
+      "name": "Shentari Jasmone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sweet Liberty",
+  "corporation_id": 98809144,
+  "alliance_id": 99005338,
+  "corporation_name": "No Friends Just Alts",
+  "alliance_name": "Pandemic Horde"
+}

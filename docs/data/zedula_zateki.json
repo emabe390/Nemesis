@@ -1,0 +1,40 @@
+{
+  "character_id": 96265451,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95298092,
+    "name": "Matashibi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781943,
+    "alliance_id": null,
+    "corporation_name": "Damned Frogs Neighbours",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95298092,
+      "name": "Matashibi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122604145,
+      "name": "Urahekken Otomeya",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zedula Zateki",
+  "corporation_id": 98816508,
+  "alliance_id": 99013747,
+  "corporation_name": "Mid-Flight Rocket Repair Specialists",
+  "alliance_name": "Missile Militia"
+}

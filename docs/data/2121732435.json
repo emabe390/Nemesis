@@ -1,0 +1,52 @@
+{
+  "character_id": 2121732435,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 91943256,
+    "name": "Haix Exter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 91943256,
+      "name": "Haix Exter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115491921,
+      "name": "Disco Ballz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90655099,
+      "name": "Kotten Kandy Tutors",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 253100990,
+      "name": "SokoleOko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1047666942,
+      "name": "scrappy sally",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GeoDroid",
+  "corporation_id": 98176563,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rekium",
+  "alliance_name": "Goonswarm Federation"
+}

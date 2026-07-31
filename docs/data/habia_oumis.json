@@ -1,0 +1,52 @@
+{
+  "character_id": 2123525163,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114115567,
+      "name": "Fryon Aivo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123525179,
+      "name": "Misarzi Khagah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90209288,
+      "name": "Sevenn T",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92899605,
+      "name": "Aries Skyguard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Habia Oumis",
+  "corporation_id": 98673988,
+  "alliance_id": 99011802,
+  "corporation_name": "Pilgrims and nilfheim.",
+  "alliance_name": "Warriors of the Blood God"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123968853,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123699361,
+    "name": "NekoAmane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98522659,
+    "alliance_id": 99003214,
+    "corporation_name": "Incredible.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123699361,
+      "name": "NekoAmane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93264733,
+      "name": "Vincemt' Night",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96965898,
+      "name": "Vikak Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 197615998,
+      "name": "Arriana Richter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lasooma Gahia Natinde",
+  "corporation_id": 98664364,
+  "alliance_id": 99014141,
+  "corporation_name": "WillCo.",
+  "alliance_name": "Hole Association"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115645084,
+  "total_losses": 16,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92927805,
+      "name": "Character 92927805",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 332552662,
+      "name": "Tia'maat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dzidek Ovi",
+  "corporation_id": 98807142,
+  "alliance_id": null,
+  "corporation_name": "The Empyrean Order",
+  "alliance_name": null
+}

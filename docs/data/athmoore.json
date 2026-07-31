@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640884,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2124112017,
+    "name": "Athmoore III",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98801067,
+    "alliance_id": 99013719,
+    "corporation_name": "Voidcharter Industries",
+    "alliance_name": "Keys Network"
+  },
+  "top_killers": [
+    {
+      "id": 2124112017,
+      "name": "Athmoore III",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90943415,
+      "name": "t8xxic Thiesant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Athmoore",
+  "corporation_id": 98801067,
+  "alliance_id": null,
+  "corporation_name": "Voidcharter Industries",
+  "alliance_name": null
+}

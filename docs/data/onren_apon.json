@@ -1,0 +1,46 @@
+{
+  "character_id": 2123310235,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 111505003,
+    "name": "Sapporo Ichiban",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98224639,
+    "alliance_id": 99005678,
+    "corporation_name": "Dirt 'n' Glitter",
+    "alliance_name": "Local Is Primary"
+  },
+  "top_killers": [
+    {
+      "id": 111505003,
+      "name": "Sapporo Ichiban",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1230569453,
+      "name": "Mercfromabove",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120062433,
+      "name": "Character 2120062433",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123014887,
+      "name": "SJS-1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Onren Apon",
+  "corporation_id": 98660791,
+  "alliance_id": null,
+  "corporation_name": "Inner Legacy",
+  "alliance_name": null
+}

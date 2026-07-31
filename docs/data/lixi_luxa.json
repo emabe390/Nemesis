@@ -1,0 +1,52 @@
+{
+  "character_id": 2124332444,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92529255,
+    "name": "Freddi Nebail",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 313778489,
+    "alliance_id": null,
+    "corporation_name": "Bob's Cheap Tax Evasion Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92529255,
+      "name": "Freddi Nebail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93673107,
+      "name": "Isodus Oblivio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 850098161,
+      "name": "GinaWild",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019584,
+      "name": "Hikanta Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lixi Luxa",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

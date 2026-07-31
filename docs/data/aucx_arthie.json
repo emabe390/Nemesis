@@ -1,0 +1,40 @@
+{
+  "character_id": 2123546769,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121491186,
+    "name": "Elil Win Ray",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98751228,
+    "alliance_id": 99012932,
+    "corporation_name": "CHOAYURA",
+    "alliance_name": "CHOAYURA Megacorporation"
+  },
+  "top_killers": [
+    {
+      "id": 2121491186,
+      "name": "Elil Win Ray",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 657920202,
+      "name": "Mahik net",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120410217,
+      "name": "Detective Peek-Ahtchu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aucx Arthie",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

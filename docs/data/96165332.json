@@ -1,0 +1,52 @@
+{
+  "character_id": 96165332,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 159280380,
+    "name": "Hans I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779121,
+    "alliance_id": 99014341,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120835265,
+      "name": "Rip Fury",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 283795666,
+      "name": "Celephix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1006289379,
+      "name": "Erehwon Rorschach",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chemdos",
+  "corporation_id": 98803508,
+  "alliance_id": null,
+  "corporation_name": "Silk Dance",
+  "alliance_name": null
+}

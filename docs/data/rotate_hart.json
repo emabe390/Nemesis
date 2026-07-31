@@ -1,0 +1,40 @@
+{
+  "character_id": 2114588650,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 376791933,
+    "name": "The Dexter",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98666928,
+    "alliance_id": null,
+    "corporation_name": "Lucky.Punch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 376791933,
+      "name": "The Dexter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1033871743,
+      "name": "Mr Hex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rotate hart",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

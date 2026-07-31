@@ -1,0 +1,52 @@
+{
+  "character_id": 2124333482,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2114477173,
+    "name": "Carlos Tercero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98619206,
+    "alliance_id": 99003581,
+    "corporation_name": "OutLaws Corporation",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114477173,
+      "name": "Carlos Tercero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122703146,
+      "name": "Rehe8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93022513,
+      "name": "Alanton Greyhawks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113893486,
+      "name": "Silvain Tremblay",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116518269,
+      "name": "Kai'sa Runeterra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arbites",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

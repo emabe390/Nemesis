@@ -1,0 +1,52 @@
+{
+  "character_id": 1191304788,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 789171923,
+    "name": "Comisnake",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98531454,
+    "alliance_id": 1354830081,
+    "corporation_name": "Asteroid Farm Unlimited",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 789171923,
+      "name": "Comisnake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117579178,
+      "name": "Character 2117579178",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117657970,
+      "name": "vector-B",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118977463,
+      "name": "Orion Theta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trevoria",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

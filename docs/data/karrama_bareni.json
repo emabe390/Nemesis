@@ -1,0 +1,52 @@
+{
+  "character_id": 2123823514,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93964267,
+    "name": "Please Turn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000046,
+    "alliance_id": null,
+    "corporation_name": "Sebiestor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93964267,
+      "name": "Please Turn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91785706,
+      "name": "Kuruk Arnook",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112822178,
+      "name": "No-Pineapple-On Pizza",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119703174,
+      "name": "Bryan Saiya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120229716,
+      "name": "Cavande Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karrama Bareni",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

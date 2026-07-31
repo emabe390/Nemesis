@@ -1,0 +1,40 @@
+{
+  "character_id": 2123745117,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90065548,
+    "name": "MopsMann",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98333323,
+    "alliance_id": null,
+    "corporation_name": "Gunboat Commando",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90065548,
+      "name": "MopsMann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116253136,
+      "name": "Marczelini Bababouille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123155773,
+      "name": "Character 2123155773",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nyx Manus",
+  "corporation_id": 98402838,
+  "alliance_id": null,
+  "corporation_name": "H Manus Industries",
+  "alliance_name": null
+}

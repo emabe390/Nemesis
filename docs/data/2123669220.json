@@ -1,0 +1,46 @@
+{
+  "character_id": 2123669220,
+  "total_losses": 20,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119910063,
+    "name": "Cait Codsworth",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98808655,
+    "alliance_id": 99013919,
+    "corporation_name": "Reality-Check Distribution",
+    "alliance_name": "Inspiring Reality"
+  },
+  "top_killers": [
+    {
+      "id": 2119910063,
+      "name": "Cait Codsworth",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2112270582,
+      "name": "Bixtarqiv",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116003648,
+      "name": "Gophert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 570246427,
+      "name": "dev0n",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "0rganic",
+  "corporation_id": 98808888,
+  "alliance_id": null,
+  "corporation_name": "Risky Business Consortium",
+  "alliance_name": null
+}

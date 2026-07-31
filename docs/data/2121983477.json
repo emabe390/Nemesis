@@ -1,0 +1,52 @@
+{
+  "character_id": 2121983477,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90224584,
+      "name": "Egiloo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96172084,
+      "name": "Xenon Aspirse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96231833,
+      "name": "Jeff TheDude",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Langran",
+  "corporation_id": 98675411,
+  "alliance_id": 1354830081,
+  "corporation_name": "Free Wind Riders",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124312437,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95711038,
+    "name": "Myszokar Asterlan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98508146,
+    "alliance_id": null,
+    "corporation_name": "Wombolshevik SSR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95711038,
+      "name": "Myszokar Asterlan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93696240,
+      "name": "Geoff Ovaert",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 889586775,
+      "name": "Fastburn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sallie Cylic",
+  "corporation_id": 98821561,
+  "alliance_id": 99014726,
+  "corporation_name": "Triple Helix Therapeutics",
+  "alliance_name": "Terminally Inept Traders and Scanners"
+}

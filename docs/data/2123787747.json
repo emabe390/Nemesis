@@ -1,0 +1,40 @@
+{
+  "character_id": 2123787747,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113101974,
+    "name": "Jan Erebos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008663,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Angels Constructions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113101974,
+      "name": "Jan Erebos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95413521,
+      "name": "Jiro Ronuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tansi Rami",
+  "corporation_id": 98678178,
+  "alliance_id": 99008228,
+  "corporation_name": "Freedom Industries CE",
+  "alliance_name": "Pan-Intergalatic Business Community"
+}

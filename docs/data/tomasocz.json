@@ -1,0 +1,40 @@
+{
+  "character_id": 2123669945,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115513442,
+    "name": "Grey Ignis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98745609,
+    "alliance_id": 99015029,
+    "corporation_name": "Tarnished Dragon",
+    "alliance_name": "Localized Apocalypse"
+  },
+  "top_killers": [
+    {
+      "id": 2115513442,
+      "name": "Grey Ignis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121788113,
+      "name": "Tsundere Minermizer 3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122162199,
+      "name": "Gunter Kurvora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TomasoCZ",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

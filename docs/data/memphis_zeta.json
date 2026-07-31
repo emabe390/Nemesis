@@ -1,0 +1,52 @@
+{
+  "character_id": 2123072907,
+  "total_losses": 19,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 842674491,
+    "name": "74487052",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98818446,
+    "alliance_id": null,
+    "corporation_name": "Ancient Enterprise",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 842674491,
+      "name": "74487052",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94905826,
+      "name": "Maelstrom Kannagi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93316564,
+      "name": "Njunja",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114105532,
+      "name": "Sir Tobias Helm",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Memphis Zeta",
+  "corporation_id": 98834150,
+  "alliance_id": 99015022,
+  "corporation_name": "Black Ribbit.",
+  "alliance_name": "Black Ribbit"
+}

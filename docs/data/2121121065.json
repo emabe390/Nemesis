@@ -1,0 +1,52 @@
+{
+  "character_id": 2121121065,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2121340367,
+    "name": "ISO12",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98814817,
+    "alliance_id": 99003581,
+    "corporation_name": "Clown Swords.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121340367,
+      "name": "ISO12",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91864956,
+      "name": "Deskesh Trald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93417846,
+      "name": "Corvin Crow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94843529,
+      "name": "Fenrir Nordson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95021256,
+      "name": "Instantly Killed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "whaleship",
+  "corporation_id": 98740074,
+  "alliance_id": 99013538,
+  "corporation_name": "Deep Space Laboratory",
+  "alliance_name": "Per Aspera Ad Astar"
+}

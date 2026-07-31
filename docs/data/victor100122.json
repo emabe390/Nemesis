@@ -1,0 +1,52 @@
+{
+  "character_id": 2123653899,
+  "total_losses": 32,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2123617566,
+    "name": "An-Yu",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98715582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Emperor Scythes",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123617566,
+      "name": "An-Yu",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 1618667861,
+      "name": "Tyffanny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113211681,
+      "name": "Johnny Farstriker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victor100122",
+  "corporation_id": 98800613,
+  "alliance_id": null,
+  "corporation_name": "Emperor Scythes Academy",
+  "alliance_name": null
+}

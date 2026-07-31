@@ -1,0 +1,52 @@
+{
+  "character_id": 2123570713,
+  "total_losses": 20,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2116203314,
+    "name": "Jedelar Edfriu",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98628286,
+    "alliance_id": null,
+    "corporation_name": "Nomina sunt odiosa",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116203314,
+      "name": "Jedelar Edfriu",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92248620,
+      "name": "Brother Zebediah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93264733,
+      "name": "Vincemt' Night",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pixsao",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

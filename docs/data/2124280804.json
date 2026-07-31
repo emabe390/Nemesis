@@ -1,0 +1,40 @@
+{
+  "character_id": 2124280804,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93828812,
+    "name": "Character 93828812",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93828812,
+      "name": "Character 93828812",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1149026890,
+      "name": "Broken December",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andromeda Neu",
+  "corporation_id": 98792197,
+  "alliance_id": null,
+  "corporation_name": "Nordic Petra Industries Group",
+  "alliance_name": null
+}

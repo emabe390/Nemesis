@@ -1,0 +1,46 @@
+{
+  "character_id": 2116436130,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 775001006,
+    "name": "mne lee",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98567310,
+    "alliance_id": 99011223,
+    "corporation_name": "The Dark Vanguard",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 775001006,
+      "name": "mne lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115441667,
+      "name": "Cruel Girl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120565613,
+      "name": "Fischl von Luftschloss",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121970090,
+      "name": "Cpt Pepinion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morgan Freistat",
+  "corporation_id": 98210135,
+  "alliance_id": 1900696668,
+  "corporation_name": "Infinite Point",
+  "alliance_name": "The Initiative."
+}

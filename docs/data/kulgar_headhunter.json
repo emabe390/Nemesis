@@ -1,0 +1,52 @@
+{
+  "character_id": 2114643283,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1099051589,
+    "name": "Picard X",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98606395,
+    "alliance_id": 99003995,
+    "corporation_name": "PICHATRON",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122152072,
+      "name": "Lilium Lied",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1215109603,
+      "name": "Fat Partizan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114643283,
+      "name": "Kulgar HeadHunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kulgar HeadHunter",
+  "corporation_id": 98729903,
+  "alliance_id": 1042504553,
+  "corporation_name": "Justice HUN",
+  "alliance_name": "Solyaris Chtonium"
+}

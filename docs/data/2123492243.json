@@ -1,0 +1,52 @@
+{
+  "character_id": 2123492243,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2123470502,
+    "name": "Aure Stellant",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799892,
+    "alliance_id": 99010468,
+    "corporation_name": "False Gods",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 2123470502,
+      "name": "Aure Stellant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123492678,
+      "name": "Erout Amatin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90433496,
+      "name": "Sin Uanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93840572,
+      "name": "Gad Magus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94069636,
+      "name": "Emta Fumimasa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maraka Austrene",
+  "corporation_id": 98799892,
+  "alliance_id": 99010468,
+  "corporation_name": "False Gods",
+  "alliance_name": "Weapons Of Mass Production."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114506250,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105251769,
+    "name": "Culuee",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98694434,
+    "alliance_id": 99011258,
+    "corporation_name": "Eskimo Callboys",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92849993,
+      "name": "Peucestas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skaz Akiga",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

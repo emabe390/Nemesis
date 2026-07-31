@@ -1,0 +1,40 @@
+{
+  "character_id": 2113130697,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 649824849,
+    "name": "Adhun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 649824849,
+      "name": "Adhun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113401781,
+      "name": "Yondu Groot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119019806,
+      "name": "NewCharacterIn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Negrul Voda",
+  "corporation_id": 98267462,
+  "alliance_id": 99005338,
+  "corporation_name": "Albireo Solem",
+  "alliance_name": "Pandemic Horde"
+}

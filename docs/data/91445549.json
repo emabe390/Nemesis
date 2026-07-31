@@ -1,0 +1,34 @@
+{
+  "character_id": 91445549,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112187710,
+    "name": "Dart Win",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112187710,
+      "name": "Dart Win",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115544262,
+      "name": "Ragnnar Lothbruuk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darth Seditious",
+  "corporation_id": 98575255,
+  "alliance_id": 99005338,
+  "corporation_name": "Dragon.",
+  "alliance_name": "Pandemic Horde"
+}

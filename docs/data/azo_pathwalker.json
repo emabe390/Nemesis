@@ -1,0 +1,46 @@
+{
+  "character_id": 2117806020,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113455412,
+    "name": "DekysSP Rododendron",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98080678,
+    "alliance_id": null,
+    "corporation_name": "Assecla in Tellure",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113455412,
+      "name": "DekysSP Rododendron",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90563486,
+      "name": "Corsa Cor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112414434,
+      "name": "Reneil Askiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123119739,
+      "name": "Snowy Doom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Azo Pathwalker",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

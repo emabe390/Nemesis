@@ -1,0 +1,40 @@
+{
+  "character_id": 2117373251,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 672826810,
+    "name": "Pallustris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 672826810,
+      "name": "Pallustris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2080027848,
+      "name": "Aliaksandre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SkyeShadow",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2121435637,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93105530,
+    "name": "Manfred Phillips",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98185698,
+    "alliance_id": 99004567,
+    "corporation_name": "Trillium Invariant",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 93105530,
+      "name": "Manfred Phillips",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061347490,
+      "name": "Der Bischof",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1255393738,
+      "name": "Mistress Darkside",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BenHag",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

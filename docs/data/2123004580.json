@@ -1,0 +1,52 @@
+{
+  "character_id": 2123004580,
+  "total_losses": 178,
+  "unique_killers": 151,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1991432800,
+      "name": "extremedeath",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90528804,
+      "name": "Rawliing Wilson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93693938,
+      "name": "Robin Odunen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mat Rodgers",
+  "corporation_id": 98749126,
+  "alliance_id": 99011416,
+  "corporation_name": "Silent Knights.",
+  "alliance_name": "LinkNet"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114226382,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 586958744,
+    "name": "Rijsbergen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98589727,
+    "alliance_id": 498125261,
+    "corporation_name": "Storm Chasers.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 586958744,
+      "name": "Rijsbergen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1673545058,
+      "name": "PSIHO Dac",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119446838,
+      "name": "Ecch0",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TempestofChaos FRAC",
+  "corporation_id": 98825183,
+  "alliance_id": null,
+  "corporation_name": "Etherium Reach Around",
+  "alliance_name": null
+}

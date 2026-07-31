@@ -1,0 +1,52 @@
+{
+  "character_id": 2123419492,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123748156,
+    "name": "Coffee Mu Si",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817783,
+    "alliance_id": null,
+    "corporation_name": "Silent Sojourner",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123748156,
+      "name": "Coffee Mu Si",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92636028,
+      "name": "Jukio Saisima",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 769549650,
+      "name": "Slayer Ceetesh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112728335,
+      "name": "River Maricadia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117760707,
+      "name": "BadAzzBoss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AnonymousK",
+  "corporation_id": 98748388,
+  "alliance_id": 99005338,
+  "corporation_name": "Embers Ad Infinitum",
+  "alliance_name": "Pandemic Horde"
+}

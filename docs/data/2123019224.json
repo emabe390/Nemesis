@@ -1,0 +1,52 @@
+{
+  "character_id": 2123019224,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2113410125,
+    "name": "Valen Toranaga",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113410125,
+      "name": "Valen Toranaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122180761,
+      "name": "Ms Malaise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94673660,
+      "name": "Berkalp Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95420705,
+      "name": "UnholyAbbath Eriker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95942939,
+      "name": "Hedgehog Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ILoveWaffles",
+  "corporation_id": 98741162,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XLI",
+  "alliance_name": "Absolute Will"
+}

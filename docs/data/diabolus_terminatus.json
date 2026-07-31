@@ -1,0 +1,34 @@
+{
+  "character_id": 1830716188,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123262706,
+    "name": "BeckBlack",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123262706,
+      "name": "BeckBlack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 166374995,
+      "name": "Argolion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diabolus Terminatus",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

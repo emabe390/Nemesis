@@ -1,0 +1,40 @@
+{
+  "character_id": 2123696997,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122610067,
+    "name": "Balthazar Recknar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802881,
+    "alliance_id": 99014898,
+    "corporation_name": "Mad Mystery",
+    "alliance_name": "Guristaz Logistics Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2122610067,
+      "name": "Balthazar Recknar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221314,
+      "name": "WindowLicker3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221321,
+      "name": "WindowLicker4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gallente Esubria",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

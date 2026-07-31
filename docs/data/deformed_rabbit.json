@@ -1,0 +1,52 @@
+{
+  "character_id": 2123536075,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112782066,
+      "name": "Character 2112782066",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94656797,
+      "name": "Character 94656797",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95747750,
+      "name": "edgelord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 648892932,
+      "name": "Melyr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deformed Rabbit",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

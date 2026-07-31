@@ -1,0 +1,52 @@
+{
+  "character_id": 2122818590,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116042690,
+    "name": "Sam Mask",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121512917,
+      "name": "WTS-ISK-2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122962247,
+      "name": "Nenarko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Azulard Arnst",
+  "corporation_id": 98786377,
+  "alliance_id": null,
+  "corporation_name": "The Triple Entente",
+  "alliance_name": null
+}

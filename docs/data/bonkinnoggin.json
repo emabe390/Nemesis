@@ -1,0 +1,40 @@
+{
+  "character_id": 2123633075,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2037329567,
+    "name": "HardTrue",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 2037329567,
+      "name": "HardTrue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90406804,
+      "name": "Cyriacus Kahoudi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95030514,
+      "name": "Ed Beret",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BonkinNoggin",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

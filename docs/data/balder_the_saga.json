@@ -1,0 +1,40 @@
+{
+  "character_id": 2123198302,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93757814,
+    "name": "Mattais Valdyr",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 93757814,
+      "name": "Mattais Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95671004,
+      "name": "Grak Sarain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Balder The Saga",
+  "corporation_id": 98747133,
+  "alliance_id": 99010240,
+  "corporation_name": "Space Monkey'z llc",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

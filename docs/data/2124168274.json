@@ -1,0 +1,52 @@
+{
+  "character_id": 2124168274,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 95715650,
+    "name": "Space Hatch",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98735960,
+    "alliance_id": 1900696668,
+    "corporation_name": "Solar Meta",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 95715650,
+      "name": "Space Hatch",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113270377,
+      "name": "Beautyfall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95250989,
+      "name": "Jingasa Dai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95631062,
+      "name": "Teddy KGB",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 819397050,
+      "name": "Captain Kok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Natsuo Shikibu",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123725361,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 278883255,
+    "name": "helios primus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98315934,
+    "alliance_id": 99014936,
+    "corporation_name": "Stuff and Junk Enterprises",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 278883255,
+      "name": "helios primus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120765225,
+      "name": "Podbuster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121580324,
+      "name": "xviper757",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "xviper737",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123601984,
+  "total_losses": 33,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2053237763,
+    "name": "Nikaroo",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98073146,
+    "alliance_id": 99010421,
+    "corporation_name": "Shutdown in Progress.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90296368,
+      "name": "Alonot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1017918140,
+      "name": "Dead4ever",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Szabadember a Mocsarbol",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

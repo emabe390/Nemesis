@@ -1,0 +1,52 @@
+{
+  "character_id": 2122490403,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95593111,
+    "name": "Bob Lares",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98397524,
+    "alliance_id": 99012009,
+    "corporation_name": "Grumpy Old Dudes",
+    "alliance_name": "Minmatar Fleet Associates"
+  },
+  "top_killers": [
+    {
+      "id": 95593111,
+      "name": "Bob Lares",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113123008,
+      "name": "Ridley Rohan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118069641,
+      "name": "Krome Joan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122483379,
+      "name": "SancheZ El",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123069544,
+      "name": "WIndar Skyfrost",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LORD Marwood",
+  "corporation_id": 98763230,
+  "alliance_id": 99010089,
+  "corporation_name": "Vintage Chicken Rage Quit",
+  "alliance_name": "Novus Ordo."
+}

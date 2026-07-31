@@ -1,0 +1,52 @@
+{
+  "character_id": 2123044796,
+  "total_losses": 92,
+  "unique_killers": 80,
+  "nemesis": {
+    "id": 91581240,
+    "name": "Sarah Umbra",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90527700,
+      "name": "Ruby Shylynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 768915824,
+      "name": "Kelon Darklight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113061280,
+      "name": "Lerq Staw",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bekar Squirl",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

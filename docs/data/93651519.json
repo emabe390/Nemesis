@@ -1,0 +1,52 @@
+{
+  "character_id": 93651519,
+  "total_losses": 44,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 90159499,
+    "name": "Jeremiah Galtus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791475,
+    "alliance_id": null,
+    "corporation_name": "Exploding Pixels",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90159499,
+      "name": "Jeremiah Galtus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112968929,
+      "name": "Timmotus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90739429,
+      "name": "Shakiel Elarik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90871925,
+      "name": "Gianna Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90905217,
+      "name": "Ises Mande",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anita Sarkehzeen",
+  "corporation_id": 98367024,
+  "alliance_id": 99008701,
+  "corporation_name": "New Jovian Exploration Department",
+  "alliance_name": "New Jovian Collective"
+}

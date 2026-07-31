@@ -1,0 +1,34 @@
+{
+  "character_id": 2123320477,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120271734,
+    "name": "Larhatis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795415,
+    "alliance_id": null,
+    "corporation_name": "Reinforced Everyday",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120271734,
+      "name": "Larhatis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 611762281,
+      "name": "Gothikia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Antinomi",
+  "corporation_id": 98817611,
+  "alliance_id": 99013541,
+  "corporation_name": "World Economic Forum.",
+  "alliance_name": "Fraternity Auxiliary"
+}

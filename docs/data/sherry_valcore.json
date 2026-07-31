@@ -1,0 +1,52 @@
+{
+  "character_id": 2121724532,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122103324,
+    "name": "Ragnar Deskold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000171,
+    "alliance_id": null,
+    "corporation_name": "Republic University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122103324,
+      "name": "Ragnar Deskold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91522739,
+      "name": "Mackers87",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94026387,
+      "name": "Yury Ershov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94233167,
+      "name": "Viktor -valar morghulis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sherry Valcore",
+  "corporation_id": 1552312459,
+  "alliance_id": 99007887,
+  "corporation_name": "Star Frontiers",
+  "alliance_name": "Brotherhood of Spacers"
+}

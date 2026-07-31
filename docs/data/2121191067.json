@@ -1,0 +1,52 @@
+{
+  "character_id": 2121191067,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1103273487,
+    "name": "Triple Deke",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 1103273487,
+      "name": "Triple Deke",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116744398,
+      "name": "Kassi Othelia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90351104,
+      "name": "Acetilla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91023734,
+      "name": "Racro Arifistan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94452796,
+      "name": "Eimantas Triber",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yondu Ren",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

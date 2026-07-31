@@ -1,0 +1,40 @@
+{
+  "character_id": 2124162678,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113803816,
+    "name": "Arik Zahn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98660549,
+    "alliance_id": null,
+    "corporation_name": "R0CKHOUND's Quarry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120297567,
+      "name": "Sussik Feni Fera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112320012,
+      "name": "Oldy McBee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mark Chamir",
+  "corporation_id": 98807147,
+  "alliance_id": 99014733,
+  "corporation_name": "Dusters Rusters",
+  "alliance_name": "Cursed Cartel"
+}

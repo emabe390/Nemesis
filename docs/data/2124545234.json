@@ -1,0 +1,40 @@
+{
+  "character_id": 2124545234,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93812968,
+    "name": "Noah Tollerton",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98336806,
+    "alliance_id": 99015181,
+    "corporation_name": "Amandla Legion",
+    "alliance_name": "Atra Dominus"
+  },
+  "top_killers": [
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119885317,
+      "name": "Brad Palodon TheKingCrab",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124302985,
+      "name": "Lower Purpose",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124545234",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

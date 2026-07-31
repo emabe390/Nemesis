@@ -1,0 +1,52 @@
+{
+  "character_id": 2124453412,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93326443,
+      "name": "Paraboola",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 485337436,
+      "name": "Shinkendo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119362274,
+      "name": "xiwang002",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123484231,
+      "name": "xiwang003",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kozu Iwaira",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

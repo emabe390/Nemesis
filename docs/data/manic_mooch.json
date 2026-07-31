@@ -1,0 +1,40 @@
+{
+  "character_id": 2124279446,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114211339,
+    "name": "Ramjam",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98822811,
+    "alliance_id": 99014986,
+    "corporation_name": "Lobotimised Services",
+    "alliance_name": "Kinetic Diplomacy"
+  },
+  "top_killers": [
+    {
+      "id": 2114211339,
+      "name": "Ramjam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121469994,
+      "name": "SazaCantabile",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123218598,
+      "name": "Luigius Sublime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Manic Mooch",
+  "corporation_id": 98830832,
+  "alliance_id": null,
+  "corporation_name": "Badivefi Bandits",
+  "alliance_name": null
+}

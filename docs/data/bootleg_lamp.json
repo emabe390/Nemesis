@@ -1,0 +1,52 @@
+{
+  "character_id": 2119512538,
+  "total_losses": 62,
+  "unique_killers": 53,
+  "nemesis": {
+    "id": 275805471,
+    "name": "Duke Nukem",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 544199803,
+    "alliance_id": 1727758877,
+    "corporation_name": "Macabre Votum",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 275805471,
+      "name": "Duke Nukem",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 91266603,
+      "name": "Sergey Kurganov1979",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92939693,
+      "name": "Andret Zapalsky",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bootleg Lamp",
+  "corporation_id": 98693013,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XXV",
+  "alliance_name": "Absolute Will"
+}

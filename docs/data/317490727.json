@@ -1,0 +1,40 @@
+{
+  "character_id": 317490727,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96928223,
+    "name": "Eve Aldarvale",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98749303,
+    "alliance_id": 99012572,
+    "corporation_name": "Savagerie",
+    "alliance_name": "Wildlife"
+  },
+  "top_killers": [
+    {
+      "id": 96928223,
+      "name": "Eve Aldarvale",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114269177,
+      "name": "Andrea Rossix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118755349,
+      "name": "Tolmeron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brewmeister",
+  "corporation_id": 150917868,
+  "alliance_id": 99010325,
+  "corporation_name": "Doped Player's Inc.",
+  "alliance_name": "Patchwork Freelancers"
+}

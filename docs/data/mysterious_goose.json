@@ -1,0 +1,40 @@
+{
+  "character_id": 2123093851,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117668247,
+    "name": "Lykos Zahir",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98796399,
+    "alliance_id": 99010877,
+    "corporation_name": "R3b3llium",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2117668247,
+      "name": "Lykos Zahir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119487277,
+      "name": "Clarisse Azheinberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122604145,
+      "name": "Urahekken Otomeya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mysterious Goose",
+  "corporation_id": 98805257,
+  "alliance_id": null,
+  "corporation_name": "Order of the Wormhole Geese",
+  "alliance_name": null
+}

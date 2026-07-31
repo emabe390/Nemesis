@@ -1,0 +1,40 @@
+{
+  "character_id": 2120022601,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116322116,
+    "name": "Dizzy Acami",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98826411,
+    "alliance_id": null,
+    "corporation_name": "United Paint Drinkers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116322116,
+      "name": "Dizzy Acami",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 789508125,
+      "name": "Transipid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1649456140,
+      "name": "Character 1649456140",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rocky Roze",
+  "corporation_id": 98809144,
+  "alliance_id": 1354830081,
+  "corporation_name": "No Friends Just Alts",
+  "alliance_name": "Goonswarm Federation"
+}

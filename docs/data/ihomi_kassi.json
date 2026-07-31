@@ -1,0 +1,34 @@
+{
+  "character_id": 2123904073,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122067272,
+    "name": "Zaber Ondee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98761953,
+    "alliance_id": 99013589,
+    "corporation_name": "HOLE SPLASH",
+    "alliance_name": "Lethal Estates"
+  },
+  "top_killers": [
+    {
+      "id": 2122067272,
+      "name": "Zaber Ondee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95648191,
+      "name": "Razors Vankillsing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ihomi Kassi",
+  "corporation_id": 98703354,
+  "alliance_id": null,
+  "corporation_name": "De gustibus non est disputandum",
+  "alliance_name": null
+}

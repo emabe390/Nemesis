@@ -1,0 +1,40 @@
+{
+  "character_id": 2123759718,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1243900015,
+    "name": "NoTalent",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702201,
+    "alliance_id": 99010421,
+    "corporation_name": "Corellian Heavy Industries",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 1243900015,
+      "name": "NoTalent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 941797016,
+      "name": "Darkenfrost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121024100,
+      "name": "JAS 39 KUKEN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eowiii",
+  "corporation_id": 98452383,
+  "alliance_id": 99014467,
+  "corporation_name": "Xae Mining Consortium Inc.",
+  "alliance_name": "Empire's Edge Trading Cartel"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123659221,
+  "total_losses": 13,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 94656106,
+    "name": "Character 94656106",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98325945,
+    "alliance_id": 99013885,
+    "corporation_name": "Venom and Bullet Corporation",
+    "alliance_name": "Metropolis Defense"
+  },
+  "top_killers": [
+    {
+      "id": 94656106,
+      "name": "Character 94656106",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94712373,
+      "name": "Bullet Anarchy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97045787,
+      "name": "Robert Seawolf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 727382616,
+      "name": "Villa Strangiato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pekanen Erata",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

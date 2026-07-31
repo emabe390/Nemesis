@@ -1,0 +1,40 @@
+{
+  "character_id": 2124211467,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 822515395,
+    "name": "Nammo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 647388233,
+      "name": "John MacCoy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123485939,
+      "name": "Miscellaneous soldier armor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raul Karamen",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

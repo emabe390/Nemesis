@@ -1,0 +1,52 @@
+{
+  "character_id": 2120922032,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120692385,
+    "name": "Babookh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98743880,
+    "alliance_id": null,
+    "corporation_name": "Artificial intelligence bot",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120692385,
+      "name": "Babookh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118463200,
+      "name": "Fruitwood roast duck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122295593,
+      "name": "Mystarath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123445026,
+      "name": "Old baboon6",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Misteric",
+  "corporation_id": 98540294,
+  "alliance_id": 99005178,
+  "corporation_name": "Enceladus Syndicate",
+  "alliance_name": "Domain Research and Mining Inst."
+}

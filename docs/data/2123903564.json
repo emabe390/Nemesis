@@ -1,0 +1,52 @@
+{
+  "character_id": 2123903564,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2113435273,
+    "name": "Ilya Alekseev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98693786,
+    "alliance_id": null,
+    "corporation_name": "Friendship.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113435273,
+      "name": "Ilya Alekseev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 193783242,
+      "name": "freddude",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114973381,
+      "name": "zhangke zhangke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118477139,
+      "name": "Osiris Wolfbane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122083313,
+      "name": "Asheh Kuha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bin Kuma",
+  "corporation_id": 98835282,
+  "alliance_id": null,
+  "corporation_name": "Goblin Kill Drift",
+  "alliance_name": null
+}

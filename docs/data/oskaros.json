@@ -1,0 +1,40 @@
+{
+  "character_id": 2123778816,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96964195,
+    "name": "Larkin Love",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98830485,
+    "alliance_id": null,
+    "corporation_name": "Dark Star Brotherhood",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96964195,
+      "name": "Larkin Love",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123520793,
+      "name": "dmacc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123546882,
+      "name": "player1222",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oskaros",
+  "corporation_id": 98814243,
+  "alliance_id": null,
+  "corporation_name": "OsKorp",
+  "alliance_name": null
+}

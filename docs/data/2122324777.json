@@ -1,0 +1,40 @@
+{
+  "character_id": 2122324777,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92368449,
+    "name": "Anriol Zalanec",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98427812,
+    "alliance_id": 99007203,
+    "corporation_name": "Siberian Squad",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 92368449,
+      "name": "Anriol Zalanec",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94294752,
+      "name": "Eve Neuschwan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115929118,
+      "name": "Gregor Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haktic",
+  "corporation_id": 98693017,
+  "alliance_id": 99013917,
+  "corporation_name": "Absolute Order XXIX",
+  "alliance_name": "AlcoSquad"
+}

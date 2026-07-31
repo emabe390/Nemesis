@@ -1,0 +1,52 @@
+{
+  "character_id": 2123407636,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114102368,
+      "name": "ZakaYu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93624718,
+      "name": "Maria Daphiti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95719768,
+      "name": "Eukey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96770879,
+      "name": "Petro Dostoevsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Buddoo",
+  "corporation_id": 98788569,
+  "alliance_id": null,
+  "corporation_name": "Independent Chamber of Unstable Misfits",
+  "alliance_name": null
+}

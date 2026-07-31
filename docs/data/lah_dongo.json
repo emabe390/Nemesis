@@ -1,0 +1,52 @@
+{
+  "character_id": 2123620142,
+  "total_losses": 18,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112254002,
+    "name": "Kang Jack",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112254002,
+      "name": "Kang Jack",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123445398,
+      "name": "Okoshin Shikkoken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 727983343,
+      "name": "ARGEN TUNE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1856452099,
+      "name": "McNab DK1977",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "lah dongo",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

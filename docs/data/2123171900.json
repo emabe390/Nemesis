@@ -1,0 +1,40 @@
+{
+  "character_id": 2123171900,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95631334,
+    "name": "Jack Fizzleblade",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98345923,
+    "alliance_id": 1354830081,
+    "corporation_name": "Exploration Enterprises",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95631334,
+      "name": "Jack Fizzleblade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95905088,
+      "name": "Ian Painter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117907675,
+      "name": "bonq",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Minelord Dallocort",
+  "corporation_id": 98804119,
+  "alliance_id": null,
+  "corporation_name": "Interstellar Research Observatory",
+  "alliance_name": null
+}

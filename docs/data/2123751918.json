@@ -1,0 +1,52 @@
+{
+  "character_id": 2123751918,
+  "total_losses": 34,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2122558022,
+    "name": "MirrMIRT",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98820695,
+    "alliance_id": 99013484,
+    "corporation_name": "Puella in cursoriam",
+    "alliance_name": "Crocodili et mammoths"
+  },
+  "top_killers": [
+    {
+      "id": 2122558022,
+      "name": "MirrMIRT",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96191188,
+      "name": "Mara Matambo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90632029,
+      "name": "Ignitius Charante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91256825,
+      "name": "Sonic 37",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DemonicMandem",
+  "corporation_id": 98813187,
+  "alliance_id": 99014391,
+  "corporation_name": "DemonicAncestory.",
+  "alliance_name": "Howitzers and Champagne"
+}

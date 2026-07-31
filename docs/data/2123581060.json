@@ -1,0 +1,40 @@
+{
+  "character_id": 2123581060,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117311648,
+    "name": "Doov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2117311648,
+      "name": "Doov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orange Meow",
+  "corporation_id": 98798221,
+  "alliance_id": null,
+  "corporation_name": "Angel Eggplant",
+  "alliance_name": null
+}

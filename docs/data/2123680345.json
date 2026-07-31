@@ -1,0 +1,52 @@
+{
+  "character_id": 2123680345,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95317783,
+    "name": "Soulgaze en Thielles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98438347,
+    "alliance_id": null,
+    "corporation_name": "CollapseTrap",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95317783,
+      "name": "Soulgaze en Thielles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97020359,
+      "name": "Baxter Trent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 189321628,
+      "name": "Hyperion Phoenix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95911852,
+      "name": "Tarek Mieyli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120988720,
+      "name": "Cadhla Dioltas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123680345",
+  "corporation_id": 98735707,
+  "alliance_id": 99014427,
+  "corporation_name": "Rockwall Mining Industries Inc.",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121803770,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90235339,
+      "name": "WaechterDesTages",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112854672,
+      "name": "Edward-zz Davis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116109532,
+      "name": "Inga Panala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Riko Kumi",
+  "corporation_id": 98731763,
+  "alliance_id": 1354830081,
+  "corporation_name": "Amped.",
+  "alliance_name": "Goonswarm Federation"
+}

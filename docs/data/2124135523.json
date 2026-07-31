@@ -1,0 +1,40 @@
+{
+  "character_id": 2124135523,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 912927245,
+    "name": "Onic Madres",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98558667,
+    "alliance_id": 99011223,
+    "corporation_name": "Good Ole Boys",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90428742,
+      "name": "Maez Naadrin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 245145018,
+      "name": "Barbens",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WinterBeer",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123377230,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1913691987,
+    "name": "Hoshizora Yumemi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98644965,
+    "alliance_id": 99011655,
+    "corporation_name": "Argument of Perigee",
+    "alliance_name": "Blue Meanies"
+  },
+  "top_killers": [
+    {
+      "id": 1913691987,
+      "name": "Hoshizora Yumemi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114186498,
+      "name": "Lyor Vallian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120731916,
+      "name": "Moonface",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BillDew",
+  "corporation_id": 98715119,
+  "alliance_id": null,
+  "corporation_name": "Vor Kosigan Corporation",
+  "alliance_name": null
+}

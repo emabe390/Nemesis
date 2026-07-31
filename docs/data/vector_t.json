@@ -1,0 +1,52 @@
+{
+  "character_id": 2120295546,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 282415299,
+      "name": "OttoVonKatz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1520605771,
+      "name": "battlur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113440760,
+      "name": "UNR3al1st1c",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "vector-T",
+  "corporation_id": 98669352,
+  "alliance_id": 99013541,
+  "corporation_name": "Traffic Control Squad",
+  "alliance_name": "Fraternity Auxiliary"
+}

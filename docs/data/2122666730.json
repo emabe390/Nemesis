@@ -1,0 +1,52 @@
+{
+  "character_id": 2122666730,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121481456,
+    "name": "Elles Aulmais",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747614,
+    "alliance_id": 99012398,
+    "corporation_name": "Corp Of Lesser Heal",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 2121481456,
+      "name": "Elles Aulmais",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113435251,
+      "name": "Razor Pegasus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118943001,
+      "name": "Wirenard Rotineque",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122780067,
+      "name": "Panda k2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122780069,
+      "name": "Panda K4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Panda Knight",
+  "corporation_id": 98787376,
+  "alliance_id": null,
+  "corporation_name": "Panda's Castle",
+  "alliance_name": null
+}

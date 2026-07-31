@@ -1,0 +1,40 @@
+{
+  "character_id": 2123867935,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116339130,
+    "name": "Geoff McGeoff",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755828,
+    "alliance_id": 1900696668,
+    "corporation_name": "A Leap Of Faith",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2116339130,
+      "name": "Geoff McGeoff",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 993795179,
+      "name": "ZloyPess",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122734711,
+      "name": "LaKostya Croc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dr Getitdone",
+  "corporation_id": 98764120,
+  "alliance_id": null,
+  "corporation_name": "Eviction-Scout Inc.",
+  "alliance_name": null
+}

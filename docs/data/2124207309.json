@@ -1,0 +1,40 @@
+{
+  "character_id": 2124207309,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124221510,
+    "name": "Chloe-Hobbes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791781,
+    "alliance_id": null,
+    "corporation_name": "ARC Subsidized",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124221510,
+      "name": "Chloe-Hobbes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92130387,
+      "name": "Lambda Thyl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ARC DD",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123037608,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2124112764,
+    "name": "Dax Morro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829060,
+    "alliance_id": 99014873,
+    "corporation_name": "Blood Corsairs",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 2124112764,
+      "name": "Dax Morro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91709897,
+      "name": "ddiere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 996747227,
+      "name": "Randolph Vangor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1239938151,
+      "name": "God Forbid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Messa Solaris",
+  "corporation_id": 98792275,
+  "alliance_id": null,
+  "corporation_name": "Sol Invictus Inc.",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124439484,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90753521,
+    "name": "Sinimox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704442,
+    "alliance_id": null,
+    "corporation_name": "Raised by Wolves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90753521,
+      "name": "Sinimox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92599876,
+      "name": "Kyle Tawate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LunarAmu",
+  "corporation_id": 98694557,
+  "alliance_id": 99003581,
+  "corporation_name": "KheshigFleet",
+  "alliance_name": "Fraternity."
+}

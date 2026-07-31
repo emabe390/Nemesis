@@ -1,0 +1,40 @@
+{
+  "character_id": 94256156,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 137705723,
+    "name": "Balthazarra",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98644898,
+    "alliance_id": 99003699,
+    "corporation_name": "Guardians Incorporated",
+    "alliance_name": "Cynosural Field Theory."
+  },
+  "top_killers": [
+    {
+      "id": 137705723,
+      "name": "Balthazarra",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120921252,
+      "name": "AveDeus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122098653,
+      "name": "Max Damaged",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Merchant of Venice",
+  "corporation_id": 98656651,
+  "alliance_id": 99009116,
+  "corporation_name": "Men of High Stables",
+  "alliance_name": "Post Nord"
+}

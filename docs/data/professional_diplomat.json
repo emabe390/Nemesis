@@ -1,0 +1,52 @@
+{
+  "character_id": 2122820495,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2120546541,
+    "name": "Syetolog",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98825388,
+    "alliance_id": null,
+    "corporation_name": "Other Minds",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120546541,
+      "name": "Syetolog",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117883068,
+      "name": "Monk of Zamorak",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114435212,
+      "name": "Gavin Waiakr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118792503,
+      "name": "Steleya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94389072,
+      "name": "Johanis Cal-dahari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Professional Diplomat",
+  "corporation_id": 98805211,
+  "alliance_id": 99013513,
+  "corporation_name": "The Defenders of Managed Democracy",
+  "alliance_name": "V0IDLINGS"
+}

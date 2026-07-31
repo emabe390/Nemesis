@@ -1,0 +1,52 @@
+{
+  "character_id": 2123621607,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1149811334,
+    "name": "Ouroborosg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98653604,
+    "alliance_id": 99010102,
+    "corporation_name": "The Blood Raiders Children's Charity",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 1149811334,
+      "name": "Ouroborosg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93184739,
+      "name": "Aradesh Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96969021,
+      "name": "Evan Kozak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 931531495,
+      "name": "Force Fire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bishop Bones",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

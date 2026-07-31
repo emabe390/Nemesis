@@ -1,0 +1,40 @@
+{
+  "character_id": 2122563132,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90763236,
+      "name": "Tolstoyevski Tsuyasa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121797049,
+      "name": "Beatriz Barbuy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "E Vencze",
+  "corporation_id": 98792458,
+  "alliance_id": null,
+  "corporation_name": "corporation for best people",
+  "alliance_name": null
+}

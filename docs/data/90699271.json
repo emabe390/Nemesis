@@ -1,0 +1,40 @@
+{
+  "character_id": 90699271,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97002478,
+      "name": "Admiral Kroma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1158536999,
+      "name": "Martha Gomerz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joe Wheeler",
+  "corporation_id": 370979777,
+  "alliance_id": 1900696668,
+  "corporation_name": "League of Gentlemen",
+  "alliance_name": "The Initiative."
+}

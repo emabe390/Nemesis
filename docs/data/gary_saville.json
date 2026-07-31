@@ -1,0 +1,40 @@
+{
+  "character_id": 2123054096,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120925516,
+    "name": "Naomi Hart",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98758422,
+    "alliance_id": 99014284,
+    "corporation_name": "Consultancy",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2120925516,
+      "name": "Naomi Hart",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121844808,
+      "name": "Yum Fang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122089339,
+      "name": "Colin Beardman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gary Saville",
+  "corporation_id": 98783593,
+  "alliance_id": 99013524,
+  "corporation_name": "Calarin Military Industrial Complex",
+  "alliance_name": "AV0IDLINGS"
+}

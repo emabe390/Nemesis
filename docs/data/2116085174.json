@@ -1,0 +1,52 @@
+{
+  "character_id": 2116085174,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 96063280,
+    "name": "Jean-Eudes DeLaJaquette",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98318169,
+    "alliance_id": 99010240,
+    "corporation_name": "Subtropical Planetary Solutions Ltd.",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 96063280,
+      "name": "Jean-Eudes DeLaJaquette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 245073304,
+      "name": "Rixx Javix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 962215199,
+      "name": "Wrik Hoover",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115270103,
+      "name": "Fox Skytail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96207013,
+      "name": "WAteR LSV",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stein Dusky",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123683025,
+  "total_losses": 31,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2123683104,
+    "name": "Ps1002",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98777162,
+    "alliance_id": 1354830081,
+    "corporation_name": "TRIGLAVIAN EXECUYIR",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123683104,
+      "name": "Ps1002",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 96308510,
+      "name": "Wayne Tsuru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 202442262,
+      "name": "Davian Loyalar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1451797689,
+      "name": "Vsarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1787195774,
+      "name": "Zarvia Caldera",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ps1001",
+  "corporation_id": 98777162,
+  "alliance_id": 1354830081,
+  "corporation_name": "TRIGLAVIAN EXECUYIR",
+  "alliance_name": "Goonswarm Federation"
+}

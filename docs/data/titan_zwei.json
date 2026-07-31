@@ -1,0 +1,40 @@
+{
+  "character_id": 2122131347,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113975700,
+    "name": "Character 2113975700",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2113975700,
+      "name": "Character 2113975700",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94471524,
+      "name": "Toxic Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115068974,
+      "name": "Sigmond Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Titan Zwei",
+  "corporation_id": 98805211,
+  "alliance_id": 99013513,
+  "corporation_name": "The Defenders of Managed Democracy",
+  "alliance_name": "V0IDLINGS"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2121857800,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95453623,
+    "name": "Skipp Doe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98437166,
+    "alliance_id": 99007252,
+    "corporation_name": "Explorers' Sanctum",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 95453623,
+      "name": "Skipp Doe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122253320,
+      "name": "Naraiwe Artanis",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MountainGoat",
+  "corporation_id": 98669072,
+  "alliance_id": null,
+  "corporation_name": "Wormhole Academy for Exploration and Yeet",
+  "alliance_name": null
+}

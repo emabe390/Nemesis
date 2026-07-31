@@ -1,0 +1,46 @@
+{
+  "character_id": 2122565599,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 812049218,
+    "name": "Vladimir Norkoff",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 325241964,
+    "alliance_id": 99010569,
+    "corporation_name": "Income Redistribution Service",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115925272,
+      "name": "Teddy Bear George",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117368009,
+      "name": "Fracture Ray",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118943942,
+      "name": "Van'Darkholme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aaltunen Whales",
+  "corporation_id": 98818335,
+  "alliance_id": 99014430,
+  "corporation_name": "WhalePod-TaxEvasion",
+  "alliance_name": "Microwave Mining"
+}

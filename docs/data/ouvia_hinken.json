@@ -1,0 +1,40 @@
+{
+  "character_id": 2123032265,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121034481,
+    "name": "Real Rick",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98830313,
+    "alliance_id": 99014933,
+    "corporation_name": "Messenger MAX",
+    "alliance_name": "Expired Intelligence Booster"
+  },
+  "top_killers": [
+    {
+      "id": 2121034481,
+      "name": "Real Rick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122722661,
+      "name": "L 6",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114238787,
+      "name": "aLagger Boi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ouvia Hinken",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2112940617,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90040710,
+    "name": "kryjak",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98034457,
+    "alliance_id": null,
+    "corporation_name": "Fear Factor Prototype",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90040710,
+      "name": "kryjak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96163566,
+      "name": "Aleverette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122034898,
+      "name": "Takko Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stephan Lazerbum",
+  "corporation_id": 98734487,
+  "alliance_id": 99003581,
+  "corporation_name": "From Hisec With Love",
+  "alliance_name": "Fraternity."
+}

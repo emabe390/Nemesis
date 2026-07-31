@@ -1,0 +1,52 @@
+{
+  "character_id": 2122321913,
+  "total_losses": 16,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2121876029,
+    "name": "KAI-GUDA",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98746877,
+    "alliance_id": 99013766,
+    "corporation_name": "Flota Imperial",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117053665,
+      "name": "Oruo Otichoda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94167765,
+      "name": "Vitor M5",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96745088,
+      "name": "Stounszyko Braindiger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boygarden",
+  "corporation_id": 98552432,
+  "alliance_id": 99013766,
+  "corporation_name": "Hijos de la Luna",
+  "alliance_name": "Death Legion of Capybaras"
+}

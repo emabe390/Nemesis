@@ -1,0 +1,52 @@
+{
+  "character_id": 2123177505,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112013687,
+    "name": "Svetlania Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2112013687,
+      "name": "Svetlania Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113261196,
+      "name": "Kayn Stark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93729582,
+      "name": "Character 93729582",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 861380549,
+      "name": "Erus Xiphias",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116517717,
+      "name": "Wolf Stormcaller",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corvae Corluin",
+  "corporation_id": 98776877,
+  "alliance_id": 99013285,
+  "corporation_name": "Operation Myriad",
+  "alliance_name": "Incorporeal Conglomerate Society"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 96455403,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1069878505,
+    "name": "Wallymarts",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98497733,
+    "alliance_id": null,
+    "corporation_name": "Drop the Soap",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1069878505,
+      "name": "Wallymarts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90034030,
+      "name": "Skoose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119354690,
+      "name": "ChromeClaw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120042388,
+      "name": "1 Tap Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yani Boirelle",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

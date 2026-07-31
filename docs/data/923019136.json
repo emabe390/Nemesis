@@ -1,0 +1,40 @@
+{
+  "character_id": 923019136,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95882754,
+      "name": "Ding",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117908801,
+      "name": "Voidlord Dormamu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Forgereth",
+  "corporation_id": 98613748,
+  "alliance_id": 99012995,
+  "corporation_name": "Silver Fog Dragon Ride",
+  "alliance_name": "Dragon Riders Legion"
+}

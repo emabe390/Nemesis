@@ -1,0 +1,52 @@
+{
+  "character_id": 2123456705,
+  "total_losses": 82,
+  "unique_killers": 70,
+  "nemesis": {
+    "id": 403163173,
+    "name": "Aeryn Tiberius",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98732877,
+    "alliance_id": 1354830081,
+    "corporation_name": "Iron Whales",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 403163173,
+      "name": "Aeryn Tiberius",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91330268,
+      "name": "Krixhis D'Haran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118515258,
+      "name": "graf-Tosh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119357169,
+      "name": "Aloren Lucan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "A Swaying Puppet",
+  "corporation_id": 98804674,
+  "alliance_id": null,
+  "corporation_name": "Maison Pantin Natya",
+  "alliance_name": null
+}

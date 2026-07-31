@@ -1,0 +1,52 @@
+{
+  "character_id": 2123863445,
+  "total_losses": 28,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96103372,
+      "name": "WhatThePissTrainee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112909557,
+      "name": "TsukiAkari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113334078,
+      "name": "Prae Mabata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92126855,
+      "name": "Zana Fehrnah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tarayno",
+  "corporation_id": 98830167,
+  "alliance_id": 99009163,
+  "corporation_name": "Vanguard of the Abyss",
+  "alliance_name": "Dracarys."
+}

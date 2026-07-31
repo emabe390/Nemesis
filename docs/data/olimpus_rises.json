@@ -1,0 +1,52 @@
+{
+  "character_id": 2123520018,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2118692725,
+    "name": "Character 2118692725",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98811294,
+    "alliance_id": 99014071,
+    "corporation_name": "Ctrl Alt Destroy",
+    "alliance_name": "Red Bull Nation"
+  },
+  "top_killers": [
+    {
+      "id": 2118692725,
+      "name": "Character 2118692725",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118144036,
+      "name": "Erika Timpis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123653313,
+      "name": "Ukiz Shakiel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Olimpus Rises",
+  "corporation_id": 98500968,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cuervos Imperiales",
+  "alliance_name": "Goonswarm Federation"
+}

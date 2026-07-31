@@ -1,0 +1,40 @@
+{
+  "character_id": 1010699058,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96815517,
+    "name": "Barmaley BB",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98830976,
+    "alliance_id": null,
+    "corporation_name": "vPsychobastards.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96815517,
+      "name": "Barmaley BB",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113264271,
+      "name": "Estrella Yrlas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114105532,
+      "name": "Sir Tobias Helm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ratzz Slayer",
+  "corporation_id": 98821024,
+  "alliance_id": 99010240,
+  "corporation_name": "Custodes Leonis Dentis",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

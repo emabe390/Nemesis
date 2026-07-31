@@ -1,0 +1,46 @@
+{
+  "character_id": 2123774402,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91375037,
+      "name": "Zira Arjar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113823370,
+      "name": "Alex Groner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123774402",
+  "corporation_id": 98728471,
+  "alliance_id": 99005338,
+  "corporation_name": "Tranquility Tavern",
+  "alliance_name": "Pandemic Horde"
+}

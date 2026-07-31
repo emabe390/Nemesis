@@ -1,0 +1,40 @@
+{
+  "character_id": 2122991635,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 945923628,
+    "name": "ClayBird",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98701488,
+    "alliance_id": null,
+    "corporation_name": "Confederacy of Endless Stars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 945923628,
+      "name": "ClayBird",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117810898,
+      "name": "Ivan Scipio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124479525,
+      "name": "Nox Invicta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brian Dos Santos",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120284542,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 640595536,
+    "name": "Avarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97123155,
+      "name": "Character 97123155",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 778583386,
+      "name": "Oniko Sengir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nak Soi",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

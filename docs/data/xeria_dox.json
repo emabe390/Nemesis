@@ -1,0 +1,40 @@
+{
+  "character_id": 2122240224,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118359257,
+    "name": "Lt Calamity",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644426,
+    "alliance_id": 99005601,
+    "corporation_name": "Black Swans and Wormhole Wizards",
+    "alliance_name": "Rainbow Knights"
+  },
+  "top_killers": [
+    {
+      "id": 2118359257,
+      "name": "Lt Calamity",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 210159644,
+      "name": "Evorg Sum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122072282,
+      "name": "Beornklaaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xeria Dox",
+  "corporation_id": 98710709,
+  "alliance_id": null,
+  "corporation_name": "Dotox Corporation",
+  "alliance_name": null
+}

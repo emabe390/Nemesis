@@ -1,0 +1,34 @@
+{
+  "character_id": 2124544894,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122947415,
+    "name": "Tom Marcus Aurelius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789418,
+    "alliance_id": null,
+    "corporation_name": "Mental Disruption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122947415,
+      "name": "Tom Marcus Aurelius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95100511,
+      "name": "Sou Saephanh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124544894",
+  "corporation_id": 98754011,
+  "alliance_id": 99013766,
+  "corporation_name": "Laddexperten",
+  "alliance_name": "Death Legion of Capybaras"
+}

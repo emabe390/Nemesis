@@ -1,0 +1,40 @@
+{
+  "character_id": 1685739745,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 211766019,
+    "name": "Zakichi",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98652367,
+    "alliance_id": 99010193,
+    "corporation_name": "EVE University Hall of Residence",
+    "alliance_name": "Ivy League Alt Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 211766019,
+      "name": "Zakichi",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94673660,
+      "name": "Berkalp Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ikuki",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123280636,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1701596726,
+    "name": "howling wind",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1831131676,
+    "alliance_id": 99005839,
+    "corporation_name": "V0LTA",
+    "alliance_name": "WE FORM V0LTA"
+  },
+  "top_killers": [
+    {
+      "id": 1701596726,
+      "name": "howling wind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123812900,
+      "name": "Leondithas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saladin e Studiol",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

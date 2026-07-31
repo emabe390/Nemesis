@@ -1,0 +1,52 @@
+{
+  "character_id": 2123363473,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 93989611,
+    "name": "Summer Glau Crimson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779121,
+    "alliance_id": null,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93989611,
+      "name": "Summer Glau Crimson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91239034,
+      "name": "Janus M",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91495789,
+      "name": "KHARNE BlackDeath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96549616,
+      "name": "Ashcher Otsada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96847792,
+      "name": "Vinnegar Douche",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Etna Herabora",
+  "corporation_id": 98801669,
+  "alliance_id": 99014964,
+  "corporation_name": "Sol omnIbus lucet",
+  "alliance_name": "Omega-Republic"
+}

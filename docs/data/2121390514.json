@@ -1,0 +1,52 @@
+{
+  "character_id": 2121390514,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2121590858,
+    "name": "Cyber Jill",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98793429,
+    "alliance_id": 99010079,
+    "corporation_name": "Cyber Conglomerates",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 2121590858,
+      "name": "Cyber Jill",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 165332291,
+      "name": "Hunter Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 668333948,
+      "name": "Donguri Jr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114061210,
+      "name": "Jolly Eginald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114446534,
+      "name": "jommy Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cyber Smith",
+  "corporation_id": 98616922,
+  "alliance_id": 99003214,
+  "corporation_name": "Galactic Deep Space Industries",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123734070,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94753998,
+      "name": "Lie Group",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96872063,
+      "name": "Sergei Skazzor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 454150108,
+      "name": "Elite Desolator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khathcaturian",
+  "corporation_id": 98823750,
+  "alliance_id": null,
+  "corporation_name": "Pirate of Doom",
+  "alliance_name": null
+}

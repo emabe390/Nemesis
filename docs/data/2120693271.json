@@ -1,0 +1,52 @@
+{
+  "character_id": 2120693271,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 97017827,
+    "name": "Plymouth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115033051,
+      "name": "Nessi Narana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115211062,
+      "name": "Large Quafe Zero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121761982,
+      "name": "Dr Jewlittle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90605690,
+      "name": "UnknownBlackGuy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karo Nomura",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124494715,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124494738,
+    "name": "BoomCZhou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124494738,
+      "name": "BoomCZhou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149996688,
+      "name": "lady leisure",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122641296,
+      "name": "Ryan Claire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124424168,
+      "name": "Dataanalyzer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BoomAZhou",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

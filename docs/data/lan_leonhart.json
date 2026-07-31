@@ -1,0 +1,40 @@
+{
+  "character_id": 93496549,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91522825,
+    "name": "Byrbeglin Alcantar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1262577328,
+    "alliance_id": 99006975,
+    "corporation_name": "Doom Generation",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 91522825,
+      "name": "Byrbeglin Alcantar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92582722,
+      "name": "Podrick Mileghere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lan Leonhart",
+  "corporation_id": 98771594,
+  "alliance_id": null,
+  "corporation_name": "ComGuards",
+  "alliance_name": null
+}

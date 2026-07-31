@@ -1,0 +1,40 @@
+{
+  "character_id": 2123907700,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 201535677,
+    "name": "vic1er",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98451868,
+    "alliance_id": null,
+    "corporation_name": "Les Petits Pedestres",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 201535677,
+      "name": "vic1er",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1414264839,
+      "name": "Krakshar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117244644,
+      "name": "Uwu Jonestown",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haldor Kyrin",
+  "corporation_id": 98770595,
+  "alliance_id": 99014402,
+  "corporation_name": "Stellar Prospectors Consortium",
+  "alliance_name": "Plenitude Alliance"
+}

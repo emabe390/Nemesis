@@ -1,0 +1,40 @@
+{
+  "character_id": 2117208059,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123324022,
+    "name": "Griff McBiff",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 2123324022,
+      "name": "Griff McBiff",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115046006,
+      "name": "Prisoner in distress",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115801269,
+      "name": "Dizzy Rabbits",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "azulluna",
+  "corporation_id": 98801987,
+  "alliance_id": 99010079,
+  "corporation_name": "Orion Trade Dynamics",
+  "alliance_name": "Brave United"
+}

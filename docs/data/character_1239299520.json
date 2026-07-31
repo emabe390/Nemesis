@@ -1,0 +1,40 @@
+{
+  "character_id": 1239299520,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117214857,
+    "name": "Ulkka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98770416,
+    "alliance_id": 99009698,
+    "corporation_name": "F1 Academy",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2117214857,
+      "name": "Ulkka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93227004,
+      "name": "Lukas Nemec",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1239299520",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

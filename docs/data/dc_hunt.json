@@ -1,0 +1,40 @@
+{
+  "character_id": 2123428683,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122383182,
+    "name": "Conor Carrion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767682,
+    "alliance_id": 99011223,
+    "corporation_name": "Horizon Industries.",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2122383182,
+      "name": "Conor Carrion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114469433,
+      "name": "Moises9456 SDLG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122470117,
+      "name": "Alita B",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DC hunt",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

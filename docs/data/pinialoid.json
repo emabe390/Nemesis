@@ -1,0 +1,52 @@
+{
+  "character_id": 2123000156,
+  "total_losses": 10,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92704220,
+    "name": "Andrei Kamelkov",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000107,
+    "alliance_id": null,
+    "corporation_name": "The Scope",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92704220,
+      "name": "Andrei Kamelkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96373993,
+      "name": "Sefa Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 365049741,
+      "name": "rekina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1148017533,
+      "name": "NeoRuby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1326946501,
+      "name": "12vthman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pinialoid",
+  "corporation_id": 98678807,
+  "alliance_id": 99013766,
+  "corporation_name": "Settlers Inc.",
+  "alliance_name": "Death Legion of Capybaras"
+}

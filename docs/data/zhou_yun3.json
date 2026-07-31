@@ -1,0 +1,52 @@
+{
+  "character_id": 2123973085,
+  "total_losses": 101,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123808776,
+    "name": "Zh1u A",
+    "kill_count": 25,
+    "final_blows": 25,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123808776,
+      "name": "Zh1u A",
+      "kill_count": 25,
+      "final_blows": 25
+    },
+    {
+      "id": 2123809118,
+      "name": "Zh3u C",
+      "kill_count": 23,
+      "final_blows": 23
+    },
+    {
+      "id": 2123814829,
+      "name": "Zh1u D",
+      "kill_count": 21,
+      "final_blows": 21
+    },
+    {
+      "id": 2123993192,
+      "name": "Zh1u E",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2123809082,
+      "name": "Zh1u B",
+      "kill_count": 13,
+      "final_blows": 13
+    }
+  ],
+  "character_name": "Zhou yun3",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

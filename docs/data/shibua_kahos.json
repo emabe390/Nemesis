@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321501,
+  "total_losses": 21,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020058,
+      "name": "Tyrannos Kyrios",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91279258,
+      "name": "Mute Karimar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shibua Kahos",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

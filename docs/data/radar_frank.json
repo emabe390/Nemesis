@@ -1,0 +1,40 @@
+{
+  "character_id": 2121672823,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92208231,
+    "name": "Brain Acme",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 92208231,
+      "name": "Brain Acme",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 708182017,
+      "name": "xp8k",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121970090,
+      "name": "Cpt Pepinion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Radar Frank",
+  "corporation_id": 98540412,
+  "alliance_id": 99000285,
+  "corporation_name": "BOATFULL",
+  "alliance_name": "Good Sax"
+}

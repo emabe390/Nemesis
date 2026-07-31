@@ -1,0 +1,52 @@
+{
+  "character_id": 2123668009,
+  "total_losses": 30,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2017931313,
+    "name": "Harks",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2017931313,
+      "name": "Harks",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94991178,
+      "name": "Dradda Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artemis Reid",
+  "corporation_id": 98828090,
+  "alliance_id": 99014851,
+  "corporation_name": "Wormhole Campus",
+  "alliance_name": "10 Minutes' Notice"
+}

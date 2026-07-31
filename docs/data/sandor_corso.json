@@ -1,0 +1,52 @@
+{
+  "character_id": 2123407790,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92790199,
+    "name": "Artemkas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145698,
+    "alliance_id": 99005034,
+    "corporation_name": "Terrelian Republic.",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 92790199,
+      "name": "Artemkas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93712073,
+      "name": "Donovan Aivoras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120639916,
+      "name": "ArctPamitro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sandor Corso",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

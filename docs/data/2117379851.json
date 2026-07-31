@@ -1,0 +1,34 @@
+{
+  "character_id": 2117379851,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113063190,
+    "name": "BoneChilling Chelien",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750063,
+    "alliance_id": 99012428,
+    "corporation_name": "Abyssal Nanofibre Internal Structure",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 2113063190,
+      "name": "BoneChilling Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121684351,
+      "name": "Arelleyns Cesaille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sal'a Vec",
+  "corporation_id": 98811544,
+  "alliance_id": null,
+  "corporation_name": "The Undocking Instructors",
+  "alliance_name": null
+}

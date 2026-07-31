@@ -1,0 +1,40 @@
+{
+  "character_id": 2121244030,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121182699,
+    "name": "TITMILK13",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98764948,
+    "alliance_id": 99003581,
+    "corporation_name": "The Last Rites",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121182699,
+      "name": "TITMILK13",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 222844749,
+      "name": "Templar Dane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120331670,
+      "name": "xamw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clark Morningstar",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

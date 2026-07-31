@@ -1,0 +1,40 @@
+{
+  "character_id": 2123928416,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 410074460,
+    "name": "Kladas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98713174,
+    "alliance_id": 99013042,
+    "corporation_name": "Hole Nomades",
+    "alliance_name": "Hole Nomades United"
+  },
+  "top_killers": [
+    {
+      "id": 410074460,
+      "name": "Kladas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112596565,
+      "name": "Second Pilot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117904184,
+      "name": "Reed Emmyrson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Minerva L Long",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

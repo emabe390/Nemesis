@@ -1,0 +1,52 @@
+{
+  "character_id": 2117543324,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2119960920,
+    "name": "Farm Maschine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98599654,
+    "alliance_id": 99009805,
+    "corporation_name": "Deep Space Logistics INC",
+    "alliance_name": "Dead Game Society."
+  },
+  "top_killers": [
+    {
+      "id": 2119960920,
+      "name": "Farm Maschine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122843981,
+      "name": "Point Bland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91775723,
+      "name": "Kraza Lenister",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96651183,
+      "name": "Weirdoll",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 645134875,
+      "name": "Deathington",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lonel Iness",
+  "corporation_id": 98732640,
+  "alliance_id": null,
+  "corporation_name": "Isti sunt quos elegit",
+  "alliance_name": null
+}

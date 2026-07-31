@@ -1,0 +1,40 @@
+{
+  "character_id": 182833890,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 359835084,
+    "name": "Mysterious Agent",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 359835084,
+      "name": "Mysterious Agent",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wyrmrider",
+  "corporation_id": 349567985,
+  "alliance_id": 1988009451,
+  "corporation_name": "The Legion of Spoon",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

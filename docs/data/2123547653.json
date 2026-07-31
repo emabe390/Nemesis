@@ -1,0 +1,34 @@
+{
+  "character_id": 2123547653,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121208481,
+    "name": "orieman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98698983,
+    "alliance_id": 99012122,
+    "corporation_name": "Scan Stakan",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 2121208481,
+      "name": "orieman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118482820,
+      "name": "Major Lee Depressed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xoph Embers",
+  "corporation_id": 98492180,
+  "alliance_id": 99010468,
+  "corporation_name": "Heavenly Armament Pavilion",
+  "alliance_name": "Weapons Of Mass Production."
+}

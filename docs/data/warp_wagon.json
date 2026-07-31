@@ -1,0 +1,52 @@
+{
+  "character_id": 2123816560,
+  "total_losses": 119,
+  "unique_killers": 103,
+  "nemesis": {
+    "id": 2118367568,
+    "name": "Claire Lightning Farron",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98663556,
+    "alliance_id": 99005601,
+    "corporation_name": "ST Borg",
+    "alliance_name": "Rainbow Knights"
+  },
+  "top_killers": [
+    {
+      "id": 2118367568,
+      "name": "Claire Lightning Farron",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2121731478,
+      "name": "The Ship's Computer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90086332,
+      "name": "Tony Patterson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93993796,
+      "name": "Sarin Vyr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Warp Wagon",
+  "corporation_id": 98444728,
+  "alliance_id": null,
+  "corporation_name": "Wandering Dreams",
+  "alliance_name": null
+}

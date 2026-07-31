@@ -1,0 +1,52 @@
+{
+  "character_id": 90754926,
+  "total_losses": 25,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1649288468,
+    "name": "John Zoltan",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 1000006,
+    "alliance_id": null,
+    "corporation_name": "Deep Core Mining Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1649288468,
+      "name": "John Zoltan",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 559883966,
+      "name": "ceyriot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118421038,
+      "name": "Ascia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anja Ward",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

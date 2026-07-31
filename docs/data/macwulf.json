@@ -1,0 +1,40 @@
+{
+  "character_id": 2123501532,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96707746,
+    "name": "Pollot Mattyu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778639,
+    "alliance_id": 99013723,
+    "corporation_name": "Firma Kasallek",
+    "alliance_name": "Dienstleistungen Kasallek"
+  },
+  "top_killers": [
+    {
+      "id": 96707746,
+      "name": "Pollot Mattyu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2037329567,
+      "name": "HardTrue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123158257,
+      "name": "Accalaurie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MacWulf",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

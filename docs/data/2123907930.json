@@ -1,0 +1,40 @@
+{
+  "character_id": 2123907930,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91078475,
+    "name": "Adam Lees",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91078475,
+      "name": "Adam Lees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122730568,
+      "name": "Lagtrain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sav Desi",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

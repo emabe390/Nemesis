@@ -1,0 +1,52 @@
+{
+  "character_id": 2121701076,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3020075,
+    "name": "Phylarch Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 1563496078,
+      "name": "low26",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96471767,
+      "name": "Kyo Yoichi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 541065425,
+      "name": "F3ARL3SSx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DeathMagnet",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

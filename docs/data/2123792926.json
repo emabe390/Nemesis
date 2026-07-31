@@ -1,0 +1,40 @@
+{
+  "character_id": 2123792926,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119320060,
+    "name": "P-110",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98735960,
+    "alliance_id": 1900696668,
+    "corporation_name": "Solar Meta",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2119320060,
+      "name": "P-110",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123216440,
+      "name": "Thunderch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123267624,
+      "name": "Character 2123267624",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omae Erata",
+  "corporation_id": 98735960,
+  "alliance_id": 1900696668,
+  "corporation_name": "Solar Meta",
+  "alliance_name": "The Initiative."
+}

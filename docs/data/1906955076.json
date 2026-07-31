@@ -1,0 +1,52 @@
+{
+  "character_id": 1906955076,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95571202,
+      "name": "Bombali KARPUZ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113095057,
+      "name": "NOSE RED MY",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118661008,
+      "name": "Kariwa Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Admiral Obvious",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

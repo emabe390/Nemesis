@@ -1,0 +1,52 @@
+{
+  "character_id": 2123653561,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 872311767,
+      "name": "Tetrocius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112962211,
+      "name": "Curtain Audene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113254182,
+      "name": "krab obichniy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114754155,
+      "name": "Suicidni Cheg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebastian Ebenthal",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124017750,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1859762827,
+    "name": "HagMc",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98505874,
+    "alliance_id": null,
+    "corporation_name": "0VERHEAT",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1859762827,
+      "name": "HagMc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122234314,
+      "name": "Brian Pigeon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122419002,
+      "name": "James Halver",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hajala Oksaras",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

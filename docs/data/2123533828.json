@@ -1,0 +1,40 @@
+{
+  "character_id": 2123533828,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95497451,
+    "name": "Fen Frimon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98693541,
+    "alliance_id": 99012161,
+    "corporation_name": "Take this...",
+    "alliance_name": "SHOULD NOT EXPLODE..."
+  },
+  "top_killers": [
+    {
+      "id": 95497451,
+      "name": "Fen Frimon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123559879,
+      "name": "ManWithName",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92154651,
+      "name": "jack Chipri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DonRicardas",
+  "corporation_id": 1432288999,
+  "alliance_id": null,
+  "corporation_name": "Independent treasure hunters",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123627436,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1987078888,
+    "name": "Erodice",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1001562011,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sturmgrenadier Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1987078888,
+      "name": "Erodice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112571065,
+      "name": "Superion Maximus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113203796,
+      "name": "CTAPYXA Shapoklyak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117263172,
+      "name": "Airoux Cras Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LaoHuangMaoPlus",
+  "corporation_id": 98524084,
+  "alliance_id": 99003581,
+  "corporation_name": "Chi Gua",
+  "alliance_name": "Fraternity."
+}

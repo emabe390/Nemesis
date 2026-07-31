@@ -1,0 +1,52 @@
+{
+  "character_id": 2112436111,
+  "total_losses": 26,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123204379,
+    "name": "Sarah Kerrigan Louise",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98810688,
+    "alliance_id": null,
+    "corporation_name": "Void Dealers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123204379,
+      "name": "Sarah Kerrigan Louise",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123753003,
+      "name": "Jessica Atreides Dama",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123972070,
+      "name": "Imperator Furiosa Theron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91425455,
+      "name": "Johny Tomala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rexinius Wilkinsonia",
+  "corporation_id": 98773560,
+  "alliance_id": null,
+  "corporation_name": "Anoikis Security Solutions",
+  "alliance_name": null
+}

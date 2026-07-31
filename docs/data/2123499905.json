@@ -1,0 +1,52 @@
+{
+  "character_id": 2123499905,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 91662546,
+    "name": "Zip Slings",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98660859,
+    "alliance_id": 99009902,
+    "corporation_name": "SCI Zenith",
+    "alliance_name": "Flying Dangerous"
+  },
+  "top_killers": [
+    {
+      "id": 91662546,
+      "name": "Zip Slings",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1486100897,
+      "name": "Dendarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120064783,
+      "name": "Ruzik Ruzichaves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90146672,
+      "name": "Khermes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91172788,
+      "name": "Orion Imperator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morn Vex",
+  "corporation_id": 98833221,
+  "alliance_id": null,
+  "corporation_name": "Grumpy Geezers",
+  "alliance_name": null
+}

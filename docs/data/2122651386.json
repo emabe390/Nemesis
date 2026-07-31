@@ -1,0 +1,40 @@
+{
+  "character_id": 2122651386,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 458024811,
+    "name": "Goeller",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98480589,
+    "alliance_id": null,
+    "corporation_name": "Magister Mortalis.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 458024811,
+      "name": "Goeller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 473809315,
+      "name": "Zymyz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122600280,
+      "name": "Rhogar Prince",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cote D'Or",
+  "corporation_id": 1001562011,
+  "alliance_id": 99005338,
+  "corporation_name": "Sturmgrenadier Inc",
+  "alliance_name": "Pandemic Horde"
+}

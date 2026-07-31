@@ -1,0 +1,52 @@
+{
+  "character_id": 2119294216,
+  "total_losses": 30,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90003504,
+    "name": "Moodell",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98701142,
+    "alliance_id": null,
+    "corporation_name": "DO.IT",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90003504,
+      "name": "Moodell",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 93632869,
+      "name": "TYxUSMC",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2112280730,
+      "name": "Horo WiseUa",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94320724,
+      "name": "Jamie Dosia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 728663510,
+      "name": "DrMaddog",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Squire of Hammer",
+  "corporation_id": 98751535,
+  "alliance_id": 1354830081,
+  "corporation_name": "Consortium Blazing",
+  "alliance_name": "Goonswarm Federation"
+}

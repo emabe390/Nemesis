@@ -1,0 +1,52 @@
+{
+  "character_id": 2123403626,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 95277885,
+    "name": "Mark Bridges",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 220243444,
+    "alliance_id": 551692893,
+    "corporation_name": "Genos Occidere",
+    "alliance_name": "HYDRA RELOADED"
+  },
+  "top_killers": [
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1506758015,
+      "name": "Pothakos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96364479,
+      "name": "Vulynd",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 162633181,
+      "name": "Coolun' Dar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hans Palpatine",
+  "corporation_id": 98678069,
+  "alliance_id": 1042504553,
+  "corporation_name": "Hastings Militia",
+  "alliance_name": "Solyaris Chtonium"
+}

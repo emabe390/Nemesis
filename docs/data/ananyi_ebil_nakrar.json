@@ -1,0 +1,40 @@
+{
+  "character_id": 2123802648,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114014165,
+    "name": "Lilith Shin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754011,
+    "alliance_id": 99013766,
+    "corporation_name": "Laddexperten",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2114014165,
+      "name": "Lilith Shin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93117280,
+      "name": "Trinity Raoul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94379528,
+      "name": "Timothy Baldur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ananyi Ebil Nakrar",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

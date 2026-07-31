@@ -1,0 +1,40 @@
+{
+  "character_id": 2122148407,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 433219475,
+    "name": "Nickiris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1001562011,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sturmgrenadier Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 433219475,
+      "name": "Nickiris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 645134875,
+      "name": "Deathington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122516233,
+      "name": "TZhongBomb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tebas Hamilton",
+  "corporation_id": 98500968,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cuervos Imperiales",
+  "alliance_name": "Goonswarm Federation"
+}

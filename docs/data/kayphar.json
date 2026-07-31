@@ -1,0 +1,52 @@
+{
+  "character_id": 2123827224,
+  "total_losses": 52,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 2123528352,
+    "name": "Eudaimon Eorzea",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98768225,
+    "alliance_id": 99014027,
+    "corporation_name": "Fast Rabbits at Play",
+    "alliance_name": "People's Liberation Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123528352,
+      "name": "Eudaimon Eorzea",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1020130539,
+      "name": "White Drop",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90105498,
+      "name": "Lauhees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95527904,
+      "name": "Siegmeyer Hearthfield",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 392247734,
+      "name": "X7000",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kayphar",
+  "corporation_id": 98813371,
+  "alliance_id": null,
+  "corporation_name": "Korwa Heavy Industries",
+  "alliance_name": null
+}

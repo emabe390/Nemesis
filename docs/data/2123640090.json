@@ -1,0 +1,40 @@
+{
+  "character_id": 2123640090,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1361264180,
+    "name": "Black Punisher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98493910,
+    "alliance_id": null,
+    "corporation_name": "0neManArmy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1361264180,
+      "name": "Black Punisher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116141465,
+      "name": "Brainzzo Daniels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123035973,
+      "name": "Missy L Boom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nena Zateki",
+  "corporation_id": 98727604,
+  "alliance_id": null,
+  "corporation_name": "BasementDwellers INC.",
+  "alliance_name": null
+}

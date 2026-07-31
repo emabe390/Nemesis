@@ -1,0 +1,52 @@
+{
+  "character_id": 2123564327,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 764643376,
+    "name": "Sisko Urso",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1610970612,
+    "alliance_id": 99010325,
+    "corporation_name": "Rage For Order",
+    "alliance_name": "Patchwork Freelancers"
+  },
+  "top_killers": [
+    {
+      "id": 764643376,
+      "name": "Sisko Urso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123994963,
+      "name": "KARMA'S REVENGE 2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124001636,
+      "name": "KARMA'S REVENGE 11",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124064683,
+      "name": "KARMA'S REVENGE 25",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124067162,
+      "name": "KARMA'S REVENGE 24",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "scout s",
+  "corporation_id": 98805629,
+  "alliance_id": null,
+  "corporation_name": "Clon corporation",
+  "alliance_name": null
+}

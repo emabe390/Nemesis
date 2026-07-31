@@ -1,0 +1,46 @@
+{
+  "character_id": 2123234599,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92019699,
+    "name": "Lamark Ingram",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 851039688,
+    "alliance_id": 99009845,
+    "corporation_name": "Percussive Diplomacy",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 92019699,
+      "name": "Lamark Ingram",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92561675,
+      "name": "Xanderfall Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "M-A-G-N-A-T",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123950670,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118753900,
+    "name": "Father Osip",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630992,
+    "alliance_id": null,
+    "corporation_name": "Dream RuCorp inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118753900,
+      "name": "Father Osip",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91923741,
+      "name": "Gui Ghekon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96944470,
+      "name": "Grumpy Walrus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ugolek Hlebov",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

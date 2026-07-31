@@ -1,0 +1,40 @@
+{
+  "character_id": 2115224962,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115222198,
+    "name": "Lea Feacon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 744976238,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mine 'N' Refine",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115222198,
+      "name": "Lea Feacon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115224960,
+      "name": "Lea Angsthase",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115224972,
+      "name": "Lea Kaempferin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lea Kracher",
+  "corporation_id": 744976238,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mine 'N' Refine",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 92365255,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117518049,
+    "name": "Michael Marsh",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98744491,
+    "alliance_id": 99013330,
+    "corporation_name": "URSA PRIMUS",
+    "alliance_name": "URSA."
+  },
+  "top_killers": [
+    {
+      "id": 2117518049,
+      "name": "Michael Marsh",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93176064,
+      "name": "serega birukov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112933598,
+      "name": "Kros Oran",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harshemish Shamshir",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

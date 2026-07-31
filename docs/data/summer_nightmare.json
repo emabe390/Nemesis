@@ -1,0 +1,52 @@
+{
+  "character_id": 2112854935,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96510069,
+      "name": "Ayaneru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114166395,
+      "name": "Good Omenz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Summer Nightmare",
+  "corporation_id": 98800867,
+  "alliance_id": 99014187,
+  "corporation_name": "ZER0P0INT",
+  "alliance_name": "Dawn's Light"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 90558098,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 683161180,
+      "name": "Xiles Eilop",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118238797,
+      "name": "Evifreyalp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JimBob Bazooka",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

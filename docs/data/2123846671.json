@@ -1,0 +1,46 @@
+{
+  "character_id": 2123846671,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119897699,
+    "name": "Kaptain Ahab",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 731205503,
+    "alliance_id": 99014193,
+    "corporation_name": "Brotherhood of Wolves",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 2119897699,
+      "name": "Kaptain Ahab",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92575485,
+      "name": "Takeda Shindo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120526962,
+      "name": "Nova Llethanyla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Studderwinks",
+  "corporation_id": 98743131,
+  "alliance_id": 99012781,
+  "corporation_name": "ARC Security",
+  "alliance_name": "I Showed You My Probes... Please Respond..."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123554683,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1619592380,
+    "name": "John Braxton",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1619592380,
+      "name": "John Braxton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1777714132,
+      "name": "Death Eagle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118457057,
+      "name": "Jailmate",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maballe Rotineque",
+  "corporation_id": 98807306,
+  "alliance_id": 99014221,
+  "corporation_name": "Cockroaches Inc.",
+  "alliance_name": "Weapons of Mass Logistics"
+}

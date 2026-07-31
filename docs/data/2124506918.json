@@ -1,0 +1,40 @@
+{
+  "character_id": 2124506918,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113160013,
+    "name": "Elcuaz Otsito",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98694805,
+    "alliance_id": 99003581,
+    "corporation_name": "Spectrum.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113160013,
+      "name": "Elcuaz Otsito",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116814124,
+      "name": "Pos Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120395384,
+      "name": "Muzanin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "HierophantHeal",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

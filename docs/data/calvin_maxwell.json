@@ -1,0 +1,34 @@
+{
+  "character_id": 2123923205,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1375142084,
+    "name": "Johnny Rah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113013879,
+      "name": "Britt Trin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Calvin Maxwell",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

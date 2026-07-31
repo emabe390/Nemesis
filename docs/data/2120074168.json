@@ -1,0 +1,52 @@
+{
+  "character_id": 2120074168,
+  "total_losses": 17,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 822515395,
+    "name": "Nammo",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2114969276,
+      "name": "Jason Yusi",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94882943,
+      "name": "Diablo's Gamekeeper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90787958,
+      "name": "Jim Specter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SA Bandit",
+  "corporation_id": 98822008,
+  "alliance_id": null,
+  "corporation_name": "Star Fleet Productions Academy",
+  "alliance_name": null
+}

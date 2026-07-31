@@ -1,0 +1,52 @@
+{
+  "character_id": 2123727363,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1057180574,
+    "name": "Ragnar STS",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1756190249,
+    "alliance_id": 701459600,
+    "corporation_name": "Arcane Odyssey",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 1057180574,
+      "name": "Ragnar STS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 542322221,
+      "name": "Xen Kira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1385005416,
+      "name": "Nailandi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120779342,
+      "name": "Trade Hub Camper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123453635,
+      "name": "Sendori Kingdom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Domind",
+  "corporation_id": 98673913,
+  "alliance_id": null,
+  "corporation_name": "47 Commando",
+  "alliance_name": null
+}

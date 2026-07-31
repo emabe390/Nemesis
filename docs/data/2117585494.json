@@ -1,0 +1,52 @@
+{
+  "character_id": 2117585494,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118798113,
+    "name": "SuperProwler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98708076,
+    "alliance_id": null,
+    "corporation_name": "CONTROL.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112412596,
+      "name": "Rayvn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114013859,
+      "name": "n1tsuj",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114350216,
+      "name": "Seb Odessa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116970673,
+      "name": "Mortis Osket",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tiberius Bactii",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

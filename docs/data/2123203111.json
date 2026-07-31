@@ -1,0 +1,52 @@
+{
+  "character_id": 2123203111,
+  "total_losses": 45,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 332688972,
+    "name": "Meinah",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98830650,
+    "alliance_id": null,
+    "corporation_name": "Gistii Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 332688972,
+      "name": "Meinah",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95916194,
+      "name": "Stabby McstabStabb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 125937472,
+      "name": "Amaddox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1656848294,
+      "name": "Altaen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kazar Raz",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

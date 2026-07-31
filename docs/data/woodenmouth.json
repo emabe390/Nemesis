@@ -1,0 +1,46 @@
+{
+  "character_id": 2121308010,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 552357022,
+    "name": "DoubleAught Buck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769211,
+    "alliance_id": 99011223,
+    "corporation_name": "Yamato Tech Solutions",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 552357022,
+      "name": "DoubleAught Buck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 557980461,
+      "name": "Tar esh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124302913,
+      "name": "Crimson Megumin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WoodenMouth",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

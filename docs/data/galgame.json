@@ -1,0 +1,46 @@
+{
+  "character_id": 2121517679,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95916194,
+      "name": "Stabby McstabStabb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96548190,
+      "name": "You Got Dunked",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121404417,
+      "name": "Smash Void",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Galgame",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

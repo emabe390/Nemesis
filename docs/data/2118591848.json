@@ -1,0 +1,52 @@
+{
+  "character_id": 2118591848,
+  "total_losses": 29,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2118277218,
+    "name": "Geriana",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98660292,
+    "alliance_id": 99012982,
+    "corporation_name": "Jump 2 Beacon",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 2118277218,
+      "name": "Geriana",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90520720,
+      "name": "Imiptat Ore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91736689,
+      "name": "Vcing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Evostao",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123959919,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 275909629,
+    "name": "Ira Warwick",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98583746,
+    "alliance_id": null,
+    "corporation_name": "Bad and Dumb",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 275909629,
+      "name": "Ira Warwick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1712179530,
+      "name": "Her Tom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122751609,
+      "name": "Tin Ukai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Void Annihilator",
+  "corporation_id": 98541758,
+  "alliance_id": null,
+  "corporation_name": "Emperor's Medical Corporation",
+  "alliance_name": null
+}

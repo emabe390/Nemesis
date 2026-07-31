@@ -1,0 +1,52 @@
+{
+  "character_id": 2115400431,
+  "total_losses": 33,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 93610621,
+    "name": "Kerrghann",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98616777,
+    "alliance_id": null,
+    "corporation_name": "Orange Team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93610621,
+      "name": "Kerrghann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 486490772,
+      "name": "candlelight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92883990,
+      "name": "Jeni Quado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93931319,
+      "name": "Tumeteus Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joshua Kurvore",
+  "corporation_id": 98631594,
+  "alliance_id": 99009845,
+  "corporation_name": "Sons of Seyllin",
+  "alliance_name": "Sedition."
+}

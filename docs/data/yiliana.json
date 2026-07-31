@@ -1,0 +1,52 @@
+{
+  "character_id": 92374001,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95102096,
+      "name": "Tornchip Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 838844714,
+      "name": "Calrissian Lando",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yiliana",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

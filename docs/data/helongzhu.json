@@ -1,0 +1,52 @@
+{
+  "character_id": 2123588013,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 96867567,
+    "name": "Meeku",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96867567,
+      "name": "Meeku",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92634114,
+      "name": "Korp Slav",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92698733,
+      "name": "Oglin Drou",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94410305,
+      "name": "Rebecca Rackner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94697858,
+      "name": "Mariola Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Helongzhu",
+  "corporation_id": 98808287,
+  "alliance_id": null,
+  "corporation_name": "State Peace Corporation",
+  "alliance_name": null
+}

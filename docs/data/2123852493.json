@@ -1,0 +1,52 @@
+{
+  "character_id": 2123852493,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114432219,
+    "name": "Anri Sunji",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747370,
+    "alliance_id": null,
+    "corporation_name": "AI Akedia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114432219,
+      "name": "Anri Sunji",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123628709,
+      "name": "Dankangle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92770445,
+      "name": "Boo Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1079691556,
+      "name": "Korgoroth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dark Phono",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

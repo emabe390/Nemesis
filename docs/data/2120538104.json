@@ -1,0 +1,40 @@
+{
+  "character_id": 2120538104,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 732859954,
+    "name": "Rotten Ralph",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 732859954,
+      "name": "Rotten Ralph",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93730509,
+      "name": "Character 93730509",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ron Molan",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

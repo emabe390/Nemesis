@@ -1,0 +1,46 @@
+{
+  "character_id": 91400490,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90194101,
+    "name": "Jekktarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 557199155,
+    "alliance_id": 99011223,
+    "corporation_name": "The New Federation",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 90194101,
+      "name": "Jekktarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94692177,
+      "name": "Zedicus Zoranda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97238193,
+      "name": "Reeko Jameson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116941046,
+      "name": "Ermintrude Viliana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jim Kring",
+  "corporation_id": 98813156,
+  "alliance_id": null,
+  "corporation_name": "Bunpew",
+  "alliance_name": null
+}

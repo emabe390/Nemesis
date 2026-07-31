@@ -1,0 +1,52 @@
+{
+  "character_id": 2120885514,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94650092,
+      "name": "electus cosmos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113027115,
+      "name": "Rudie DeNiro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113270573,
+      "name": "Joey Belvar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ClassicHutch",
+  "corporation_id": 98822344,
+  "alliance_id": null,
+  "corporation_name": "Newbro Industries",
+  "alliance_name": null
+}

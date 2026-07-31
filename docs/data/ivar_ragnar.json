@@ -1,0 +1,40 @@
+{
+  "character_id": 2123675019,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112492533,
+    "name": "Hayes Armada",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98624451,
+    "alliance_id": null,
+    "corporation_name": "Sapphire Sinai",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112492533,
+      "name": "Hayes Armada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121563019,
+      "name": "Perpetual Drunk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ivar Ragnar",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

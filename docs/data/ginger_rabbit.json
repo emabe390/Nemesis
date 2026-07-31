@@ -1,0 +1,46 @@
+{
+  "character_id": 2123601784,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93978834,
+    "name": "Euthymius Sagetus Remak",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 93978834,
+      "name": "Euthymius Sagetus Remak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112736867,
+      "name": "Higgins Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123898497,
+      "name": "Blueprint Research 10-2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ginger Rabbit",
+  "corporation_id": 98809312,
+  "alliance_id": null,
+  "corporation_name": "Nuclear Rabbits",
+  "alliance_name": null
+}

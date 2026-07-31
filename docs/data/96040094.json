@@ -1,0 +1,52 @@
+{
+  "character_id": 96040094,
+  "total_losses": 49,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94049521,
+      "name": "Heloqt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116443854,
+      "name": "GaiusOctavius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91251672,
+      "name": "Tristan daCuhna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gidian Cox",
+  "corporation_id": 98442405,
+  "alliance_id": 99011978,
+  "corporation_name": "The New Eden Yacht Club",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

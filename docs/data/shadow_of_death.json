@@ -1,0 +1,34 @@
+{
+  "character_id": 2123664544,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 163107273,
+    "name": "ManOfEve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98700073,
+    "alliance_id": 99012021,
+    "corporation_name": "Pasika.UA",
+    "alliance_name": "UA Fleets"
+  },
+  "top_killers": [
+    {
+      "id": 163107273,
+      "name": "ManOfEve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1075598849,
+      "name": "Character 1075598849",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadow-of-death",
+  "corporation_id": 98795918,
+  "alliance_id": null,
+  "corporation_name": "001Archer Corporation",
+  "alliance_name": null
+}

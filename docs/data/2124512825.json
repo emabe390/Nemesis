@@ -1,0 +1,46 @@
+{
+  "character_id": 2124512825,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113173383,
+    "name": "Kate Thunderbolt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98523980,
+    "alliance_id": 99005034,
+    "corporation_name": "Die Betrunkene Auster",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 2113173383,
+      "name": "Kate Thunderbolt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93048902,
+      "name": "Tejar Naari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113421823,
+      "name": "Ket Attor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118566810,
+      "name": "Odhi Sat Marstolt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Her Brandon",
+  "corporation_id": 98837904,
+  "alliance_id": null,
+  "corporation_name": "OLBH",
+  "alliance_name": null
+}

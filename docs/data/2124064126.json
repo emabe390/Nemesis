@@ -1,0 +1,46 @@
+{
+  "character_id": 2124064126,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95417620,
+    "name": "Raydon Riggs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008663,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Angels Constructions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95417620,
+      "name": "Raydon Riggs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 878340150,
+      "name": "Zodaeus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1895674791,
+      "name": "Isaac Morrie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123167706,
+      "name": "Ichka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sheperd Amarr",
+  "corporation_id": 98823806,
+  "alliance_id": null,
+  "corporation_name": "Gold Eagle Corporation",
+  "alliance_name": null
+}

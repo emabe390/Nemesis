@@ -1,0 +1,34 @@
+{
+  "character_id": 2123836332,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116013506,
+    "name": "Junia Krogsard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98672533,
+    "alliance_id": 99005393,
+    "corporation_name": "BrainBox",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 2116013506,
+      "name": "Junia Krogsard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120680059,
+      "name": "excesdezel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Max Amarria",
+  "corporation_id": 98816037,
+  "alliance_id": null,
+  "corporation_name": "Tactical Academy",
+  "alliance_name": null
+}

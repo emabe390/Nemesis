@@ -1,0 +1,46 @@
+{
+  "character_id": 2124023425,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121326722,
+    "name": "John Snow Aideron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765508,
+    "alliance_id": 99010079,
+    "corporation_name": "Stolen Goods Transport",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 2121326722,
+      "name": "John Snow Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90500669,
+      "name": "Dreadnaught X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120134881,
+      "name": "Mikamo Uta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123324022,
+      "name": "Griff McBiff",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sidijinn",
+  "corporation_id": 98823138,
+  "alliance_id": null,
+  "corporation_name": "SoloMineurSociety",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2114612979,
+  "total_losses": 17,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120108227,
+    "name": "R Jones",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120108227,
+      "name": "R Jones",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 92720359,
+      "name": "Kavoro Pel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1175533677,
+      "name": "high hitter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115450756,
+      "name": "Rigel Mirand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bubba Bigbite",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

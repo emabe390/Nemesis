@@ -1,0 +1,40 @@
+{
+  "character_id": 2123710217,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90738916,
+    "name": "Qshar Green",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 90738916,
+      "name": "Qshar Green",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114678829,
+      "name": "Killer Camorra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120176682,
+      "name": "Viona Ryder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Colm Wolfang",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

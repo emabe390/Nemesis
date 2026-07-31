@@ -1,0 +1,52 @@
+{
+  "character_id": 97157890,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 92666749,
+    "name": "Balthazar Rios",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 92666749,
+      "name": "Balthazar Rios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90447488,
+      "name": "Kiramati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92288265,
+      "name": "Zver Izvergovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94608723,
+      "name": "George Titanium",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leon Vivenosky",
+  "corporation_id": 98299671,
+  "alliance_id": 99008787,
+  "corporation_name": "Dark Chapter",
+  "alliance_name": "Transgress"
+}

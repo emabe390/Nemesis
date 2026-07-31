@@ -1,0 +1,40 @@
+{
+  "character_id": 2123840558,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 143294059,
+    "name": "KingRizen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 143294059,
+      "name": "KingRizen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121959468,
+      "name": "Ahb Squatch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92028851,
+      "name": "delilah brightblade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Midnight Fridge Raider",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123860429,
+  "total_losses": 12,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114170211,
+    "name": "Ajduk",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98544573,
+    "alliance_id": null,
+    "corporation_name": "Karabanana Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114170211,
+      "name": "Ajduk",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121270887,
+      "name": "SCP9400",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122716255,
+      "name": "Rushd",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ThirtySeconds",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

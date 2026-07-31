@@ -1,0 +1,34 @@
+{
+  "character_id": 2123633852,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122340771,
+    "name": "Brim Borion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118830252,
+      "name": "Mashi Rasou",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Super Jody",
+  "corporation_id": 98309152,
+  "alliance_id": null,
+  "corporation_name": "LickA LottA PuS",
+  "alliance_name": null
+}

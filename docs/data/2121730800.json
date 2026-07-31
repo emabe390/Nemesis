@@ -1,0 +1,40 @@
+{
+  "character_id": 2121730800,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91462111,
+    "name": "Artem Ice",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571108,
+    "alliance_id": 1900696668,
+    "corporation_name": "Siromanci",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91462111,
+      "name": "Artem Ice",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lisbeth Vontera",
+  "corporation_id": 98790080,
+  "alliance_id": null,
+  "corporation_name": "Rainbow Fleet",
+  "alliance_name": null
+}

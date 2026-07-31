@@ -1,0 +1,40 @@
+{
+  "character_id": 1904267536,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sia Brilliant",
+  "corporation_id": 98653383,
+  "alliance_id": null,
+  "corporation_name": "M Sky Steam",
+  "alliance_name": null
+}

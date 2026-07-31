@@ -1,0 +1,52 @@
+{
+  "character_id": 2123948726,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123694309,
+    "name": "WinterPursing",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123694309,
+      "name": "WinterPursing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94498581,
+      "name": "JoshBreezy Austrin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 853766296,
+      "name": "Aronad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 989163455,
+      "name": "Suiginryou Hitaiga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112048997,
+      "name": "Luk Psywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brojoe989",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 90462166,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124234953,
+    "name": "Infant Golem",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98819796,
+    "alliance_id": 99010240,
+    "corporation_name": "The Silver Wing",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 2124234953,
+      "name": "Infant Golem",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95382019,
+      "name": "tyr Olacar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 90462166",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

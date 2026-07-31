@@ -1,0 +1,40 @@
+{
+  "character_id": 2123725895,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123800119,
+    "name": "hudcer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 2123800119,
+      "name": "hudcer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 716844060,
+      "name": "Lord Noot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114649013,
+      "name": "grimaxemorpher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SBSman",
+  "corporation_id": 98806354,
+  "alliance_id": null,
+  "corporation_name": "FWW1988",
+  "alliance_name": null
+}

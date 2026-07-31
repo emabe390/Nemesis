@@ -1,0 +1,52 @@
+{
+  "character_id": 2121577843,
+  "total_losses": 27,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 95118860,
+    "name": "Charles Konrad",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98791369,
+    "alliance_id": null,
+    "corporation_name": "Sunshine Exchange",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95118860,
+      "name": "Charles Konrad",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2117902277,
+      "name": "Damien Rackham",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116150785,
+      "name": "Kanaad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Logs",
+  "corporation_id": 98640845,
+  "alliance_id": 99011277,
+  "corporation_name": "The Inf3cted",
+  "alliance_name": "Pathog3n"
+}

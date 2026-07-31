@@ -1,0 +1,52 @@
+{
+  "character_id": 2117252484,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 287894697,
+    "name": "Sir Lomax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98061445,
+    "alliance_id": 99006975,
+    "corporation_name": "Semper Ubi Sub Ubi",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 287894697,
+      "name": "Sir Lomax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122186544,
+      "name": "Revenge for Apple",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115238053,
+      "name": "Masami GameOn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116201497,
+      "name": "Skywalker H",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alessandro Volt",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

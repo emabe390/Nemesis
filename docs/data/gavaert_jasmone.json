@@ -1,0 +1,40 @@
+{
+  "character_id": 2123826504,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 433167098,
+    "name": "GrandCabronus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755123,
+    "alliance_id": 99010877,
+    "corporation_name": "13 CALAVERAS",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 433167098,
+      "name": "GrandCabronus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1744086255,
+      "name": "Kargath Ren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112850856,
+      "name": "Fiona Swee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gavaert Jasmone",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

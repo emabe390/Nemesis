@@ -1,0 +1,40 @@
+{
+  "character_id": 2123495659,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90107819,
+    "name": "Oxinome",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98818593,
+    "alliance_id": 99009845,
+    "corporation_name": "Bangzhu Cartel",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113237500,
+      "name": "EmperorVeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123495659",
+  "corporation_id": 98805647,
+  "alliance_id": null,
+  "corporation_name": "La Naiade",
+  "alliance_name": null
+}

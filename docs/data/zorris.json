@@ -1,0 +1,40 @@
+{
+  "character_id": 2121704128,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117647647,
+    "name": "Conrad von Stauffen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 2117647647,
+      "name": "Conrad von Stauffen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119692673,
+      "name": "Gray Epsy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119755816,
+      "name": "Surriis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zorris",
+  "corporation_id": 98798125,
+  "alliance_id": 99014106,
+  "corporation_name": "The K Corporation",
+  "alliance_name": "Snail Church"
+}

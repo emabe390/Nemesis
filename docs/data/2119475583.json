@@ -1,0 +1,52 @@
+{
+  "character_id": 2119475583,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1816417415,
+    "name": "MantelGlobalIndustries",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98585025,
+    "alliance_id": 99011883,
+    "corporation_name": "Nadire Security Consultants",
+    "alliance_name": "Federation Peacekeepers"
+  },
+  "top_killers": [
+    {
+      "id": 1816417415,
+      "name": "MantelGlobalIndustries",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94242769,
+      "name": "Dax StarRunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122541828,
+      "name": "Jonny Veco",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93868041,
+      "name": "Dmitriy Shevluga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96276080,
+      "name": "Major ZeR0",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PretorianClaw",
+  "corporation_id": 98807662,
+  "alliance_id": null,
+  "corporation_name": "Vaygr P",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123243408,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117721523,
+    "name": "Loose Mucus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117721523,
+      "name": "Loose Mucus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95524356,
+      "name": "ManiakBOX Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122011893,
+      "name": "Virstin Amelana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AtomWL",
+  "corporation_id": 98770220,
+  "alliance_id": 99007203,
+  "corporation_name": "POLAR ZEBRA",
+  "alliance_name": "Siberian Squads"
+}

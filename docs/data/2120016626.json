@@ -1,0 +1,40 @@
+{
+  "character_id": 2120016626,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119986854,
+    "name": "David Wooderson III",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777734,
+    "alliance_id": 99014377,
+    "corporation_name": "Wormhole Production Associates",
+    "alliance_name": "33 Year Old Men Rage Rolling On A Friday Night"
+  },
+  "top_killers": [
+    {
+      "id": 2119986854,
+      "name": "David Wooderson III",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122762049,
+      "name": "Airmanagild",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123533608,
+      "name": "Sixty Knots",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Keyser Spegier",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

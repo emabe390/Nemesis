@@ -1,0 +1,52 @@
+{
+  "character_id": 1565924835,
+  "total_losses": 35,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 884085686,
+    "name": "Tarkis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 884085686,
+      "name": "Tarkis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1998268475,
+      "name": "Nina Callari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90664204,
+      "name": "Daryn Moreau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91900089,
+      "name": "Edward Brodeur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92993708,
+      "name": "Huku Bartopolos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cursor Gnarus",
+  "corporation_id": 98280017,
+  "alliance_id": 99010877,
+  "corporation_name": "Into the Ether",
+  "alliance_name": "Out of the Blue."
+}

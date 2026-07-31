@@ -1,0 +1,40 @@
+{
+  "character_id": 2123666315,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 799693106,
+    "name": "N1r0",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98693239,
+    "alliance_id": 99013831,
+    "corporation_name": "Ventures Bar",
+    "alliance_name": "Sleeper Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 799693106,
+      "name": "N1r0",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115381887,
+      "name": "ghost shark Zhao",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116040110,
+      "name": "RayCM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zulluc",
+  "corporation_id": 98810904,
+  "alliance_id": null,
+  "corporation_name": "Lateral Movement",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2124512488,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90522015,
+    "name": "Hen Cerbin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98683208,
+    "alliance_id": 99007203,
+    "corporation_name": "RED HOT Team.",
+    "alliance_name": "Siberian Squads"
+  },
+  "top_killers": [
+    {
+      "id": 90522015,
+      "name": "Hen Cerbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96261127,
+      "name": "Starseeker Igunen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sandro Lek",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

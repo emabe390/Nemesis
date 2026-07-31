@@ -1,0 +1,52 @@
+{
+  "character_id": 2122712547,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96761545,
+    "name": "ScorchBomb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96761545,
+      "name": "ScorchBomb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120346524,
+      "name": "Omizto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91439239,
+      "name": "Kahless Monstrosity",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 595312219,
+      "name": "Young Guns",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1017918140,
+      "name": "Dead4ever",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ThereIsOnlyOne",
+  "corporation_id": 98834893,
+  "alliance_id": null,
+  "corporation_name": "DBR Corporation",
+  "alliance_name": null
+}

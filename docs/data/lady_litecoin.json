@@ -1,0 +1,40 @@
+{
+  "character_id": 2123061449,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124111248,
+    "name": "Xarasier Deninard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725367,
+    "alliance_id": 99014320,
+    "corporation_name": "Rift Watch",
+    "alliance_name": "Watchpoint"
+  },
+  "top_killers": [
+    {
+      "id": 2124111248,
+      "name": "Xarasier Deninard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lady litecoin",
+  "corporation_id": 98809017,
+  "alliance_id": null,
+  "corporation_name": "WOD Holdings",
+  "alliance_name": null
+}

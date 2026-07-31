@@ -1,0 +1,40 @@
+{
+  "character_id": 2124500078,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1836634574,
+    "name": "sherile",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98830006,
+    "alliance_id": 99014873,
+    "corporation_name": "Hel's Death Pact",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 1836634574,
+      "name": "sherile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90573671,
+      "name": "Salidin Uitoh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115915430,
+      "name": "Moong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Clark Harrison",
+  "corporation_id": 98834400,
+  "alliance_id": 99014668,
+  "corporation_name": "Andromeda.",
+  "alliance_name": "The Ravens' Nest"
+}

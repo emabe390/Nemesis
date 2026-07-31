@@ -1,0 +1,40 @@
+{
+  "character_id": 2123093318,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95609149,
+    "name": "shpees",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 95609149,
+      "name": "shpees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95669597,
+      "name": "RC Echerie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113388454,
+      "name": "I Gotchu Fam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EYE-TV Alis WH",
+  "corporation_id": 98779249,
+  "alliance_id": null,
+  "corporation_name": "Wormhole Riddle Space Universe",
+  "alliance_name": null
+}

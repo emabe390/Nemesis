@@ -1,0 +1,40 @@
+{
+  "character_id": 2122233390,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113583127,
+    "name": "Modern dwarf",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98813364,
+    "alliance_id": null,
+    "corporation_name": "Hysera kebab delivery",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113863420,
+      "name": "lake zhong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118367608,
+      "name": "Calen Kuo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astrid Rune Stormborn",
+  "corporation_id": 98752916,
+  "alliance_id": 99007252,
+  "corporation_name": "The Most Kind Corporation",
+  "alliance_name": "The Ancients."
+}

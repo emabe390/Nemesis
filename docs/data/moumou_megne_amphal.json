@@ -1,0 +1,40 @@
+{
+  "character_id": 2123777149,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91127751,
+    "name": "Character 91127751",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 91127751,
+      "name": "Character 91127751",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92196256,
+      "name": "Emily Sovereign",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122515371,
+      "name": "Alyssa Lothbrok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Moumou Megne Amphal",
+  "corporation_id": 98529600,
+  "alliance_id": null,
+  "corporation_name": "Clear And Present Threat",
+  "alliance_name": null
+}

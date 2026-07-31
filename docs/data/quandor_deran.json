@@ -1,0 +1,52 @@
+{
+  "character_id": 2123465213,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92420615,
+    "name": "Emotion Sasen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92420615,
+      "name": "Emotion Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94724473,
+      "name": "Strom Cohenberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 927473147,
+      "name": "Elijah Ghost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119554191,
+      "name": "Kanetena Bastanold",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119635638,
+      "name": "Speedy Billy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Quandor Deran",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

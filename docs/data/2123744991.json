@@ -1,0 +1,52 @@
+{
+  "character_id": 2123744991,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122709761,
+    "name": "shardio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2122709761,
+      "name": "shardio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95771165,
+      "name": "Arien Iluvitar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 298266759,
+      "name": "So Apropos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113180995,
+      "name": "ZZZzzzZZZ01",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113235593,
+      "name": "Turmin Driver",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "rcschnieds",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

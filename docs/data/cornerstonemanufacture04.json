@@ -1,0 +1,40 @@
+{
+  "character_id": 2123921063,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 906890510,
+    "name": "Gryphon Darkcloud",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 906890510,
+      "name": "Gryphon Darkcloud",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93075139,
+      "name": "Breenie Shi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122755669,
+      "name": "Enniko Beowulf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CornerstoneManufacture04",
+  "corporation_id": 98831758,
+  "alliance_id": null,
+  "corporation_name": "HuolaNoteHF",
+  "alliance_name": null
+}

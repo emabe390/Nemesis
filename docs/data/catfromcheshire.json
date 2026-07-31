@@ -1,0 +1,52 @@
+{
+  "character_id": 620836340,
+  "total_losses": 33,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 431466544,
+    "name": "Akva",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 431466544,
+      "name": "Akva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114482951,
+      "name": "Migget Boomtang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92189666,
+      "name": "Amiga Moja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92444983,
+      "name": "Motoko Cesaille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CATfromCheshire",
+  "corporation_id": 1000049,
+  "alliance_id": null,
+  "corporation_name": "Brutor Tribe",
+  "alliance_name": null
+}

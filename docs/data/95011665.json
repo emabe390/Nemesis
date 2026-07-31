@@ -1,0 +1,40 @@
+{
+  "character_id": 95011665,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123757668,
+      "name": "xAmerish",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hallance Gallows",
+  "corporation_id": 98495494,
+  "alliance_id": null,
+  "corporation_name": "Gallows Humor Trust",
+  "alliance_name": null
+}

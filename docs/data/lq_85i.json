@@ -1,0 +1,52 @@
+{
+  "character_id": 2112318364,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118380452,
+      "name": "Nanite lnterdictor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90053958,
+      "name": "HellrangerNL",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90804072,
+      "name": "Keran Raeigh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1341826722,
+      "name": "Rudzin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LQ-85i",
+  "corporation_id": 98660015,
+  "alliance_id": null,
+  "corporation_name": "Hidden Variables",
+  "alliance_name": null
+}

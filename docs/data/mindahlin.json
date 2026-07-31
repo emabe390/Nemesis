@@ -1,0 +1,40 @@
+{
+  "character_id": 2123873909,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123868112,
+    "name": "Kindahlin",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98694116,
+    "alliance_id": 99006260,
+    "corporation_name": "Investtan Inc.",
+    "alliance_name": "The Republic."
+  },
+  "top_killers": [
+    {
+      "id": 2123868112,
+      "name": "Kindahlin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91266835,
+      "name": "Jude71",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 322718659,
+      "name": "paul webster",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mindahlin",
+  "corporation_id": 98694116,
+  "alliance_id": 99006260,
+  "corporation_name": "Investtan Inc.",
+  "alliance_name": "The Republic."
+}

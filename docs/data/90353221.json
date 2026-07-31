@@ -1,0 +1,40 @@
+{
+  "character_id": 90353221,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1287498641,
+    "name": "Liz Aun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 1287498641,
+      "name": "Liz Aun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 171508321,
+      "name": "Black Tarrasque",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114842208,
+      "name": "McBalls Taint",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tosh Lazair",
+  "corporation_id": 98130289,
+  "alliance_id": null,
+  "corporation_name": "Shattered Legion",
+  "alliance_name": null
+}

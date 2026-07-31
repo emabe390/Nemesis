@@ -1,0 +1,52 @@
+{
+  "character_id": 2122364390,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115810723,
+    "name": "Takeda Oyamovich",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754516,
+    "alliance_id": null,
+    "corporation_name": "LifeInWormhole",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115810723,
+      "name": "Takeda Oyamovich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114517339,
+      "name": "Shadanakar Talie-Kuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119049912,
+      "name": "Bitch of blaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122187878,
+      "name": "Pablo Kalupablo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122364390",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

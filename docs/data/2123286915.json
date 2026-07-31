@@ -1,0 +1,52 @@
+{
+  "character_id": 2123286915,
+  "total_losses": 72,
+  "unique_killers": 54,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96035709,
+      "name": "Henning fon Holzendorf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1096248550,
+      "name": "Heinricci",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cago 2",
+  "corporation_id": 98723884,
+  "alliance_id": null,
+  "corporation_name": "W-space guardians",
+  "alliance_name": null
+}

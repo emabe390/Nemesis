@@ -1,0 +1,52 @@
+{
+  "character_id": 2123951168,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2120891490,
+    "name": "Victor Maitlan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1588647992,
+    "alliance_id": 99010240,
+    "corporation_name": "Xoth Inc",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 2120891490,
+      "name": "Victor Maitlan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 151814577,
+      "name": "Tauron Torres",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1210068557,
+      "name": "Scaeva",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1323840462,
+      "name": "Morrisimo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1692648515,
+      "name": "Elitist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NM1008",
+  "corporation_id": 98814875,
+  "alliance_id": 99013674,
+  "corporation_name": "OPA Free Navy",
+  "alliance_name": "Recklessly Tactical"
+}

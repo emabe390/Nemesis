@@ -1,0 +1,52 @@
+{
+  "character_id": 2123424462,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 951927133,
+    "name": "BigXot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 951927133,
+      "name": "BigXot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92231402,
+      "name": "Darkos Vas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95140992,
+      "name": "Lryxna Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95200119,
+      "name": "Flynn Webb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 652819965,
+      "name": "Robbed18",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aleksei Stajanov",
+  "corporation_id": 98751569,
+  "alliance_id": 99003581,
+  "corporation_name": "La Flota Carmesi",
+  "alliance_name": "Fraternity."
+}

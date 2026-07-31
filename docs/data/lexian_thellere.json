@@ -1,0 +1,34 @@
+{
+  "character_id": 2121411003,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2119064463,
+    "name": "Ouellence en Daire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98654335,
+    "alliance_id": 99003581,
+    "corporation_name": "Redamancy.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119064463,
+      "name": "Ouellence en Daire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123670532,
+      "name": "C'erebus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lexian Thellere",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

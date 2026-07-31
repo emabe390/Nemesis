@@ -1,0 +1,46 @@
+{
+  "character_id": 2123665579,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1152693550,
+    "name": "Hal9001",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98664779,
+    "alliance_id": 99014108,
+    "corporation_name": "Ignite My Insanity",
+    "alliance_name": "S0ns Of Anarchy"
+  },
+  "top_killers": [
+    {
+      "id": 1152693550,
+      "name": "Hal9001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 934231458,
+      "name": "K'att Sai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123562853,
+      "name": "Maja Bloodstorm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gauther23",
+  "corporation_id": 98694483,
+  "alliance_id": null,
+  "corporation_name": "Cockroaches of the Syndicate",
+  "alliance_name": null
+}

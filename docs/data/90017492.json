@@ -1,0 +1,40 @@
+{
+  "character_id": 90017492,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 204263288,
+    "name": "Lucifer Lichtbringer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98298343,
+    "alliance_id": 99010421,
+    "corporation_name": "Phantom Brigade Ger",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 311143333,
+      "name": "Robo Sapien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drogansu",
+  "corporation_id": 98799733,
+  "alliance_id": 498125261,
+  "corporation_name": "Drip Inc.",
+  "alliance_name": "Test Alliance Please Ignore"
+}

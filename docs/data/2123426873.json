@@ -1,0 +1,52 @@
+{
+  "character_id": 2123426873,
+  "total_losses": 45,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 90148098,
+    "name": "BRIMTAK",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94572188,
+      "name": "Blezk Yngstein Yahngschmitz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 888622103,
+      "name": "Yoshikawa Eveangelicon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "LUPINDOS",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

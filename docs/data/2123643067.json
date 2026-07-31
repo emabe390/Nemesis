@@ -1,0 +1,40 @@
+{
+  "character_id": 2123643067,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 467732195,
+    "name": "Mercurye",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98800389,
+    "alliance_id": null,
+    "corporation_name": "A Lone Trek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120048924,
+      "name": "Ghost Echo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saeko Keysarinn",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

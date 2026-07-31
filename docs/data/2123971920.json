@@ -1,0 +1,40 @@
+{
+  "character_id": 2123971920,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 335577668,
+    "name": "PredLaw",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 335577668,
+      "name": "PredLaw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1163209583,
+      "name": "Punch Bunny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1650116944,
+      "name": "B0ZziLLa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gyger",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 97063182,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90412667,
+    "name": "lupus nocens",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90412667,
+      "name": "lupus nocens",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93792345,
+      "name": "Alex Killmister",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113542340,
+      "name": "Nadezhda Kudryavtseva",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diana Volkova",
+  "corporation_id": 98752929,
+  "alliance_id": 99013673,
+  "corporation_name": "Equilibrium point",
+  "alliance_name": "Ukrainian Space Wolves"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122421634,
+  "total_losses": 30,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2122421229,
+    "name": "Metalizer Dominatus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122421229,
+      "name": "Metalizer Dominatus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 312168979,
+      "name": "Jah'bastah II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113167159,
+      "name": "hArD stRuKts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91127627,
+      "name": "Character 91127627",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maiden Dominatus",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123615787,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121237984,
+    "name": "Georgi Alpha Omega",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2121237984,
+      "name": "Georgi Alpha Omega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123615787,
+      "name": "Alter Ego Unknown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120203246,
+      "name": "Georgi Eve Online",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123099458,
+      "name": "Obscurity x0x",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alter Ego Unknown",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

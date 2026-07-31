@@ -1,0 +1,40 @@
+{
+  "character_id": 97076226,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90107819,
+    "name": "Oxinome",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98818593,
+    "alliance_id": 99009845,
+    "corporation_name": "Bangzhu Cartel",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113421565,
+      "name": "Zeth Marques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117370383,
+      "name": "Ronen Uitra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Randy Steel",
+  "corporation_id": 98483640,
+  "alliance_id": null,
+  "corporation_name": "Ravens Talon",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 95290465,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113012566,
+      "name": "SirDrillsAlot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113906405,
+      "name": "Late Altol",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Quazi Sane",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

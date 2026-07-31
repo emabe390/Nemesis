@@ -1,0 +1,52 @@
+{
+  "character_id": 2123307868,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1273901763,
+    "name": "Character 1273901763",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1273901763,
+      "name": "Character 1273901763",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1185432224,
+      "name": "eaer refta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90551005,
+      "name": "Alatar Rhun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116720124,
+      "name": "Blake Novax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121128379,
+      "name": "NCCIntrepid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SARD Silent Confessor",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

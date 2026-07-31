@@ -1,0 +1,40 @@
+{
+  "character_id": 2122079948,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121916605,
+    "name": "Jean Toussaint",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98325731,
+    "alliance_id": 1354830081,
+    "corporation_name": "Windrammers",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121916605,
+      "name": "Jean Toussaint",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94121111,
+      "name": "Corax Horax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1048929933,
+      "name": "spawnscum",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sasha Beckett",
+  "corporation_id": 98325731,
+  "alliance_id": 1354830081,
+  "corporation_name": "Windrammers",
+  "alliance_name": "Goonswarm Federation"
+}

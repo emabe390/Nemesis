@@ -1,0 +1,40 @@
+{
+  "character_id": 2123022444,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92851148,
+    "name": "Sweet Lane",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98746942,
+    "alliance_id": 99012021,
+    "corporation_name": "Nezlamni",
+    "alliance_name": "UA Fleets"
+  },
+  "top_killers": [
+    {
+      "id": 92851148,
+      "name": "Sweet Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95758665,
+      "name": "Dakar Freesky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117573348,
+      "name": "12we23",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ziak Draken",
+  "corporation_id": 98775617,
+  "alliance_id": null,
+  "corporation_name": "Comitia Centuriata",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 655170811,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 224846390,
+      "name": "Bluedagger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116648052,
+      "name": "Elder ElCapitan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122848944,
+      "name": "Chizya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cagulum",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

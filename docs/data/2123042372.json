@@ -1,0 +1,52 @@
+{
+  "character_id": 2123042372,
+  "total_losses": 152,
+  "unique_killers": 123,
+  "nemesis": {
+    "id": 95865832,
+    "name": "John Clemson",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98784883,
+    "alliance_id": 99015133,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "GOBLIN FLEET"
+  },
+  "top_killers": [
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96628834,
+      "name": "Gentle Vigilante",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 906890510,
+      "name": "Gryphon Darkcloud",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90396611,
+      "name": "Cola Knusper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92065141,
+      "name": "Character 92065141",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Collatelle Rin",
+  "corporation_id": 98790514,
+  "alliance_id": null,
+  "corporation_name": "United Nations of Earth",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 91052290,
+  "total_losses": 22,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90566318,
+      "name": "Avirik Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93773965,
+      "name": "Moonnie Aylet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95624485,
+      "name": "Dacheat Meltroni",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ra'Kel Alduin",
+  "corporation_id": 98770866,
+  "alliance_id": 99012303,
+  "corporation_name": "Wildcard Aerospace",
+  "alliance_name": "The Unwashed"
+}

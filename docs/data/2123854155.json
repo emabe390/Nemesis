@@ -1,0 +1,40 @@
+{
+  "character_id": 2123854155,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112640607,
+    "name": "Character 2112640607",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98019139,
+    "alliance_id": 1900696668,
+    "corporation_name": "Resilience.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112640607,
+      "name": "Character 2112640607",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113592792,
+      "name": "Bill B",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122915210,
+      "name": "Kanna Mercury",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kirlilen Purvanen",
+  "corporation_id": 98815929,
+  "alliance_id": null,
+  "corporation_name": "Azure's Bloody Revenge",
+  "alliance_name": null
+}

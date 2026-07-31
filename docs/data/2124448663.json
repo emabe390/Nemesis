@@ -1,0 +1,40 @@
+{
+  "character_id": 2124448663,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 672826810,
+    "name": "Pallustris",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 672826810,
+      "name": "Pallustris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 533904202,
+      "name": "ROB3RTOYFD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116565824,
+      "name": "ghostwayn destroyer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Griffiths",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

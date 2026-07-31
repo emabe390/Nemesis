@@ -1,0 +1,34 @@
+{
+  "character_id": 2124420693,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123454679,
+    "name": "AE 86",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815170,
+    "alliance_id": 99014017,
+    "corporation_name": "Knights of the Pink Claw",
+    "alliance_name": "Another- Heaven"
+  },
+  "top_killers": [
+    {
+      "id": 2123454679,
+      "name": "AE 86",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124112764,
+      "name": "Dax Morro",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "InfamousJoker",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

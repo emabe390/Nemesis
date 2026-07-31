@@ -1,0 +1,34 @@
+{
+  "character_id": 2118569994,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1404461682,
+    "name": "Maximus Corpus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1436543738,
+      "name": "Farthinder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anlan",
+  "corporation_id": 98626494,
+  "alliance_id": 99003581,
+  "corporation_name": "STARCHASER Inc",
+  "alliance_name": "Fraternity."
+}

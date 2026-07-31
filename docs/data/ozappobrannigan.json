@@ -1,0 +1,40 @@
+{
+  "character_id": 1487362811,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122518785,
+    "name": "Celestial Aquarius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777706,
+    "alliance_id": 99012282,
+    "corporation_name": "Interstellar Co-Evolution and Development",
+    "alliance_name": "Raravathian Mining and Logistics"
+  },
+  "top_killers": [
+    {
+      "id": 2122518785,
+      "name": "Celestial Aquarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145536783,
+      "name": "Vorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122518754,
+      "name": "Celestial Leo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OZappoBrannigan",
+  "corporation_id": 1778691513,
+  "alliance_id": null,
+  "corporation_name": "Deep Mining Inc.",
+  "alliance_name": null
+}

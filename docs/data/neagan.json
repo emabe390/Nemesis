@@ -1,0 +1,40 @@
+{
+  "character_id": 2124407269,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112542639,
+    "name": "Eva Mabuse",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98833552,
+    "alliance_id": null,
+    "corporation_name": "HIHO Industrial Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112542639,
+      "name": "Eva Mabuse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117202728,
+      "name": "Mary Gankins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124410587,
+      "name": "Thaddeus Cassian Renatus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neagan",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 94942483,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 166780428,
+    "name": "Leto Aramaus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98748934,
+    "alliance_id": 99015041,
+    "corporation_name": "Frog Team Four",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 166780428,
+      "name": "Leto Aramaus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121213907,
+      "name": "Flando Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122842943,
+      "name": "Beca Benito Juarez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 94942483",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

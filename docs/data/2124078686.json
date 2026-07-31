@@ -1,0 +1,52 @@
+{
+  "character_id": 2124078686,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 94737902,
+    "name": "Character 94737902",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98516868,
+    "alliance_id": null,
+    "corporation_name": "Camp Gatecamp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94737902,
+      "name": "Character 94737902",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95447119,
+      "name": "amelana Estidal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115443327,
+      "name": "9527 Shihari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 270556702,
+      "name": "Sir Howard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 736985155,
+      "name": "Himeko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mousewell",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

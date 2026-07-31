@@ -1,0 +1,40 @@
+{
+  "character_id": 2123745765,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96886197,
+    "name": "depeche mirage",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 495392624,
+    "alliance_id": 1900696668,
+    "corporation_name": "GeoCorp.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 96886197,
+      "name": "depeche mirage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 151283822,
+      "name": "Robert Griffen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113435868,
+      "name": "Derpbronc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anttjw",
+  "corporation_id": 98626718,
+  "alliance_id": 99009163,
+  "corporation_name": "Kuan.Dai.Shan",
+  "alliance_name": "Dracarys."
+}

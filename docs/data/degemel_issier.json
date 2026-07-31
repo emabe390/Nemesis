@@ -1,0 +1,40 @@
+{
+  "character_id": 2123142979,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120907599,
+    "name": "Karhan Eve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98067874,
+    "alliance_id": null,
+    "corporation_name": "Useless Idea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120907599,
+      "name": "Karhan Eve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116915572,
+      "name": "Echo-Nine Black Turinson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Degemel Issier",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

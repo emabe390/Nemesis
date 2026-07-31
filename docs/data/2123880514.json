@@ -1,0 +1,40 @@
+{
+  "character_id": 2123880514,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115840203,
+    "name": "Earth Wonder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1097611545,
+    "alliance_id": 99003581,
+    "corporation_name": "Light of the moon",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115840203,
+      "name": "Earth Wonder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1014392058,
+      "name": "Tunning",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kirikosto",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

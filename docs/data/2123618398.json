@@ -1,0 +1,46 @@
+{
+  "character_id": 2123618398,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91127838,
+    "name": "Character 91127838",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 851039688,
+    "alliance_id": 99009845,
+    "corporation_name": "Percussive Diplomacy",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 91127838,
+      "name": "Character 91127838",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91359918,
+      "name": "Kleen Enkook",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119589436,
+      "name": "Inori Shimazu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119702529,
+      "name": "Ayuri Shimazu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PG 13",
+  "corporation_id": 98750990,
+  "alliance_id": null,
+  "corporation_name": "New Eden Exploration and Uprising Syndicate",
+  "alliance_name": null
+}

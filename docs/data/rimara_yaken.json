@@ -1,0 +1,52 @@
+{
+  "character_id": 2121452429,
+  "total_losses": 45,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2112910807,
+    "name": "Drohach Yaken",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 1001562011,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sturmgrenadier Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112910807,
+      "name": "Drohach Yaken",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 2121435673,
+      "name": "Ainaa Yaken",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2116820206,
+      "name": "Elrydith Yaken",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2120234499,
+      "name": "Osiria Yaken",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1685027902,
+      "name": "Lady Nova",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rimara Yaken",
+  "corporation_id": 1001562011,
+  "alliance_id": 1900696668,
+  "corporation_name": "Sturmgrenadier Inc",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124201185,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115606649,
+    "name": "Carnivore 666",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98473189,
+    "alliance_id": 498125261,
+    "corporation_name": "Banda di Amici",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2115606649,
+      "name": "Carnivore 666",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120324508,
+      "name": "wuxiangshadiao",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "General-Chips",
+  "corporation_id": 98828537,
+  "alliance_id": null,
+  "corporation_name": "Fatui Harbingers",
+  "alliance_name": null
+}

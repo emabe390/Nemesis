@@ -1,0 +1,52 @@
+{
+  "character_id": 2123821253,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 93838156,
+    "name": "Abu Galia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695839,
+    "alliance_id": 99003214,
+    "corporation_name": "South Sun Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 93838156,
+      "name": "Abu Galia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95613024,
+      "name": "Corey Tungate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95877576,
+      "name": "Kurama T7",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113138194,
+      "name": "Strive",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115928904,
+      "name": "Feng Tsero",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lunar Gremlin",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

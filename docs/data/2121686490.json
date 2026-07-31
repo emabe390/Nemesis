@@ -1,0 +1,40 @@
+{
+  "character_id": 2121686490,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1615140423,
+    "name": "The Magnifico",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1615140423,
+      "name": "The Magnifico",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2066701073,
+      "name": "Maevert",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122424646,
+      "name": "MephystoCH",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Angry White",
+  "corporation_id": 98769199,
+  "alliance_id": 1042504553,
+  "corporation_name": "Shiv Wreckoning",
+  "alliance_name": "Solyaris Chtonium"
+}

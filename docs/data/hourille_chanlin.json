@@ -1,0 +1,52 @@
+{
+  "character_id": 2123926920,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2124020018,
+    "name": "Character 2124020018",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98520441,
+    "alliance_id": 99014524,
+    "corporation_name": "Blagging Lucidity",
+    "alliance_name": "Silhouettes."
+  },
+  "top_killers": [
+    {
+      "id": 2124020018,
+      "name": "Character 2124020018",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91014884,
+      "name": "Character 91014884",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91448410,
+      "name": "Rockfox Petras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92843535,
+      "name": "Vlad Alfrir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95165505,
+      "name": "Karl Rudolf Horse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hourille Chanlin",
+  "corporation_id": 98520441,
+  "alliance_id": 99014524,
+  "corporation_name": "Blagging Lucidity",
+  "alliance_name": "Silhouettes."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123794640,
+  "total_losses": 87,
+  "unique_killers": 72,
+  "nemesis": {
+    "id": 583637272,
+    "name": "H5N1ONE",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118033675,
+      "name": "GreenEyes",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96284103,
+      "name": "Ada Ali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96823023,
+      "name": "ALFACH",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "KoLoM",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123117473,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123011125,
+    "name": "Nuras Sugas Uchonela",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123011125,
+      "name": "Nuras Sugas Uchonela",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 497009078,
+      "name": "Jonas Brocker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 653015712,
+      "name": "Flaille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oliver Swanick",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

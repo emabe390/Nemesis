@@ -1,0 +1,40 @@
+{
+  "character_id": 2118445688,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116851891,
+    "name": "Muchchi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1063360566,
+    "alliance_id": 1354830081,
+    "corporation_name": "SUNDERING",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116851891,
+      "name": "Muchchi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119845481,
+      "name": "Zloyy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114613758,
+      "name": "Aleks Tiger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Merlin the Wise",
+  "corporation_id": 98678060,
+  "alliance_id": null,
+  "corporation_name": "The Dark Elixir",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123038075,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 930725828,
+    "name": "sarsa",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98820670,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladius Tenebris",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 930725828,
+      "name": "sarsa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117000394,
+      "name": "I Want YourThorax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118874405,
+      "name": "Mateo lex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zvartok",
+  "corporation_id": 98792175,
+  "alliance_id": null,
+  "corporation_name": "ZvarCorp",
+  "alliance_name": null
+}

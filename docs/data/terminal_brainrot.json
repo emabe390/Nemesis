@@ -1,0 +1,40 @@
+{
+  "character_id": 2123372236,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116291626,
+    "name": "Eva Starrchaser",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98745385,
+    "alliance_id": 99012544,
+    "corporation_name": "The God Hand.",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119703664,
+      "name": "Arato Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119964935,
+      "name": "aaye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Terminal Brainrot",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

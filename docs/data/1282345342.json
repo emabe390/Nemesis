@@ -1,0 +1,52 @@
+{
+  "character_id": 1282345342,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96121685,
+    "name": "Sven Schefske",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98717980,
+    "alliance_id": 99009972,
+    "corporation_name": "Kampfgruppe 37",
+    "alliance_name": "Black. Flag."
+  },
+  "top_killers": [
+    {
+      "id": 96121685,
+      "name": "Sven Schefske",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117305843,
+      "name": "Prince Seraghis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Matt Horner",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

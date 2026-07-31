@@ -1,0 +1,52 @@
+{
+  "character_id": 2123622747,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1083295334,
+    "name": "Omar Khmoeed",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190048,
+    "alliance_id": null,
+    "corporation_name": "The Sabbat",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1083295334,
+      "name": "Omar Khmoeed",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 570781835,
+      "name": "Vox Primus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94572188,
+      "name": "Blezk Yngstein Yahngschmitz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95041309,
+      "name": "Lamenoire Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 378736578,
+      "name": "Dion Wolf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kathlyn Marie",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

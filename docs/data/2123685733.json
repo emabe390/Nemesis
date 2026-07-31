@@ -1,0 +1,52 @@
+{
+  "character_id": 2123685733,
+  "total_losses": 83,
+  "unique_killers": 54,
+  "nemesis": {
+    "id": 95693711,
+    "name": "Pretty Vicious",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 95693711,
+      "name": "Pretty Vicious",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123947981,
+      "name": "Hrenyka",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93856334,
+      "name": "Aleister Carver",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ExoPoseidon",
+  "corporation_id": 98830326,
+  "alliance_id": null,
+  "corporation_name": "ExoBravo",
+  "alliance_name": null
+}

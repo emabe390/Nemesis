@@ -1,0 +1,52 @@
+{
+  "character_id": 2115555981,
+  "total_losses": 23,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2120563735,
+    "name": "Odon Skytrailer",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98765257,
+    "alliance_id": 99010079,
+    "corporation_name": "Sky Turkey Inc.",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 2120563735,
+      "name": "Odon Skytrailer",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115555981,
+      "name": "Odon Skycrusher",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93557872,
+      "name": "Kinkaky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94852072,
+      "name": "Pony Liitle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97112410,
+      "name": "Lelantos Olaf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Odon Skycrusher",
+  "corporation_id": 98765257,
+  "alliance_id": 99010079,
+  "corporation_name": "Sky Turkey Inc.",
+  "alliance_name": "Brave United"
+}

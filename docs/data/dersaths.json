@@ -1,0 +1,52 @@
+{
+  "character_id": 2123198595,
+  "total_losses": 88,
+  "unique_killers": 71,
+  "nemesis": {
+    "id": 1632820309,
+    "name": "Robert Harrison",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 349468365,
+    "alliance_id": 99010468,
+    "corporation_name": "Ronin Interstellar Industries",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 1632820309,
+      "name": "Robert Harrison",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92461109,
+      "name": "Lelanie Ramillion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94609028,
+      "name": "Das Hagen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95823863,
+      "name": "Francie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dersaths",
+  "corporation_id": 98815936,
+  "alliance_id": 99014974,
+  "corporation_name": "Vortex Union",
+  "alliance_name": "CapyFriends."
+}

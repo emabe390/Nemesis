@@ -1,0 +1,46 @@
+{
+  "character_id": 2123692470,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 421351341,
+      "name": "Naphelim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gonvius I",
+  "corporation_id": 98798932,
+  "alliance_id": 99013823,
+  "corporation_name": "Ore and Order",
+  "alliance_name": "Cat Scratch Fevers"
+}

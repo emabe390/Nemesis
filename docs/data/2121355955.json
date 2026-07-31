@@ -1,0 +1,52 @@
+{
+  "character_id": 2121355955,
+  "total_losses": 100,
+  "unique_killers": 80,
+  "nemesis": {
+    "id": 97036667,
+    "name": "Dr Sif",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 97036667,
+      "name": "Dr Sif",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2114867663,
+      "name": "Sebastian Tombs",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 90573427,
+      "name": "cryonox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 161089797,
+      "name": "Hidden Devil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 193099457,
+      "name": "RTSAvalanche",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sky Destroyer",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

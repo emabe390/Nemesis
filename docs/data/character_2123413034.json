@@ -1,0 +1,52 @@
+{
+  "character_id": 2123413034,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 974337790,
+    "name": "Yskari",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630705,
+    "alliance_id": 99014466,
+    "corporation_name": "Strix Ridens",
+    "alliance_name": "Strix Ridens."
+  },
+  "top_killers": [
+    {
+      "id": 974337790,
+      "name": "Yskari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1120051206,
+      "name": "Citinetty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1156155337,
+      "name": "IllusionOfFreedom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122263187,
+      "name": "Fauux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123413034",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

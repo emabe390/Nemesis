@@ -1,0 +1,52 @@
+{
+  "character_id": 2123204283,
+  "total_losses": 18,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 261269964,
+      "name": "Asgaurd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1687716435,
+      "name": "Zenra Va'Kur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118654807,
+      "name": "vants ducant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122075003,
+      "name": "Serhii Khors",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kenneth Pramfors",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

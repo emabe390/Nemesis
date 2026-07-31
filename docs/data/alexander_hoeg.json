@@ -1,0 +1,52 @@
+{
+  "character_id": 2123606894,
+  "total_losses": 48,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 1373971920,
+    "name": "Heinrich Hertz",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98807228,
+    "alliance_id": 99014873,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1905713025,
+      "name": "Avi Lee",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94067824,
+      "name": "Ellee Mae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113241444,
+      "name": "Cadhoit Ban",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121244277,
+      "name": "Unschuldige vom Lande",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alexander Hoeg",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

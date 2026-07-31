@@ -1,0 +1,34 @@
+{
+  "character_id": 2114548134,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116492009,
+    "name": "Pilu Arpo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98700086,
+    "alliance_id": 99008228,
+    "corporation_name": "Khazad-dum Industrial Services",
+    "alliance_name": "Pan-Intergalatic Business Community"
+  },
+  "top_killers": [
+    {
+      "id": 2116492009,
+      "name": "Pilu Arpo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122700636,
+      "name": "Jami Mlorok Milla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faradrim",
+  "corporation_id": 98575255,
+  "alliance_id": 99013981,
+  "corporation_name": "Dragon.",
+  "alliance_name": "Militant Consortium"
+}

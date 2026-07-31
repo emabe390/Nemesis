@@ -1,0 +1,52 @@
+{
+  "character_id": 2123490669,
+  "total_losses": 8,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 90240616,
+    "name": "Alice Anathema",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98251840,
+    "alliance_id": 99010421,
+    "corporation_name": "Beyond Remorse.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 90240616,
+      "name": "Alice Anathema",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90792047,
+      "name": "vardon Deninard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94421295,
+      "name": "LeRoy Rathbone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94920626,
+      "name": "Sulvy Udyr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MurderBot-703",
+  "corporation_id": 98806187,
+  "alliance_id": null,
+  "corporation_name": "Angel Risk Management",
+  "alliance_name": null
+}

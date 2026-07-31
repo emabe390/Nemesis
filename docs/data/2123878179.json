@@ -1,0 +1,40 @@
+{
+  "character_id": 2123878179,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113362878,
+    "name": "Mirja Molotow",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113362878,
+      "name": "Mirja Molotow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94563590,
+      "name": "Maatta Horvath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122558022,
+      "name": "MirrMIRT",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KaPa4a",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 395371403,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019604,
+    "name": "Cassandra Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 743054412,
+      "name": "Marcus Terani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121846839,
+      "name": "Mir Vsem Nam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rainbow Blade",
+  "corporation_id": 98804852,
+  "alliance_id": 99014101,
+  "corporation_name": "Blackstar Foundries",
+  "alliance_name": "Reckless Empire"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123559339,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94857233,
+    "name": "Dom Arkaral",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560834,
+    "alliance_id": 99010421,
+    "corporation_name": "Bannheim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 94857233,
+      "name": "Dom Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1201553453,
+      "name": "dalar guar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 183139135,
+      "name": "neovita",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "chicken miner",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

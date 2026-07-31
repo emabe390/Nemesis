@@ -1,0 +1,52 @@
+{
+  "character_id": 2123445550,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121998608,
+    "name": "Snauso",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 424525976,
+    "alliance_id": 99009927,
+    "corporation_name": "Criterion.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2121998608,
+      "name": "Snauso",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116147696,
+      "name": "Elhisia Skor",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Larius Rortial",
+  "corporation_id": 98814734,
+  "alliance_id": null,
+  "corporation_name": "Himmlische Armada",
+  "alliance_name": null
+}

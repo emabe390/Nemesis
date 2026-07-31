@@ -1,0 +1,52 @@
+{
+  "character_id": 2123437179,
+  "total_losses": 15,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123166260,
+    "name": "Alysa Blueberry",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98749542,
+    "alliance_id": 99003214,
+    "corporation_name": "Asylum Misfits",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123166260,
+      "name": "Alysa Blueberry",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1698431580,
+      "name": "Wash Sfc3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114726298,
+      "name": "dodo overlord",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91982218,
+      "name": "Vasquez Ovilo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93022120,
+      "name": "Sephrenia Styric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cat Tiger",
+  "corporation_id": 98749542,
+  "alliance_id": 99003214,
+  "corporation_name": "Asylum Misfits",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123011507,
+  "total_losses": 15,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121665520,
+    "name": "Kae Udan",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98703471,
+    "alliance_id": 933731581,
+    "corporation_name": "Short Bus Buccaneers",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2121665520,
+      "name": "Kae Udan",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2123575254,
+      "name": "MrNeutrino",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Del Amination",
+  "corporation_id": 98558506,
+  "alliance_id": 99005338,
+  "corporation_name": "A Blessed Bean",
+  "alliance_name": "Pandemic Horde"
+}

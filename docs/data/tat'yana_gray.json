@@ -1,0 +1,40 @@
+{
+  "character_id": 2121360009,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90009066,
+    "name": "Grim Dredtog",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90009066,
+      "name": "Grim Dredtog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1923308142,
+      "name": "Random Factoid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121297434,
+      "name": "Sarah Fright",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tat'yana Gray",
+  "corporation_id": 98794583,
+  "alliance_id": 99014292,
+  "corporation_name": "Die Verval",
+  "alliance_name": "Die Verval."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 92402120,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93304490,
+    "name": "Character 93304490",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98796019,
+    "alliance_id": 99013884,
+    "corporation_name": "Vertex Tactical",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 93304490,
+      "name": "Character 93304490",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96707527,
+      "name": "Inara Boirelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123589891,
+      "name": "Inspector Bam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Super Multie",
+  "corporation_id": 98780909,
+  "alliance_id": null,
+  "corporation_name": "Eagle and Lion Corporate Agents",
+  "alliance_name": null
+}

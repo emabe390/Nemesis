@@ -1,0 +1,52 @@
+{
+  "character_id": 2120891280,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2121419918,
+    "name": "Natadan Tokila",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121419918,
+      "name": "Natadan Tokila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90160447,
+      "name": "Noburu Kastos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93213491,
+      "name": "Torsten A Manske",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95590706,
+      "name": "Titus Lancaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 634382004,
+      "name": "Mahavir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekim Uhciar",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

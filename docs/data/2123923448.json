@@ -1,0 +1,34 @@
+{
+  "character_id": 2123923448,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95079880,
+    "name": "Bobby McScratchet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807569,
+    "alliance_id": 99014489,
+    "corporation_name": "All Hail The Great One",
+    "alliance_name": "Heralds Of The Great One"
+  },
+  "top_killers": [
+    {
+      "id": 95079880,
+      "name": "Bobby McScratchet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119816740,
+      "name": "Birdiez5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mikh Olacar",
+  "corporation_id": 98547748,
+  "alliance_id": null,
+  "corporation_name": "Tax Evasion For All Inc",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123870800,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115402830,
+    "name": "Character 2115402830",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755828,
+    "alliance_id": 1900696668,
+    "corporation_name": "A Leap Of Faith",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2115402830,
+      "name": "Character 2115402830",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 743627802,
+      "name": "Virus Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1348218895,
+      "name": "Chianna Ishtar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123870800",
+  "corporation_id": 98817769,
+  "alliance_id": null,
+  "corporation_name": "Ayyubi Corp",
+  "alliance_name": null
+}

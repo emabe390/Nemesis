@@ -1,0 +1,40 @@
+{
+  "character_id": 2123845923,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113170011,
+    "name": "sky Gao",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98812234,
+    "alliance_id": null,
+    "corporation_name": "28th Imperial Guerrilla.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113170011,
+      "name": "sky Gao",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91950897,
+      "name": "Cata Entro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1548968926,
+      "name": "Chale'aan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ingrid GamRoch",
+  "corporation_id": 98743592,
+  "alliance_id": 99010079,
+  "corporation_name": "PulaleeroyBr Incursions",
+  "alliance_name": "Brave United"
+}

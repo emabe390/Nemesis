@@ -1,0 +1,40 @@
+{
+  "character_id": 2121191535,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118856841,
+    "name": "Korma Sin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118856841,
+      "name": "Korma Sin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112231000,
+      "name": "DaLi Tekataki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123894665,
+      "name": "rallikaar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Je13",
+  "corporation_id": 98812181,
+  "alliance_id": 99012664,
+  "corporation_name": "Idle Abyss",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123207115,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118545988,
+    "name": "Takanashi Kiara",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 566825158,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladiators of Rage",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2118545988,
+      "name": "Takanashi Kiara",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113813128,
+      "name": "Universe48",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1014392058,
+      "name": "Tunning",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tazmoto",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

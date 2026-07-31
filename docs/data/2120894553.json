@@ -1,0 +1,40 @@
+{
+  "character_id": 2120894553,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1343377510,
+    "name": "Teissen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1343377510,
+      "name": "Teissen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117727213,
+      "name": "Important Man",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119070581,
+      "name": "Rara Shakiel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lomba Van Bombe",
+  "corporation_id": 98686050,
+  "alliance_id": 1042504553,
+  "corporation_name": "Velesova Legie",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123011014,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123672101,
+    "name": "Magnus Raithex",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833127,
+    "alliance_id": 99015041,
+    "corporation_name": "Federal Rapid Operations Group",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2123672101,
+      "name": "Magnus Raithex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91357434,
+      "name": "Katinka Checkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96920715,
+      "name": "Zeronaut",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 547453193,
+      "name": "avlis 77",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 576352906,
+      "name": "KenOldman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brain Xiong",
+  "corporation_id": 98797942,
+  "alliance_id": null,
+  "corporation_name": "Total Security Force Battle Division",
+  "alliance_name": null
+}

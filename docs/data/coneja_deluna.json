@@ -1,0 +1,40 @@
+{
+  "character_id": 96724872,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96160311,
+    "name": "Azure StarLight",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821769,
+    "alliance_id": 99013537,
+    "corporation_name": "Escalation Therapy",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 96160311,
+      "name": "Azure StarLight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1394904373,
+      "name": "ComPitch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115587909,
+      "name": "Oliver Sparks",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coneja DeLuna",
+  "corporation_id": 98821769,
+  "alliance_id": 99013537,
+  "corporation_name": "Escalation Therapy",
+  "alliance_name": "Insidious."
+}

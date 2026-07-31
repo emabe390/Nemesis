@@ -1,0 +1,46 @@
+{
+  "character_id": 2122016832,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113841977,
+      "name": "Rekoo King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114367701,
+      "name": "BieShazhen BC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121767379,
+      "name": "Alina Hayashi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AlphaFlower",
+  "corporation_id": 1063360566,
+  "alliance_id": 1354830081,
+  "corporation_name": "SUNDERING",
+  "alliance_name": "Goonswarm Federation"
+}

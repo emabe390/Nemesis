@@ -1,0 +1,52 @@
+{
+  "character_id": 2113500247,
+  "total_losses": 32,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119851464,
+    "name": "John Karde",
+    "kill_count": 25,
+    "final_blows": 25,
+    "corporation_id": 98745939,
+    "alliance_id": null,
+    "corporation_name": "The Shire of Guinea Pigs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119851464,
+      "name": "John Karde",
+      "kill_count": 25,
+      "final_blows": 25
+    },
+    {
+      "id": 2120342475,
+      "name": "Goodvibez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120362157,
+      "name": "Dimonchik Dorogoy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 141577085,
+      "name": "Kytus Bos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1573200647,
+      "name": "Crusher McCabe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexandr Grankin",
+  "corporation_id": 98700577,
+  "alliance_id": 99011387,
+  "corporation_name": "WE ARE ZERGS",
+  "alliance_name": "ZERG REBORN"
+}

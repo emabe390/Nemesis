@@ -1,0 +1,40 @@
+{
+  "character_id": 2123559662,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116985219,
+    "name": "Miss Academy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818088,
+    "alliance_id": 99014816,
+    "corporation_name": "Deep Space Argonauts",
+    "alliance_name": "Deep Space Argonauts Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2116985219,
+      "name": "Miss Academy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95329155,
+      "name": "Sam Sapone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 809042377,
+      "name": "Psimana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Samuell Walker",
+  "corporation_id": 98805195,
+  "alliance_id": null,
+  "corporation_name": "Lightyears Apart",
+  "alliance_name": null
+}

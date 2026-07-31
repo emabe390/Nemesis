@@ -1,0 +1,52 @@
+{
+  "character_id": 2123950444,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91114703,
+    "name": "Tank Lord",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644069,
+    "alliance_id": 99003581,
+    "corporation_name": "Rusty Dragons",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91114703,
+      "name": "Tank Lord",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95788602,
+      "name": "Dragon Deveto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 326815742,
+      "name": "ALL BLACK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116004529,
+      "name": "Douglas Edward",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116427131,
+      "name": "Aslan Lunar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artamielion",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

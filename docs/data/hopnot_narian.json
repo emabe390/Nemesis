@@ -1,0 +1,52 @@
+{
+  "character_id": 2123990430,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 289374601,
+    "name": "Den'orm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98643195,
+    "alliance_id": 99012239,
+    "corporation_name": "I'm Super Bad At This",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96362702,
+      "name": "Saxaman Nobunaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 228912111,
+      "name": "Gurg1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 337840305,
+      "name": "Malarkai Densuri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hopnot Narian",
+  "corporation_id": 98827407,
+  "alliance_id": null,
+  "corporation_name": "Weyland Yutani-Corp.",
+  "alliance_name": null
+}

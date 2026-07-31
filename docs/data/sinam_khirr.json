@@ -1,0 +1,40 @@
+{
+  "character_id": 308438384,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 405387511,
+      "name": "Bullet071",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121053783,
+      "name": "Tresh Mnesh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sinam Khirr",
+  "corporation_id": 98480589,
+  "alliance_id": null,
+  "corporation_name": "Magister Mortalis.",
+  "alliance_name": null
+}

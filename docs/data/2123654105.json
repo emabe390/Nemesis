@@ -1,0 +1,52 @@
+{
+  "character_id": 2123654105,
+  "total_losses": 108,
+  "unique_killers": 89,
+  "nemesis": {
+    "id": 2114866599,
+    "name": "Iwara konachan",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 566825158,
+    "alliance_id": 99003581,
+    "corporation_name": "Gladiators of Rage",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114866599,
+      "name": "Iwara konachan",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92730215,
+      "name": "Brendan Anneto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94142612,
+      "name": "Andre Acharte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94453453,
+      "name": "Evgeniy Str",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94903933,
+      "name": "VND Radec Vendetta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Prof Dingleberry",
+  "corporation_id": 98832665,
+  "alliance_id": null,
+  "corporation_name": "Void Brotherhood",
+  "alliance_name": null
+}

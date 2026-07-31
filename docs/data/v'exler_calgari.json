@@ -1,0 +1,40 @@
+{
+  "character_id": 2114465752,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121276341,
+    "name": "Pavoneo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98699553,
+    "alliance_id": 99014849,
+    "corporation_name": "Astral Acquisitions Inc.",
+    "alliance_name": "Astral Ascendancy Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2121276341,
+      "name": "Pavoneo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "V'Exler Calgari",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

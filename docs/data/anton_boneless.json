@@ -1,0 +1,40 @@
+{
+  "character_id": 2123054570,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91510661,
+    "name": "Character 91510661",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98806836,
+    "alliance_id": 99013915,
+    "corporation_name": "Synthetic Corp.",
+    "alliance_name": "Wings of Independence."
+  },
+  "top_killers": [
+    {
+      "id": 91510661,
+      "name": "Character 91510661",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113987785,
+      "name": "Posion Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119135435,
+      "name": "Arsil Handal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anton Boneless",
+  "corporation_id": 98824170,
+  "alliance_id": 99008985,
+  "corporation_name": "Heavy Anvil Syndicate",
+  "alliance_name": "Seker Matar"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123377801,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2118861292,
+    "name": "JINTSUU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98347548,
+    "alliance_id": null,
+    "corporation_name": "Emergency Temporal Shift.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119222039,
+      "name": "Koczer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95839781,
+      "name": "DrHorrible",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 799190821,
+      "name": "Simoz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1038361043,
+      "name": "Vaako Molinari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Galeno Seven",
+  "corporation_id": 98797704,
+  "alliance_id": null,
+  "corporation_name": "7's Piece of Paradise",
+  "alliance_name": null
+}

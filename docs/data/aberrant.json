@@ -1,0 +1,52 @@
+{
+  "character_id": 787666593,
+  "total_losses": 36,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 1181303075,
+    "name": "Malodon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 221232882,
+    "alliance_id": null,
+    "corporation_name": "The Eden Trading International Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1181303075,
+      "name": "Malodon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93018669,
+      "name": "Knapica",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90218821,
+      "name": "Wobbly Ron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aberrant",
+  "corporation_id": 1092084849,
+  "alliance_id": 1988009451,
+  "corporation_name": "Xoth Ltd",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

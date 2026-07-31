@@ -1,0 +1,46 @@
+{
+  "character_id": 2121933322,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112307895,
+    "name": "George Painter",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98555281,
+    "alliance_id": 1354830081,
+    "corporation_name": "Painter Freight Services",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112307895,
+      "name": "George Painter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118878635,
+      "name": "Tais Ounc Madullier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119871737,
+      "name": "Outwit Hawk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123107366,
+      "name": "zLegion O",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bawby Shenker",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

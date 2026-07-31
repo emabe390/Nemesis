@@ -1,0 +1,40 @@
+{
+  "character_id": 2123686235,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95362087,
+    "name": "Myriam Taredi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 732773091,
+    "alliance_id": 99012982,
+    "corporation_name": "Di-Tron Heavy Industries",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 95362087,
+      "name": "Myriam Taredi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 547908232,
+      "name": "seeyempre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1564803711,
+      "name": "Flein Sopp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vaskren Cez",
+  "corporation_id": 98811225,
+  "alliance_id": 99011206,
+  "corporation_name": "Phantom Synapse",
+  "alliance_name": "APOC Fleet Auxiliary"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123195657,
+  "total_losses": 34,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1684651948,
+      "name": "Sythdrassil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115969649,
+      "name": "Mark4 Madcat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Mortall",
+  "corporation_id": 98550309,
+  "alliance_id": 1220922756,
+  "corporation_name": "Phoenix Tag.",
+  "alliance_name": "Red Alliance"
+}

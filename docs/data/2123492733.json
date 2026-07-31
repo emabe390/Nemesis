@@ -1,0 +1,52 @@
+{
+  "character_id": 2123492733,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2113500314,
+    "name": "Maximus Hnus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2113500314,
+      "name": "Maximus Hnus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117155789,
+      "name": "LeParrain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117339708,
+      "name": "Jinx Beirut",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119286598,
+      "name": "Anti-Matter Annie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119702529,
+      "name": "Ayuri Shimazu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kornelia Markiewicz",
+  "corporation_id": 98084418,
+  "alliance_id": 99007855,
+  "corporation_name": "CBC FORGE",
+  "alliance_name": "Mostly Newbies"
+}

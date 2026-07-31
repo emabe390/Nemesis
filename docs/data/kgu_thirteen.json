@@ -1,0 +1,40 @@
+{
+  "character_id": 2123414008,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 469938044,
+    "name": "gttROLL",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 469938044,
+      "name": "gttROLL",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91641685,
+      "name": "Kepmip Rinzler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115761173,
+      "name": "Aurora Lene",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kgu Thirteen",
+  "corporation_id": 98770788,
+  "alliance_id": 99005338,
+  "corporation_name": "R.A.A.",
+  "alliance_name": "Pandemic Horde"
+}

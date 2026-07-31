@@ -1,0 +1,40 @@
+{
+  "character_id": 2113189912,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96628053,
+    "name": "Almael Maal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98815087,
+    "alliance_id": 99014495,
+    "corporation_name": "Tenebris Initiative",
+    "alliance_name": "Umbrella Initiative Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96628053,
+      "name": "Almael Maal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118776415,
+      "name": "Character 2118776415",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121601545,
+      "name": "StonedMiner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Logan Savoy",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

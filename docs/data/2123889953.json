@@ -1,0 +1,52 @@
+{
+  "character_id": 2123889953,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113244325,
+      "name": "Neo Anderson n",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91586742,
+      "name": "Lynx Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92702716,
+      "name": "Adam Lakus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Robyn Littlebyrd",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

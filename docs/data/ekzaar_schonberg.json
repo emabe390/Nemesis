@@ -1,0 +1,40 @@
+{
+  "character_id": 2124055913,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93152895,
+    "name": "Xaranith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93152895,
+      "name": "Xaranith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123829851,
+      "name": "BIoody Mary",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124055913,
+      "name": "Ekzaar Schonberg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekzaar Schonberg",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

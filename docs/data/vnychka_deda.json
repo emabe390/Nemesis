@@ -1,0 +1,46 @@
+{
+  "character_id": 2123243260,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94656274,
+    "name": "Character 94656274",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813870,
+    "alliance_id": 99015113,
+    "corporation_name": "Alterior Horizons",
+    "alliance_name": "Apex Mercantile"
+  },
+  "top_killers": [
+    {
+      "id": 94656274,
+      "name": "Character 94656274",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97166157,
+      "name": "Norrec Morussian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118253309,
+      "name": "Character 2118253309",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vnychka Deda",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

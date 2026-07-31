@@ -1,0 +1,40 @@
+{
+  "character_id": 2119783061,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115123307,
+    "name": "PhoenixCity Argos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575144,
+    "alliance_id": 99003581,
+    "corporation_name": "Phoenix City",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115123307,
+      "name": "PhoenixCity Argos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121734525,
+      "name": "Mason Ambraele",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121663710,
+      "name": "Takeshi Kouvacz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mearice",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

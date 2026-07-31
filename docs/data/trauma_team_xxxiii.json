@@ -1,0 +1,52 @@
+{
+  "character_id": 2123178077,
+  "total_losses": 18,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2123178091,
+    "name": "Trauma Team XXXVI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2123178091,
+      "name": "Trauma Team XXXVI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93322156,
+      "name": "Brom Maken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95346210,
+      "name": "Iona Scipio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95472364,
+      "name": "Hippie Rotineque",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96013811,
+      "name": "Ella Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trauma Team XXXIII",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

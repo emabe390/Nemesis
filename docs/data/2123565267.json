@@ -1,0 +1,52 @@
+{
+  "character_id": 2123565267,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2119510392,
+    "name": "Bayaz Yaztromo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98681463,
+    "alliance_id": 99009843,
+    "corporation_name": "Chroma Corp",
+    "alliance_name": "Prismatic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2119510392,
+      "name": "Bayaz Yaztromo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121487252,
+      "name": "Jackeline Meyerhofer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95461544,
+      "name": "Ictali Batzki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JeBoySteff",
+  "corporation_id": 98606017,
+  "alliance_id": null,
+  "corporation_name": "BLACK SAILS XIII",
+  "alliance_name": null
+}

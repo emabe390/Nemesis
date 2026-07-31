@@ -1,0 +1,52 @@
+{
+  "character_id": 2124384504,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2119264479,
+    "name": "Rex Zeroni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833747,
+    "alliance_id": null,
+    "corporation_name": "Deep Interstellar Kiloparsec",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119264479,
+      "name": "Rex Zeroni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121526331,
+      "name": "darin ifrim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95289758,
+      "name": "Psaris Harshmallows",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95892954,
+      "name": "Eclipse Havok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 982174847,
+      "name": "Zullasier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GBZ Miner",
+  "corporation_id": 98827086,
+  "alliance_id": 99015078,
+  "corporation_name": "Oblivion Resource Extraction",
+  "alliance_name": "CIMMERIA The Industrial Defensive Alliance"
+}

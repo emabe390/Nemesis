@@ -1,0 +1,46 @@
+{
+  "character_id": 2115469729,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96539998,
+    "name": "Georgy Markov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98553218,
+    "alliance_id": null,
+    "corporation_name": "Pleasure Factory",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96539998,
+      "name": "Georgy Markov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96886197,
+      "name": "depeche mirage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 597958543,
+      "name": "Loredana Cameron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 962215199,
+      "name": "Wrik Hoover",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Venverus",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

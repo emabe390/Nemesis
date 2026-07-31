@@ -1,0 +1,40 @@
+{
+  "character_id": 95654031,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96525633,
+    "name": "Kaivarian Coste",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98833695,
+    "alliance_id": null,
+    "corporation_name": "Myyhera March",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 947167102,
+      "name": "Svist O'neil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack Smugg",
+  "corporation_id": 98704709,
+  "alliance_id": 99010896,
+  "corporation_name": "Caldari 1",
+  "alliance_name": "Caldari Alliance"
+}

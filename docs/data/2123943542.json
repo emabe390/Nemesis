@@ -1,0 +1,52 @@
+{
+  "character_id": 2123943542,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117602876,
+    "name": "ELEMENTAL903",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818449,
+    "alliance_id": 99013846,
+    "corporation_name": "Abyssal Construction and Extraction",
+    "alliance_name": "Vyraj."
+  },
+  "top_killers": [
+    {
+      "id": 2117602876,
+      "name": "ELEMENTAL903",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 94706456,
+      "name": "serpent power",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 670707301,
+      "name": "ANARCK0S",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 859606998,
+      "name": "Cal 7",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valka Ondera",
+  "corporation_id": 98644650,
+  "alliance_id": 99010431,
+  "corporation_name": "Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

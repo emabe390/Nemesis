@@ -1,0 +1,46 @@
+{
+  "character_id": 94069577,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1148140100,
+    "name": "Denalak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821024,
+    "alliance_id": 99010240,
+    "corporation_name": "Custodes Leonis Dentis",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 1148140100,
+      "name": "Denalak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90366512,
+      "name": "Jannis Kulka Jakuard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 161684017,
+      "name": "Doctor Per",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123566634,
+      "name": "Crab Governor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Esperia Genevra",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

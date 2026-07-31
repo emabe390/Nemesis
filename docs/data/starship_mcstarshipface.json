@@ -1,0 +1,52 @@
+{
+  "character_id": 2123745420,
+  "total_losses": 19,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123669770,
+    "name": "Mavis Astrid Draconem",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98810783,
+    "alliance_id": 99013909,
+    "corporation_name": "Draconem Industries",
+    "alliance_name": "The Misfitz Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123669770,
+      "name": "Mavis Astrid Draconem",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123630953,
+      "name": "Reanshari Draconem",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1288375429,
+      "name": "Trade Support",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1490161422,
+      "name": "0101000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112315423,
+      "name": "Demian Mtz-O",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Starship McStarshipface",
+  "corporation_id": 98810783,
+  "alliance_id": 99013909,
+  "corporation_name": "Draconem Industries",
+  "alliance_name": "The Misfitz Collective"
+}

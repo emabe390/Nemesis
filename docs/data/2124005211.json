@@ -1,0 +1,52 @@
+{
+  "character_id": 2124005211,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116273912,
+    "name": "YANG KE",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116273912,
+      "name": "YANG KE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 329941978,
+      "name": "Nix Anteris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 882865073,
+      "name": "Ironcraze",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1522812752,
+      "name": "Salinity Now",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119552521,
+      "name": "Ratan Axialus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Averasin Vaille",
+  "corporation_id": 98787499,
+  "alliance_id": null,
+  "corporation_name": "Silver Wolves of Freedom",
+  "alliance_name": null
+}

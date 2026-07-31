@@ -1,0 +1,40 @@
+{
+  "character_id": 2123795128,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123681567,
+    "name": "KalleMighty",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98254845,
+    "alliance_id": null,
+    "corporation_name": "Relax Body",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123681567,
+      "name": "KalleMighty",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95057977,
+      "name": "Mark Silverstep2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112835044,
+      "name": "Michal Czyzniakowski",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PartyMember",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

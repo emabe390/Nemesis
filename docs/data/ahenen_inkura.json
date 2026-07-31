@@ -1,0 +1,40 @@
+{
+  "character_id": 2123716248,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91127751,
+    "name": "Character 91127751",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 91127751,
+      "name": "Character 91127751",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92512244,
+      "name": "Quimbi Aele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120176682,
+      "name": "Viona Ryder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahenen Inkura",
+  "corporation_id": 98780220,
+  "alliance_id": 99014210,
+  "corporation_name": "Unwritten",
+  "alliance_name": "Buy Low Die High"
+}

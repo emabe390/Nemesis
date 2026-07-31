@@ -1,0 +1,52 @@
+{
+  "character_id": 2124190904,
+  "total_losses": 23,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2124257687,
+    "name": "Character 2124257687",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98638037,
+    "alliance_id": null,
+    "corporation_name": "Adeptus Mechanicus Coalition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124257687,
+      "name": "Character 2124257687",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124077245,
+      "name": "CABP37",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92172285,
+      "name": "Dash Zapfod Arrower",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MiniMega",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

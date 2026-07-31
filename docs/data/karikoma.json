@@ -1,0 +1,52 @@
+{
+  "character_id": 2124534088,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2124547790,
+    "name": "Septem 7",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124547790,
+      "name": "Septem 7",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 96470983,
+      "name": "Serge Mourash",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93876904,
+      "name": "Young KING93",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94540873,
+      "name": "Inonization Metal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113260687,
+      "name": "Kokesta Purvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karikoma",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

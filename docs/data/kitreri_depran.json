@@ -1,0 +1,52 @@
+{
+  "character_id": 2122355035,
+  "total_losses": 14,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122329663,
+      "name": "honghongon",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    },
+    {
+      "id": 91669762,
+      "name": "Doriyanas Drago",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120773661,
+      "name": "Yllon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kitreri Depran",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

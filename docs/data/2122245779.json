@@ -1,0 +1,40 @@
+{
+  "character_id": 2122245779,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93812889,
+    "name": "R T Dox",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98575051,
+    "alliance_id": null,
+    "corporation_name": "KREMENCHUK UKRAINE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93812889,
+      "name": "R T Dox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 688916999,
+      "name": "Neugeniko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114265636,
+      "name": "ATF-94",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ofri Atild",
+  "corporation_id": 98786491,
+  "alliance_id": 99010089,
+  "corporation_name": "The Galactic Dead",
+  "alliance_name": "Novus Ordo."
+}

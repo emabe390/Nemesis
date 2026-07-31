@@ -1,0 +1,40 @@
+{
+  "character_id": 2123375381,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113779406,
+    "name": "IgorGargarin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98547754,
+    "alliance_id": null,
+    "corporation_name": "the eye of space goofs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113779406,
+      "name": "IgorGargarin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96643938,
+      "name": "YuriGargarin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119367740,
+      "name": "Lady Avatarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TadoKoro001",
+  "corporation_id": 98715582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Emperor Scythes",
+  "alliance_name": "The Initiative."
+}

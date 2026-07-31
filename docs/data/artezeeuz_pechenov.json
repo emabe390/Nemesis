@@ -1,0 +1,52 @@
+{
+  "character_id": 2123022852,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 946402945,
+    "name": "Metanii",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502319709,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cloak and Daggers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 946402945,
+      "name": "Metanii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1620709645,
+      "name": "Eleskia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94255955,
+      "name": "Bjorn Broadside",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artezeeuz PEchenov",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

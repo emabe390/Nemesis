@@ -1,0 +1,52 @@
+{
+  "character_id": 2123820455,
+  "total_losses": 57,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2123456436,
+    "name": "Rhyl",
+    "kill_count": 22,
+    "final_blows": 22,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123456436,
+      "name": "Rhyl",
+      "kill_count": 22,
+      "final_blows": 22
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1017707548,
+      "name": "Halik Tokat",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96191188,
+      "name": "Mara Matambo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ariastra",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

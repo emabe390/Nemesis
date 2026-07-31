@@ -1,0 +1,52 @@
+{
+  "character_id": 2123219393,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96090608,
+    "name": "0934 4789",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96090608,
+      "name": "0934 4789",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114359827,
+      "name": "Camina Talie-Kuo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121819425,
+      "name": "Gaige Yumbreon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1264720292,
+      "name": "MF Machiavelli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116666838,
+      "name": "TONGX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The New Pope",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

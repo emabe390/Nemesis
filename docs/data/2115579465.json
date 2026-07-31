@@ -1,0 +1,40 @@
+{
+  "character_id": 2115579465,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1679480235,
+    "name": "Jed Stevens",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 1679480235,
+      "name": "Jed Stevens",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 772370262,
+      "name": "Klyria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92865186,
+      "name": "Meridia Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Juy Sam",
+  "corporation_id": 98139309,
+  "alliance_id": 99007879,
+  "corporation_name": "Don't Wake a sleeping bear",
+  "alliance_name": "TIME CRIT"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123721170,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92853775,
+    "name": "Markous Tsero",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98779039,
+    "alliance_id": null,
+    "corporation_name": "Space Mob",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92853775,
+      "name": "Markous Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116843836,
+      "name": "Maras Drogos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123324022,
+      "name": "Griff McBiff",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Black Lung 9000",
+  "corporation_id": 98804189,
+  "alliance_id": 99014360,
+  "corporation_name": "Dark Horizons Skyward",
+  "alliance_name": "Khanid Industrial Coalition"
+}

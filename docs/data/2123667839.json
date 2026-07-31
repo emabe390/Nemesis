@@ -1,0 +1,52 @@
+{
+  "character_id": 2123667839,
+  "total_losses": 85,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2123667839,
+    "name": "GN-Drive1",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 98772842,
+    "alliance_id": 99003581,
+    "corporation_name": "New Eden Light Point College",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123667839,
+      "name": "GN-Drive1",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2122356012,
+      "name": "GN-Drive",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2123274016,
+      "name": "SevenHa",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93074710,
+      "name": "Victoria Lannister",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "GN-Drive1",
+  "corporation_id": 98772842,
+  "alliance_id": 99003581,
+  "corporation_name": "New Eden Light Point College",
+  "alliance_name": "Fraternity."
+}

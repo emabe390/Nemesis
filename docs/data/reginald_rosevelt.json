@@ -1,0 +1,40 @@
+{
+  "character_id": 2118483645,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92363688,
+    "name": "Emile Vasquole",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 92363688,
+      "name": "Emile Vasquole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 187723081,
+      "name": "Lord Brummer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 917181577,
+      "name": "Shade Millith",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Reginald Rosevelt",
+  "corporation_id": 98721350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Midlife Aliens",
+  "alliance_name": "Goonswarm Federation"
+}

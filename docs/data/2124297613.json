@@ -1,0 +1,34 @@
+{
+  "character_id": 2124297613,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113031810,
+    "name": "Jitsuko Aylet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98797524,
+    "alliance_id": 99013920,
+    "corporation_name": "Vestal Keepers",
+    "alliance_name": "Embers of the Void"
+  },
+  "top_killers": [
+    {
+      "id": 2113031810,
+      "name": "Jitsuko Aylet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92219546,
+      "name": "Xaviera Weyland",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2124297613",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

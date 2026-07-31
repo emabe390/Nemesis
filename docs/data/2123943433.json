@@ -1,0 +1,52 @@
+{
+  "character_id": 2123943433,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90827471,
+    "name": "Robert Fuge Macmillan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98743337,
+    "alliance_id": 99012862,
+    "corporation_name": "Mining Under the Influence",
+    "alliance_name": "Influential Operations"
+  },
+  "top_killers": [
+    {
+      "id": 90827471,
+      "name": "Robert Fuge Macmillan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123971269,
+      "name": "Egon Kowalski Prime",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91520536,
+      "name": "Elder Kestrel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 695455013,
+      "name": "Lady Gar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rordal Hegirin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

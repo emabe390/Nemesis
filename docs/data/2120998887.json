@@ -1,0 +1,52 @@
+{
+  "character_id": 2120998887,
+  "total_losses": 29,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 5
+    },
+    {
+      "id": 1465355095,
+      "name": "Severus Archanas",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90064412,
+      "name": "Mara Faleemtuk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95134696,
+      "name": "Delilah Archanas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dezrul",
+  "corporation_id": 98662323,
+  "alliance_id": 99010756,
+  "corporation_name": "Voidhounds",
+  "alliance_name": "Pretenders"
+}

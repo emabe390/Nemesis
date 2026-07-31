@@ -1,0 +1,52 @@
+{
+  "character_id": 2112305587,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112446173,
+    "name": "Nathy Trii",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1063360566,
+    "alliance_id": 1354830081,
+    "corporation_name": "SUNDERING",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112446173,
+      "name": "Nathy Trii",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92094773,
+      "name": "Devillkiller Yvormes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95551469,
+      "name": "Demaga Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112615432,
+      "name": "Jack Addictt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emma Otsito",
+  "corporation_id": 1063360566,
+  "alliance_id": 1354830081,
+  "corporation_name": "SUNDERING",
+  "alliance_name": "Goonswarm Federation"
+}

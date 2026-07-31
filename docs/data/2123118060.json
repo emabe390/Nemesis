@@ -1,0 +1,52 @@
+{
+  "character_id": 2123118060,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123200705,
+    "name": "Localizer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98512964,
+    "alliance_id": 99001105,
+    "corporation_name": "Sorry We're In Your Space Eh",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 2123200705,
+      "name": "Localizer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95514011,
+      "name": "Dracos Rhaghar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114977903,
+      "name": "Cam Jarkeld",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115823068,
+      "name": "TMGBD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115840203,
+      "name": "Earth Wonder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sasami Nakrar",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

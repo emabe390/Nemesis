@@ -1,0 +1,52 @@
+{
+  "character_id": 2123126788,
+  "total_losses": 30,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 486490772,
+    "name": "candlelight",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98729554,
+    "alliance_id": null,
+    "corporation_name": "Pink Romance Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 486490772,
+      "name": "candlelight",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121256680,
+      "name": "Marlowe Conrad",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90279425,
+      "name": "Piiika Poooka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92540651,
+      "name": "Niong Estemaire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94227255,
+      "name": "Thraseus Dimaloun",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123126788",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120608555,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96840991,
+      "name": "Bambi Assante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118531355,
+      "name": "Character 2118531355",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112089383,
+      "name": "Spyke Austrene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Azzeku",
+  "corporation_id": 98805195,
+  "alliance_id": null,
+  "corporation_name": "Lightyears Apart",
+  "alliance_name": null
+}

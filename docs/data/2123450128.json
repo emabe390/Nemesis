@@ -1,0 +1,40 @@
+{
+  "character_id": 2123450128,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90395970,
+    "name": "Li'u Sili Unri",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 310281086,
+    "alliance_id": 1354830081,
+    "corporation_name": "Un4seen Development",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90395970,
+      "name": "Li'u Sili Unri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115471572,
+      "name": "Legetus Optiox Narbonensii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121448610,
+      "name": "Inuoa Ha'zen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kuntu Kuta",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

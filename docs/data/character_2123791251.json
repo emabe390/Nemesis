@@ -1,0 +1,40 @@
+{
+  "character_id": 2123791251,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123583021,
+    "name": "Cyman Jou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98755360,
+    "alliance_id": 99010468,
+    "corporation_name": "Black Rose Inc.",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 2123583021,
+      "name": "Cyman Jou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90117368,
+      "name": "Evezer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118575980,
+      "name": "FluffMonster",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123791251",
+  "corporation_id": 98807818,
+  "alliance_id": null,
+  "corporation_name": "Stay Together",
+  "alliance_name": null
+}

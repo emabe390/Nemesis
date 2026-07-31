@@ -1,0 +1,46 @@
+{
+  "character_id": 2124510161,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121557117,
+    "name": "le Fanta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121557117,
+      "name": "le Fanta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95681196,
+      "name": "Yudachi POI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ethan Starrk",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

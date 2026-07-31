@@ -1,0 +1,40 @@
+{
+  "character_id": 132405682,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90010272,
+    "name": "Haniball Lecter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725089,
+    "alliance_id": 99003581,
+    "corporation_name": "Arknights.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 90010272,
+      "name": "Haniball Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93710245,
+      "name": "Tiber Galient",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1593895928,
+      "name": "ZIPFEL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 132405682",
+  "corporation_id": 98817549,
+  "alliance_id": null,
+  "corporation_name": "Erzfeind AG",
+  "alliance_name": null
+}

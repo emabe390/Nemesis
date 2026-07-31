@@ -1,0 +1,34 @@
+{
+  "character_id": 2123503396,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90360702,
+    "name": "Ethien Green",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98343343,
+    "alliance_id": 99004567,
+    "corporation_name": "Anoikis Equilibrium",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 90360702,
+      "name": "Ethien Green",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117704484,
+      "name": "Worley's Daughter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shosanchoya",
+  "corporation_id": 98747133,
+  "alliance_id": 99010240,
+  "corporation_name": "Space Monkey'z llc",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

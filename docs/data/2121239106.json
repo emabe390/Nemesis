@@ -1,0 +1,34 @@
+{
+  "character_id": 2121239106,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121948135,
+    "name": "Lard Deiread",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98690202,
+    "alliance_id": null,
+    "corporation_name": "Soviet Arctic",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121948135,
+      "name": "Lard Deiread",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2083443837,
+      "name": "Kugga'r",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alisia Deiread",
+  "corporation_id": 98770220,
+  "alliance_id": 99007203,
+  "corporation_name": "POLAR ZEBRA",
+  "alliance_name": "Siberian Squads"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2112746372,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96861620,
+    "name": "Agimus VI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123137065,
+      "name": "Ryko Erukka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123691449,
+      "name": "Bennolar Ottig",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Christie Oumis",
+  "corporation_id": 98791332,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Ghosts",
+  "alliance_name": "Goonswarm Federation"
+}

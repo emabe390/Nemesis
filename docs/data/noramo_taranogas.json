@@ -1,0 +1,52 @@
+{
+  "character_id": 2123813008,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122351384,
+    "name": "Ernaras Yaken",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795384,
+    "alliance_id": 99014192,
+    "corporation_name": "Knights of Soliara",
+    "alliance_name": "Principality of Soliara"
+  },
+  "top_killers": [
+    {
+      "id": 2122351384,
+      "name": "Ernaras Yaken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95252021,
+      "name": "Orin Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113225966,
+      "name": "Dankeguy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118127342,
+      "name": "Death By Sudoku",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121970090,
+      "name": "Cpt Pepinion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Noramo Taranogas",
+  "corporation_id": 98620000,
+  "alliance_id": 99010077,
+  "corporation_name": "Veretasium",
+  "alliance_name": "Wielders"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123746699,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123258124,
+    "name": "Minble",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98395069,
+    "alliance_id": 99013308,
+    "corporation_name": "Frontier Excavation Combine",
+    "alliance_name": "Ministry of Frontier Proselytization"
+  },
+  "top_killers": [
+    {
+      "id": 2123258124,
+      "name": "Minble",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90863271,
+      "name": "Fierro Fallen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 699024403,
+      "name": "T'gnagh Ftugneh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113098157,
+      "name": "Riess Sants",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grimodan",
+  "corporation_id": 583616018,
+  "alliance_id": 1354830081,
+  "corporation_name": "Black Aces",
+  "alliance_name": "Goonswarm Federation"
+}

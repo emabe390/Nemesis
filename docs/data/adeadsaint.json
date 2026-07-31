@@ -1,0 +1,40 @@
+{
+  "character_id": 2124283847,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119234820,
+    "name": "Atlas Archon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98221538,
+    "alliance_id": 99003581,
+    "corporation_name": "C5 Flight",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119234820,
+      "name": "Atlas Archon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122965294,
+      "name": "Bassa Hashur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121526331,
+      "name": "darin ifrim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adeadsaint",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

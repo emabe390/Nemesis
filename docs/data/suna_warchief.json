@@ -1,0 +1,40 @@
+{
+  "character_id": 2112242827,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 735050165,
+    "name": "Kurasora",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98809126,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Covenant",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 735050165,
+      "name": "Kurasora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 825855703,
+      "name": "sebskywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suna Warchief",
+  "corporation_id": 98666541,
+  "alliance_id": 99013537,
+  "corporation_name": "Tactical Feed.",
+  "alliance_name": "Insidious."
+}

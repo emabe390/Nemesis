@@ -1,0 +1,52 @@
+{
+  "character_id": 2123233372,
+  "total_losses": 43,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 2123166260,
+    "name": "Alysa Blueberry",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98749542,
+    "alliance_id": 99003214,
+    "corporation_name": "Asylum Misfits",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123166260,
+      "name": "Alysa Blueberry",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91477196,
+      "name": "Beacon Malaf Morgarit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96783459,
+      "name": "Character 96783459",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cat Jazzy",
+  "corporation_id": 98461164,
+  "alliance_id": 99010079,
+  "corporation_name": "Asylum Degenerates",
+  "alliance_name": "Brave United"
+}

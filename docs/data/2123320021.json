@@ -1,0 +1,52 @@
+{
+  "character_id": 2123320021,
+  "total_losses": 134,
+  "unique_killers": 118,
+  "nemesis": {
+    "id": 93368150,
+    "name": "Character 93368150",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 93368150,
+      "name": "Character 93368150",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90058495,
+      "name": "Barotto XIII",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90766399,
+      "name": "Cymerin Vayle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96380981,
+      "name": "Daimler-Benz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "PizzaIncurs",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

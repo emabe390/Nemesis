@@ -1,0 +1,40 @@
+{
+  "character_id": 2120377917,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117306666,
+    "name": "John bastow",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98608254,
+    "alliance_id": 99003581,
+    "corporation_name": "Elysian Technologies Enclave",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2117306666,
+      "name": "John bastow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119525940,
+      "name": "Iwachida Maken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121024100,
+      "name": "JAS 39 KUKEN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Turulmadar",
+  "corporation_id": 98486364,
+  "alliance_id": 99011223,
+  "corporation_name": "Noobs for Ethical Treatment of Scrubs",
+  "alliance_name": "Sigma Grindset"
+}

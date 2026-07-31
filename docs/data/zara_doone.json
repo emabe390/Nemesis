@@ -1,0 +1,40 @@
+{
+  "character_id": 2124273253,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90775673,
+    "name": "Julie R",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 90775673,
+      "name": "Julie R",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1043386382,
+      "name": "eddie valvetino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "zara doone",
+  "corporation_id": 98819319,
+  "alliance_id": null,
+  "corporation_name": "New Eden Capsuleers",
+  "alliance_name": null
+}

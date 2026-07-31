@@ -1,0 +1,52 @@
+{
+  "character_id": 2123916147,
+  "total_losses": 42,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2123938388,
+    "name": "Part-Time Killer",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123938388,
+      "name": "Part-Time Killer",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90067049,
+      "name": "reallybored",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91760572,
+      "name": "Dread Pirate Rodgers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94012418,
+      "name": "Aleksandr650 Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crispy Cuda",
+  "corporation_id": 566825158,
+  "alliance_id": 99003581,
+  "corporation_name": "Gladiators of Rage",
+  "alliance_name": "Fraternity."
+}

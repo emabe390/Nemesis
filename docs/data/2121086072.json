@@ -1,0 +1,52 @@
+{
+  "character_id": 2121086072,
+  "total_losses": 295,
+  "unique_killers": 237,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114238006,
+      "name": "Dayse Ane",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93710245,
+      "name": "Tiber Galient",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1490195482,
+      "name": "Olejik",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Almjaime",
+  "corporation_id": 98771069,
+  "alliance_id": 99013766,
+  "corporation_name": "Corsario.",
+  "alliance_name": "Death Legion of Capybaras"
+}

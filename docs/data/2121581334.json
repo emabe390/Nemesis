@@ -1,0 +1,46 @@
+{
+  "character_id": 2121581334,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123112334,
+    "name": "IX Iowa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98258093,
+    "alliance_id": 99009268,
+    "corporation_name": "Strategic Exploration and Development Corp",
+    "alliance_name": "Silent Company"
+  },
+  "top_killers": [
+    {
+      "id": 2123112334,
+      "name": "IX Iowa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91789251,
+      "name": "Dreydan Trovirr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 836392290,
+      "name": "KiLLerSpyder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117488712,
+      "name": "Sir Bongwater Hackalung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pop Gapoun",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

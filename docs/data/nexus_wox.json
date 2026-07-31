@@ -1,0 +1,52 @@
+{
+  "character_id": 2122658533,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2113614588,
+    "name": "Stormy Times",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000044,
+    "alliance_id": null,
+    "corporation_name": "School of Applied Knowledge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113614588,
+      "name": "Stormy Times",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116622842,
+      "name": "Vex Clover",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93608660,
+      "name": "Character 93608660",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1171319402,
+      "name": "Argus Truesight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119897791,
+      "name": "Hyper Kiwi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nexus Wox",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

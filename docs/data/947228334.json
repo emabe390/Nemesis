@@ -1,0 +1,40 @@
+{
+  "character_id": 947228334,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95908107,
+    "name": "Hitman 47-47",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822228,
+    "alliance_id": null,
+    "corporation_name": "GABELLA CORP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118920087,
+      "name": "Ceremonial",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121276341,
+      "name": "Pavoneo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shei Hullud",
+  "corporation_id": 98036605,
+  "alliance_id": 99003285,
+  "corporation_name": "Kosher Nostra",
+  "alliance_name": "WarDogs League"
+}

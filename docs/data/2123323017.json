@@ -1,0 +1,40 @@
+{
+  "character_id": 2123323017,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1005572585,
+    "name": "Guanchita",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045689,
+    "alliance_id": null,
+    "corporation_name": "Zpace Canker Patrol",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1005572585,
+      "name": "Guanchita",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94160399,
+      "name": "Malaysian Mangoes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seven x Nine",
+  "corporation_id": 98801351,
+  "alliance_id": null,
+  "corporation_name": "Interlink Nexus Coalition",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112334675,
+  "total_losses": 26,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 95353110,
+    "name": "Morathi II",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98729122,
+    "alliance_id": 99011489,
+    "corporation_name": "Sheriff.",
+    "alliance_name": "United Caldari Space Command."
+  },
+  "top_killers": [
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120555726,
+      "name": "GvaIch'ca",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91282513,
+      "name": "Jayarr Altol",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Weneghets",
+  "corporation_id": 98767830,
+  "alliance_id": 99009927,
+  "corporation_name": "Suddenly a Covert Cyno",
+  "alliance_name": "Deepwater Hooligans"
+}

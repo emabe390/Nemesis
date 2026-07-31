@@ -1,0 +1,52 @@
+{
+  "character_id": 2122575596,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2122557665,
+    "name": "LD 2",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98777162,
+    "alliance_id": 1354830081,
+    "corporation_name": "TRIGLAVIAN EXECUYIR",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2122557665,
+      "name": "LD 2",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92064732,
+      "name": "Character 92064732",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92034013,
+      "name": "Orangutan Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93054714,
+      "name": "Nolx Tsasan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95278751,
+      "name": "Nik Phelt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LD 3",
+  "corporation_id": 98777162,
+  "alliance_id": 1354830081,
+  "corporation_name": "TRIGLAVIAN EXECUYIR",
+  "alliance_name": "Goonswarm Federation"
+}

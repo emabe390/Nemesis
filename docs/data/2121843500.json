@@ -1,0 +1,52 @@
+{
+  "character_id": 2121843500,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2115841087,
+    "name": "I-TVOI-ROT EDA-SHATAL",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828016,
+    "alliance_id": null,
+    "corporation_name": "Mewgenics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115841087,
+      "name": "I-TVOI-ROT EDA-SHATAL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123186978,
+      "name": "SVO Goida Oreshnik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PhoenixBitterGourd",
+  "corporation_id": 98575144,
+  "alliance_id": 99003581,
+  "corporation_name": "Phoenix City",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124227474,
+  "total_losses": 22,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94331100,
+      "name": "Gwenevick Kenyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96666656,
+      "name": "Xarfei Badasaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 939572628,
+      "name": "Oboliskos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Angron the Butcher",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

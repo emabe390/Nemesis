@@ -1,0 +1,40 @@
+{
+  "character_id": 2113538863,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115733987,
+      "name": "AsRain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118615555,
+      "name": "DonRico",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stoned Torbjorn",
+  "corporation_id": 98809893,
+  "alliance_id": null,
+  "corporation_name": "Eat Coot not Boot",
+  "alliance_name": null
+}

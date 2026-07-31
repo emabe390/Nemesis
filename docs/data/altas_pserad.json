@@ -1,0 +1,40 @@
+{
+  "character_id": 2123705523,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1431313851,
+    "name": "Phoenix Bain",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1568814036,
+      "name": "Langz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122432298,
+      "name": "Aeli Hakuuli",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Altas Pserad",
+  "corporation_id": 98686431,
+  "alliance_id": 99013177,
+  "corporation_name": "Fixers Corporation",
+  "alliance_name": "Pillars of Liberty"
+}

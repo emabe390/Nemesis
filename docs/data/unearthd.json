@@ -1,0 +1,52 @@
+{
+  "character_id": 2123508294,
+  "total_losses": 41,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92155326,
+      "name": "Bloody James",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93868041,
+      "name": "Dmitriy Shevluga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95238964,
+      "name": "Mental Callus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116231052,
+      "name": "Chronic Hatfield",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Unearthd",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

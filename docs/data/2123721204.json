@@ -1,0 +1,52 @@
+{
+  "character_id": 2123721204,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94704575,
+    "name": "Rogue Bladesurge",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 590940989,
+    "alliance_id": 99013857,
+    "corporation_name": "DAWGS Corp.",
+    "alliance_name": "Men with Fancy Hats"
+  },
+  "top_killers": [
+    {
+      "id": 94704575,
+      "name": "Rogue Bladesurge",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118216873,
+      "name": "Legend083",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 912291025,
+      "name": "Faye Tirea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1091103230,
+      "name": "Wrathful Penguins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112033665,
+      "name": "Laura Rainford",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tommy Gate Crash",
+  "corporation_id": 98777301,
+  "alliance_id": 99013941,
+  "corporation_name": "Dollywood",
+  "alliance_name": "James Webb Space Telescope"
+}

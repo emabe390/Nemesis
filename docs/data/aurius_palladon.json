@@ -1,0 +1,40 @@
+{
+  "character_id": 2124099019,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91598105,
+    "name": "Varn Dein",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98456957,
+    "alliance_id": 99014643,
+    "corporation_name": "Perma Capped",
+    "alliance_name": "T0UCH GRASS"
+  },
+  "top_killers": [
+    {
+      "id": 91598105,
+      "name": "Varn Dein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94944032,
+      "name": "Phase Dwives Activated",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96398840,
+      "name": "Marra Ko Sotoya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aurius Palladon",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

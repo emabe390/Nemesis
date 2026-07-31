@@ -1,0 +1,40 @@
+{
+  "character_id": 2118388266,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1028618139,
+      "name": "StoneDwarf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113192030,
+      "name": "Andrey Blood",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NBA Agent",
+  "corporation_id": 98677174,
+  "alliance_id": 99003214,
+  "corporation_name": "Omni Defense Intelligence Network",
+  "alliance_name": "Brave Collective"
+}

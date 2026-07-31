@@ -1,0 +1,34 @@
+{
+  "character_id": 2124211003,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112522829,
+    "name": "YARRBBQ",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380701,
+    "alliance_id": 99014826,
+    "corporation_name": "invalid",
+    "alliance_name": "Pirate Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 2112522829,
+      "name": "YARRBBQ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 406391368,
+      "name": "organikspace",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deen Webb",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

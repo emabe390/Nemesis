@@ -1,0 +1,52 @@
+{
+  "character_id": 97108532,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1452850343,
+    "name": "Farmer Inc",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826346,
+    "alliance_id": null,
+    "corporation_name": "Gugelhupfgeschwader",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1452850343,
+      "name": "Farmer Inc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113273298,
+      "name": "BEASTOFPRAY",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93152190,
+      "name": "Jack Riviera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94361335,
+      "name": "Faize Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sev Kyle",
+  "corporation_id": 98426237,
+  "alliance_id": 99004604,
+  "corporation_name": "Phoenix Naval Operations",
+  "alliance_name": "Phoenix Naval Systems"
+}

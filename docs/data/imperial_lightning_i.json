@@ -1,0 +1,40 @@
+{
+  "character_id": 2123638204,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115553314,
+    "name": "Sir Pekan Chung",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98514910,
+    "alliance_id": null,
+    "corporation_name": "Private Pokemon Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115553314,
+      "name": "Sir Pekan Chung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115747609,
+      "name": "Special AI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118769483,
+      "name": "Dying Sun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Imperial Lightning I",
+  "corporation_id": 98809648,
+  "alliance_id": null,
+  "corporation_name": "Imperial Cavalry",
+  "alliance_name": null
+}

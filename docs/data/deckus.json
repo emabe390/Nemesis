@@ -1,0 +1,34 @@
+{
+  "character_id": 2124164482,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 887324380,
+    "name": "Emperor Caligula",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 557199155,
+    "alliance_id": 99011223,
+    "corporation_name": "The New Federation",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 887324380,
+      "name": "Emperor Caligula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923688672,
+      "name": "Akurus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deckus",
+  "corporation_id": 98833033,
+  "alliance_id": null,
+  "corporation_name": "Blind Atani Incorporated",
+  "alliance_name": null
+}

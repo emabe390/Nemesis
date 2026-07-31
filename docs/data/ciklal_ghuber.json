@@ -1,0 +1,52 @@
+{
+  "character_id": 2123990215,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2124003748,
+    "name": "DarMalll",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98821711,
+    "alliance_id": null,
+    "corporation_name": "The Silent Quorum",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124003748,
+      "name": "DarMalll",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1835421473,
+      "name": "menacher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93475894,
+      "name": "Jay Makin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96308510,
+      "name": "Wayne Tsuru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114235594,
+      "name": "Martin Zhang",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ciklal Ghuber",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120563713,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2120563692,
+    "name": "CN CH",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98802914,
+    "alliance_id": 99009163,
+    "corporation_name": "NAN-ZHEN-FUSI",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2120563692,
+      "name": "CN CH",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114679502,
+      "name": "Ara Moliko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115369800,
+      "name": "For Eternal Tony",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120552175,
+      "name": "Caihong jja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123093724,
+      "name": "Nidaros Hvide",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CN CG",
+  "corporation_id": 98802914,
+  "alliance_id": 99009163,
+  "corporation_name": "NAN-ZHEN-FUSI",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124321002,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 921870093,
+    "name": "RoseDNA",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 935907718,
+    "alliance_id": 1727758877,
+    "corporation_name": "Destructive Influence",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 921870093,
+      "name": "RoseDNA",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 950545391,
+      "name": "Lanari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115399292,
+      "name": "Dj Mui",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wemer Helugo",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

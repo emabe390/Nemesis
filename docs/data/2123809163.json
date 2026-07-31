@@ -1,0 +1,40 @@
+{
+  "character_id": 2123809163,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123457894,
+    "name": "Asza Grann Arbosa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98804676,
+    "alliance_id": null,
+    "corporation_name": "Huffin' Nomads",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123457894,
+      "name": "Asza Grann Arbosa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112048997,
+      "name": "Luk Psywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122220325,
+      "name": "Germemoin Adlur Auduin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheOutlier",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

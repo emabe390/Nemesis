@@ -1,0 +1,40 @@
+{
+  "character_id": 2124153237,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 385068098,
+    "name": "eleindall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781943,
+    "alliance_id": null,
+    "corporation_name": "Damned Frogs Neighbours",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 385068098,
+      "name": "eleindall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 776921890,
+      "name": "kabelsatan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aenor Montri",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

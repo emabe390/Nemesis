@@ -1,0 +1,40 @@
+{
+  "character_id": 2124486510,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121075657,
+    "name": "VTG one",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98617815,
+    "alliance_id": null,
+    "corporation_name": "Space Oddities Join Us",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121075657,
+      "name": "VTG one",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122296089,
+      "name": "Spac Maid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121723616,
+      "name": "Ningbogege",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beoulve",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

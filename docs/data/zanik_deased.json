@@ -1,0 +1,40 @@
+{
+  "character_id": 2122230710,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116096200,
+    "name": "Ismael Nario",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rekium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116096200,
+      "name": "Ismael Nario",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96672261,
+      "name": "ChooChooMazafaka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 338794962,
+      "name": "Alex Skye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zanik Deased",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

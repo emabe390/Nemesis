@@ -1,0 +1,46 @@
+{
+  "character_id": 96298153,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1542940128,
+      "name": "Lucian Veridan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1556713165,
+      "name": "Baranor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121296148,
+      "name": "Miss Connduct",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miss Elizabeth Bennet",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

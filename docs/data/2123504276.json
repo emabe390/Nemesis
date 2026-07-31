@@ -1,0 +1,40 @@
+{
+  "character_id": 2123504276,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1216508539,
+    "name": "Alice Keeper",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1599371034,
+    "alliance_id": 1354830081,
+    "corporation_name": "SovNarKom.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1216508539,
+      "name": "Alice Keeper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1851490190,
+      "name": "GeneralKnoxxx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119999745,
+      "name": "Regress1on",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "She Who Listens",
+  "corporation_id": 98773510,
+  "alliance_id": 99000580,
+  "corporation_name": "Industrial Psyno",
+  "alliance_name": "Ignore This."
+}

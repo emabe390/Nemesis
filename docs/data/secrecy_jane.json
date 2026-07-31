@@ -1,0 +1,40 @@
+{
+  "character_id": 2123685841,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120027296,
+    "name": "Enara Sharisa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2120027296,
+      "name": "Enara Sharisa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91864941,
+      "name": "Alpher Douglas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95147685,
+      "name": "Lupercal LunaWolf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Secrecy Jane",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

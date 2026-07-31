@@ -1,0 +1,40 @@
+{
+  "character_id": 2119812062,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115789534,
+    "name": "Zechs Kovacs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98181543,
+    "alliance_id": 1042504553,
+    "corporation_name": "F0RCED ENTRY",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2115789534,
+      "name": "Zechs Kovacs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95112205,
+      "name": "Twotes Tickles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119709705,
+      "name": "JustARandomGuy-FR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ozamari Osala Itonula",
+  "corporation_id": 98835674,
+  "alliance_id": null,
+  "corporation_name": "Lee Pace Fan Club",
+  "alliance_name": null
+}

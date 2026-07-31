@@ -1,0 +1,34 @@
+{
+  "character_id": 2124536889,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123525807,
+    "name": "CapMino",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124224296,
+      "name": "Yustekk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tzin Harikein",
+  "corporation_id": 98651052,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order XX",
+  "alliance_name": "Absolute Honor"
+}

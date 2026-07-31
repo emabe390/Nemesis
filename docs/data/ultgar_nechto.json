@@ -1,0 +1,52 @@
+{
+  "character_id": 2123121229,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123525807,
+    "name": "CapMino",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96307776,
+      "name": "Chaz Beretta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96839718,
+      "name": "Kieran McMemelord",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1490161422,
+      "name": "0101000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ultgar Nechto",
+  "corporation_id": 98485563,
+  "alliance_id": null,
+  "corporation_name": "Cosmic Tactical Rolling",
+  "alliance_name": null
+}

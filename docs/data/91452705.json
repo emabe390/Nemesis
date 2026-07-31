@@ -1,0 +1,52 @@
+{
+  "character_id": 91452705,
+  "total_losses": 21,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2112614147,
+    "name": "Eran Morgulu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112614147,
+      "name": "Eran Morgulu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94288199,
+      "name": "Karlito Uisen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94503719,
+      "name": "Selita Caltar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 258010733,
+      "name": "Bitzan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1373022125,
+      "name": "Paddington",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "J Mardor",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

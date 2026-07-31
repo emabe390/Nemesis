@@ -1,0 +1,40 @@
+{
+  "character_id": 2123809802,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 432590883,
+    "name": "Battelstar1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98578193,
+    "alliance_id": 1900696668,
+    "corporation_name": "Freyja Syndicate",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 432590883,
+      "name": "Battelstar1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118959054,
+      "name": "Samuel kom Skaikru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118985691,
+      "name": "Sir Amu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alicia Morrowind",
+  "corporation_id": 98811002,
+  "alliance_id": 99014187,
+  "corporation_name": "Northern Crusades",
+  "alliance_name": "Dawn's Light"
+}

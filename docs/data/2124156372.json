@@ -1,0 +1,52 @@
+{
+  "character_id": 2124156372,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124166439,
+    "name": "Yinchi Dai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124166439,
+      "name": "Yinchi Dai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96525633,
+      "name": "Kaivarian Coste",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1007306869,
+      "name": "ProspectorSpena",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1300904865,
+      "name": "roftcopter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119728253,
+      "name": "Soilen Pirkibo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suitcase2",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

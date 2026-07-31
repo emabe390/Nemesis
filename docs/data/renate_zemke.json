@@ -1,0 +1,46 @@
+{
+  "character_id": 2123841592,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 635560359,
+    "name": "the raver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98048444,
+    "alliance_id": null,
+    "corporation_name": "Guardians of Asceticism",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 635560359,
+      "name": "the raver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117766078,
+      "name": "Oata Huren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115528603,
+      "name": "Roy Asticot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121679866,
+      "name": "River Pixies",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Renate Zemke",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

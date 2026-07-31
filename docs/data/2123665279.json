@@ -1,0 +1,40 @@
+{
+  "character_id": 2123665279,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112260204,
+    "name": "Sammy Lightstab",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98533513,
+    "alliance_id": 99010619,
+    "corporation_name": "Learning To Fly",
+    "alliance_name": "Legendary-Rejects"
+  },
+  "top_killers": [
+    {
+      "id": 2112260204,
+      "name": "Sammy Lightstab",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115920400,
+      "name": "Zealotry Rockhunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MVP-69",
+  "corporation_id": 98753501,
+  "alliance_id": null,
+  "corporation_name": "OrientalGhosts",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123210655,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 119545676,
+    "name": "Juggati",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98718341,
+    "alliance_id": 1354830081,
+    "corporation_name": "Illuminated",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 119545676,
+      "name": "Juggati",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94191421,
+      "name": "Sigurd Wolfsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 824538179,
+      "name": "Soljisk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116064095,
+      "name": "Magnus Dangereux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Egonder Musana",
+  "corporation_id": 98795743,
+  "alliance_id": 99014427,
+  "corporation_name": "ITTY Industries",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

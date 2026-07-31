@@ -1,0 +1,52 @@
+{
+  "character_id": 2116232140,
+  "total_losses": 38,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2113233546,
+    "name": "Sven Bauer",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1515146701,
+      "name": "jonie rotten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122730568,
+      "name": "Lagtrain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90655099,
+      "name": "Kotten Kandy Tutors",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Padme Bauer",
+  "corporation_id": 98557229,
+  "alliance_id": 99004901,
+  "corporation_name": "Outback Steakhouse of Pancakes",
+  "alliance_name": "Snuffed Out"
+}

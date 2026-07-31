@@ -1,0 +1,46 @@
+{
+  "character_id": 2123122173,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123959251,
+    "name": "vector-N",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123959251,
+      "name": "vector-N",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 332588087,
+      "name": "Hati0021",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1700284711,
+      "name": "Seabronc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115560942,
+      "name": "Kyle Ketar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chuck Oreman",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

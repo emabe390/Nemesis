@@ -1,0 +1,46 @@
+{
+  "character_id": 2123692291,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92525788,
+    "name": "Ace Banyon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1129394157,
+    "alliance_id": null,
+    "corporation_name": "Independent Miners Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92525788,
+      "name": "Ace Banyon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115254191,
+      "name": "Little LadyDangler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123003550,
+      "name": "Vandanela",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123173243,
+      "name": "WitnessMe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thaodus",
+  "corporation_id": 98697448,
+  "alliance_id": 99011119,
+  "corporation_name": "The Dead Woods",
+  "alliance_name": "Absolute Glory"
+}

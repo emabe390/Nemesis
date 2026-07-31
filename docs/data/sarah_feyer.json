@@ -1,0 +1,52 @@
+{
+  "character_id": 1101132919,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94105304,
+      "name": "Ayaka Iida",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94415820,
+      "name": "Miss Killz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95456769,
+      "name": "Dmitry Jarenov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 200715751,
+      "name": "Zill",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sarah Feyer",
+  "corporation_id": 98733806,
+  "alliance_id": 99010468,
+  "corporation_name": "Club Troppo",
+  "alliance_name": "Weapons Of Mass Production."
+}

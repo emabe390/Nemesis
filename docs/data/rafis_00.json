@@ -1,0 +1,52 @@
+{
+  "character_id": 2123483432,
+  "total_losses": 28,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 90367348,
+    "name": "Charles Issier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98834411,
+    "alliance_id": 99015167,
+    "corporation_name": "Once More Unto The Breach",
+    "alliance_name": "Fratricide."
+  },
+  "top_killers": [
+    {
+      "id": 90367348,
+      "name": "Charles Issier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94858326,
+      "name": "Velmont Dodin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1794441835,
+      "name": "Faith Secura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117508945,
+      "name": "Boruet Annages",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119508114,
+      "name": "Stefan Molymeme",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rafis 00",
+  "corporation_id": 98745358,
+  "alliance_id": null,
+  "corporation_name": "Investigator Exp",
+  "alliance_name": null
+}

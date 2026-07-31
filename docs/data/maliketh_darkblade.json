@@ -1,0 +1,40 @@
+{
+  "character_id": 2123802232,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117418802,
+    "name": "MityBoi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785210,
+    "alliance_id": null,
+    "corporation_name": "Aces in the Hole",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117418802,
+      "name": "MityBoi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92742390,
+      "name": "Grench Skir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122529396,
+      "name": "Oitti Aihaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maliketh darkblade",
+  "corporation_id": 98569633,
+  "alliance_id": 1727758877,
+  "corporation_name": "Arsenico",
+  "alliance_name": "Northern Coalition."
+}

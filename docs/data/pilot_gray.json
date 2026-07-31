@@ -1,0 +1,52 @@
+{
+  "character_id": 2122042713,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 889732885,
+    "name": "Bluemelon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98343297,
+    "alliance_id": 99004901,
+    "corporation_name": "Lowlife.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117862707,
+      "name": "Kuchikami Iriya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92368744,
+      "name": "Mihej Breau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93621880,
+      "name": "Atrol Nalelmir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96867321,
+      "name": "Xcima Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pilot Gray",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

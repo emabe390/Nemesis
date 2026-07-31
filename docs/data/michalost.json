@@ -1,0 +1,46 @@
+{
+  "character_id": 2123669937,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123249706,
+    "name": "Character 2123249706",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798730,
+    "alliance_id": null,
+    "corporation_name": "The Jita Autopilot Adminstration",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123249706,
+      "name": "Character 2123249706",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1058691321,
+      "name": "Mikaello",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121862999,
+      "name": "Enel lu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Michalost",
+  "corporation_id": 98652228,
+  "alliance_id": 99003214,
+  "corporation_name": "Space Hamsters CZ SK",
+  "alliance_name": "Brave Collective"
+}

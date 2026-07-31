@@ -1,0 +1,52 @@
+{
+  "character_id": 90418231,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2116160039,
+    "name": "Adam Bancroft",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98725773,
+    "alliance_id": 99013390,
+    "corporation_name": "Vapor Lock.",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2116160039,
+      "name": "Adam Bancroft",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95910989,
+      "name": "Armar Anthaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92240946,
+      "name": "SkrudJ Makdak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93856334,
+      "name": "Aleister Carver",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neurove Pserad",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

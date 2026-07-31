@@ -1,0 +1,40 @@
+{
+  "character_id": 1429262777,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91200695,
+    "name": "Jason Nautica",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91200695,
+      "name": "Jason Nautica",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92333103,
+      "name": "Felix Damaro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93853196,
+      "name": "Ivana Xadi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Commander IceQ",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

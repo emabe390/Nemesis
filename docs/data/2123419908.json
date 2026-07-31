@@ -1,0 +1,46 @@
+{
+  "character_id": 2123419908,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116716343,
+    "name": "Empowered BlackWoman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2116716343,
+      "name": "Empowered BlackWoman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120739029,
+      "name": "Imonainen Endashi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93945762,
+      "name": "Xero Uchina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 326254586,
+      "name": "Prion Crassiros",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Praskozorje",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

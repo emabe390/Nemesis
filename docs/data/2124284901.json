@@ -1,0 +1,40 @@
+{
+  "character_id": 2124284901,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1525961147,
+    "name": "CJ Walker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 145008223,
+    "alliance_id": 701459600,
+    "corporation_name": "Gradient",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 1525961147,
+      "name": "CJ Walker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1039490350,
+      "name": "Doc Tonopah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123740018,
+      "name": "Wren Etmenh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trantinious",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

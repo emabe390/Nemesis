@@ -1,0 +1,40 @@
+{
+  "character_id": 2124089717,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124076091,
+    "name": "Ben Void",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98645589,
+    "alliance_id": 99009163,
+    "corporation_name": "Faceless.",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2124076091,
+      "name": "Ben Void",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 774664930,
+      "name": "SirSmokeVeryMuch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112999264,
+      "name": "Halsab Snyderin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ben Orbit",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

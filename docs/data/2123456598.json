@@ -1,0 +1,52 @@
+{
+  "character_id": 2123456598,
+  "total_losses": 107,
+  "unique_killers": 76,
+  "nemesis": {
+    "id": 516392156,
+    "name": "Trikks",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98774989,
+    "alliance_id": 99013797,
+    "corporation_name": "Fourth District Sentinels",
+    "alliance_name": "The Caldari Fourth District"
+  },
+  "top_killers": [
+    {
+      "id": 516392156,
+      "name": "Trikks",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 403163173,
+      "name": "Aeryn Tiberius",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 752900096,
+      "name": "Lazlax",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120652741,
+      "name": "Ishabara Panala",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "A Bowing Puppet",
+  "corporation_id": 98804674,
+  "alliance_id": null,
+  "corporation_name": "Maison Pantin Natya",
+  "alliance_name": null
+}

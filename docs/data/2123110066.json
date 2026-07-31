@@ -1,0 +1,52 @@
+{
+  "character_id": 2123110066,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113563837,
+    "name": "Evgen Abarmotte",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93789049,
+      "name": "Chrysabelle Ellecon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96236856,
+      "name": "Ro Yakeno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115197239,
+      "name": "Red Sad Gyoza",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yum Ling",
+  "corporation_id": 98758422,
+  "alliance_id": 99014284,
+  "corporation_name": "Consultancy",
+  "alliance_name": "7.62"
+}

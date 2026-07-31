@@ -1,0 +1,40 @@
+{
+  "character_id": 148711229,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96410187,
+    "name": "Allyse Freewater",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1934335478,
+    "alliance_id": 99013880,
+    "corporation_name": "The Black Hand Mafia",
+    "alliance_name": "No Open Tether Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96410187,
+      "name": "Allyse Freewater",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123928505,
+      "name": "Pochven Police ID05",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123937618,
+      "name": "Pochven Police ID10",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Max Payne",
+  "corporation_id": 168933506,
+  "alliance_id": null,
+  "corporation_name": "T.I.E. Inc.",
+  "alliance_name": null
+}

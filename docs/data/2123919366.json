@@ -1,0 +1,40 @@
+{
+  "character_id": 2123919366,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95007264,
+    "name": "Nar Gharzvog",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98180501,
+    "alliance_id": 99011025,
+    "corporation_name": "Twinstar Logistic Services",
+    "alliance_name": "New WorId Order"
+  },
+  "top_killers": [
+    {
+      "id": 95007264,
+      "name": "Nar Gharzvog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 239099719,
+      "name": "L0rdF1end",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emperor-Shaddam",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

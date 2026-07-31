@@ -1,0 +1,40 @@
+{
+  "character_id": 2120722828,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114139127,
+    "name": "sailing Li",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98830994,
+    "alliance_id": null,
+    "corporation_name": "Uni exploration",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114139127,
+      "name": "sailing Li",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116109293,
+      "name": "PINK SCOPE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120277047,
+      "name": "M-a-y-s",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "COLO-COLO",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

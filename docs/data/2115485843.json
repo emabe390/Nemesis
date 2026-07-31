@@ -1,0 +1,46 @@
+{
+  "character_id": 2115485843,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123553253,
+    "name": "John Milne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123553253,
+      "name": "John Milne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1014392058,
+      "name": "Tunning",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Farid Terona",
+  "corporation_id": 98776010,
+  "alliance_id": 99014894,
+  "corporation_name": "Quantum Dynamics.",
+  "alliance_name": "From Lost To The Wormhole."
+}

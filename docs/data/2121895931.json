@@ -1,0 +1,52 @@
+{
+  "character_id": 2121895931,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2120699004,
+    "name": "Ponkenen Igunen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800761,
+    "alliance_id": null,
+    "corporation_name": "New Eden Corporation 98800761",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120699004,
+      "name": "Ponkenen Igunen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123865856,
+      "name": "Onna Musha 1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1009992581,
+      "name": "xtaler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1683357828,
+      "name": "Khamul Corleone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113674941,
+      "name": "Sev Gannon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Purge Master",
+  "corporation_id": 98803517,
+  "alliance_id": 99003581,
+  "corporation_name": "Fractured Dominions",
+  "alliance_name": "Fraternity."
+}

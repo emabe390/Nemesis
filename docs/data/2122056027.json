@@ -1,0 +1,40 @@
+{
+  "character_id": 2122056027,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121549658,
+    "name": "Caranya",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98790359,
+    "alliance_id": 99007335,
+    "corporation_name": "Economic Warfare Ltd",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 2121549658,
+      "name": "Caranya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122209376,
+      "name": "Ahdarji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123161970,
+      "name": "Philippe D'Avignone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Saikkuno Fumimasa",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

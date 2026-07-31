@@ -1,0 +1,52 @@
+{
+  "character_id": 2122779595,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90085013,
+    "name": "Tesla X1R",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98315934,
+    "alliance_id": 99014936,
+    "corporation_name": "Stuff and Junk Enterprises",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 90085013,
+      "name": "Tesla X1R",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90086332,
+      "name": "Tony Patterson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96401858,
+      "name": "Emacs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115518698,
+      "name": "Pinot Colada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120364678,
+      "name": "or Vim",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cleo Trace",
+  "corporation_id": 98810644,
+  "alliance_id": 99008985,
+  "corporation_name": "Echo Protocol",
+  "alliance_name": "Seker Matar"
+}

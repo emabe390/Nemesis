@@ -1,0 +1,40 @@
+{
+  "character_id": 2124111518,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93979697,
+    "name": "Sully Thellere",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98831204,
+    "alliance_id": 99015113,
+    "corporation_name": "Nine Lives Privateering Company",
+    "alliance_name": "Apex Mercantile"
+  },
+  "top_killers": [
+    {
+      "id": 93979697,
+      "name": "Sully Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122239220,
+      "name": "Dizzy Dorasdottir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lartan",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

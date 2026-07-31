@@ -1,0 +1,40 @@
+{
+  "character_id": 2123886355,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123225319,
+    "name": "Amarr Slave 3212",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825321,
+    "alliance_id": 99009287,
+    "corporation_name": "Deutsches Zentrum fuer Luft und Raumfahrt",
+    "alliance_name": "Beyond the Breach"
+  },
+  "top_killers": [
+    {
+      "id": 2123225319,
+      "name": "Amarr Slave 3212",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123012989,
+      "name": "Liam Kenn Atild",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123822610,
+      "name": "7761726E696E67",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emma-class cruiser",
+  "corporation_id": 98600350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Watch Eagle",
+  "alliance_name": "Goonswarm Federation"
+}

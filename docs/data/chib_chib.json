@@ -1,0 +1,34 @@
+{
+  "character_id": 2123758998,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122590553,
+    "name": "qian qiu yu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702890,
+    "alliance_id": 99003581,
+    "corporation_name": "Descendants of Shen Nong",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122590553,
+      "name": "qian qiu yu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94497449,
+      "name": "Dave Neutron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "chib chib",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

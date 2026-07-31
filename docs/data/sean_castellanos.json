@@ -1,0 +1,52 @@
+{
+  "character_id": 2112959532,
+  "total_losses": 24,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 93406704,
+    "name": "Amber Cowell",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98779501,
+    "alliance_id": null,
+    "corporation_name": "BLAMBER",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93406704,
+      "name": "Amber Cowell",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1456210623,
+      "name": "Captain Torlek",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112840481,
+      "name": "Apsconditum Imperium",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118798113,
+      "name": "SuperProwler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90918759,
+      "name": "Modern Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sean Castellanos",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

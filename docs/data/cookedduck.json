@@ -1,0 +1,52 @@
+{
+  "character_id": 2124354001,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 722390125,
+    "name": "Lesican",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 722390125,
+      "name": "Lesican",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112042780,
+      "name": "Xecution",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117484027,
+      "name": "Psedillas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90011837,
+      "name": "Prixit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CookedDuck",
+  "corporation_id": 98791781,
+  "alliance_id": null,
+  "corporation_name": "ARC Subsidized",
+  "alliance_name": null
+}

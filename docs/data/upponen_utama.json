@@ -1,0 +1,34 @@
+{
+  "character_id": 2123531573,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91101763,
+    "name": "The Exterminated",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810941,
+    "alliance_id": null,
+    "corporation_name": "Tamas Targets",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91101763,
+      "name": "The Exterminated",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 226583259,
+      "name": "ScheenK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Upponen Utama",
+  "corporation_id": 98659290,
+  "alliance_id": null,
+  "corporation_name": "CorporationNameLongEnoughForTickerName",
+  "alliance_name": null
+}

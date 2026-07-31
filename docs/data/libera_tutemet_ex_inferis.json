@@ -1,0 +1,40 @@
+{
+  "character_id": 2123031625,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 649824849,
+    "name": "Adhun",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 649824849,
+      "name": "Adhun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112150444,
+      "name": "Minga Bua",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123377920,
+      "name": "JY-SaMa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Libera Tutemet Ex-Inferis",
+  "corporation_id": 944838017,
+  "alliance_id": 99009163,
+  "corporation_name": "AWE Corporation",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123705443,
+  "total_losses": 35,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2121694378,
+    "name": "Character 2121694378",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90598465,
+      "name": "Aleks 47598",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96242769,
+      "name": "VisioCommander",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Black Market Seeder",
+  "corporation_id": 98795383,
+  "alliance_id": 99003956,
+  "corporation_name": "PushX Beacon Network",
+  "alliance_name": "Push Interstellar Network"
+}

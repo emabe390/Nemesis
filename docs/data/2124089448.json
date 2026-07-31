@@ -1,0 +1,52 @@
+{
+  "character_id": 2124089448,
+  "total_losses": 38,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 214665328,
+    "name": "Mr Dima",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 5,
+      "final_blows": 3
+    },
+    {
+      "id": 94848671,
+      "name": "Valentino Flex",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91114703,
+      "name": "Tank Lord",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 268321879,
+      "name": "Kriomnimus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Prince Pitts",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

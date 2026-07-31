@@ -1,0 +1,46 @@
+{
+  "character_id": 2123938090,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117244644,
+      "name": "Uwu Jonestown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121419088,
+      "name": "13th Of Several",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123168688,
+      "name": "zLegion 13",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Q night",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

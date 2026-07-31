@@ -1,0 +1,52 @@
+{
+  "character_id": 2123228539,
+  "total_losses": 20,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 91364694,
+    "name": "Vladof Alduin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98647808,
+    "alliance_id": null,
+    "corporation_name": "Gok Tengu",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91364694,
+      "name": "Vladof Alduin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117607532,
+      "name": "Grand-Admiral-Thrawn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95458098,
+      "name": "Letschau Petti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 207781007,
+      "name": "Sob echo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aya Yamato",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

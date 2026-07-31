@@ -1,0 +1,40 @@
+{
+  "character_id": 2124476989,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1506544330,
+    "name": "Dr Diamond",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98647659,
+    "alliance_id": 99011978,
+    "corporation_name": "Soltech Armada",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1506544330,
+      "name": "Dr Diamond",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116401455,
+      "name": "AxeI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Icharum",
+  "corporation_id": 98838953,
+  "alliance_id": null,
+  "corporation_name": "Grym Ventures",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 555529579,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123973440,
+    "name": "Kara Vail",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123973440,
+      "name": "Kara Vail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92150428,
+      "name": "Blackstar 13",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92552157,
+      "name": "Slarn Nomad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112382031,
+      "name": "Jimm Holden",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mordimeir Knifewind",
+  "corporation_id": 98270640,
+  "alliance_id": 1354830081,
+  "corporation_name": "BOVRIL bOREers Mining CO-OP",
+  "alliance_name": "Goonswarm Federation"
+}

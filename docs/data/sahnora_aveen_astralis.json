@@ -1,0 +1,52 @@
+{
+  "character_id": 2123367422,
+  "total_losses": 19,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2123041040,
+    "name": "Lunara maximus",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98787023,
+    "alliance_id": 99013747,
+    "corporation_name": "Nova Prospect Enterprises",
+    "alliance_name": "Missile Militia"
+  },
+  "top_killers": [
+    {
+      "id": 2123041040,
+      "name": "Lunara maximus",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120446729,
+      "name": "Oitoh Zama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91993463,
+      "name": "Jhonny Alstair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94351126,
+      "name": "Zor Q",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1941744053,
+      "name": "Crowsher",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sahnora Aveen Astralis",
+  "corporation_id": 98787023,
+  "alliance_id": 99013747,
+  "corporation_name": "Nova Prospect Enterprises",
+  "alliance_name": "Missile Militia"
+}

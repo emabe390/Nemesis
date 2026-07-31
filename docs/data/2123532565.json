@@ -1,0 +1,40 @@
+{
+  "character_id": 2123532565,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96841646,
+    "name": "Echerie Ambraelle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 309671684,
+    "alliance_id": 99005034,
+    "corporation_name": "Jupiter Roughriders",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 96841646,
+      "name": "Echerie Ambraelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mr Keda",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

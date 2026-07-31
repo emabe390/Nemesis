@@ -1,0 +1,52 @@
+{
+  "character_id": 2121813107,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 144906675,
+    "name": "Commander Diaz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98161081,
+    "alliance_id": null,
+    "corporation_name": "Jedi of the Sea",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 144906675,
+      "name": "Commander Diaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114761148,
+      "name": "j4ger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93292720,
+      "name": "Slanesh Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95138895,
+      "name": "Yuri Pyrrhus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kodin Darine",
+  "corporation_id": 98297722,
+  "alliance_id": 99002685,
+  "corporation_name": "Space Colony",
+  "alliance_name": "Synergy of Steel"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2118401975,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90364875,
+    "name": "Illustrale Mortales",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238742851,
+    "alliance_id": 99001105,
+    "corporation_name": "Privateers",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117023842,
+      "name": "Magpul Masada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119898322,
+      "name": "Chanan Souhl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NinReco",
+  "corporation_id": 98817566,
+  "alliance_id": 99005338,
+  "corporation_name": "Cool Beans Inc.",
+  "alliance_name": "Pandemic Horde"
+}

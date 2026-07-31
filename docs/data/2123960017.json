@@ -1,0 +1,40 @@
+{
+  "character_id": 2123960017,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123959652,
+    "name": "Stone HuLu",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98648061,
+    "alliance_id": 99009163,
+    "corporation_name": "Tu Zi Fei Corporation",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123959652,
+      "name": "Stone HuLu",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117616860,
+      "name": "Joker Avada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122492494,
+      "name": "Quickchop of King",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dean HuLu",
+  "corporation_id": 98648061,
+  "alliance_id": 99009163,
+  "corporation_name": "Tu Zi Fei Corporation",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2116255360,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 455004094,
+    "name": "Felis Snake",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98150197,
+    "alliance_id": null,
+    "corporation_name": "Tau Nova",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 455004094,
+      "name": "Felis Snake",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 208472006,
+      "name": "Xlost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carthorn",
+  "corporation_id": 98572065,
+  "alliance_id": 99014365,
+  "corporation_name": "Miners Trade Company",
+  "alliance_name": "Imperial Empire"
+}

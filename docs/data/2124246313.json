@@ -1,0 +1,40 @@
+{
+  "character_id": 2124246313,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 791591521,
+    "name": "Gale Hawkeye",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98650301,
+    "alliance_id": 99012723,
+    "corporation_name": "Triglavian Directive",
+    "alliance_name": "S h a d o w"
+  },
+  "top_killers": [
+    {
+      "id": 791591521,
+      "name": "Gale Hawkeye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 198615626,
+      "name": "Delta Flyer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123602804,
+      "name": "Barb4r1an",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "medvedka01",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

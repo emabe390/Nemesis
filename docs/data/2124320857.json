@@ -1,0 +1,52 @@
+{
+  "character_id": 2124320857,
+  "total_losses": 31,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2124320856,
+    "name": "MaidSpac3",
+    "kill_count": 23,
+    "final_blows": 23,
+    "corporation_id": 98808713,
+    "alliance_id": null,
+    "corporation_name": "Space Watermelons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124320856,
+      "name": "MaidSpac3",
+      "kill_count": 23,
+      "final_blows": 23
+    },
+    {
+      "id": 2123447726,
+      "name": "Vaiter Spac",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122766454,
+      "name": "Vaiter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94649818,
+      "name": "Cyrus Creed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96850285,
+      "name": "Ava Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SpacLove3",
+  "corporation_id": 98808713,
+  "alliance_id": null,
+  "corporation_name": "Space Watermelons",
+  "alliance_name": null
+}

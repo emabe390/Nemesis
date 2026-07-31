@@ -1,0 +1,46 @@
+{
+  "character_id": 2123640211,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123107920,
+    "name": "Wizard of Idium",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98768799,
+    "alliance_id": 99013692,
+    "corporation_name": "Black Rats Securities",
+    "alliance_name": "Independent Miners Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123107920,
+      "name": "Wizard of Idium",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1300834416,
+      "name": "Z06",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115903151,
+      "name": "shark daddy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123019295,
+      "name": "Roman Castri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nastolen Saken",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

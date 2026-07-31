@@ -1,0 +1,52 @@
+{
+  "character_id": 2112237348,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96373166,
+    "name": "Tychus Rah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776729,
+    "alliance_id": 99013390,
+    "corporation_name": "Tidal Lock",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 96373166,
+      "name": "Tychus Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121302237,
+      "name": "Turtle Tank",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91172788,
+      "name": "Orion Imperator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96362702,
+      "name": "Saxaman Nobunaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1486100897,
+      "name": "Dendarius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jet Mmorgan",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124236245,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 95860877,
+    "name": "Lord Ripperon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95860877,
+      "name": "Lord Ripperon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 756371639,
+      "name": "Dekaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91828300,
+      "name": "Seterinthia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94221970,
+      "name": "Nero Ayel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2036731565,
+      "name": "luftwraith",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JacksonCole",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

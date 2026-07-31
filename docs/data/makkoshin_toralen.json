@@ -1,0 +1,46 @@
+{
+  "character_id": 2123379324,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1310882766,
+      "name": "GoldMax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117275596,
+      "name": "Shady Pinen Uta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Makkoshin Toralen",
+  "corporation_id": 98597379,
+  "alliance_id": 99013828,
+  "corporation_name": "Mandalorian Guard",
+  "alliance_name": "League of Extraordinarily Terrible Gamers"
+}

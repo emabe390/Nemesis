@@ -1,0 +1,52 @@
+{
+  "character_id": 91441071,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1380968958,
+    "name": "D'rall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98134086,
+    "alliance_id": null,
+    "corporation_name": "Fishbone Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1380968958,
+      "name": "D'rall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95130444,
+      "name": "Katia Senegit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 168743720,
+      "name": "Monarch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 858420131,
+      "name": "Shpuntik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Asuryan D'Arquebus",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 93716118,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 120254929,
+    "name": "Serwenta",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 144832822,
+    "alliance_id": 99005393,
+    "corporation_name": "TOHA Heavy Industries",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 120254929,
+      "name": "Serwenta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91017278,
+      "name": "Ivy Kuznetsova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92526572,
+      "name": "Market Tycoon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94905826,
+      "name": "Maelstrom Kannagi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Peter Pinecone",
+  "corporation_id": 98755374,
+  "alliance_id": null,
+  "corporation_name": "Everyone is Pinata",
+  "alliance_name": null
+}

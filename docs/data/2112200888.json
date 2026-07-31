@@ -1,0 +1,52 @@
+{
+  "character_id": 2112200888,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91182379,
+    "name": "Outcast Blackmoor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 866918391,
+    "alliance_id": 99012604,
+    "corporation_name": "X-Zest Voyage",
+    "alliance_name": "X - Z E S T"
+  },
+  "top_killers": [
+    {
+      "id": 91182379,
+      "name": "Outcast Blackmoor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96164066,
+      "name": "Carlos Sokaras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112291747,
+      "name": "Nick Rotinequet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115213993,
+      "name": "Artoria Neko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114548431,
+      "name": "Spartanik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Data Ryker",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2124357343,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124279261,
+    "name": "Nidhoggr Corpsewing",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98774989,
+    "alliance_id": 99013797,
+    "corporation_name": "Fourth District Sentinels",
+    "alliance_name": "The Caldari Fourth District"
+  },
+  "top_killers": [
+    {
+      "id": 2124279261,
+      "name": "Nidhoggr Corpsewing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loup de Nulle",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

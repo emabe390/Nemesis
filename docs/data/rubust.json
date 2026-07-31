@@ -1,0 +1,46 @@
+{
+  "character_id": 2124003881,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123527408,
+    "name": "Van Khorst",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790508,
+    "alliance_id": 99014050,
+    "corporation_name": "Moonlight Mouse Hole",
+    "alliance_name": "Lunar Luminescence"
+  },
+  "top_killers": [
+    {
+      "id": 2123527408,
+      "name": "Van Khorst",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90273936,
+      "name": "Meta's Slave",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 222844749,
+      "name": "Templar Dane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112373781,
+      "name": "penu Hekard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rubust",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

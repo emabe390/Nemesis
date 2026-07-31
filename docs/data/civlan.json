@@ -1,0 +1,52 @@
+{
+  "character_id": 828919090,
+  "total_losses": 52,
+  "unique_killers": 45,
+  "nemesis": {
+    "id": 2119997444,
+    "name": "Autocannon Automaton",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98784423,
+    "alliance_id": null,
+    "corporation_name": "Whimsy Industrial Complex",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119997444,
+      "name": "Autocannon Automaton",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90094158,
+      "name": "DarkSkinner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94129398,
+      "name": "Trainer Aer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 629132633,
+      "name": "myEpic2",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Civlan",
+  "corporation_id": 1234259884,
+  "alliance_id": 154104258,
+  "corporation_name": "Vesuvian Fleet",
+  "alliance_name": "Apocalypse Now."
+}

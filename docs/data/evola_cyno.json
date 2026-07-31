@@ -1,0 +1,52 @@
+{
+  "character_id": 2123527166,
+  "total_losses": 34,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2121345502,
+    "name": "Boltrom",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2119448504,
+      "name": "SigmaMale",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92341298,
+      "name": "NxCrewRambo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 315875565,
+      "name": "sir spock",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1384591638,
+      "name": "Uzuki Shootmenow",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Evola Cyno",
+  "corporation_id": 98684131,
+  "alliance_id": null,
+  "corporation_name": "Evola Deliveries",
+  "alliance_name": null
+}

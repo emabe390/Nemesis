@@ -1,0 +1,40 @@
+{
+  "character_id": 2124244169,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 189849562,
+    "name": "Sard Caid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821045,
+    "alliance_id": null,
+    "corporation_name": "Pithatus Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 189849562,
+      "name": "Sard Caid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116572204,
+      "name": "So Sakaa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118742192,
+      "name": "Ormalon Codie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grubyi",
+  "corporation_id": 98780488,
+  "alliance_id": 99012021,
+  "corporation_name": "Molly Brown Corporation",
+  "alliance_name": "UA Fleets"
+}

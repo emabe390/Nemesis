@@ -1,0 +1,40 @@
+{
+  "character_id": 2120198775,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112234529,
+    "name": "GoYoung DH",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98504153,
+    "alliance_id": 99003581,
+    "corporation_name": "Stay Alive.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2112234529,
+      "name": "GoYoung DH",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113362799,
+      "name": "GoYoung Mining",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114980201,
+      "name": "IMFOX Miromme",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo Tyrannus",
+  "corporation_id": 98698252,
+  "alliance_id": null,
+  "corporation_name": "Out Of The Depths Academy",
+  "alliance_name": null
+}

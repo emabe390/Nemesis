@@ -1,0 +1,40 @@
+{
+  "character_id": 2123635841,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119503963,
+    "name": "Andrea Risk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781761,
+    "alliance_id": 99013732,
+    "corporation_name": "Dimensional Rift Marauders",
+    "alliance_name": "Rainbow Dash Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2119503963,
+      "name": "Andrea Risk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121115814,
+      "name": "kybernaut collective",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122050949,
+      "name": "Faaputaa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DL Covetous",
+  "corporation_id": 98784786,
+  "alliance_id": 99014051,
+  "corporation_name": "Union Our Power",
+  "alliance_name": "K-Space Exile"
+}

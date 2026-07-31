@@ -1,0 +1,34 @@
+{
+  "character_id": 2123661024,
+  "total_losses": 21,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123661067,
+    "name": "Ragneda McCray",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 98763564,
+    "alliance_id": null,
+    "corporation_name": "McCray's",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123661067,
+      "name": "Ragneda McCray",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 1163209583,
+      "name": "Punch Bunny",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kazimir McCray",
+  "corporation_id": 98763564,
+  "alliance_id": null,
+  "corporation_name": "McCray's",
+  "alliance_name": null
+}

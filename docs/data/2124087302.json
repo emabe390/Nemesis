@@ -1,0 +1,40 @@
+{
+  "character_id": 2124087302,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94141653,
+    "name": "Alpha Urania",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98708809,
+    "alliance_id": 99013122,
+    "corporation_name": "Astra Militarum Outer Ring Requisitions",
+    "alliance_name": "Chickens Run"
+  },
+  "top_killers": [
+    {
+      "id": 94141653,
+      "name": "Alpha Urania",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124129111,
+      "name": "Sewryk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cosmotier",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

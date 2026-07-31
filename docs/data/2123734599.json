@@ -1,0 +1,46 @@
+{
+  "character_id": 2123734599,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113311183,
+    "name": "Tore Katt",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96470500,
+      "name": "Van Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1020045943,
+      "name": "Rexar WIlkinsonia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loray",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

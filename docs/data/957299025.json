@@ -1,0 +1,40 @@
+{
+  "character_id": 957299025,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119436627,
+    "name": "Eveque de Puy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98764729,
+    "alliance_id": 99008697,
+    "corporation_name": "GF Zero",
+    "alliance_name": "GF Company"
+  },
+  "top_killers": [
+    {
+      "id": 2119436627,
+      "name": "Eveque de Puy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 543349439,
+      "name": "KamRoyal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aulus Kalden",
+  "corporation_id": 98732411,
+  "alliance_id": null,
+  "corporation_name": "Half Butterfly",
+  "alliance_name": null
+}

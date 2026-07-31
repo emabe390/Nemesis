@@ -1,0 +1,40 @@
+{
+  "character_id": 2123651543,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94129694,
+    "name": "Kel Ataru",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98738103,
+    "alliance_id": 99012211,
+    "corporation_name": "Deaths Shitposters",
+    "alliance_name": "I have a jar of relish I cant open"
+  },
+  "top_killers": [
+    {
+      "id": 94129694,
+      "name": "Kel Ataru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117147459,
+      "name": "Thanatos Atheno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123168238,
+      "name": "Byron Pfister",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123651543",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

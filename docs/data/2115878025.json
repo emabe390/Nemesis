@@ -1,0 +1,34 @@
+{
+  "character_id": 2115878025,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117682042,
+    "name": "combat duck",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117682042,
+      "name": "combat duck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jane Sally",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

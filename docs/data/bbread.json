@@ -1,0 +1,52 @@
+{
+  "character_id": 2124299766,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2119509984,
+    "name": "Canis Majoris I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349567985,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Legion of Spoon",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2119509984,
+      "name": "Canis Majoris I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124074014,
+      "name": "Jace Shadows",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90421201,
+      "name": "MRJXD Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96850285,
+      "name": "Ava Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 584030540,
+      "name": "Aiesha Nmemnova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "bbread",
+  "corporation_id": 98835220,
+  "alliance_id": null,
+  "corporation_name": "The Oven",
+  "alliance_name": null
+}

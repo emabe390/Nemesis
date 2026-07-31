@@ -1,0 +1,52 @@
+{
+  "character_id": 2123874376,
+  "total_losses": 111,
+  "unique_killers": 81,
+  "nemesis": {
+    "id": 2116173806,
+    "name": "Raum Norsson",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98767644,
+    "alliance_id": null,
+    "corporation_name": "Speculatores Amarr",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2123843584,
+      "name": "Jarek Hallow",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112437972,
+      "name": "Alienora Viireinen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90148098,
+      "name": "BRIMTAK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tornnado Sec",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

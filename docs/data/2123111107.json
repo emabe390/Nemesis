@@ -1,0 +1,40 @@
+{
+  "character_id": 2123111107,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92130254,
+    "name": "Daidva Isayeki",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98718813,
+    "alliance_id": 99011828,
+    "corporation_name": "Outcasts Only",
+    "alliance_name": "Abyssal Brick Rollers"
+  },
+  "top_killers": [
+    {
+      "id": 92130254,
+      "name": "Daidva Isayeki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93244624,
+      "name": "GATS HALF",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119264117,
+      "name": "Korko Buchik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GraveDust",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

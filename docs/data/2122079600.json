@@ -1,0 +1,52 @@
+{
+  "character_id": 2122079600,
+  "total_losses": 52,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96033652,
+      "name": "Foxy Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90104107,
+      "name": "Kegedas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90217952,
+      "name": "Gready",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blurnights",
+  "corporation_id": 98704324,
+  "alliance_id": 99011990,
+  "corporation_name": "Space Rift Cowboys",
+  "alliance_name": "D3ad End"
+}

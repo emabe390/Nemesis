@@ -1,0 +1,46 @@
+{
+  "character_id": 2123720552,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 115943137,
+    "name": "Ninurta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045540,
+    "alliance_id": 99013072,
+    "corporation_name": "Stain Forever",
+    "alliance_name": "Stain Neurodiverse Democracy"
+  },
+  "top_killers": [
+    {
+      "id": 115943137,
+      "name": "Ninurta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 995590600,
+      "name": "Jasmine Cho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123720552,
+      "name": "Tikhij Strannik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tikhij Strannik",
+  "corporation_id": 98812730,
+  "alliance_id": null,
+  "corporation_name": "Tikhij Strannik Corporation",
+  "alliance_name": null
+}

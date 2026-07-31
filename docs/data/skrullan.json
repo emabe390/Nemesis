@@ -1,0 +1,40 @@
+{
+  "character_id": 2124549831,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123902099,
+    "name": "Etin Sinulf",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815827,
+    "alliance_id": 99015184,
+    "corporation_name": "Ful'Tang",
+    "alliance_name": "Shoalwater Scoundrels"
+  },
+  "top_killers": [
+    {
+      "id": 2123902099,
+      "name": "Etin Sinulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 616421990,
+      "name": "Derwent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115516882,
+      "name": "kong xlng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skrullan",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

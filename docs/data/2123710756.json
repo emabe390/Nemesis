@@ -1,0 +1,46 @@
+{
+  "character_id": 2123710756,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92408788,
+    "name": "Argive Lonestar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92408788,
+      "name": "Argive Lonestar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95380066,
+      "name": "Kaver Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 198914893,
+      "name": "Vladimir Elexiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123418810,
+      "name": "Icurian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Data Byte",
+  "corporation_id": 98819563,
+  "alliance_id": null,
+  "corporation_name": "Neon Veil",
+  "alliance_name": null
+}

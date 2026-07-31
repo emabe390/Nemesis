@@ -1,0 +1,34 @@
+{
+  "character_id": 92163786,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95385118,
+    "name": "Ferrata",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98638037,
+    "alliance_id": null,
+    "corporation_name": "Adeptus Mechanicus Coalition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95385118,
+      "name": "Ferrata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AlexaCh Hibra",
+  "corporation_id": 98628171,
+  "alliance_id": null,
+  "corporation_name": "Lex Et Ordo",
+  "alliance_name": null
+}

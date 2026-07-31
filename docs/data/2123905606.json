@@ -1,0 +1,52 @@
+{
+  "character_id": 2123905606,
+  "total_losses": 43,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2116133944,
+    "name": "John Ivy-Elliott",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 712577137,
+    "alliance_id": 99010015,
+    "corporation_name": "Commonwealth Mercenaries",
+    "alliance_name": "BLACKFLAG."
+  },
+  "top_killers": [
+    {
+      "id": 2116133944,
+      "name": "John Ivy-Elliott",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2121738552,
+      "name": "crepto",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2123417739,
+      "name": "oudy",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90047488,
+      "name": "GeorgenLarusso",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123805496,
+      "name": "Yoondan Moussou",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Wielkie Cycki",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123409027,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120358772,
+    "name": "Res Cobon-Han",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 846656839,
+    "alliance_id": 1691647675,
+    "corporation_name": "Revenent Defence Corperation",
+    "alliance_name": "Ishuk-Raata Enforcement Directive"
+  },
+  "top_killers": [
+    {
+      "id": 2120358772,
+      "name": "Res Cobon-Han",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121098859,
+      "name": "Graalis GinCarr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DEI Agent",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

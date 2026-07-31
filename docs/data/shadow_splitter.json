@@ -1,0 +1,52 @@
+{
+  "character_id": 2121450605,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 96540500,
+    "name": "Vykorin Shi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96540500,
+      "name": "Vykorin Shi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113375369,
+      "name": "Tinten Onzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123545648,
+      "name": "Heiranisto Sentry",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94025591,
+      "name": "Semka Borodin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadow Splitter",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123583082,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 822300633,
+    "name": "Molotowcocktail",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 822300633,
+      "name": "Molotowcocktail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 220528929,
+      "name": "slasher99",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116722978,
+      "name": "Algernon Montgomery",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elena Kondakowa",
+  "corporation_id": 98812644,
+  "alliance_id": 99014481,
+  "corporation_name": "Kestrel State Security",
+  "alliance_name": "Kestrel Dynamics"
+}

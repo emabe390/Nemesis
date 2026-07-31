@@ -1,0 +1,40 @@
+{
+  "character_id": 2123324912,
+  "total_losses": 64,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94733142,
+    "name": "Yana Hendar",
+    "kill_count": 62,
+    "final_blows": 62,
+    "corporation_id": 98772218,
+    "alliance_id": null,
+    "corporation_name": "Death Weasel Holding Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94733142,
+      "name": "Yana Hendar",
+      "kill_count": 62,
+      "final_blows": 62
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92455452,
+      "name": "Stefan Shayiskun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trusted Recruiters",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

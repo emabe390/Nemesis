@@ -1,0 +1,52 @@
+{
+  "character_id": 96973933,
+  "total_losses": 148,
+  "unique_killers": 123,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 5,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 5,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92673584,
+      "name": "De Lukis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96024153,
+      "name": "Stockholm Yaken",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 96973933",
+  "corporation_id": 98679081,
+  "alliance_id": 1900696668,
+  "corporation_name": "Deaths Consortium",
+  "alliance_name": "The Initiative."
+}

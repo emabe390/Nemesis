@@ -1,0 +1,46 @@
+{
+  "character_id": 2124188338,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 953838382,
+    "name": "CREXS",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380262,
+    "alliance_id": 99013537,
+    "corporation_name": "CATGO",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 953838382,
+      "name": "CREXS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115514516,
+      "name": "Turbo Tobbe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Obi-Warp Kenobi",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

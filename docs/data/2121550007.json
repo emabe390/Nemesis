@@ -1,0 +1,52 @@
+{
+  "character_id": 2121550007,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 92274205,
+    "name": "Victor Sternberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90894630,
+      "name": "Cael Sotken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 538689060,
+      "name": "Funkert",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 743527496,
+      "name": "SilentEcho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 957008096,
+      "name": "Zintar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "amone wylis",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

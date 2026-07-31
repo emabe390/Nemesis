@@ -1,0 +1,34 @@
+{
+  "character_id": 2119526651,
+  "total_losses": 28,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121279313,
+    "name": "El Mandril",
+    "kill_count": 27,
+    "final_blows": 27,
+    "corporation_id": 98778667,
+    "alliance_id": 99013327,
+    "corporation_name": "Hard Cuys Inc.",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2121279313,
+      "name": "El Mandril",
+      "kill_count": 27,
+      "final_blows": 27
+    },
+    {
+      "id": 2116532685,
+      "name": "WeX SM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okamainen al'Anzomi",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

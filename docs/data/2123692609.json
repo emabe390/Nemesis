@@ -1,0 +1,40 @@
+{
+  "character_id": 2123692609,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122329382,
+    "name": "Tech II Tempest2",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98759516,
+    "alliance_id": null,
+    "corporation_name": "NeighbourRoach",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122329382,
+      "name": "Tech II Tempest2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122329384,
+      "name": "Tech II Tempest4",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122362883,
+      "name": "Character 2122362883",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EVE1010",
+  "corporation_id": 98608010,
+  "alliance_id": null,
+  "corporation_name": "ATLAS CORPORATION S.A",
+  "alliance_name": null
+}

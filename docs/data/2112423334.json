@@ -1,0 +1,52 @@
+{
+  "character_id": 2112423334,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 833050087,
+    "name": "ratain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480476,
+    "alliance_id": 99008915,
+    "corporation_name": "tunnel visions",
+    "alliance_name": "Templis Strategic Division"
+  },
+  "top_killers": [
+    {
+      "id": 833050087,
+      "name": "ratain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122679280,
+      "name": "ohmm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116655799,
+      "name": "Ming Mai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117588177,
+      "name": "Vaira Palowski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Solaris Razguhl",
+  "corporation_id": 98429230,
+  "alliance_id": 99012162,
+  "corporation_name": "Rockefeller Industries",
+  "alliance_name": "The Chicken Coop"
+}

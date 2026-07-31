@@ -1,0 +1,40 @@
+{
+  "character_id": 2123955445,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93368150,
+    "name": "Character 93368150",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 93368150,
+      "name": "Character 93368150",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95331708,
+      "name": "Legion Masser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95517948,
+      "name": "Gunbunny134",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jay A Nokisz",
+  "corporation_id": 98820022,
+  "alliance_id": null,
+  "corporation_name": "Nokisz' Anoikis Incogni Solutions",
+  "alliance_name": null
+}

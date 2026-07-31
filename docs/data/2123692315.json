@@ -1,0 +1,52 @@
+{
+  "character_id": 2123692315,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 1533211944,
+    "name": "Serenety Steel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1533211944,
+      "name": "Serenety Steel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112257898,
+      "name": "Character 2112257898",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96268143,
+      "name": "Keval Kovalev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96620999,
+      "name": "Dreznik Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 165332291,
+      "name": "Hunter Hughes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oerlikan Natrimin",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

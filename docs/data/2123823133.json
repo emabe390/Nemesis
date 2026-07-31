@@ -1,0 +1,52 @@
+{
+  "character_id": 2123823133,
+  "total_losses": 45,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123673646,
+    "name": "Mithrax Rex",
+    "kill_count": 26,
+    "final_blows": 26,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 2123673646,
+      "name": "Mithrax Rex",
+      "kill_count": 26,
+      "final_blows": 26
+    },
+    {
+      "id": 93663984,
+      "name": "Sam McTaylor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95494895,
+      "name": "Simon Rotineque",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 593062193,
+      "name": "Annexile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640170087,
+      "name": "JK Shadow",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Felicity Rex",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 203299460,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92868462,
+    "name": "Delmys Tran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92868462,
+      "name": "Delmys Tran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1449928021,
+      "name": "Yakumo Chidori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116697884,
+      "name": "Vlad's Ratter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arya Tara",
+  "corporation_id": 98738943,
+  "alliance_id": 99005338,
+  "corporation_name": "Take The Bait.",
+  "alliance_name": "Pandemic Horde"
+}

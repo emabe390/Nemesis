@@ -1,0 +1,40 @@
+{
+  "character_id": 96027972,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92385566,
+    "name": "Lucien Letoile",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808346,
+    "alliance_id": null,
+    "corporation_name": "Marubika",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92385566,
+      "name": "Lucien Letoile",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96346764,
+      "name": "Styx Prana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 960907441,
+      "name": "Luukje",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jason Blank",
+  "corporation_id": 98652891,
+  "alliance_id": 1042504553,
+  "corporation_name": "Dutch Legions",
+  "alliance_name": "Solyaris Chtonium"
+}

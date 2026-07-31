@@ -1,0 +1,46 @@
+{
+  "character_id": 2123825889,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113470423,
+    "name": "Ody Mandrell",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2113470423,
+      "name": "Ody Mandrell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2007142123,
+      "name": "Usarius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119947844,
+      "name": "Aladar Krahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123432043,
+      "name": "Alex mdv",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varom Boomtiak Caldrrag",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

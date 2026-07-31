@@ -1,0 +1,52 @@
+{
+  "character_id": 2123385958,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 663393433,
+    "name": "Nukakola",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 663393433,
+      "name": "Nukakola",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117463498,
+      "name": "Dalt Verfit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119326206,
+      "name": "Djuzep",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93569811,
+      "name": "Ryslan Sharipov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Clunetic",
+  "corporation_id": 98302952,
+  "alliance_id": 99009693,
+  "corporation_name": "Malevelon Roe Industries",
+  "alliance_name": "Convocation of Empyreans"
+}

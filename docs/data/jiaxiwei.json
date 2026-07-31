@@ -1,0 +1,46 @@
+{
+  "character_id": 2123897374,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112697705,
+    "name": "Demmon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112697705,
+      "name": "Demmon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 364216128,
+      "name": "Haemus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114715637,
+      "name": "Single Man",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JiaxiWei",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123115966,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95012754,
+    "name": "Der Tauber",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98823090,
+    "alliance_id": null,
+    "corporation_name": "Last Signature",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95012754,
+      "name": "Der Tauber",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93156824,
+      "name": "ShapeST",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95497451,
+      "name": "Fen Frimon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chthonaios",
+  "corporation_id": 98444728,
+  "alliance_id": null,
+  "corporation_name": "Wandering Dreams",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124416937,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92682146,
+    "name": "Character 92682146",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771594,
+    "alliance_id": null,
+    "corporation_name": "ComGuards",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92682146,
+      "name": "Character 92682146",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 292360369,
+      "name": "Crocodyllus Pontifex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1965621034,
+      "name": "Clinkar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122525326,
+      "name": "Artasen Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Noxis Hakaari",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123636279,
+  "total_losses": 17,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 95247083,
+    "name": "Alice Hoke",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98777401,
+    "alliance_id": 99009163,
+    "corporation_name": "Baby-Bus",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 95247083,
+      "name": "Alice Hoke",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 231780215,
+      "name": "Character 231780215",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luna Hoke",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

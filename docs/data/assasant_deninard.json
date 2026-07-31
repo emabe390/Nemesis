@@ -1,0 +1,52 @@
+{
+  "character_id": 2123011482,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121918991,
+      "name": "S0dET",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94421295,
+      "name": "LeRoy Rathbone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120607097,
+      "name": "Immila Shata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Assasant Deninard",
+  "corporation_id": 98713511,
+  "alliance_id": 99012697,
+  "corporation_name": "nihonium 113th Fleet",
+  "alliance_name": "High Elements Alliance"
+}

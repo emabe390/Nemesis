@@ -1,0 +1,52 @@
+{
+  "character_id": 2114921147,
+  "total_losses": 23,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3020075,
+    "name": "Phylarch Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 540456268,
+      "name": "Sparkas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1727101727,
+      "name": "Hidden Rorshach",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114042030,
+      "name": "M2018M",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kignus Altrin",
+  "corporation_id": 98616922,
+  "alliance_id": 99003214,
+  "corporation_name": "Galactic Deep Space Industries",
+  "alliance_name": "Brave Collective"
+}

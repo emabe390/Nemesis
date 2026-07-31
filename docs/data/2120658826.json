@@ -1,0 +1,52 @@
+{
+  "character_id": 2120658826,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 802805438,
+    "name": "Vidass",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 802805438,
+      "name": "Vidass",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1125701109,
+      "name": "Recon Smith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1228572256,
+      "name": "yrken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92177512,
+      "name": "Chosen One Erkkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93830016,
+      "name": "Icarus Osprey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hans Ericson",
+  "corporation_id": 557199155,
+  "alliance_id": 99011223,
+  "corporation_name": "The New Federation",
+  "alliance_name": "Sigma Grindset"
+}

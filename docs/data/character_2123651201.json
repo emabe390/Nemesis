@@ -1,0 +1,52 @@
+{
+  "character_id": 2123651201,
+  "total_losses": 48,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119604948,
+      "name": "Illyasviel Von Eizbern",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92291171,
+      "name": "Skol Marito",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93818484,
+      "name": "Coltitus Mando",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94814220,
+      "name": "Rima Ambraelle",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123651201",
+  "corporation_id": 98712041,
+  "alliance_id": 99010105,
+  "corporation_name": "Intergalactic Super Friends.",
+  "alliance_name": "Drifters."
+}

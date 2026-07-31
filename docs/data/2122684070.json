@@ -1,0 +1,40 @@
+{
+  "character_id": 2122684070,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118753900,
+    "name": "Father Osip",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630992,
+    "alliance_id": null,
+    "corporation_name": "Dream RuCorp inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118753900,
+      "name": "Father Osip",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123635358,
+      "name": "miko-lino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122684070",
+  "corporation_id": 98755298,
+  "alliance_id": 99005338,
+  "corporation_name": "Fox of Resistance",
+  "alliance_name": "Pandemic Horde"
+}

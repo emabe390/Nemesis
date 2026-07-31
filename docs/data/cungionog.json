@@ -1,0 +1,34 @@
+{
+  "character_id": 2123619213,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 725238064,
+    "name": "alpha lead",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 302750157,
+    "alliance_id": 99004901,
+    "corporation_name": "ElitistOps",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 725238064,
+      "name": "alpha lead",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117459543,
+      "name": "Radiata Aurelia Haginen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cungionog",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

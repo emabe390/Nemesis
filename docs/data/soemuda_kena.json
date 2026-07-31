@@ -1,0 +1,40 @@
+{
+  "character_id": 2123784831,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115726589,
+    "name": "Prima Calva",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776010,
+    "alliance_id": 99014894,
+    "corporation_name": "Quantum Dynamics.",
+    "alliance_name": "From Lost To The Wormhole."
+  },
+  "top_killers": [
+    {
+      "id": 2115726589,
+      "name": "Prima Calva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113678150,
+      "name": "Farwin Dust",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118508125,
+      "name": "Moa Money",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soemuda Kena",
+  "corporation_id": 772638496,
+  "alliance_id": 99006249,
+  "corporation_name": "Disaster Area",
+  "alliance_name": "DISASTER Delivery Service"
+}

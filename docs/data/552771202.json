@@ -1,0 +1,40 @@
+{
+  "character_id": 552771202,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96417025,
+    "name": "Jimmy Michaels",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118453093,
+      "name": "WeXSM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117902277,
+      "name": "Damien Rackham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Notraxx",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

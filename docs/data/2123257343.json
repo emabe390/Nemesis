@@ -1,0 +1,52 @@
+{
+  "character_id": 2123257343,
+  "total_losses": 58,
+  "unique_killers": 50,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 584032531,
+      "name": "SparrowHawkeye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 742591273,
+      "name": "stewpenny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1160996029,
+      "name": "HKMP5",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Julian Bjorn",
+  "corporation_id": 98818446,
+  "alliance_id": null,
+  "corporation_name": "Ancient Enterprise",
+  "alliance_name": null
+}

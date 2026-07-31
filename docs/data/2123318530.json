@@ -1,0 +1,52 @@
+{
+  "character_id": 2123318530,
+  "total_losses": 91,
+  "unique_killers": 69,
+  "nemesis": {
+    "id": 90532329,
+    "name": "Kitty Duval",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 609450050,
+    "alliance_id": 1988009451,
+    "corporation_name": "Cohortes Vigilum",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90532329,
+      "name": "Kitty Duval",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91547663,
+      "name": "Avion Sundiver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93023199,
+      "name": "Zilma Abadon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93193152,
+      "name": "Nihlius Bloodstone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94024546,
+      "name": "Dr chow Tasioka",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ST Tristram",
+  "corporation_id": 98792358,
+  "alliance_id": 99006447,
+  "corporation_name": "Aurora Chair Corp",
+  "alliance_name": "Without Fears"
+}

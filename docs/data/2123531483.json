@@ -1,0 +1,46 @@
+{
+  "character_id": 2123531483,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96708791,
+    "name": "Jason Aiderona",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112899448,
+      "name": "Gretta Amelsolf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112918286,
+      "name": "Eugene Lamouche",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122927551,
+      "name": "Roman Da Beaverslayer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vin Locke",
+  "corporation_id": 98716933,
+  "alliance_id": 99005178,
+  "corporation_name": "Tri-Tachyon Republic",
+  "alliance_name": "Domain Research and Mining Inst."
+}

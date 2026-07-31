@@ -1,0 +1,52 @@
+{
+  "character_id": 2123718503,
+  "total_losses": 21,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123592464,
+    "name": "Kotelnik Knapa",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98702288,
+    "alliance_id": null,
+    "corporation_name": "Uncommon Horizon",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123592464,
+      "name": "Kotelnik Knapa",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124049298,
+      "name": "JitaKid",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95719847,
+      "name": "Icarus Casablancas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113595652,
+      "name": "Brodi PingPong",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kostelnik Knapa",
+  "corporation_id": 98702288,
+  "alliance_id": 99013972,
+  "corporation_name": "Uncommon Horizon",
+  "alliance_name": "Vikings."
+}

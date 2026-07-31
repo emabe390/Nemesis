@@ -1,0 +1,52 @@
+{
+  "character_id": 2123799365,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94918414,
+    "name": "Coward Style",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94918414,
+      "name": "Coward Style",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 128572034,
+      "name": "Captain Sparro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532513629,
+      "name": "Nexium2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kara Skjaldmaer",
+  "corporation_id": 98096929,
+  "alliance_id": 99014101,
+  "corporation_name": "Reckless Entity Enterprises",
+  "alliance_name": "Reckless Empire"
+}

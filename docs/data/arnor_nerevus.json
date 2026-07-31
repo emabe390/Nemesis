@@ -1,0 +1,52 @@
+{
+  "character_id": 2123691725,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95865638,
+    "name": "William Chen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1091440439,
+    "alliance_id": 498125261,
+    "corporation_name": "AlcoDOTTE",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 95865638,
+      "name": "William Chen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 550392983,
+      "name": "Major Alex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114746027,
+      "name": "Dos Nachos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123663152,
+      "name": "Right here",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arnor Nerevus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

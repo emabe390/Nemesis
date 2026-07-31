@@ -1,0 +1,40 @@
+{
+  "character_id": 2121078327,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119677299,
+    "name": "Character 2119677299",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98539082,
+    "alliance_id": 1354830081,
+    "corporation_name": "Darkmoon Military Industrial Complex",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119677299,
+      "name": "Character 2119677299",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124069177,
+      "name": "Fax Me Mommy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124097706,
+      "name": "Lau Kaman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mitsugo",
+  "corporation_id": 98802753,
+  "alliance_id": null,
+  "corporation_name": "Eclipsed Moonlight",
+  "alliance_name": null
+}

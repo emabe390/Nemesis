@@ -1,0 +1,40 @@
+{
+  "character_id": 2123734001,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120566198,
+    "name": "LorkDall",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98737202,
+    "alliance_id": 99011387,
+    "corporation_name": "Quasar ZERG WH",
+    "alliance_name": "ZERG REBORN"
+  },
+  "top_killers": [
+    {
+      "id": 2120566198,
+      "name": "LorkDall",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120922032,
+      "name": "Misteric",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122685427,
+      "name": "Cobra Buichi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NeoSteam",
+  "corporation_id": 98782926,
+  "alliance_id": null,
+  "corporation_name": "Baiyu Lou",
+  "alliance_name": null
+}

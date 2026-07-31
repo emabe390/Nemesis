@@ -1,0 +1,52 @@
+{
+  "character_id": 2123095597,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121757694,
+      "name": "Ll'una SIlver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96237486,
+      "name": "SANCHERIZZO SANCHEZ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121676188,
+      "name": "Character 2121676188",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Naiella",
+  "corporation_id": 98452383,
+  "alliance_id": 99014467,
+  "corporation_name": "Xae Mining Consortium Inc.",
+  "alliance_name": "Empire's Edge Trading Cartel"
+}

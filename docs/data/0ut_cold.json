@@ -1,0 +1,40 @@
+{
+  "character_id": 2123364609,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117824798,
+    "name": "Pella Murni",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98685057,
+    "alliance_id": null,
+    "corporation_name": "RockWorks Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117824798,
+      "name": "Pella Murni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122282526,
+      "name": "Gayle en Cedoulain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122346480,
+      "name": "Alenier Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "0ut Cold",
+  "corporation_id": 98765171,
+  "alliance_id": null,
+  "corporation_name": "Order of the Black Shamrocks",
+  "alliance_name": null
+}

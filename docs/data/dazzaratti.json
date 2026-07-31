@@ -1,0 +1,40 @@
+{
+  "character_id": 2123664646,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112089383,
+    "name": "Spyke Austrene",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98497888,
+    "alliance_id": 99008751,
+    "corporation_name": "Monitor - Understanding the Market",
+    "alliance_name": "MARABUNTA"
+  },
+  "top_killers": [
+    {
+      "id": 2112089383,
+      "name": "Spyke Austrene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 300808358,
+      "name": "Palamon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124224296,
+      "name": "Yustekk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dazzaratti",
+  "corporation_id": 98839194,
+  "alliance_id": null,
+  "corporation_name": "DNP Logistics Co",
+  "alliance_name": null
+}

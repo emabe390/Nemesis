@@ -1,0 +1,52 @@
+{
+  "character_id": 2123552675,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95908711,
+    "name": "Dreya Starhunt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95908711,
+      "name": "Dreya Starhunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1490161422,
+      "name": "0101000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93021385,
+      "name": "Commander Tyrannis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97178300,
+      "name": "ItsDaWalrus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vaupero Kouvo",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

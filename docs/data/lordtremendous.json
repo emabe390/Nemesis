@@ -1,0 +1,40 @@
+{
+  "character_id": 2123441359,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91154239,
+    "name": "totenrage",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91154239,
+      "name": "totenrage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1084489795,
+      "name": "Major Scythe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122285162,
+      "name": "Tank-001",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LordTremendous",
+  "corporation_id": 831002760,
+  "alliance_id": 99009710,
+  "corporation_name": "The Black Rabbits",
+  "alliance_name": "The Gurlstas Associates"
+}

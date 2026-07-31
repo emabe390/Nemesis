@@ -1,0 +1,52 @@
+{
+  "character_id": 2118126942,
+  "total_losses": 21,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 2122285519,
+      "name": "179315",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90741945,
+      "name": "Slanzh'va",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91667131,
+      "name": "Dreaksy Tyr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CY-Daisy",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

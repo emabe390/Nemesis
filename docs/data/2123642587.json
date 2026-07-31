@@ -1,0 +1,52 @@
+{
+  "character_id": 2123642587,
+  "total_losses": 28,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123926469,
+    "name": "china su",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123926469,
+      "name": "china su",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 432590883,
+      "name": "Battelstar1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123929087,
+      "name": "china wei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92489946,
+      "name": "Alex Helion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sirikka Doikutsu",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

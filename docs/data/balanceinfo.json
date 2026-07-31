@@ -1,0 +1,52 @@
+{
+  "character_id": 2123648313,
+  "total_losses": 42,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2123627636,
+    "name": "EVE Labor",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98802914,
+    "alliance_id": 99009163,
+    "corporation_name": "NAN-ZHEN-FUSI",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123627636,
+      "name": "EVE Labor",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123695969,
+      "name": "Cra A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120678677,
+      "name": "Taube Gao",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 151859313,
+      "name": "Sol Orr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113457579,
+      "name": "Necrostrider Strider",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "BalanceInfo",
+  "corporation_id": 98802914,
+  "alliance_id": 99009163,
+  "corporation_name": "NAN-ZHEN-FUSI",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121192165,
+  "total_losses": 48,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2124230367,
+    "name": "Dr Lance Boil",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 669795117,
+    "alliance_id": 131511956,
+    "corporation_name": "Systems High Guard",
+    "alliance_name": "Tactical Narcotics Team"
+  },
+  "top_killers": [
+    {
+      "id": 2124230367,
+      "name": "Dr Lance Boil",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 92470684,
+      "name": "Bega Hadah",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121253403,
+      "name": "PICKLE M",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96361462,
+      "name": "Vystaril Rainheart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aniki Express",
+  "corporation_id": 98507124,
+  "alliance_id": null,
+  "corporation_name": "S.F Express",
+  "alliance_name": null
+}

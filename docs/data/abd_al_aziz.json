@@ -1,0 +1,52 @@
+{
+  "character_id": 94096940,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94003370,
+    "name": "Loc'Na Morbiditti",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98568086,
+    "alliance_id": null,
+    "corporation_name": "EveIsBoring",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94003370,
+      "name": "Loc'Na Morbiditti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 755007651,
+      "name": "Shemham Phorash",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1152005378,
+      "name": "Wilfur Starseeker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114326222,
+      "name": "Alleil Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121430306,
+      "name": "Don Gregorio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abd-al-Aziz",
+  "corporation_id": 98423475,
+  "alliance_id": 99014402,
+  "corporation_name": "Imperial Laboratories Ltd",
+  "alliance_name": "Plenitude Alliance"
+}

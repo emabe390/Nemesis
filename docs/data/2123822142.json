@@ -1,0 +1,52 @@
+{
+  "character_id": 2123822142,
+  "total_losses": 52,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 862972445,
+    "name": "nimon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 862972445,
+      "name": "nimon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95899858,
+      "name": "Erebus A Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96329381,
+      "name": "Monique Taron",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Misato Henedzima",
+  "corporation_id": 98792004,
+  "alliance_id": 99007203,
+  "corporation_name": "Academy Siberian Squad",
+  "alliance_name": "Siberian Squads"
+}

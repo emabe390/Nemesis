@@ -1,0 +1,34 @@
+{
+  "character_id": 2123290143,
+  "total_losses": 10,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 365641964,
+    "name": "Theos Zoro",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98328437,
+    "alliance_id": 1900696668,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 365641964,
+      "name": "Theos Zoro",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 535033898,
+      "name": "SkillTZ",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Scouty McScoutster",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123851578,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122944034,
+    "name": "Sinisterly",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98827234,
+    "alliance_id": null,
+    "corporation_name": "Necessary Violence",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122944034,
+      "name": "Sinisterly",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93304490,
+      "name": "Character 93304490",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 691241676,
+      "name": "Kolt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94222304,
+      "name": "Von Kazipallo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sir Varche",
+  "corporation_id": 98663247,
+  "alliance_id": 99011193,
+  "corporation_name": "ThunderStrike Corp",
+  "alliance_name": "Pewgilism."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124210512,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 156718111,
+    "name": "Baudin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1400791723,
+    "alliance_id": 99010468,
+    "corporation_name": "Metasoma Inc.",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 156718111,
+      "name": "Baudin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114900667,
+      "name": "Raszta srac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93496954,
+      "name": "Moros Commander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94882943,
+      "name": "Diablo's Gamekeeper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sophie Grey two",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

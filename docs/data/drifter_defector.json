@@ -1,0 +1,52 @@
+{
+  "character_id": 2123726158,
+  "total_losses": 38,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123204379,
+    "name": "Sarah Kerrigan Louise",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 98810688,
+    "alliance_id": null,
+    "corporation_name": "Void Dealers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123204379,
+      "name": "Sarah Kerrigan Louise",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 2121986378,
+      "name": "Samus Aran Zero",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123972070,
+      "name": "Imperator Furiosa Theron",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2123753003,
+      "name": "Jessica Atreides Dama",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drifter Defector",
+  "corporation_id": 98620000,
+  "alliance_id": 99010077,
+  "corporation_name": "Veretasium",
+  "alliance_name": "Wielders"
+}

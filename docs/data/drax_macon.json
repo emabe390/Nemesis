@@ -1,0 +1,34 @@
+{
+  "character_id": 92209303,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115010426,
+    "name": "Balto Richtofen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571715,
+    "alliance_id": 1900696668,
+    "corporation_name": "Xynodyne",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2115010426,
+      "name": "Balto Richtofen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120231906,
+      "name": "Piter O'Nil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drax Macon",
+  "corporation_id": 98545528,
+  "alliance_id": null,
+  "corporation_name": "ScrapBox16",
+  "alliance_name": null
+}

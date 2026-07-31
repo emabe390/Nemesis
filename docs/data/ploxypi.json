@@ -1,0 +1,40 @@
+{
+  "character_id": 2122728377,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97016400,
+    "name": "Jakub Tivianne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115324022,
+      "name": "VPN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PloxyPI",
+  "corporation_id": 649254410,
+  "alliance_id": 1354830081,
+  "corporation_name": "ICE is Coming to EVE",
+  "alliance_name": "Goonswarm Federation"
+}

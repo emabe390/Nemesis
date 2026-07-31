@@ -1,0 +1,46 @@
+{
+  "character_id": 2123886021,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93253112,
+    "name": "Mister McQueen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 93253112,
+      "name": "Mister McQueen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122348670,
+      "name": "Evelgene Rabos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122729999,
+      "name": "Naama Bombasta Rakeree",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122100857,
+      "name": "mr hitman 17",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Curlov",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

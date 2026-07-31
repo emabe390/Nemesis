@@ -1,0 +1,52 @@
+{
+  "character_id": 2120639194,
+  "total_losses": 23,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 1580869760,
+    "name": "long trang",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98116680,
+    "alliance_id": null,
+    "corporation_name": "Beta Development Salvage and Manufacturing",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1580869760,
+      "name": "long trang",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121940078,
+      "name": "SlayerRsBoxeR",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92278435,
+      "name": "Etara Yotosala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96586976,
+      "name": "Lictor Voss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117459371,
+      "name": "Kaptin Tiberius",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Last Fury",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

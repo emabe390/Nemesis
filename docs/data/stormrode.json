@@ -1,0 +1,40 @@
+{
+  "character_id": 1099002764,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92073289,
+    "name": "Chris Killer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98243020,
+    "alliance_id": 99008816,
+    "corporation_name": "Credendo Vides",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 92073289,
+      "name": "Chris Killer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91757554,
+      "name": "Doctor Barmental",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96911298,
+      "name": "smater van",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StormRode",
+  "corporation_id": 98735207,
+  "alliance_id": 1691647675,
+  "corporation_name": "Kairiola's Legacy",
+  "alliance_name": "Ishuk-Raata Enforcement Directive"
+}

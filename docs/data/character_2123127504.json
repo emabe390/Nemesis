@@ -1,0 +1,40 @@
+{
+  "character_id": 2123127504,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114238006,
+    "name": "Dayse Ane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829369,
+    "alliance_id": null,
+    "corporation_name": "Bloody Smile",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114238006,
+      "name": "Dayse Ane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96656859,
+      "name": "Isaiha Rock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 573234689,
+      "name": "Miniko Iska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123127504",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

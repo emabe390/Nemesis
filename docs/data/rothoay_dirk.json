@@ -1,0 +1,40 @@
+{
+  "character_id": 91302018,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91302018,
+    "name": "Rothoay Dirk",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98735707,
+    "alliance_id": 99014427,
+    "corporation_name": "Rockwall Mining Industries Inc.",
+    "alliance_name": "Itty Bitty Asteroid Academy"
+  },
+  "top_killers": [
+    {
+      "id": 91302018,
+      "name": "Rothoay Dirk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118920501,
+      "name": "Valentin Xenoma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121936426,
+      "name": "Tau ADD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rothoay Dirk",
+  "corporation_id": 98735707,
+  "alliance_id": 99014427,
+  "corporation_name": "Rockwall Mining Industries Inc.",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

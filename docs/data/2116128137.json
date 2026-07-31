@@ -1,0 +1,52 @@
+{
+  "character_id": 2116128137,
+  "total_losses": 42,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2123825535,
+    "name": "The Guided One",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98826309,
+    "alliance_id": 99014284,
+    "corporation_name": "ORK War Party",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96237614,
+      "name": "Wezer Arkaral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120609122,
+      "name": "Tetramoriym",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ingeborger",
+  "corporation_id": 98756495,
+  "alliance_id": 99013888,
+  "corporation_name": "Monkey Killers",
+  "alliance_name": "Happy Turbo Friends"
+}

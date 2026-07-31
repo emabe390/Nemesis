@@ -1,0 +1,34 @@
+{
+  "character_id": 2112907934,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121927569,
+    "name": "Zhadim",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815087,
+    "alliance_id": 99014495,
+    "corporation_name": "Tenebris Initiative",
+    "alliance_name": "Umbrella Initiative Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121927569,
+      "name": "Zhadim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120922032,
+      "name": "Misteric",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vivk Miles",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

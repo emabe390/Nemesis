@@ -1,0 +1,52 @@
+{
+  "character_id": 2123048668,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117353781,
+    "name": "sasumi khan",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 2117353781,
+      "name": "sasumi khan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1233544028,
+      "name": "KimimaroX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1377935050,
+      "name": "Washa Squasha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114498069,
+      "name": "Nasbashov Ibruin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Johan Bach",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

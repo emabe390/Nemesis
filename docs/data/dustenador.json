@@ -1,0 +1,52 @@
+{
+  "character_id": 1408773125,
+  "total_losses": 32,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2117306692,
+    "name": "John F President",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98699483,
+    "alliance_id": null,
+    "corporation_name": "John F President Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117306692,
+      "name": "John F President",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119647778,
+      "name": "Steir Austrene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122842536,
+      "name": "KoffinsHero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123907597,
+      "name": "GuyBro Achasse",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dustenador",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

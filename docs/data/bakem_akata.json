@@ -1,0 +1,40 @@
+{
+  "character_id": 2123984829,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91766581,
+    "name": "Chaya Lothloria",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98377551,
+    "alliance_id": 99004013,
+    "corporation_name": "Out of Focus",
+    "alliance_name": "Odin's Call"
+  },
+  "top_killers": [
+    {
+      "id": 91766581,
+      "name": "Chaya Lothloria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96404375,
+      "name": "bakem Avada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bakem Akata",
+  "corporation_id": 98652891,
+  "alliance_id": 1042504553,
+  "corporation_name": "Dutch Legions",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122021639,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90997510,
+      "name": "Psychosis Kanenald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92547496,
+      "name": "Degriz Oda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96824853,
+      "name": "Adler BC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 200546240,
+      "name": "Boroda M",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duster 405",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

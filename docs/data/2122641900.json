@@ -1,0 +1,52 @@
+{
+  "character_id": 2122641900,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2121977076,
+    "name": "Rarah Kayh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98507124,
+    "alliance_id": null,
+    "corporation_name": "S.F Express",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121977076,
+      "name": "Rarah Kayh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122250456,
+      "name": "Hetah Acano",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123481606,
+      "name": "Tryptizol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112448829,
+      "name": "SAS Madullier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113210093,
+      "name": "Tom Wincheste",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "M-Fantuan",
+  "corporation_id": 98696463,
+  "alliance_id": 99003581,
+  "corporation_name": "Light Spot Poacher",
+  "alliance_name": "Fraternity."
+}

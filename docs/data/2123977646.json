@@ -1,0 +1,40 @@
+{
+  "character_id": 2123977646,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95140689,
+    "name": "Sofi Omertao",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98695361,
+    "alliance_id": null,
+    "corporation_name": "Omertao EXORT",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95140689,
+      "name": "Sofi Omertao",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eclipsio Keeper",
+  "corporation_id": 98764580,
+  "alliance_id": 99014696,
+  "corporation_name": "Strong Medicine",
+  "alliance_name": "Hullbreakers"
+}

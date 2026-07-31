@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904041,
+  "total_losses": 25,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123403681,
+    "name": "Alice Spade",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98815694,
+    "alliance_id": null,
+    "corporation_name": "Trapped Souls",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123403681,
+      "name": "Alice Spade",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113819543,
+      "name": "Hakuna Metadata",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94712373,
+      "name": "Bullet Anarchy",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "BAIYE-CHEN",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

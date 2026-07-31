@@ -1,0 +1,52 @@
+{
+  "character_id": 2124344716,
+  "total_losses": 36,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 929795590,
+    "name": "Qindar",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98124362,
+    "alliance_id": 99002253,
+    "corporation_name": "Ozark Cartel",
+    "alliance_name": "Usurper."
+  },
+  "top_killers": [
+    {
+      "id": 929795590,
+      "name": "Qindar",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115538272,
+      "name": "Chigi della Rovere",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92444174,
+      "name": "Watson Crick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 119618424,
+      "name": "Rikki Retardo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mikhael Krug",
+  "corporation_id": 98831992,
+  "alliance_id": null,
+  "corporation_name": "The 3 Capsuleers",
+  "alliance_name": null
+}

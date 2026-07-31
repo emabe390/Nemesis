@@ -1,0 +1,52 @@
+{
+  "character_id": 2123650561,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 540715330,
+    "name": "Demoria",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90437749,
+      "name": "Cordelia Mulholland IV",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95367944,
+      "name": "Lokey Solette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96021512,
+      "name": "Tankbuster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1003886686,
+      "name": "Drogo Dris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123650561",
+  "corporation_id": 98804852,
+  "alliance_id": 99014101,
+  "corporation_name": "Blackstar Foundries",
+  "alliance_name": "Reckless Empire"
+}

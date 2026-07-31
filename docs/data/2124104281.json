@@ -1,0 +1,52 @@
+{
+  "character_id": 2124104281,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90221443,
+    "name": "Rykirs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90221443,
+      "name": "Rykirs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93075150,
+      "name": "Mackatoa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93217177,
+      "name": "Telli Isk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94834100,
+      "name": "Ikaros Cremory",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capt-Dare",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

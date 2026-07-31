@@ -1,0 +1,40 @@
+{
+  "character_id": 2122555540,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113580461,
+    "name": "HE-HATE-ME",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98634311,
+    "alliance_id": null,
+    "corporation_name": "Pain Management",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113580461,
+      "name": "HE-HATE-ME",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122534267,
+      "name": "Hakonen Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124132161,
+      "name": "The Tapioca Terrorist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indigo'Crayon",
+  "corporation_id": 98768985,
+  "alliance_id": 99013806,
+  "corporation_name": "Box of Colors",
+  "alliance_name": "The Conference"
+}

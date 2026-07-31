@@ -1,0 +1,40 @@
+{
+  "character_id": 2115340200,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112933598,
+    "name": "Kros Oran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98742693,
+    "alliance_id": null,
+    "corporation_name": "Haven Enjoyers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112933598,
+      "name": "Kros Oran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113813883,
+      "name": "AlDar Zamayid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117758672,
+      "name": "THE Russian Terminator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pine Tree",
+  "corporation_id": 98345858,
+  "alliance_id": 99015070,
+  "corporation_name": "Black Powder Ballistics",
+  "alliance_name": "Thats How We Roll"
+}

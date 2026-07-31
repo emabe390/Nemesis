@@ -1,0 +1,52 @@
+{
+  "character_id": 2123768212,
+  "total_losses": 48,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 1230562175,
+      "name": "Chaos's fist",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92355155,
+      "name": "DragonbaII Z",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93324090,
+      "name": "Kijn Kalad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93856334,
+      "name": "Aleister Carver",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Saziku Umiki",
+  "corporation_id": 98749303,
+  "alliance_id": 99012572,
+  "corporation_name": "Savagerie",
+  "alliance_name": "Wildlife"
+}

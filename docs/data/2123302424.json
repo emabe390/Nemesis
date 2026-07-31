@@ -1,0 +1,52 @@
+{
+  "character_id": 2123302424,
+  "total_losses": 13,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116674403,
+    "name": "z left",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98783407,
+    "alliance_id": 99003995,
+    "corporation_name": "Golden Fleece",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2116674403,
+      "name": "z left",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123302446,
+      "name": "Jetwing Optimus Prime",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116478030,
+      "name": "corn left",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121192234,
+      "name": "Arco1-1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122685521,
+      "name": "103 Pavas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jet Optimus",
+  "corporation_id": 98783407,
+  "alliance_id": 99003995,
+  "corporation_name": "Golden Fleece",
+  "alliance_name": "Invidia Gloriae Comes"
+}

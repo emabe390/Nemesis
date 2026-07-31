@@ -1,0 +1,40 @@
+{
+  "character_id": 1769769383,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90338529,
+    "name": "Messor Herman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98361497,
+    "alliance_id": 1354830081,
+    "corporation_name": "True Faces Hungary",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90338529,
+      "name": "Messor Herman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94307363,
+      "name": "Anika Petrokova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amy Flavor",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

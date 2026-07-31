@@ -1,0 +1,52 @@
+{
+  "character_id": 2123814182,
+  "total_losses": 341,
+  "unique_killers": 252,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 93243194,
+      "name": "Agent J Squire",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94981302,
+      "name": "Dominique Servasse",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 670489426,
+      "name": "Switch 4",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Ian Lexo",
+  "corporation_id": 98628015,
+  "alliance_id": 99003581,
+  "corporation_name": "Hollow United Garuda",
+  "alliance_name": "Fraternity."
+}

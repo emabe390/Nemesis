@@ -1,0 +1,52 @@
+{
+  "character_id": 2123950299,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123787004,
+    "name": "Olela Yaken",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123787004,
+      "name": "Olela Yaken",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94371594,
+      "name": "Lisvane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114589633,
+      "name": "s2eirio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116969616,
+      "name": "LOS-t",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120029883,
+      "name": "OfficerK6",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Boeing 737-900NG",
+  "corporation_id": 98810447,
+  "alliance_id": 99000580,
+  "corporation_name": "Drifter Shifting",
+  "alliance_name": "Ignore This."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124012962,
+  "total_losses": 18,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123620515,
+    "name": "Laipa",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98378388,
+    "alliance_id": 99002685,
+    "corporation_name": "Marauders Associated",
+    "alliance_name": "Synergy of Steel"
+  },
+  "top_killers": [
+    {
+      "id": 2123620515,
+      "name": "Laipa",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2123642215,
+      "name": "Hapanal Yassavi",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2120033834,
+      "name": "Aifka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123669688,
+      "name": "Kain Ireul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124070335,
+      "name": "Outoku Aihaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liepora",
+  "corporation_id": 98716579,
+  "alliance_id": 99014081,
+  "corporation_name": "Marauders Shadow",
+  "alliance_name": "Synergy of Support"
+}

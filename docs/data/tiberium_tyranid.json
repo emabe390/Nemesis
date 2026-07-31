@@ -1,0 +1,52 @@
+{
+  "character_id": 2124231347,
+  "total_losses": 58,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 869284180,
+    "name": "Readus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98133337,
+    "alliance_id": 99012845,
+    "corporation_name": "Evil Space Goblins",
+    "alliance_name": "BorderZone"
+  },
+  "top_killers": [
+    {
+      "id": 869284180,
+      "name": "Readus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90994877,
+      "name": "Bertral",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 466972257,
+      "name": "Zigam",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96065154,
+      "name": "Vanessa Guang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 475430891,
+      "name": "Character 475430891",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tiberium Tyranid",
+  "corporation_id": 98831555,
+  "alliance_id": 99007887,
+  "corporation_name": "Nuclear Dragons",
+  "alliance_name": "Brotherhood of Spacers"
+}

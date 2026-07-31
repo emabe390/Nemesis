@@ -1,0 +1,52 @@
+{
+  "character_id": 2123230402,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113311183,
+    "name": "Tore Katt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2113311183,
+      "name": "Tore Katt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 332552662,
+      "name": "Tia'maat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 585033156,
+      "name": "UDAW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 853766296,
+      "name": "Aronad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118847820,
+      "name": "Jakkalas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kabara Ichinumi",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

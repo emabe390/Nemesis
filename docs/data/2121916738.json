@@ -1,0 +1,40 @@
+{
+  "character_id": 2121916738,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91990388,
+    "name": "Vlasile",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1026447380,
+    "alliance_id": 386292982,
+    "corporation_name": "V.O.I.D.",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 91990388,
+      "name": "Vlasile",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1106529473,
+      "name": "Zibu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beatiford",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120483992,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2117848786,
+    "name": "Graceless",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818418,
+    "alliance_id": 99014548,
+    "corporation_name": "The Ouroboros Collective",
+    "alliance_name": "Project Oasis"
+  },
+  "top_killers": [
+    {
+      "id": 2117848786,
+      "name": "Graceless",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120305896,
+      "name": "Kyznets21",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532513629,
+      "name": "Nexium2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112664606,
+      "name": "Io Naarei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113588526,
+      "name": "Trolius Irelius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "May Rinda",
+  "corporation_id": 98494391,
+  "alliance_id": 99009287,
+  "corporation_name": "Fish Vending Machine",
+  "alliance_name": "Beyond the Breach"
+}

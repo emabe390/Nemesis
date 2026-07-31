@@ -1,0 +1,40 @@
+{
+  "character_id": 2124473157,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121423114,
+    "name": "Yarl Phoenix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767686,
+    "alliance_id": 99005178,
+    "corporation_name": "STAR N.O.V.A",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2121423114,
+      "name": "Yarl Phoenix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 484393809,
+      "name": "MacGybo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116350187,
+      "name": "Blink Pham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EricssonOne",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

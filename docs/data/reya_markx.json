@@ -1,0 +1,52 @@
+{
+  "character_id": 2123004307,
+  "total_losses": 39,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 759104218,
+    "name": "Aglon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98806804,
+    "alliance_id": 99014431,
+    "corporation_name": "Scrapyard Artificer's",
+    "alliance_name": "Just Lizard"
+  },
+  "top_killers": [
+    {
+      "id": 759104218,
+      "name": "Aglon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93074864,
+      "name": "Jin Yeva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95446734,
+      "name": "Aventon Carboda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96751523,
+      "name": "Political Iskitimskiy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 735288141,
+      "name": "Tefkros",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Reya Markx",
+  "corporation_id": 98838817,
+  "alliance_id": null,
+  "corporation_name": "Phoenix Industrial Technocracy",
+  "alliance_name": null
+}

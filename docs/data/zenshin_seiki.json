@@ -1,0 +1,52 @@
+{
+  "character_id": 626295234,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3020075,
+    "name": "Phylarch Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020075,
+      "name": "Phylarch Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 95500451,
+      "name": "Taylor Bassani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95630568,
+      "name": "John LiWang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zenshin Seiki",
+  "corporation_id": 98522659,
+  "alliance_id": 99003214,
+  "corporation_name": "Incredible.",
+  "alliance_name": "Brave Collective"
+}

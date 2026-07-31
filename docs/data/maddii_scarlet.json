@@ -1,0 +1,52 @@
+{
+  "character_id": 2120689252,
+  "total_losses": 81,
+  "unique_killers": 58,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2121276341,
+      "name": "Pavoneo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96380981,
+      "name": "Daimler-Benz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97178300,
+      "name": "ItsDaWalrus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Maddii Scarlet",
+  "corporation_id": 98699553,
+  "alliance_id": 99014849,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative."
+}

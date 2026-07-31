@@ -1,0 +1,52 @@
+{
+  "character_id": 2117167174,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95905234,
+    "name": "Tenacious",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98558471,
+    "alliance_id": null,
+    "corporation_name": "The Diesel Queens",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95905234,
+      "name": "Tenacious",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1449961651,
+      "name": "J Funt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119605633,
+      "name": "Draco I-Vi Nemesis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120151433,
+      "name": "Hephaestus Taurus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120289160,
+      "name": "Christina Losail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amira Haklar",
+  "corporation_id": 98360452,
+  "alliance_id": 99011279,
+  "corporation_name": "Naval Defence Force",
+  "alliance_name": "Naval Defence Alliance"
+}

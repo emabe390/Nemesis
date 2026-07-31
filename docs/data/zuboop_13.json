@@ -1,0 +1,40 @@
+{
+  "character_id": 2123843388,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114447050,
+    "name": "Geren Malvos",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114447050,
+      "name": "Geren Malvos",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 190275227,
+      "name": "Empero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZuBoop 13",
+  "corporation_id": 98816397,
+  "alliance_id": 99013506,
+  "corporation_name": "ZuBoop",
+  "alliance_name": "The High Chair"
+}

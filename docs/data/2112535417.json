@@ -1,0 +1,52 @@
+{
+  "character_id": 2112535417,
+  "total_losses": 21,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123604158,
+    "name": "Baguette Lord",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123604158,
+      "name": "Baguette Lord",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2121335884,
+      "name": "EnemyUnit",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2080027848,
+      "name": "Aliaksandre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121118724,
+      "name": "Kellexistia 'Endymion' Ronso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Krestek",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

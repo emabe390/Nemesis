@@ -1,0 +1,52 @@
+{
+  "character_id": 1544194471,
+  "total_losses": 27,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 101363971,
+    "name": "WayCharles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98570127,
+    "alliance_id": null,
+    "corporation_name": "Konflict",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 101363971,
+      "name": "WayCharles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91602866,
+      "name": "Strannik KPE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92130387,
+      "name": "Lambda Thyl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92534239,
+      "name": "Emil Sebastian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93472626,
+      "name": "Cul Lix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paul Clavet",
+  "corporation_id": 1239884823,
+  "alliance_id": 495729389,
+  "corporation_name": "Noir.",
+  "alliance_name": "Shadow Cartel"
+}

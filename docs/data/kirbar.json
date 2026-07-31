@@ -1,0 +1,40 @@
+{
+  "character_id": 2112403195,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92150406,
+    "name": "Bob Dobr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98497495,
+    "alliance_id": 99003995,
+    "corporation_name": "RUCIHIIII",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 92150406,
+      "name": "Bob Dobr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92712118,
+      "name": "Arwen Lafisques",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KIRBAR",
+  "corporation_id": 98553361,
+  "alliance_id": null,
+  "corporation_name": "Relict Corporation",
+  "alliance_name": null
+}

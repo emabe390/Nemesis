@@ -1,0 +1,52 @@
+{
+  "character_id": 2112619249,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118753294,
+      "name": "Dir World",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123701397,
+      "name": "Mecclovin Tiberius Skywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123770464,
+      "name": "CurlySueWhoo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Foster Artrald",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

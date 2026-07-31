@@ -1,0 +1,52 @@
+{
+  "character_id": 2123954454,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119778170,
+      "name": "Fishshsh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123997841,
+      "name": "Amy Arazu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96924986,
+      "name": "Yagami Liu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779574,
+      "name": "Autophysian Lancer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mono Pigeon",
+  "corporation_id": 98779710,
+  "alliance_id": 99009163,
+  "corporation_name": "Tactical Trauma Team",
+  "alliance_name": "Dracarys."
+}

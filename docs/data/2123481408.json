@@ -1,0 +1,34 @@
+{
+  "character_id": 2123481408,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123476798,
+    "name": "Hutisti",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98831992,
+    "alliance_id": null,
+    "corporation_name": "The 3 Capsuleers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123476798,
+      "name": "Hutisti",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kolboderkod",
+  "corporation_id": 98831992,
+  "alliance_id": null,
+  "corporation_name": "The 3 Capsuleers",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124503846,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112768184,
+    "name": "Izumi Masamune",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791332,
+    "alliance_id": 1354830081,
+    "corporation_name": "Imperial Ghosts",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112768184,
+      "name": "Izumi Masamune",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112013687,
+      "name": "Svetlania Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123607683,
+      "name": "BennethKoyd",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DepirovGW",
+  "corporation_id": 98829471,
+  "alliance_id": null,
+  "corporation_name": "Brigada 49",
+  "alliance_name": null
+}

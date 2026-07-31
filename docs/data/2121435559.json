@@ -1,0 +1,52 @@
+{
+  "character_id": 2121435559,
+  "total_losses": 19,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2122657605,
+    "name": "Doctor Flanio",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98781826,
+    "alliance_id": null,
+    "corporation_name": "Mr. Flaniot's Private Clinic",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122657605,
+      "name": "Doctor Flanio",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91737441,
+      "name": "Ice IceFrost",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92444174,
+      "name": "Watson Crick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93891097,
+      "name": "Bishop Halifax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93826518,
+      "name": "Kristina Laduko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Poircaine Crendraven",
+  "corporation_id": 98828970,
+  "alliance_id": 99014671,
+  "corporation_name": "Summer Knights.",
+  "alliance_name": "NecroSphere."
+}

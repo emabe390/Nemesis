@@ -1,0 +1,52 @@
+{
+  "character_id": 2120461247,
+  "total_losses": 80,
+  "unique_killers": 63,
+  "nemesis": {
+    "id": 96803442,
+    "name": "Kim pirate",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98653307,
+    "alliance_id": 99006941,
+    "corporation_name": "No Prop",
+    "alliance_name": "Siege Green."
+  },
+  "top_killers": [
+    {
+      "id": 96803442,
+      "name": "Kim pirate",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 371792633,
+      "name": "PsyBlade",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93856148,
+      "name": "Dave kazkade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94908023,
+      "name": "Deni Dallocort",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Diananra",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

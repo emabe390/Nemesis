@@ -1,0 +1,40 @@
+{
+  "character_id": 2122117226,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92384095,
+    "name": "Cheech Duff",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92384095,
+      "name": "Cheech Duff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96641978,
+      "name": "Egar Estidal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96828231,
+      "name": "MEHT Gopkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ShineVanu",
+  "corporation_id": 98049623,
+  "alliance_id": 99003581,
+  "corporation_name": "Formosa Research Center",
+  "alliance_name": "Fraternity."
+}

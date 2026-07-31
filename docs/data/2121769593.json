@@ -1,0 +1,34 @@
+{
+  "character_id": 2121769593,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117500018,
+    "name": "Character 2117500018",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98550309,
+    "alliance_id": 1220922756,
+    "corporation_name": "Phoenix Tag.",
+    "alliance_name": "Red Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2117500018,
+      "name": "Character 2117500018",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Assasins Code 2",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

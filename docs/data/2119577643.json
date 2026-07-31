@@ -1,0 +1,52 @@
+{
+  "character_id": 2119577643,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 808358675,
+      "name": "Senjiu Kanuba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1112075961,
+      "name": "Kaminar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116099114,
+      "name": "Elders of Elders",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "rogeprog",
+  "corporation_id": 98530802,
+  "alliance_id": 99003581,
+  "corporation_name": "Glory Navy",
+  "alliance_name": "Fraternity."
+}

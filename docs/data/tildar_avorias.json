@@ -1,0 +1,40 @@
+{
+  "character_id": 2114224371,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119467921,
+    "name": "Tiberius Avorias",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119467921,
+      "name": "Tiberius Avorias",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2118929664,
+      "name": "Terlo Avorias",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122047538,
+      "name": "Reytel Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tildar Avorias",
+  "corporation_id": 98643167,
+  "alliance_id": 99010756,
+  "corporation_name": "Helix Initiative",
+  "alliance_name": "Pretenders"
+}

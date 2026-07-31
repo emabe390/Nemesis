@@ -1,0 +1,52 @@
+{
+  "character_id": 95670999,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95261300,
+    "name": "Grima The Mad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 95261300,
+      "name": "Grima The Mad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112148425,
+      "name": "Evie Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114762971,
+      "name": "Koneko Breau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120305896,
+      "name": "Kyznets21",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123056999,
+      "name": "Manky Crab",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Monkey Fist",
+  "corporation_id": 98633978,
+  "alliance_id": 99007887,
+  "corporation_name": "Garbage Incorporated",
+  "alliance_name": "Brotherhood of Spacers"
+}

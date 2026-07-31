@@ -1,0 +1,40 @@
+{
+  "character_id": 2122706911,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96707527,
+    "name": "Inara Boirelle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96707527,
+      "name": "Inara Boirelle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115934717,
+      "name": "unrendered image",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121662398,
+      "name": "Noname Pilot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Surf-in-the-space",
+  "corporation_id": 98784159,
+  "alliance_id": 99009991,
+  "corporation_name": "ShadoFF corp",
+  "alliance_name": "Intaki-Business Logistics Union"
+}

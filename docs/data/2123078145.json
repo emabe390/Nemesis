@@ -1,0 +1,52 @@
+{
+  "character_id": 2123078145,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123253331,
+    "name": "haydar delikdelen",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98821894,
+    "alliance_id": null,
+    "corporation_name": "ilk turk imparatorlugu",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123253331,
+      "name": "haydar delikdelen",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123012816,
+      "name": "Yorsa Jaken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123649910,
+      "name": "Haze S",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 810739761,
+      "name": "Cizani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1196060207,
+      "name": "Pimp Cane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Junsen Jovakko",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

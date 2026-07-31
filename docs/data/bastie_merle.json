@@ -1,0 +1,40 @@
+{
+  "character_id": 2113768051,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118011173,
+    "name": "Merlade",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725661,
+    "alliance_id": null,
+    "corporation_name": "First Time Right",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118011173,
+      "name": "Merlade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112762549,
+      "name": "Character 2112762549",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117908114,
+      "name": "Dart Sabotaj",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bastie Merle",
+  "corporation_id": 98088416,
+  "alliance_id": 99006750,
+  "corporation_name": "Bean-shidh",
+  "alliance_name": "The Nameless Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123652396,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1743905655,
+    "name": "EF Beta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 426594161,
+      "name": "D33P21",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123744880,
+      "name": "Karranen Ikita Koraka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nellcitaa",
+  "corporation_id": 98776805,
+  "alliance_id": 99014410,
+  "corporation_name": "JABIL-INC",
+  "alliance_name": "Callao Cartel"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121090238,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 221420051,
+    "name": "Black Kestrel",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98290394,
+    "alliance_id": 99007237,
+    "corporation_name": "Lazerhawks",
+    "alliance_name": "L A Z E R H A W K S"
+  },
+  "top_killers": [
+    {
+      "id": 221420051,
+      "name": "Black Kestrel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118571878,
+      "name": "Qyban 9000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123430310,
+      "name": "Snarebear",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kurowaka Matka",
+  "corporation_id": 98713346,
+  "alliance_id": null,
+  "corporation_name": "New House of Flanders",
+  "alliance_name": null
+}

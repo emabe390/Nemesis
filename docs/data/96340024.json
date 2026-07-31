@@ -1,0 +1,52 @@
+{
+  "character_id": 96340024,
+  "total_losses": 31,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 480522219,
+      "name": "Theo Antillis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90106711,
+      "name": "Eeon X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92273956,
+      "name": "xCirrusx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93127125,
+      "name": "Trilobite Mastodon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nassik Cruwler",
+  "corporation_id": 98249443,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Icarus Expedition",
+  "alliance_name": "Solyaris Chtonium"
+}

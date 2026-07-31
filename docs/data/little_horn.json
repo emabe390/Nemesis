@@ -1,0 +1,52 @@
+{
+  "character_id": 2119373432,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117518049,
+      "name": "Michael Marsh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95146867,
+      "name": "Derde96",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95512064,
+      "name": "Nistam Kanjus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Little-Horn",
+  "corporation_id": 98243307,
+  "alliance_id": 99003214,
+  "corporation_name": "Virtus Crusade",
+  "alliance_name": "Brave Collective"
+}

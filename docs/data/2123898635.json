@@ -1,0 +1,52 @@
+{
+  "character_id": 2123898635,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 100425987,
+    "name": "Frenghiz Khan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98366365,
+    "alliance_id": 99013901,
+    "corporation_name": "The Golden Marauder Horde",
+    "alliance_name": "The Silent Syndicate"
+  },
+  "top_killers": [
+    {
+      "id": 100425987,
+      "name": "Frenghiz Khan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 670482504,
+      "name": "Azikar 'Shariz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113102187,
+      "name": "Kraken Shi-ot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116806337,
+      "name": "Myself Only",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "medjitsu",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1414264839,
+  "total_losses": 105,
+  "unique_killers": 85,
+  "nemesis": {
+    "id": 2123079859,
+    "name": "MaxIsk",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98755123,
+    "alliance_id": 99010877,
+    "corporation_name": "13 CALAVERAS",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2123079859,
+      "name": "MaxIsk",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 96056445,
+      "name": "Braktaros Aulx-Gao",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90177972,
+      "name": "MerlinWR",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93376562,
+      "name": "Sergey Beda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94870154,
+      "name": "Jungle Chan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Krakshar",
+  "corporation_id": 98451868,
+  "alliance_id": 99012982,
+  "corporation_name": "Les Petits Pedestres",
+  "alliance_name": "OnlyFleets."
+}

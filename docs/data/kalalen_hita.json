@@ -1,0 +1,40 @@
+{
+  "character_id": 2124032781,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92330559,
+    "name": "Nickolas Ormand",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 92330559,
+      "name": "Nickolas Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124013792,
+      "name": "Anttunas Panala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124013888,
+      "name": "Tokom Chos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kalalen Hita",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

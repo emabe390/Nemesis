@@ -1,0 +1,34 @@
+{
+  "character_id": 2123724728,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1237782593,
+    "name": "Gallius Vale",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 1237782593,
+      "name": "Gallius Vale",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118368465,
+      "name": "Lightter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Athena Falconess",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

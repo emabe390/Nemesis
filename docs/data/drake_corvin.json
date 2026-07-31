@@ -1,0 +1,40 @@
+{
+  "character_id": 675642294,
+  "total_losses": 24,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123033042,
+    "name": "TradeBob",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 98764120,
+    "alliance_id": null,
+    "corporation_name": "Eviction-Scout Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123033042,
+      "name": "TradeBob",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 1096972662,
+      "name": "KnowOut Joe",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123023920,
+      "name": "P1P2Whatyagonnado",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Drake Corvin",
+  "corporation_id": 98764120,
+  "alliance_id": null,
+  "corporation_name": "Eviction-Scout Inc.",
+  "alliance_name": null
+}

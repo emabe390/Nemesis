@@ -1,0 +1,52 @@
+{
+  "character_id": 2114579901,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3020007,
+    "name": "Cephisso Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019607,
+      "name": "Tyrannos Polemos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90514865,
+      "name": "William Viper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114772624,
+      "name": "Sion Felicia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123622706,
+      "name": "Yokoni Otomeya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Viko",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

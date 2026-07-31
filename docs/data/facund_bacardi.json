@@ -1,0 +1,40 @@
+{
+  "character_id": 2123035234,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96885469,
+    "name": "Digital Wraith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98570127,
+    "alliance_id": null,
+    "corporation_name": "Konflict",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96885469,
+      "name": "Digital Wraith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114106231,
+      "name": "Dathonex Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Facund Bacardi",
+  "corporation_id": 1001562011,
+  "alliance_id": 1900696668,
+  "corporation_name": "Sturmgrenadier Inc",
+  "alliance_name": "The Initiative."
+}

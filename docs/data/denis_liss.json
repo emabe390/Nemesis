@@ -1,0 +1,40 @@
+{
+  "character_id": 2121925437,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112839173,
+    "name": "Vladlena Targanova",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98647808,
+    "alliance_id": null,
+    "corporation_name": "Gok Tengu",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112839173,
+      "name": "Vladlena Targanova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115874132,
+      "name": "ccoco Kim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115915430,
+      "name": "Moong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Denis Liss",
+  "corporation_id": 98349682,
+  "alliance_id": 99014050,
+  "corporation_name": "Sanguinum Umbra Corporation",
+  "alliance_name": "Lunar Luminescence"
+}

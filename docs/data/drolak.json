@@ -1,0 +1,40 @@
+{
+  "character_id": 2066268853,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92685256,
+    "name": "Shepard Carver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1673385956,
+    "alliance_id": 99011223,
+    "corporation_name": "Syndicate Enterprise",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 92685256,
+      "name": "Shepard Carver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116451175,
+      "name": "Character 2116451175",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DROLAK",
+  "corporation_id": 98011784,
+  "alliance_id": 99012975,
+  "corporation_name": "PayPod",
+  "alliance_name": "Hull Tanking Therapy"
+}

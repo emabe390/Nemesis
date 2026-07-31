@@ -1,0 +1,40 @@
+{
+  "character_id": 2121535144,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 956408422,
+    "name": "Ares Helix",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 956408422,
+      "name": "Ares Helix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1677814176,
+      "name": "Khachaturian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113384540,
+      "name": "Character 2113384540",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TargetFC",
+  "corporation_id": 98558506,
+  "alliance_id": 99005338,
+  "corporation_name": "A Blessed Bean",
+  "alliance_name": "Pandemic Horde"
+}

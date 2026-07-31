@@ -1,0 +1,40 @@
+{
+  "character_id": 2123543125,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93590804,
+    "name": "tahoma sakura",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98491967,
+    "alliance_id": 99012464,
+    "corporation_name": "angry bird's",
+    "alliance_name": "C A M E L O T"
+  },
+  "top_killers": [
+    {
+      "id": 93590804,
+      "name": "tahoma sakura",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tan-13",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

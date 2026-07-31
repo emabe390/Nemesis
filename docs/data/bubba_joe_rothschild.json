@@ -1,0 +1,46 @@
+{
+  "character_id": 2123661622,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 147074120,
+    "name": "Karash Amerius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98527647,
+    "alliance_id": 99012094,
+    "corporation_name": "The Seven Shadows",
+    "alliance_name": "Scotch And Tea."
+  },
+  "top_killers": [
+    {
+      "id": 147074120,
+      "name": "Karash Amerius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2080027848,
+      "name": "Aliaksandre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bubba Joe Rothschild",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

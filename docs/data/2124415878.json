@@ -1,0 +1,40 @@
+{
+  "character_id": 2124415878,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124415821,
+    "name": "Mon6tr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98648061,
+    "alliance_id": 99009163,
+    "corporation_name": "Tu Zi Fei Corporation",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2124415821,
+      "name": "Mon6tr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124415809,
+      "name": "Mon4tr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124415897,
+      "name": "Mon0tr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mon2tr",
+  "corporation_id": 98648061,
+  "alliance_id": 99009163,
+  "corporation_name": "Tu Zi Fei Corporation",
+  "alliance_name": "Dracarys."
+}

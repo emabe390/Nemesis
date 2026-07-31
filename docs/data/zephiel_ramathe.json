@@ -1,0 +1,46 @@
+{
+  "character_id": 90560196,
+  "total_losses": 67,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121819425,
+    "name": "Gaige Yumbreon",
+    "kill_count": 33,
+    "final_blows": 33,
+    "corporation_id": 98831204,
+    "alliance_id": 99015113,
+    "corporation_name": "Nine Lives Privateering Company",
+    "alliance_name": "Apex Mercantile"
+  },
+  "top_killers": [
+    {
+      "id": 2121819425,
+      "name": "Gaige Yumbreon",
+      "kill_count": 33,
+      "final_blows": 33
+    },
+    {
+      "id": 2120936012,
+      "name": "Kuisinen Oksaras",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2122253320,
+      "name": "Naraiwe Artanis",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 95453623,
+      "name": "Skipp Doe",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Zephiel Ramathe",
+  "corporation_id": 98747628,
+  "alliance_id": 99013255,
+  "corporation_name": "House of the Shattered Sun",
+  "alliance_name": "Shattered Sun Confederation"
+}

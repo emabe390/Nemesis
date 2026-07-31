@@ -1,0 +1,52 @@
+{
+  "character_id": 2123818443,
+  "total_losses": 24,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123771080,
+    "name": "Asanagi Uzume",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98779710,
+    "alliance_id": 99009163,
+    "corporation_name": "Tactical Trauma Team",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123771080,
+      "name": "Asanagi Uzume",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2118465644,
+      "name": "Ottoman Hilux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123769367,
+      "name": "Shimadzu Uzume",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92822793,
+      "name": "Mira Anderson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Washio Uzume",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

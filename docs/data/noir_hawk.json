@@ -1,0 +1,40 @@
+{
+  "character_id": 2124234539,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 595493359,
+    "name": "I'q",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 595493359,
+      "name": "I'q",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113335782,
+      "name": "MouniKa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122089339,
+      "name": "Colin Beardman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Noir Hawk",
+  "corporation_id": 98559613,
+  "alliance_id": 99015056,
+  "corporation_name": "Sith Navy",
+  "alliance_name": "Calculated Disorder"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122159176,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121475828,
+    "name": "HarmlessOne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90058495,
+      "name": "Barotto XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 187753728,
+      "name": "Dorian Aredes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 436078092,
+      "name": "inkswitch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122159176",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2113159476,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 629760460,
+    "name": "Drake Trondor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 802079700,
+      "name": "HabaHaba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114581990,
+      "name": "Evdokiya Bershanskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 720593248,
+      "name": "Arthur McFredric",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 725386886,
+      "name": "Alekseyev Karrde",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Una Paratus",
+  "corporation_id": 98695839,
+  "alliance_id": 99003214,
+  "corporation_name": "South Sun Industries",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123908187,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118604826,
+    "name": "Guarana Cortez",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98681700,
+    "alliance_id": null,
+    "corporation_name": "New Lviv Corp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118604826,
+      "name": "Guarana Cortez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122215914,
+      "name": "Crazy Rattlesnake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1181591327,
+      "name": "Vipy Styx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113841977,
+      "name": "Rekoo King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121885800,
+      "name": "Prince Moloch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Colonia Agrippinensis",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

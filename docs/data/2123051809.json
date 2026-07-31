@@ -1,0 +1,52 @@
+{
+  "character_id": 2123051809,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 734212597,
+    "name": "Demio Olaron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 144765676,
+    "alliance_id": 1727758877,
+    "corporation_name": "MASS",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 734212597,
+      "name": "Demio Olaron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121962075,
+      "name": "Space Maxim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92818772,
+      "name": "Teldran Pandine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94935866,
+      "name": "Azrael Thantos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96337929,
+      "name": "Mikael Nolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carpen Diaz",
+  "corporation_id": 98366055,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ministry of Offense",
+  "alliance_name": "Goonswarm Federation"
+}

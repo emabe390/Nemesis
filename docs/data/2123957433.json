@@ -1,0 +1,52 @@
+{
+  "character_id": 2123957433,
+  "total_losses": 6,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114716538,
+    "name": "Ryvaal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98821045,
+    "alliance_id": null,
+    "corporation_name": "Pithatus Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114716538,
+      "name": "Ryvaal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119046992,
+      "name": "Godtagon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123948520,
+      "name": "JordayTM",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123959628,
+      "name": "Gurista's Usurper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123959659,
+      "name": "Gurista's Dismantler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gurista's Massacrer",
+  "corporation_id": 98087081,
+  "alliance_id": 99013537,
+  "corporation_name": "Tr0pa de elite.",
+  "alliance_name": "Insidious."
+}

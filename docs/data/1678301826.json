@@ -1,0 +1,52 @@
+{
+  "character_id": 1678301826,
+  "total_losses": 39,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 95347098,
+    "name": "Hasu Kasumi",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98720728,
+    "alliance_id": null,
+    "corporation_name": "True Nation Martyrs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95347098,
+      "name": "Hasu Kasumi",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 2041681324,
+      "name": "Hurome",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 379808692,
+      "name": "Vincent Macalik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 821787492,
+      "name": "Ralli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123711173,
+      "name": "Luasense",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lord Mitsurugi",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

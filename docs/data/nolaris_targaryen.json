@@ -1,0 +1,40 @@
+{
+  "character_id": 2114306853,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95102096,
+    "name": "Tornchip Aurilen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98454805,
+    "alliance_id": 99011603,
+    "corporation_name": "Phantom Space",
+    "alliance_name": "Space Madness."
+  },
+  "top_killers": [
+    {
+      "id": 95102096,
+      "name": "Tornchip Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123910666,
+      "name": "Blowskill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123910705,
+      "name": "Hakkelen Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nolaris Targaryen",
+  "corporation_id": 98705915,
+  "alliance_id": null,
+  "corporation_name": "Codex Council",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123659220,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 92795470,
+    "name": "Plutus Astraeus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98475591,
+    "alliance_id": 99009927,
+    "corporation_name": "Integritas",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 92795470,
+      "name": "Plutus Astraeus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1291770376,
+      "name": "Ja'ffar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90114202,
+      "name": "Lady Ati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90801277,
+      "name": "KeithStone Yotosala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93817719,
+      "name": "Scott Korchenko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yakin Konen",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

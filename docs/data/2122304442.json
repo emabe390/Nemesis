@@ -1,0 +1,52 @@
+{
+  "character_id": 2122304442,
+  "total_losses": 21,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 92081232,
+    "name": "John Hartley",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98011082,
+    "alliance_id": 1354830081,
+    "corporation_name": "Shadow State",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92081232,
+      "name": "John Hartley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 193384577,
+      "name": "FarosWarrior",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115933363,
+      "name": "Lamery",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93660896,
+      "name": "Finger Blastin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DuckAlpha",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

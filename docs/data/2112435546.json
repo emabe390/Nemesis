@@ -1,0 +1,40 @@
+{
+  "character_id": 2112435546,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112894778,
+    "name": "Pogne LeDon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98666638,
+    "alliance_id": null,
+    "corporation_name": "Savage Fire",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112894778,
+      "name": "Pogne LeDon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113120600,
+      "name": "Danny Helmsworth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124183347,
+      "name": "Random-Citizen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Splash Panacan",
+  "corporation_id": 98603221,
+  "alliance_id": 99005178,
+  "corporation_name": "Sodium Chloride Mining Institute",
+  "alliance_name": "Domain Research and Mining Inst."
+}

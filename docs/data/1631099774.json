@@ -1,0 +1,40 @@
+{
+  "character_id": 1631099774,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1743905655,
+    "name": "EF Beta",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114473092,
+      "name": "Jaylen Kaito",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marc Sheppard",
+  "corporation_id": 98506742,
+  "alliance_id": null,
+  "corporation_name": "Sandbox Initiative",
+  "alliance_name": null
+}

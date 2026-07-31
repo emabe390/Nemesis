@@ -1,0 +1,52 @@
+{
+  "character_id": 2123502808,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 509772749,
+    "name": "lightstorm",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 509772749,
+      "name": "lightstorm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116981718,
+      "name": "Saziras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119647107,
+      "name": "Vakkava Vanen Isayeki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121997230,
+      "name": "John Birdy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122236931,
+      "name": "SRP Officer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Isonola Tsero",
+  "corporation_id": 98829628,
+  "alliance_id": 99008788,
+  "corporation_name": "Camel's Toes",
+  "alliance_name": "The Skeleton Crew"
+}

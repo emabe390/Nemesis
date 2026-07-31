@@ -1,0 +1,52 @@
+{
+  "character_id": 2123059912,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91408843,
+    "name": "Roomero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94878822,
+      "name": "Matty McCain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 401202623,
+      "name": "El Peligro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ryker Solace",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

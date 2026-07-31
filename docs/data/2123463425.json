@@ -1,0 +1,34 @@
+{
+  "character_id": 2123463425,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 526282137,
+    "name": "Decimus James",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98737554,
+    "alliance_id": 99005178,
+    "corporation_name": "The Raravathians",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 526282137,
+      "name": "Decimus James",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 646234498,
+      "name": "Ivan En'Vec",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SergioAF",
+  "corporation_id": 98805600,
+  "alliance_id": null,
+  "corporation_name": "Stray Minning and Industries",
+  "alliance_name": null
+}

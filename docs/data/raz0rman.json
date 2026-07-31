@@ -1,0 +1,40 @@
+{
+  "character_id": 2002020342,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123569722,
+    "name": "Beewithaitch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123569722,
+      "name": "Beewithaitch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 101465229,
+      "name": "TheLexa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116662741,
+      "name": "RolandDeschainGilead",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raz0rman",
+  "corporation_id": 98570535,
+  "alliance_id": 99010457,
+  "corporation_name": "NanoNerf Inc.",
+  "alliance_name": "Parallaxis Alliance"
+}

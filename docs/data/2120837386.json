@@ -1,0 +1,40 @@
+{
+  "character_id": 2120837386,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120537350,
+    "name": "1connu malou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2120537350,
+      "name": "1connu malou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115518521,
+      "name": "Steven Millar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118140711,
+      "name": "Mono 2000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maerrin",
+  "corporation_id": 98242799,
+  "alliance_id": 99008816,
+  "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+  "alliance_name": "Khimi Harar"
+}

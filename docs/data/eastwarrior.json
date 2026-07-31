@@ -1,0 +1,46 @@
+{
+  "character_id": 2121963356,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120940389,
+    "name": "Oorlam",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98828090,
+    "alliance_id": 99014851,
+    "corporation_name": "Wormhole Campus",
+    "alliance_name": "10 Minutes' Notice"
+  },
+  "top_killers": [
+    {
+      "id": 2120940389,
+      "name": "Oorlam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121311097,
+      "name": "KOT-CPET-B-KOCMOCE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121987483,
+      "name": "CDR Kalm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123025324,
+      "name": "KOT-CHOBA-ECT-BEHTYPY",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EastWarrior",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

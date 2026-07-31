@@ -1,0 +1,52 @@
+{
+  "character_id": 2123655046,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2114293151,
+    "name": "SanLynx",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98682702,
+    "alliance_id": 1900696668,
+    "corporation_name": "Vertex Armada",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114293151,
+      "name": "SanLynx",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114731739,
+      "name": "Ash Vitaker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122958375,
+      "name": "Imira Mahyisti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93283550,
+      "name": "Lewis Foldz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94627145,
+      "name": "Cylic Mithuza",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Archalis",
+  "corporation_id": 98614919,
+  "alliance_id": 99005338,
+  "corporation_name": "Mineski Infinity",
+  "alliance_name": "Pandemic Horde"
+}

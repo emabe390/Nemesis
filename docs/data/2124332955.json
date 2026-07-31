@@ -1,0 +1,34 @@
+{
+  "character_id": 2124332955,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120034852,
+    "name": "Minsen Ago Hilanen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 2120034852,
+      "name": "Minsen Ago Hilanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HeavyMiner",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

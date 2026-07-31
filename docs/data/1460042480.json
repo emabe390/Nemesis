@@ -1,0 +1,52 @@
+{
+  "character_id": 1460042480,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120564811,
+    "name": "ATM9050",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790110,
+    "alliance_id": null,
+    "corporation_name": "Dark Mercenary Company",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120564811,
+      "name": "ATM9050",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90326496,
+      "name": "Margosha Fake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 854486695,
+      "name": "Mike Right",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1362303483,
+      "name": "dArkness IR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117911721,
+      "name": "Star-fighter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1460042480",
+  "corporation_id": 98831069,
+  "alliance_id": 99014402,
+  "corporation_name": "Solar Crucible Syndicate",
+  "alliance_name": "Plenitude Alliance"
+}

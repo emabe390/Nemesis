@@ -1,0 +1,46 @@
+{
+  "character_id": 2123796057,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1423937174,
+    "name": "Deadlysins",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98297722,
+    "alliance_id": 99002685,
+    "corporation_name": "Space Colony",
+    "alliance_name": "Synergy of Steel"
+  },
+  "top_killers": [
+    {
+      "id": 1423937174,
+      "name": "Deadlysins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95527904,
+      "name": "Siegmeyer Hearthfield",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96921500,
+      "name": "Marrcus Edus Smithion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122056991,
+      "name": "Remus Remora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Filibert Tondelier",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

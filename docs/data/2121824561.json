@@ -1,0 +1,34 @@
+{
+  "character_id": 2121824561,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114374503,
+    "name": "Lion Kasenumi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594202,
+    "alliance_id": 99010457,
+    "corporation_name": "Harmonist",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2114374503,
+      "name": "Lion Kasenumi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121704163,
+      "name": "Matora Ichosira",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ermin Anstian",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

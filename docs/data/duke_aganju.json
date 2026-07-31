@@ -1,0 +1,34 @@
+{
+  "character_id": 2124243391,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 268321879,
+    "name": "Kriomnimus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 268321879,
+      "name": "Kriomnimus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 792039887,
+      "name": "Zaunchik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duke Aganju",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

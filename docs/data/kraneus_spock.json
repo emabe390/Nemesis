@@ -1,0 +1,40 @@
+{
+  "character_id": 2123587235,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94863215,
+    "name": "Mevatla Vekraspek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98423767,
+    "alliance_id": null,
+    "corporation_name": "MVC Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94863215,
+      "name": "Mevatla Vekraspek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118816395,
+      "name": "Kt BuZzilio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kraneus Spock",
+  "corporation_id": 98819319,
+  "alliance_id": null,
+  "corporation_name": "New Eden Capsuleers",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124213398,
+  "total_losses": 31,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 90054688,
+    "name": "hexidine",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98778643,
+    "alliance_id": null,
+    "corporation_name": "Rantek Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90054688,
+      "name": "hexidine",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2122361632,
+      "name": "Alustria Ambrosia",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113287345,
+      "name": "Character 2113287345",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91591639,
+      "name": "Dr Chen Chen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arc de Hwit",
+  "corporation_id": 98778643,
+  "alliance_id": 99014766,
+  "corporation_name": "Rantek Industries",
+  "alliance_name": "Rigged Outcomes"
+}

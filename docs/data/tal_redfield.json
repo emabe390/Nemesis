@@ -1,0 +1,40 @@
+{
+  "character_id": 1735214388,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91130466,
+    "name": "Hanna Anzomi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 705444291,
+    "alliance_id": 1966049571,
+    "corporation_name": "T.R.I.A.D",
+    "alliance_name": "Ushra'Khan"
+  },
+  "top_killers": [
+    {
+      "id": 91130466,
+      "name": "Hanna Anzomi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93915317,
+      "name": "Friedrich VonHayek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95224056,
+      "name": "Suzanne Khale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tal Redfield",
+  "corporation_id": 98149566,
+  "alliance_id": null,
+  "corporation_name": "Rowan's Crown",
+  "alliance_name": null
+}

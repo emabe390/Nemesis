@@ -1,0 +1,40 @@
+{
+  "character_id": 2123658576,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105198445,
+    "name": "Blast GoDon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 105198445,
+      "name": "Blast GoDon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114301077,
+      "name": "Anna Moskovtseva",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nisani Vuo Mabata",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123648342,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 633725177,
+    "name": "Garvurg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98596560,
+    "alliance_id": 1900696668,
+    "corporation_name": "Gildinous Vangaurd",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 633725177,
+      "name": "Garvurg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 878340150,
+      "name": "Zodaeus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RangerAdvocate",
+  "corporation_id": 98812606,
+  "alliance_id": null,
+  "corporation_name": "Sword of Stars",
+  "alliance_name": null
+}

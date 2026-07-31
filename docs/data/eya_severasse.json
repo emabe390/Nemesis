@@ -1,0 +1,40 @@
+{
+  "character_id": 2123292647,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94163020,
+    "name": "Reza Hartaman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98391013,
+    "alliance_id": null,
+    "corporation_name": "Asian Infrastructure Investment Bank",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94163020,
+      "name": "Reza Hartaman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123331679,
+      "name": "Iba Khanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123332210,
+      "name": "Iba Tash-Murkon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eya Severasse",
+  "corporation_id": 98755360,
+  "alliance_id": 99007887,
+  "corporation_name": "Black Rose Inc.",
+  "alliance_name": "Brotherhood of Spacers"
+}

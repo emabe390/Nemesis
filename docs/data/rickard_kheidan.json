@@ -1,0 +1,40 @@
+{
+  "character_id": 2119656154,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117995941,
+    "name": "Clean Shave",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98816742,
+    "alliance_id": 99014520,
+    "corporation_name": "Malmeda",
+    "alliance_name": "Mama's Meadery"
+  },
+  "top_killers": [
+    {
+      "id": 2117995941,
+      "name": "Clean Shave",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118865745,
+      "name": "Wut A ResistHole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122787929,
+      "name": "Gaywolf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rickard Kheidan",
+  "corporation_id": 98819407,
+  "alliance_id": null,
+  "corporation_name": "Empire Foundation",
+  "alliance_name": null
+}

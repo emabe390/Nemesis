@@ -1,0 +1,52 @@
+{
+  "character_id": 95804909,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121050517,
+      "name": "Stcake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 539213353,
+      "name": "Zwyro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113840959,
+      "name": "Larvik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121050006,
+      "name": "Yorri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sara Bluestern",
+  "corporation_id": 98762551,
+  "alliance_id": 99013537,
+  "corporation_name": "Hellbringer-66th-Brigade",
+  "alliance_name": "Insidious."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123818233,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96246748,
+    "name": "Tiger space Thedark",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98807127,
+    "alliance_id": null,
+    "corporation_name": "Corinthian Commune",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96246748,
+      "name": "Tiger space Thedark",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112798173,
+      "name": "BAPTISTHE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113686565,
+      "name": "Feixiang Audene",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116513839,
+      "name": "21 Cookies",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Storm logistics officer",
+  "corporation_id": 98702000,
+  "alliance_id": 99003581,
+  "corporation_name": "Snow Moon City",
+  "alliance_name": "Fraternity."
+}

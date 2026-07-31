@@ -1,0 +1,46 @@
+{
+  "character_id": 2123488704,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92945930,
+    "name": "Mal Warre",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98685256,
+    "alliance_id": null,
+    "corporation_name": "Merdur Masheen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113845227,
+      "name": "Fury al-Shabazz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123192010,
+      "name": "Gnarly Gimli",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mei Saki",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

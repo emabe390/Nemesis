@@ -1,0 +1,52 @@
+{
+  "character_id": 2123684878,
+  "total_losses": 13,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90416002,
+    "name": "Sublime Rage",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1836808734,
+    "alliance_id": 99012611,
+    "corporation_name": "Black Rabbits",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116201497,
+      "name": "Skywalker H",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nero Rex",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

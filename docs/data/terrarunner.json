@@ -1,0 +1,52 @@
+{
+  "character_id": 2122191594,
+  "total_losses": 48,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 95865832,
+    "name": "John Clemson",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98784883,
+    "alliance_id": 99015133,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "GOBLIN FLEET"
+  },
+  "top_killers": [
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117460428,
+      "name": "Peakled Pea",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95703995,
+      "name": "Vilksun Schlonge",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 963217069,
+      "name": "Jogyn",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "terrarunner",
+  "corporation_id": 98131912,
+  "alliance_id": null,
+  "corporation_name": "True Horde",
+  "alliance_name": null
+}

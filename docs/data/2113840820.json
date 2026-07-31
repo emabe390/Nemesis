@@ -1,0 +1,40 @@
+{
+  "character_id": 2113840820,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91975702,
+    "name": "Prolonged Sedation",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 91975702,
+      "name": "Prolonged Sedation",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1731699519,
+      "name": "soulburst04",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117582867,
+      "name": "Grape Penguin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Turbine A",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

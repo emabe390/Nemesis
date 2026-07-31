@@ -1,0 +1,40 @@
+{
+  "character_id": 2112106305,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91163213,
+    "name": "Ikko Ikki",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91163213,
+      "name": "Ikko Ikki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 638308562,
+      "name": "Progray",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118457030,
+      "name": "Generalissimus Obvious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vampiric",
+  "corporation_id": 209540908,
+  "alliance_id": 99003581,
+  "corporation_name": "Steel Battalion",
+  "alliance_name": "Fraternity."
+}

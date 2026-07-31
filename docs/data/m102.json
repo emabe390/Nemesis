@@ -1,0 +1,34 @@
+{
+  "character_id": 2123620120,
+  "total_losses": 12,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123620127,
+    "name": "M302",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98741086,
+    "alliance_id": null,
+    "corporation_name": "One Angry UKR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123620127,
+      "name": "M302",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 90273223,
+      "name": "AnglsDvl",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "M102",
+  "corporation_id": 98741086,
+  "alliance_id": 99013045,
+  "corporation_name": "One Angry UKR",
+  "alliance_name": "UA Fleets Holding"
+}

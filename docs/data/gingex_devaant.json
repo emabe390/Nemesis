@@ -1,0 +1,40 @@
+{
+  "character_id": 2112421435,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121503478,
+    "name": "Jack the Needle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815910,
+    "alliance_id": null,
+    "corporation_name": "chlorokitties",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121503478,
+      "name": "Jack the Needle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96993798,
+      "name": "Nameless Evotori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1331136643,
+      "name": "GSCyber",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gingex Devaant",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

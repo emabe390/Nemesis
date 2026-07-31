@@ -1,0 +1,52 @@
+{
+  "character_id": 2122056984,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 95632070,
+    "name": "Effect Knight",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98678529,
+    "alliance_id": null,
+    "corporation_name": "They're Blue Don't Shoot",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95632070,
+      "name": "Effect Knight",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90278030,
+      "name": "Meltropis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93613311,
+      "name": "Mango Karpalo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91618719,
+      "name": "Opus Congelatio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91973519,
+      "name": "Althoran Garfix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sestruha",
+  "corporation_id": 98766866,
+  "alliance_id": null,
+  "corporation_name": "Nuclear Kolobok",
+  "alliance_name": null
+}

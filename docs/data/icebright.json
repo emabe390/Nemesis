@@ -1,0 +1,52 @@
+{
+  "character_id": 2122231993,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2118024720,
+    "name": "Character 2118024720",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98536418,
+    "alliance_id": null,
+    "corporation_name": "Academy of Russian Federation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118024720,
+      "name": "Character 2118024720",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96191188,
+      "name": "Mara Matambo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94584535,
+      "name": "Pherrahab",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115116237,
+      "name": "Yuki Kuskas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123172390,
+      "name": "Elder Svarog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IceBright",
+  "corporation_id": 98671149,
+  "alliance_id": 99000285,
+  "corporation_name": "FeedingMachine",
+  "alliance_name": "Good Sax"
+}

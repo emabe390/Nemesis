@@ -1,0 +1,52 @@
+{
+  "character_id": 2124057825,
+  "total_losses": 20,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1135795300,
+    "name": "Radjax",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 700924920,
+    "alliance_id": null,
+    "corporation_name": "Biomorphic Incorporated",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1135795300,
+      "name": "Radjax",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116687559,
+      "name": "Quilt Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117587538,
+      "name": "Paco Di Branc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paderno",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

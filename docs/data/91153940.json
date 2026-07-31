@@ -1,0 +1,40 @@
+{
+  "character_id": 91153940,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94708858,
+    "name": "Tularemia",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98474500,
+    "alliance_id": null,
+    "corporation_name": "Lords Of The World",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94708858,
+      "name": "Tularemia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113649523,
+      "name": "Stormborn Paulinus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123607001,
+      "name": "Streetfireball",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucrena",
+  "corporation_id": 98064924,
+  "alliance_id": null,
+  "corporation_name": "Killing Time Mining Emporium",
+  "alliance_name": null
+}

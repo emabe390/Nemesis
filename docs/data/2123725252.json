@@ -1,0 +1,40 @@
+{
+  "character_id": 2123725252,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96762971,
+    "name": "mojomine",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98221538,
+    "alliance_id": 99003581,
+    "corporation_name": "C5 Flight",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 96762971,
+      "name": "mojomine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96802444,
+      "name": "mojomine2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1352988447,
+      "name": "barto5",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tokkivas Penken",
+  "corporation_id": 98645539,
+  "alliance_id": 99013541,
+  "corporation_name": "L.A.T.I.N.O.S",
+  "alliance_name": "Fraternity Auxiliary"
+}

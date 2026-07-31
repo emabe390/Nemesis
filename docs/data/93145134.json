@@ -1,0 +1,52 @@
+{
+  "character_id": 93145134,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95287369,
+      "name": "Relvin Krirtel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 260079721,
+      "name": "Arctu Lawaout",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 483700182,
+      "name": "Kimongr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Henrik Ebingod",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

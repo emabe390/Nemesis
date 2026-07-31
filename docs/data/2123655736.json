@@ -1,0 +1,52 @@
+{
+  "character_id": 2123655736,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 543101799,
+    "name": "gallen2",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 846656839,
+    "alliance_id": 1691647675,
+    "corporation_name": "Revenent Defence Corperation",
+    "alliance_name": "Ishuk-Raata Enforcement Directive"
+  },
+  "top_killers": [
+    {
+      "id": 543101799,
+      "name": "gallen2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122002499,
+      "name": "Anita Ship",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93075139,
+      "name": "Breenie Shi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 709335657,
+      "name": "Marissa Edildo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ker'rigan",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 96515652,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 92155326,
+    "name": "Bloody James",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094779,
+    "alliance_id": 99009845,
+    "corporation_name": "Heretic Army",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 92155326,
+      "name": "Bloody James",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91586742,
+      "name": "Lynx Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93243194,
+      "name": "Agent J Squire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toxic Rabble",
+  "corporation_id": 98672155,
+  "alliance_id": 99010421,
+  "corporation_name": "Slavers Union",
+  "alliance_name": "Something Really Pretentious"
+}

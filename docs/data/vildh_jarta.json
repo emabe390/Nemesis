@@ -1,0 +1,52 @@
+{
+  "character_id": 2120965977,
+  "total_losses": 24,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 3020009,
+    "name": "Metis Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vildh Jarta",
+  "corporation_id": 98397049,
+  "alliance_id": 1354830081,
+  "corporation_name": "The Flying Dead.",
+  "alliance_name": "Goonswarm Federation"
+}

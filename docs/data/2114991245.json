@@ -1,0 +1,52 @@
+{
+  "character_id": 2114991245,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123922559,
+    "name": "Moguro Fukuzou",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818822,
+    "alliance_id": null,
+    "corporation_name": "Fish State",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123922559,
+      "name": "Moguro Fukuzou",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1440706187,
+      "name": "Deveron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1985480945,
+      "name": "Rateki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113693857,
+      "name": "Tim High",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113857652,
+      "name": "Tim Okhotnik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fressa Dahl",
+  "corporation_id": 1696098108,
+  "alliance_id": 1354830081,
+  "corporation_name": "Trust Doesn't Rust",
+  "alliance_name": "Goonswarm Federation"
+}

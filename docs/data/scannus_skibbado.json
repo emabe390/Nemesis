@@ -1,0 +1,40 @@
+{
+  "character_id": 2123333314,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1557789550,
+    "name": "Character 1557789550",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99004344,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 1557789550,
+      "name": "Character 1557789550",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117818160,
+      "name": "DioSp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120080560,
+      "name": "Alan Atlas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scannus Skibbado",
+  "corporation_id": 903623845,
+  "alliance_id": 99010265,
+  "corporation_name": "Black Sea Industries",
+  "alliance_name": "Blue Loot Not Included"
+}

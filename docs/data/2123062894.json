@@ -1,0 +1,52 @@
+{
+  "character_id": 2123062894,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96035541,
+    "name": "Buffalo72",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 96035541,
+      "name": "Buffalo72",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119428929,
+      "name": "Artyom Ruediger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92068505,
+      "name": "Dreno Varnav",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122351384,
+      "name": "Ernaras Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MOIOM A",
+  "corporation_id": 98780269,
+  "alliance_id": 99014726,
+  "corporation_name": "Zijin Mining Group Company Limited",
+  "alliance_name": "Terminally Inept Traders and Scanners"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120105295,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 601366458,
+    "name": "Xarrant",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98516313,
+    "alliance_id": 99003995,
+    "corporation_name": "XENIUS Industries",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 601366458,
+      "name": "Xarrant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121244277,
+      "name": "Unschuldige vom Lande",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123158257,
+      "name": "Accalaurie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Prosephia Galvus",
+  "corporation_id": 98702000,
+  "alliance_id": 99003581,
+  "corporation_name": "Snow Moon City",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121481460,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122794544,
+    "name": "Panda K3",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98787376,
+    "alliance_id": null,
+    "corporation_name": "Panda's Castle",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122794544,
+      "name": "Panda K3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123142509,
+      "name": "Panda K9",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123240523,
+      "name": "Panda K10",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grand Ice",
+  "corporation_id": 98747614,
+  "alliance_id": 99012398,
+  "corporation_name": "Corp Of Lesser Heal",
+  "alliance_name": "Nourv Gate Security Commission"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 91741463,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 207593363,
+    "name": "Rokh Stah",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98032343,
+    "alliance_id": 99012398,
+    "corporation_name": "Douchingtons",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 207593363,
+      "name": "Rokh Stah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95898321,
+      "name": "Peter Inkura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115522631,
+      "name": "AsperuS Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kit Kurvora",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

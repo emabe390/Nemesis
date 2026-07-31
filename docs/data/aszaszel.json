@@ -1,0 +1,52 @@
+{
+  "character_id": 2123835640,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91518875,
+    "name": "Wyrd Nekros",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 245073304,
+      "name": "Rixx Javix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117403851,
+      "name": "RoflanPomojka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123849206,
+      "name": "Aeryyk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aszaszel",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

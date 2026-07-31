@@ -1,0 +1,52 @@
+{
+  "character_id": 2123655641,
+  "total_losses": 40,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2116042690,
+    "name": "Sam Mask",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2124112113,
+      "name": "Joker I",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90654372,
+      "name": "Mihael Molou",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94816284,
+      "name": "Puffy Penguin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95874124,
+      "name": "Lloyd Roido",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vilima sakura",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

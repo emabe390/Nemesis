@@ -1,0 +1,52 @@
+{
+  "character_id": 2123400034,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2122180471,
+    "name": "Sako Toshiko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122180471,
+      "name": "Sako Toshiko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91776359,
+      "name": "Valcent Vintine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DF-999",
+  "corporation_id": 98829843,
+  "alliance_id": null,
+  "corporation_name": "Mushroom T01",
+  "alliance_name": null
+}

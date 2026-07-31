@@ -1,0 +1,40 @@
+{
+  "character_id": 2124169423,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114313561,
+    "name": "James Gear",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2043331849,
+    "alliance_id": 99008788,
+    "corporation_name": "Evermore Warriors",
+    "alliance_name": "The Skeleton Crew"
+  },
+  "top_killers": [
+    {
+      "id": 2114313561,
+      "name": "James Gear",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114678829,
+      "name": "Killer Camorra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123378278,
+      "name": "Adarialis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wingvontzen Skor",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

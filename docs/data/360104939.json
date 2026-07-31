@@ -1,0 +1,52 @@
+{
+  "character_id": 360104939,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1487320490,
+    "name": "Metaloid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 137690223,
+      "name": "Kryptek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 730720150,
+      "name": "Molliey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112510725,
+      "name": "Stanley Flemmstin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113191583,
+      "name": "Henry Bosch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silvarius",
+  "corporation_id": 98602781,
+  "alliance_id": null,
+  "corporation_name": "Trash Pandas of Kaunokka",
+  "alliance_name": null
+}

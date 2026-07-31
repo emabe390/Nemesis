@@ -1,0 +1,52 @@
+{
+  "character_id": 2123703830,
+  "total_losses": 54,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 2113538483,
+    "name": "Shimeo Tokila",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2113538483,
+      "name": "Shimeo Tokila",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123585137,
+      "name": "Monimio el Emperador",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91684579,
+      "name": "Ivan Pokos2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92887298,
+      "name": "Reksew Nabali",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "sir octavius elgrande",
+  "corporation_id": 98771069,
+  "alliance_id": 99013766,
+  "corporation_name": "Corsario.",
+  "alliance_name": "Death Legion of Capybaras"
+}

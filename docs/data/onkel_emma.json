@@ -1,0 +1,46 @@
+{
+  "character_id": 2112819112,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118539864,
+    "name": "Wele Amatin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98683492,
+    "alliance_id": null,
+    "corporation_name": "Crokite Miners",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118539864,
+      "name": "Wele Amatin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93280351,
+      "name": "Unseen Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96328342,
+      "name": "Maskim Xul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Onkel Emma",
+  "corporation_id": 98757718,
+  "alliance_id": 99004901,
+  "corporation_name": "One Risky Click",
+  "alliance_name": "Snuffed Out"
+}

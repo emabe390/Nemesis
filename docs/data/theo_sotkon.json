@@ -1,0 +1,40 @@
+{
+  "character_id": 92145105,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1828749206,
+      "name": "nopset",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114337921,
+      "name": "Whadda Badasaz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Theo Sotkon",
+  "corporation_id": 1000080,
+  "alliance_id": null,
+  "corporation_name": "Ministry of War",
+  "alliance_name": null
+}

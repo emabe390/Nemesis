@@ -1,0 +1,52 @@
+{
+  "character_id": 2121049402,
+  "total_losses": 30,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2120976557,
+    "name": "Hexo Flex",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98306027,
+    "alliance_id": 99003581,
+    "corporation_name": "SpaceFire Holding",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120976557,
+      "name": "Hexo Flex",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 1963256473,
+      "name": "Spr1nger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121049382,
+      "name": "Ebeillaksen Arsten",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90526637,
+      "name": "Alex Champ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90615166,
+      "name": "Eve Days CEO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nerwolfur Eorik Trald",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

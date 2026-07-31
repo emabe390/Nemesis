@@ -1,0 +1,46 @@
+{
+  "character_id": 2121564705,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 781741932,
+    "name": "Capt Harston",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98654305,
+    "alliance_id": null,
+    "corporation_name": "Trident Alpha",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 781741932,
+      "name": "Capt Harston",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91026271,
+      "name": "Val Thara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121138649,
+      "name": "Street fighter 007",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124149515,
+      "name": "Mike Jevron",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rando McNally",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

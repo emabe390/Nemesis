@@ -1,0 +1,40 @@
+{
+  "character_id": 2122351001,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121971843,
+    "name": "fugu the fish",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810667,
+    "alliance_id": 99003285,
+    "corporation_name": "Yo fugu Legion oY",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 2121971843,
+      "name": "fugu the fish",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122025935,
+      "name": "Niurtolen Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122344360,
+      "name": "NagaBlack",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack Scarr",
+  "corporation_id": 98227378,
+  "alliance_id": 99005338,
+  "corporation_name": "Comply Or Die",
+  "alliance_name": "Pandemic Horde"
+}

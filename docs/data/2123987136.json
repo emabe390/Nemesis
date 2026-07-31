@@ -1,0 +1,52 @@
+{
+  "character_id": 2123987136,
+  "total_losses": 20,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 546701999,
+    "name": "Spyriadon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98836127,
+    "alliance_id": 99007887,
+    "corporation_name": "MONSTER ENERGY TACTICAL CAMEL BRIGADE",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 546701999,
+      "name": "Spyriadon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92280728,
+      "name": "Scarlet Khardula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 929795590,
+      "name": "Qindar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1548197308,
+      "name": "In Norden",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115421580,
+      "name": "Altair Byron",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ZX014",
+  "corporation_id": 98801578,
+  "alliance_id": 99014087,
+  "corporation_name": "CHUANGSHI Foundation",
+  "alliance_name": "ChuangShi Federation"
+}

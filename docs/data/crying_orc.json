@@ -1,0 +1,52 @@
+{
+  "character_id": 2123735363,
+  "total_losses": 34,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 93275644,
+    "name": "Luigi Gumby",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92626451,
+      "name": "Theo D'sal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93790570,
+      "name": "Viciate",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Crying Orc",
+  "corporation_id": 98808346,
+  "alliance_id": null,
+  "corporation_name": "Marubika",
+  "alliance_name": null
+}

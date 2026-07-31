@@ -1,0 +1,40 @@
+{
+  "character_id": 2114534101,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1920380537,
+    "name": "Shagdurug",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98423954,
+    "alliance_id": 1900696668,
+    "corporation_name": "Worthless Carebears",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1920380537,
+      "name": "Shagdurug",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 253100990,
+      "name": "SokoleOko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124099614,
+      "name": "Viano Panagore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kiana Panagore",
+  "corporation_id": 98830167,
+  "alliance_id": 99009163,
+  "corporation_name": "Vanguard of the Abyss",
+  "alliance_name": "Dracarys."
+}

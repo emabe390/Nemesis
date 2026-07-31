@@ -1,0 +1,40 @@
+{
+  "character_id": 2122343846,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93242586,
+    "name": "Prda Prda",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 93242586,
+      "name": "Prda Prda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1238989024,
+      "name": "Hieroglyphe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122593833,
+      "name": "Viola Terra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aelis Var",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

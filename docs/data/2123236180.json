@@ -1,0 +1,34 @@
+{
+  "character_id": 2123236180,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94753998,
+    "name": "Lie Group",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98178881,
+    "alliance_id": 99003581,
+    "corporation_name": "Nuwa Foundation",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 94753998,
+      "name": "Lie Group",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114243354,
+      "name": "Character 2114243354",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maya Hernandez",
+  "corporation_id": 98795794,
+  "alliance_id": null,
+  "corporation_name": "Furious Krewe",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2113040833,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 898115249,
+    "name": "atalanti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 898115249,
+      "name": "atalanti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91709897,
+      "name": "ddiere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1135028350,
+      "name": "Arkady Drayson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115665349,
+      "name": "Felzo Felsinar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121236591,
+      "name": "Taristato",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bethany Cesaille",
+  "corporation_id": 98766633,
+  "alliance_id": 99014986,
+  "corporation_name": "Silkpot",
+  "alliance_name": "Kinetic Diplomacy"
+}

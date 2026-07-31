@@ -1,0 +1,52 @@
+{
+  "character_id": 2123636260,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 891149554,
+    "name": "Knaz Vladimir",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98397049,
+    "alliance_id": 1354830081,
+    "corporation_name": "The Flying Dead.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 891149554,
+      "name": "Knaz Vladimir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119313972,
+      "name": "AisPobo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91119149,
+      "name": "Gerski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Havmork",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

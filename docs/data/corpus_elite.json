@@ -1,0 +1,46 @@
+{
+  "character_id": 2124139445,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112131739,
+    "name": "MagaMet",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98787235,
+    "alliance_id": null,
+    "corporation_name": "Cococo Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112131739,
+      "name": "MagaMet",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96892774,
+      "name": "Alexandra Azadovski",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115733987,
+      "name": "AsRain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122907297,
+      "name": "Scrooodge McDuck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corpus Elite",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

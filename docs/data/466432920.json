@@ -1,0 +1,40 @@
+{
+  "character_id": 466432920,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122692116,
+    "name": "Pax-FR",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98770714,
+    "alliance_id": null,
+    "corporation_name": "MK-Techno",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122692116,
+      "name": "Pax-FR",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124152827,
+      "name": "Attia Ronan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kristoffer Vincent",
+  "corporation_id": 98825920,
+  "alliance_id": null,
+  "corporation_name": "Snafu's Merry Band of Crusaders",
+  "alliance_name": null
+}

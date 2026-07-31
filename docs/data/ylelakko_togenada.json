@@ -1,0 +1,52 @@
+{
+  "character_id": 2123767056,
+  "total_losses": 37,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90393452,
+      "name": "Evenstar TC Dare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96693989,
+      "name": "Adjust M",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 549627660,
+      "name": "Pawulonek",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ylelakko Togenada",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123231464,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1360687042,
+      "name": "Lemon Fresh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112559323,
+      "name": "R0NlN BIA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Satoshi Nagasaki",
+  "corporation_id": 98564601,
+  "alliance_id": 99007969,
+  "corporation_name": "Russian Wanderers",
+  "alliance_name": "THE RUSSIA"
+}

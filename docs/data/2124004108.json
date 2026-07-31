@@ -1,0 +1,52 @@
+{
+  "character_id": 2124004108,
+  "total_losses": 33,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 96164066,
+    "name": "Carlos Sokaras",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98751148,
+    "alliance_id": null,
+    "corporation_name": "Confidently Incompetent",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96164066,
+      "name": "Carlos Sokaras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96576074,
+      "name": "AsunaOda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113628063,
+      "name": "Eona Sotken",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Solar Plex",
+  "corporation_id": 98811044,
+  "alliance_id": 99014640,
+  "corporation_name": "Warthog LLC",
+  "alliance_name": "Kador Consortium"
+}

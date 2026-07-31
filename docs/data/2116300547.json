@@ -1,0 +1,52 @@
+{
+  "character_id": 2116300547,
+  "total_losses": 71,
+  "unique_killers": 59,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95450790,
+      "name": "Hatai Khardula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 235695799,
+      "name": "Agent 004",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1129337206,
+      "name": "Morfirion",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zia Alexander",
+  "corporation_id": 98586883,
+  "alliance_id": 99003581,
+  "corporation_name": "Xa'sar",
+  "alliance_name": "Fraternity."
+}

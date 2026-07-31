@@ -1,0 +1,52 @@
+{
+  "character_id": 2123677601,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2122096361,
+    "name": "Etoposide",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98674534,
+    "alliance_id": 99013513,
+    "corporation_name": "Voidlings",
+    "alliance_name": "V0IDLINGS"
+  },
+  "top_killers": [
+    {
+      "id": 2122096361,
+      "name": "Etoposide",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90367348,
+      "name": "Charles Issier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96033652,
+      "name": "Foxy Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raskida Erkkinen",
+  "corporation_id": 283723390,
+  "alliance_id": null,
+  "corporation_name": "Dawn's Requiem",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119429390,
+  "total_losses": 136,
+  "unique_killers": 108,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123255343,
+      "name": "Blood Raider Goomb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90700523,
+      "name": "Zaatron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91410846,
+      "name": "Melissa Trendsans",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bazylia Karimera",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

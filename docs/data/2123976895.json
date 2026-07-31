@@ -1,0 +1,34 @@
+{
+  "character_id": 2123976895,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112000314,
+    "name": "Davos Skyworth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98377551,
+    "alliance_id": 99004013,
+    "corporation_name": "Out of Focus",
+    "alliance_name": "Odin's Call"
+  },
+  "top_killers": [
+    {
+      "id": 2112000314,
+      "name": "Davos Skyworth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114256163,
+      "name": "Reodan Ninjima",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darkonas Reborn",
+  "corporation_id": 98743659,
+  "alliance_id": null,
+  "corporation_name": "Squishol Industries",
+  "alliance_name": null
+}

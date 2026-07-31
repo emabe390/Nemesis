@@ -1,0 +1,52 @@
+{
+  "character_id": 2124363819,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 93838156,
+    "name": "Abu Galia",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98695839,
+    "alliance_id": 99003214,
+    "corporation_name": "South Sun Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 93838156,
+      "name": "Abu Galia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92644885,
+      "name": "Semper Liberi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114367701,
+      "name": "BieShazhen BC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118935596,
+      "name": "HO Lox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91916234,
+      "name": "gassman 117",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hill Pve6",
+  "corporation_id": 98833189,
+  "alliance_id": null,
+  "corporation_name": "Hill LP",
+  "alliance_name": null
+}

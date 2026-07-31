@@ -1,0 +1,52 @@
+{
+  "character_id": 2123967501,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123900080,
+    "name": "Valviviana",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98539082,
+    "alliance_id": 1354830081,
+    "corporation_name": "Darkmoon Military Industrial Complex",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123900080,
+      "name": "Valviviana",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123936249,
+      "name": "Character 2123936249",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96172084,
+      "name": "Xenon Aspirse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122785577,
+      "name": "Ugaro Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122981522,
+      "name": "Jukenairos Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ValVivian03",
+  "corporation_id": 98539082,
+  "alliance_id": 1354830081,
+  "corporation_name": "Darkmoon Military Industrial Complex",
+  "alliance_name": "Goonswarm Federation"
+}

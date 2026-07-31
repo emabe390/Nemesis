@@ -1,0 +1,40 @@
+{
+  "character_id": 2116635622,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113458881,
+    "name": "Seethlaw Aldrain",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2113458881,
+      "name": "Seethlaw Aldrain",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 861380549,
+      "name": "Erus Xiphias",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1465355095,
+      "name": "Severus Archanas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Monad Synthesis",
+  "corporation_id": 98651048,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order XVI",
+  "alliance_name": "Absolute Honor"
+}

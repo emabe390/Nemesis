@@ -1,0 +1,52 @@
+{
+  "character_id": 2119502088,
+  "total_losses": 40,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 1511492146,
+    "name": "Thom Grimmar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1511492146,
+      "name": "Thom Grimmar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113934359,
+      "name": "Demetrea Joringer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91201278,
+      "name": "php3ch0 Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95419116,
+      "name": "Tarsonis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113086858,
+      "name": "Penella Olerie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tasharko",
+  "corporation_id": 98729309,
+  "alliance_id": 99014736,
+  "corporation_name": "77th Amarr Squadron",
+  "alliance_name": "Seahorse Riders"
+}

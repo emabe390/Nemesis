@@ -1,0 +1,46 @@
+{
+  "character_id": 2123335608,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91840921,
+    "name": "Liandre Stark",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98806690,
+    "alliance_id": 99011291,
+    "corporation_name": "Cosmos Phoenix Reborn",
+    "alliance_name": "Cosmos Origins"
+  },
+  "top_killers": [
+    {
+      "id": 91840921,
+      "name": "Liandre Stark",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 844275364,
+      "name": "AM Boveri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123631327,
+      "name": "Chad Thunderfrog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1196060207,
+      "name": "Pimp Cane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lorian Lothric",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

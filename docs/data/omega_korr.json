@@ -1,0 +1,40 @@
+{
+  "character_id": 92471370,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122138989,
+    "name": "bear bear bear",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799349,
+    "alliance_id": 99004901,
+    "corporation_name": "The Skies Descend",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2122138989,
+      "name": "bear bear bear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92349912,
+      "name": "Maokai Hendar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114042854,
+      "name": "Emely Rados",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omega Korr",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

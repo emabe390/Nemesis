@@ -1,0 +1,40 @@
+{
+  "character_id": 2122348916,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114070403,
+    "name": "Skaddy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 446274610,
+    "alliance_id": 99003581,
+    "corporation_name": "13th Squadron",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114070403,
+      "name": "Skaddy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92229355,
+      "name": "Ikani Igunen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DrixterEx",
+  "corporation_id": 98778250,
+  "alliance_id": 99013766,
+  "corporation_name": "lnput Broadcast Brotherhood",
+  "alliance_name": "Death Legion of Capybaras"
+}

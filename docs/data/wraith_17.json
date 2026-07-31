@@ -1,0 +1,34 @@
+{
+  "character_id": 2123961840,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115321594,
+    "name": "Dark Phantomsky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642731,
+    "alliance_id": null,
+    "corporation_name": "Felidae Fleet",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115321594,
+      "name": "Dark Phantomsky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122466559,
+      "name": "Kakkiainen Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wraith 17",
+  "corporation_id": 98758588,
+  "alliance_id": 960513040,
+  "corporation_name": "Ninja Squirrel Brotherhood",
+  "alliance_name": "The Veyr Collective"
+}

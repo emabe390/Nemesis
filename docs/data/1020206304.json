@@ -1,0 +1,40 @@
+{
+  "character_id": 1020206304,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 380065718,
+    "name": "Commander Hibb",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98496411,
+    "alliance_id": 99003581,
+    "corporation_name": "WipeOut Inc.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 380065718,
+      "name": "Commander Hibb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 666745603,
+      "name": "MaitreSkaven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 987419296,
+      "name": "Crystal Rain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TwoBirds1Grave",
+  "corporation_id": 98496411,
+  "alliance_id": 99003581,
+  "corporation_name": "WipeOut Inc.",
+  "alliance_name": "Fraternity."
+}

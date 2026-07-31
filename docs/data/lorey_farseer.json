@@ -1,0 +1,52 @@
+{
+  "character_id": 2123906712,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92152658,
+    "name": "Arcanai Ren",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98443943,
+    "alliance_id": null,
+    "corporation_name": "Gilder HQ",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92152658,
+      "name": "Arcanai Ren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 184592179,
+      "name": "Kaz McFoster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 208472006,
+      "name": "Xlost",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121963503,
+      "name": "Haans Berbel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751928,
+      "name": "DuctTape Diplomat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lorey Farseer",
+  "corporation_id": 98377651,
+  "alliance_id": 99013097,
+  "corporation_name": "Russian Star Federation",
+  "alliance_name": "Suetology"
+}

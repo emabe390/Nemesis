@@ -1,0 +1,40 @@
+{
+  "character_id": 2116812576,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114561896,
+    "name": "Gallente Musician",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98629074,
+    "alliance_id": null,
+    "corporation_name": "Dark wing flag Soldier",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114561896,
+      "name": "Gallente Musician",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 937203263,
+      "name": "Malcomtempt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121238729,
+      "name": "Skord Blorpho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ronald Silber",
+  "corporation_id": 98496411,
+  "alliance_id": 99003581,
+  "corporation_name": "WipeOut Inc.",
+  "alliance_name": "Fraternity."
+}

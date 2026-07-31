@@ -1,0 +1,40 @@
+{
+  "character_id": 2114241457,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96867567,
+      "name": "Meeku",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121683065,
+      "name": "ForAeon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maksim Ma",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

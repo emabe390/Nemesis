@@ -1,0 +1,40 @@
+{
+  "character_id": 2123854147,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 730846955,
+    "name": "Thiamin Mononitrate",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 370979777,
+    "alliance_id": 1900696668,
+    "corporation_name": "League of Gentlemen",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 730846955,
+      "name": "Thiamin Mononitrate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94393777,
+      "name": "EB Ofline",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95709767,
+      "name": "Orl Alabel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aulijairos En1dashi",
+  "corporation_id": 98815929,
+  "alliance_id": null,
+  "corporation_name": "Azure's Bloody Revenge",
+  "alliance_name": null
+}

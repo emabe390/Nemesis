@@ -1,0 +1,34 @@
+{
+  "character_id": 2123527638,
+  "total_losses": 10,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123532821,
+    "name": "Leo SkyBlade",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123532821,
+      "name": "Leo SkyBlade",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124087531,
+      "name": "Vombatus Wombatis Verba",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Leo SkyBlaze",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

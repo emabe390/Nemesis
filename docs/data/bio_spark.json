@@ -1,0 +1,52 @@
+{
+  "character_id": 2023351059,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 93147441,
+    "name": "Kibitt Kallinikov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1471263372,
+      "name": "Charles Marsailles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92730215,
+      "name": "Brendan Anneto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93078127,
+      "name": "sysdate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96777306,
+      "name": "GoBack HOME",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bio Spark",
+  "corporation_id": 98810815,
+  "alliance_id": 99014742,
+  "corporation_name": "Gas Huffer's Union",
+  "alliance_name": "Immortal Clone Union"
+}

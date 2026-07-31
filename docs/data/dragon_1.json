@@ -1,0 +1,52 @@
+{
+  "character_id": 2122113427,
+  "total_losses": 19,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 95352834,
+    "name": "Lorenz Alland",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98601950,
+    "alliance_id": null,
+    "corporation_name": "187-Systembande",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95352834,
+      "name": "Lorenz Alland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90762326,
+      "name": "Leriss Serenthius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 428509711,
+      "name": "Soliic Malitar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1531193278,
+      "name": "Imenicus Tsjet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dragon-1",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

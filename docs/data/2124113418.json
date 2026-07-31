@@ -1,0 +1,40 @@
+{
+  "character_id": 2124113418,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120254873,
+    "name": "CASTOLE",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98698455,
+    "alliance_id": 99010569,
+    "corporation_name": "Tsundere Death Squad",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94740729,
+      "name": "Tiny Burton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dalich Greyson",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

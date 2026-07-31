@@ -1,0 +1,40 @@
+{
+  "character_id": 2124247939,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113305888,
+    "name": "Character 2113305888",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121598301,
+      "name": "1yammm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123163594,
+      "name": "Shao maye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heisenberg Beta D1",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

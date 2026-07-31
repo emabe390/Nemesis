@@ -1,0 +1,34 @@
+{
+  "character_id": 2119093048,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96705288,
+    "name": "cleft lip",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96705288,
+      "name": "cleft lip",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1181407812,
+      "name": "shakka makka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pail",
+  "corporation_id": 98669464,
+  "alliance_id": 99009129,
+  "corporation_name": "Frozen LLC",
+  "alliance_name": "No Visual."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123883417,
+  "total_losses": 44,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113357867,
+      "name": "Vyriz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115582319,
+      "name": "Calista Zeal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117623123,
+      "name": "Roy Davies",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "EVE-Black-Cat",
+  "corporation_id": 98769293,
+  "alliance_id": 99003581,
+  "corporation_name": "Legion of Spellbreakers",
+  "alliance_name": "Fraternity."
+}

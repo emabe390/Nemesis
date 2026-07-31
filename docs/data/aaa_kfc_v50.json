@@ -1,0 +1,52 @@
+{
+  "character_id": 2124080823,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113008243,
+    "name": "Nico Franklin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2113008243,
+      "name": "Nico Franklin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93102776,
+      "name": "Pyroclysmic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90330852,
+      "name": "Tol Vir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91083102,
+      "name": "Aurora Roddez",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94570919,
+      "name": "Pr Martin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AAA KFC V50",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

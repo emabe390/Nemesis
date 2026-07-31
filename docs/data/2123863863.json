@@ -1,0 +1,52 @@
+{
+  "character_id": 2123863863,
+  "total_losses": 20,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 1714992864,
+      "name": "assasain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114581990,
+      "name": "Evdokiya Bershanskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118170255,
+      "name": "Yena Gorum",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "UraniumGoat",
+  "corporation_id": 98731060,
+  "alliance_id": 1988009451,
+  "corporation_name": "Assistant for Tax Fugitives",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119656746,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94593302,
+    "name": "Scotty Omerta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98473415,
+    "alliance_id": 99014341,
+    "corporation_name": "The Simorian Order",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 94593302,
+      "name": "Scotty Omerta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90620165,
+      "name": "Lambdaman Sirober",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122985338,
+      "name": "MacarizeCrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FoxThrot",
+  "corporation_id": 98672562,
+  "alliance_id": null,
+  "corporation_name": "R.E.M.N.A.N.T.S",
+  "alliance_name": null
+}

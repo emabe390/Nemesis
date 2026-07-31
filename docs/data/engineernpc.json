@@ -1,0 +1,52 @@
+{
+  "character_id": 2123957326,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2112020148,
+    "name": "Jere Aideron",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98816011,
+    "alliance_id": null,
+    "corporation_name": "Noir. Militia",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112020148,
+      "name": "Jere Aideron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114146718,
+      "name": "Minka Snegorinka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 108237568,
+      "name": "Enzorus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1366292896,
+      "name": "Krak Baldor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EngineerNPC",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

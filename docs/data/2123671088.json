@@ -1,0 +1,34 @@
+{
+  "character_id": 2123671088,
+  "total_losses": 13,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123671018,
+    "name": "Rogue Raccoon",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98465482,
+    "alliance_id": null,
+    "corporation_name": "Kirras Korp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123671018,
+      "name": "Rogue Raccoon",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 1433326490,
+      "name": "Staple Face",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stealth Gecko",
+  "corporation_id": 98465482,
+  "alliance_id": null,
+  "corporation_name": "Kirras Korp",
+  "alliance_name": null
+}

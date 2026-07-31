@@ -1,0 +1,46 @@
+{
+  "character_id": 2123867928,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91762471,
+    "name": "Malcolm Rennolds",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98080732,
+    "alliance_id": null,
+    "corporation_name": "Inquisition FiS Division",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91762471,
+      "name": "Malcolm Rennolds",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 971540600,
+      "name": "Masterpettitt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Malik Wrex",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

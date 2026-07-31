@@ -1,0 +1,34 @@
+{
+  "character_id": 2122734825,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2118485880,
+    "name": "RandomPilot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98801782,
+    "alliance_id": null,
+    "corporation_name": "Quantum Quay",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118485880,
+      "name": "RandomPilot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1685027902,
+      "name": "Lady Nova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JINQI InternationalTrade Inc",
+  "corporation_id": 98631475,
+  "alliance_id": 99005338,
+  "corporation_name": "Profane Proverb",
+  "alliance_name": "Pandemic Horde"
+}

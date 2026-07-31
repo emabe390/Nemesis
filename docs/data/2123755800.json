@@ -1,0 +1,40 @@
+{
+  "character_id": 2123755800,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95884936,
+    "name": "Arturo Safariii",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98419905,
+    "alliance_id": null,
+    "corporation_name": "Individual Dreams",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95884936,
+      "name": "Arturo Safariii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Siggy Ripley",
+  "corporation_id": 98818892,
+  "alliance_id": 99012009,
+  "corporation_name": "Scorched Earth Protocol",
+  "alliance_name": "Minmatar Fleet Associates"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114652139,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687039141,
+    "name": "Nogik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98591829,
+    "alliance_id": 99012042,
+    "corporation_name": "Cyber Collapse.",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 687039141,
+      "name": "Nogik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 769549650,
+      "name": "Slayer Ceetesh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1860939322,
+      "name": "Hades Death",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lenhard",
+  "corporation_id": 98805289,
+  "alliance_id": 99002003,
+  "corporation_name": "Heart in Blood",
+  "alliance_name": "No Value"
+}

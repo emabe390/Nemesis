@@ -1,0 +1,40 @@
+{
+  "character_id": 2123789451,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117905857,
+    "name": "Mr Alpfa Dark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98263423,
+    "alliance_id": 99005178,
+    "corporation_name": "Armilies Corporation",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2117905857,
+      "name": "Mr Alpfa Dark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120071250,
+      "name": "Ladynumping",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123676831,
+      "name": "Lilith Esmer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Urthan Omanid",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

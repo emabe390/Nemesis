@@ -1,0 +1,34 @@
+{
+  "character_id": 2120625129,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 885561527,
+    "name": "First Recon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 885561527,
+      "name": "First Recon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 201268381,
+      "name": "Kojo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pine Apple Pizza",
+  "corporation_id": 98094042,
+  "alliance_id": null,
+  "corporation_name": "AMC.WHD",
+  "alliance_name": null
+}

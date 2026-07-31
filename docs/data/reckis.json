@@ -1,0 +1,52 @@
+{
+  "character_id": 862066808,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 779907230,
+    "name": "john taggert",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783395,
+    "alliance_id": null,
+    "corporation_name": "The Inheritance Plan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 779907230,
+      "name": "john taggert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112478042,
+      "name": "Leila Warghley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93491377,
+      "name": "Psyhopoul Mahyisti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 641993914,
+      "name": "Azzectra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114618405,
+      "name": "Magaloco Heluene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Reckis",
+  "corporation_id": 98607450,
+  "alliance_id": 99014818,
+  "corporation_name": "Ruthless Regiment",
+  "alliance_name": "Wrong Side of the Hole"
+}

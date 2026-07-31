@@ -1,0 +1,34 @@
+{
+  "character_id": 93186345,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 781584111,
+    "name": "Proxay",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 781584111,
+      "name": "Proxay",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 625637028,
+      "name": "Catastrophic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Frede Sarn",
+  "corporation_id": 1613511511,
+  "alliance_id": 1354830081,
+  "corporation_name": "Russian ICE Bears",
+  "alliance_name": "Goonswarm Federation"
+}

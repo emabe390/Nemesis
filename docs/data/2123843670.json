@@ -1,0 +1,52 @@
+{
+  "character_id": 2123843670,
+  "total_losses": 59,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 92705273,
+      "name": "Luciela Spartacus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93562746,
+      "name": "Doc holiday478",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94661872,
+      "name": "NeeonN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95524508,
+      "name": "Amilia Riggs",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Major SuperBad",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123694885,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118814274,
+    "name": "Aggressive Elk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788545,
+    "alliance_id": 99012544,
+    "corporation_name": "Old Gentlemen",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2118814274,
+      "name": "Aggressive Elk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117657970,
+      "name": "vector-B",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121395911,
+      "name": "cybergranny",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rockbiter Aideron",
+  "corporation_id": 98765508,
+  "alliance_id": 99010079,
+  "corporation_name": "Stolen Goods Transport",
+  "alliance_name": "Brave United"
+}

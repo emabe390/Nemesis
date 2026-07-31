@@ -1,0 +1,40 @@
+{
+  "character_id": 2122926989,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121797357,
+    "name": "khony",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98755276,
+    "alliance_id": 99013766,
+    "corporation_name": "PaltasiAguacates S.A",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121797357,
+      "name": "khony",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122636862,
+      "name": "Yeroul Burgnet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skoorwiel Wodnik",
+  "corporation_id": 98780909,
+  "alliance_id": null,
+  "corporation_name": "Eagle and Lion Corporate Agents",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123368772,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 213927392,
+    "name": "Ripcore",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828711,
+    "alliance_id": null,
+    "corporation_name": "Flame's of the Phoenix Rising",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 213927392,
+      "name": "Ripcore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117500018,
+      "name": "Character 2117500018",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112724781,
+      "name": "Eimantas Helios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117348088,
+      "name": "Thestarryemperor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120996821,
+      "name": "CVN-Hanyu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dingle M'dong",
+  "corporation_id": 98750990,
+  "alliance_id": 99010756,
+  "corporation_name": "New Eden Exploration and Uprising Syndicate",
+  "alliance_name": "Pretenders"
+}

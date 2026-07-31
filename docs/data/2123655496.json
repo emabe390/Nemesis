@@ -1,0 +1,46 @@
+{
+  "character_id": 2123655496,
+  "total_losses": 9,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123000242,
+    "name": "DeathEcho Alt9",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98422754,
+    "alliance_id": 99003214,
+    "corporation_name": "SRP Bros",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2123000242,
+      "name": "DeathEcho Alt9",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96609445,
+      "name": "Ceesharp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90001188,
+      "name": "H3llblazer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118917534,
+      "name": "Jasmine Green",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DeathEcho Shadow",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

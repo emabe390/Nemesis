@@ -1,0 +1,52 @@
+{
+  "character_id": 2121249486,
+  "total_losses": 22,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92866950,
+    "name": "Nesushka",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98302513,
+    "alliance_id": null,
+    "corporation_name": "zx incorporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92866950,
+      "name": "Nesushka",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2122928033,
+      "name": "Borrowed-Time",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90597913,
+      "name": "4 Weeks Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121249486",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

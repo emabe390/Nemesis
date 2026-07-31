@@ -1,0 +1,52 @@
+{
+  "character_id": 2122800572,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118373593,
+      "name": "neon6425",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92705427,
+      "name": "TBH Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92902603,
+      "name": "Walter Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114070403,
+      "name": "Skaddy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FPV Kamikaze Drone",
+  "corporation_id": 98720971,
+  "alliance_id": null,
+  "corporation_name": "Synthetic Brutors Dream of Electric Fried Chicken",
+  "alliance_name": null
+}

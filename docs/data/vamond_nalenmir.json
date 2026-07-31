@@ -1,0 +1,34 @@
+{
+  "character_id": 2124450365,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 873005045,
+    "name": "Festering Wound",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 668524528,
+    "alliance_id": null,
+    "corporation_name": "Order of Celestial Knights",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 873005045,
+      "name": "Festering Wound",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 955750694,
+      "name": "0o0Preatorian0o0",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vamond Nalenmir",
+  "corporation_id": 98833002,
+  "alliance_id": null,
+  "corporation_name": "Exordium Mining Collective",
+  "alliance_name": null
+}

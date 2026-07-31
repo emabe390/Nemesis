@@ -1,0 +1,34 @@
+{
+  "character_id": 2123612065,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96762995,
+    "name": "LittleMiss Can'tBeWrong",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 96762995,
+      "name": "LittleMiss Can'tBeWrong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1660686431,
+      "name": "Lord Warlock",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tooty Froooty",
+  "corporation_id": 98783156,
+  "alliance_id": null,
+  "corporation_name": "Cult of the Moon",
+  "alliance_name": null
+}

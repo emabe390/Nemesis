@@ -1,0 +1,40 @@
+{
+  "character_id": 2123796402,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115389841,
+    "name": "wito",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98313729,
+    "alliance_id": 99010089,
+    "corporation_name": "Axis of Evil Emporium Imperium",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2115389841,
+      "name": "wito",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116809541,
+      "name": "yearb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122400110,
+      "name": "Gospitaller",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scamurai Jones",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

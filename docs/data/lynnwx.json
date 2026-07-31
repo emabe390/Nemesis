@@ -1,0 +1,52 @@
+{
+  "character_id": 2123818438,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96283880,
+    "name": "Steven Martz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451336,
+    "alliance_id": null,
+    "corporation_name": "Martz Incorporated",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96283880,
+      "name": "Steven Martz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116503388,
+      "name": "Chuck Blevins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112123297,
+      "name": "Nacho Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117488712,
+      "name": "Sir Bongwater Hackalung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LynnWx",
+  "corporation_id": 98824525,
+  "alliance_id": null,
+  "corporation_name": "Truthsayer's Dome",
+  "alliance_name": null
+}

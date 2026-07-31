@@ -1,0 +1,52 @@
+{
+  "character_id": 1839787349,
+  "total_losses": 21,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2120480685,
+    "name": "Artur Hawking",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2120480685,
+      "name": "Artur Hawking",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 91130645,
+      "name": "Razahell Anneto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92108395,
+      "name": "Biggus Duckus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93271781,
+      "name": "Elya Aylet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Rendez",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

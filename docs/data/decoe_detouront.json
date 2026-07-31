@@ -1,0 +1,40 @@
+{
+  "character_id": 91968973,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120779342,
+    "name": "Trade Hub Camper",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98513466,
+    "alliance_id": 99010089,
+    "corporation_name": "We Break Things",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2120779342,
+      "name": "Trade Hub Camper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112752661,
+      "name": "Atomic Bomberman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123084375,
+      "name": "Tiga Arnen Kusoni",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Decoe DeTouront",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

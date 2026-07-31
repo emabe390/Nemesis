@@ -1,0 +1,52 @@
+{
+  "character_id": 1450942319,
+  "total_losses": 36,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115211062,
+      "name": "Large Quafe Zero",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96523946,
+      "name": "Oktawia Von'mi'stad",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zintalwin",
+  "corporation_id": 98644650,
+  "alliance_id": 99010431,
+  "corporation_name": "Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

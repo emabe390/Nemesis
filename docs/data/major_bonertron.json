@@ -1,0 +1,52 @@
+{
+  "character_id": 2124012386,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123989046,
+    "name": "Dr Bonertron",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123989046,
+      "name": "Dr Bonertron",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1323924212,
+      "name": "Balthazar Estargia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 202821753,
+      "name": "Marbo Slyder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114558165,
+      "name": "ADF Tsurpalen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120836113,
+      "name": "Zvezdyk",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Major Bonertron",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

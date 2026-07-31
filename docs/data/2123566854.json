@@ -1,0 +1,34 @@
+{
+  "character_id": 2123566854,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123649910,
+    "name": "Haze S",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98301253,
+    "alliance_id": 99002396,
+    "corporation_name": "Stoic Breath",
+    "alliance_name": "TERRA REGNUM"
+  },
+  "top_killers": [
+    {
+      "id": 2123649910,
+      "name": "Haze S",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95879320,
+      "name": "Patrick Nolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charybdis of Messina",
+  "corporation_id": 98803517,
+  "alliance_id": 99005338,
+  "corporation_name": "Fractured Dominions",
+  "alliance_name": "Pandemic Horde"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123891469,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2118749715,
+    "name": "Obama Obama",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783395,
+    "alliance_id": null,
+    "corporation_name": "The Inheritance Plan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118749715,
+      "name": "Obama Obama",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90273223,
+      "name": "AnglsDvl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93906219,
+      "name": "Spartak Red-White",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 188657475,
+      "name": "Sorross",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 226583259,
+      "name": "ScheenK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Browman Slade",
+  "corporation_id": 98817424,
+  "alliance_id": 99014524,
+  "corporation_name": "Lo-Hi",
+  "alliance_name": "Silhouettes."
+}

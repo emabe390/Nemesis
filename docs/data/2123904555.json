@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904555,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96819178,
+    "name": "Corinnas flame",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98218062,
+    "alliance_id": 99010421,
+    "corporation_name": "Jovian Vengeance",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 96819178,
+      "name": "Corinnas flame",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119604948,
+      "name": "Illyasviel Von Eizbern",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93915550,
+      "name": "Euel Perne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120292469,
+      "name": "PRIMARCH R0GAL D0RN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HAW Zirn",
+  "corporation_id": 98477766,
+  "alliance_id": 99005338,
+  "corporation_name": "Horde Vanguard.",
+  "alliance_name": "Pandemic Horde"
+}

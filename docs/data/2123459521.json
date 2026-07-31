@@ -1,0 +1,34 @@
+{
+  "character_id": 2123459521,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115982767,
+    "name": "R virustao",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98547771,
+    "alliance_id": 99009163,
+    "corporation_name": "B.O.P Supplication For Glorious",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2115982767,
+      "name": "R virustao",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112316160,
+      "name": "Spooky Bandit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "iPhoney",
+  "corporation_id": 98745321,
+  "alliance_id": 99012459,
+  "corporation_name": "Violent Trans Matching",
+  "alliance_name": "Neon Nightmares"
+}

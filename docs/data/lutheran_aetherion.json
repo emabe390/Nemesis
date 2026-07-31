@@ -1,0 +1,40 @@
+{
+  "character_id": 2123548386,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93764568,
+    "name": "Gavrusha Dallocort",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98824052,
+    "alliance_id": null,
+    "corporation_name": "SONS OF GOD Ltd.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93764568,
+      "name": "Gavrusha Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122117690,
+      "name": "WolfCanyon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lutheran Aetherion",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

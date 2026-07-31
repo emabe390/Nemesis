@@ -1,0 +1,40 @@
+{
+  "character_id": 2121647500,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 361891121,
+    "name": "Giulia Hunter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98475956,
+    "alliance_id": 99003995,
+    "corporation_name": "Schweine im Weltall GmbH",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 361891121,
+      "name": "Giulia Hunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1165490990,
+      "name": "Foxy Minor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114581990,
+      "name": "Evdokiya Bershanskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lominia",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114753705,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1230873801,
+    "name": "Killer Rasta",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1305156897,
+      "name": "Sturack",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1702316418,
+      "name": "Miniers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gobb Rotsu",
+  "corporation_id": 98831155,
+  "alliance_id": null,
+  "corporation_name": "Biene Mayo HarmonyOvo.",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123798800,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123800639,
+    "name": "Sue Lace",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123800639,
+      "name": "Sue Lace",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112212176,
+      "name": "Alys Eumidar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arya McRee",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123768893,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117502885,
+      "name": "Aulonanen Nani Rotsuda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121977361,
+      "name": "Crisstinka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HateRavens XV",
+  "corporation_id": 98813620,
+  "alliance_id": null,
+  "corporation_name": "Torpedo DPS Delivery Service",
+  "alliance_name": null
+}

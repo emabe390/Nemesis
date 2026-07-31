@@ -1,0 +1,40 @@
+{
+  "character_id": 2114676060,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91682985,
+    "name": "Mariko Ishii",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 91682985,
+      "name": "Mariko Ishii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118922512,
+      "name": "Mechanics4",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123756060,
+      "name": "Gamas Anthar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sergey Rova",
+  "corporation_id": 98450785,
+  "alliance_id": 1354830081,
+  "corporation_name": "Siberian Alpha Fleet",
+  "alliance_name": "Goonswarm Federation"
+}

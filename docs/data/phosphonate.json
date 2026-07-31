@@ -1,0 +1,52 @@
+{
+  "character_id": 2123002703,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1991844610,
+    "name": "Mad Murder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98046489,
+    "alliance_id": null,
+    "corporation_name": "Mad Murders Team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1991844610,
+      "name": "Mad Murder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1982313570,
+      "name": "Character 1982313570",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112079820,
+      "name": "Heiliger Paulus2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112125262,
+      "name": "Achill Omanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112667881,
+      "name": "Rick Scotch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phosphonate",
+  "corporation_id": 98787030,
+  "alliance_id": 1900696668,
+  "corporation_name": "Rev3nants Wrath",
+  "alliance_name": "The Initiative."
+}

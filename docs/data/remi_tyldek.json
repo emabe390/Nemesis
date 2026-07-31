@@ -1,0 +1,52 @@
+{
+  "character_id": 2113064813,
+  "total_losses": 216,
+  "unique_killers": 194,
+  "nemesis": {
+    "id": 1567202659,
+    "name": "Brutus Duran",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98566065,
+    "alliance_id": null,
+    "corporation_name": "Cameltoe Collective",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113119198,
+      "name": "Tyldek",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113591782,
+      "name": "Sobeit Erata",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90117368,
+      "name": "Evezer",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Remi Tyldek",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 378092424,
+  "total_losses": 54,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 93716452,
+      "name": "Torgo Tahn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 202442262,
+      "name": "Davian Loyalar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119392005,
+      "name": "SUS SUS",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rasgard",
+  "corporation_id": 98657999,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rage Confederacy",
+  "alliance_name": "Goonswarm Federation"
+}

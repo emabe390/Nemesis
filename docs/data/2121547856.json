@@ -1,0 +1,52 @@
+{
+  "character_id": 2121547856,
+  "total_losses": 14,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 4,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122953589,
+      "name": "Jen Tanko",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2123354342,
+      "name": "Zevi Marque",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91364694,
+      "name": "Vladof Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AresTako",
+  "corporation_id": 98120737,
+  "alliance_id": 99003557,
+  "corporation_name": "RadioActivia",
+  "alliance_name": "LowSechnaya Sholupen"
+}

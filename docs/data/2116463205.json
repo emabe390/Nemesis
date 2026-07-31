@@ -1,0 +1,52 @@
+{
+  "character_id": 2116463205,
+  "total_losses": 18,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 289374601,
+    "name": "Den'orm",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98643195,
+    "alliance_id": 99012239,
+    "corporation_name": "I'm Super Bad At This",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90064412,
+      "name": "Mara Faleemtuk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94756387,
+      "name": "Planet Kiler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95070840,
+      "name": "Maia Anakin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alex Skylar",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115875869,
+  "total_losses": 33,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2123797036,
+    "name": "Black Hare",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98831259,
+    "alliance_id": null,
+    "corporation_name": "Deep Reef",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123797036,
+      "name": "Black Hare",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92943546,
+      "name": "Rinzler90",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95897901,
+      "name": "Bud Bentza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 247656547,
+      "name": "Cobbo8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112815055,
+      "name": "Rhea Zail",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kim Doe",
+  "corporation_id": 98792988,
+  "alliance_id": 99001969,
+  "corporation_name": "We do our best",
+  "alliance_name": "SONS of BANE"
+}

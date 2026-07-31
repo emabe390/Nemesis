@@ -1,0 +1,40 @@
+{
+  "character_id": 2123692724,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91904026,
+    "name": "Justice Luft",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98323701,
+    "alliance_id": 99006113,
+    "corporation_name": "No Vacancies",
+    "alliance_name": "No Vacancies."
+  },
+  "top_killers": [
+    {
+      "id": 91904026,
+      "name": "Justice Luft",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122329381,
+      "name": "Tech II Tempest1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122329382,
+      "name": "Tech II Tempest2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "shimbo-51",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

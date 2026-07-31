@@ -1,0 +1,52 @@
+{
+  "character_id": 2123272313,
+  "total_losses": 23,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 1787970790,
+    "name": "Walcor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98714474,
+    "alliance_id": null,
+    "corporation_name": "Snufs Space Agency",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1787970790,
+      "name": "Walcor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118692725,
+      "name": "Character 2118692725",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123948334,
+      "name": "Naskawio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92204716,
+      "name": "Eletherus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ShuduDemonas",
+  "corporation_id": 98743131,
+  "alliance_id": 99012781,
+  "corporation_name": "ARC Security",
+  "alliance_name": "I Showed You My Probes... Please Respond..."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1466947420,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 578102137,
+    "name": "Spark Progenitori",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1091440439,
+    "alliance_id": 498125261,
+    "corporation_name": "AlcoDOTTE",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 578102137,
+      "name": "Spark Progenitori",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96151338,
+      "name": "Orome Aldaron",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124074304,
+      "name": "Eileen Rose",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 733332734,
+      "name": "Sabrina Cerabiam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 905089797,
+      "name": "Sozeles Harbinger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ronan Le'Meurtrier",
+  "corporation_id": 98336299,
+  "alliance_id": 99006795,
+  "corporation_name": "Blackjack and Exotic Dancers",
+  "alliance_name": "Top Tier"
+}

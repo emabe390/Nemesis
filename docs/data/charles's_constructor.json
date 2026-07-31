@@ -1,0 +1,46 @@
+{
+  "character_id": 2123320296,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124117529,
+    "name": "Pakko Uitra",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98826602,
+    "alliance_id": null,
+    "corporation_name": "Niko's Memories of Azurit",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124117529,
+      "name": "Pakko Uitra",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 589134276,
+      "name": "Merush",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97160085,
+      "name": "Paul Zibertovych",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123027714,
+      "name": "King Charles I",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charles's Constructor",
+  "corporation_id": 98684327,
+  "alliance_id": 99013589,
+  "corporation_name": "Charles's Domain",
+  "alliance_name": "Lethal Estates"
+}

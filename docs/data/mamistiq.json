@@ -1,0 +1,40 @@
+{
+  "character_id": 408526886,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95779000,
+    "name": "Dwark",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98594202,
+    "alliance_id": 99010457,
+    "corporation_name": "Harmonist",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95779000,
+      "name": "Dwark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118935841,
+      "name": "Jess the Saviour",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "mamistiq",
+  "corporation_id": 1000046,
+  "alliance_id": null,
+  "corporation_name": "Sebiestor Tribe",
+  "alliance_name": null
+}

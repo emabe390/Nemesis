@@ -1,0 +1,40 @@
+{
+  "character_id": 2118647933,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116806248,
+    "name": "Jimbo Clifford",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670226,
+    "alliance_id": 99010756,
+    "corporation_name": "StratsCo",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2116806248,
+      "name": "Jimbo Clifford",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121184586,
+      "name": "Thrasher FIeet Issue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123458127,
+      "name": "ThePolaris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Monika Clifford",
+  "corporation_id": 98643167,
+  "alliance_id": 99010756,
+  "corporation_name": "Helix Initiative",
+  "alliance_name": "Pretenders"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123685874,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95501133,
+    "name": "Grams Flatchet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98665606,
+    "alliance_id": 99011144,
+    "corporation_name": "Lux Mundi Exploration Company",
+    "alliance_name": "Lux Collective"
+  },
+  "top_killers": [
+    {
+      "id": 95501133,
+      "name": "Grams Flatchet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120845221,
+      "name": "Dallasss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CaptainBanch",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

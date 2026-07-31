@@ -1,0 +1,52 @@
+{
+  "character_id": 2124269491,
+  "total_losses": 23,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2113305888,
+    "name": "Character 2113305888",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124123783,
+      "name": "Indy Wendy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93730509,
+      "name": "Character 93730509",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94944885,
+      "name": "Daniel Sunkist Lennelluc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95031717,
+      "name": "Indira Alaine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Synthetic Tears",
+  "corporation_id": 98775840,
+  "alliance_id": null,
+  "corporation_name": "1400mm Kanonenfieber",
+  "alliance_name": null
+}

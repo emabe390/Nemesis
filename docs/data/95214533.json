@@ -1,0 +1,40 @@
+{
+  "character_id": 95214533,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 645134875,
+    "name": "Deathington",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 645134875,
+      "name": "Deathington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116438125,
+      "name": "Divina Astra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123024305,
+      "name": "TIG-54",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "George Tivianne",
+  "corporation_id": 355443127,
+  "alliance_id": 1354830081,
+  "corporation_name": "ANZAC ALLIANCE",
+  "alliance_name": "Goonswarm Federation"
+}

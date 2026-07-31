@@ -1,0 +1,52 @@
+{
+  "character_id": 2124238316,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96352124,
+    "name": "Character 96352124",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 96352124,
+      "name": "Character 96352124",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1876418473,
+      "name": "AdiDasler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123969722,
+      "name": "Gregson Gar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94858146,
+      "name": "Amy Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97104320,
+      "name": "Mias",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "playervoid",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123334726,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91365609,
+    "name": "Igor Gorodbin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98120737,
+    "alliance_id": 99003557,
+    "corporation_name": "RadioActivia",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121813131,
+      "name": "Stilly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123257343,
+      "name": "Julian Bjorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119761349,
+      "name": "Demian1 De Fugasov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcos Ponte",
+  "corporation_id": 98828838,
+  "alliance_id": null,
+  "corporation_name": "Sagitario A S.A.",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2112086076,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114849159,
+    "name": "Hieda Humio",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98652614,
+    "alliance_id": 99010517,
+    "corporation_name": "Temple of Tuvan Orth",
+    "alliance_name": "Guardians of Tranquility"
+  },
+  "top_killers": [
+    {
+      "id": 2114849159,
+      "name": "Hieda Humio",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 202442262,
+      "name": "Davian Loyalar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120878293,
+      "name": "Cardo Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123265942,
+      "name": "Mr Ludvig",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123342519,
+      "name": "Call Me FC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AWACS Thunderhead",
+  "corporation_id": 98802808,
+  "alliance_id": 1354830081,
+  "corporation_name": "A World With No Boundaries",
+  "alliance_name": "Goonswarm Federation"
+}

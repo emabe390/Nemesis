@@ -1,0 +1,52 @@
+{
+  "character_id": 2123448695,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123525807,
+    "name": "CapMino",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98758017,
+    "alliance_id": 99013786,
+    "corporation_name": "Cryonic Origin",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92470684,
+      "name": "Bega Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93942563,
+      "name": "Sanders Schmittlaub",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94099936,
+      "name": "Crazy Dogbreath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97017827,
+      "name": "Plymouth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ozi Kirke",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

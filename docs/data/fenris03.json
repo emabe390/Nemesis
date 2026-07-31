@@ -1,0 +1,34 @@
+{
+  "character_id": 2124229130,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fenris03",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

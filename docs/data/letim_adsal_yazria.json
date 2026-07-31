@@ -1,0 +1,52 @@
+{
+  "character_id": 2123948165,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123040238,
+    "name": "Combatus wombatus",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1268333930,
+    "alliance_id": 99005178,
+    "corporation_name": "QuantumTech Industries",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 2123040238,
+      "name": "Combatus wombatus",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 882461398,
+      "name": "LeetSystems",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 605116597,
+      "name": "suedechrist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122447475,
+      "name": "Character 2122447475",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Letim Adsal Yazria",
+  "corporation_id": 98817040,
+  "alliance_id": 99012664,
+  "corporation_name": "Bob Willz It",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2113393594,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 820474900,
+    "name": "Vantera",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98801782,
+    "alliance_id": null,
+    "corporation_name": "Quantum Quay",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 820474900,
+      "name": "Vantera",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96053157,
+      "name": "Squal Fenix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113362418,
+      "name": "biubiu tank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123667206,
+      "name": "Leopard2MainBattle Tank",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zhou tank",
+  "corporation_id": 98769610,
+  "alliance_id": 1900696668,
+  "corporation_name": "Cosmic-Wanderers",
+  "alliance_name": "The Initiative."
+}

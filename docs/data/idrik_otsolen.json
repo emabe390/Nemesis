@@ -1,0 +1,46 @@
+{
+  "character_id": 2123986926,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122169243,
+    "name": "Robbb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805225,
+    "alliance_id": 99014738,
+    "corporation_name": "Officio Assassinorum.",
+    "alliance_name": "The Black Shores"
+  },
+  "top_killers": [
+    {
+      "id": 2122169243,
+      "name": "Robbb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 224584046,
+      "name": "Raven Hyperbollic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1081320675,
+      "name": "Priest Valton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122051866,
+      "name": "Mokt Otsolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Idrik Otsolen",
+  "corporation_id": 98760719,
+  "alliance_id": 1900696668,
+  "corporation_name": "The Bannermen",
+  "alliance_name": "The Initiative."
+}

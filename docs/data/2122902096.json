@@ -1,0 +1,40 @@
+{
+  "character_id": 2122902096,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122627725,
+    "name": "postavshik",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98377651,
+    "alliance_id": 99013097,
+    "corporation_name": "Russian Star Federation",
+    "alliance_name": "Suetology"
+  },
+  "top_killers": [
+    {
+      "id": 2122627725,
+      "name": "postavshik",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122258990,
+      "name": "kekelala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120231906,
+      "name": "Piter O'Nil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "bulleyes",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123626060,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112117743,
+    "name": "Character 2112117743",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98492570,
+    "alliance_id": 1459096720,
+    "corporation_name": "Secret Service Inc",
+    "alliance_name": "Brotherhood Of Silent Space"
+  },
+  "top_killers": [
+    {
+      "id": 2112117743,
+      "name": "Character 2112117743",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115014738,
+      "name": "Alexandr Pozembaum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115598560,
+      "name": "Finrod Baldoyle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luon Heleneto",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123222623,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 244469783,
+    "name": "Naldo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98406814,
+    "alliance_id": 99012398,
+    "corporation_name": "Victory or Whatever",
+    "alliance_name": "Nourv Gate Security Commission"
+  },
+  "top_killers": [
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92033685,
+      "name": "NoLogos Zaminous",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1727025426,
+      "name": "Perseus Kallistratos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119979871,
+      "name": "StationACE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spooky59",
+  "corporation_id": 98782318,
+  "alliance_id": null,
+  "corporation_name": "Cosmic Misfits",
+  "alliance_name": null
+}

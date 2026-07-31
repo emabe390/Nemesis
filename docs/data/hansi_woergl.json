@@ -1,0 +1,40 @@
+{
+  "character_id": 2115374121,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93500810,
+    "name": "James Pruitt",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 953808580,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cloaked Goof",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93500810,
+      "name": "James Pruitt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113013494,
+      "name": "Tantaria Inagawa-kai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113608690,
+      "name": "DUXX Chastot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hansi Woergl",
+  "corporation_id": 98496411,
+  "alliance_id": 99003581,
+  "corporation_name": "WipeOut Inc.",
+  "alliance_name": "Fraternity."
+}

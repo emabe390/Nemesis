@@ -1,0 +1,40 @@
+{
+  "character_id": 2123282377,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119313972,
+    "name": "AisPobo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575144,
+    "alliance_id": 99003581,
+    "corporation_name": "Phoenix City",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119313972,
+      "name": "AisPobo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113072039,
+      "name": "Anto Andaras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116033609,
+      "name": "Leon Endaras",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coverger Imper Tissant",
+  "corporation_id": 98801916,
+  "alliance_id": 99014101,
+  "corporation_name": "NovaForge Consortium",
+  "alliance_name": "Reckless Empire"
+}

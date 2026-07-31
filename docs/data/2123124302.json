@@ -1,0 +1,52 @@
+{
+  "character_id": 2123124302,
+  "total_losses": 46,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 94343846,
+    "name": "Eric Stolypin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98635328,
+    "alliance_id": 1042504553,
+    "corporation_name": "Lighthouse Society",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 94343846,
+      "name": "Eric Stolypin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 380072504,
+      "name": "Gensolo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90738662,
+      "name": "Teighty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91198929,
+      "name": "Lokian Oksaras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91446786,
+      "name": "Malifice Snoweyes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jacque Meghoff",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

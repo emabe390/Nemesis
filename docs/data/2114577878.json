@@ -1,0 +1,40 @@
+{
+  "character_id": 2114577878,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121015138,
+    "name": "Kitaro Shark",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98786569,
+    "alliance_id": null,
+    "corporation_name": "Pick your nose",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121015138,
+      "name": "Kitaro Shark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122311465,
+      "name": "Hello Dog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123076767,
+      "name": "Grace Varna",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gorilla Energy",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

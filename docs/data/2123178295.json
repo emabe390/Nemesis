@@ -1,0 +1,52 @@
+{
+  "character_id": 2123178295,
+  "total_losses": 27,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2123430571,
+    "name": "JY23",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98785790,
+    "alliance_id": null,
+    "corporation_name": "Yan Army",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123430571,
+      "name": "JY23",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91259735,
+      "name": "Richard Stallmanu Stallmania",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114297270,
+      "name": "NVIDIA HRX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93593986,
+      "name": "Prakash Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95590706,
+      "name": "Titus Lancaster",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "XiaoHaitune",
+  "corporation_id": 98785790,
+  "alliance_id": null,
+  "corporation_name": "Yan Army",
+  "alliance_name": null
+}

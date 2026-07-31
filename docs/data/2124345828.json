@@ -1,0 +1,52 @@
+{
+  "character_id": 2124345828,
+  "total_losses": 14,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2116266095,
+    "name": "dom toy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98830206,
+    "alliance_id": null,
+    "corporation_name": "Titanium State Logistics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116266095,
+      "name": "dom toy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119313972,
+      "name": "AisPobo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120824348,
+      "name": "ElAmericano02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123962171,
+      "name": "Dobro25",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93813131,
+      "name": "Kong GukSoo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124345828",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

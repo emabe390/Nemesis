@@ -1,0 +1,40 @@
+{
+  "character_id": 2123951859,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123431505,
+    "name": "Soin Tekitsu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818902,
+    "alliance_id": null,
+    "corporation_name": "Pochvent hunters",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123431505,
+      "name": "Soin Tekitsu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 757402567,
+      "name": "Edenmain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119729213,
+      "name": "Ortho the VII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EgorValeriev",
+  "corporation_id": 98476260,
+  "alliance_id": null,
+  "corporation_name": "Enemy in System",
+  "alliance_name": null
+}

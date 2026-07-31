@@ -1,0 +1,52 @@
+{
+  "character_id": 2115415580,
+  "total_losses": 41,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95872464,
+      "name": "Lukas Van Eind",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115860972,
+      "name": "Marring Uchiha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119094788,
+      "name": "Djofull",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120172744,
+      "name": "PyrotekNick",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jo'Martini Stareine",
+  "corporation_id": 98640845,
+  "alliance_id": 99011277,
+  "corporation_name": "The Inf3cted",
+  "alliance_name": "Pathog3n"
+}

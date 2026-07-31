@@ -1,0 +1,52 @@
+{
+  "character_id": 2123645473,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 955764033,
+      "name": "Jackhera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1856194705,
+      "name": "GemsWest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118065734,
+      "name": "Kamadainen Motsu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aivorasos",
+  "corporation_id": 98745845,
+  "alliance_id": 99005393,
+  "corporation_name": "Fighting Club Seafood Market",
+  "alliance_name": "Blades of Grass"
+}

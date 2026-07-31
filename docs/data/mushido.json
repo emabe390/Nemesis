@@ -1,0 +1,40 @@
+{
+  "character_id": 2123264099,
+  "total_losses": 30,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114541550,
+    "name": "Sifon Acami",
+    "kill_count": 23,
+    "final_blows": 23,
+    "corporation_id": 98724821,
+    "alliance_id": null,
+    "corporation_name": "Garden of Shadows",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114541550,
+      "name": "Sifon Acami",
+      "kill_count": 23,
+      "final_blows": 23
+    },
+    {
+      "id": 2122738274,
+      "name": "SkuuullyFR",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2120631923,
+      "name": "Banner Pappotte",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mushido",
+  "corporation_id": 98800259,
+  "alliance_id": null,
+  "corporation_name": "Interstellars Inc.",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1857743630,
+  "total_losses": 20,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 738762358,
+    "name": "Johann Tollefson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 738762358,
+      "name": "Johann Tollefson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91235264,
+      "name": "Oscar Cartel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95671004,
+      "name": "Grak Sarain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95774779,
+      "name": "Prometheus Hinken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96346764,
+      "name": "Styx Prana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "matt987",
+  "corporation_id": 98765306,
+  "alliance_id": 99012009,
+  "corporation_name": "Soltech Holdings",
+  "alliance_name": "Minmatar Fleet Associates"
+}

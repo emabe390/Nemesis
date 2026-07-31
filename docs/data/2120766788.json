@@ -1,0 +1,52 @@
+{
+  "character_id": 2120766788,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2120521091,
+    "name": "Midnight T",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120521091,
+      "name": "Midnight T",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93290493,
+      "name": "Laurance Aldent",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1349880512,
+      "name": "Quick Bitt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Midnight Z",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

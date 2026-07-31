@@ -1,0 +1,52 @@
+{
+  "character_id": 1832127424,
+  "total_losses": 26,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 1243900015,
+    "name": "NoTalent",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702201,
+    "alliance_id": 99010421,
+    "corporation_name": "Corellian Heavy Industries",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 1243900015,
+      "name": "NoTalent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2079911283,
+      "name": "Serenity's Throne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92075107,
+      "name": "Lianne d'Argon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94314134,
+      "name": "Carrie Mehrbrust",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95254306,
+      "name": "Perigo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lietwolf",
+  "corporation_id": 98676479,
+  "alliance_id": 99012040,
+  "corporation_name": "Mem3nto Mori",
+  "alliance_name": "Regnum Astera"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119333660,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91702445,
+    "name": "John Buschmann",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91702445,
+      "name": "John Buschmann",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93748748,
+      "name": "Character 93748748",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115298000,
+      "name": "Karisao Handiko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ten Mining",
+  "corporation_id": 98816496,
+  "alliance_id": null,
+  "corporation_name": "Sovereign Synthesis",
+  "alliance_name": null
+}

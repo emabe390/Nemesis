@@ -1,0 +1,52 @@
+{
+  "character_id": 2121010632,
+  "total_losses": 17,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114425147,
+    "name": "Abazaga",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1392475011,
+    "alliance_id": 99002974,
+    "corporation_name": "Reliables Inc",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 93968170,
+      "name": "Magnus Larson",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93995237,
+      "name": "Arindia Mielin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96835391,
+      "name": "Character 96835391",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alberglast",
+  "corporation_id": 98837070,
+  "alliance_id": 99010877,
+  "corporation_name": "Tactically Rejected.",
+  "alliance_name": "Out of the Blue."
+}

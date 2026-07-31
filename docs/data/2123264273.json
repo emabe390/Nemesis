@@ -1,0 +1,52 @@
+{
+  "character_id": 2123264273,
+  "total_losses": 56,
+  "unique_killers": 49,
+  "nemesis": {
+    "id": 2112595609,
+    "name": "Kelan Hanomaa",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98747520,
+    "alliance_id": null,
+    "corporation_name": "Targets Locked",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112595609,
+      "name": "Kelan Hanomaa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94452796,
+      "name": "Eimantas Triber",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 454040390,
+      "name": "Blue Tudor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116941046,
+      "name": "Ermintrude Viliana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119916209,
+      "name": "Don't Tackle Him",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rocco Fives",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

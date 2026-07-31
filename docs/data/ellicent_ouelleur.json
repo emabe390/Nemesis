@@ -1,0 +1,40 @@
+{
+  "character_id": 2122157589,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116054620,
+    "name": "Kush Alien",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116054620,
+      "name": "Kush Alien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117273105,
+      "name": "Matvik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122714543,
+      "name": "Minthaarus Rha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ellicent Ouelleur",
+  "corporation_id": 98791242,
+  "alliance_id": null,
+  "corporation_name": "Ergonomically Terrific",
+  "alliance_name": null
+}

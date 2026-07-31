@@ -1,0 +1,52 @@
+{
+  "character_id": 2120842806,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 95611812,
+    "name": "Ale Machine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92044649,
+      "name": "Nakito Kobara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92216735,
+      "name": "Kassa Nech",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92761884,
+      "name": "Zamira Mtskhetashi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 346993362,
+      "name": "AtomicBetty",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alan Baez",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122402923,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95995130,
+    "name": "elmozus plork",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98589727,
+    "alliance_id": 498125261,
+    "corporation_name": "Storm Chasers.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 95995130,
+      "name": "elmozus plork",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114017032,
+      "name": "Vasilios",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Delsys",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

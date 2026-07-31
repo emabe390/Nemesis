@@ -1,0 +1,52 @@
+{
+  "character_id": 2123261784,
+  "total_losses": 58,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 854486695,
+    "name": "Mike Right",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 148421648,
+    "alliance_id": 1900696668,
+    "corporation_name": "hirr",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 854486695,
+      "name": "Mike Right",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114823136,
+      "name": "Solar-Macharius",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92790199,
+      "name": "Artemkas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 268321879,
+      "name": "Kriomnimus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jason Vest",
+  "corporation_id": 98774105,
+  "alliance_id": 99003581,
+  "corporation_name": "Dependable Delinquents",
+  "alliance_name": "Fraternity."
+}

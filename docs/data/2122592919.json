@@ -1,0 +1,40 @@
+{
+  "character_id": 2122592919,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112867543,
+    "name": "Katrin Langaar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778639,
+    "alliance_id": 99013723,
+    "corporation_name": "Firma Kasallek",
+    "alliance_name": "Dienstleistungen Kasallek"
+  },
+  "top_killers": [
+    {
+      "id": 2112867543,
+      "name": "Katrin Langaar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118098355,
+      "name": "And Langaar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123875687,
+      "name": "UA Patriot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heretic Wolf",
+  "corporation_id": 98762629,
+  "alliance_id": 99013004,
+  "corporation_name": "Judge's",
+  "alliance_name": "Constellation Holdings Trust"
+}

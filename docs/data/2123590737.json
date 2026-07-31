@@ -1,0 +1,40 @@
+{
+  "character_id": 2123590737,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91988606,
+    "name": "Smokey Nagata",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91988606,
+      "name": "Smokey Nagata",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94609878,
+      "name": "Falicitude Starrunner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123997689,
+      "name": "Elena Manare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amillyne Madullier",
+  "corporation_id": 583616018,
+  "alliance_id": 1354830081,
+  "corporation_name": "Black Aces",
+  "alliance_name": "Goonswarm Federation"
+}

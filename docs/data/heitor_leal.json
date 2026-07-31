@@ -1,0 +1,40 @@
+{
+  "character_id": 2115532003,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122648619,
+    "name": "Ava Astra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98640415,
+    "alliance_id": null,
+    "corporation_name": "Pecunia Infinita",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122648619,
+      "name": "Ava Astra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123727390,
+      "name": "Iwara Isaka Muvila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123898497,
+      "name": "Blueprint Research 10-2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heitor Leal",
+  "corporation_id": 98611513,
+  "alliance_id": null,
+  "corporation_name": "No tax lol",
+  "alliance_name": null
+}

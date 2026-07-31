@@ -1,0 +1,40 @@
+{
+  "character_id": 2123639340,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1627594685,
+    "name": "Sam Bristol",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98012419,
+    "alliance_id": 131511956,
+    "corporation_name": "I N E X T R E M I S",
+    "alliance_name": "Tactical Narcotics Team"
+  },
+  "top_killers": [
+    {
+      "id": 1627594685,
+      "name": "Sam Bristol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115180818,
+      "name": "Veldspar Vandal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cyno Pa",
+  "corporation_id": 98755298,
+  "alliance_id": 1727758877,
+  "corporation_name": "Fox of Resistance",
+  "alliance_name": "Northern Coalition."
+}

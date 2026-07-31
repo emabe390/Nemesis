@@ -1,0 +1,52 @@
+{
+  "character_id": 2117013152,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 302248911,
+    "name": "Rakaz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98478883,
+    "alliance_id": 99004901,
+    "corporation_name": "Know-Nothings",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92668441,
+      "name": "Iv d'Este",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1145347881,
+      "name": "Remote Exploit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Interstellarist",
+  "corporation_id": 98651050,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XVIII",
+  "alliance_name": "Absolute Will"
+}

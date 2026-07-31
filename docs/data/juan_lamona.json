@@ -1,0 +1,52 @@
+{
+  "character_id": 2112234798,
+  "total_losses": 24,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2123793791,
+    "name": "Hornet Wall",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123793791,
+      "name": "Hornet Wall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90204495,
+      "name": "PlutoniuM86",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90797201,
+      "name": "Alexander Asanti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96650003,
+      "name": "Flower Fallen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Juan Lamona",
+  "corporation_id": 98762691,
+  "alliance_id": 99014668,
+  "corporation_name": "Arquebus Co.",
+  "alliance_name": "The Ravens' Nest"
+}

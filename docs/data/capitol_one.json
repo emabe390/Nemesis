@@ -1,0 +1,52 @@
+{
+  "character_id": 1102700372,
+  "total_losses": 39,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 909008587,
+    "name": "CrackerC",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96761070,
+      "name": "Drago Tzu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124460443,
+      "name": "Character 2124460443",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90794980,
+      "name": "Quark Curneth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91097124,
+      "name": "Pashko Morgan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capitol One",
+  "corporation_id": 98224639,
+  "alliance_id": 99005678,
+  "corporation_name": "Dirt 'n' Glitter",
+  "alliance_name": "Local Is Primary"
+}

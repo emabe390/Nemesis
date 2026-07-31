@@ -1,0 +1,52 @@
+{
+  "character_id": 2124410565,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 887324380,
+    "name": "Emperor Caligula",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 557199155,
+    "alliance_id": 99011223,
+    "corporation_name": "The New Federation",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 887324380,
+      "name": "Emperor Caligula",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1130628277,
+      "name": "Warlon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115276122,
+      "name": "T'ral Vsengne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94257395,
+      "name": "Sclavus Master",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95051645,
+      "name": "Ellis Merean",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Isabella Jackson",
+  "corporation_id": 98834071,
+  "alliance_id": null,
+  "corporation_name": "Lost Boys Mining Guild",
+  "alliance_name": null
+}

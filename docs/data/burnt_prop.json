@@ -1,0 +1,52 @@
+{
+  "character_id": 2121521115,
+  "total_losses": 29,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2113233546,
+    "name": "Sven Bauer",
+    "kill_count": 14,
+    "final_blows": 14,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 94408315,
+      "name": "Fake IP",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90517294,
+      "name": "J A Aloysiusz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90696004,
+      "name": "Bicc Bum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93625310,
+      "name": "Zerk Tuback",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Burnt Prop",
+  "corporation_id": 98557229,
+  "alliance_id": 99004901,
+  "corporation_name": "Outback Steakhouse of Pancakes",
+  "alliance_name": "Snuffed Out"
+}

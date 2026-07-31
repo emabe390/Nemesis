@@ -1,0 +1,40 @@
+{
+  "character_id": 2124212741,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123064193,
+    "name": "The Tekkers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98045653,
+    "alliance_id": null,
+    "corporation_name": "The Riot Formation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123064193,
+      "name": "The Tekkers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 636938573,
+      "name": "Kren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121624384,
+      "name": "Arakas Silx",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mild Grey",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

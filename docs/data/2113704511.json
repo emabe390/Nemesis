@@ -1,0 +1,34 @@
+{
+  "character_id": 2113704511,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122427762,
+      "name": "Lazamair",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loboto mite",
+  "corporation_id": 98805065,
+  "alliance_id": null,
+  "corporation_name": "Quantum Decay.",
+  "alliance_name": null
+}

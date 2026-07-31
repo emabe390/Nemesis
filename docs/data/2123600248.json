@@ -1,0 +1,34 @@
+{
+  "character_id": 2123600248,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 191810045,
+    "name": "Yiri Yovazi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98143154,
+    "alliance_id": 99004818,
+    "corporation_name": "Estamos Solos Corporation",
+    "alliance_name": "Estamos Solos Alliance."
+  },
+  "top_killers": [
+    {
+      "id": 191810045,
+      "name": "Yiri Yovazi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121434332,
+      "name": "Carkas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ed14",
+  "corporation_id": 98781875,
+  "alliance_id": 99008228,
+  "corporation_name": "MacroFrontier",
+  "alliance_name": "Pan-Intergalatic Business Community"
+}

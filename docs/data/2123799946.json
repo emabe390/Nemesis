@@ -1,0 +1,52 @@
+{
+  "character_id": 2123799946,
+  "total_losses": 24,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2123800142,
+    "name": "Mangeloid",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98451927,
+    "alliance_id": 99011119,
+    "corporation_name": "HALO - United Nations Space Command",
+    "alliance_name": "Absolute Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2123800142,
+      "name": "Mangeloid",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90466459,
+      "name": "ACF Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92940480,
+      "name": "Grandpa Fogie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93894709,
+      "name": "Sinidualia Wolfheart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kenny D Junior",
+  "corporation_id": 98650104,
+  "alliance_id": 99010015,
+  "corporation_name": "Absolute Order XII",
+  "alliance_name": "BLACKFLAG."
+}

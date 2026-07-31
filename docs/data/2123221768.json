@@ -1,0 +1,46 @@
+{
+  "character_id": 2123221768,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 334716679,
+    "name": "Daron Anik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 334716679,
+      "name": "Daron Anik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1281702944,
+      "name": "Skalara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116309659,
+      "name": "Doc TNT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121303692,
+      "name": "AXOLOTL-XC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DLR18",
+  "corporation_id": 98824611,
+  "alliance_id": 99014735,
+  "corporation_name": "Narrow Exit",
+  "alliance_name": "Psyno Theory"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120629478,
+  "total_losses": 24,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 91906929,
+    "name": "Rukia Hamazu",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98192155,
+    "alliance_id": null,
+    "corporation_name": "Zeeman Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93199020,
+      "name": "BlastReid Charante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96570738,
+      "name": "Chad Flame",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97184968,
+      "name": "nedir Patrouette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cillia Ecenesis",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

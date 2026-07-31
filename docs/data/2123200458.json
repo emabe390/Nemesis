@@ -1,0 +1,52 @@
+{
+  "character_id": 2123200458,
+  "total_losses": 15,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123200482,
+    "name": "Blue-and-Star",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123200482,
+      "name": "Blue-and-Star",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122495115,
+      "name": "Gluttony in themoonlight",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Blue and Star",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

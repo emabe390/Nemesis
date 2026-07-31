@@ -1,0 +1,40 @@
+{
+  "character_id": 2124464755,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91518875,
+    "name": "Wyrd Nekros",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117484027,
+      "name": "Psedillas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123562529,
+      "name": "Gen-X-Warrior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hashi Aitsa Akiga",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

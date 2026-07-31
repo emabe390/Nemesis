@@ -1,0 +1,52 @@
+{
+  "character_id": 2123560902,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 111175275,
+    "name": "Sharhaner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92886841,
+      "name": "Xandra Nardieu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 872528784,
+      "name": "BattleNeo Side",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114277716,
+      "name": "IarchangelI Michael",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115986171,
+      "name": "Ryan ZYW",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TailFive",
+  "corporation_id": 98818418,
+  "alliance_id": 99014548,
+  "corporation_name": "The Ouroboros Collective",
+  "alliance_name": "Project Oasis"
+}

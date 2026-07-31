@@ -1,0 +1,52 @@
+{
+  "character_id": 2124000646,
+  "total_losses": 94,
+  "unique_killers": 79,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90301943,
+      "name": "Felicia Nethers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96021512,
+      "name": "Tankbuster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "chugelim",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

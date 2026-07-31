@@ -1,0 +1,40 @@
+{
+  "character_id": 2123655869,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 677728662,
+    "name": "ORACOM",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112510725,
+      "name": "Stanley Flemmstin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112736867,
+      "name": "Higgins Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Big Fan",
+  "corporation_id": 98715119,
+  "alliance_id": null,
+  "corporation_name": "Vor Kosigan Corporation",
+  "alliance_name": null
+}

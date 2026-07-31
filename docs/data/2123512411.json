@@ -1,0 +1,40 @@
+{
+  "character_id": 2123512411,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1450265635,
+    "name": "D J",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796214,
+    "alliance_id": 1683694957,
+    "corporation_name": "Tactical Raki",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119230451,
+      "name": "gargona1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120702128,
+      "name": "Osodus Izia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HoshizoraX",
+  "corporation_id": 98165469,
+  "alliance_id": null,
+  "corporation_name": "Hammerwerke",
+  "alliance_name": null
+}

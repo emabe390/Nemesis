@@ -1,0 +1,40 @@
+{
+  "character_id": 2119371206,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1169461036,
+    "name": "BlueLaguna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1860753927,
+    "alliance_id": 1644918530,
+    "corporation_name": "Minmatar Death Squad",
+    "alliance_name": "Broken Chains Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1169461036,
+      "name": "BlueLaguna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96962524,
+      "name": "Daniel OHaleno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119326062,
+      "name": "limstoryly",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaster Troi",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

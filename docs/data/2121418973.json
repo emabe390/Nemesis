@@ -1,0 +1,52 @@
+{
+  "character_id": 2121418973,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117504100,
+    "name": "William Friedman",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98719882,
+    "alliance_id": null,
+    "corporation_name": "Saint Michael's Army",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1233544028,
+      "name": "KimimaroX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1244659564,
+      "name": "Shaktar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123662381,
+      "name": "rock kg002",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcell Poilu",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

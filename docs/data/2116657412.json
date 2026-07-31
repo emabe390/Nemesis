@@ -1,0 +1,40 @@
+{
+  "character_id": 2116657412,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92551368,
+    "name": "Tyrone Sarn",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98805086,
+    "alliance_id": null,
+    "corporation_name": "Deadman Snooze",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92551368,
+      "name": "Tyrone Sarn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1492946668,
+      "name": "Tab Everson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112055077,
+      "name": "Darareth Void",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ergon Nar",
+  "corporation_id": 98072105,
+  "alliance_id": null,
+  "corporation_name": "Nehalem Inc.",
+  "alliance_name": null
+}

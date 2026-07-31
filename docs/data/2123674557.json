@@ -1,0 +1,52 @@
+{
+  "character_id": 2123674557,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123079860,
+    "name": "Moogi Ra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1031960637,
+    "alliance_id": 99013884,
+    "corporation_name": "Distant Horizons",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 2123079860,
+      "name": "Moogi Ra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 242501202,
+      "name": "Lord Egmond",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 298491599,
+      "name": "Calon McCleod",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120302617,
+      "name": "HuTpO DeD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123627975,
+      "name": "Zheik Domgin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GeyKod",
+  "corporation_id": 98324027,
+  "alliance_id": null,
+  "corporation_name": "Academy of space-corporation Keepers of Truth",
+  "alliance_name": null
+}

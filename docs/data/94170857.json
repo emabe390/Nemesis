@@ -1,0 +1,40 @@
+{
+  "character_id": 94170857,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 898115249,
+    "name": "atalanti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 898115249,
+      "name": "atalanti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117402866,
+      "name": "Heraalt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118771398,
+      "name": "Lazarus Estranger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Manaconda Jones",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123457201,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123426638,
+    "name": "croxynous",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98781943,
+    "alliance_id": null,
+    "corporation_name": "Damned Frogs Neighbours",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123426638,
+      "name": "croxynous",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 854138725,
+      "name": "Ilzius McDonald",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122351738,
+      "name": "Angel Takenoko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221311,
+      "name": "WindowLicker2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seppll",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

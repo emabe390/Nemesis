@@ -1,0 +1,40 @@
+{
+  "character_id": 2123376473,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121414463,
+    "name": "Lido",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98628998,
+    "alliance_id": 99014619,
+    "corporation_name": "EGNOS",
+    "alliance_name": "EGNOS Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121414463,
+      "name": "Lido",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121996075,
+      "name": "Adela Taron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Issune Stargazer",
+  "corporation_id": 98545554,
+  "alliance_id": null,
+  "corporation_name": "Stargazer lt",
+  "alliance_name": null
+}

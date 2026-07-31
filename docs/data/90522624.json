@@ -1,0 +1,40 @@
+{
+  "character_id": 90522624,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 747238610,
+    "name": "Kaszane",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 667531913,
+    "alliance_id": 1354830081,
+    "corporation_name": "GoonWaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 747238610,
+      "name": "Kaszane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 775694970,
+      "name": "Kania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113527418,
+      "name": "Panakeia Magicae",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Strider LuckyStar",
+  "corporation_id": 98825734,
+  "alliance_id": 498125261,
+  "corporation_name": "Unprofitable Workers Union",
+  "alliance_name": "Test Alliance Please Ignore"
+}

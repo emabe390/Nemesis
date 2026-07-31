@@ -1,0 +1,40 @@
+{
+  "character_id": 2123822535,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115638963,
+    "name": "Chappers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98551200,
+    "alliance_id": 99012982,
+    "corporation_name": "African Atomic.",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 2115638963,
+      "name": "Chappers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1464882130,
+      "name": "SmoothTavius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118474583,
+      "name": "Mayoshi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mobi8X",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

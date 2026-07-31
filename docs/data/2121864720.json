@@ -1,0 +1,52 @@
+{
+  "character_id": 2121864720,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123346868,
+    "name": "Character 2123346868",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98776927,
+    "alliance_id": null,
+    "corporation_name": "Black Harbor Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123346868,
+      "name": "Character 2123346868",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91894516,
+      "name": "Vladimir Ba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 821417016,
+      "name": "Quiache",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1216669466,
+      "name": "captain cookies",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122813928,
+      "name": "falysurge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SuperBjorn",
+  "corporation_id": 98147576,
+  "alliance_id": 99014858,
+  "corporation_name": "Deep Space Mining Industry",
+  "alliance_name": "Midgard Marauders"
+}

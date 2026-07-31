@@ -1,0 +1,52 @@
+{
+  "character_id": 2118943633,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2120359694,
+    "name": "S-6539",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723787,
+    "alliance_id": 99012891,
+    "corporation_name": "Dire Assembly",
+    "alliance_name": "Leviathan."
+  },
+  "top_killers": [
+    {
+      "id": 2120359694,
+      "name": "S-6539",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123453635,
+      "name": "Sendori Kingdom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90694468,
+      "name": "Kari Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 916057165,
+      "name": "Faye Valintein",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vlak Vark",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

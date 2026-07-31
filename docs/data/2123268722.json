@@ -1,0 +1,52 @@
+{
+  "character_id": 2123268722,
+  "total_losses": 70,
+  "unique_killers": 60,
+  "nemesis": {
+    "id": 2116306310,
+    "name": "Goshko Pochivka",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98117593,
+    "alliance_id": 1354830081,
+    "corporation_name": "Tritanium Industries and Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116306310,
+      "name": "Goshko Pochivka",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91771718,
+      "name": "Zara Saraki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93315636,
+      "name": "Za Grim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95497432,
+      "name": "Rex Mikakka",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Shisemi Kurvora",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

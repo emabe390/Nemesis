@@ -1,0 +1,52 @@
+{
+  "character_id": 2123205410,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92312876,
+    "name": "Saweet Alar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113400745,
+      "name": "Aguero Kelmalu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91429558,
+      "name": "Zeratul Auir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93193236,
+      "name": "Cela Kashuken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1392757657,
+      "name": "WE DELIVER",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brertene",
+  "corporation_id": 98527540,
+  "alliance_id": null,
+  "corporation_name": "Cosmic Trident Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121233571,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 174319680,
+    "name": "Bone Chu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 174319680,
+      "name": "Bone Chu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 616320740,
+      "name": "Luko Melis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 640170087,
+      "name": "JK Shadow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Primarch II",
+  "corporation_id": 98698315,
+  "alliance_id": null,
+  "corporation_name": "Holy Inquisition of the frontier",
+  "alliance_name": null
+}

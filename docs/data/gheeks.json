@@ -1,0 +1,52 @@
+{
+  "character_id": 2123775175,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1290709513,
+    "name": "Mike Kisiel",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115450756,
+      "name": "Rigel Mirand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 197615998,
+      "name": "Arriana Richter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 842091558,
+      "name": "Augustus Richter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 876784688,
+      "name": "Xandra VonCricket",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gheeks",
+  "corporation_id": 98756906,
+  "alliance_id": 99006260,
+  "corporation_name": "Jay's Army",
+  "alliance_name": "The Republic."
+}

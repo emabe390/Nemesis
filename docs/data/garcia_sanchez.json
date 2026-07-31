@@ -1,0 +1,34 @@
+{
+  "character_id": 2009123192,
+  "total_losses": 10,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123813536,
+    "name": "Grunp",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123813536,
+      "name": "Grunp",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Garcia Sanchez",
+  "corporation_id": 98816446,
+  "alliance_id": null,
+  "corporation_name": "IRS Tax Haven",
+  "alliance_name": null
+}

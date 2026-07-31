@@ -1,0 +1,52 @@
+{
+  "character_id": 2123902991,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116291463,
+    "name": "Maximus Nazarov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98635373,
+    "alliance_id": 99013713,
+    "corporation_name": "Maximus Corporation",
+    "alliance_name": "MAXIMUS Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2116291463,
+      "name": "Maximus Nazarov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93652025,
+      "name": "Saint Alia Atreides",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96588024,
+      "name": "2727Henry2727 Page",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90403324,
+      "name": "Tralax Darmazaf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 616960452,
+      "name": "XOHOP",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ReginaRA",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

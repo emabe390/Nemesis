@@ -1,0 +1,52 @@
+{
+  "character_id": 2123712032,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 389254173,
+    "name": "Docteur West",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 445471555,
+    "alliance_id": null,
+    "corporation_name": "Post Mortem Services",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 389254173,
+      "name": "Docteur West",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1893485071,
+      "name": "Anarchynow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2051916136,
+      "name": "mellifera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96729432,
+      "name": "Yuri Aikawa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118192915,
+      "name": "Krorgharson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Asmodean C",
+  "corporation_id": 98811559,
+  "alliance_id": null,
+  "corporation_name": "The Black Tower Reborn",
+  "alliance_name": null
+}

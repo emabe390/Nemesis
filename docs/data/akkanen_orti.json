@@ -1,0 +1,40 @@
+{
+  "character_id": 2122465599,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121463583,
+    "name": "Marcus Atriedes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720342,
+    "alliance_id": 99009845,
+    "corporation_name": "Kurupt.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2121463583,
+      "name": "Marcus Atriedes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019584,
+      "name": "Hikanta Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113422923,
+      "name": "Hana Nosha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Akkanen Orti",
+  "corporation_id": 98697448,
+  "alliance_id": 99011119,
+  "corporation_name": "The Dead Woods",
+  "alliance_name": "Absolute Glory"
+}

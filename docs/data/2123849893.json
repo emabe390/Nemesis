@@ -1,0 +1,46 @@
+{
+  "character_id": 2123849893,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123041871,
+      "name": "Koq",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123548426,
+      "name": "Elias Trenor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tako Hakaari",
+  "corporation_id": 98735707,
+  "alliance_id": 99014427,
+  "corporation_name": "Rockwall Mining Industries Inc.",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

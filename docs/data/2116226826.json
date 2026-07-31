@@ -1,0 +1,40 @@
+{
+  "character_id": 2116226826,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94085313,
+    "name": "Bryan Tinker",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1081304772,
+    "alliance_id": 99014375,
+    "corporation_name": "Deep Axion",
+    "alliance_name": "The Frog Boiler"
+  },
+  "top_killers": [
+    {
+      "id": 94085313,
+      "name": "Bryan Tinker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119229669,
+      "name": "Alico",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122173235,
+      "name": "Olivia Baldajani",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kvay-Gon Djin",
+  "corporation_id": 98594202,
+  "alliance_id": 99010457,
+  "corporation_name": "Harmonist",
+  "alliance_name": "Parallaxis Alliance"
+}

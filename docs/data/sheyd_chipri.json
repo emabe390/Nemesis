@@ -1,0 +1,40 @@
+{
+  "character_id": 2123490522,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 187558964,
+    "name": "Llorona",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98633044,
+    "alliance_id": 99009841,
+    "corporation_name": "Ad Exxitium",
+    "alliance_name": "Vel Ad Exxitium."
+  },
+  "top_killers": [
+    {
+      "id": 187558964,
+      "name": "Llorona",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120448428,
+      "name": "huted",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92010825,
+      "name": "Elbow Star's",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sheyd Chipri",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

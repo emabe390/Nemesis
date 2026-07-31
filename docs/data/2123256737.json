@@ -1,0 +1,40 @@
+{
+  "character_id": 2123256737,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95670717,
+    "name": "Theodore Mosby",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98343297,
+    "alliance_id": 99004901,
+    "corporation_name": "Lowlife.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 95670717,
+      "name": "Theodore Mosby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94495085,
+      "name": "Grounded SenSei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113366690,
+      "name": "FUZE TACHANKA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kikka Hakomairos",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

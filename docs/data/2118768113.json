@@ -1,0 +1,40 @@
+{
+  "character_id": 2118768113,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112545710,
+    "name": "Awesome Alt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798418,
+    "alliance_id": 99010102,
+    "corporation_name": "Hole Lotta Trouble",
+    "alliance_name": "The Wormhole Police"
+  },
+  "top_killers": [
+    {
+      "id": 2112545710,
+      "name": "Awesome Alt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 148511261,
+      "name": "Teister",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121301474,
+      "name": "FourierJW",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ruola Aras Okaski",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

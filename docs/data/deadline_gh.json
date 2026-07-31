@@ -1,0 +1,46 @@
+{
+  "character_id": 2123742891,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 96143517,
+      "name": "Rene Berserker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 358315710,
+      "name": "Rex Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114422282,
+      "name": "QL SJ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "deadline-gh",
+  "corporation_id": 98742307,
+  "alliance_id": null,
+  "corporation_name": "Quantshure",
+  "alliance_name": null
+}

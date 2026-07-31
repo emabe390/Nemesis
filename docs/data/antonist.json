@@ -1,0 +1,52 @@
+{
+  "character_id": 2123353047,
+  "total_losses": 123,
+  "unique_killers": 98,
+  "nemesis": {
+    "id": 2122569595,
+    "name": "PreatorianOneEleven",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98788243,
+    "alliance_id": 99015041,
+    "corporation_name": "Hull Miners inc",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2122569595,
+      "name": "PreatorianOneEleven",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113881997,
+      "name": "Reiz Thara",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92237059,
+      "name": "Lasandur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93898608,
+      "name": "Suzi Klisaric",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95788278,
+      "name": "Stilte Starving",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Antonist",
+  "corporation_id": 98610134,
+  "alliance_id": 99009163,
+  "corporation_name": "Sognare",
+  "alliance_name": "Dracarys."
+}

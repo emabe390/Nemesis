@@ -1,0 +1,40 @@
+{
+  "character_id": 2112666921,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90873094,
+    "name": "Trail Nightjar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98819289,
+    "alliance_id": null,
+    "corporation_name": "Secondary Corruption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90873094,
+      "name": "Trail Nightjar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 451461693,
+      "name": "Ithical Nitakshad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123690871,
+      "name": "Monneigar Sokarad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Unknown Copy-Cat",
+  "corporation_id": 98800343,
+  "alliance_id": 99015037,
+  "corporation_name": "Restricted Space",
+  "alliance_name": "LoveTaps"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123706724,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123099751,
+    "name": "WatchDog1",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123099751,
+      "name": "WatchDog1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1192419051,
+      "name": "DanOWars Dog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1650116944,
+      "name": "B0ZziLLa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carling4737",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

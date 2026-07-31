@@ -1,0 +1,34 @@
+{
+  "character_id": 2123707402,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120331345,
+    "name": "Kandash Jir Uanid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98617064,
+    "alliance_id": 99010421,
+    "corporation_name": "The Brotherhood Of Grim",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2120331345,
+      "name": "Kandash Jir Uanid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122635518,
+      "name": "BrovkiN 86",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aruken Ugira Udan",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119240314,
+  "total_losses": 40,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 337770848,
+    "name": "Character 337770848",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826500,
+    "alliance_id": null,
+    "corporation_name": "Polaris Requiem",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 337770848,
+      "name": "Character 337770848",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122722661,
+      "name": "L 6",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Scarbovsky",
+  "corporation_id": 98752750,
+  "alliance_id": 1354830081,
+  "corporation_name": "The True Rings",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123366006,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119107966,
+    "name": "Taishang Laojun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556933,
+    "alliance_id": 99004901,
+    "corporation_name": "Infinity Avenger",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95696057,
+      "name": "Rhea Izalith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118451030,
+      "name": "bad g",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "leizhong",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

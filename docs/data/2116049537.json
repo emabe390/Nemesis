@@ -1,0 +1,40 @@
+{
+  "character_id": 2116049537,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119746533,
+    "name": "Galliana Skade",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725773,
+    "alliance_id": 99013390,
+    "corporation_name": "Vapor Lock.",
+    "alliance_name": "Vapor-Lock"
+  },
+  "top_killers": [
+    {
+      "id": 2119746533,
+      "name": "Galliana Skade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95816722,
+      "name": "Tsuro Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123727343,
+      "name": "Star Gazer Trapezoid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Megafega",
+  "corporation_id": 98733881,
+  "alliance_id": null,
+  "corporation_name": "1000 Jahre Dunkelheit",
+  "alliance_name": null
+}

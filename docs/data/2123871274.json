@@ -1,0 +1,52 @@
+{
+  "character_id": 2123871274,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123763885,
+    "name": "Freddy Lecter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 813634421,
+      "name": "SanZo Fengi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1237551989,
+      "name": "ringkeeper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123751918,
+      "name": "DemonicMandem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123871274",
+  "corporation_id": 98820161,
+  "alliance_id": null,
+  "corporation_name": "Silsereg Corporation",
+  "alliance_name": null
+}

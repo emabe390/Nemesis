@@ -1,0 +1,52 @@
+{
+  "character_id": 2121394107,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95586788,
+    "name": "Chang'e luna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95586788,
+      "name": "Chang'e luna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95669922,
+      "name": "Urog Madeveda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1082533634,
+      "name": "nedarbas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90226847,
+      "name": "mlp blpp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Olodrin Onnlin",
+  "corporation_id": 98530653,
+  "alliance_id": 99013502,
+  "corporation_name": "Verrianis Mining Conglomerata",
+  "alliance_name": "Itty Bitty Asteroid Committee"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1204276437,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92760000,
+    "name": "Ergoj Ormand",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 92760000,
+      "name": "Ergoj Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 392987520,
+      "name": "Beta Page",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123825535,
+      "name": "The Guided One",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deathoris",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

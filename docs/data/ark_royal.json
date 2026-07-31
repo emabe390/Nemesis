@@ -1,0 +1,52 @@
+{
+  "character_id": 2122733609,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2045131155,
+    "name": "Character 2045131155",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98024338,
+    "alliance_id": 99002253,
+    "corporation_name": "Ignotis Imperium",
+    "alliance_name": "Usurper."
+  },
+  "top_killers": [
+    {
+      "id": 2045131155,
+      "name": "Character 2045131155",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97018621,
+      "name": "Wayne Igunen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1176306100,
+      "name": "Talon'dor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1685823773,
+      "name": "Vinethkay",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ark-Royal",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

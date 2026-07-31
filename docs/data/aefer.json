@@ -1,0 +1,52 @@
+{
+  "character_id": 2124025601,
+  "total_losses": 75,
+  "unique_killers": 52,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92300270,
+      "name": "Wurby Hadah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94289397,
+      "name": "Karlione Brown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95121535,
+      "name": "Azira Aurilen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 310829006,
+      "name": "Luster Soldier",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Aefer",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

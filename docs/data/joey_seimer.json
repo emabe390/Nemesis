@@ -1,0 +1,40 @@
+{
+  "character_id": 2124284655,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95420031,
+    "name": "Sam Knob",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98656490,
+    "alliance_id": null,
+    "corporation_name": "They Ruin The Game",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95420031,
+      "name": "Sam Knob",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 272405573,
+      "name": "Tukuarikan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117387743,
+      "name": "Ken F",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joey Seimer",
+  "corporation_id": 98831172,
+  "alliance_id": null,
+  "corporation_name": "Sovereign Yield Management",
+  "alliance_name": null
+}

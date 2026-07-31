@@ -1,0 +1,52 @@
+{
+  "character_id": 2120134231,
+  "total_losses": 76,
+  "unique_killers": 64,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 6,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 6,
+      "final_blows": 3
+    },
+    {
+      "id": 509673609,
+      "name": "Qvatra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 729818605,
+      "name": "Matabar Anasazie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 817803705,
+      "name": "Raumsog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118406012,
+      "name": "Coal Powered",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "RavenPT",
+  "corporation_id": 98110767,
+  "alliance_id": 1042504553,
+  "corporation_name": "Lisnave",
+  "alliance_name": "Solyaris Chtonium"
+}

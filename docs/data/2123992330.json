@@ -1,0 +1,46 @@
+{
+  "character_id": 2123992330,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119602789,
+    "name": "Nitus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 859923679,
+    "alliance_id": 99008816,
+    "corporation_name": "The All-Seeing Eye",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 2119602789,
+      "name": "Nitus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112650453,
+      "name": "DromethiusAI rubicon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117321781,
+      "name": "Conrand Hondserdoff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120651204,
+      "name": "LARRYFANZ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erfert Hendar",
+  "corporation_id": 98820582,
+  "alliance_id": null,
+  "corporation_name": "Vitelror Atgur Moliko Corporation",
+  "alliance_name": null
+}

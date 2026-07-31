@@ -1,0 +1,46 @@
+{
+  "character_id": 2123105967,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118118047,
+    "name": "Leyo Desp",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98654305,
+    "alliance_id": null,
+    "corporation_name": "Trident Alpha",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117244013,
+      "name": "Mikael Shilliamsson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119999745,
+      "name": "Regress1on",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chops Son-of-None",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

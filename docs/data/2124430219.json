@@ -1,0 +1,52 @@
+{
+  "character_id": 2124430219,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95591493,
+      "name": "Panther Zwei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96243221,
+      "name": "am justa normalguy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fl0K1",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

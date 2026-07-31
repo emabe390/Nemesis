@@ -1,0 +1,40 @@
+{
+  "character_id": 2112588050,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 588101808,
+    "name": "moin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98532165,
+    "alliance_id": 99010787,
+    "corporation_name": "Little Red Riding Hole",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 588101808,
+      "name": "moin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116394639,
+      "name": "Praud Jovakko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118706845,
+      "name": "LongSchluong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Patrick Hinken",
+  "corporation_id": 98165469,
+  "alliance_id": null,
+  "corporation_name": "Hammerwerke",
+  "alliance_name": null
+}

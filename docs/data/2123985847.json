@@ -1,0 +1,52 @@
+{
+  "character_id": 2123985847,
+  "total_losses": 12,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2119494543,
+    "name": "Kosler",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98715093,
+    "alliance_id": 99003581,
+    "corporation_name": "Thunder Shield",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2119494543,
+      "name": "Kosler",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122308276,
+      "name": "Estonian444",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123266173,
+      "name": "Luanita",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123675144,
+      "name": "Don Vex4",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96614383,
+      "name": "DeathByDJ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Notapi Rate",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

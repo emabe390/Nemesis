@@ -1,0 +1,34 @@
+{
+  "character_id": 2123759565,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 789877270,
+      "name": "TremalJack",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lesa Ozran",
+  "corporation_id": 98367903,
+  "alliance_id": 99007887,
+  "corporation_name": "Kladdkaka Incorporated",
+  "alliance_name": "Brotherhood of Spacers"
+}

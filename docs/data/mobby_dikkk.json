@@ -1,0 +1,40 @@
+{
+  "character_id": 2123451857,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122815701,
+    "name": "Mauer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98790297,
+    "alliance_id": null,
+    "corporation_name": "Black Cinder",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122815701,
+      "name": "Mauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123425304,
+      "name": "Ganiel Drillex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124411215,
+      "name": "Bosse Gruber",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mobby Dikkk",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

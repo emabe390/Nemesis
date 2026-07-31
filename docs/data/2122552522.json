@@ -1,0 +1,52 @@
+{
+  "character_id": 2122552522,
+  "total_losses": 153,
+  "unique_killers": 121,
+  "nemesis": {
+    "id": 2114686815,
+    "name": "Flara Pediati",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98749303,
+    "alliance_id": 99012572,
+    "corporation_name": "Savagerie",
+    "alliance_name": "Wildlife"
+  },
+  "top_killers": [
+    {
+      "id": 2114686815,
+      "name": "Flara Pediati",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1776297047,
+      "name": "GrauW",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2119142332,
+      "name": "RuGret",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 874614389,
+      "name": "Maria Fernandez",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114993571,
+      "name": "Thraxis Grey",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Evelythium",
+  "corporation_id": 98782470,
+  "alliance_id": null,
+  "corporation_name": "The Intrinsic Ones",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 93940226,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 332927726,
+    "name": "Nicholas Damask",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 570401847,
+    "alliance_id": 960513040,
+    "corporation_name": "Veyr",
+    "alliance_name": "The Veyr Collective"
+  },
+  "top_killers": [
+    {
+      "id": 332927726,
+      "name": "Nicholas Damask",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112368910,
+      "name": "Ambar Winchester",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115519310,
+      "name": "Xarkon Arji",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hidrile Elrehn",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

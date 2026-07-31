@@ -1,0 +1,52 @@
+{
+  "character_id": 2122162360,
+  "total_losses": 16,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2120244094,
+    "name": "Kottei",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98735960,
+    "alliance_id": 1900696668,
+    "corporation_name": "Solar Meta",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2120244094,
+      "name": "Kottei",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 790391335,
+      "name": "Wido San",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90505676,
+      "name": "Eugenio Dedic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91315627,
+      "name": "Julian Hertel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bust-agent",
+  "corporation_id": 98735960,
+  "alliance_id": 1900696668,
+  "corporation_name": "Solar Meta",
+  "alliance_name": "The Initiative."
+}

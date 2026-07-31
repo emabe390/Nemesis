@@ -1,0 +1,40 @@
+{
+  "character_id": 2124259403,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121874446,
+    "name": "Simon Nights",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121874446,
+      "name": "Simon Nights",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124026714,
+      "name": "Iromi Uisen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90209288,
+      "name": "Sevenn T",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Delivery-YA",
+  "corporation_id": 98832531,
+  "alliance_id": null,
+  "corporation_name": "AntiAO NecroSphere",
+  "alliance_name": null
+}

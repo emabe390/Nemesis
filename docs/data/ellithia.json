@@ -1,0 +1,40 @@
+{
+  "character_id": 1102201991,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 649824849,
+    "name": "Adhun",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 649824849,
+      "name": "Adhun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1496356318,
+      "name": "Fubball",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114640043,
+      "name": "ParasuTa 87",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ellithia",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

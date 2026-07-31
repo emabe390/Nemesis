@@ -1,0 +1,40 @@
+{
+  "character_id": 95431909,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93584147,
+    "name": "Endashi Hita",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98721417,
+    "alliance_id": null,
+    "corporation_name": "New Band of Brothers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93584147,
+      "name": "Endashi Hita",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120380447,
+      "name": "Koda Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122782016,
+      "name": "Don Florencio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Petra Kasumi",
+  "corporation_id": 98006841,
+  "alliance_id": 99010240,
+  "corporation_name": "Goats Unlimited",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

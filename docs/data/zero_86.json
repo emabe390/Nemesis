@@ -1,0 +1,40 @@
+{
+  "character_id": 2122633691,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 665320754,
+    "name": "Merdaneth",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1597496741,
+    "alliance_id": 99008816,
+    "corporation_name": "Angel Wing.",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 665320754,
+      "name": "Merdaneth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113061280,
+      "name": "Lerq Staw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116904924,
+      "name": "Aison Brutis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zero-86",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

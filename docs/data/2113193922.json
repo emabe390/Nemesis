@@ -1,0 +1,52 @@
+{
+  "character_id": 2113193922,
+  "total_losses": 26,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 165332291,
+    "name": "Hunter Hughes",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98543307,
+    "alliance_id": null,
+    "corporation_name": "Totally Not Alts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 165332291,
+      "name": "Hunter Hughes",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115444713,
+      "name": "Kent Enderass",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115668403,
+      "name": "Frik Apol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93563920,
+      "name": "Tani Makia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2113193922",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

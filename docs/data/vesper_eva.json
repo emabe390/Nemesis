@@ -1,0 +1,34 @@
+{
+  "character_id": 2123805084,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123503495,
+    "name": "walle's eva",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98812726,
+    "alliance_id": null,
+    "corporation_name": "Horseman pass by",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123503495,
+      "name": "walle's eva",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vesper Eva",
+  "corporation_id": 98812726,
+  "alliance_id": null,
+  "corporation_name": "Horseman pass by",
+  "alliance_name": null
+}

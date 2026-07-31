@@ -1,0 +1,52 @@
+{
+  "character_id": 2123743360,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1490161422,
+    "name": "0101000",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 1490161422,
+      "name": "0101000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123630953,
+      "name": "Reanshari Draconem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123669770,
+      "name": "Mavis Astrid Draconem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123745420,
+      "name": "Starship McStarshipface",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 190275227,
+      "name": "Empero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Junna Rae",
+  "corporation_id": 98810783,
+  "alliance_id": 99013909,
+  "corporation_name": "Draconem Industries",
+  "alliance_name": "The Misfitz Collective"
+}

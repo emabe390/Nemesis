@@ -1,0 +1,52 @@
+{
+  "character_id": 2123098178,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119774671,
+      "name": "Zaylin Halin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90979306,
+      "name": "Asa Phelps",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91597875,
+      "name": "Ncol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veritas Fidelis",
+  "corporation_id": 98766100,
+  "alliance_id": 99013537,
+  "corporation_name": "Our Sanctum",
+  "alliance_name": "Insidious."
+}

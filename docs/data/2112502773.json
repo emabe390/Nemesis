@@ -1,0 +1,52 @@
+{
+  "character_id": 2112502773,
+  "total_losses": 31,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2112123020,
+    "name": "testtest testtest",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98428318,
+    "alliance_id": 99014747,
+    "corporation_name": "Best Kept Dunked",
+    "alliance_name": "A P E X"
+  },
+  "top_killers": [
+    {
+      "id": 2112123020,
+      "name": "testtest testtest",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91232606,
+      "name": "deathtouch Bastanold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93053887,
+      "name": "Perke-32",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jorge Boirelle",
+  "corporation_id": 98176563,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rekium",
+  "alliance_name": "Goonswarm Federation"
+}

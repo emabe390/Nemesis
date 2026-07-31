@@ -1,0 +1,52 @@
+{
+  "character_id": 2123978874,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2118861292,
+    "name": "JINTSUU",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98347548,
+    "alliance_id": null,
+    "corporation_name": "Emergency Temporal Shift.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118861292,
+      "name": "JINTSUU",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93600381,
+      "name": "Juvial Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Beekon Vaako",
+  "corporation_id": 98055531,
+  "alliance_id": 99003581,
+  "corporation_name": "Epidemic.",
+  "alliance_name": "Fraternity."
+}

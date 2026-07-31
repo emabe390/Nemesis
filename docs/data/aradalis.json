@@ -1,0 +1,34 @@
+{
+  "character_id": 2123979750,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115947502,
+    "name": "Salena Pserad",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98753081,
+    "alliance_id": null,
+    "corporation_name": "Starship Nomads",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115947502,
+      "name": "Salena Pserad",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114913344,
+      "name": "Apolla Osiris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aradalis",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

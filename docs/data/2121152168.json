@@ -1,0 +1,40 @@
+{
+  "character_id": 2121152168,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 112597121,
+    "name": "MIROMAX",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 112597121,
+      "name": "MIROMAX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 122909831,
+      "name": "Runeseer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117898258,
+      "name": "Kril Mern Ronuken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121152168",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

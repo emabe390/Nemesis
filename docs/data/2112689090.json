@@ -1,0 +1,34 @@
+{
+  "character_id": 2112689090,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 529488481,
+    "name": "ANDREWION",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98628734,
+    "alliance_id": 99011271,
+    "corporation_name": "Sargos Corporation",
+    "alliance_name": "4Crabs Tavern"
+  },
+  "top_killers": [
+    {
+      "id": 529488481,
+      "name": "ANDREWION",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 206415076,
+      "name": "Mister PewPew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rose Comyn",
+  "corporation_id": 1000072,
+  "alliance_id": null,
+  "corporation_name": "Imperial Shipment",
+  "alliance_name": null
+}

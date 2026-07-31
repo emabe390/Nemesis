@@ -1,0 +1,40 @@
+{
+  "character_id": 2114096108,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1907645642,
+    "name": "Character 1907645642",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 148763686,
+    "alliance_id": 1727758877,
+    "corporation_name": "Liga Freier Terraner",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 1907645642,
+      "name": "Character 1907645642",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115752871,
+      "name": "Loop Raid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124029614,
+      "name": "LEO FAT",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FAT LEO",
+  "corporation_id": 98573518,
+  "alliance_id": 99009163,
+  "corporation_name": "Lightcone-X",
+  "alliance_name": "Dracarys."
+}

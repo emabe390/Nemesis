@@ -1,0 +1,40 @@
+{
+  "character_id": 2113457266,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 693520737,
+    "name": "Diablo Venator",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 251593602,
+    "alliance_id": null,
+    "corporation_name": "Inner Geek",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 693520737,
+      "name": "Diablo Venator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1229139925,
+      "name": "Alathus Christensen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113760886,
+      "name": "Michael A Molnar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oodles Noodles",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

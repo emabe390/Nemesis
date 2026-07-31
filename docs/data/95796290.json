@@ -1,0 +1,40 @@
+{
+  "character_id": 95796290,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92554637,
+    "name": "Vanchik Sarien",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98758826,
+    "alliance_id": null,
+    "corporation_name": "Quasar Incorporated",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92554637,
+      "name": "Vanchik Sarien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2036731565,
+      "name": "luftwraith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114078816,
+      "name": "Johny Crichton",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ragnarok Langley",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

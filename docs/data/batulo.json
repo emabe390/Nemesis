@@ -1,0 +1,40 @@
+{
+  "character_id": 2123820705,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91440866,
+    "name": "Vladof Achasse",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98647808,
+    "alliance_id": null,
+    "corporation_name": "Gok Tengu",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91440866,
+      "name": "Vladof Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114883287,
+      "name": "Wilbur Ongrard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119428929,
+      "name": "Artyom Ruediger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Batulo",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

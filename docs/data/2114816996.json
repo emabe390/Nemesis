@@ -1,0 +1,52 @@
+{
+  "character_id": 2114816996,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114974881,
+      "name": "Curatrix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92823613,
+      "name": "Bella Marie-GW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94089850,
+      "name": "CapricornBlade Woods",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113299822,
+      "name": "Braden Kent",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amira Anzomi",
+  "corporation_id": 2042491468,
+  "alliance_id": 99012702,
+  "corporation_name": "Inevitable Outcome",
+  "alliance_name": "E.C.H.O"
+}

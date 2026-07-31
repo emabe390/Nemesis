@@ -1,0 +1,40 @@
+{
+  "character_id": 2113575118,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122138989,
+    "name": "bear bear bear",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799349,
+    "alliance_id": 99004901,
+    "corporation_name": "The Skies Descend",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2122138989,
+      "name": "bear bear bear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115046664,
+      "name": "Dark Helmt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119823557,
+      "name": "thousand rain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stormborn Haywood",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119026263,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 789508125,
+    "name": "Transipid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 789508125,
+      "name": "Transipid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96190745,
+      "name": "Robert Alheim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114944969,
+      "name": "Zael Dragon Tenriu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EmissaryM",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

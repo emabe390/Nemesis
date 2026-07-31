@@ -1,0 +1,34 @@
+{
+  "character_id": 2123770116,
+  "total_losses": 18,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123041231,
+    "name": "Nadruth",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98066577,
+    "alliance_id": 99014101,
+    "corporation_name": "Shore Leave Inc.",
+    "alliance_name": "Reckless Empire"
+  },
+  "top_killers": [
+    {
+      "id": 2123041231,
+      "name": "Nadruth",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 94878822,
+      "name": "Matty McCain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Barrian Xiloscent",
+  "corporation_id": 1905099864,
+  "alliance_id": null,
+  "corporation_name": "Dutch Government",
+  "alliance_name": null
+}

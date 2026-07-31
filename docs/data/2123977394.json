@@ -1,0 +1,40 @@
+{
+  "character_id": 2123977394,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123987370,
+    "name": "Flash Steels",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98819354,
+    "alliance_id": null,
+    "corporation_name": "Exactitude Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123987370,
+      "name": "Flash Steels",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124350030,
+      "name": "DaJucee",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "singulare",
+  "corporation_id": 98819354,
+  "alliance_id": null,
+  "corporation_name": "Exactitude Syndicate",
+  "alliance_name": null
+}

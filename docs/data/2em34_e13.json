@@ -1,0 +1,52 @@
+{
+  "character_id": 2123782278,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112883869,
+    "name": "Bin Tissant",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98765680,
+    "alliance_id": null,
+    "corporation_name": "The Fun Epic Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112883869,
+      "name": "Bin Tissant",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123784346,
+      "name": "Splahg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 632168138,
+      "name": "starpearl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92094158,
+      "name": "CptBipto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "2EM34 E13",
+  "corporation_id": 98570132,
+  "alliance_id": 99003581,
+  "corporation_name": "EF air force",
+  "alliance_name": "Fraternity."
+}

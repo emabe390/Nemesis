@@ -1,0 +1,40 @@
+{
+  "character_id": 2123700481,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 845980282,
+    "name": "Paragorn Duvas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1268333930,
+    "alliance_id": 99005178,
+    "corporation_name": "QuantumTech Industries",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 845980282,
+      "name": "Paragorn Duvas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 942068687,
+      "name": "LORD KRYAZ",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1308696109,
+      "name": "Chro'nos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hakana Nera Tazinas",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

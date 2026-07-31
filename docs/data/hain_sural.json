@@ -1,0 +1,40 @@
+{
+  "character_id": 2124132123,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92735974,
+    "name": "wicked pixel flex",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1184675423,
+    "alliance_id": 1354830081,
+    "corporation_name": "Amok.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92735974,
+      "name": "wicked pixel flex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112053827,
+      "name": "Koroko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120185553,
+      "name": "TimHorntons",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hain Sural",
+  "corporation_id": 98728698,
+  "alliance_id": null,
+  "corporation_name": "Wayfinders",
+  "alliance_name": null
+}

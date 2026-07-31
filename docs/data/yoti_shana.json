@@ -1,0 +1,40 @@
+{
+  "character_id": 2123425796,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96841646,
+    "name": "Echerie Ambraelle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 309671684,
+    "alliance_id": 99005034,
+    "corporation_name": "Jupiter Roughriders",
+    "alliance_name": "White Sky."
+  },
+  "top_killers": [
+    {
+      "id": 96841646,
+      "name": "Echerie Ambraelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118124257,
+      "name": "Motzi1756",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yoti Shana",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

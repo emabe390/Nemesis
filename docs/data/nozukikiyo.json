@@ -1,0 +1,52 @@
+{
+  "character_id": 2123983123,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94105304,
+    "name": "Ayaka Iida",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98450869,
+    "alliance_id": 1727758877,
+    "corporation_name": "GAMILAS Security and Logistic Service",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 94105304,
+      "name": "Ayaka Iida",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120415664,
+      "name": "Naomi Alexis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 775851151,
+      "name": "Krumholz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114814447,
+      "name": "howe Ma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116306224,
+      "name": "Xiao Mouz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NozukiKiyo",
+  "corporation_id": 98818600,
+  "alliance_id": null,
+  "corporation_name": "The Gilded Sickle",
+  "alliance_name": null
+}

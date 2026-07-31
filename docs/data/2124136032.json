@@ -1,0 +1,40 @@
+{
+  "character_id": 2124136032,
+  "total_losses": 30,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123648670,
+    "name": "Seraphim Ree",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 98572759,
+    "alliance_id": 99014419,
+    "corporation_name": "Ostrov v okeane",
+    "alliance_name": "Seals on the rocks"
+  },
+  "top_killers": [
+    {
+      "id": 2123648670,
+      "name": "Seraphim Ree",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 2124136012,
+      "name": "January Ree",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124136047,
+      "name": "March Ree",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "February Ree",
+  "corporation_id": 98572759,
+  "alliance_id": 99014419,
+  "corporation_name": "Ostrov v okeane",
+  "alliance_name": "Seals on the rocks"
+}

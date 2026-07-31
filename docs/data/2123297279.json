@@ -1,0 +1,52 @@
+{
+  "character_id": 2123297279,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1447377377,
+    "name": "LEGADEMA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98591829,
+    "alliance_id": 99012042,
+    "corporation_name": "Cyber Collapse.",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 1447377377,
+      "name": "LEGADEMA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123200705,
+      "name": "Localizer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 688125078,
+      "name": "Elrathias",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1066246172,
+      "name": "Lipec TheMighty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121155859,
+      "name": "TrexiTurtle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Handotakar",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

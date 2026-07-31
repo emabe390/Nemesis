@@ -1,0 +1,40 @@
+{
+  "character_id": 2124007124,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121979050,
+      "name": "Djol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122878216,
+      "name": "S0ll",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Connor Agyris",
+  "corporation_id": 98704009,
+  "alliance_id": 99014289,
+  "corporation_name": "Curators in Space",
+  "alliance_name": "Ibuprofen Chapter"
+}

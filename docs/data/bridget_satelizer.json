@@ -1,0 +1,52 @@
+{
+  "character_id": 94879398,
+  "total_losses": 21,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121279313,
+    "name": "El Mandril",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98778667,
+    "alliance_id": 99013327,
+    "corporation_name": "Hard Cuys Inc.",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2121279313,
+      "name": "El Mandril",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91698165,
+      "name": "Urs Blank",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93216285,
+      "name": "Disastra Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bridget Satelizer",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124506504,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121414897,
+    "name": "RA22",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98665672,
+    "alliance_id": 99003214,
+    "corporation_name": "Rise Of Exiles",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2121414897,
+      "name": "RA22",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121156282,
+      "name": "Basryxo Adune",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123459880,
+      "name": "Kino Regulus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emrys Peloys",
+  "corporation_id": 98782926,
+  "alliance_id": null,
+  "corporation_name": "Baiyu Lou",
+  "alliance_name": null
+}

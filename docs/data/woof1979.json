@@ -1,0 +1,34 @@
+{
+  "character_id": 2123327542,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120493435,
+    "name": "Kaladin al'Thoer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98734001,
+    "alliance_id": 99013690,
+    "corporation_name": "S.A. NERV",
+    "alliance_name": "Critical. Mass."
+  },
+  "top_killers": [
+    {
+      "id": 2120493435,
+      "name": "Kaladin al'Thoer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 862049750,
+      "name": "Lord Grr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Woof1979",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

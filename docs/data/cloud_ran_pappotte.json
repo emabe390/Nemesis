@@ -1,0 +1,52 @@
+{
+  "character_id": 2113779998,
+  "total_losses": 70,
+  "unique_killers": 61,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93041548,
+      "name": "Lucho IYI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95382879,
+      "name": "Beznarkoza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96775499,
+      "name": "Gorien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113746180,
+      "name": "Jimes Arrice",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Cloud RAN Pappotte",
+  "corporation_id": 98601548,
+  "alliance_id": 99009163,
+  "corporation_name": "SummerHall",
+  "alliance_name": "Dracarys."
+}

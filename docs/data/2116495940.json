@@ -1,0 +1,40 @@
+{
+  "character_id": 2116495940,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1010098704,
+    "name": "Lord Marschall",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98654799,
+    "alliance_id": 498125261,
+    "corporation_name": "KillTronic",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 1010098704,
+      "name": "Lord Marschall",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1568530872,
+      "name": "Dimitryy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113429926,
+      "name": "Daedalus Icaris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gas Machine",
+  "corporation_id": 98712981,
+  "alliance_id": null,
+  "corporation_name": "Dunk Ninja",
+  "alliance_name": null
+}

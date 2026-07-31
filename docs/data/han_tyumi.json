@@ -1,0 +1,52 @@
+{
+  "character_id": 2114456012,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1227215214,
+    "name": "amerana",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98546739,
+    "alliance_id": 1354830081,
+    "corporation_name": "Balkan Kings",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1227215214,
+      "name": "amerana",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120861240,
+      "name": "Petrya Kropotkin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90114202,
+      "name": "Lady Ati",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96872063,
+      "name": "Sergei Skazzor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 311254416,
+      "name": "Furbie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Han-Tyumi",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

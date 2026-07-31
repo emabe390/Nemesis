@@ -1,0 +1,40 @@
+{
+  "character_id": 2122763435,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91531672,
+    "name": "Bedlicka",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91531672,
+      "name": "Bedlicka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95379572,
+      "name": "Nikolas Anhelm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122610742,
+      "name": "GalVorbak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "accompanys",
+  "corporation_id": 98774690,
+  "alliance_id": 99013657,
+  "corporation_name": "ql-lp",
+  "alliance_name": "Guri Hunter"
+}

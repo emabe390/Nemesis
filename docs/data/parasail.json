@@ -1,0 +1,52 @@
+{
+  "character_id": 91885506,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 1790811197,
+    "name": "ODD001",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000046,
+    "alliance_id": null,
+    "corporation_name": "Sebiestor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1790811197,
+      "name": "ODD001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92911040,
+      "name": "Kyrie Hindle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93957447,
+      "name": "MiCHi ZURE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 422846230,
+      "name": "Menamdi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Parasail",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

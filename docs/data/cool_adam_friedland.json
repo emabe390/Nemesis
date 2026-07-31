@@ -1,0 +1,40 @@
+{
+  "character_id": 2124519792,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122341447,
+    "name": "Hari Rollard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98828090,
+    "alliance_id": 99014851,
+    "corporation_name": "Wormhole Campus",
+    "alliance_name": "10 Minutes' Notice"
+  },
+  "top_killers": [
+    {
+      "id": 2122341447,
+      "name": "Hari Rollard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123392587,
+      "name": "Haura Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1236699241,
+      "name": "MooCowofKow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cool Adam Friedland",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

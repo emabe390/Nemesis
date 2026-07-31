@@ -1,0 +1,40 @@
+{
+  "character_id": 2119841009,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117504100,
+    "name": "William Friedman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98719882,
+    "alliance_id": null,
+    "corporation_name": "Saint Michael's Army",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123053192,
+      "name": "Horsecock-Moneybags",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jerry Seinfeld123",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

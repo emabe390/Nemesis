@@ -1,0 +1,46 @@
+{
+  "character_id": 2123725330,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119107966,
+    "name": "Taishang Laojun",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556933,
+    "alliance_id": 99004901,
+    "corporation_name": "Infinity Avenger",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120900372,
+      "name": "Macaron1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114156703,
+      "name": "MWR NOX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117070960,
+      "name": "Kraznaia Zvezda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Florn1",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

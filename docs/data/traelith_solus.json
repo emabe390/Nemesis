@@ -1,0 +1,40 @@
+{
+  "character_id": 2123876679,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119338848,
+      "name": "Ranok Vsesvitu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1051731693,
+      "name": "Basienkaa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Traelith Solus",
+  "corporation_id": 98171228,
+  "alliance_id": 498125261,
+  "corporation_name": "SergalJerk",
+  "alliance_name": "Test Alliance Please Ignore"
+}

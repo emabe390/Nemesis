@@ -1,0 +1,52 @@
+{
+  "character_id": 2116114739,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116912155,
+    "name": "Cap'n Zulu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98298938,
+    "alliance_id": 917526329,
+    "corporation_name": "Captain's Quarters",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2116912155,
+      "name": "Cap'n Zulu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121120454,
+      "name": "Firestorm Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121940021,
+      "name": "Erik Heraldsen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "steve carson",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

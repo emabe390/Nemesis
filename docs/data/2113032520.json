@@ -1,0 +1,52 @@
+{
+  "character_id": 2113032520,
+  "total_losses": 32,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 91638864,
+    "name": "SpS2000",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91638864,
+      "name": "SpS2000",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 573576398,
+      "name": "Gruminmor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1816417415,
+      "name": "MantelGlobalIndustries",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90240616,
+      "name": "Alice Anathema",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andromeda Uitra",
+  "corporation_id": 98810644,
+  "alliance_id": 99008985,
+  "corporation_name": "Echo Protocol",
+  "alliance_name": "Seker Matar"
+}

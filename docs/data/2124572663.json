@@ -1,0 +1,40 @@
+{
+  "character_id": 2124572663,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92760000,
+    "name": "Ergoj Ormand",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 92760000,
+      "name": "Ergoj Ormand",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93360481,
+      "name": "Camille Avanti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95987816,
+      "name": "Lash Wolfram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HearTheWind-CQ",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

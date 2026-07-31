@@ -1,0 +1,40 @@
+{
+  "character_id": 2123945117,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 322718659,
+    "name": "paul webster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98438347,
+    "alliance_id": null,
+    "corporation_name": "CollapseTrap",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 322718659,
+      "name": "paul webster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122267400,
+      "name": "Juzinek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123598374,
+      "name": "Deathwing Knight",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ironman Man",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

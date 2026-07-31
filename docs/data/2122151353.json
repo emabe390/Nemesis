@@ -1,0 +1,40 @@
+{
+  "character_id": 2122151353,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91918814,
+    "name": "jerne Tivianne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 91918814,
+      "name": "jerne Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118404812,
+      "name": "Baldry Hogex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vorfreude",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

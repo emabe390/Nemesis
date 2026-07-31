@@ -1,0 +1,40 @@
+{
+  "character_id": 92920819,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 597958543,
+    "name": "Loredana Cameron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 425883056,
+    "alliance_id": 99004901,
+    "corporation_name": "Hoover Inc.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 597958543,
+      "name": "Loredana Cameron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120779342,
+      "name": "Trade Hub Camper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122372160,
+      "name": "Bongolina Apo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sorrow Nemesis",
+  "corporation_id": 98608254,
+  "alliance_id": 99003581,
+  "corporation_name": "Elysian Technologies Enclave",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 456003688,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93236900,
+    "name": "Balcoth Amatin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 93236900,
+      "name": "Balcoth Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1267398905,
+      "name": "Zombie Dex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123235002,
+      "name": "HAL 7",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "O Herro",
+  "corporation_id": 1768764842,
+  "alliance_id": null,
+  "corporation_name": "Like A Boss",
+  "alliance_name": null
+}

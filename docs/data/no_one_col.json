@@ -1,0 +1,52 @@
+{
+  "character_id": 2123036608,
+  "total_losses": 50,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 93450274,
+    "name": "Ki Ozran",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93450274,
+      "name": "Ki Ozran",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1618058211,
+      "name": "Etuura Zellis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90391771,
+      "name": "Frank Bean",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93316564,
+      "name": "Njunja",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96526963,
+      "name": "Mabe",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "no one col",
+  "corporation_id": 98817566,
+  "alliance_id": 1900696668,
+  "corporation_name": "Cool Beans Inc.",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123665712,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113832167,
+    "name": "Reinhard Arenzberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642916,
+    "alliance_id": 1354830081,
+    "corporation_name": "Arenzberger Trading Consortium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113832167,
+      "name": "Reinhard Arenzberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121699624,
+      "name": "Bro4deye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92775381,
+      "name": "Sam Reno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95879269,
+      "name": "Kuno Akachi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1664740846,
+      "name": "Zarakik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joel Starchild",
+  "corporation_id": 98766100,
+  "alliance_id": 99013537,
+  "corporation_name": "Our Sanctum",
+  "alliance_name": "Insidious."
+}

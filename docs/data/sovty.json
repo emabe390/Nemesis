@@ -1,0 +1,52 @@
+{
+  "character_id": 2123648003,
+  "total_losses": 23,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123810549,
+    "name": "Garnelio",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98689216,
+    "alliance_id": null,
+    "corporation_name": "Tutel Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123810549,
+      "name": "Garnelio",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96263419,
+      "name": "Kane Nanaue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96932155,
+      "name": "Sarah Detonier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96961240,
+      "name": "syMptom NZ",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sovty",
+  "corporation_id": 98798932,
+  "alliance_id": 99014978,
+  "corporation_name": "Ore and Order",
+  "alliance_name": "freie Flotte"
+}

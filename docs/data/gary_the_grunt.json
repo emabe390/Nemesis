@@ -1,0 +1,40 @@
+{
+  "character_id": 97126417,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97126417,
+    "name": "Gary the Grunt",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 97126417,
+      "name": "Gary the Grunt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121635983,
+      "name": "Character 2121635983",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123807409,
+      "name": "greygoo401",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gary the Grunt",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

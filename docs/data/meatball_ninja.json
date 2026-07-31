@@ -1,0 +1,52 @@
+{
+  "character_id": 91028006,
+  "total_losses": 31,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2124532293,
+    "name": "Meatball Knight",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98829834,
+    "alliance_id": 99010240,
+    "corporation_name": "Tachyon Syndicate",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 2124532293,
+      "name": "Meatball Knight",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123409700,
+      "name": "Richard Roquefort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Meatball Ninja",
+  "corporation_id": 98829834,
+  "alliance_id": 99010240,
+  "corporation_name": "Tachyon Syndicate",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

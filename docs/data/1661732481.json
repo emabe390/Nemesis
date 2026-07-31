@@ -1,0 +1,40 @@
+{
+  "character_id": 1661732481,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 412788181,
+    "name": "Kert Gadar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98161751,
+    "alliance_id": null,
+    "corporation_name": "All War Machines",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 412788181,
+      "name": "Kert Gadar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pilouf",
+  "corporation_id": 1000066,
+  "alliance_id": null,
+  "corporation_name": "Viziam",
+  "alliance_name": null
+}

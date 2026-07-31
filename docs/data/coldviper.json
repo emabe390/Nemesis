@@ -1,0 +1,52 @@
+{
+  "character_id": 2123736079,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113814290,
+    "name": "Nakamoto Sempai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720402314,
+    "alliance_id": 99007629,
+    "corporation_name": "Iron Warriors Legion",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 2113814290,
+      "name": "Nakamoto Sempai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124201063,
+      "name": "KFCone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92094552,
+      "name": "Falcon Dive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1029150095,
+      "name": "Revenged Avengy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ColdViper",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

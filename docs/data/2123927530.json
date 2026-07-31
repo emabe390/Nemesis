@@ -1,0 +1,40 @@
+{
+  "character_id": 2123927530,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 765451240,
+    "name": "Elleryn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831363,
+    "alliance_id": 99014936,
+    "corporation_name": "Guns n' Glory",
+    "alliance_name": "Health Code Violation"
+  },
+  "top_killers": [
+    {
+      "id": 765451240,
+      "name": "Elleryn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112721924,
+      "name": "Brynne Roshero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erendu",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

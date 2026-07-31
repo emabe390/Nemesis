@@ -1,0 +1,40 @@
+{
+  "character_id": 1880011276,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116480810,
+    "name": "Moonface Abyss",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98739801,
+    "alliance_id": null,
+    "corporation_name": "Yamata No Orochi Yamete",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116480810,
+      "name": "Moonface Abyss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121089383,
+      "name": "MoJiangHan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121819793,
+      "name": "Intrepid CV-11",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SHAK Scientific17",
+  "corporation_id": 98810608,
+  "alliance_id": 99010004,
+  "corporation_name": "Seraphim's Anvil's",
+  "alliance_name": "DammFam"
+}

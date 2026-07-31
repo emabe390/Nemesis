@@ -1,0 +1,40 @@
+{
+  "character_id": 2124279312,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1423714908,
+    "name": "Jack Munny",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98561441,
+    "alliance_id": 99009927,
+    "corporation_name": "Did he say Jump",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 185091346,
+      "name": "Emiko Xu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 844275364,
+      "name": "AM Boveri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dysnomiya",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

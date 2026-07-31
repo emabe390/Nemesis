@@ -1,0 +1,52 @@
+{
+  "character_id": 2123623934,
+  "total_losses": 20,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 1295644702,
+    "name": "Character 1295644702",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98703751,
+    "alliance_id": null,
+    "corporation_name": "Middle Finger Enterprises",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1295644702,
+      "name": "Character 1295644702",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123430310,
+      "name": "Snarebear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90728084,
+      "name": "Insainita Talie-Kuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91049082,
+      "name": "Shoar Tissant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91764740,
+      "name": "Rhaegar D Targaryen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Virstin Ameldicta",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

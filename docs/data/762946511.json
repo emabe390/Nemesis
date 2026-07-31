@@ -1,0 +1,40 @@
+{
+  "character_id": 762946511,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 454040390,
+    "name": "Blue Tudor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98812791,
+    "alliance_id": null,
+    "corporation_name": "Militia Romana",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 454040390,
+      "name": "Blue Tudor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 736177604,
+      "name": "Quax Ono",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1639513500,
+      "name": "TuxedoMask",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phony v2",
+  "corporation_id": 98639548,
+  "alliance_id": 99011489,
+  "corporation_name": "United Caldari Navy",
+  "alliance_name": "United Caldari Space Command."
+}

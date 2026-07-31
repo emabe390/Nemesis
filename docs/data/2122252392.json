@@ -1,0 +1,52 @@
+{
+  "character_id": 2122252392,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 90292081,
+    "name": "north west",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90292081,
+      "name": "north west",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90804072,
+      "name": "Keran Raeigh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1507782223,
+      "name": "adanska",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113098166,
+      "name": "Sh1t",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123164183,
+      "name": "Ovfr'Ion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fr0st1k",
+  "corporation_id": 98779386,
+  "alliance_id": 99013926,
+  "corporation_name": "Fusion Fleet Inc.",
+  "alliance_name": "Fusion Alliance"
+}

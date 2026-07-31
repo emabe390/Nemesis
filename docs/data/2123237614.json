@@ -1,0 +1,52 @@
+{
+  "character_id": 2123237614,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123225319,
+    "name": "Amarr Slave 3212",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98825321,
+    "alliance_id": 99009287,
+    "corporation_name": "Deutsches Zentrum fuer Luft und Raumfahrt",
+    "alliance_name": "Beyond the Breach"
+  },
+  "top_killers": [
+    {
+      "id": 2123225319,
+      "name": "Amarr Slave 3212",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92343534,
+      "name": "Sir GranD Only",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95065281,
+      "name": "MEDEXPERT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119722576,
+      "name": "Bloody Triglav",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120798947,
+      "name": "Amba Tublo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zarek Orion",
+  "corporation_id": 98816677,
+  "alliance_id": 99014410,
+  "corporation_name": "El Club de los Antisociales",
+  "alliance_name": "Callao Cartel"
+}

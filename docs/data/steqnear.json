@@ -1,0 +1,52 @@
+{
+  "character_id": 2123276421,
+  "total_losses": 128,
+  "unique_killers": 111,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 1014706762,
+      "name": "credokat",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92071360,
+      "name": "Grim Reaper Knight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 926924867,
+      "name": "clavo oxidado",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Steqnear",
+  "corporation_id": 230445889,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mindstar Technology",
+  "alliance_name": "Goonswarm Federation"
+}

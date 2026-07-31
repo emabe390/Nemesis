@@ -1,0 +1,52 @@
+{
+  "character_id": 2123431509,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95832518,
+    "name": "Loxus Zilef",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98243307,
+    "alliance_id": 99003214,
+    "corporation_name": "Virtus Crusade",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 95832518,
+      "name": "Loxus Zilef",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95816722,
+      "name": "Tsuro Tsero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113409641,
+      "name": "GrayHeart",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123155773,
+      "name": "Character 2123155773",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Regulus Zilef",
+  "corporation_id": 98765559,
+  "alliance_id": 99010079,
+  "corporation_name": "Virtus Crusade Multipass Chapter",
+  "alliance_name": "Brave United"
+}

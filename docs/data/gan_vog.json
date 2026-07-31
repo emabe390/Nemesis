@@ -1,0 +1,52 @@
+{
+  "character_id": 2123757794,
+  "total_losses": 33,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2124378159,
+    "name": "Nullis Veritas",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98833833,
+    "alliance_id": null,
+    "corporation_name": "The Eternal Collapse",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124378159,
+      "name": "Nullis Veritas",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2124378329,
+      "name": "Chrono Maw",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124463909,
+      "name": "KreneNIys",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93956454,
+      "name": "Commander Alastor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 705750642,
+      "name": "Sad Doom",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Gan Vog",
+  "corporation_id": 98788518,
+  "alliance_id": 99014405,
+  "corporation_name": "Zalvarians",
+  "alliance_name": "Zalvarians Alliance"
+}

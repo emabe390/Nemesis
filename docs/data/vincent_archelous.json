@@ -1,0 +1,52 @@
+{
+  "character_id": 2122850578,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118753900,
+    "name": "Father Osip",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630992,
+    "alliance_id": null,
+    "corporation_name": "Dream RuCorp inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118753900,
+      "name": "Father Osip",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96347373,
+      "name": "Rhazul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1780692465,
+      "name": "NanoSpirit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112231703,
+      "name": "Shang Tsiung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114490599,
+      "name": "Kirill Sa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vincent Archelous",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

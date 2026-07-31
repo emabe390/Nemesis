@@ -1,0 +1,52 @@
+{
+  "character_id": 2122290138,
+  "total_losses": 200,
+  "unique_killers": 176,
+  "nemesis": {
+    "id": 1240608291,
+    "name": "alukard1",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 1240608291,
+      "name": "alukard1",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 859606998,
+      "name": "Cal 7",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020007,
+      "name": "Cephisso Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94706456,
+      "name": "serpent power",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "LocalAdm",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

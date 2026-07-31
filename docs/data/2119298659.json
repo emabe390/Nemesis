@@ -1,0 +1,52 @@
+{
+  "character_id": 2119298659,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118495593,
+    "name": "Droid003",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813218,
+    "alliance_id": null,
+    "corporation_name": "Lost and Unbound",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118495593,
+      "name": "Droid003",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122827848,
+      "name": "Duane Boneless",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124221321,
+      "name": "WindowLicker4",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BrokenEye",
+  "corporation_id": 98755317,
+  "alliance_id": null,
+  "corporation_name": "Broken's Family",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123853495,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 782463049,
+    "name": "Cpt Bob",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98765453,
+    "alliance_id": 1900696668,
+    "corporation_name": "Walrus Mafia",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 782463049,
+      "name": "Cpt Bob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119356567,
+      "name": "Masha McNolan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119836850,
+      "name": "Mimitom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123379235,
+      "name": "Cpt-Bob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123423096,
+      "name": "GoingDownDownDown",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cpt-Bob-Thunder",
+  "corporation_id": 98765453,
+  "alliance_id": 1900696668,
+  "corporation_name": "Walrus Mafia",
+  "alliance_name": "The Initiative."
+}

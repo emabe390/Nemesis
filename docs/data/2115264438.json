@@ -1,0 +1,40 @@
+{
+  "character_id": 2115264438,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91078475,
+    "name": "Adam Lees",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91078475,
+      "name": "Adam Lees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116012406,
+      "name": "Communist Rev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119230142,
+      "name": "Luka Zaharin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lady Darkrain",
+  "corporation_id": 98605332,
+  "alliance_id": 99010058,
+  "corporation_name": "Gluten Free Corporation",
+  "alliance_name": "Gluten Free Cartel"
+}

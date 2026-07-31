@@ -1,0 +1,40 @@
+{
+  "character_id": 2124426994,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93386650,
+    "name": "Alias Tatan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98796019,
+    "alliance_id": 99013884,
+    "corporation_name": "Vertex Tactical",
+    "alliance_name": "Vertex Group"
+  },
+  "top_killers": [
+    {
+      "id": 93386650,
+      "name": "Alias Tatan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96665079,
+      "name": "Skraal Naereeis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120375841,
+      "name": "Silverine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Excavator Pi",
+  "corporation_id": 98249511,
+  "alliance_id": null,
+  "corporation_name": "Istvaan V",
+  "alliance_name": null
+}

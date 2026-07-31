@@ -1,0 +1,52 @@
+{
+  "character_id": 2123842617,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94549536,
+    "name": "Coagulante",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 502658884,
+    "alliance_id": 99007629,
+    "corporation_name": "Ecliptic Control",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 94549536,
+      "name": "Coagulante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1625587809,
+      "name": "Lumiorion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1801079207,
+      "name": "Kate'ne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121926323,
+      "name": "Command Destroyer Alt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Terilato Anneto",
+  "corporation_id": 98770476,
+  "alliance_id": 99013264,
+  "corporation_name": "Monsters Incorporated",
+  "alliance_name": "The Mole Den Coalition"
+}

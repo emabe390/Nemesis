@@ -1,0 +1,28 @@
+{
+  "character_id": 2123694383,
+  "total_losses": 5,
+  "unique_killers": 1,
+  "nemesis": {
+    "id": 2123375725,
+    "name": "Lys Acami",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 953808580,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cloaked Goof",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123375725,
+      "name": "Lys Acami",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Airman Pointer",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

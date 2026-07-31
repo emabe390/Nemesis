@@ -1,0 +1,52 @@
+{
+  "character_id": 2123676924,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 91408843,
+    "name": "Roomero",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1413346124,
+      "name": "drones man",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90218185,
+      "name": "Sarcasim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93488784,
+      "name": "Icarus Tendris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96024689,
+      "name": "Lucas Falconus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roose Lennelluc",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

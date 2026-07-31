@@ -1,0 +1,40 @@
+{
+  "character_id": 2124242378,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123119741,
+    "name": "Flafius Rallis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1104020786,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sons of Zeus.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123119741,
+      "name": "Flafius Rallis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115508677,
+      "name": "Lavrentiy Doriel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116975010,
+      "name": "Character 2116975010",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TidalMiner",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124079468,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91455988,
+      "name": "Barkura Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 560468720,
+      "name": "Asbendale Silverblade",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ardene Kuchiki",
+  "corporation_id": 98814441,
+  "alliance_id": 1042504553,
+  "corporation_name": "Infinite Directive",
+  "alliance_name": "Solyaris Chtonium"
+}

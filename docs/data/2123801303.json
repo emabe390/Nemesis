@@ -1,0 +1,34 @@
+{
+  "character_id": 2123801303,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121738552,
+    "name": "crepto",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98764878,
+    "alliance_id": 99012975,
+    "corporation_name": "A House Abyss",
+    "alliance_name": "Hull Tanking Therapy"
+  },
+  "top_killers": [
+    {
+      "id": 2121738552,
+      "name": "crepto",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 882461398,
+      "name": "LeetSystems",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Putnik 01",
+  "corporation_id": 98815253,
+  "alliance_id": null,
+  "corporation_name": "Gnawing the Ore",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122149451,
+  "total_losses": 27,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 428581013,
+      "name": "bigfranky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114560347,
+      "name": "TD DH-LP",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116234762,
+      "name": "ForDarks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120522182,
+      "name": "Undocks with PLEX",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Okara Penken",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

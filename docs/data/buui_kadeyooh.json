@@ -1,0 +1,40 @@
+{
+  "character_id": 2119901724,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122514480,
+    "name": "Alican UC",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122514480,
+      "name": "Alican UC",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92126855,
+      "name": "Zana Fehrnah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1104531524,
+      "name": "Wurdalac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Buui Kadeyooh",
+  "corporation_id": 1297486126,
+  "alliance_id": 498125261,
+  "corporation_name": "Herrscher der Zeit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

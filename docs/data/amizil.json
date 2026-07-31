@@ -1,0 +1,40 @@
+{
+  "character_id": 2122488743,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120500258,
+    "name": "Sophie Brahe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705098,
+    "alliance_id": 99010079,
+    "corporation_name": "Spoopy Services",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 2120500258,
+      "name": "Sophie Brahe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90340202,
+      "name": "MR AUSLANDOR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amizil",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

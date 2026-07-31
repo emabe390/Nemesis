@@ -1,0 +1,52 @@
+{
+  "character_id": 2112002135,
+  "total_losses": 45,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 2123050276,
+    "name": "Qwertal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98835418,
+    "alliance_id": 99014308,
+    "corporation_name": "Pystachio's Kartel",
+    "alliance_name": "Stone Warriors Fleet"
+  },
+  "top_killers": [
+    {
+      "id": 2123050276,
+      "name": "Qwertal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123649910,
+      "name": "Haze S",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93193152,
+      "name": "Nihlius Bloodstone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94992477,
+      "name": "Leo Ekanon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120214192,
+      "name": "Another Toralen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kirschgruen",
+  "corporation_id": 98523162,
+  "alliance_id": null,
+  "corporation_name": "BoneSquad",
+  "alliance_name": null
+}

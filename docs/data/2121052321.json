@@ -1,0 +1,52 @@
+{
+  "character_id": 2121052321,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120925120,
+    "name": "Salcos Armadyl",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98343343,
+    "alliance_id": 99004567,
+    "corporation_name": "Anoikis Equilibrium",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 2120925120,
+      "name": "Salcos Armadyl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93710874,
+      "name": "Tethys Menoetius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 137690223,
+      "name": "Kryptek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 267055748,
+      "name": "Syrphid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 583500020,
+      "name": "Vaizardus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jahkin Inkura",
+  "corporation_id": 98684420,
+  "alliance_id": 99011416,
+  "corporation_name": "Silent Vale",
+  "alliance_name": "LinkNet"
+}

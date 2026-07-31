@@ -1,0 +1,52 @@
+{
+  "character_id": 2123012765,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2119326206,
+    "name": "Djuzep",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98757789,
+    "alliance_id": null,
+    "corporation_name": "Argaz Matar",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119326206,
+      "name": "Djuzep",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121634451,
+      "name": "Arviri Aguilar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90365096,
+      "name": "Alecsa Milano",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95926192,
+      "name": "Max Was Here",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116900098,
+      "name": "Pen Blood Ink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raiganmu Nubar",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

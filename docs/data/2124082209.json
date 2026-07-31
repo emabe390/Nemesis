@@ -1,0 +1,52 @@
+{
+  "character_id": 2124082209,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2049784221,
+    "name": "Onionz",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90201872,
+      "name": "R Hotzenplotz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124083756,
+      "name": "Tom Shelby 1st",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91601112,
+      "name": "Teqq Cruiser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94482620,
+      "name": "Vladimir Darko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "High Sec Hank",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

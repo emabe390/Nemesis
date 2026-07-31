@@ -1,0 +1,40 @@
+{
+  "character_id": 1423970859,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 854651415,
+    "name": "Orion Supernova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 854651415,
+      "name": "Orion Supernova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92248620,
+      "name": "Brother Zebediah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 714098202,
+      "name": "Raznarok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Kunkka",
+  "corporation_id": 98092511,
+  "alliance_id": 99008915,
+  "corporation_name": "Caldari Militia Freight",
+  "alliance_name": "Templis Strategic Division"
+}

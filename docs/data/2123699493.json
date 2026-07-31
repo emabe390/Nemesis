@@ -1,0 +1,40 @@
+{
+  "character_id": 2123699493,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112888350,
+    "name": "Brul Kulevra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98570035,
+    "alliance_id": 99011654,
+    "corporation_name": "Frontier Orbital",
+    "alliance_name": "Critical Space Theory."
+  },
+  "top_killers": [
+    {
+      "id": 2112888350,
+      "name": "Brul Kulevra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118785761,
+      "name": "Baliaerdt Codolle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1678984740,
+      "name": "Wrateh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oikinao Hakaari",
+  "corporation_id": 98582333,
+  "alliance_id": null,
+  "corporation_name": "Last Stand Enterprises",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124291902,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92770445,
+    "name": "Boo Hill",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1860753927,
+    "alliance_id": 1644918530,
+    "corporation_name": "Minmatar Death Squad",
+    "alliance_name": "Broken Chains Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92770445,
+      "name": "Boo Hill",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 564586053,
+      "name": "Travis Wells",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CrushersHat",
+  "corporation_id": 98825900,
+  "alliance_id": 99014958,
+  "corporation_name": "F O U N D A T I O N",
+  "alliance_name": "A S C E N S I O N"
+}

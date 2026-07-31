@@ -1,0 +1,40 @@
+{
+  "character_id": 2123389376,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95347657,
+    "name": "Zsha",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 95347657,
+      "name": "Zsha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 678674186,
+      "name": "Kimo Flex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113888017,
+      "name": "Rebel Rebel-Rebel Rebel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eruenaere Issier",
+  "corporation_id": 98797841,
+  "alliance_id": null,
+  "corporation_name": "Troop1 Corporation",
+  "alliance_name": null
+}

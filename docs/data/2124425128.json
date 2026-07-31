@@ -1,0 +1,52 @@
+{
+  "character_id": 2124425128,
+  "total_losses": 25,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116985513,
+      "name": "Fox 2A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120245520,
+      "name": "UnixV",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Grumpy Telar",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

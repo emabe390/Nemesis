@@ -1,0 +1,40 @@
+{
+  "character_id": 2124325213,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120860307,
+    "name": "Tinjus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98485802,
+    "alliance_id": null,
+    "corporation_name": "Long-Limb Roe Acquisition Specialists",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120860307,
+      "name": "Tinjus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97016400,
+      "name": "Jakub Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117472733,
+      "name": "Dakken Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MaxGeye",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

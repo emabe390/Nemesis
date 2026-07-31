@@ -1,0 +1,34 @@
+{
+  "character_id": 2123826696,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 744412863,
+    "name": "CommanderDeath",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820741,
+    "alliance_id": 99014711,
+    "corporation_name": "Nightforge Voidworks",
+    "alliance_name": "Forge Eternal"
+  },
+  "top_killers": [
+    {
+      "id": 744412863,
+      "name": "CommanderDeath",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114538933,
+      "name": "mended cage",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Durast Bastiel",
+  "corporation_id": 98335801,
+  "alliance_id": null,
+  "corporation_name": "Dark Wormhole Industry",
+  "alliance_name": null
+}

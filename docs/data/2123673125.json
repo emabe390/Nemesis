@@ -1,0 +1,34 @@
+{
+  "character_id": 2123673125,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121535130,
+    "name": "Wreck Shot",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98768944,
+    "alliance_id": 99013072,
+    "corporation_name": "Tea Party Federal Club",
+    "alliance_name": "Stain Neurodiverse Democracy"
+  },
+  "top_killers": [
+    {
+      "id": 2121535130,
+      "name": "Wreck Shot",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JimbousJamerous",
+  "corporation_id": 98811346,
+  "alliance_id": null,
+  "corporation_name": "Catfish Crew",
+  "alliance_name": null
+}

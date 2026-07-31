@@ -1,0 +1,52 @@
+{
+  "character_id": 2123811691,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119906583,
+      "name": "Loth Riel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113416861,
+      "name": "Viper Nolen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vizomi Villare",
+  "corporation_id": 98820625,
+  "alliance_id": null,
+  "corporation_name": "Outer Rim Research and Exploration Systems",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122842924,
+  "total_losses": 31,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2122180471,
+    "name": "Sako Toshiko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000170,
+    "alliance_id": null,
+    "corporation_name": "Republic Military School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122180471,
+      "name": "Sako Toshiko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91381164,
+      "name": "Rusty Ford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92556095,
+      "name": "Virion Stoneshard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dimkosyan",
+  "corporation_id": 98700577,
+  "alliance_id": 99011387,
+  "corporation_name": "WE ARE ZERGS",
+  "alliance_name": "ZERG REBORN"
+}

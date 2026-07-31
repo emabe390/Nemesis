@@ -1,0 +1,52 @@
+{
+  "character_id": 2123146155,
+  "total_losses": 83,
+  "unique_killers": 47,
+  "nemesis": {
+    "id": 956803617,
+    "name": "The Pilgrimage",
+    "kill_count": 24,
+    "final_blows": 24,
+    "corporation_id": 98591522,
+    "alliance_id": null,
+    "corporation_name": "New Eden Graffiti Abatement Team",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 956803617,
+      "name": "The Pilgrimage",
+      "kill_count": 24,
+      "final_blows": 24
+    },
+    {
+      "id": 2123921133,
+      "name": "Urist Lobanov",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95140689,
+      "name": "Sofi Omertao",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94548281,
+      "name": "Nimeria Martell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 573234689,
+      "name": "Miniko Iska",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Domah Est Larvia",
+  "corporation_id": 98764580,
+  "alliance_id": 99014696,
+  "corporation_name": "Strong Medicine",
+  "alliance_name": "Hullbreakers"
+}

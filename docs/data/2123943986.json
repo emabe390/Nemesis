@@ -1,0 +1,40 @@
+{
+  "character_id": 2123943986,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 791591521,
+    "name": "Gale Hawkeye",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98650301,
+    "alliance_id": 99012723,
+    "corporation_name": "Triglavian Directive",
+    "alliance_name": "S h a d o w"
+  },
+  "top_killers": [
+    {
+      "id": 791591521,
+      "name": "Gale Hawkeye",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "begiragon",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

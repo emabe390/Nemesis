@@ -1,0 +1,52 @@
+{
+  "character_id": 2123058445,
+  "total_losses": 29,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90868848,
+      "name": "Marco J Inaros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120566096,
+      "name": "strike off",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Strike Bridge",
+  "corporation_id": 98795761,
+  "alliance_id": 99003214,
+  "corporation_name": "Romanian Assault Unit",
+  "alliance_name": "Brave Collective"
+}

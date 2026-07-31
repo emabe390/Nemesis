@@ -1,0 +1,46 @@
+{
+  "character_id": 2124256280,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90107819,
+    "name": "Oxinome",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818593,
+    "alliance_id": 99009845,
+    "corporation_name": "Bangzhu Cartel",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 90107819,
+      "name": "Oxinome",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123209266,
+      "name": "Character 2123209266",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123930227,
+      "name": "Spritzgak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123971269,
+      "name": "Egon Kowalski Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaffebone",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

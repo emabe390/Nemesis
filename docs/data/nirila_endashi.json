@@ -1,0 +1,52 @@
+{
+  "character_id": 2123150813,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2113168248,
+    "name": "Jack Hidden",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98718636,
+    "alliance_id": null,
+    "corporation_name": "Dead Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113168248,
+      "name": "Jack Hidden",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1848010139,
+      "name": "Phunas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122087321,
+      "name": "XashTT",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122109550,
+      "name": "Adefer Teld Arnst",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nirila Endashi",
+  "corporation_id": 98530802,
+  "alliance_id": 99003581,
+  "corporation_name": "Glory Navy",
+  "alliance_name": "Fraternity."
+}

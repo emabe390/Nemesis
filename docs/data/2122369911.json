@@ -1,0 +1,40 @@
+{
+  "character_id": 2122369911,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96338904,
+    "name": "Luminore Leybel",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98306027,
+    "alliance_id": 99003581,
+    "corporation_name": "SpaceFire Holding",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 96338904,
+      "name": "Luminore Leybel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112454541,
+      "name": "Nikolay Toporov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779574,
+      "name": "Autophysian Lancer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Finanar Skir",
+  "corporation_id": 98306027,
+  "alliance_id": 99003581,
+  "corporation_name": "SpaceFire Holding",
+  "alliance_name": "Fraternity."
+}

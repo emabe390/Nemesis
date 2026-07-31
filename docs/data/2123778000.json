@@ -1,0 +1,52 @@
+{
+  "character_id": 2123778000,
+  "total_losses": 49,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 676829206,
+    "name": "Wanger",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98722042,
+    "alliance_id": null,
+    "corporation_name": "Digital Ghosts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 676829206,
+      "name": "Wanger",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1075294210,
+      "name": "Character 1075294210",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93832256,
+      "name": "Major Wayde",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ACT Bravo",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

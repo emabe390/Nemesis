@@ -1,0 +1,40 @@
+{
+  "character_id": 2123551116,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 418264286,
+    "name": "Character 418264286",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98140706,
+    "alliance_id": null,
+    "corporation_name": "Trostus",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 418264286,
+      "name": "Character 418264286",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123038322,
+      "name": "Wirdalen Eriker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123642058,
+      "name": "Reiskocher3000",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Xalli13",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

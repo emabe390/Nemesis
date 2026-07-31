@@ -1,0 +1,52 @@
+{
+  "character_id": 2123064676,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114841004,
+      "name": "Ultimablack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120311735,
+      "name": "Luyi Luyi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90292313,
+      "name": "Nissan Truck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1382077004,
+      "name": "Puuffy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CoffeeDelivery",
+  "corporation_id": 98809618,
+  "alliance_id": 99014536,
+  "corporation_name": "CoffeeDelivery Corporation",
+  "alliance_name": "Doomsday Tactical Force"
+}

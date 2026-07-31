@@ -1,0 +1,52 @@
+{
+  "character_id": 2123608817,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 302248911,
+    "name": "Rakaz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98478883,
+    "alliance_id": 99004901,
+    "corporation_name": "Know-Nothings",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1266187016,
+      "name": "Major Bang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112902026,
+      "name": "Heimdall Heimdallrson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114848896,
+      "name": "Joey Wyles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117995641,
+      "name": "weaponized anthrax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lady Mountback",
+  "corporation_id": 98809908,
+  "alliance_id": null,
+  "corporation_name": "Wooden Crown",
+  "alliance_name": null
+}

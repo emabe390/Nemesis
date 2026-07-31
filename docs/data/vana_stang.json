@@ -1,0 +1,40 @@
+{
+  "character_id": 91497210,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121482811,
+    "name": "The Hardest Stone",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Emperor Scythes",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2121482811,
+      "name": "The Hardest Stone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118985222,
+      "name": "Rhino-Y",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124087849,
+      "name": "MonikaSBWuW",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vana Stang",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

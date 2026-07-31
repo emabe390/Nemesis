@@ -1,0 +1,40 @@
+{
+  "character_id": 94759443,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94050539,
+    "name": "jack henry williams",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780742,
+    "alliance_id": null,
+    "corporation_name": "Salacious Dirge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94050539,
+      "name": "jack henry williams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1512895397,
+      "name": "Dragon BF",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123332450,
+      "name": "Anton von Naumenko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vann Marcadie",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115325695,
+  "total_losses": 24,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2114681761,
+    "name": "Estequerian Falchold",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000077,
+    "alliance_id": null,
+    "corporation_name": "Royal Amarr Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114681761,
+      "name": "Estequerian Falchold",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2115000010,
+      "name": "Parsiska Ostus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93135332,
+      "name": "L Orek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94387397,
+      "name": "Nilow USDJYP",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94568094,
+      "name": "Catherine en Gravonere",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fadek Windy",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

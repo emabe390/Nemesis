@@ -1,0 +1,46 @@
+{
+  "character_id": 2123856033,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1776827235,
+    "name": "Earl Sutherfurd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 1776827235,
+      "name": "Earl Sutherfurd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1613019230,
+      "name": "Roger Dodger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115820369,
+      "name": "Lost Saraki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "JaegerRay",
+  "corporation_id": 1953227254,
+  "alliance_id": 99014695,
+  "corporation_name": "Skiegh Ward Industrial Enterprises Inc.",
+  "alliance_name": "Blackout Protocol"
+}

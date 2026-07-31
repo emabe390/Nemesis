@@ -1,0 +1,52 @@
+{
+  "character_id": 2121866786,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116985513,
+    "name": "Fox 2A",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98578122,
+    "alliance_id": 99013502,
+    "corporation_name": "The Peoples Space Republic",
+    "alliance_name": "Itty Bitty Asteroid Committee"
+  },
+  "top_killers": [
+    {
+      "id": 2116985513,
+      "name": "Fox 2A",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121130491,
+      "name": "ForUndeadAsuka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91112983,
+      "name": "RandomHero 9001",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1571621975,
+      "name": "Sstalinn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2005060332,
+      "name": "EYEDOLL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shion Uzuiki",
+  "corporation_id": 669350666,
+  "alliance_id": 99011990,
+  "corporation_name": "The Flying Tigers",
+  "alliance_name": "D3ad End"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2115522631,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 160161326,
+    "name": "soulswitcher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 160161326,
+      "name": "soulswitcher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95347657,
+      "name": "Zsha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1357829500,
+      "name": "Dread Delgarth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112417327,
+      "name": "Sevatar TheLord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123781289,
+      "name": "Mallard Flux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AsperuS Aideron",
+  "corporation_id": 98704442,
+  "alliance_id": null,
+  "corporation_name": "Raised by Wolves",
+  "alliance_name": null
+}

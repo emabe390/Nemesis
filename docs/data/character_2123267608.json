@@ -1,0 +1,52 @@
+{
+  "character_id": 2123267608,
+  "total_losses": 13,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2116477379,
+    "name": "Whiskey Erso",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98736562,
+    "alliance_id": 99012544,
+    "corporation_name": "Malt House Society",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95072774,
+      "name": "Bob the Fourth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96047867,
+      "name": "Deathtouch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113894875,
+      "name": "Mason Vuld",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123267608",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

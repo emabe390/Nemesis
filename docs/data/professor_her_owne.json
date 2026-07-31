@@ -1,0 +1,40 @@
+{
+  "character_id": 2123630542,
+  "total_losses": 14,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118241107,
+    "name": "Enas Jaynara",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 2118241107,
+      "name": "Enas Jaynara",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2122688928,
+      "name": "Tor Baines",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "professor her-owne",
+  "corporation_id": 98763573,
+  "alliance_id": 99011416,
+  "corporation_name": "PAIR OF SCALES",
+  "alliance_name": "LinkNet"
+}

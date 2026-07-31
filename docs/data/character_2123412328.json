@@ -1,0 +1,40 @@
+{
+  "character_id": 2123412328,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2081750081,
+    "name": "Redeovg",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98556933,
+    "alliance_id": 99004901,
+    "corporation_name": "Infinity Avenger",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113946001,
+      "name": "Buddy Dave",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123412328",
+  "corporation_id": 98828742,
+  "alliance_id": 99008165,
+  "corporation_name": "McDonald's Logistics Company",
+  "alliance_name": "Young Miners Christian Association"
+}

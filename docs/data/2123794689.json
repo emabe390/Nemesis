@@ -1,0 +1,34 @@
+{
+  "character_id": 2123794689,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1107502190,
+    "name": "Arasul",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98773529,
+    "alliance_id": 99012831,
+    "corporation_name": "Battle Toad Brigade",
+    "alliance_name": "Ribbit."
+  },
+  "top_killers": [
+    {
+      "id": 1107502190,
+      "name": "Arasul",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114829721,
+      "name": "Ashley Ahrire",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "pipidaster",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

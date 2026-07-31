@@ -1,0 +1,40 @@
+{
+  "character_id": 91035048,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120430224,
+    "name": "Dominator person",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798876,
+    "alliance_id": 99009927,
+    "corporation_name": "Family Guy.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2120430224,
+      "name": "Dominator person",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 372988026,
+      "name": "SEV Katarn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1303151403,
+      "name": "SGT Butters",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucy Alfrir",
+  "corporation_id": 1395059590,
+  "alliance_id": 495729389,
+  "corporation_name": "Immortalis Inc.",
+  "alliance_name": "Shadow Cartel"
+}

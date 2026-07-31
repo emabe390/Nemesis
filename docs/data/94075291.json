@@ -1,0 +1,40 @@
+{
+  "character_id": 94075291,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 391285285,
+    "name": "Rick Germanov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98811071,
+    "alliance_id": 99014691,
+    "corporation_name": "All You Can Eat Holes",
+    "alliance_name": "All You Can"
+  },
+  "top_killers": [
+    {
+      "id": 391285285,
+      "name": "Rick Germanov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94075291,
+      "name": "Thiago Montana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119615259,
+      "name": "Aba--Guai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thiago Montana",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

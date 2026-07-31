@@ -1,0 +1,52 @@
+{
+  "character_id": 1200501922,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 90338555,
+    "name": "Cereale Grahams",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90338555,
+      "name": "Cereale Grahams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91440948,
+      "name": "Goppi Koks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1200501922",
+  "corporation_id": 98325271,
+  "alliance_id": 99014773,
+  "corporation_name": "NextGen Trading",
+  "alliance_name": "German Profit Holding"
+}

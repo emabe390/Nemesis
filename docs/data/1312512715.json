@@ -1,0 +1,52 @@
+{
+  "character_id": 1312512715,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 609879808,
+    "name": "Armid",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98672446,
+    "alliance_id": 99008412,
+    "corporation_name": "Target Solution",
+    "alliance_name": "Lost and Clowned"
+  },
+  "top_killers": [
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 864790310,
+      "name": "King Voodoo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117202728,
+      "name": "Mary Gankins",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124001636,
+      "name": "KARMA'S REVENGE 11",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124002032,
+      "name": "KARMA'S REVENGE 14",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bob Edison",
+  "corporation_id": 98300164,
+  "alliance_id": null,
+  "corporation_name": "10th Mountain Division",
+  "alliance_name": null
+}

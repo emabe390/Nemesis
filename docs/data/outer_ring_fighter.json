@@ -1,0 +1,52 @@
+{
+  "character_id": 2123453961,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2123046492,
+    "name": "Bodick Vognepalniy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98735960,
+    "alliance_id": 1900696668,
+    "corporation_name": "Solar Meta",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123046492,
+      "name": "Bodick Vognepalniy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95250989,
+      "name": "Jingasa Dai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123296412,
+      "name": "Laura O'Connor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90531291,
+      "name": "Reys Bayron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95261680,
+      "name": "Elsy Brenalle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Outer Ring Fighter",
+  "corporation_id": 98801947,
+  "alliance_id": null,
+  "corporation_name": "Outer Ring Enhancement Services",
+  "alliance_name": null
+}

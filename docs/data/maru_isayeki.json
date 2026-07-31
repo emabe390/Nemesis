@@ -1,0 +1,52 @@
+{
+  "character_id": 2124119764,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 95165645,
+    "name": "Remy Gonzalez",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733632,
+    "alliance_id": null,
+    "corporation_name": "The Alamo Scouts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95165645,
+      "name": "Remy Gonzalez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121871470,
+      "name": "Blade Runner Deckard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 621178426,
+      "name": "Cypher V",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1938065388,
+      "name": "Havbin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116897255,
+      "name": "Vale Boloskarl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maru Isayeki",
+  "corporation_id": 2014367342,
+  "alliance_id": 99009927,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Deepwater Hooligans"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123706968,
+  "total_losses": 19,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121876029,
+    "name": "KAI-GUDA",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98746877,
+    "alliance_id": 99013766,
+    "corporation_name": "Flota Imperial",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2121876029,
+      "name": "KAI-GUDA",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115739081,
+      "name": "Nagisa SK",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124076506,
+      "name": "Manelo31",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1865272548,
+      "name": "Geodossi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121013122,
+      "name": "Teramar",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Craenc Pollard",
+  "corporation_id": 98771594,
+  "alliance_id": null,
+  "corporation_name": "ComGuards",
+  "alliance_name": null
+}

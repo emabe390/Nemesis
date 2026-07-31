@@ -1,0 +1,40 @@
+{
+  "character_id": 2121167884,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 443286234,
+    "name": "Ultrabug",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 678558985,
+    "alliance_id": null,
+    "corporation_name": "Morne Attitude",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115133763,
+      "name": "Paul Steinor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Empress of France",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

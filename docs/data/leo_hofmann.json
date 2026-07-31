@@ -1,0 +1,40 @@
+{
+  "character_id": 2116504188,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93817719,
+    "name": "Scott Korchenko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93817719,
+      "name": "Scott Korchenko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93645892,
+      "name": "Aid London",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97194801,
+      "name": "Maximus Ambramotte",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo Hofmann",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

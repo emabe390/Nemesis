@@ -1,0 +1,46 @@
+{
+  "character_id": 2119009745,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2113305888,
+    "name": "Character 2113305888",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91530658,
+      "name": "Valkanto FitzGerald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 655993855,
+      "name": "A wiseman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113779142,
+      "name": "Tonz Ritc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ivanovitch",
+  "corporation_id": 98816967,
+  "alliance_id": 99012944,
+  "corporation_name": "LegendSeekers",
+  "alliance_name": "Explorations EVE"
+}

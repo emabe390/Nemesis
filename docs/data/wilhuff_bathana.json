@@ -1,0 +1,40 @@
+{
+  "character_id": 2112541403,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93497106,
+    "name": "Abbie Rova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800166,
+    "alliance_id": 99012239,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 93497106,
+      "name": "Abbie Rova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 295303607,
+      "name": "Character 295303607",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112541403,
+      "name": "Wilhuff Bathana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wilhuff Bathana",
+  "corporation_id": 98542164,
+  "alliance_id": null,
+  "corporation_name": "Toecutters Inc.",
+  "alliance_name": null
+}

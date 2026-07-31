@@ -1,0 +1,40 @@
+{
+  "character_id": 2123656067,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119347076,
+    "name": "Willy Hansen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98763230,
+    "alliance_id": 99010089,
+    "corporation_name": "Vintage Chicken Rage Quit",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2119347076,
+      "name": "Willy Hansen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121835306,
+      "name": "Stanley Woolysocks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122490403,
+      "name": "LORD Marwood",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thor Henderson",
+  "corporation_id": 98566435,
+  "alliance_id": 99014270,
+  "corporation_name": "White Star Corp.",
+  "alliance_name": "Intaki Afterlife Research"
+}

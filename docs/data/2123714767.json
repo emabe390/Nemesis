@@ -1,0 +1,40 @@
+{
+  "character_id": 2123714767,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92359914,
+    "name": "Mateus Kannas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451873,
+    "alliance_id": null,
+    "corporation_name": "Wise Man Saitama Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92359914,
+      "name": "Mateus Kannas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116069748,
+      "name": "Sir Tom Jones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121577526,
+      "name": "Naskoh Pares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Teanet",
+  "corporation_id": 98694557,
+  "alliance_id": 99003581,
+  "corporation_name": "KheshigFleet",
+  "alliance_name": "Fraternity."
+}

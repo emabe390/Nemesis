@@ -1,0 +1,52 @@
+{
+  "character_id": 2121011410,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1511492146,
+    "name": "Thom Grimmar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1511492146,
+      "name": "Thom Grimmar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118763312,
+      "name": "CB17",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94282468,
+      "name": "Peter Stolypin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spudtoman",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

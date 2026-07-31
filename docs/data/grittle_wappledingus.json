@@ -1,0 +1,52 @@
+{
+  "character_id": 2112930166,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123097132,
+    "name": "Cataclysmic GPU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98442405,
+    "alliance_id": 99011978,
+    "corporation_name": "The New Eden Yacht Club",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123097132,
+      "name": "Cataclysmic GPU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90146672,
+      "name": "Khermes",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93840815,
+      "name": "Vulxanis Viceroy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96334018,
+      "name": "Stongtea",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Grittle Wappledingus",
+  "corporation_id": 851039688,
+  "alliance_id": 99009845,
+  "corporation_name": "Percussive Diplomacy",
+  "alliance_name": "Sedition."
+}

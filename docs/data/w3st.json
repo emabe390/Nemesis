@@ -1,0 +1,52 @@
+{
+  "character_id": 123903693,
+  "total_losses": 108,
+  "unique_killers": 85,
+  "nemesis": {
+    "id": 993607874,
+    "name": "TomHorn",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98670638,
+    "alliance_id": null,
+    "corporation_name": "Horn Brothers Holdings Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 993607874,
+      "name": "TomHorn",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2115822367,
+      "name": "qingzhi zhao",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1761654327,
+      "name": "Destru Kaneda",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "W3st",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

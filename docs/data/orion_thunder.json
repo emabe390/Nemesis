@@ -1,0 +1,52 @@
+{
+  "character_id": 2115152018,
+  "total_losses": 28,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 97200379,
+    "name": "Han Cho",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 97200379,
+      "name": "Han Cho",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2118840454,
+      "name": "B FGSD2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123233658,
+      "name": "Agent Karthus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90323169,
+      "name": "Aeth Gemulus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91368437,
+      "name": "Fenrir Hammer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orion Thunder",
+  "corporation_id": 98737423,
+  "alliance_id": 99012941,
+  "corporation_name": "Anomalous Empire",
+  "alliance_name": "Transmission Lost"
+}

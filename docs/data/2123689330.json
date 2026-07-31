@@ -1,0 +1,40 @@
+{
+  "character_id": 2123689330,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97255990,
+    "name": "Evgen Escobar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777806,
+    "alliance_id": 99014308,
+    "corporation_name": "Stone Warriors",
+    "alliance_name": "Stone Warriors Fleet"
+  },
+  "top_killers": [
+    {
+      "id": 97255990,
+      "name": "Evgen Escobar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1694318300,
+      "name": "Muchl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cristopher Ruz",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

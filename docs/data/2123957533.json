@@ -1,0 +1,40 @@
+{
+  "character_id": 2123957533,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 725432225,
+    "name": "Elcith",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 725432225,
+      "name": "Elcith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121130491,
+      "name": "ForUndeadAsuka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124332274,
+      "name": "Siurua Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Imafuku Enaka",
+  "corporation_id": 98689962,
+  "alliance_id": null,
+  "corporation_name": "Black Market Seeding",
+  "alliance_name": null
+}

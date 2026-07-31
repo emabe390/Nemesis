@@ -1,0 +1,40 @@
+{
+  "character_id": 2118422282,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1225771468,
+    "name": "Anne Tesla",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 805828589,
+    "alliance_id": null,
+    "corporation_name": "Ice Fire Warriors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1225771468,
+      "name": "Anne Tesla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 486490772,
+      "name": "candlelight",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Snoyd",
+  "corporation_id": 98131912,
+  "alliance_id": null,
+  "corporation_name": "True Horde",
+  "alliance_name": null
+}

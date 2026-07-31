@@ -1,0 +1,40 @@
+{
+  "character_id": 2123905784,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92456289,
+    "name": "1st lieutenant Addis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778050,
+    "alliance_id": 99014445,
+    "corporation_name": "The Unspoken Ones",
+    "alliance_name": "Rolled Out."
+  },
+  "top_killers": [
+    {
+      "id": 92456289,
+      "name": "1st lieutenant Addis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121202667,
+      "name": "biodiesel 180513",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "boredrummed",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124376002,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2124373564,
+    "name": "THKZY01",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124373564,
+      "name": "THKZY01",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92800501,
+      "name": "Kvizac Saderah",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124376000,
+      "name": "Ieri Ishikela",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124376001,
+      "name": "Akeri Je Talvanen",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nalvula Ieki Panala",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

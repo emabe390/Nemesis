@@ -1,0 +1,52 @@
+{
+  "character_id": 2123985727,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1930649793,
+    "name": "Imperius Dictatio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169165,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Newbies Inc.",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 1930649793,
+      "name": "Imperius Dictatio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91084262,
+      "name": "DanielFG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91928660,
+      "name": "Autopops 2CG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 856801216,
+      "name": "Pekal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118759836,
+      "name": "Alexander Falkenhausen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Locklinn",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2118502627,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116149179,
+    "name": "Ein Estidal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98789418,
+    "alliance_id": null,
+    "corporation_name": "Mental Disruption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116149179,
+      "name": "Ein Estidal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121713976,
+      "name": "RoflMaoInMySoul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Karkkada Tuken Koraka",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

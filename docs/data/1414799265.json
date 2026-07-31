@@ -1,0 +1,40 @@
+{
+  "character_id": 1414799265,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118692725,
+    "name": "Character 2118692725",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98811294,
+    "alliance_id": 99014071,
+    "corporation_name": "Ctrl Alt Destroy",
+    "alliance_name": "Red Bull Nation"
+  },
+  "top_killers": [
+    {
+      "id": 2118692725,
+      "name": "Character 2118692725",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 676709498,
+      "name": "Dio Marte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118617567,
+      "name": "Reaper JO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chin Painter",
+  "corporation_id": 98824673,
+  "alliance_id": null,
+  "corporation_name": "Electrik Boogaloo",
+  "alliance_name": null
+}

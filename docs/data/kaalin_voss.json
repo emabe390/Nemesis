@@ -1,0 +1,40 @@
+{
+  "character_id": 2123958234,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90554173,
+    "name": "Piotr Pole",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 820755259,
+      "name": "KaLaw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117241679,
+      "name": "xiaopig1234",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaalin Voss",
+  "corporation_id": 98820208,
+  "alliance_id": null,
+  "corporation_name": "Voss Family Concerns",
+  "alliance_name": null
+}

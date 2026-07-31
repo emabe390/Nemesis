@@ -1,0 +1,52 @@
+{
+  "character_id": 2124036971,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 460935120,
+    "name": "Sid Toxin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187440,
+    "alliance_id": 99013831,
+    "corporation_name": "Scandium Defense and Security Inc.",
+    "alliance_name": "Sleeper Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 460935120,
+      "name": "Sid Toxin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120358100,
+      "name": "Saliwen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124011640,
+      "name": "BezLocala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94606990,
+      "name": "Warzlol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114911523,
+      "name": "Speedy McGlasses",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spritzerer",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

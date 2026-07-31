@@ -1,0 +1,52 @@
+{
+  "character_id": 2113081992,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96856326,
+    "name": "Gurth Shaft",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98718325,
+    "alliance_id": null,
+    "corporation_name": "Black Wedge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96856326,
+      "name": "Gurth Shaft",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 301464180,
+      "name": "Rozhkov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113994596,
+      "name": "Fox 451",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119947844,
+      "name": "Aladar Krahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121654297,
+      "name": "Bojeck second",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bellos Chanlin",
+  "corporation_id": 98588254,
+  "alliance_id": null,
+  "corporation_name": "Solar Dust Inc",
+  "alliance_name": null
+}

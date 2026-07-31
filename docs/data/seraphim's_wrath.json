@@ -1,0 +1,40 @@
+{
+  "character_id": 2020070629,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119193060,
+      "name": "Ahbazon Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121946947,
+      "name": "Emil Rastakillah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Seraphim's Wrath",
+  "corporation_id": 1516832627,
+  "alliance_id": null,
+  "corporation_name": "KSD Industries",
+  "alliance_name": null
+}

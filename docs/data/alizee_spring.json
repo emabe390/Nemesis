@@ -1,0 +1,52 @@
+{
+  "character_id": 2123562856,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 173548171,
+      "name": "Stalkin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 591159662,
+      "name": "Ronz0",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1017918140,
+      "name": "Dead4ever",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1034950758,
+      "name": "Dak Rattler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alizee Spring",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

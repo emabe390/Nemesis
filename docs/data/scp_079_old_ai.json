@@ -1,0 +1,46 @@
+{
+  "character_id": 2114129967,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122085748,
+    "name": "Wang Adjoining",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122085748,
+      "name": "Wang Adjoining",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91351253,
+      "name": "Dryss Dru",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94722504,
+      "name": "Shalamarr K'akhnerr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121270887,
+      "name": "SCP9400",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SCP-079 Old AI",
+  "corporation_id": 98560730,
+  "alliance_id": null,
+  "corporation_name": "Secure. Contain. Protect.",
+  "alliance_name": null
+}

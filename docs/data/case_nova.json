@@ -1,0 +1,34 @@
+{
+  "character_id": 2124035002,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94876948,
+    "name": "Character 94876948",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 94876948,
+      "name": "Character 94876948",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121071230,
+      "name": "Barberton",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Case Nova",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123581890,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122274754,
+      "name": "cat pushs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117567676,
+      "name": "Dalten Henard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neoxaria",
+  "corporation_id": 98074264,
+  "alliance_id": null,
+  "corporation_name": "London Elektricity",
+  "alliance_name": null
+}

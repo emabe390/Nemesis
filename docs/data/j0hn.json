@@ -1,0 +1,40 @@
+{
+  "character_id": 958090720,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 159280380,
+    "name": "Hans I",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98779121,
+    "alliance_id": 99014341,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1813954967,
+      "name": "reamorph",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122960695,
+      "name": "M8A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "j0hn",
+  "corporation_id": 693106145,
+  "alliance_id": 99010709,
+  "corporation_name": "ExoGen Foundation",
+  "alliance_name": "New Miner's Union"
+}

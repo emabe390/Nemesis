@@ -1,0 +1,40 @@
+{
+  "character_id": 2120201368,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95288372,
+      "name": "F3rnando taboada",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93221607,
+      "name": "ZigZag FlySafe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2120201368",
+  "corporation_id": 724997872,
+  "alliance_id": 1354830081,
+  "corporation_name": "EVE-RO",
+  "alliance_name": "Goonswarm Federation"
+}

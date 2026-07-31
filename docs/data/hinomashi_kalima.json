@@ -1,0 +1,40 @@
+{
+  "character_id": 2123928024,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1764047801,
+    "name": "Telissia Star",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98792845,
+    "alliance_id": 99015138,
+    "corporation_name": "The Excluded",
+    "alliance_name": "VoidForge"
+  },
+  "top_killers": [
+    {
+      "id": 1764047801,
+      "name": "Telissia Star",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115137710,
+      "name": "Cealym",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124335939,
+      "name": "Brynhildr Ornsdottir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hinomashi Kalima",
+  "corporation_id": 98602781,
+  "alliance_id": null,
+  "corporation_name": "Trash Pandas of Kaunokka",
+  "alliance_name": null
+}

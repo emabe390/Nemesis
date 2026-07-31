@@ -1,0 +1,40 @@
+{
+  "character_id": 2123958416,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123751748,
+    "name": "Ksen Ostaro",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98830646,
+    "alliance_id": null,
+    "corporation_name": "Maquis Les Gaspards des Matars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123751748,
+      "name": "Ksen Ostaro",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96752742,
+      "name": "anthrobeau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 326815742,
+      "name": "ALL BLACK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Azem Ostaro",
+  "corporation_id": 98675798,
+  "alliance_id": null,
+  "corporation_name": "Institut Pinacle",
+  "alliance_name": null
+}

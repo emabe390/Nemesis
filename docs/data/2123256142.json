@@ -1,0 +1,52 @@
+{
+  "character_id": 2123256142,
+  "total_losses": 26,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123757668,
+      "name": "xAmerish",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95436116,
+      "name": "General Hein",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Friederz",
+  "corporation_id": 98825620,
+  "alliance_id": null,
+  "corporation_name": "Renegade Raccoons Academy",
+  "alliance_name": null
+}

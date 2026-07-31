@@ -1,0 +1,40 @@
+{
+  "character_id": 2123425984,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123425304,
+    "name": "Ganiel Drillex",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123425304,
+      "name": "Ganiel Drillex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93107163,
+      "name": "Givz Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95521174,
+      "name": "Burak Oz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kidaaaa",
+  "corporation_id": 98829471,
+  "alliance_id": null,
+  "corporation_name": "Brigada 49",
+  "alliance_name": null
+}

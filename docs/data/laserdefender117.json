@@ -1,0 +1,40 @@
+{
+  "character_id": 2123969639,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94162400,
+    "name": "Character 94162400",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 94162400,
+      "name": "Character 94162400",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1253618452,
+      "name": "Character 1253618452",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121998608,
+      "name": "Snauso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LaserDefender117",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

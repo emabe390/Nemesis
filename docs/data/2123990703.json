@@ -1,0 +1,40 @@
+{
+  "character_id": 2123990703,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 522501268,
+    "name": "Zuugo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 355443127,
+    "alliance_id": 1354830081,
+    "corporation_name": "ANZAC ALLIANCE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 522501268,
+      "name": "Zuugo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92512177,
+      "name": "DarthMaximuz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119049216,
+      "name": "Bobby Falcon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serentino Martinez",
+  "corporation_id": 98728504,
+  "alliance_id": 99014524,
+  "corporation_name": "ANGECILEOS-CORP",
+  "alliance_name": "Silhouettes."
+}

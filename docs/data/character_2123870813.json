@@ -1,0 +1,34 @@
+{
+  "character_id": 2123870813,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2121403451,
+    "name": "Dev Terran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2121403451,
+      "name": "Dev Terran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119428404,
+      "name": "shion zenos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123870813",
+  "corporation_id": 98816892,
+  "alliance_id": null,
+  "corporation_name": "3.00",
+  "alliance_name": null
+}

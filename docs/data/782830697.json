@@ -1,0 +1,40 @@
+{
+  "character_id": 782830697,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 321485798,
+    "name": "Grenathor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 321485798,
+      "name": "Grenathor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119877444,
+      "name": "Warglagon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122070105,
+      "name": "Anata no Usiro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stromgol666",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

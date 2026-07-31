@@ -1,0 +1,40 @@
+{
+  "character_id": 2123686067,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112042780,
+    "name": "Xecution",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2112042780,
+      "name": "Xecution",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1312762485,
+      "name": "BeeVeeCee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119755977,
+      "name": "Barticus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MorganVaal",
+  "corporation_id": 98811205,
+  "alliance_id": null,
+  "corporation_name": "MorganVaal Corp",
+  "alliance_name": null
+}

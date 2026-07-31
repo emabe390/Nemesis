@@ -1,0 +1,34 @@
+{
+  "character_id": 2124525652,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1487320490,
+    "name": "Metaloid",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 736987754,
+      "name": "Shonigu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rokan McGregor",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

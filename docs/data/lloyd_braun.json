@@ -1,0 +1,52 @@
+{
+  "character_id": 2113488903,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 725238064,
+    "name": "alpha lead",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 302750157,
+    "alliance_id": 99004901,
+    "corporation_name": "ElitistOps",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 725238064,
+      "name": "alpha lead",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112211785,
+      "name": "Bubble Gate",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 904892827,
+      "name": "GDaemon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122826004,
+      "name": "Guillaume Le Franc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1464882130,
+      "name": "SmoothTavius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lloyd Braun",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

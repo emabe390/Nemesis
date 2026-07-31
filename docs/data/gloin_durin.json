@@ -1,0 +1,52 @@
+{
+  "character_id": 2112346001,
+  "total_losses": 45,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 137827356,
+    "name": "Alterari Phoenix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98628563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Players vs. EVE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 137827356,
+      "name": "Alterari Phoenix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 170381092,
+      "name": "Frozen Fallout",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 563828416,
+      "name": "Twiggs McGee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123164183,
+      "name": "Ovfr'Ion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90300643,
+      "name": "Zebediah Washington",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gloin Durin",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

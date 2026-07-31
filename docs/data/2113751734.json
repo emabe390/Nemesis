@@ -1,0 +1,52 @@
+{
+  "character_id": 2113751734,
+  "total_losses": 16,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94227669,
+      "name": "Alice Dundra",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91414674,
+      "name": "Shada Koneko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96357519,
+      "name": "CpRiDe Yvormes",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sammich InSpace",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

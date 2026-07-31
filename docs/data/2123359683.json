@@ -1,0 +1,52 @@
+{
+  "character_id": 2123359683,
+  "total_losses": 52,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 2119633690,
+    "name": "Ti-prd",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98696536,
+    "alliance_id": null,
+    "corporation_name": "TRX 26cm mens corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119633690,
+      "name": "Ti-prd",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90241015,
+      "name": "Chandoraa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91228318,
+      "name": "Ms Erro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92866950,
+      "name": "Nesushka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1534896750,
+      "name": "Richard Howe",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sonneno",
+  "corporation_id": 98693541,
+  "alliance_id": 99012161,
+  "corporation_name": "Take this...",
+  "alliance_name": "SHOULD NOT EXPLODE..."
+}

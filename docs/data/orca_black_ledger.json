@@ -1,0 +1,40 @@
+{
+  "character_id": 2124153538,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120939854,
+    "name": "Nightmarepro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98648361,
+    "alliance_id": 1354830081,
+    "corporation_name": "Deadspace Excavations",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120939854,
+      "name": "Nightmarepro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 331608676,
+      "name": "Phaade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1780692465,
+      "name": "NanoSpirit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orca Black Ledger",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

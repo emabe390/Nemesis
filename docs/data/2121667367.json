@@ -1,0 +1,40 @@
+{
+  "character_id": 2121667367,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121989811,
+    "name": "Enturi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720402314,
+    "alliance_id": 99007629,
+    "corporation_name": "Iron Warriors Legion",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 2121989811,
+      "name": "Enturi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92365255,
+      "name": "Harshemish Shamshir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119765538,
+      "name": "Evelyn Rayner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serkonos",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

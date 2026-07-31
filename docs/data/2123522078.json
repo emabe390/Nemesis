@@ -1,0 +1,52 @@
+{
+  "character_id": 2123522078,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 96309248,
+    "name": "Tellian O'Keefe",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98578668,
+    "alliance_id": 99003581,
+    "corporation_name": "Sternenfeuer Ltd.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 96309248,
+      "name": "Tellian O'Keefe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97257365,
+      "name": "Robbert deLaMeMe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1822052106,
+      "name": "Commander Azzag",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90109513,
+      "name": "Wolter RUS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94055117,
+      "name": "Burk Bonkers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tactical Mastermind",
+  "corporation_id": 98675411,
+  "alliance_id": 1354830081,
+  "corporation_name": "Free Wind Riders",
+  "alliance_name": "Goonswarm Federation"
+}

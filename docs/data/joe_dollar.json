@@ -1,0 +1,46 @@
+{
+  "character_id": 2123070545,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119264117,
+    "name": "Korko Buchik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98625633,
+    "alliance_id": 99010457,
+    "corporation_name": "Tiamat Malediction",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2119264117,
+      "name": "Korko Buchik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123025324,
+      "name": "KOT-CHOBA-ECT-BEHTYPY",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123011192,
+      "name": "KOT ECT-KOBETOP-HA-3ABTPAK",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123979690,
+      "name": "KOT-KYCAET-3A-OPEX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Joe Dollar",
+  "corporation_id": 98804959,
+  "alliance_id": null,
+  "corporation_name": "Uedama Drama",
+  "alliance_name": null
+}

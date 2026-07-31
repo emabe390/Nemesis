@@ -1,0 +1,52 @@
+{
+  "character_id": 2112029238,
+  "total_losses": 33,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2112510725,
+    "name": "Stanley Flemmstin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98277602,
+    "alliance_id": null,
+    "corporation_name": "Dead Star Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112510725,
+      "name": "Stanley Flemmstin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91695418,
+      "name": "CruelCodex Owasso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94291830,
+      "name": "Gance Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94307363,
+      "name": "Anika Petrokova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95001236,
+      "name": "Jagier Miester",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elektra Tungus",
+  "corporation_id": 98740873,
+  "alliance_id": 99010877,
+  "corporation_name": "Cynosural Field.",
+  "alliance_name": "Out of the Blue."
+}

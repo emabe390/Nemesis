@@ -1,0 +1,52 @@
+{
+  "character_id": 2123631268,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 781741932,
+    "name": "Capt Harston",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98654305,
+    "alliance_id": null,
+    "corporation_name": "Trident Alpha",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 781741932,
+      "name": "Capt Harston",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95726511,
+      "name": "Huckton Hilanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96410031,
+      "name": "Myrn Teil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 146056152,
+      "name": "Nope wrong",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 319042283,
+      "name": "Piolp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "boboschell",
+  "corporation_id": 98758017,
+  "alliance_id": 99013786,
+  "corporation_name": "Cryonic Origin",
+  "alliance_name": "Cryonic Origin Alliance"
+}

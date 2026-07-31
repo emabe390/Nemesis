@@ -1,0 +1,52 @@
+{
+  "character_id": 2123689909,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 90330206,
+    "name": "Fibik Android",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765199,
+    "alliance_id": null,
+    "corporation_name": "Way Immortals",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90330206,
+      "name": "Fibik Android",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120840885,
+      "name": "GoodBread",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93641168,
+      "name": "Oda Fett",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94848671,
+      "name": "Valentino Flex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oswulf Regyri",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

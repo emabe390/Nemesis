@@ -1,0 +1,40 @@
+{
+  "character_id": 2123225931,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90459095,
+    "name": "Bacon vG",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98426237,
+    "alliance_id": 99004604,
+    "corporation_name": "Phoenix Naval Operations",
+    "alliance_name": "Phoenix Naval Systems"
+  },
+  "top_killers": [
+    {
+      "id": 90459095,
+      "name": "Bacon vG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92104475,
+      "name": "Obsidian Blackthorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93635843,
+      "name": "Pigzy Stockley",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crazy Eyed Ham",
+  "corporation_id": 98444440,
+  "alliance_id": null,
+  "corporation_name": "Fly Sideways",
+  "alliance_name": null
+}

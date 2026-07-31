@@ -1,0 +1,40 @@
+{
+  "character_id": 2124569275,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123628323,
+    "name": "idiothead",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98699553,
+    "alliance_id": 99014849,
+    "corporation_name": "Astral Acquisitions Inc.",
+    "alliance_name": "Astral Ascendancy Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123628323,
+      "name": "idiothead",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93684815,
+      "name": "Stenten Brath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1374171506,
+      "name": "Tao Zun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "7C ABD",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

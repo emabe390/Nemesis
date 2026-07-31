@@ -1,0 +1,40 @@
+{
+  "character_id": 1271755754,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 604432340,
+    "name": "bauke jacob",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1324429368,
+    "alliance_id": 1354830081,
+    "corporation_name": "NED-Clan",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 604432340,
+      "name": "bauke jacob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117759170,
+      "name": "Drakedog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122114764,
+      "name": "Belafor Aubaris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shaka Spade",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2120817331,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90790301,
+    "name": "John Soto",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98480050,
+    "alliance_id": 1900696668,
+    "corporation_name": "Fancypants Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90790301,
+      "name": "John Soto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95168462,
+      "name": "Absent Ascension",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95757663,
+      "name": "Deadz On-ne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114826874,
+      "name": "G-man Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Son Of Corax",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

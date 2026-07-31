@@ -1,0 +1,40 @@
+{
+  "character_id": 2124132823,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113725291,
+    "name": "New-York",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98030681,
+    "alliance_id": 1900696668,
+    "corporation_name": "ANGELGARD.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2113725291,
+      "name": "New-York",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96033652,
+      "name": "Foxy Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Farana Sovas Enderas",
+  "corporation_id": 98258093,
+  "alliance_id": 99009268,
+  "corporation_name": "Strategic Exploration and Development Corp",
+  "alliance_name": "Silent Company"
+}

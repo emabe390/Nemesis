@@ -1,0 +1,40 @@
+{
+  "character_id": 2116413034,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 964516510,
+    "name": "Serahat",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 964516510,
+      "name": "Serahat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1865799213,
+      "name": "Karle Franz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116503388,
+      "name": "Chuck Blevins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Suddenly Seymour",
+  "corporation_id": 98767682,
+  "alliance_id": 99011223,
+  "corporation_name": "Horizon Industries.",
+  "alliance_name": "Sigma Grindset"
+}

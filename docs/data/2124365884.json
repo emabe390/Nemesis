@@ -1,0 +1,46 @@
+{
+  "character_id": 2124365884,
+  "total_losses": 21,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124147385,
+    "name": "Ohkiainen Ylimo Maken",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98638037,
+    "alliance_id": null,
+    "corporation_name": "Adeptus Mechanicus Coalition",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124147385,
+      "name": "Ohkiainen Ylimo Maken",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 2124100960,
+      "name": "AMG-TSI",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117247924,
+      "name": "Hjalmar Svennsen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Redgardium",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

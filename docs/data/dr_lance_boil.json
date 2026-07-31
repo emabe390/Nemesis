@@ -1,0 +1,52 @@
+{
+  "character_id": 2124230367,
+  "total_losses": 58,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2124098870,
+    "name": "zLegion 28",
+    "kill_count": 22,
+    "final_blows": 22,
+    "corporation_id": 98794818,
+    "alliance_id": null,
+    "corporation_name": "L.E.G.I.O.N",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124098870,
+      "name": "zLegion 28",
+      "kill_count": 22,
+      "final_blows": 22
+    },
+    {
+      "id": 2114097675,
+      "name": "Josiah Kusion",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 95034355,
+      "name": "Jason Kusion",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2115996248,
+      "name": "FRT Dane",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Dr Lance Boil",
+  "corporation_id": 669795117,
+  "alliance_id": 131511956,
+  "corporation_name": "Systems High Guard",
+  "alliance_name": "Tactical Narcotics Team"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121145636,
+  "total_losses": 28,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94304358,
+      "name": "Malsandar Boirelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95947458,
+      "name": "Liandre Damazi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omonoi Iwaira",
+  "corporation_id": 98747372,
+  "alliance_id": 99013766,
+  "corporation_name": "Regrediens",
+  "alliance_name": "Death Legion of Capybaras"
+}

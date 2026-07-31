@@ -1,0 +1,40 @@
+{
+  "character_id": 2122051551,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93284493,
+    "name": "EvE Janes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98221538,
+    "alliance_id": 99003581,
+    "corporation_name": "C5 Flight",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 93284493,
+      "name": "EvE Janes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1425809126,
+      "name": "Princess Talim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122400117,
+      "name": "Tokohana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rynti Asamura",
+  "corporation_id": 349468365,
+  "alliance_id": 99010468,
+  "corporation_name": "Ronin Interstellar Industries",
+  "alliance_name": "Weapons Of Mass Production."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123458838,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94875531,
+    "name": "Character 94875531",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480589,
+    "alliance_id": null,
+    "corporation_name": "Magister Mortalis.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94875531,
+      "name": "Character 94875531",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90257094,
+      "name": "Tample II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lavedur Gengod",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 90002921,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1111922349,
+    "name": "Fourassa",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98730717,
+    "alliance_id": 1900696668,
+    "corporation_name": "Goat to Go",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1111922349,
+      "name": "Fourassa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2117243405,
+      "name": "Tely Merlyn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91474184,
+      "name": "Xerlax",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Calcium Gluconate",
+  "corporation_id": 98083089,
+  "alliance_id": 99003581,
+  "corporation_name": "Redhogs",
+  "alliance_name": "Fraternity."
+}

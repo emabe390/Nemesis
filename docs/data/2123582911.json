@@ -1,0 +1,46 @@
+{
+  "character_id": 2123582911,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 92513021,
+    "name": "Helena Wild",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92513021,
+      "name": "Helena Wild",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114551164,
+      "name": "Sun houzi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117655834,
+      "name": "Kell Si",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119845161,
+      "name": "Tendem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valar Morghul",
+  "corporation_id": 98654335,
+  "alliance_id": 99003581,
+  "corporation_name": "Redamancy.",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123451658,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93403739,
+    "name": "Vladimir Legion",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98781816,
+    "alliance_id": 99012181,
+    "corporation_name": "Ordo Ignis Asinum",
+    "alliance_name": "Alea jacta est."
+  },
+  "top_killers": [
+    {
+      "id": 93403739,
+      "name": "Vladimir Legion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118149015,
+      "name": "Quinnsel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sibilla Silfain",
+  "corporation_id": 98652367,
+  "alliance_id": 99010193,
+  "corporation_name": "EVE University Hall of Residence",
+  "alliance_name": "Ivy League Alt Alliance"
+}

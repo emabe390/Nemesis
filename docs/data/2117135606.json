@@ -1,0 +1,52 @@
+{
+  "character_id": 2117135606,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 97006721,
+    "name": "Nova Sint",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826484,
+    "alliance_id": null,
+    "corporation_name": "DeadBoat",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97006721,
+      "name": "Nova Sint",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91385572,
+      "name": "Thunder Childe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120033834,
+      "name": "Aifka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Trit Empire",
+  "corporation_id": 98647681,
+  "alliance_id": 99011489,
+  "corporation_name": "The Tax Avoiders",
+  "alliance_name": "United Caldari Space Command."
+}

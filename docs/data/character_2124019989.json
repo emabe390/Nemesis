@@ -1,0 +1,52 @@
+{
+  "character_id": 2124019989,
+  "total_losses": 33,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 2123072453,
+    "name": "Lee Shank",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98793824,
+    "alliance_id": null,
+    "corporation_name": "Shanks and Shivs",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123072453,
+      "name": "Lee Shank",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91201278,
+      "name": "php3ch0 Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97195939,
+      "name": "Boots Skrem",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2124019989",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

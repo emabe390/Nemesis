@@ -1,0 +1,40 @@
+{
+  "character_id": 2124479207,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119926405,
+    "name": "The Green Basturd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98445581,
+    "alliance_id": null,
+    "corporation_name": "Sum Dam Guys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119926405,
+      "name": "The Green Basturd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113053476,
+      "name": "Dejan Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121742712,
+      "name": "Cillian Dioltas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brodrik Zyre",
+  "corporation_id": 98835765,
+  "alliance_id": null,
+  "corporation_name": "Clan X",
+  "alliance_name": null
+}

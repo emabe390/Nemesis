@@ -1,0 +1,40 @@
+{
+  "character_id": 2124158110,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94388027,
+    "name": "Hal Pistor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98345858,
+    "alliance_id": 99015070,
+    "corporation_name": "Black Powder Ballistics",
+    "alliance_name": "Thats How We Roll"
+  },
+  "top_killers": [
+    {
+      "id": 94388027,
+      "name": "Hal Pistor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1438606427,
+      "name": "Daniel Meza",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113232695,
+      "name": "Kubus Aldente",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mining Mercenary 12",
+  "corporation_id": 98827489,
+  "alliance_id": null,
+  "corporation_name": "Ordion Mercenaries",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124468208,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116049569,
+    "name": "Alistair Kruger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2116049569,
+      "name": "Alistair Kruger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123810800,
+      "name": "Akio Sunbeam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112173185,
+      "name": "Tstormin Mahyisti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113458881,
+      "name": "Seethlaw Aldrain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Uarga Kahoudi",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

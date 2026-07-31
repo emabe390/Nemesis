@@ -1,0 +1,52 @@
+{
+  "character_id": 2123995502,
+  "total_losses": 38,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 95310292,
+    "name": "Osric Naskingar",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95310292,
+      "name": "Osric Naskingar",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1227994980,
+      "name": "Yellow Jackal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95651124,
+      "name": "RA FAEL",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 784156357,
+      "name": "Tandros Kreel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sahri Asah Mena",
+  "corporation_id": 98633650,
+  "alliance_id": 1988009451,
+  "corporation_name": "Melphalan",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

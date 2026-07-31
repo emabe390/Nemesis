@@ -1,0 +1,40 @@
+{
+  "character_id": 2123893768,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115659829,
+    "name": "lethi meimei",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98549595,
+    "alliance_id": 386292982,
+    "corporation_name": "Squid Inc.",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2115659829,
+      "name": "lethi meimei",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1066390402,
+      "name": "Djania Khan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123124087,
+      "name": "Selecta Selwyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sayataitoh Salen Tawate",
+  "corporation_id": 98790110,
+  "alliance_id": 99014402,
+  "corporation_name": "Dark Mercenary Company",
+  "alliance_name": "Plenitude Alliance"
+}

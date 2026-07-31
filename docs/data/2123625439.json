@@ -1,0 +1,40 @@
+{
+  "character_id": 2123625439,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115798866,
+    "name": "BtsBma",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788243,
+    "alliance_id": 99015041,
+    "corporation_name": "Hull Miners inc",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119347076,
+      "name": "Willy Hansen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121162843,
+      "name": "No Clucks Given",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YT-Mine-4",
+  "corporation_id": 98809095,
+  "alliance_id": null,
+  "corporation_name": "YTsLPBANK",
+  "alliance_name": null
+}

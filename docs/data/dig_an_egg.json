@@ -1,0 +1,40 @@
+{
+  "character_id": 2123897277,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93468510,
+    "name": "Alex DeWalker",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98343297,
+    "alliance_id": 99004901,
+    "corporation_name": "Lowlife.",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 93468510,
+      "name": "Alex DeWalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 675984515,
+      "name": "Ndbele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120481908,
+      "name": "Akora Itiya Sasen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dig an egg",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

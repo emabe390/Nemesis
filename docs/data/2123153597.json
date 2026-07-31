@@ -1,0 +1,52 @@
+{
+  "character_id": 2123153597,
+  "total_losses": 51,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 2112807765,
+    "name": "TC10086",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112807765,
+      "name": "TC10086",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90450303,
+      "name": "Kakeki Saken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91094943,
+      "name": "Ciba Lexlulu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92673584,
+      "name": "De Lukis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MAJ0R T0M",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

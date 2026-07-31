@@ -1,0 +1,52 @@
+{
+  "character_id": 2124536878,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 875463717,
+    "name": "Lhorenzho",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 875463717,
+      "name": "Lhorenzho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123235002,
+      "name": "HAL 7",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95144027,
+      "name": "Victor Jacobus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122323917,
+      "name": "StubbornCell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124083756,
+      "name": "Tom Shelby 1st",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fizzy Gravy",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

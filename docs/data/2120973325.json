@@ -1,0 +1,40 @@
+{
+  "character_id": 2120973325,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 358249947,
+    "name": "Rhae'mar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 358249947,
+      "name": "Rhae'mar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113553121,
+      "name": "Malinois Mali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122479968,
+      "name": "Z borg",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Upzarox",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

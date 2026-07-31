@@ -1,0 +1,52 @@
+{
+  "character_id": 2114280566,
+  "total_losses": 21,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115335340,
+    "name": "SoLInvictus IV",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98814141,
+    "alliance_id": 99012122,
+    "corporation_name": "Industrial pact",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 2115335340,
+      "name": "SoLInvictus IV",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 95792174,
+      "name": "HA ABOCb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112438983,
+      "name": "KOMUCCAP PKKA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90659782,
+      "name": "Gedeon Deka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SoI Invictus",
+  "corporation_id": 98814141,
+  "alliance_id": 99012122,
+  "corporation_name": "Industrial pact",
+  "alliance_name": "HOLD MY PROBS"
+}

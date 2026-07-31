@@ -1,0 +1,34 @@
+{
+  "character_id": 2113784212,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123433985,
+    "name": "VoidStranger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98835996,
+    "alliance_id": null,
+    "corporation_name": "Flystylers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118241107,
+      "name": "Enas Jaynara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serg Issier",
+  "corporation_id": 98754702,
+  "alliance_id": 1354830081,
+  "corporation_name": "The London Stock Exchange",
+  "alliance_name": "Goonswarm Federation"
+}

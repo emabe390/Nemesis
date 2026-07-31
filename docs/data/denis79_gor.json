@@ -1,0 +1,52 @@
+{
+  "character_id": 2123611605,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123405645,
+    "name": "Eratostenee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781795,
+    "alliance_id": null,
+    "corporation_name": "Next Frontier Unlimited",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123405645,
+      "name": "Eratostenee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 912216113,
+      "name": "Major Floor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1991432800,
+      "name": "extremedeath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118691876,
+      "name": "Hydra Highlander",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122932648,
+      "name": "Dirk Pulsar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Denis79 GOR",
+  "corporation_id": 98792986,
+  "alliance_id": 99003995,
+  "corporation_name": "Orion Syndicate inc",
+  "alliance_name": "Invidia Gloriae Comes"
+}

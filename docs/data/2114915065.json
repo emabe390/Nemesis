@@ -1,0 +1,40 @@
+{
+  "character_id": 2114915065,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 589558979,
+    "name": "Nikolai Kazansky",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98729563,
+    "alliance_id": 99005338,
+    "corporation_name": "Tactical Farmers.",
+    "alliance_name": "Pandemic Horde"
+  },
+  "top_killers": [
+    {
+      "id": 589558979,
+      "name": "Nikolai Kazansky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1041128212,
+      "name": "Fortune Mitford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123361649,
+      "name": "Aurera",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Christoff Ericson",
+  "corporation_id": 98243307,
+  "alliance_id": 99003214,
+  "corporation_name": "Virtus Crusade",
+  "alliance_name": "Brave Collective"
+}

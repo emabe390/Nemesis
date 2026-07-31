@@ -1,0 +1,52 @@
+{
+  "character_id": 2123612983,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115166285,
+    "name": "MOVAN",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98725089,
+    "alliance_id": 99003581,
+    "corporation_name": "Arknights.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115166285,
+      "name": "MOVAN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926327,
+      "name": "Kingababa Nyulo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113359448,
+      "name": "RS sol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114586345,
+      "name": "YGGDRASLI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120798107,
+      "name": "KpEaTuBHo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gentlwind",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

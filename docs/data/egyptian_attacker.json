@@ -1,0 +1,40 @@
+{
+  "character_id": 94512019,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92755065,
+    "name": "Mamin Sinko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98669192,
+    "alliance_id": null,
+    "corporation_name": "Pivovarna Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92755065,
+      "name": "Mamin Sinko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114924576,
+      "name": "Dread Capitalist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120117640,
+      "name": "ioann sls",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Egyptian Attacker",
+  "corporation_id": 98665672,
+  "alliance_id": 99003214,
+  "corporation_name": "Rise Of Exiles",
+  "alliance_name": "Brave Collective"
+}

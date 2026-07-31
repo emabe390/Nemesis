@@ -1,0 +1,40 @@
+{
+  "character_id": 2123473168,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 904000908,
+    "name": "Tiberious Marz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000437,
+    "alliance_id": null,
+    "corporation_name": "Commando Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 904000908,
+      "name": "Tiberious Marz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115739081,
+      "name": "Nagisa SK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123323077,
+      "name": "Oh Em Gee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kamada Shikkoken",
+  "corporation_id": 98814875,
+  "alliance_id": 99013674,
+  "corporation_name": "OPA Free Navy",
+  "alliance_name": "Recklessly Tactical"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123622815,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1694318300,
+    "name": "Muchl",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98252033,
+    "alliance_id": 99004344,
+    "corporation_name": "Vision Inc",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 1694318300,
+      "name": "Muchl",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1876418473,
+      "name": "AdiDasler",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119267015,
+      "name": "Sasha Arcangeli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91642352,
+      "name": "Nikita nikitovish",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TomcioPaluch",
+  "corporation_id": 98768165,
+  "alliance_id": null,
+  "corporation_name": "Brave Explorers",
+  "alliance_name": null
+}

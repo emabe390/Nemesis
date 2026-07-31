@@ -1,0 +1,52 @@
+{
+  "character_id": 2123573891,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2112464001,
+    "name": "Dimitr Novanov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98516847,
+    "alliance_id": null,
+    "corporation_name": "Storm Band",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112464001,
+      "name": "Dimitr Novanov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90172767,
+      "name": "RebeRexa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95077820,
+      "name": "Salama Messiah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ad4s",
+  "corporation_id": 98084418,
+  "alliance_id": 99007855,
+  "corporation_name": "CBC FORGE",
+  "alliance_name": "Mostly Newbies"
+}

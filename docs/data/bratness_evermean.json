@@ -1,0 +1,46 @@
+{
+  "character_id": 2123384811,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96861620,
+    "name": "Agimus VI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97160663,
+      "name": "Alexandra Krutschov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 338168289,
+      "name": "Major Plisken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116012406,
+      "name": "Communist Rev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bratness Evermean",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

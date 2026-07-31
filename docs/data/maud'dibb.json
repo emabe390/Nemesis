@@ -1,0 +1,52 @@
+{
+  "character_id": 93127487,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2118854383,
+    "name": "Keredti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1101208023,
+    "alliance_id": null,
+    "corporation_name": "Black Skull Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118854383,
+      "name": "Keredti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95438732,
+      "name": "Jennifer Jovakko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 648090536,
+      "name": "Ishtar Blue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1374032406,
+      "name": "Trenton Napier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1673501109,
+      "name": "VAMP XXX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maud'dibb",
+  "corporation_id": 427125032,
+  "alliance_id": 1354830081,
+  "corporation_name": "TunDraGon",
+  "alliance_name": "Goonswarm Federation"
+}

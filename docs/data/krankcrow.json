@@ -1,0 +1,46 @@
+{
+  "character_id": 2123873868,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2121592238,
+    "name": "Lvivs'ka Kava",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571607,
+    "alliance_id": null,
+    "corporation_name": "G.T.U.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121592238,
+      "name": "Lvivs'ka Kava",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123873868,
+      "name": "KrankCrow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124027257,
+      "name": "aluhukeba",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "KrankCrow",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

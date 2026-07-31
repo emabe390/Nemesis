@@ -1,0 +1,40 @@
+{
+  "character_id": 2123069860,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94834100,
+    "name": "Ikaros Cremory",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98606395,
+    "alliance_id": 99003995,
+    "corporation_name": "PICHATRON",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 94834100,
+      "name": "Ikaros Cremory",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112109453,
+      "name": "Orimary Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119677744,
+      "name": "Franco Williams",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Waltert Green",
+  "corporation_id": 98598794,
+  "alliance_id": 99005830,
+  "corporation_name": "Hide Into Darkness",
+  "alliance_name": "Memento Moriendo"
+}

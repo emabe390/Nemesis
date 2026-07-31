@@ -1,0 +1,52 @@
+{
+  "character_id": 2123272217,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 94370897,
+    "name": "Richard Valdyr",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92136296,
+      "name": "Chatlanin Ku",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96836341,
+      "name": "Character 96836341",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92141421,
+      "name": "Bulldog McGuire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95822946,
+      "name": "David Karl Karolus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rusty Weld",
+  "corporation_id": 98716579,
+  "alliance_id": 99014081,
+  "corporation_name": "Marauders Shadow",
+  "alliance_name": "Synergy of Support"
+}

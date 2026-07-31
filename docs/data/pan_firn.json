@@ -1,0 +1,40 @@
+{
+  "character_id": 92672256,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020057,
+    "name": "Tyrannos Basileus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020057,
+      "name": "Tyrannos Basileus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 317143011,
+      "name": "DimanLin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115587909,
+      "name": "Oliver Sparks",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pan Firn",
+  "corporation_id": 98632618,
+  "alliance_id": null,
+  "corporation_name": "Otshelnik Corporation",
+  "alliance_name": null
+}

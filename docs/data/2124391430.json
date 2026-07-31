@@ -1,0 +1,52 @@
+{
+  "character_id": 2124391430,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123852386,
+    "name": "Old Redcap Sly",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98778904,
+    "alliance_id": 99015054,
+    "corporation_name": "Clandestinauts",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2123852386,
+      "name": "Old Redcap Sly",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94331100,
+      "name": "Gwenevick Kenyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 350182592,
+      "name": "Zu Tsang",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115793841,
+      "name": "Bentusi Keidan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Josette Z",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

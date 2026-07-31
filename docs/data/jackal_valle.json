@@ -1,0 +1,52 @@
+{
+  "character_id": 2115554669,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113270573,
+    "name": "Joey Belvar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98276273,
+    "alliance_id": 99003214,
+    "corporation_name": "Brave Operations - Lollipop Division",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2113270573,
+      "name": "Joey Belvar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123599411,
+      "name": "sergey200519",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116256018,
+      "name": "Pedro Atreides",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jackal Valle",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

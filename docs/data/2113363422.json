@@ -1,0 +1,40 @@
+{
+  "character_id": 2113363422,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118725855,
+    "name": "Ovitalo Isu",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 668298004,
+    "alliance_id": 99003581,
+    "corporation_name": "Sacred Templars",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2118725855,
+      "name": "Ovitalo Isu",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92330200,
+      "name": "Tenk Blest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96942164,
+      "name": "Koko Nanasaki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucasian Thellere",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

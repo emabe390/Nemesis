@@ -1,0 +1,40 @@
+{
+  "character_id": 2122035748,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113511390,
+      "name": "Darius 'FlexinOnYoCaps' Jordan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116281055,
+      "name": "Caozdravo Jasamfofo Mrcitelji",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Torman Yegorov",
+  "corporation_id": 98389204,
+  "alliance_id": 99007101,
+  "corporation_name": "Newbie Friendly Industries",
+  "alliance_name": "CeskoSlovenska Aliance"
+}

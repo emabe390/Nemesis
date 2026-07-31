@@ -1,0 +1,40 @@
+{
+  "character_id": 2123351645,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1084489795,
+    "name": "Major Scythe",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98809085,
+    "alliance_id": 99005381,
+    "corporation_name": "Highly Pretentious Extremely Cringe Corp. Name",
+    "alliance_name": "SE7EN-SINS"
+  },
+  "top_killers": [
+    {
+      "id": 1084489795,
+      "name": "Major Scythe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120383311,
+      "name": "Hans Elemagor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SpaceBanan",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123145556,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1121029034,
+    "name": "Cpt Armarlio",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98614632,
+    "alliance_id": null,
+    "corporation_name": "Scary Ships On D-Scan",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92027875,
+      "name": "Sven Ole-Torssen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94555184,
+      "name": "Gallente Ambrye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HotGG",
+  "corporation_id": 98821887,
+  "alliance_id": null,
+  "corporation_name": "GrogCorporation",
+  "alliance_name": null
+}

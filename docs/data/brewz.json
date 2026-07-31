@@ -1,0 +1,34 @@
+{
+  "character_id": 2123636155,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1084489795,
+      "name": "Major Scythe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brewz",
+  "corporation_id": 98810455,
+  "alliance_id": null,
+  "corporation_name": "Fantastic Miners",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2121811824,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116601950,
+    "name": "James Beratna",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98718731,
+    "alliance_id": null,
+    "corporation_name": "Amish Pervert Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116601950,
+      "name": "James Beratna",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119661101,
+      "name": "Yantoh Mikakka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aizen Yui",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123287993,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91073037,
+    "name": "Honningbarnet",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98186730,
+    "alliance_id": 1354830081,
+    "corporation_name": "Brothers of Tyr",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91073037,
+      "name": "Honningbarnet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1061967229,
+      "name": "Character 1061967229",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118138234,
+      "name": "Afganski Szuszak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122217621,
+      "name": "Dage-2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rose Derpmer",
+  "corporation_id": 439896599,
+  "alliance_id": 99013537,
+  "corporation_name": "Therapy.",
+  "alliance_name": "Insidious."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123662132,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1776297047,
+    "name": "GrauW",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 1776297047,
+      "name": "GrauW",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119767984,
+      "name": "John McJohn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120432270,
+      "name": "Laso4ka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rabban-Rauthah",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

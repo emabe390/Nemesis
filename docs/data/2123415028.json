@@ -1,0 +1,40 @@
+{
+  "character_id": 2123415028,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1472989089,
+    "name": "InDiCa LoVeR",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 735865015,
+    "alliance_id": 1988009451,
+    "corporation_name": "Polaris Project",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1472989089,
+      "name": "InDiCa LoVeR",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121767379,
+      "name": "Alina Hayashi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122842536,
+      "name": "KoffinsHero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcus Shepord",
+  "corporation_id": 98177708,
+  "alliance_id": 1042504553,
+  "corporation_name": "Space Wolves ind.",
+  "alliance_name": "Solyaris Chtonium"
+}

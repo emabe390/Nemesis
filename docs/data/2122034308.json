@@ -1,0 +1,52 @@
+{
+  "character_id": 2122034308,
+  "total_losses": 48,
+  "unique_killers": 40,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96608556,
+      "name": "Joe Bananowy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113471937,
+      "name": "Ringo Clearwater",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114731379,
+      "name": "Kalifa Surmia Ederton",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Splasheffect",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

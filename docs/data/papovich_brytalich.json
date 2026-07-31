@@ -1,0 +1,40 @@
+{
+  "character_id": 2123835892,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2081750081,
+    "name": "Redeovg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556933,
+    "alliance_id": 99004901,
+    "corporation_name": "Infinity Avenger",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91270573,
+      "name": "Decibel Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117708090,
+      "name": "Parima Kebar Bukandara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Papovich Brytalich",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

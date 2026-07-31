@@ -1,0 +1,52 @@
+{
+  "character_id": 2122012284,
+  "total_losses": 43,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2121941255,
+    "name": "Damocles Zenith",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98837532,
+    "alliance_id": null,
+    "corporation_name": "Liminal Wanderers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121941255,
+      "name": "Damocles Zenith",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2114487900,
+      "name": "Roman Yrkowski",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117174725,
+      "name": "Mita Hitoji",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nova Outlaw",
+  "corporation_id": 98834132,
+  "alliance_id": null,
+  "corporation_name": "Exigent Circumstances Inc.",
+  "alliance_name": null
+}

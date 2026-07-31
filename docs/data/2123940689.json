@@ -1,0 +1,52 @@
+{
+  "character_id": 2123940689,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 884085686,
+    "name": "Tarkis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 884085686,
+      "name": "Tarkis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467732195,
+      "name": "Mercurye",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1885133150,
+      "name": "Ynot Eyob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112707456,
+      "name": "Titanium Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Novestu",
+  "corporation_id": 98819449,
+  "alliance_id": null,
+  "corporation_name": "Indy Wood Boyz",
+  "alliance_name": null
+}

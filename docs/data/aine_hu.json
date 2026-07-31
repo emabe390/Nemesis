@@ -1,0 +1,52 @@
+{
+  "character_id": 2123604819,
+  "total_losses": 15,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123597649,
+    "name": "Rein Hu",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123597649,
+      "name": "Rein Hu",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123592919,
+      "name": "Enume Hu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1568814036,
+      "name": "Langz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120183782,
+      "name": "South-Mountain3",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119761776,
+      "name": "Brice JUDEX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aine Hu",
+  "corporation_id": 98812985,
+  "alliance_id": null,
+  "corporation_name": "Integral Space",
+  "alliance_name": null
+}

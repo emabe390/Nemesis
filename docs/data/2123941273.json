@@ -1,0 +1,40 @@
+{
+  "character_id": 2123941273,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93075150,
+    "name": "Mackatoa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 1900696668,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 93075150,
+      "name": "Mackatoa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119210149,
+      "name": "Harry No Styles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1776827235,
+      "name": "Earl Sutherfurd",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aghana Yeva",
+  "corporation_id": 98677620,
+  "alliance_id": null,
+  "corporation_name": "Pan Galactic Gargle Blasters",
+  "alliance_name": null
+}

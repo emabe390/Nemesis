@@ -1,0 +1,40 @@
+{
+  "character_id": 2122888746,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91581240,
+    "name": "Sarah Umbra",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95823081,
+      "name": "Azot Abamych",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122003565,
+      "name": "Lieutenant Ackermann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122888746",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

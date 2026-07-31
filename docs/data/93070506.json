@@ -1,0 +1,52 @@
+{
+  "character_id": 93070506,
+  "total_losses": 37,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 96092514,
+    "name": "Blackk Angel",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98815886,
+    "alliance_id": null,
+    "corporation_name": "Space Silent Harbor",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96092514,
+      "name": "Blackk Angel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1952088840,
+      "name": "Captain Thunar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112650011,
+      "name": "GLaDOS Momaki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Bertram Renning",
+  "corporation_id": 98385953,
+  "alliance_id": null,
+  "corporation_name": "Freedom Shipyards",
+  "alliance_name": null
+}

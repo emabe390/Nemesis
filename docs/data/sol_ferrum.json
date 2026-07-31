@@ -1,0 +1,52 @@
+{
+  "character_id": 91717929,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 833050087,
+    "name": "ratain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480476,
+    "alliance_id": 99008915,
+    "corporation_name": "tunnel visions",
+    "alliance_name": "Templis Strategic Division"
+  },
+  "top_killers": [
+    {
+      "id": 833050087,
+      "name": "ratain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91810608,
+      "name": "Dalamus Malukker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 793793696,
+      "name": "Maisha Libo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1205752527,
+      "name": "Almagar Phog",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112028966,
+      "name": "Marius Dethahal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sol Ferrum",
+  "corporation_id": 98400081,
+  "alliance_id": null,
+  "corporation_name": "Fafnir's Task",
+  "alliance_name": null
+}

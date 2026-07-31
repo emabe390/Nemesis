@@ -1,0 +1,52 @@
+{
+  "character_id": 2116021624,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94075567,
+      "name": "B'lellum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96132445,
+      "name": "MeGaTrubA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loreley Aldrin",
+  "corporation_id": 98560652,
+  "alliance_id": 1354830081,
+  "corporation_name": "Miners Inn",
+  "alliance_name": "Goonswarm Federation"
+}

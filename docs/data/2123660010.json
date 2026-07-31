@@ -1,0 +1,52 @@
+{
+  "character_id": 2123660010,
+  "total_losses": 25,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 904892827,
+    "name": "GDaemon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98806872,
+    "alliance_id": null,
+    "corporation_name": "IQ 69",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 904892827,
+      "name": "GDaemon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 95695510,
+      "name": "Beefcake Cartman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119107966,
+      "name": "Taishang Laojun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Getsufan",
+  "corporation_id": 98811526,
+  "alliance_id": null,
+  "corporation_name": "GoldenSnipers",
+  "alliance_name": null
+}

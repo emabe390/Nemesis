@@ -1,0 +1,52 @@
+{
+  "character_id": 2123108906,
+  "total_losses": 49,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90208148,
+      "name": "Selusa Secundus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91172071,
+      "name": "Amonkhira Drell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 151092177,
+      "name": "Mr Mordan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "RusZak1",
+  "corporation_id": 272675225,
+  "alliance_id": 1354830081,
+  "corporation_name": "Monkey Attack Squad",
+  "alliance_name": "Goonswarm Federation"
+}

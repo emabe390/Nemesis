@@ -1,0 +1,52 @@
+{
+  "character_id": 171531410,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1175533677,
+    "name": "high hitter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98400319,
+    "alliance_id": 99011258,
+    "corporation_name": "Safety Set To Red",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 1175533677,
+      "name": "high hitter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121646077,
+      "name": "Ded Zadrot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93055535,
+      "name": "Michio Kepler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95178202,
+      "name": "Solid Khardula",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kael Urth",
+  "corporation_id": 98704405,
+  "alliance_id": 99007887,
+  "corporation_name": "Safety Hazard",
+  "alliance_name": "Brotherhood of Spacers"
+}

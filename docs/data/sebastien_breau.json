@@ -1,0 +1,52 @@
+{
+  "character_id": 2123931607,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123783854,
+    "name": "USAGI attack",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98713511,
+    "alliance_id": 99012697,
+    "corporation_name": "nihonium 113th Fleet",
+    "alliance_name": "High Elements Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2123783854,
+      "name": "USAGI attack",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 242501202,
+      "name": "Lord Egmond",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120656168,
+      "name": "BraveSirRobbin-Maximus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123295636,
+      "name": "Olav Ridder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91671881,
+      "name": "UnakUbiecNaLami",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebastien Breau",
+  "corporation_id": 98774697,
+  "alliance_id": null,
+  "corporation_name": "Munkey Business",
+  "alliance_name": null
+}

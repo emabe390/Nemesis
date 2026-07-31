@@ -1,0 +1,52 @@
+{
+  "character_id": 2120798320,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2121168143,
+    "name": "Ein Zion",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98302513,
+    "alliance_id": null,
+    "corporation_name": "zx incorporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121168143,
+      "name": "Ein Zion",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123942367,
+      "name": "SYMR1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91046538,
+      "name": "Liketokite",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91712473,
+      "name": "Hybiki Terona",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113092518,
+      "name": "Aston Aubaris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Genesis Ashura",
+  "corporation_id": 98833240,
+  "alliance_id": 99003995,
+  "corporation_name": "Dream Fleet",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1083295334,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96761070,
+      "name": "Drago Tzu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116097092,
+      "name": "Maldito Kaundur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120700932,
+      "name": "W Murdoch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96203506,
+      "name": "Stubby Nubby",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omar Khmoeed",
+  "corporation_id": 98190048,
+  "alliance_id": null,
+  "corporation_name": "The Sabbat",
+  "alliance_name": null
+}

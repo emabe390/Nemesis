@@ -1,0 +1,40 @@
+{
+  "character_id": 2122352998,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122072689,
+    "name": "Assasin Ahrire",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98785213,
+    "alliance_id": null,
+    "corporation_name": "Arca Ouranos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122072689,
+      "name": "Assasin Ahrire",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122091793,
+      "name": "Marie Claire Ahrire",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95856180,
+      "name": "Morphi StormSeeker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Henk Jenssen",
+  "corporation_id": 98785213,
+  "alliance_id": null,
+  "corporation_name": "Arca Ouranos",
+  "alliance_name": null
+}

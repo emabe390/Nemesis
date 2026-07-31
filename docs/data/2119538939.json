@@ -1,0 +1,40 @@
+{
+  "character_id": 2119538939,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96563900,
+    "name": "Fjord O'Neal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96563900,
+      "name": "Fjord O'Neal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 493908822,
+      "name": "DreadedTaipan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 506013682,
+      "name": "CAISH",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2119538939",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

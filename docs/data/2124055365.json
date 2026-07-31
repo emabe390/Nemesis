@@ -1,0 +1,52 @@
+{
+  "character_id": 2124055365,
+  "total_losses": 42,
+  "unique_killers": 26,
+  "nemesis": {
+    "id": 2122283383,
+    "name": "Allegra Luna",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98613748,
+    "alliance_id": 99012995,
+    "corporation_name": "Silver Fog Dragon Ride",
+    "alliance_name": "Dragon Riders Legion"
+  },
+  "top_killers": [
+    {
+      "id": 2122283383,
+      "name": "Allegra Luna",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92943560,
+      "name": "Lyxes Antileon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95987816,
+      "name": "Lash Wolfram",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Christopher Ford",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

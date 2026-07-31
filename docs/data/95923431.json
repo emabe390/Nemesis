@@ -1,0 +1,52 @@
+{
+  "character_id": 95923431,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 93255002,
+    "name": "A Necessary End",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98784443,
+    "alliance_id": null,
+    "corporation_name": "Honey Badger Squad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93255002,
+      "name": "A Necessary End",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1698095285,
+      "name": "Vulcani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116636045,
+      "name": "Syth Sunmaster",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121644204,
+      "name": "Nikilab Ru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Test Bull",
+  "corporation_id": 98151014,
+  "alliance_id": null,
+  "corporation_name": "Ascom Royal",
+  "alliance_name": null
+}

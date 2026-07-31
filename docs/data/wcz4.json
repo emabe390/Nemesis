@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640194,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 618476423,
+    "name": "SoloSulu",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98432393,
+    "alliance_id": 99011162,
+    "corporation_name": "Angelum Tenebrarum",
+    "alliance_name": "Shadow Ultimatum"
+  },
+  "top_killers": [
+    {
+      "id": 618476423,
+      "name": "SoloSulu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112739630,
+      "name": "Emily Cherufe Kumamato",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123468199,
+      "name": "GaoGu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91336996,
+      "name": "Lynn Evotori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91395281,
+      "name": "Krops Vont",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WCZ4",
+  "corporation_id": 98836362,
+  "alliance_id": null,
+  "corporation_name": "Shadow Void Sailors",
+  "alliance_name": null
+}

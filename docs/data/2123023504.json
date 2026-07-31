@@ -1,0 +1,52 @@
+{
+  "character_id": 2123023504,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 950325390,
+    "name": "William Hart",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98758422,
+    "alliance_id": 99014284,
+    "corporation_name": "Consultancy",
+    "alliance_name": "7.62"
+  },
+  "top_killers": [
+    {
+      "id": 950325390,
+      "name": "William Hart",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95497451,
+      "name": "Fen Frimon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117824798,
+      "name": "Pella Murni",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120384709,
+      "name": "Sky Lordbozo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "All Teeth",
+  "corporation_id": 98765171,
+  "alliance_id": null,
+  "corporation_name": "Order of the Black Shamrocks",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2112160209,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92623780,
+    "name": "Caria Huren",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 92623780,
+      "name": "Caria Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113511146,
+      "name": "Herron Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114000372,
+      "name": "Figg Newten",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carilla",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

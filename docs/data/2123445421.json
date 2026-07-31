@@ -1,0 +1,40 @@
+{
+  "character_id": 2123445421,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121960453,
+    "name": "Takeda Naru",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98741376,
+    "alliance_id": 99011978,
+    "corporation_name": "Minmatar Fleet Academy",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121960453,
+      "name": "Takeda Naru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113576983,
+      "name": "kanstain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121496247,
+      "name": "Aupas Jula Shihari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eval Namif Olacar",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

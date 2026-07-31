@@ -1,0 +1,52 @@
+{
+  "character_id": 90740817,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1593200549,
+    "name": "Tinker Rage",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480050,
+    "alliance_id": 1900696668,
+    "corporation_name": "Fancypants Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1593200549,
+      "name": "Tinker Rage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117841981,
+      "name": "Illusaria Rhodan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121208589,
+      "name": "Elizabeth Gremor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123379740,
+      "name": "Reivon Mordred",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ajalon",
+  "corporation_id": 98221538,
+  "alliance_id": 99003581,
+  "corporation_name": "C5 Flight",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123061895,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96424042,
+    "name": "Zeno Grey",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695005,
+    "alliance_id": 1354830081,
+    "corporation_name": "Splintered Dreams",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96424042,
+      "name": "Zeno Grey",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122098989,
+      "name": "Veitt Huren",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1876967857,
+      "name": "mowner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113357867,
+      "name": "Vyriz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122288637,
+      "name": "Landon Leo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucien Lasagne",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

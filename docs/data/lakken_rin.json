@@ -1,0 +1,52 @@
+{
+  "character_id": 2123373361,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90994877,
+    "name": "Bertral",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90994877,
+      "name": "Bertral",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114530556,
+      "name": "Lykos Medo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90004757,
+      "name": "Forest Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121910367,
+      "name": "B1ack Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121918129,
+      "name": "Wh1te Knight",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lakken Rin",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

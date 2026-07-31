@@ -1,0 +1,52 @@
+{
+  "character_id": 2123302681,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1727698026,
+    "name": "Kaeda Maxwell",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 1727698026,
+      "name": "Kaeda Maxwell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123683816,
+      "name": "Loken Garveel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92274205,
+      "name": "Victor Sternberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 740330065,
+      "name": "Barem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Komandor Alpha",
+  "corporation_id": 98798463,
+  "alliance_id": null,
+  "corporation_name": "Iron Step",
+  "alliance_name": null
+}

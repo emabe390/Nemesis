@@ -1,0 +1,40 @@
+{
+  "character_id": 2119787992,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93182008,
+    "name": "Red Sains",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98190731,
+    "alliance_id": 99009676,
+    "corporation_name": "Red Serpent Industries",
+    "alliance_name": "Red Serpent Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93182008,
+      "name": "Red Sains",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123629782,
+      "name": "Fistack",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95279727,
+      "name": "CDRtracker joke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sol D Fluorite",
+  "corporation_id": 98723162,
+  "alliance_id": null,
+  "corporation_name": "JJTA",
+  "alliance_name": null
+}

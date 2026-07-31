@@ -1,0 +1,52 @@
+{
+  "character_id": 95266081,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123654945,
+    "name": "Der2ch2",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765306,
+    "alliance_id": 99012009,
+    "corporation_name": "Soltech Holdings",
+    "alliance_name": "Minmatar Fleet Associates"
+  },
+  "top_killers": [
+    {
+      "id": 2123654945,
+      "name": "Der2ch2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90085013,
+      "name": "Tesla X1R",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95316405,
+      "name": "Little Focker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 695618232,
+      "name": "Shichi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123441402,
+      "name": "True Corsar 2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doc Bastion",
+  "corporation_id": 98446574,
+  "alliance_id": null,
+  "corporation_name": "Bastion Logistics and Profiteering",
+  "alliance_name": null
+}

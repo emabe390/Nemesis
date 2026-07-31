@@ -1,0 +1,40 @@
+{
+  "character_id": 2123747169,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96797014,
+    "name": "Breadfish Chelien",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98570801,
+    "alliance_id": null,
+    "corporation_name": "Insitution of Homeless Fish",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119590250,
+      "name": "Jai Akitana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Non-PlayerCharacter",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

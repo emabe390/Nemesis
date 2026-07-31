@@ -1,0 +1,40 @@
+{
+  "character_id": 2124028834,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95620649,
+    "name": "Flavius Froneman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98760719,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Bannermen",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 95620649,
+      "name": "Flavius Froneman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97162326,
+      "name": "Gordon Calsari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Larus Batom",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

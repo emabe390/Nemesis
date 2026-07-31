@@ -1,0 +1,40 @@
+{
+  "character_id": 2112732766,
+  "total_losses": 22,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121279313,
+    "name": "El Mandril",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 98778667,
+    "alliance_id": 99013327,
+    "corporation_name": "Hard Cuys Inc.",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2121279313,
+      "name": "El Mandril",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 2116532685,
+      "name": "WeX SM",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119770884,
+      "name": "Mr Gordon Liu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nac Audene",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

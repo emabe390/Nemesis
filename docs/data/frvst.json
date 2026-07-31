@@ -1,0 +1,52 @@
+{
+  "character_id": 2123415058,
+  "total_losses": 71,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 2116173806,
+    "name": "Raum Norsson",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98767644,
+    "alliance_id": null,
+    "corporation_name": "Speculatores Amarr",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116173806,
+      "name": "Raum Norsson",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123505186,
+      "name": "4 2",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Frvst",
+  "corporation_id": 98679090,
+  "alliance_id": 99014768,
+  "corporation_name": "Wormholes In Nuts",
+  "alliance_name": "Storm Petrel Alliance"
+}

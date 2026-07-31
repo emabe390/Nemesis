@@ -1,0 +1,34 @@
+{
+  "character_id": 2117962150,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2115819543,
+    "name": "Madox Ovaert",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98532165,
+    "alliance_id": 99010787,
+    "corporation_name": "Little Red Riding Hole",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 2115819543,
+      "name": "Madox Ovaert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112008538,
+      "name": "Allina Grosy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aza Askold",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

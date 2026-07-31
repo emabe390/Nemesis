@@ -1,0 +1,40 @@
+{
+  "character_id": 261062755,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123560102,
+    "name": "emprax quaseria",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98813151,
+    "alliance_id": null,
+    "corporation_name": "Industry Manifest",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123560102,
+      "name": "emprax quaseria",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 92521281,
+      "name": "Lt Lunar Lazair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TheRune",
+  "corporation_id": 98813151,
+  "alliance_id": 99014402,
+  "corporation_name": "Industry Manifest",
+  "alliance_name": "Plenitude Alliance"
+}

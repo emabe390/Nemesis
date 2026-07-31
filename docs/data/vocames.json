@@ -1,0 +1,40 @@
+{
+  "character_id": 2123585319,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93074710,
+    "name": "Victoria Lannister",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98587919,
+    "alliance_id": null,
+    "corporation_name": "Friends with the Benedicts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93074710,
+      "name": "Victoria Lannister",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118853292,
+      "name": "Whysam Issunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120061991,
+      "name": "Character 2120061991",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "vocames",
+  "corporation_id": 98535868,
+  "alliance_id": 99014783,
+  "corporation_name": "ChuangShi",
+  "alliance_name": "Wings Freedom."
+}

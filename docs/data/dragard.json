@@ -1,0 +1,52 @@
+{
+  "character_id": 2121589942,
+  "total_losses": 80,
+  "unique_killers": 55,
+  "nemesis": {
+    "id": 366172353,
+    "name": "KVR",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 366172353,
+      "name": "KVR",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 682609300,
+      "name": "kerafyrmm",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113013871,
+      "name": "Roar Tivianne",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90676720,
+      "name": "Hugh Knight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90735907,
+      "name": "Inz4ne",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dragard",
+  "corporation_id": 98814441,
+  "alliance_id": 498125261,
+  "corporation_name": "Infinite Directive",
+  "alliance_name": "Test Alliance Please Ignore"
+}

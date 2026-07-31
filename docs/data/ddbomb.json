@@ -1,0 +1,40 @@
+{
+  "character_id": 2124492903,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112510725,
+    "name": "Stanley Flemmstin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98277602,
+    "alliance_id": null,
+    "corporation_name": "Dead Star Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112510725,
+      "name": "Stanley Flemmstin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121479148,
+      "name": "qqbomb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121521148,
+      "name": "eebomb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ddbomb",
+  "corporation_id": 98742946,
+  "alliance_id": 99003995,
+  "corporation_name": "Zhuque squad",
+  "alliance_name": "Invidia Gloriae Comes"
+}

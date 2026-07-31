@@ -1,0 +1,52 @@
+{
+  "character_id": 2123123345,
+  "total_losses": 35,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2121274159,
+    "name": "yuureiko",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98535868,
+    "alliance_id": 99014783,
+    "corporation_name": "ChuangShi",
+    "alliance_name": "Wings Freedom."
+  },
+  "top_killers": [
+    {
+      "id": 2121274159,
+      "name": "yuureiko",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2122739346,
+      "name": "Assalmitier Neye Actault",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 95355821,
+      "name": "STDs Given",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2079911283,
+      "name": "Serenity's Throne",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1742925512,
+      "name": "Juhh",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "We Blame Pablo",
+  "corporation_id": 98797683,
+  "alliance_id": 1354830081,
+  "corporation_name": "Pablo's Planetary Helldump",
+  "alliance_name": "Goonswarm Federation"
+}

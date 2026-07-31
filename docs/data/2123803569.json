@@ -1,0 +1,40 @@
+{
+  "character_id": 2123803569,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 112597121,
+    "name": "MIROMAX",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 112597121,
+      "name": "MIROMAX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 912291025,
+      "name": "Faye Tirea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113254182,
+      "name": "krab obichniy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ThePixelBoy",
+  "corporation_id": 98606017,
+  "alliance_id": null,
+  "corporation_name": "BLACK SAILS XIII",
+  "alliance_name": null
+}

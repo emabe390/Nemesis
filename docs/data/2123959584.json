@@ -1,0 +1,40 @@
+{
+  "character_id": 2123959584,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115943688,
+    "name": "Saba Amaniti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98084418,
+    "alliance_id": 99007855,
+    "corporation_name": "CBC FORGE",
+    "alliance_name": "Mostly Newbies"
+  },
+  "top_killers": [
+    {
+      "id": 2115943688,
+      "name": "Saba Amaniti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Draed0n",
+  "corporation_id": 98795010,
+  "alliance_id": 99011281,
+  "corporation_name": "Naval Defence Boot Camp",
+  "alliance_name": "Naval Defence Institute"
+}

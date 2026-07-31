@@ -1,0 +1,52 @@
+{
+  "character_id": 2123705526,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2122193048,
+    "name": "Assie P",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98816276,
+    "alliance_id": null,
+    "corporation_name": "Nova VoidWorks",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122193048,
+      "name": "Assie P",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95252021,
+      "name": "Orin Oriki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1343819393,
+      "name": "Glazios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117264685,
+      "name": "Kayleen Blake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118368465,
+      "name": "Lightter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mead Max",
+  "corporation_id": 98813850,
+  "alliance_id": null,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": null
+}

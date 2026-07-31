@@ -1,0 +1,52 @@
+{
+  "character_id": 2112091050,
+  "total_losses": 19,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2112376050,
+    "name": "DeLacy Viper",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98809909,
+    "alliance_id": null,
+    "corporation_name": "Admiral Boris Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112376050,
+      "name": "DeLacy Viper",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96929601,
+      "name": "Funxy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112613857,
+      "name": "Fred Vokan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93244624,
+      "name": "GATS HALF",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 153368531,
+      "name": "Vevla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Admiral Boris",
+  "corporation_id": 98809909,
+  "alliance_id": null,
+  "corporation_name": "Admiral Boris Corporation",
+  "alliance_name": null
+}

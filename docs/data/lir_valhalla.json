@@ -1,0 +1,52 @@
+{
+  "character_id": 90679121,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 95586788,
+    "name": "Chang'e luna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95586788,
+      "name": "Chang'e luna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1258085820,
+      "name": "PuppyEater",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119715867,
+      "name": "Quiet Bear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93424037,
+      "name": "Lillith Saisore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96635214,
+      "name": "faster than fastest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lir Valhalla",
+  "corporation_id": 98797524,
+  "alliance_id": 99013920,
+  "corporation_name": "Vestal Keepers",
+  "alliance_name": "Embers of the Void"
+}

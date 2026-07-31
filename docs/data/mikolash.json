@@ -1,0 +1,40 @@
+{
+  "character_id": 2124104672,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114739715,
+    "name": "Tornado Solo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 2114739715,
+      "name": "Tornado Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116704234,
+      "name": "Elfacus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123365071,
+      "name": "F0x-Sly",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mikolash",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

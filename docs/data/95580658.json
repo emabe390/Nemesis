@@ -1,0 +1,52 @@
+{
+  "character_id": 95580658,
+  "total_losses": 16,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 95611812,
+    "name": "Ale Machine",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 453960416,
+      "name": "Parkuras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 705045700,
+      "name": "Kyte Tentales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 750993161,
+      "name": "DreamScythe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099648393,
+      "name": "Neomen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexei Machine",
+  "corporation_id": 98483565,
+  "alliance_id": null,
+  "corporation_name": "Tricky Situations",
+  "alliance_name": null
+}

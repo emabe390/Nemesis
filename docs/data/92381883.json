@@ -1,0 +1,40 @@
+{
+  "character_id": 92381883,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 400036390,
+    "name": "The Chairman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 400036390,
+      "name": "The Chairman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 560796582,
+      "name": "Atecake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116851891,
+      "name": "Muchchi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sergo Well",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

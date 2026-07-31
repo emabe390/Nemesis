@@ -1,0 +1,40 @@
+{
+  "character_id": 2122255658,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116863923,
+    "name": "Character 2116863923",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765090,
+    "alliance_id": 99003581,
+    "corporation_name": "Titan Legion",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116863923,
+      "name": "Character 2116863923",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 833581342,
+      "name": "Litwa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114865030,
+      "name": "Reus Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo Marchal",
+  "corporation_id": 98770637,
+  "alliance_id": 99010877,
+  "corporation_name": "UNITY S.A.R.L",
+  "alliance_name": "Out of the Blue."
+}

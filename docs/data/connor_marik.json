@@ -1,0 +1,52 @@
+{
+  "character_id": 2123553161,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121062076,
+    "name": "Prisoner's Chain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98187159,
+    "alliance_id": 99015054,
+    "corporation_name": "Screaming Hayabusa",
+    "alliance_name": "War of the Flea"
+  },
+  "top_killers": [
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90424845,
+      "name": "Swolocz Boloskarl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113709827,
+      "name": "Tank Shen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117085400,
+      "name": "Donwdo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Connor Marik",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2114820831,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95859136,
+    "name": "Jay Parvi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98704863,
+    "alliance_id": null,
+    "corporation_name": "Pinky and the Brain.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95859136,
+      "name": "Jay Parvi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95603709,
+      "name": "Ictali Zadekk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2114820831",
+  "corporation_id": 98792377,
+  "alliance_id": 99005866,
+  "corporation_name": "Gnomes Gone Bad",
+  "alliance_name": "Just let it happen"
+}

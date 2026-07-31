@@ -1,0 +1,40 @@
+{
+  "character_id": 2124236582,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 707059433,
+    "name": "Sara Agoss",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571715,
+    "alliance_id": 1900696668,
+    "corporation_name": "Xynodyne",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 707059433,
+      "name": "Sara Agoss",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 483700182,
+      "name": "Kimongr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Horus Hale",
+  "corporation_id": 98824507,
+  "alliance_id": 99013541,
+  "corporation_name": "Fuxi Military Academy",
+  "alliance_name": "Fraternity Auxiliary"
+}

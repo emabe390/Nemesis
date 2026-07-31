@@ -1,0 +1,40 @@
+{
+  "character_id": 1632263147,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92770227,
+    "name": "Girl Space",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000049,
+    "alliance_id": null,
+    "corporation_name": "Brutor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92770227,
+      "name": "Girl Space",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96816204,
+      "name": "Twin Pipe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121016479,
+      "name": "Peter-Deng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Larold",
+  "corporation_id": 98509456,
+  "alliance_id": null,
+  "corporation_name": "This is an anagram of itself.",
+  "alliance_name": null
+}

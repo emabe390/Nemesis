@@ -1,0 +1,52 @@
+{
+  "character_id": 2123647713,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 95430822,
+    "name": "Naz al-Ghul",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98498670,
+    "alliance_id": 99009845,
+    "corporation_name": "The Shire Hit Squad",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 95430822,
+      "name": "Naz al-Ghul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96098029,
+      "name": "Johnathan Kusion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114097675,
+      "name": "Josiah Kusion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120625192,
+      "name": "skill issue detected",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Snail Knight TT",
+  "corporation_id": 98817238,
+  "alliance_id": 99013541,
+  "corporation_name": "The Snail's Sanctum",
+  "alliance_name": "Fraternity Auxiliary"
+}

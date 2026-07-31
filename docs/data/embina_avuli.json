@@ -1,0 +1,52 @@
+{
+  "character_id": 2124380679,
+  "total_losses": 21,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120950121,
+    "name": "SwingFish",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98747703,
+    "alliance_id": 99013615,
+    "corporation_name": "Cosmic Sanitation Squad",
+    "alliance_name": "MlNER NEEDs"
+  },
+  "top_killers": [
+    {
+      "id": 2120950121,
+      "name": "SwingFish",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2124457697,
+      "name": "Janitor Jim",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2124444010,
+      "name": "depodepo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93371733,
+      "name": "Ch'lana Tivianne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94269768,
+      "name": "Maako Mori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Embina Avuli",
+  "corporation_id": 1000001,
+  "alliance_id": null,
+  "corporation_name": "Doomheim",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123160480,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91456328,
+    "name": "Ophelia Mayfair",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1756190249,
+    "alliance_id": 701459600,
+    "corporation_name": "Arcane Odyssey",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 91456328,
+      "name": "Ophelia Mayfair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 708919890,
+      "name": "Krais Kuschranada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1190226993,
+      "name": "Cpt JackSparow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118846185,
+      "name": "BackDoor Banddit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121911622,
+      "name": "Zeros Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ballast 07",
+  "corporation_id": 263585335,
+  "alliance_id": 498125261,
+  "corporation_name": "Black Omega Security",
+  "alliance_name": "Test Alliance Please Ignore"
+}

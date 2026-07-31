@@ -1,0 +1,52 @@
+{
+  "character_id": 2123636752,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 814852043,
+      "name": "ZelRox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121598301,
+      "name": "1yammm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1650162606,
+      "name": "Ruyiwei",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1829202916,
+      "name": "Jim Raynot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MinaSecreta",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

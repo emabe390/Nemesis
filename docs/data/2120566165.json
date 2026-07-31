@@ -1,0 +1,40 @@
+{
+  "character_id": 2120566165,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92664583,
+    "name": "Murdoch Luther",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 92664583,
+      "name": "Murdoch Luther",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94807009,
+      "name": "Anima Shy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 826019399,
+      "name": "Khromius",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CrunchyNut",
+  "corporation_id": 98693852,
+  "alliance_id": null,
+  "corporation_name": "Terminus.",
+  "alliance_name": null
+}

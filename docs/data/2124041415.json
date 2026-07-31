@@ -1,0 +1,40 @@
+{
+  "character_id": 2124041415,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96417025,
+    "name": "Jimmy Michaels",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 96417025,
+      "name": "Jimmy Michaels",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1778860998,
+      "name": "Kappa slappa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120312727,
+      "name": "Desticy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astra Vortex",
+  "corporation_id": 925198783,
+  "alliance_id": 99013941,
+  "corporation_name": "Regalis Industria Scientia Entreprendre",
+  "alliance_name": "James Webb Space Telescope"
+}

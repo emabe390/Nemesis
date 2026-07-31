@@ -1,0 +1,52 @@
+{
+  "character_id": 2123320734,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 867314656,
+    "name": "Darth Spongebob",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 867314656,
+      "name": "Darth Spongebob",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1648763621,
+      "name": "Bruce Kemp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122522710,
+      "name": "Smakk-L0op",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92368744,
+      "name": "Mihej Breau",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ikber Nand Alland",
+  "corporation_id": 98795384,
+  "alliance_id": 99014192,
+  "corporation_name": "Knights of Soliara",
+  "alliance_name": "Principality of Soliara"
+}

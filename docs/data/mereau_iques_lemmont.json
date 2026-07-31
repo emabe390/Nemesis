@@ -1,0 +1,40 @@
+{
+  "character_id": 2122880826,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 224561324,
+    "name": "leshinaar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98199279,
+    "alliance_id": 99004295,
+    "corporation_name": "Stay Frosty.",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 224561324,
+      "name": "leshinaar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 534559748,
+      "name": "Sakaras Lane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mereau Iques Lemmont",
+  "corporation_id": 98789962,
+  "alliance_id": null,
+  "corporation_name": "Jinetes del Norte",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124443242,
+  "total_losses": 61,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 2123795048,
+    "name": "HOKU1000",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98782470,
+    "alliance_id": null,
+    "corporation_name": "The Intrinsic Ones",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123795048,
+      "name": "HOKU1000",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94389588,
+      "name": "invisaWop",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94379528,
+      "name": "Timothy Baldur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Larp Guy",
+  "corporation_id": 98765453,
+  "alliance_id": 1900696668,
+  "corporation_name": "Walrus Mafia",
+  "alliance_name": "The Initiative."
+}

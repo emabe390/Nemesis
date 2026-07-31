@@ -1,0 +1,52 @@
+{
+  "character_id": 2123848700,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123468199,
+    "name": "GaoGu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769610,
+    "alliance_id": 1900696668,
+    "corporation_name": "Cosmic-Wanderers",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123468199,
+      "name": "GaoGu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123881021,
+      "name": "WCZ7",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95705325,
+      "name": "Character 95705325",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112567331,
+      "name": "Achirion Omaristos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113277777,
+      "name": "Mario mon-de-sound",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WCZ6",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

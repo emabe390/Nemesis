@@ -1,0 +1,40 @@
+{
+  "character_id": 2124176534,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94019721,
+    "name": "Black Anette",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98764498,
+    "alliance_id": 99013685,
+    "corporation_name": "Black Revenge.",
+    "alliance_name": "Just Revenge"
+  },
+  "top_killers": [
+    {
+      "id": 94019721,
+      "name": "Black Anette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119257766,
+      "name": "E SHOGUN",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119449883,
+      "name": "TaiBaiJinXIng",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124176534",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

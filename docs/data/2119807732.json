@@ -1,0 +1,40 @@
+{
+  "character_id": 2119807732,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95247720,
+    "name": "Raze Aideron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98451632,
+    "alliance_id": 99010281,
+    "corporation_name": "Contra Ratio",
+    "alliance_name": "GameTheory"
+  },
+  "top_killers": [
+    {
+      "id": 95247720,
+      "name": "Raze Aideron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115979358,
+      "name": "Red Wolf Rivia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122697464,
+      "name": "Black-And-White",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sage of Six-Paths",
+  "corporation_id": 98605852,
+  "alliance_id": 99005338,
+  "corporation_name": "Arctic Beans",
+  "alliance_name": "Pandemic Horde"
+}

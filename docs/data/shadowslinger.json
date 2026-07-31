@@ -1,0 +1,40 @@
+{
+  "character_id": 2124158329,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122915166,
+    "name": "Auron Askold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796779,
+    "alliance_id": null,
+    "corporation_name": "n0madix",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122915166,
+      "name": "Auron Askold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95074619,
+      "name": "Aduin en Tilavine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114713356,
+      "name": "Krystal Fahrun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadowslinger",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123079948,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95790823,
+      "name": "Thomas Nexas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jiminy Picket",
+  "corporation_id": 948463544,
+  "alliance_id": 99014991,
+  "corporation_name": "Cows Everywhere",
+  "alliance_name": "40 Minutes' Early"
+}

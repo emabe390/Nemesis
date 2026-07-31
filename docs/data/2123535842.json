@@ -1,0 +1,52 @@
+{
+  "character_id": 2123535842,
+  "total_losses": 16,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 498398568,
+    "name": "Koryitsu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98422578,
+    "alliance_id": 99010787,
+    "corporation_name": "Almost Dangerous",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 498398568,
+      "name": "Koryitsu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1542940128,
+      "name": "Lucian Veridan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123586584,
+      "name": "824 Anastasia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95835700,
+      "name": "Ein Skrue Laus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96885210,
+      "name": "Cucumber ares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carpe Testes",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

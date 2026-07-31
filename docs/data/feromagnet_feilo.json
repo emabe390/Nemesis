@@ -1,0 +1,52 @@
+{
+  "character_id": 2116694986,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 651112634,
+    "name": "Lugor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 651112634,
+      "name": "Lugor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93160471,
+      "name": "Mojovox Taron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93960284,
+      "name": "Lando Avada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94012337,
+      "name": "Scientio Pope",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Feromagnet Feilo",
+  "corporation_id": 98335809,
+  "alliance_id": 99003581,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Fraternity."
+}

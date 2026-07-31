@@ -1,0 +1,40 @@
+{
+  "character_id": 2113895785,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 792039887,
+    "name": "Zaunchik",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98442833,
+    "alliance_id": null,
+    "corporation_name": "JPL Citizenry",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 792039887,
+      "name": "Zaunchik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115637220,
+      "name": "Stykes Stormbringer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120833131,
+      "name": "Xadoy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enoch Chiang",
+  "corporation_id": 98812146,
+  "alliance_id": 1042504553,
+  "corporation_name": "Ming Dynasty Jinyiwei",
+  "alliance_name": "Solyaris Chtonium"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123254884,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 266826755,
+      "name": "Tiendiel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94254757,
+      "name": "Character 94254757",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95857694,
+      "name": "Kelvin Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 268668276,
+      "name": "Qurdis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ClassicRicharde",
+  "corporation_id": 98311406,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Exchange Collective",
+  "alliance_name": "Solyaris Chtonium"
+}

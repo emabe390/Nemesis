@@ -1,0 +1,52 @@
+{
+  "character_id": 2119441558,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2113791998,
+    "name": "Wolf Doukas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113791998,
+      "name": "Wolf Doukas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92818772,
+      "name": "Teldran Pandine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93425066,
+      "name": "Dilithium Tweaker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94358574,
+      "name": "Vanokc Alland",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Noideron",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

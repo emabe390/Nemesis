@@ -1,0 +1,40 @@
+{
+  "character_id": 2123513483,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117867047,
+    "name": "Ellassar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795415,
+    "alliance_id": null,
+    "corporation_name": "Reinforced Everyday",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117867047,
+      "name": "Ellassar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92256155,
+      "name": "Lee Blackwood",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95245667,
+      "name": "Lady Lewt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yamma Funtari",
+  "corporation_id": 98786083,
+  "alliance_id": 99014933,
+  "corporation_name": "Cosmic Nebula Cartel",
+  "alliance_name": "Expired Intelligence Booster"
+}

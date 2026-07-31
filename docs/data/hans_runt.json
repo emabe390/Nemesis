@@ -1,0 +1,40 @@
+{
+  "character_id": 2120820709,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95576466,
+    "name": "wisky wisky1120",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98165469,
+    "alliance_id": null,
+    "corporation_name": "Hammerwerke",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95576466,
+      "name": "wisky wisky1120",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95453623,
+      "name": "Skipp Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hans Runt",
+  "corporation_id": 98747628,
+  "alliance_id": 99013255,
+  "corporation_name": "House of the Shattered Sun",
+  "alliance_name": "Shattered Sun Confederation"
+}

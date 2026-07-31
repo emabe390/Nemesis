@@ -1,0 +1,52 @@
+{
+  "character_id": 2124109243,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1918956789,
+      "name": "I DRON",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1966654071,
+      "name": "Plarder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1088333998,
+      "name": "Fat Zero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "yuangshen",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

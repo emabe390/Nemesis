@@ -1,0 +1,52 @@
+{
+  "character_id": 2123095648,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 467531216,
+    "name": "Karimiri",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98088416,
+    "alliance_id": 99006750,
+    "corporation_name": "Bean-shidh",
+    "alliance_name": "The Nameless Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 467531216,
+      "name": "Karimiri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122430704,
+      "name": "Luojia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91395281,
+      "name": "Krops Vont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94740677,
+      "name": "Korvin Wowkar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95317783,
+      "name": "Soulgaze en Thielles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sleeper Scooper",
+  "corporation_id": 98794448,
+  "alliance_id": null,
+  "corporation_name": "Sleeper Salvage Syndicate",
+  "alliance_name": null
+}

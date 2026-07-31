@@ -1,0 +1,40 @@
+{
+  "character_id": 2113212519,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113039505,
+    "name": "Kr4sh 35",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98616922,
+    "alliance_id": 99003214,
+    "corporation_name": "Galactic Deep Space Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 2113039505,
+      "name": "Kr4sh 35",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115165242,
+      "name": "Usika Sara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118051707,
+      "name": "Vult Skerris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captain Culprit",
+  "corporation_id": 98558506,
+  "alliance_id": 99005338,
+  "corporation_name": "A Blessed Bean",
+  "alliance_name": "Pandemic Horde"
+}

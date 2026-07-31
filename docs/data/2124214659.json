@@ -1,0 +1,40 @@
+{
+  "character_id": 2124214659,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112757980,
+    "name": "Chooster Bobjeffman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813218,
+    "alliance_id": 99014523,
+    "corporation_name": "Lost and Unbound",
+    "alliance_name": "The Rejected."
+  },
+  "top_killers": [
+    {
+      "id": 2112757980,
+      "name": "Chooster Bobjeffman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120364820,
+      "name": "Koilomari Parmala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lion Miftaur",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

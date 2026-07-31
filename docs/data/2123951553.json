@@ -1,0 +1,40 @@
+{
+  "character_id": 2123951553,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92365923,
+    "name": "Visionaire Tiamat",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 92365923,
+      "name": "Visionaire Tiamat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 436078092,
+      "name": "inkswitch",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119428404,
+      "name": "shion zenos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mutomber",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

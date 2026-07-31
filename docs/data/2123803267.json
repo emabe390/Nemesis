@@ -1,0 +1,52 @@
+{
+  "character_id": 2123803267,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1450265635,
+    "name": "D J",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796214,
+    "alliance_id": 1683694957,
+    "corporation_name": "Tactical Raki",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113607739,
+      "name": "Marko Isidorovic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115736299,
+      "name": "Hekki Rinn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90448041,
+      "name": "Skanny Aylet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92561675,
+      "name": "Xanderfall Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Overtrek",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

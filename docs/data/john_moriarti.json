@@ -1,0 +1,52 @@
+{
+  "character_id": 2123893863,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 94443642,
+    "name": "Chronos Aion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603158,
+    "alliance_id": 99012611,
+    "corporation_name": "Kamikaze Inc..",
+    "alliance_name": "Black Rabbit."
+  },
+  "top_killers": [
+    {
+      "id": 94443642,
+      "name": "Chronos Aion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119365923,
+      "name": "Kewl Aid",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90248105,
+      "name": "Vantaanya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 675984515,
+      "name": "Ndbele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119065205,
+      "name": "DefiantMorph",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Moriarti",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

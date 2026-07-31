@@ -1,0 +1,52 @@
+{
+  "character_id": 2122871099,
+  "total_losses": 23,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 895203114,
+      "name": "Psyk",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 187568404,
+      "name": "Icarius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1836634574,
+      "name": "sherile",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Damoclis",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 94118999,
+  "total_losses": 19,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92572177,
+      "name": "Taylor Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95029230,
+      "name": "Tagara Draconus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96928223,
+      "name": "Eve Aldarvale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khaleesi Hekki",
+  "corporation_id": 98444440,
+  "alliance_id": 99015024,
+  "corporation_name": "Fly Sideways",
+  "alliance_name": "Low Class"
+}

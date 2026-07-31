@@ -1,0 +1,52 @@
+{
+  "character_id": 2121372878,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 145553063,
+    "name": "AllQ",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 145553063,
+      "name": "AllQ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 483700182,
+      "name": "Kimongr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113010838,
+      "name": "Character 2113010838",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117914809,
+      "name": "Another lost Alpha",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "bambelbi1",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

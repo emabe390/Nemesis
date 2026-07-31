@@ -1,0 +1,40 @@
+{
+  "character_id": 2123536184,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1451191398,
+    "name": "NEDM500",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98365547,
+    "alliance_id": 1691647675,
+    "corporation_name": "South of Heaven Ltd",
+    "alliance_name": "Ishuk-Raata Enforcement Directive"
+  },
+  "top_killers": [
+    {
+      "id": 1451191398,
+      "name": "NEDM500",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112480037,
+      "name": "Shiran Mazaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119977337,
+      "name": "Daraid Trilnos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gael Planitarius",
+  "corporation_id": 98795559,
+  "alliance_id": null,
+  "corporation_name": "5th Dragonaurs",
+  "alliance_name": null
+}

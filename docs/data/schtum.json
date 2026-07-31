@@ -1,0 +1,40 @@
+{
+  "character_id": 2123394961,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95261680,
+    "name": "Elsy Brenalle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 1900696668,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 95261680,
+      "name": "Elsy Brenalle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121626726,
+      "name": "Yohsi Amakh Boma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 525652225,
+      "name": "Lord Nosferatuz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Schtum",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

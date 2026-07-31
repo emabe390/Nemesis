@@ -1,0 +1,40 @@
+{
+  "character_id": 2123784894,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1526116574,
+    "name": "Devalo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98252708,
+    "alliance_id": 99012982,
+    "corporation_name": "Balls Deep Inc.",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 1526116574,
+      "name": "Devalo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 151092177,
+      "name": "Mr Mordan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117230722,
+      "name": "Mama Kukri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mushik Amauta DelaVega",
+  "corporation_id": 98525766,
+  "alliance_id": 99011223,
+  "corporation_name": "Vanguardia DR",
+  "alliance_name": "Sigma Grindset"
+}

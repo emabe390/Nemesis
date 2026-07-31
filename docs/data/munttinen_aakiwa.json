@@ -1,0 +1,40 @@
+{
+  "character_id": 2124024003,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 904484916,
+    "name": "Namdor",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98729952,
+    "alliance_id": null,
+    "corporation_name": "Laser Focused",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 904484916,
+      "name": "Namdor",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113703196,
+      "name": "Nude-Killer Beast-Mode",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Munttinen Aakiwa",
+  "corporation_id": 98754600,
+  "alliance_id": 99011119,
+  "corporation_name": "Zeta Reticuli Blackpill Alliance",
+  "alliance_name": "Absolute Glory"
+}

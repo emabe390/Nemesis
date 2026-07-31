@@ -1,0 +1,40 @@
+{
+  "character_id": 2123971492,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123936476,
+    "name": "Character 2123936476",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98583385,
+    "alliance_id": null,
+    "corporation_name": "Ingenting 1",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123936476,
+      "name": "Character 2123936476",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1776297047,
+      "name": "GrauW",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119579568,
+      "name": "Character 2119579568",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iltara Kisuni",
+  "corporation_id": 98583385,
+  "alliance_id": null,
+  "corporation_name": "Ingenting 1",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122282040,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121777251,
+    "name": "GichRevived",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 2121777251,
+      "name": "GichRevived",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118307392,
+      "name": "Unnamedtemplar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124324485,
+      "name": "Black Starling",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Homeless Space Hobo",
+  "corporation_id": 98455804,
+  "alliance_id": null,
+  "corporation_name": "The Crimson Tide.",
+  "alliance_name": null
+}

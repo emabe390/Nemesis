@@ -1,0 +1,52 @@
+{
+  "character_id": 2115681577,
+  "total_losses": 33,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91766581,
+      "name": "Chaya Lothloria",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94734339,
+      "name": "Drop Hard",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Othal Zust",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124159603,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112655868,
+      "name": "Duoli Yang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113100787,
+      "name": "Platinum Hunter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113191119,
+      "name": "Tony Pellion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lien Ku",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

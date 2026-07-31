@@ -1,0 +1,52 @@
+{
+  "character_id": 2123961447,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123147208,
+    "name": "Devorax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1101208023,
+    "alliance_id": null,
+    "corporation_name": "Black Skull Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123147208,
+      "name": "Devorax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96035541,
+      "name": "Buffalo72",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97121304,
+      "name": "Bruck Banner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2029780168,
+      "name": "Feson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113196490,
+      "name": "Norkk Senstrive",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nati Azaha Uanid",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

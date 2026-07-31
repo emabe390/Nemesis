@@ -1,0 +1,52 @@
+{
+  "character_id": 2123902179,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1222401549,
+    "name": "Skototounta",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1222401549,
+      "name": "Skototounta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115276122,
+      "name": "T'ral Vsengne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122785190,
+      "name": "Razor8lade",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Willow Shanto",
+  "corporation_id": 98815360,
+  "alliance_id": null,
+  "corporation_name": "Guerilla WH",
+  "alliance_name": null
+}

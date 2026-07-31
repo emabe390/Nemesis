@@ -1,0 +1,40 @@
+{
+  "character_id": 2114608437,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 904000908,
+    "name": "Tiberious Marz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000437,
+    "alliance_id": null,
+    "corporation_name": "Commando Guri",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 904000908,
+      "name": "Tiberious Marz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118925961,
+      "name": "Keitunen Vanina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120777564,
+      "name": "Inverted Yield Curve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gregor Bruch",
+  "corporation_id": 98642916,
+  "alliance_id": 1354830081,
+  "corporation_name": "Arenzberger Trading Consortium",
+  "alliance_name": "Goonswarm Federation"
+}

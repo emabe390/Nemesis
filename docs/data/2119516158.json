@@ -1,0 +1,52 @@
+{
+  "character_id": 2119516158,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1776297047,
+    "name": "GrauW",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715004,
+    "alliance_id": 99013113,
+    "corporation_name": "Blue Canary",
+    "alliance_name": "Watch This"
+  },
+  "top_killers": [
+    {
+      "id": 1776297047,
+      "name": "GrauW",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93500810,
+      "name": "James Pruitt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95260085,
+      "name": "Sammy Sprinkl3r",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ekko Prime",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

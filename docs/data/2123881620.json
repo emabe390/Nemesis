@@ -1,0 +1,52 @@
+{
+  "character_id": 2123881620,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 810739761,
+    "name": "Cizani",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1056867436,
+    "alliance_id": 99003581,
+    "corporation_name": "Super Villains",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 810739761,
+      "name": "Cizani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123646134,
+      "name": "Alaari Kautsuo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 730591597,
+      "name": "baldure gates",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1515560369,
+      "name": "Cheremsha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119111469,
+      "name": "Andrew Cumningham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dani Jazz",
+  "corporation_id": 98817264,
+  "alliance_id": null,
+  "corporation_name": "La Menorquina",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 900229898,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92361113,
+    "name": "vectra Ormand",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98183625,
+    "alliance_id": 1900696668,
+    "corporation_name": "420 Enterprises.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 92361113,
+      "name": "vectra Ormand",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1448532707,
+      "name": "Dakre",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 553943114,
+      "name": "Armorer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1828694890,
+      "name": "Batzu Newless",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Garroth",
+  "corporation_id": 1026162110,
+  "alliance_id": null,
+  "corporation_name": "Paladins Oath",
+  "alliance_name": null
+}

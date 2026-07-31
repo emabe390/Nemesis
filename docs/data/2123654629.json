@@ -1,0 +1,46 @@
+{
+  "character_id": 2123654629,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 614850435,
+    "name": "CPTwalsh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98513961,
+    "alliance_id": 99006805,
+    "corporation_name": "Pagids Legion",
+    "alliance_name": "Wormageddon"
+  },
+  "top_killers": [
+    {
+      "id": 614850435,
+      "name": "CPTwalsh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112099071,
+      "name": "Cassiano Fera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122880544,
+      "name": "Wulf Bowman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123492969,
+      "name": "Sinny Gearheart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charlie Buffett",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

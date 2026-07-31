@@ -1,0 +1,34 @@
+{
+  "character_id": 2119788517,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112293870,
+    "name": "Krombopulous Jaynara",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98750063,
+    "alliance_id": 99012428,
+    "corporation_name": "Abyssal Nanofibre Internal Structure",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 2112293870,
+      "name": "Krombopulous Jaynara",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2113063190,
+      "name": "BoneChilling Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Susie McAllister",
+  "corporation_id": 98490203,
+  "alliance_id": null,
+  "corporation_name": "Yashin ex Machina",
+  "alliance_name": null
+}

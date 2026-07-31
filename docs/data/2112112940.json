@@ -1,0 +1,52 @@
+{
+  "character_id": 2112112940,
+  "total_losses": 16,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123648806,
+    "name": "Empty System",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123648806,
+      "name": "Empty System",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113364884,
+      "name": "Bibby Sany",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96243757,
+      "name": "Abigail UA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116612115,
+      "name": "Tofu Hunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gal UA",
+  "corporation_id": 98754345,
+  "alliance_id": 99013045,
+  "corporation_name": "Kharakternyky",
+  "alliance_name": "UA Fleets Holding"
+}

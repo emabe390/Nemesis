@@ -1,0 +1,40 @@
+{
+  "character_id": 2123936430,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121366978,
+    "name": "Hillbilly-6000",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98080440,
+    "alliance_id": 99010569,
+    "corporation_name": "Big Willies PVP Madness",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 2121366978,
+      "name": "Hillbilly-6000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122348670,
+      "name": "Evelgene Rabos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122492708,
+      "name": "Extortion-Im-Not-Paying",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123936430",
+  "corporation_id": 345823295,
+  "alliance_id": null,
+  "corporation_name": "Feuer Schwerter",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2113138526,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1243900015,
+    "name": "NoTalent",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98702201,
+    "alliance_id": 99010421,
+    "corporation_name": "Corellian Heavy Industries",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 1243900015,
+      "name": "NoTalent",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92221306,
+      "name": "Verdis deMosays",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116243036,
+      "name": "iE Naari",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebasion Skinwalker",
+  "corporation_id": 98069136,
+  "alliance_id": 99014897,
+  "corporation_name": "Thor's Shovel",
+  "alliance_name": "Crimson Forge Vanguard"
+}

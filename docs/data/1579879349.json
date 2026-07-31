@@ -1,0 +1,52 @@
+{
+  "character_id": 1579879349,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92358854,
+    "name": "Flau Mure",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1104020786,
+    "alliance_id": 1900696668,
+    "corporation_name": "Sons of Zeus.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 92358854,
+      "name": "Flau Mure",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95231911,
+      "name": "Superdude Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 421809968,
+      "name": "Barknor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 850585570,
+      "name": "YouHaveNoChance",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112084400,
+      "name": "DoNotTarget Zander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Medieval Spawn",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

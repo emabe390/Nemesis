@@ -1,0 +1,40 @@
+{
+  "character_id": 2117568903,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 495107354,
+    "name": "Mattos Vali",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123192010,
+      "name": "Gnarly Gimli",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123628230,
+      "name": "Swoledemort",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vladmir Kulov",
+  "corporation_id": 98827715,
+  "alliance_id": null,
+  "corporation_name": "Ne hic quidem sumus",
+  "alliance_name": null
+}

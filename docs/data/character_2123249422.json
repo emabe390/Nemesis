@@ -1,0 +1,40 @@
+{
+  "character_id": 2123249422,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1095791129,
+    "name": "Dagwar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98422578,
+    "alliance_id": 99010787,
+    "corporation_name": "Almost Dangerous",
+    "alliance_name": "Wolves Amongst Strangers"
+  },
+  "top_killers": [
+    {
+      "id": 1095791129,
+      "name": "Dagwar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 528258379,
+      "name": "Vogels",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123249422",
+  "corporation_id": 98552432,
+  "alliance_id": null,
+  "corporation_name": "Hijos de la Luna",
+  "alliance_name": null
+}

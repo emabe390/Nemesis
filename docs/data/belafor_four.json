@@ -1,0 +1,40 @@
+{
+  "character_id": 2123111066,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96741414,
+    "name": "Sanja Uta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98232099,
+    "alliance_id": 99002584,
+    "corporation_name": "Nomads of Republic",
+    "alliance_name": "Smile 'n' Wave"
+  },
+  "top_killers": [
+    {
+      "id": 96741414,
+      "name": "Sanja Uta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2071899035,
+      "name": "Deimos24",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121986233,
+      "name": "Ramme Allas-Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Belafor Four",
+  "corporation_id": 98695005,
+  "alliance_id": 1354830081,
+  "corporation_name": "Splintered Dreams",
+  "alliance_name": "Goonswarm Federation"
+}

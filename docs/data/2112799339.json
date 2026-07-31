@@ -1,0 +1,52 @@
+{
+  "character_id": 2112799339,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 93024561,
+    "name": "Spaceman Ryan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 332235069,
+    "alliance_id": null,
+    "corporation_name": "The Arrow Project",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93024561,
+      "name": "Spaceman Ryan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92795470,
+      "name": "Plutus Astraeus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93054714,
+      "name": "Nolx Tsasan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 322843081,
+      "name": "Felicia Ha'thor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doing Somehacking",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121384251,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1743905848,
+    "name": "EF Delta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98723675,
+    "alliance_id": 99012544,
+    "corporation_name": "Endless-Fury",
+    "alliance_name": "Ahbazon-Prime"
+  },
+  "top_killers": [
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91054731,
+      "name": "Andrew Eriker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115068974,
+      "name": "Sigmond Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Khan Dor",
+  "corporation_id": 98801505,
+  "alliance_id": null,
+  "corporation_name": "Extinct Unicorn Protection Agency",
+  "alliance_name": null
+}

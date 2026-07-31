@@ -1,0 +1,40 @@
+{
+  "character_id": 2123294141,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92377960,
+    "name": "Mark Theosis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 92377960,
+      "name": "Mark Theosis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94283369,
+      "name": "beyond E",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120702206,
+      "name": "Victor Pehlivanov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sant'Ubaldo di Frumenzio",
+  "corporation_id": 98460339,
+  "alliance_id": null,
+  "corporation_name": "RedShift Industries Ltd.",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123762304,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117265106,
+    "name": "Racer2k5x",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98813284,
+    "alliance_id": 99009845,
+    "corporation_name": "Environmental Hazard.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2117265106,
+      "name": "Racer2k5x",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119096828,
+      "name": "Bearly Lepton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122926229,
+      "name": "Antena2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NightStomper",
+  "corporation_id": 98628063,
+  "alliance_id": 99012982,
+  "corporation_name": "Heavily Redacted",
+  "alliance_name": "OnlyFleets."
+}

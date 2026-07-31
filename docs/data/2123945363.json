@@ -1,0 +1,52 @@
+{
+  "character_id": 2123945363,
+  "total_losses": 48,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2123969789,
+    "name": "Fribbit",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98597090,
+    "alliance_id": null,
+    "corporation_name": "Beyond Knowledge Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123969789,
+      "name": "Fribbit",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123970163,
+      "name": "Barret Wallacer",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94050539,
+      "name": "jack henry williams",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95942939,
+      "name": "Hedgehog Mangeiri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Feynar",
+  "corporation_id": 98748599,
+  "alliance_id": 99012843,
+  "corporation_name": "Kenshin Industries.",
+  "alliance_name": "Kenshin Shogunate."
+}

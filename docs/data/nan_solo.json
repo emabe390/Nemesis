@@ -1,0 +1,40 @@
+{
+  "character_id": 2115650680,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115801592,
+    "name": "Dimitrius Dimitrius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98698983,
+    "alliance_id": 99012122,
+    "corporation_name": "Scan Stakan",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 2115801592,
+      "name": "Dimitrius Dimitrius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123628709,
+      "name": "Dankangle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 243455196,
+      "name": "DarkLander",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "nan Solo",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

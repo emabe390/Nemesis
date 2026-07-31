@@ -1,0 +1,40 @@
+{
+  "character_id": 2120036170,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113305888,
+    "name": "Character 2113305888",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120749267,
+      "name": "wdns",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123777169,
+      "name": "Poison Brew1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OrthrusNeedsBuffs",
+  "corporation_id": 98817310,
+  "alliance_id": 99009163,
+  "corporation_name": "Dusk dreadnought.",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120613288,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121932063,
+      "name": "DrugRunnerKev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91765953,
+      "name": "Reitaga Piloris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91810608,
+      "name": "Dalamus Malukker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Glenda Hilbert",
+  "corporation_id": 98802001,
+  "alliance_id": 99010995,
+  "corporation_name": "Empyrean Academy",
+  "alliance_name": "Empyrean Edict"
+}

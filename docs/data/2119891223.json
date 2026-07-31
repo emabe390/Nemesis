@@ -1,0 +1,52 @@
+{
+  "character_id": 2119891223,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91766581,
+      "name": "Chaya Lothloria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96901445,
+      "name": "Rozo Druprime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1388120057,
+      "name": "TheParadine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kewitch",
+  "corporation_id": 624410653,
+  "alliance_id": 1354830081,
+  "corporation_name": "Les chevaliers de l'ordre",
+  "alliance_name": "Goonswarm Federation"
+}

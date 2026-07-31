@@ -1,0 +1,52 @@
+{
+  "character_id": 2123756533,
+  "total_losses": 16,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123770963,
+    "name": "Banks Delivery",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123770963,
+      "name": "Banks Delivery",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 90952555,
+      "name": "Rhas Videll",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91364694,
+      "name": "Vladof Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96178790,
+      "name": "Innocent Blonde",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96407165,
+      "name": "Fate and Destiny",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eleonora Banks",
+  "corporation_id": 98513466,
+  "alliance_id": 99010089,
+  "corporation_name": "We Break Things",
+  "alliance_name": "Novus Ordo."
+}

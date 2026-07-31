@@ -1,0 +1,40 @@
+{
+  "character_id": 2123556691,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91142515,
+    "name": "Magnum Farce",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98566065,
+    "alliance_id": null,
+    "corporation_name": "Cameltoe Collective",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91142515,
+      "name": "Magnum Farce",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1808133051,
+      "name": "Mail Lite",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1997238068,
+      "name": "Fegnoidina",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Yartha Fenn",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121366819,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2112700380,
+    "name": "Kahla Rhal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2112700380,
+      "name": "Kahla Rhal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112258178,
+      "name": "Sigrun Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114290680,
+      "name": "Flooded",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114374586,
+      "name": "Nameless Insomniac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucas Edge10",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

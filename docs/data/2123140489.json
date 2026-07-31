@@ -1,0 +1,52 @@
+{
+  "character_id": 2123140489,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2124051002,
+    "name": "Amphipteru",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815087,
+    "alliance_id": 99014495,
+    "corporation_name": "Tenebris Initiative",
+    "alliance_name": "Umbrella Initiative Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2124051002,
+      "name": "Amphipteru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95200119,
+      "name": "Flynn Webb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95343596,
+      "name": "Annita Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1504819197,
+      "name": "Sergil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Weklas",
+  "corporation_id": 98632755,
+  "alliance_id": null,
+  "corporation_name": "QUANTUM-CORP",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124123603,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123289177,
+    "name": "Moha Han",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715093,
+    "alliance_id": 99003581,
+    "corporation_name": "Thunder Shield",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123289177,
+      "name": "Moha Han",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112810777,
+      "name": "Aenwyn Eistiras",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114205863,
+      "name": "Eneth Annages",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Poket sand",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

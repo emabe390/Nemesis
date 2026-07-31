@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321500,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1919170795,
+    "name": "amazing prox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815837,
+    "alliance_id": null,
+    "corporation_name": "M00NH3ADING T34M",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1919170795,
+      "name": "amazing prox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93729582,
+      "name": "Character 93729582",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94343750,
+      "name": "Capitaine Lazarus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95162458,
+      "name": "ZloyOi Mernher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 447255540,
+      "name": "Falina",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Diego Alt 2",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

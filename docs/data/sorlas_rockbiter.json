@@ -1,0 +1,40 @@
+{
+  "character_id": 2123944452,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119893001,
+    "name": "Bodadur Amori Metesur",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98671149,
+    "alliance_id": 99000285,
+    "corporation_name": "FeedingMachine",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 2119893001,
+      "name": "Bodadur Amori Metesur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122951524,
+      "name": "Yamask",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124166848,
+      "name": "Eris Faye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sorlas Rockbiter",
+  "corporation_id": 98820927,
+  "alliance_id": null,
+  "corporation_name": "Freestyle Indurialists Inc.",
+  "alliance_name": null
+}

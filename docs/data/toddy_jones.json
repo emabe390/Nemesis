@@ -1,0 +1,52 @@
+{
+  "character_id": 2123904700,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92784257,
+    "name": "Raddan Eldre'Thalas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98360452,
+    "alliance_id": 99011279,
+    "corporation_name": "Naval Defence Force",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92784257,
+      "name": "Raddan Eldre'Thalas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94529656,
+      "name": "Carolina Asques",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112674569,
+      "name": "Privetiki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114913344,
+      "name": "Apolla Osiris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120075765,
+      "name": "Ellizabeth Swan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toddy Jones",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

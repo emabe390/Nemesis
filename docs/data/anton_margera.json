@@ -1,0 +1,52 @@
+{
+  "character_id": 91489601,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91612554,
+    "name": "Marcus Antonius Creticus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98679831,
+    "alliance_id": null,
+    "corporation_name": "Old World of Eden",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91612554,
+      "name": "Marcus Antonius Creticus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96867764,
+      "name": "Txema Txemez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113553121,
+      "name": "Malinois Mali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116496247,
+      "name": "Berto Enaka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122632238,
+      "name": "Character 2122632238",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anton Margera",
+  "corporation_id": 98217119,
+  "alliance_id": 99014628,
+  "corporation_name": "SECURITY SQUAD",
+  "alliance_name": "Texas."
+}

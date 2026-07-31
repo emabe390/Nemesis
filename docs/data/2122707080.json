@@ -1,0 +1,52 @@
+{
+  "character_id": 2122707080,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 879564147,
+      "name": "JIm Hammer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112840481,
+      "name": "Apsconditum Imperium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119916209,
+      "name": "Don't Tackle Him",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120250143,
+      "name": "Don't Tackle Us",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Han Silo",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

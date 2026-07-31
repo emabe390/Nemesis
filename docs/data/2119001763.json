@@ -1,0 +1,52 @@
+{
+  "character_id": 2119001763,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 137827356,
+    "name": "Alterari Phoenix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98628563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Players vs. EVE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 137827356,
+      "name": "Alterari Phoenix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91105870,
+      "name": "Ted Unchar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1248301691,
+      "name": "Kami Sigma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "General Spall",
+  "corporation_id": 98599181,
+  "alliance_id": 99003581,
+  "corporation_name": "Attack On CALDARI",
+  "alliance_name": "Fraternity."
+}

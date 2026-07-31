@@ -1,0 +1,52 @@
+{
+  "character_id": 2123358040,
+  "total_losses": 45,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2123808645,
+    "name": "Myminlin",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98755298,
+    "alliance_id": 1727758877,
+    "corporation_name": "Fox of Resistance",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 2123808645,
+      "name": "Myminlin",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 95529963,
+      "name": "Nyxmiuson VerssusAll",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112987713,
+      "name": "Kohinata Yui",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122505863,
+      "name": "Mikiwa Kon Odunen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94809150,
+      "name": "Andres M Afanador",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Security Architect",
+  "corporation_id": 98732877,
+  "alliance_id": 1354830081,
+  "corporation_name": "Iron Whales",
+  "alliance_name": "Goonswarm Federation"
+}

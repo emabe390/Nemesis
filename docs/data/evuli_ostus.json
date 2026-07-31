@@ -1,0 +1,52 @@
+{
+  "character_id": 2122696293,
+  "total_losses": 107,
+  "unique_killers": 95,
+  "nemesis": {
+    "id": 2120536212,
+    "name": "Samhael",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98176563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rekium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120536212,
+      "name": "Samhael",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91232606,
+      "name": "deathtouch Bastanold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91294400,
+      "name": "Lua Mioukl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96344624,
+      "name": "Abraham Hark",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 814370720,
+      "name": "Phase Three",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Evuli Ostus",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

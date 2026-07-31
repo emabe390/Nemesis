@@ -1,0 +1,40 @@
+{
+  "character_id": 2114695819,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116301102,
+    "name": "Kimik Antollare",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98147922,
+    "alliance_id": null,
+    "corporation_name": "Minin Trading Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116301102,
+      "name": "Kimik Antollare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92623780,
+      "name": "Caria Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116602760,
+      "name": "Etta Tucker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FomKa Nomad",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

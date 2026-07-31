@@ -1,0 +1,52 @@
+{
+  "character_id": 2123863691,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 812049218,
+    "name": "Vladimir Norkoff",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 325241964,
+    "alliance_id": 99010569,
+    "corporation_name": "Income Redistribution Service",
+    "alliance_name": "Safety."
+  },
+  "top_killers": [
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 288131197,
+      "name": "hellyeaz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112082674,
+      "name": "Lektro Illuminate",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90631246,
+      "name": "Reggie Dunlopp",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 601575326,
+      "name": "Lyco Pandora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EveofMan",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124406020,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124074372,
+    "name": "Insurance-Fraud",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603515,
+    "alliance_id": 99012908,
+    "corporation_name": "Aureus Mataris",
+    "alliance_name": "Seker Academy"
+  },
+  "top_killers": [
+    {
+      "id": 2124074372,
+      "name": "Insurance-Fraud",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94970808,
+      "name": "Related K",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Svajunas Smolskas",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123586926,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 1062371101,
+    "name": "John Starseeker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98444962,
+    "alliance_id": null,
+    "corporation_name": "Gerechtigkeitsliga",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1062371101,
+      "name": "John Starseeker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118441094,
+      "name": "Oramara Momaki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94632939,
+      "name": "Tarkus Jedari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 540715330,
+      "name": "Demoria",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Phuraqson",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

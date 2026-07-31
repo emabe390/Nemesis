@@ -1,0 +1,52 @@
+{
+  "character_id": 2123804436,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121485654,
+    "name": "Shmootz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98480050,
+    "alliance_id": 1900696668,
+    "corporation_name": "Fancypants Inc",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2121485654,
+      "name": "Shmootz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121813165,
+      "name": "Fime Auffrie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124353587,
+      "name": "RelicY2",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90634036,
+      "name": "Daedalus Page",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91643183,
+      "name": "Richmoon Aubaris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yi Qian Li",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

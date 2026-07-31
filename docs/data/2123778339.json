@@ -1,0 +1,34 @@
+{
+  "character_id": 2123778339,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123389004,
+    "name": "Vi Tae",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98569774,
+    "alliance_id": 99011268,
+    "corporation_name": "Arkenstone Foundries Inc.",
+    "alliance_name": "Reeloaded."
+  },
+  "top_killers": [
+    {
+      "id": 2123389004,
+      "name": "Vi Tae",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121827787,
+      "name": "Hatenkhi Terona",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vi TaeII",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

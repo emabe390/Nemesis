@@ -1,0 +1,40 @@
+{
+  "character_id": 2112143781,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 490956277,
+    "name": "Major Theef",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 490956277,
+      "name": "Major Theef",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1278428022,
+      "name": "Highland Storm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123923518,
+      "name": "Senex Bellator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Culloden Highlander",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

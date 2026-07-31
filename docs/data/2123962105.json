@@ -1,0 +1,40 @@
+{
+  "character_id": 2123962105,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93982101,
+    "name": "unknowns unknown",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1010670598,
+    "alliance_id": null,
+    "corporation_name": "Fire Mandrill",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93982101,
+      "name": "unknowns unknown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94944885,
+      "name": "Daniel Sunkist Lennelluc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "feitianhou",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

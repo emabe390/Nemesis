@@ -1,0 +1,40 @@
+{
+  "character_id": 2118092112,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1771809185,
+    "name": "Darmarkus XI",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 1771809185,
+      "name": "Darmarkus XI",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115661792,
+      "name": "Mana Loutte",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122398193,
+      "name": "DoR FABS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sotana Attor",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

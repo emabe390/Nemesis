@@ -1,0 +1,40 @@
+{
+  "character_id": 90842131,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 673000985,
+    "name": "Cersei Xoy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98000682,
+    "alliance_id": 99009902,
+    "corporation_name": "Southern Cross Monopoly",
+    "alliance_name": "Flying Dangerous"
+  },
+  "top_killers": [
+    {
+      "id": 673000985,
+      "name": "Cersei Xoy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113601421,
+      "name": "Solace Reborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Moridin Calhaar",
+  "corporation_id": 98765306,
+  "alliance_id": 99012009,
+  "corporation_name": "Soltech Holdings",
+  "alliance_name": "Minmatar Fleet Associates"
+}

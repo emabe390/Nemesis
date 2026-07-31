@@ -1,0 +1,52 @@
+{
+  "character_id": 2123560842,
+  "total_losses": 238,
+  "unique_killers": 181,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118442932,
+      "name": "ElveSOfWinD",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121998608,
+      "name": "Snauso",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122925646,
+      "name": "Klae's Ashford",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Bjorn Sideburns",
+  "corporation_id": 98700281,
+  "alliance_id": 99010995,
+  "corporation_name": "Task Force 641",
+  "alliance_name": "Empyrean Edict"
+}

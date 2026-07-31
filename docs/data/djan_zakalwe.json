@@ -1,0 +1,40 @@
+{
+  "character_id": 2122025170,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121970137,
+    "name": "Dizziet Zakalwe",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2121970137,
+      "name": "Dizziet Zakalwe",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 695618232,
+      "name": "Shichi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 986433924,
+      "name": "Sonya Do",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Djan Zakalwe",
+  "corporation_id": 98652367,
+  "alliance_id": 99010193,
+  "corporation_name": "EVE University Hall of Residence",
+  "alliance_name": "Ivy League Alt Alliance"
+}

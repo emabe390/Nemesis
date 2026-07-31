@@ -1,0 +1,52 @@
+{
+  "character_id": 2124189064,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96063666,
+    "name": "Doe Startrus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98769211,
+    "alliance_id": 99011223,
+    "corporation_name": "Yamato Tech Solutions",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 96063666,
+      "name": "Doe Startrus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 996522735,
+      "name": "Takemori Suzuka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116058947,
+      "name": "Sueng Hun Lee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 994127115,
+      "name": "Dale Gen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115144523,
+      "name": "Ahmya Hina",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "EVE-GLT",
+  "corporation_id": 98826603,
+  "alliance_id": null,
+  "corporation_name": "Blood Raider Production and Construction Corps",
+  "alliance_name": null
+}

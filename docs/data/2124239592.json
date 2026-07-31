@@ -1,0 +1,40 @@
+{
+  "character_id": 2124239592,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 97263683,
+    "name": "Gadari four eyes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 97263683,
+      "name": "Gadari four eyes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94003370,
+      "name": "Loc'Na Morbiditti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116022229,
+      "name": "Eatmy Arrow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cash Leya",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

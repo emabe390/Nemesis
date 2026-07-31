@@ -1,0 +1,52 @@
+{
+  "character_id": 2112404742,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92706224,
+    "name": "Nicolai Federov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98008630,
+    "alliance_id": 1354830081,
+    "corporation_name": "Thunderwaffe",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92706224,
+      "name": "Nicolai Federov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1683212692,
+      "name": "Blaster Worm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112289452,
+      "name": "We Escelated",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 125292687,
+      "name": "Demondrew",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1588674118,
+      "name": "Harnost",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Biggs Pike",
+  "corporation_id": 1000060,
+  "alliance_id": null,
+  "corporation_name": "Native Freshfood",
+  "alliance_name": null
+}

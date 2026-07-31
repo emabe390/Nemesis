@@ -1,0 +1,52 @@
+{
+  "character_id": 2123302008,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 94074246,
+    "name": "Bluball",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 94074246,
+      "name": "Bluball",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1607707293,
+      "name": "Thoriem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117757055,
+      "name": "Syntax TwoFour",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118863548,
+      "name": "Reactor172",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 695618232,
+      "name": "Shichi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Galadriel Lothlor",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

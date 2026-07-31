@@ -1,0 +1,52 @@
+{
+  "character_id": 2123588379,
+  "total_losses": 25,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123675081,
+    "name": "Kini Isi Askiras",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123675081,
+      "name": "Kini Isi Askiras",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 96268682,
+      "name": "Bixtarqii",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 302248911,
+      "name": "Rakaz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orn Aldeland",
+  "corporation_id": 98824062,
+  "alliance_id": null,
+  "corporation_name": "Combine Harvesting Crew",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122036220,
+  "total_losses": 22,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2113117470,
+    "name": "Web Driver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119686566,
+      "name": "Pailon III",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123161970,
+      "name": "Philippe D'Avignone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92044649,
+      "name": "Nakito Kobara",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96071269,
+      "name": "Jacques Perl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lizeth Ochoa",
+  "corporation_id": 98575932,
+  "alliance_id": 1354830081,
+  "corporation_name": "Strategically Bad",
+  "alliance_name": "Goonswarm Federation"
+}

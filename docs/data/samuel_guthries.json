@@ -1,0 +1,40 @@
+{
+  "character_id": 2122491075,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90360702,
+    "name": "Ethien Green",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98343343,
+    "alliance_id": 99004567,
+    "corporation_name": "Anoikis Equilibrium",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 90360702,
+      "name": "Ethien Green",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96843678,
+      "name": "Tarkhan Warjan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114209292,
+      "name": "Aiko Danuja",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Samuel Guthries",
+  "corporation_id": 98776199,
+  "alliance_id": null,
+  "corporation_name": "Solakkree Industrial Conglomerate",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2118700620,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2116312739,
+    "name": "Zaer Dorgiers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818525,
+    "alliance_id": null,
+    "corporation_name": "Warp first",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116312739,
+      "name": "Zaer Dorgiers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 943201949,
+      "name": "Bob Morte",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mindless Mahoon",
+  "corporation_id": 98765453,
+  "alliance_id": 1900696668,
+  "corporation_name": "Walrus Mafia",
+  "alliance_name": "The Initiative."
+}

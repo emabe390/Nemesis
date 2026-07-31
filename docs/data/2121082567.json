@@ -1,0 +1,52 @@
+{
+  "character_id": 2121082567,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2114097675,
+    "name": "Josiah Kusion",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98502318,
+    "alliance_id": 1354830081,
+    "corporation_name": "KUSION SPECIAL TEAM",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2114097675,
+      "name": "Josiah Kusion",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95034355,
+      "name": "Jason Kusion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 717579844,
+      "name": "Dark Forest",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120251930,
+      "name": "William-Hugo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122003565,
+      "name": "Lieutenant Ackermann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sigurd Fatill",
+  "corporation_id": 1696098108,
+  "alliance_id": 1354830081,
+  "corporation_name": "Trust Doesn't Rust",
+  "alliance_name": "Goonswarm Federation"
+}

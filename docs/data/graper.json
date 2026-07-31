@@ -1,0 +1,40 @@
+{
+  "character_id": 2112275815,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116912155,
+    "name": "Cap'n Zulu",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98298938,
+    "alliance_id": 917526329,
+    "corporation_name": "Captain's Quarters",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2116912155,
+      "name": "Cap'n Zulu",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1928436443,
+      "name": "Shipasta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1754715146,
+      "name": "Tirax Vale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Graper",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

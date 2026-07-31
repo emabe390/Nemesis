@@ -1,0 +1,52 @@
+{
+  "character_id": 2120215294,
+  "total_losses": 13,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 91078475,
+    "name": "Adam Lees",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91078475,
+      "name": "Adam Lees",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92513021,
+      "name": "Helena Wild",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92549367,
+      "name": "Lando Egdald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93472626,
+      "name": "Cul Lix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95693813,
+      "name": "Mr McJam",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MAGMAwalker",
+  "corporation_id": 98633922,
+  "alliance_id": 99010468,
+  "corporation_name": "Guns-R-Us Toy Company",
+  "alliance_name": "Weapons Of Mass Production."
+}

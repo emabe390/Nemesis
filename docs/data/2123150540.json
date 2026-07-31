@@ -1,0 +1,52 @@
+{
+  "character_id": 2123150540,
+  "total_losses": 248,
+  "unique_killers": 201,
+  "nemesis": {
+    "id": 2123142753,
+    "name": "ViviCruor-1",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98798569,
+    "alliance_id": 99014087,
+    "corporation_name": "Blood-Soul Emporium",
+    "alliance_name": "ChuangShi Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123142753,
+      "name": "ViviCruor-1",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 90910894,
+      "name": "Span Matsutake",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 272405573,
+      "name": "Tukuarikan",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "ViviCruor-2",
+  "corporation_id": 98798569,
+  "alliance_id": 99014087,
+  "corporation_name": "Blood-Soul Emporium",
+  "alliance_name": "ChuangShi Federation"
+}

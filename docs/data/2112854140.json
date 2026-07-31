@@ -1,0 +1,52 @@
+{
+  "character_id": 2112854140,
+  "total_losses": 67,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 90542575,
+      "name": "James Aeder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91315200,
+      "name": "henhain zzz Davaham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92494464,
+      "name": "Petrochelidon Spilodera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93264733,
+      "name": "Vincemt' Night",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Funkyman",
+  "corporation_id": 98345858,
+  "alliance_id": 99004344,
+  "corporation_name": "Black Powder Ballistics",
+  "alliance_name": "Hole Control"
+}

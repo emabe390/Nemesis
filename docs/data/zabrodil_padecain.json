@@ -1,0 +1,40 @@
+{
+  "character_id": 2114962028,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93938773,
+    "name": "Zoidberg Fonulique",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 136013879,
+    "alliance_id": 99000906,
+    "corporation_name": "USSR Zero Detachment",
+    "alliance_name": "Peacemakers. Coalition"
+  },
+  "top_killers": [
+    {
+      "id": 93938773,
+      "name": "Zoidberg Fonulique",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96584048,
+      "name": "Sanadora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123964942,
+      "name": "Crystallite",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zabrodil Padecain",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

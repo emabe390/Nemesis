@@ -1,0 +1,52 @@
+{
+  "character_id": 2123190477,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121845015,
+    "name": "Khamatum",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98647659,
+    "alliance_id": 99011978,
+    "corporation_name": "Soltech Armada",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2121845015,
+      "name": "Khamatum",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92630339,
+      "name": "Gregory McMorrow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 137158743,
+      "name": "Hereric Miz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 782820249,
+      "name": "Phelan K'ell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116399087,
+      "name": "HailWind Bloodlines",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Attor Kento",
+  "corporation_id": 263585335,
+  "alliance_id": 498125261,
+  "corporation_name": "Black Omega Security",
+  "alliance_name": "Test Alliance Please Ignore"
+}

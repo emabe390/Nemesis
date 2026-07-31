@@ -1,0 +1,40 @@
+{
+  "character_id": 2122131221,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120549947,
+    "name": "Piiixaaar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2120549947,
+      "name": "Piiixaaar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96659809,
+      "name": "Khorius Irelius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117379242,
+      "name": "Aster Iris",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Mar Agaldari",
+  "corporation_id": 98758497,
+  "alliance_id": null,
+  "corporation_name": "Seeed Corp.",
+  "alliance_name": null
+}

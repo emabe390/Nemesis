@@ -1,0 +1,52 @@
+{
+  "character_id": 2115051763,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123235002,
+    "name": "HAL 7",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123235002,
+      "name": "HAL 7",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123844839,
+      "name": "Ihuka Steel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95001919,
+      "name": "GH0ST N1NJA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 856862736,
+      "name": "Se0Hor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bubbles McSoap",
+  "corporation_id": 98127387,
+  "alliance_id": 1354830081,
+  "corporation_name": "Echelon Research",
+  "alliance_name": "Goonswarm Federation"
+}

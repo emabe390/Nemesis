@@ -1,0 +1,52 @@
+{
+  "character_id": 2123891051,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1073102432,
+    "name": "PromisedOne",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1073102432,
+      "name": "PromisedOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 93265856,
+      "name": "Night Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 327627963,
+      "name": "shorttee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119027366,
+      "name": "Schadeck",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Corwin Torn",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

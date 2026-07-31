@@ -1,0 +1,52 @@
+{
+  "character_id": 2123789472,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 91194811,
+    "name": "Talker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2082062386,
+    "alliance_id": 99007629,
+    "corporation_name": "Watch your six",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 91194811,
+      "name": "Talker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 715108334,
+      "name": "Character 715108334",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1930649793,
+      "name": "Imperius Dictatio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93007417,
+      "name": "Tyrell Cadabra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96708791,
+      "name": "Jason Aiderona",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aleille Stetille",
+  "corporation_id": 98838661,
+  "alliance_id": null,
+  "corporation_name": "Escalation Express",
+  "alliance_name": null
+}

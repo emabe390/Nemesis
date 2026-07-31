@@ -1,0 +1,40 @@
+{
+  "character_id": 2124520085,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115157069,
+    "name": "Vas Polosatiy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98400319,
+    "alliance_id": 99011258,
+    "corporation_name": "Safety Set To Red",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 2115157069,
+      "name": "Vas Polosatiy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118758169,
+      "name": "Vennine Gina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123525807,
+      "name": "CapMino",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chevalier de Seingalt",
+  "corporation_id": 98822344,
+  "alliance_id": null,
+  "corporation_name": "Newbro Industries",
+  "alliance_name": null
+}

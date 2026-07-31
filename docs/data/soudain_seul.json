@@ -1,0 +1,52 @@
+{
+  "character_id": 2123766855,
+  "total_losses": 23,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123773918,
+    "name": "Character 2123773918",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98813682,
+    "alliance_id": null,
+    "corporation_name": "Suddenly Alone",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123773918,
+      "name": "Character 2123773918",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 93152190,
+      "name": "Jack Riviera",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92621545,
+      "name": "Eli Patrouette",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 929643379,
+      "name": "aRs30",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112345776,
+      "name": "Detoa Andrard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soudain Seul",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

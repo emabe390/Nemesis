@@ -1,0 +1,40 @@
+{
+  "character_id": 2119766849,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95570172,
+    "name": "Joy Home",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98820631,
+    "alliance_id": 1459096720,
+    "corporation_name": "High Command of Bad Decisions",
+    "alliance_name": "Brotherhood Of Silent Space"
+  },
+  "top_killers": [
+    {
+      "id": 95570172,
+      "name": "Joy Home",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119746533,
+      "name": "Galliana Skade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121921387,
+      "name": "Tikka Kabe Aivo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jeanette Vemane",
+  "corporation_id": 98807925,
+  "alliance_id": null,
+  "corporation_name": "Drill-And-Kill",
+  "alliance_name": null
+}

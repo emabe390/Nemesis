@@ -1,0 +1,40 @@
+{
+  "character_id": 2122402265,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95678706,
+    "name": "Anaxagoras Boloskarl",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826285,
+    "alliance_id": null,
+    "corporation_name": "Violent SoHo Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95678706,
+      "name": "Anaxagoras Boloskarl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117214857,
+      "name": "Ulkka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 820113254,
+      "name": "Xialis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jem Solomons",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

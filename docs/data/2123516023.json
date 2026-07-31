@@ -1,0 +1,52 @@
+{
+  "character_id": 2123516023,
+  "total_losses": 37,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90754911,
+      "name": "Shane Rockwell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92784257,
+      "name": "Raddan Eldre'Thalas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93132374,
+      "name": "jon toraboruta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tabez",
+  "corporation_id": 98243307,
+  "alliance_id": 99003214,
+  "corporation_name": "Virtus Crusade",
+  "alliance_name": "Brave Collective"
+}

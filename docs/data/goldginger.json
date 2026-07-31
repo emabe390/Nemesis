@@ -1,0 +1,40 @@
+{
+  "character_id": 2123039698,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1903311659,
+    "name": "shwing shwing",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98659412,
+    "alliance_id": 1354830081,
+    "corporation_name": "Close Encounters of the EVE Kind",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1903311659,
+      "name": "shwing shwing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121395911,
+      "name": "cybergranny",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GoldGinger",
+  "corporation_id": 98620289,
+  "alliance_id": 99010444,
+  "corporation_name": "Ascendance Rising",
+  "alliance_name": "Ascendance.."
+}

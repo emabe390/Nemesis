@@ -1,0 +1,46 @@
+{
+  "character_id": 2123505775,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96843280,
+    "name": "energized maniac",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98701076,
+    "alliance_id": null,
+    "corporation_name": "Holey Holdings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96843280,
+      "name": "energized maniac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97182923,
+      "name": "Flono Krankos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nomad Gearheart",
+  "corporation_id": 98749303,
+  "alliance_id": 99012572,
+  "corporation_name": "Savagerie",
+  "alliance_name": "Wildlife"
+}

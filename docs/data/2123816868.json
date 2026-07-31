@@ -1,0 +1,40 @@
+{
+  "character_id": 2123816868,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 705750642,
+    "name": "Sad Doom",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813951,
+    "alliance_id": 99011258,
+    "corporation_name": "Tactical Nuke Inc.",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 705750642,
+      "name": "Sad Doom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1876418473,
+      "name": "AdiDasler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116016992,
+      "name": "Cosmic DJ Lee109",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valirs",
+  "corporation_id": 98504259,
+  "alliance_id": 99005709,
+  "corporation_name": "Power Of Gods",
+  "alliance_name": "Wild Souls"
+}

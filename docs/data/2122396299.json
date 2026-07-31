@@ -1,0 +1,46 @@
+{
+  "character_id": 2122396299,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 97033227,
+    "name": "Penny",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98710471,
+    "alliance_id": null,
+    "corporation_name": "Pancake Butte Badlands Reserve",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 97033227,
+      "name": "Penny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114681825,
+      "name": "Duke Piecaulker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117657970,
+      "name": "vector-B",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alpedere Chelien",
+  "corporation_id": 98768841,
+  "alliance_id": 99013270,
+  "corporation_name": "Boy Scouts",
+  "alliance_name": "Scouts Alliance"
+}

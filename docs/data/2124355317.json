@@ -1,0 +1,46 @@
+{
+  "character_id": 2124355317,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 135335821,
+    "name": "Sopris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 135335821,
+      "name": "Sopris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1862165216,
+      "name": "Deadly Bruho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118552048,
+      "name": "Neon Cathedral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rheliq",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

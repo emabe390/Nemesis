@@ -1,0 +1,40 @@
+{
+  "character_id": 2124402670,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95096356,
+    "name": "Yolo Lono",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98586883,
+    "alliance_id": 99003581,
+    "corporation_name": "Xa'sar",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 95096356,
+      "name": "Yolo Lono",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 858688568,
+      "name": "Robiak Nupier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1181492764,
+      "name": "SgtSlacker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Torn Power",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

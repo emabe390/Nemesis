@@ -1,0 +1,52 @@
+{
+  "character_id": 2120100811,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2117504100,
+    "name": "William Friedman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98719882,
+    "alliance_id": null,
+    "corporation_name": "Saint Michael's Army",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121465250,
+      "name": "Pinuse Stetille",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90818946,
+      "name": "Ivy Kim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112386437,
+      "name": "Richard Bronze",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117649886,
+      "name": "Remy LeBeau Gambit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liumang Chang",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

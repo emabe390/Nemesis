@@ -1,0 +1,34 @@
+{
+  "character_id": 2123711700,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92133092,
+    "name": "Hakkar Naskingum",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98647659,
+    "alliance_id": 99011978,
+    "corporation_name": "Soltech Armada",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 92133092,
+      "name": "Hakkar Naskingum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113266225,
+      "name": "Ranxerox",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Max Coppers",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

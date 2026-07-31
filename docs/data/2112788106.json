@@ -1,0 +1,40 @@
+{
+  "character_id": 2112788106,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112636880,
+    "name": "Sarah Willstedt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 988131312,
+    "alliance_id": 1900696668,
+    "corporation_name": "Project Stealth Squad",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112636880,
+      "name": "Sarah Willstedt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93234697,
+      "name": "ChinDownEyesUp Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112788106,
+      "name": "El Amara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "El Amara",
+  "corporation_id": 98822344,
+  "alliance_id": null,
+  "corporation_name": "Newbro Industries",
+  "alliance_name": null
+}

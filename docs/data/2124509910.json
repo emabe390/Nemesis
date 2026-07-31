@@ -1,0 +1,34 @@
+{
+  "character_id": 2124509910,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 915345078,
+    "name": "BLIP123",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 915345078,
+      "name": "BLIP123",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NotBaitYo",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

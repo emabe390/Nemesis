@@ -1,0 +1,52 @@
+{
+  "character_id": 2123737255,
+  "total_losses": 62,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 1580441105,
+    "name": "SevD",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98737921,
+    "alliance_id": null,
+    "corporation_name": "WE ARE ZERGLINGS",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1580441105,
+      "name": "SevD",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91251672,
+      "name": "Tristan daCuhna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91808938,
+      "name": "Imnu First",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95727518,
+      "name": "Glenn Martin Hughes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95967645,
+      "name": "Kankuro",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Dark Chorus",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121062537,
+  "total_losses": 15,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90566318,
+      "name": "Avirik Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92652493,
+      "name": "peerter Khamsi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93690884,
+      "name": "Arktur Stark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96265805,
+      "name": "Mia Wo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Madtype",
+  "corporation_id": 98718250,
+  "alliance_id": 99011508,
+  "corporation_name": "B.L.A.C.K F.O.X",
+  "alliance_name": "Verged"
+}

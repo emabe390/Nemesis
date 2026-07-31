@@ -1,0 +1,34 @@
+{
+  "character_id": 2121404965,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120686466,
+    "name": "Atlan da Gonozol",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820496,
+    "alliance_id": 99012975,
+    "corporation_name": "Club of independent Deimos Owners",
+    "alliance_name": "Hull Tanking Therapy"
+  },
+  "top_killers": [
+    {
+      "id": 2120686466,
+      "name": "Atlan da Gonozol",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vybz Collie Buddz",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

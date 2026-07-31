@@ -1,0 +1,52 @@
+{
+  "character_id": 890010347,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 1907645642,
+    "name": "Character 1907645642",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 148763686,
+    "alliance_id": 1727758877,
+    "corporation_name": "Liga Freier Terraner",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 1907645642,
+      "name": "Character 1907645642",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115482062,
+      "name": "Character 2115482062",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117825129,
+      "name": "Mecha Omnissiah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122050606,
+      "name": "Rechine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123429601,
+      "name": "TackleMan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Midnight's Wishper",
+  "corporation_id": 98361497,
+  "alliance_id": 1354830081,
+  "corporation_name": "True Faces Hungary",
+  "alliance_name": "Goonswarm Federation"
+}

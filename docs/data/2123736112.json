@@ -1,0 +1,52 @@
+{
+  "character_id": 2123736112,
+  "total_losses": 33,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 626390574,
+    "name": "Mareus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98814595,
+    "alliance_id": 498125261,
+    "corporation_name": "Akaishi Knowledge Syndicate",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121530547,
+      "name": "Lalka Caller",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90583188,
+      "name": "Mac Ruder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93951672,
+      "name": "Jarek Raholan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97152789,
+      "name": "Hero Nobunaga",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jirenna",
+  "corporation_id": 144534752,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mercurialis Inc.",
+  "alliance_name": "Goonswarm Federation"
+}

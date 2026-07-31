@@ -1,0 +1,40 @@
+{
+  "character_id": 2123814990,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1774584613,
+    "name": "Trueside Winder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 1774584613,
+      "name": "Trueside Winder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92883235,
+      "name": "Mister Ducky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123465248,
+      "name": "RanKoh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DrMuchRespect",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

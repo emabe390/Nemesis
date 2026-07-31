@@ -1,0 +1,40 @@
+{
+  "character_id": 2123531737,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115032620,
+    "name": "Sayuri Iida",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98684884,
+    "alliance_id": 99005830,
+    "corporation_name": "Kaimono Sitai",
+    "alliance_name": "Memento Moriendo"
+  },
+  "top_killers": [
+    {
+      "id": 2115032620,
+      "name": "Sayuri Iida",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122178110,
+      "name": "Vimereau Serine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122252155,
+      "name": "shikongsa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mollis Tar",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123914879,
+  "total_losses": 20,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123666930,
+    "name": "NoSpoonThereIs",
+    "kill_count": 18,
+    "final_blows": 18,
+    "corporation_id": 98427793,
+    "alliance_id": null,
+    "corporation_name": "MongStars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123666930,
+      "name": "NoSpoonThereIs",
+      "kill_count": 18,
+      "final_blows": 18
+    },
+    {
+      "id": 2122288637,
+      "name": "Landon Leo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123914867,
+      "name": "Nibnub",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "nibnab",
+  "corporation_id": 98427793,
+  "alliance_id": null,
+  "corporation_name": "MongStars",
+  "alliance_name": null
+}

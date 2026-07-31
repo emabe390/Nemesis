@@ -1,0 +1,40 @@
+{
+  "character_id": 2123905726,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116020046,
+    "name": "Forest Mayaki",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98727539,
+    "alliance_id": null,
+    "corporation_name": "Lonetrek Hardware And Logistics",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116020046,
+      "name": "Forest Mayaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116662910,
+      "name": "Bigbob Boloskarl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123717961,
+      "name": "Duskhound",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adam Sher",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

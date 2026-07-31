@@ -1,0 +1,46 @@
+{
+  "character_id": 339370300,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2116216266,
+      "name": "Dagon Madeveda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123195381,
+      "name": "Merry the Merciless",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123664617,
+      "name": "Matilda Murderface",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "iceveins",
+  "corporation_id": 98813943,
+  "alliance_id": 99013251,
+  "corporation_name": "Nordic Belters",
+  "alliance_name": "Circle of Vheroka"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124256639,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92326895,
+    "name": "Boris Penta",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98470839,
+    "alliance_id": null,
+    "corporation_name": "Hearts of the Void",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92326895,
+      "name": "Boris Penta",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113480740,
+      "name": "Tane Osamu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90632029,
+      "name": "Ignitius Charante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91669601,
+      "name": "Alatheus Sulla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93433429,
+      "name": "Markus Zurvanev",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124256639",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

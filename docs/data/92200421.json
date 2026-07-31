@@ -1,0 +1,34 @@
+{
+  "character_id": 92200421,
+  "total_losses": 6,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 795535595,
+    "name": "Uncle Harv",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 795535595,
+      "name": "Uncle Harv",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121662456,
+      "name": "Haiden Einay",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Meister Dommes",
+  "corporation_id": 98663870,
+  "alliance_id": 99010431,
+  "corporation_name": "Ohnivak of Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

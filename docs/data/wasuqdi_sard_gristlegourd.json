@@ -1,0 +1,40 @@
+{
+  "character_id": 96805000,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 795994401,
+    "name": "Gravaton Cleric",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98808934,
+    "alliance_id": null,
+    "corporation_name": "Project Schopenhauer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 795994401,
+      "name": "Gravaton Cleric",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113808966,
+      "name": "Lty",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120965530,
+      "name": "NobAdy Akekki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wasuqdi Sard Gristlegourd",
+  "corporation_id": 98762385,
+  "alliance_id": 99012009,
+  "corporation_name": "Black Crucible Foundry",
+  "alliance_name": "Minmatar Fleet Associates"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 1050125484,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94885982,
+    "name": "scott magna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800166,
+    "alliance_id": 99011279,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 94885982,
+      "name": "scott magna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90175510,
+      "name": "Discruntled Employee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97036844,
+      "name": "Magalaus Shardani",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 826711106,
+      "name": "Nusak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaitire",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

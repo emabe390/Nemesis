@@ -1,0 +1,52 @@
+{
+  "character_id": 93123351,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2116263612,
+    "name": "CA I",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116263612,
+      "name": "CA I",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117533559,
+      "name": "Hegio Opis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122003565,
+      "name": "Lieutenant Ackermann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94046673,
+      "name": "RomeoMD Arody",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 511581119,
+      "name": "SVIKM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ashka Cera",
+  "corporation_id": 98454925,
+  "alliance_id": 1354830081,
+  "corporation_name": "Blackwater Task Forces",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121767744,
+  "total_losses": 30,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 1907645642,
+    "name": "Character 1907645642",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 148763686,
+    "alliance_id": 1727758877,
+    "corporation_name": "Liga Freier Terraner",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 1907645642,
+      "name": "Character 1907645642",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92059194,
+      "name": "Waffles McSpanky",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94189037,
+      "name": "Kreez Haklar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94314134,
+      "name": "Carrie Mehrbrust",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Volkon",
+  "corporation_id": 1696098108,
+  "alliance_id": 1354830081,
+  "corporation_name": "Trust Doesn't Rust",
+  "alliance_name": "Goonswarm Federation"
+}

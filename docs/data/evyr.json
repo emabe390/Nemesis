@@ -1,0 +1,40 @@
+{
+  "character_id": 2121881572,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122981522,
+      "name": "Jukenairos Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114190616,
+      "name": "Joe Caldarian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Evyr",
+  "corporation_id": 98813397,
+  "alliance_id": 99011206,
+  "corporation_name": "Evyr Industries",
+  "alliance_name": "APOC Fleet Auxiliary"
+}

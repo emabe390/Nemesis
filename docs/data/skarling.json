@@ -1,0 +1,34 @@
+{
+  "character_id": 2124205697,
+  "total_losses": 7,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124201650,
+    "name": "Umek2",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124201650,
+      "name": "Umek2",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95586788,
+      "name": "Chang'e luna",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Skarling",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123954554,
+  "total_losses": 30,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 2120656059,
+    "name": "Gladius Humanitatis",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98752916,
+    "alliance_id": 99007252,
+    "corporation_name": "The Most Kind Corporation",
+    "alliance_name": "The Ancients."
+  },
+  "top_killers": [
+    {
+      "id": 2120656059,
+      "name": "Gladius Humanitatis",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 495107354,
+      "name": "Mattos Vali",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 974337790,
+      "name": "Yskari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91368437,
+      "name": "Fenrir Hammer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94379528,
+      "name": "Timothy Baldur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TCSMRAT2",
+  "corporation_id": 98694557,
+  "alliance_id": 99003581,
+  "corporation_name": "KheshigFleet",
+  "alliance_name": "Fraternity."
+}

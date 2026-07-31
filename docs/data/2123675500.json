@@ -1,0 +1,52 @@
+{
+  "character_id": 2123675500,
+  "total_losses": 43,
+  "unique_killers": 27,
+  "nemesis": {
+    "id": 2115668403,
+    "name": "Frik Apol",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98032504,
+    "alliance_id": 99004804,
+    "corporation_name": "Sequent Industry",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 2115668403,
+      "name": "Frik Apol",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123688003,
+      "name": "Kansami Ako",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90737395,
+      "name": "Feth Dethahal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94855503,
+      "name": "Falling Lief",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96866412,
+      "name": "Rosmore Eldgernon",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Explorer0",
+  "corporation_id": 98506105,
+  "alliance_id": 99005178,
+  "corporation_name": "HAMMER of TITAN",
+  "alliance_name": "Domain Research and Mining Inst."
+}

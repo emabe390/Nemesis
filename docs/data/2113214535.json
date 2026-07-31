@@ -1,0 +1,52 @@
+{
+  "character_id": 2113214535,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116140923,
+      "name": "NoTvs0nLyKs sinan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 289374601,
+      "name": "Den'orm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113214535,
+      "name": "Cyril Mir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123820455,
+      "name": "Ariastra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cyril Mir",
+  "corporation_id": 98591966,
+  "alliance_id": 99011546,
+  "corporation_name": "The Abyss Watchers",
+  "alliance_name": "The Charter"
+}

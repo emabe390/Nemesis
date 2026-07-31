@@ -1,0 +1,46 @@
+{
+  "character_id": 903261036,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 973576579,
+    "name": "Genning",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92531540,
+      "name": "prison riot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118580383,
+      "name": "Bigwhirlwind",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122965294,
+      "name": "Bassa Hashur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "max ericshaun",
+  "corporation_id": 1696098108,
+  "alliance_id": 1354830081,
+  "corporation_name": "Trust Doesn't Rust",
+  "alliance_name": "Goonswarm Federation"
+}

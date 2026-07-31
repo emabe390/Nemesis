@@ -1,0 +1,40 @@
+{
+  "character_id": 2118996152,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1058904581,
+    "name": "Character 1058904581",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98542317,
+    "alliance_id": 99009845,
+    "corporation_name": "Space Nerd Ninjas",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 1058904581,
+      "name": "Character 1058904581",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117310861,
+      "name": "Aria Stardancer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nuttinerbutt",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

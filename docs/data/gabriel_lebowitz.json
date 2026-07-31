@@ -1,0 +1,40 @@
+{
+  "character_id": 2114160852,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93147441,
+    "name": "Kibitt Kallinikov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 93147441,
+      "name": "Kibitt Kallinikov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 736987754,
+      "name": "Shonigu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119512062,
+      "name": "Cassilda Chambers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gabriel Lebowitz",
+  "corporation_id": 98837918,
+  "alliance_id": null,
+  "corporation_name": "LobStar Corp.",
+  "alliance_name": null
+}

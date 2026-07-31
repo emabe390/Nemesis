@@ -1,0 +1,52 @@
+{
+  "character_id": 2116897255,
+  "total_losses": 61,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 1273901763,
+    "name": "Character 1273901763",
+    "kill_count": 7,
+    "final_blows": 5,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1273901763,
+      "name": "Character 1273901763",
+      "kill_count": 7,
+      "final_blows": 5
+    },
+    {
+      "id": 2115521023,
+      "name": "Kyoto Akiga",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91662546,
+      "name": "Zip Slings",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 198028002,
+      "name": "RedMage",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vale Boloskarl",
+  "corporation_id": 2014367342,
+  "alliance_id": 99009927,
+  "corporation_name": "Blackwater USA Inc.",
+  "alliance_name": "Deepwater Hooligans"
+}

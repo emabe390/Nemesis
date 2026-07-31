@@ -1,0 +1,40 @@
+{
+  "character_id": 2122585504,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117360911,
+      "name": "Kublai Genghis Khan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121813442,
+      "name": "S1rpentis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Equillar",
+  "corporation_id": 98533018,
+  "alliance_id": null,
+  "corporation_name": "Unown.",
+  "alliance_name": null
+}

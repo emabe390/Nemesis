@@ -1,0 +1,52 @@
+{
+  "character_id": 2121773321,
+  "total_losses": 21,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91916234,
+    "name": "gassman 117",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 539000123,
+    "alliance_id": 99011279,
+    "corporation_name": "EndlessRain",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91916234,
+      "name": "gassman 117",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 92644885,
+      "name": "Semper Liberi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93126185,
+      "name": "Kthulhu Hertz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2079911283,
+      "name": "Serenity's Throne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113241012,
+      "name": "Katt Charante",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2121773321",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

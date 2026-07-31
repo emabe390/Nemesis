@@ -1,0 +1,52 @@
+{
+  "character_id": 2123636361,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2113975464,
+    "name": "Character 2113975464",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98781640,
+    "alliance_id": null,
+    "corporation_name": "Stainless Steel Cats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113975464,
+      "name": "Character 2113975464",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1052797048,
+      "name": "Tobiazo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112564473,
+      "name": "PriZrak23",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117662224,
+      "name": "Levanger",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117852261,
+      "name": "Tyranica",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ExoHephaistos",
+  "corporation_id": 98839573,
+  "alliance_id": null,
+  "corporation_name": "ExoHephaistos Corporation",
+  "alliance_name": null
+}

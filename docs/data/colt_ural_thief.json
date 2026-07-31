@@ -1,0 +1,40 @@
+{
+  "character_id": 2122222968,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92044786,
+    "name": "Murgs Nakti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98621258,
+    "alliance_id": null,
+    "corporation_name": "Nemesis Union 666",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92044786,
+      "name": "Murgs Nakti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 726712472,
+      "name": "Renius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114591739,
+      "name": "Walpha Abhor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Colt Ural Thief",
+  "corporation_id": 98768841,
+  "alliance_id": 99013270,
+  "corporation_name": "Boy Scouts",
+  "alliance_name": "Scouts Alliance"
+}

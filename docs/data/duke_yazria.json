@@ -1,0 +1,40 @@
+{
+  "character_id": 2114702888,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 348968070,
+    "name": "Glyndi",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1262577328,
+    "alliance_id": 99006975,
+    "corporation_name": "Doom Generation",
+    "alliance_name": "Best Intentions."
+  },
+  "top_killers": [
+    {
+      "id": 348968070,
+      "name": "Glyndi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1280553220,
+      "name": "Spanneritis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114700425,
+      "name": "Riven Thorris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Duke Yazria",
+  "corporation_id": 98666181,
+  "alliance_id": null,
+  "corporation_name": "Nevermore.",
+  "alliance_name": null
+}

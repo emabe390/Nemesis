@@ -1,0 +1,40 @@
+{
+  "character_id": 2123795402,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 559195010,
+    "name": "Erin Frie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771388,
+    "alliance_id": 555959926,
+    "corporation_name": "Tactical Grace.",
+    "alliance_name": "Vanguard."
+  },
+  "top_killers": [
+    {
+      "id": 559195010,
+      "name": "Erin Frie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115372997,
+      "name": "Deil Organa Organa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112254232,
+      "name": "Silvio Manfordante",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Merlilia Organa",
+  "corporation_id": 98660791,
+  "alliance_id": 99010877,
+  "corporation_name": "Inner Legacy",
+  "alliance_name": "Out of the Blue."
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124327020,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122351384,
+    "name": "Ernaras Yaken",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98795384,
+    "alliance_id": 99014192,
+    "corporation_name": "Knights of Soliara",
+    "alliance_name": "Principality of Soliara"
+  },
+  "top_killers": [
+    {
+      "id": 2122351384,
+      "name": "Ernaras Yaken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114606780,
+      "name": "Wild Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117556072,
+      "name": "DragonK468",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Malfecto Vickers",
+  "corporation_id": 98811680,
+  "alliance_id": null,
+  "corporation_name": "Geras Workshop",
+  "alliance_name": null
+}

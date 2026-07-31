@@ -1,0 +1,40 @@
+{
+  "character_id": 2123595822,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1912392939,
+    "name": "Character 1912392939",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 1912392939,
+      "name": "Character 1912392939",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115476943,
+      "name": "T zhong",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hans Jackal",
+  "corporation_id": 98657999,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rage Confederacy",
+  "alliance_name": "Goonswarm Federation"
+}

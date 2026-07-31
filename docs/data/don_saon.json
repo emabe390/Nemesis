@@ -1,0 +1,46 @@
+{
+  "character_id": 2122825025,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123863523,
+    "name": "Mikle Soros",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833945,
+    "alliance_id": null,
+    "corporation_name": "Plate of Rice",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123863523,
+      "name": "Mikle Soros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91163213,
+      "name": "Ikko Ikki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94255955,
+      "name": "Bjorn Broadside",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95484778,
+      "name": "Dravos Mabebu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Don Saon",
+  "corporation_id": 98757703,
+  "alliance_id": 99012042,
+  "corporation_name": "Flash of darkness",
+  "alliance_name": "Fanatic Legion."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123771080,
+  "total_losses": 34,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2123818443,
+    "name": "Washio Uzume",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98598483,
+    "alliance_id": 1900696668,
+    "corporation_name": "Stars Corporate Group",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2123818443,
+      "name": "Washio Uzume",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 679560848,
+      "name": "Uno Muerto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1651402385,
+      "name": "Mylabee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115645926,
+      "name": "Barney Oldman",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Asanagi Uzume",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

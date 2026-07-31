@@ -1,0 +1,52 @@
+{
+  "character_id": 2123372266,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 213585494,
+    "name": "Natasha Mzie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1625590088,
+      "name": "Bloody Nyo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 428509711,
+      "name": "Soliic Malitar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1181918564,
+      "name": "Leto Z'hansu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darkmank",
+  "corporation_id": 98761471,
+  "alliance_id": 99013637,
+  "corporation_name": "2 Days to Mine",
+  "alliance_name": "The Worst Alliance"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121215549,
+  "total_losses": 150,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1648763621,
+    "name": "Bruce Kemp",
+    "kill_count": 148,
+    "final_blows": 148,
+    "corporation_id": 538004967,
+    "alliance_id": 99011258,
+    "corporation_name": "x13",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 1648763621,
+      "name": "Bruce Kemp",
+      "kill_count": 148,
+      "final_blows": 148
+    },
+    {
+      "id": 95713852,
+      "name": "Mrs Always Right",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124316761,
+      "name": "Character 2124316761",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Archimedes HS",
+  "corporation_id": 98687340,
+  "alliance_id": 99010339,
+  "corporation_name": "Big Strong",
+  "alliance_name": "Hisec Miners"
+}

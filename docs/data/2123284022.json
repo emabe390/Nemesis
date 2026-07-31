@@ -1,0 +1,46 @@
+{
+  "character_id": 2123284022,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123345875,
+    "name": "Character 2123345875",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98745845,
+    "alliance_id": 99005393,
+    "corporation_name": "Fighting Club Seafood Market",
+    "alliance_name": "Blades of Grass"
+  },
+  "top_killers": [
+    {
+      "id": 2123345875,
+      "name": "Character 2123345875",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 729603203,
+      "name": "Blan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116201497,
+      "name": "Skywalker H",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "kankanyl",
+  "corporation_id": 98810899,
+  "alliance_id": null,
+  "corporation_name": "Corporate Police Porce",
+  "alliance_name": null
+}

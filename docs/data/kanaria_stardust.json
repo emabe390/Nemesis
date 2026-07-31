@@ -1,0 +1,52 @@
+{
+  "character_id": 2113080355,
+  "total_losses": 23,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2117125788,
+    "name": "Deep-Purple",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98671662,
+    "alliance_id": null,
+    "corporation_name": "Agonizers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117125788,
+      "name": "Deep-Purple",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91201278,
+      "name": "php3ch0 Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123914035,
+      "name": "Mythomaniac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124038136,
+      "name": "Strix36",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90378221,
+      "name": "Alex Apocalyptus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kanaria Stardust",
+  "corporation_id": 98532235,
+  "alliance_id": null,
+  "corporation_name": "Red Cross Castle",
+  "alliance_name": null
+}

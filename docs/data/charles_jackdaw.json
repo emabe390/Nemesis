@@ -1,0 +1,52 @@
+{
+  "character_id": 2121545843,
+  "total_losses": 17,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2112628088,
+    "name": "Jeppezon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112628088,
+      "name": "Jeppezon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114931447,
+      "name": "Bhaex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118920501,
+      "name": "Valentin Xenoma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92095746,
+      "name": "Jack Shipwreaker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charles Jackdaw",
+  "corporation_id": 98829436,
+  "alliance_id": null,
+  "corporation_name": "Reckless Endangerment",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123369816,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 91916234,
+    "name": "gassman 117",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 539000123,
+    "alliance_id": 99011279,
+    "corporation_name": "EndlessRain",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 91916234,
+      "name": "gassman 117",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96867968,
+      "name": "N Dash",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 347166890,
+      "name": "Emely Parker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94479441,
+      "name": "Grey Veil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Z Anee",
+  "corporation_id": 98813550,
+  "alliance_id": 99014081,
+  "corporation_name": "Havana Deepspace Network",
+  "alliance_name": "Synergy of Support"
+}

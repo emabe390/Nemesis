@@ -1,0 +1,34 @@
+{
+  "character_id": 2124150007,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123936608,
+    "name": "Character 2123936608",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98822614,
+    "alliance_id": null,
+    "corporation_name": "Space Slums",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123936608,
+      "name": "Character 2123936608",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scout8",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

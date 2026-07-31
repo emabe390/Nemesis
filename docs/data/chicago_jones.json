@@ -1,0 +1,46 @@
+{
+  "character_id": 2123665749,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93275644,
+    "name": "Luigi Gumby",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93415226,
+      "name": "Iwin Yatolila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95329155,
+      "name": "Sam Sapone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1904163777,
+      "name": "Axell Wilkinson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chicago Jones",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

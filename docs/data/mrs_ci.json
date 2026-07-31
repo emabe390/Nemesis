@@ -1,0 +1,40 @@
+{
+  "character_id": 2118054654,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92883235,
+    "name": "Mister Ducky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806746,
+    "alliance_id": null,
+    "corporation_name": "100K1",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92883235,
+      "name": "Mister Ducky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1522812752,
+      "name": "Salinity Now",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mrs Ci",
+  "corporation_id": 533936795,
+  "alliance_id": null,
+  "corporation_name": "Mining Company",
+  "alliance_name": null
+}

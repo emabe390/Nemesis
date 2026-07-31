@@ -1,0 +1,40 @@
+{
+  "character_id": 2123659012,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90667238,
+    "name": "Plex Sniffer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98068668,
+    "alliance_id": null,
+    "corporation_name": "Warp Scramed",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90667238,
+      "name": "Plex Sniffer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119124876,
+      "name": "Hananeri Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123214825,
+      "name": "Pippin the Peril",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baneya Dola",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

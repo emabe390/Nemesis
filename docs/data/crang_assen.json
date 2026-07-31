@@ -1,0 +1,40 @@
+{
+  "character_id": 2123976212,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118094129,
+    "name": "PrivateParts",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000169,
+    "alliance_id": null,
+    "corporation_name": "Center for Advanced Studies",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118094129,
+      "name": "PrivateParts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119395380,
+      "name": "Doklfar Sunniva",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118194602,
+      "name": "MissyandRocky",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Crang Assen",
+  "corporation_id": 98820955,
+  "alliance_id": null,
+  "corporation_name": "Orion Industry and Obital Mining",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2121715559,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1132328049,
+    "name": "Roue",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 1132328049,
+      "name": "Roue",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1267890505,
+      "name": "Liyanna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123161970,
+      "name": "Philippe D'Avignone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nashica Yonal Dethahal",
+  "corporation_id": 98827202,
+  "alliance_id": null,
+  "corporation_name": "Nashica Yonal Dethahal Corporation",
+  "alliance_name": null
+}

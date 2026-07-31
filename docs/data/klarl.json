@@ -1,0 +1,40 @@
+{
+  "character_id": 2123185639,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90838351,
+    "name": "Guillaume Adoulin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93733412,
+      "name": "Dupard Lemmont",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122801571,
+      "name": "Labrefu Aya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "klarl",
+  "corporation_id": 98755298,
+  "alliance_id": 99005338,
+  "corporation_name": "Fox of Resistance",
+  "alliance_name": "Pandemic Horde"
+}

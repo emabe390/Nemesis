@@ -1,0 +1,40 @@
+{
+  "character_id": 2124502062,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2069154248,
+    "name": "Character 2069154248",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 427125032,
+    "alliance_id": 1354830081,
+    "corporation_name": "TunDraGon",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2069154248,
+      "name": "Character 2069154248",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114238006,
+      "name": "Dayse Ane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oddkho",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

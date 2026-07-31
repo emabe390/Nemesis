@@ -1,0 +1,52 @@
+{
+  "character_id": 1345654108,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2119703664,
+    "name": "Arato Kado",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98827905,
+    "alliance_id": null,
+    "corporation_name": "Tri-Clade Dominion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119703664,
+      "name": "Arato Kado",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90614605,
+      "name": "Ryoda Creed",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 524419930,
+      "name": "JacobMarley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1191314076,
+      "name": "Alejandro Spexi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113906997,
+      "name": "Cer Bernarov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tenzing Nomadi",
+  "corporation_id": 98298610,
+  "alliance_id": 99012639,
+  "corporation_name": "8 Sins of Man",
+  "alliance_name": "Stray Dogs."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123845792,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 95524755,
+    "name": "Aguta Hareka",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98336806,
+    "alliance_id": 99014878,
+    "corporation_name": "Amandla Legion",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95524755,
+      "name": "Aguta Hareka",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90215243,
+      "name": "Glavior",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114550192,
+      "name": "Lokajit Nakrar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116503555,
+      "name": "Memnoch en Thielles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94469639,
+      "name": "Chuck Dung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Talia Nerr",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

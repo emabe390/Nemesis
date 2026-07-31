@@ -1,0 +1,52 @@
+{
+  "character_id": 2123235499,
+  "total_losses": 11,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90077341,
+    "name": "Tu'vok",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1831383486,
+    "alliance_id": 1900696668,
+    "corporation_name": "TEMPLAR.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90077341,
+      "name": "Tu'vok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1163482011,
+      "name": "shemesta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112759398,
+      "name": "Krespo Willings",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112987713,
+      "name": "Kohinata Yui",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113381406,
+      "name": "Martzafoi Maresalul",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hairudaiken Yaken",
+  "corporation_id": 98725234,
+  "alliance_id": 99005338,
+  "corporation_name": "Alkaid Broken Army",
+  "alliance_name": "Pandemic Horde"
+}

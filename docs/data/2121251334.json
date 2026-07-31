@@ -1,0 +1,40 @@
+{
+  "character_id": 2121251334,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 866627381,
+    "name": "Character 866627381",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98662323,
+    "alliance_id": 99010756,
+    "corporation_name": "Voidhounds",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 866627381,
+      "name": "Character 866627381",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118172179,
+      "name": "whatwho",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122028554,
+      "name": "Bob Z Bastard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Naal Diptera",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

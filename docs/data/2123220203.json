@@ -1,0 +1,40 @@
+{
+  "character_id": 2123220203,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116622842,
+    "name": "Vex Clover",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2116622842,
+      "name": "Vex Clover",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121872260,
+      "name": "Walesine Codie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121071230,
+      "name": "Barberton",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stroise Arde Pollard",
+  "corporation_id": 98813598,
+  "alliance_id": null,
+  "corporation_name": "AVE distillation",
+  "alliance_name": null
+}

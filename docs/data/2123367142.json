@@ -1,0 +1,40 @@
+{
+  "character_id": 2123367142,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123600830,
+    "name": "Silent Alaska",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92467513,
+      "name": "Ageudum",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Limlishi",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

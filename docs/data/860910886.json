@@ -1,0 +1,40 @@
+{
+  "character_id": 860910886,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 687753641,
+    "name": "Iliad D'jax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453880,
+    "alliance_id": 99010421,
+    "corporation_name": "GentIeman Bastards",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1624836179,
+      "name": "Masandox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97233059,
+      "name": "Gideon Zendikar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ravage Elrey",
+  "corporation_id": 98270640,
+  "alliance_id": 1354830081,
+  "corporation_name": "BOVRIL bOREers Mining CO-OP",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1916519542,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 978231243,
+    "name": "FyreStrike",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91900089,
+      "name": "Edward Brodeur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 997929873,
+      "name": "Supai Arkasi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1050151575,
+      "name": "Inseno",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1678306834,
+      "name": "George Mante",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Herdus",
+  "corporation_id": 1063360566,
+  "alliance_id": 1354830081,
+  "corporation_name": "SUNDERING",
+  "alliance_name": "Goonswarm Federation"
+}

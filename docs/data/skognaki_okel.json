@@ -1,0 +1,52 @@
+{
+  "character_id": 2122458837,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2114229887,
+    "name": "Dmitry Starborn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98823487,
+    "alliance_id": null,
+    "corporation_name": "KOMAR GROUP",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114229887,
+      "name": "Dmitry Starborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122515161,
+      "name": "Paolo Thompson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113225966,
+      "name": "Dankeguy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790689,
+      "name": "Gerri One",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123177831,
+      "name": "Trauma Team VI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skognaki Okel",
+  "corporation_id": 98663870,
+  "alliance_id": 99010431,
+  "corporation_name": "Ohnivak of Kybernauts",
+  "alliance_name": "Kybernauts Clade"
+}

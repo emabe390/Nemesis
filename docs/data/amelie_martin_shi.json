@@ -1,0 +1,52 @@
+{
+  "character_id": 2123429176,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2120380657,
+    "name": "P-O-S-I-T-I-V-E",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779490,
+    "alliance_id": 1900696668,
+    "corporation_name": "Goose Squad",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2120380657,
+      "name": "P-O-S-I-T-I-V-E",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122977420,
+      "name": "Negativestatus II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93861601,
+      "name": "Nekrodryl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1487121652,
+      "name": "Ckpa6",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amelie Martin-Shi",
+  "corporation_id": 98725773,
+  "alliance_id": 99013390,
+  "corporation_name": "Vapor Lock.",
+  "alliance_name": "Vapor-Lock"
+}

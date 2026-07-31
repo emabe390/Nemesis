@@ -1,0 +1,46 @@
+{
+  "character_id": 2123861943,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96288727,
+    "name": "Svala",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96288727,
+      "name": "Svala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 460935120,
+      "name": "Sid Toxin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121634889,
+      "name": "Character 2121634889",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123330193,
+      "name": "Audence",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lenin Lives On",
+  "corporation_id": 98821909,
+  "alliance_id": null,
+  "corporation_name": "Masters And Newbies Incorporated Alliance",
+  "alliance_name": null
+}

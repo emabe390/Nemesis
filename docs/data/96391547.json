@@ -1,0 +1,34 @@
+{
+  "character_id": 96391547,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112945591,
+    "name": "Juan Shaqiulle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2112945591,
+      "name": "Juan Shaqiulle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114085089,
+      "name": "Daak Deninard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dagoth Ormand",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

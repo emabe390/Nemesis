@@ -1,0 +1,52 @@
+{
+  "character_id": 2120548212,
+  "total_losses": 24,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96262419,
+      "name": "Odysseus Aubaris",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91099622,
+      "name": "Enzo Hayuki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96087632,
+      "name": "Grettir Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dmitrii Nikitin",
+  "corporation_id": 98791256,
+  "alliance_id": 99009698,
+  "corporation_name": "Amarr Bureau of Investigation",
+  "alliance_name": "Worst Alliance Ever"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123401146,
+  "total_losses": 29,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2123504754,
+    "name": "Cryo Bloodlust",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98781252,
+    "alliance_id": null,
+    "corporation_name": "Mogwarts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123504754,
+      "name": "Cryo Bloodlust",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94799233,
+      "name": "Edgar Berdnikow",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95367944,
+      "name": "Lokey Solette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95612313,
+      "name": "XCuseMeMadam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 992400031,
+      "name": "Banefly",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ruki Spice",
+  "corporation_id": 98792377,
+  "alliance_id": 99010877,
+  "corporation_name": "Gnomes Gone Bad",
+  "alliance_name": "Out of the Blue."
+}

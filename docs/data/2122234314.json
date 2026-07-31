@@ -1,0 +1,52 @@
+{
+  "character_id": 2122234314,
+  "total_losses": 113,
+  "unique_killers": 103,
+  "nemesis": {
+    "id": 1034093056,
+    "name": "Zaber Xavier",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98757905,
+    "alliance_id": 99003581,
+    "corporation_name": "BlackWatch Security Group",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1034093056,
+      "name": "Zaber Xavier",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92071360,
+      "name": "Grim Reaper Knight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92972520,
+      "name": "Rhalt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 472771472,
+      "name": "Don Hubba",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1420207881,
+      "name": "Qurzit",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Brian Pigeon",
+  "corporation_id": 98514759,
+  "alliance_id": 99012940,
+  "corporation_name": "Meta Zero",
+  "alliance_name": "Meta Reloaded"
+}

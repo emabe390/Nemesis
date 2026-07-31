@@ -1,0 +1,52 @@
+{
+  "character_id": 2113258441,
+  "total_losses": 62,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 1039841978,
+    "name": "Arodron",
+    "kill_count": 16,
+    "final_blows": 16,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 1039841978,
+      "name": "Arodron",
+      "kill_count": 16,
+      "final_blows": 16
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 95915934,
+      "name": "Delta Firestorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 202442262,
+      "name": "Davian Loyalar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 449592077,
+      "name": "Relentlis",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rigito Osito",
+  "corporation_id": 953808580,
+  "alliance_id": 1354830081,
+  "corporation_name": "Cloaked Goof",
+  "alliance_name": "Goonswarm Federation"
+}

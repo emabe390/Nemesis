@@ -1,0 +1,52 @@
+{
+  "character_id": 2121530081,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2113233546,
+    "name": "Sven Bauer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98557229,
+    "alliance_id": 99004901,
+    "corporation_name": "Outback Steakhouse of Pancakes",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118739648,
+      "name": "Pilot Code Steiner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1149026890,
+      "name": "Broken December",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1904811443,
+      "name": "Blood Khanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115144523,
+      "name": "Ahmya Hina",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wixeyt",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

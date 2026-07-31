@@ -1,0 +1,40 @@
+{
+  "character_id": 2123563658,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122397166,
+    "name": "Griff Carlyle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752603,
+    "alliance_id": null,
+    "corporation_name": "BobVult",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122397166,
+      "name": "Griff Carlyle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115915711,
+      "name": "DerAnschlag Bedala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118413594,
+      "name": "Jana Cultist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Illyrion II",
+  "corporation_id": 98595253,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order II",
+  "alliance_name": "Absolute Honor"
+}

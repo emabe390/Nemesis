@@ -1,0 +1,34 @@
+{
+  "character_id": 2123441886,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120451726,
+    "name": "eonert13",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1324429368,
+    "alliance_id": 1354830081,
+    "corporation_name": "NED-Clan",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2120451726,
+      "name": "eonert13",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122925646,
+      "name": "Klae's Ashford",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "SchizoJester",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

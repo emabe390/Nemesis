@@ -1,0 +1,40 @@
+{
+  "character_id": 2123897775,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95493029,
+    "name": "Garth Revan",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98781672,
+    "alliance_id": null,
+    "corporation_name": "The Free Marketeers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95493029,
+      "name": "Garth Revan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1005712057,
+      "name": "Tarcq",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119160961,
+      "name": "Jerren Osborne",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "uuhStarFury",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124307574,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90775673,
+    "name": "Julie R",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1395059590,
+    "alliance_id": 495729389,
+    "corporation_name": "Immortalis Inc.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 90775673,
+      "name": "Julie R",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1273061454,
+      "name": "Alexi Xcarla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112564598,
+      "name": "Entelligente Ente",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "monuz",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

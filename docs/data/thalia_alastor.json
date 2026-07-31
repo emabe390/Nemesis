@@ -1,0 +1,40 @@
+{
+  "character_id": 2124467951,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118390050,
+    "name": "Paunch Gigabyte",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118390050,
+      "name": "Paunch Gigabyte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123924777,
+      "name": "Wrumbler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122849876,
+      "name": "Blondie Emerald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thalia Alastor",
+  "corporation_id": 98681394,
+  "alliance_id": 99003214,
+  "corporation_name": "Council of Exiles",
+  "alliance_name": "Brave Collective"
+}

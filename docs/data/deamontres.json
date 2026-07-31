@@ -1,0 +1,40 @@
+{
+  "character_id": 2124592838,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124410587,
+    "name": "Thaddeus Cassian Renatus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98765852,
+    "alliance_id": null,
+    "corporation_name": "Inala Exploration LLC",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124410587,
+      "name": "Thaddeus Cassian Renatus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121807973,
+      "name": "Liz Zoe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123440799,
+      "name": "Liz Bloodlust",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deamontres",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1394904373,
+  "total_losses": 51,
+  "unique_killers": 50,
+  "nemesis": {
+    "id": 2113975199,
+    "name": "Character 2113975199",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98529628,
+    "alliance_id": 1354830081,
+    "corporation_name": "New Boreas",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113975199,
+      "name": "Character 2113975199",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91787145,
+      "name": "CX-1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92117801,
+      "name": "Character 92117801",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92328023,
+      "name": "Jet Lawson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92565981,
+      "name": "Xanos Xellos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ComPitch",
+  "corporation_id": 98720063,
+  "alliance_id": null,
+  "corporation_name": "Money making corporation",
+  "alliance_name": null
+}

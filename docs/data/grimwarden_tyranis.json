@@ -1,0 +1,46 @@
+{
+  "character_id": 2123844837,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123861588,
+    "name": "ZHIQU",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000180,
+    "alliance_id": null,
+    "corporation_name": "State Protectorate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123861588,
+      "name": "ZHIQU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123875343,
+      "name": "Petr Yosifovich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115495684,
+      "name": "Lanpa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GrimWarden Tyranis",
+  "corporation_id": 98407112,
+  "alliance_id": null,
+  "corporation_name": "New Eden Police Force",
+  "alliance_name": null
+}

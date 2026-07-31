@@ -1,0 +1,52 @@
+{
+  "character_id": 2123737315,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117903184,
+    "name": "Mandalorian Fett",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98647659,
+    "alliance_id": 99011978,
+    "corporation_name": "Soltech Armada",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2117903184,
+      "name": "Mandalorian Fett",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121971843,
+      "name": "fugu the fish",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123476773,
+      "name": "Pita Zeljanica",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1633218082,
+      "name": "Squizz Caphinator",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115625724,
+      "name": "Josh Prior Prior",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahilles UA",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123636340,
+  "total_losses": 50,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 4,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 0
+    },
+    {
+      "id": 115943137,
+      "name": "Ninurta",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114244908,
+      "name": "Nuka Cola Quantum",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122758961,
+      "name": "annhigh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123714786,
+      "name": "AMiLaoShi XL",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "AMiLaoShi",
+  "corporation_id": 98645589,
+  "alliance_id": 99009163,
+  "corporation_name": "Faceless.",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2121375855,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 720630252,
+    "name": "Sk Fawn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98000682,
+    "alliance_id": 99009902,
+    "corporation_name": "Southern Cross Monopoly",
+    "alliance_name": "Flying Dangerous"
+  },
+  "top_killers": [
+    {
+      "id": 720630252,
+      "name": "Sk Fawn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 963217069,
+      "name": "Jogyn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Videllia",
+  "corporation_id": 98745140,
+  "alliance_id": null,
+  "corporation_name": "The Drone Zone",
+  "alliance_name": null
+}

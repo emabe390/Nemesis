@@ -1,0 +1,52 @@
+{
+  "character_id": 1471263372,
+  "total_losses": 212,
+  "unique_killers": 191,
+  "nemesis": {
+    "id": 1181303075,
+    "name": "Malodon",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 221232882,
+    "alliance_id": null,
+    "corporation_name": "The Eden Trading International Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1181303075,
+      "name": "Malodon",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2118448373,
+      "name": "FRESKU",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95134147,
+      "name": "chixonator Legends",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96707736,
+      "name": "Vindicator Hariere",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Charles Marsailles",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

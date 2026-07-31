@@ -1,0 +1,52 @@
+{
+  "character_id": 2123632648,
+  "total_losses": 213,
+  "unique_killers": 177,
+  "nemesis": {
+    "id": 95613383,
+    "name": "Fiudovy Tekitsu",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98613346,
+    "alliance_id": null,
+    "corporation_name": "Piou",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95613383,
+      "name": "Fiudovy Tekitsu",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114743439,
+      "name": "Matthew H Quigley",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 844646062,
+      "name": "Pytorion BE",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91138763,
+      "name": "Unnamed Person",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lucius Artemius",
+  "corporation_id": 98815485,
+  "alliance_id": 99014986,
+  "corporation_name": "The High Ground.",
+  "alliance_name": "Kinetic Diplomacy"
+}

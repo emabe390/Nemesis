@@ -1,0 +1,40 @@
+{
+  "character_id": 90127971,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96852178,
+    "name": "Blank Elchea",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96852178,
+      "name": "Blank Elchea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115762353,
+      "name": "Baxi Parmala",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123721775,
+      "name": "Youleland",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "William Mirabelle",
+  "corporation_id": 98559450,
+  "alliance_id": 99003214,
+  "corporation_name": "DanJev United",
+  "alliance_name": "Brave Collective"
+}

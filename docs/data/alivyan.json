@@ -1,0 +1,52 @@
+{
+  "character_id": 2122860517,
+  "total_losses": 15,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115049942,
+    "name": "Cly Patrouette",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98837449,
+    "alliance_id": null,
+    "corporation_name": "Sound Of Madness",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115049942,
+      "name": "Cly Patrouette",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 91036798,
+      "name": "Aleksandr Patrin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95897480,
+      "name": "Nishius Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115788573,
+      "name": "Riku Koivu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119142890,
+      "name": "Russiankryt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alivyan",
+  "corporation_id": 98821842,
+  "alliance_id": 99013766,
+  "corporation_name": "Capibarea Enterprise",
+  "alliance_name": "Death Legion of Capybaras"
+}

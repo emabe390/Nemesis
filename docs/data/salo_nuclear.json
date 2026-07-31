@@ -1,0 +1,40 @@
+{
+  "character_id": 2115698094,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115342094,
+    "name": "Antony Amarr",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98715093,
+    "alliance_id": 99003581,
+    "corporation_name": "Thunder Shield",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115342094,
+      "name": "Antony Amarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116355582,
+      "name": "Frozen Tea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120767683,
+      "name": "Flying Happiness",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Salo Nuclear",
+  "corporation_id": 98645226,
+  "alliance_id": null,
+  "corporation_name": "Nocturnus Inc.",
+  "alliance_name": null
+}

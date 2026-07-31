@@ -1,0 +1,40 @@
+{
+  "character_id": 2124552288,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 930305047,
+    "name": "Sweet Trader",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98058678,
+    "alliance_id": null,
+    "corporation_name": "The Hollow Men",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 930305047,
+      "name": "Sweet Trader",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120407307,
+      "name": "Blood Sunset",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pinafa Oumis",
+  "corporation_id": 98813850,
+  "alliance_id": 99014671,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": "NecroSphere."
+}

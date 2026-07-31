@@ -1,0 +1,52 @@
+{
+  "character_id": 2123824120,
+  "total_losses": 75,
+  "unique_killers": 45,
+  "nemesis": {
+    "id": 2121479442,
+    "name": "Asteroid Blitz",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98614919,
+    "alliance_id": 99001969,
+    "corporation_name": "Mineski Infinity",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 2121479442,
+      "name": "Asteroid Blitz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90804072,
+      "name": "Keran Raeigh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92474259,
+      "name": "C0RPZE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93867100,
+      "name": "Navitas Vincere",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94233167,
+      "name": "Viktor -valar morghulis",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Eclipse Wrath",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

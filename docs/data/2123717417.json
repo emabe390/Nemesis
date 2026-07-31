@@ -1,0 +1,46 @@
+{
+  "character_id": 2123717417,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96288727,
+    "name": "Svala",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96288727,
+      "name": "Svala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92748454,
+      "name": "Boomer Armada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94858146,
+      "name": "Amy Pollard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 771498253,
+      "name": "DarhtVaderrin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Forceteam",
+  "corporation_id": 98582333,
+  "alliance_id": null,
+  "corporation_name": "Last Stand Enterprises",
+  "alliance_name": null
+}

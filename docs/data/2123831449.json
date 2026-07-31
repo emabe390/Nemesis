@@ -1,0 +1,46 @@
+{
+  "character_id": 2123831449,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117925869,
+    "name": "Tito Fort",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98628176,
+    "alliance_id": 1900696668,
+    "corporation_name": "Helgast Militarum",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2117925869,
+      "name": "Tito Fort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90393747,
+      "name": "Gramps Pljugi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123416160,
+      "name": "Praetorianus Ira",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ocre Olerie",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

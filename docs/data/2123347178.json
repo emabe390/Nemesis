@@ -1,0 +1,52 @@
+{
+  "character_id": 2123347178,
+  "total_losses": 17,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92653921,
+    "name": "MineCrafters",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92653921,
+      "name": "MineCrafters",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94782355,
+      "name": "Anastasia Mahyisti",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90070556,
+      "name": "Old Garrafa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91317372,
+      "name": "Vayne Larsa",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123347178",
+  "corporation_id": 98743592,
+  "alliance_id": 99010079,
+  "corporation_name": "PulaleeroyBr Incursions",
+  "alliance_name": "Brave United"
+}

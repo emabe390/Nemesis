@@ -1,0 +1,40 @@
+{
+  "character_id": 2122839085,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117776396,
+    "name": "Modus Deus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98607450,
+    "alliance_id": 99004344,
+    "corporation_name": "Ruthless Regiment",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 2117776396,
+      "name": "Modus Deus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1716684879,
+      "name": "Xirin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123800910,
+      "name": "MilkyM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "E-BLAN",
+  "corporation_id": 98750293,
+  "alliance_id": null,
+  "corporation_name": "Academia RU Alliance",
+  "alliance_name": null
+}

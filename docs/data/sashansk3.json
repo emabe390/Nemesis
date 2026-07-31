@@ -1,0 +1,40 @@
+{
+  "character_id": 2123832578,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112700380,
+    "name": "Kahla Rhal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2112700380,
+      "name": "Kahla Rhal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96033652,
+      "name": "Foxy Rin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121464870,
+      "name": "TVOYA SMERTb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SashaNsk3",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

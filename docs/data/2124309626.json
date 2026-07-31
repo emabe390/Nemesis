@@ -1,0 +1,40 @@
+{
+  "character_id": 2124309626,
+  "total_losses": 17,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116453042,
+    "name": "Lilac Grace",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116453042,
+      "name": "Lilac Grace",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123943094,
+      "name": "dodgebind",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94624813,
+      "name": "Serk Enderas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "68FT-6 Sends Regards",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

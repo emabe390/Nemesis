@@ -1,0 +1,52 @@
+{
+  "character_id": 2123596242,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92102210,
+    "name": "Selah Rania",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 92102210,
+      "name": "Selah Rania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92822651,
+      "name": "Rustymattok Farpast",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114493736,
+      "name": "Lando Fisher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120976986,
+      "name": "Buns A Glazing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BonZaga",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

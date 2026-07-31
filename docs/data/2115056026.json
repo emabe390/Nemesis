@@ -1,0 +1,52 @@
+{
+  "character_id": 2115056026,
+  "total_losses": 424,
+  "unique_killers": 352,
+  "nemesis": {
+    "id": 978231243,
+    "name": "FyreStrike",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115049942,
+      "name": "Cly Patrouette",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95973782,
+      "name": "Ajunta Semah",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 198914893,
+      "name": "Vladimir Elexiel",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Zapalka Firn",
+  "corporation_id": 98454925,
+  "alliance_id": 1354830081,
+  "corporation_name": "Blackwater Task Forces",
+  "alliance_name": "Goonswarm Federation"
+}

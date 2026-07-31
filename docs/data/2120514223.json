@@ -1,0 +1,52 @@
+{
+  "character_id": 2120514223,
+  "total_losses": 15,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122986712,
+      "name": "Shivena Ponza Niam",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1777714132,
+      "name": "Death Eagle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 251444320,
+      "name": "Darkrydar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 766278770,
+      "name": "Captin Inyo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Indu Weyoun",
+  "corporation_id": 98718076,
+  "alliance_id": 1354830081,
+  "corporation_name": "GSF Logistics and Posting Reserves",
+  "alliance_name": "Goonswarm Federation"
+}

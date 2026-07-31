@@ -1,0 +1,52 @@
+{
+  "character_id": 2123536097,
+  "total_losses": 144,
+  "unique_killers": 87,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 94656106,
+      "name": "Character 94656106",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 94712373,
+      "name": "Bullet Anarchy",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90058495,
+      "name": "Barotto XIII",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90321754,
+      "name": "Schakal Furios",
+      "kill_count": 4,
+      "final_blows": 4
+    }
+  ],
+  "character_name": "Seven Jia",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

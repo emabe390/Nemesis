@@ -1,0 +1,40 @@
+{
+  "character_id": 2117762347,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114174071,
+      "name": "Elsa Portois",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Soapy McSoap",
+  "corporation_id": 98730501,
+  "alliance_id": 99001621,
+  "corporation_name": "Corpy McCorp",
+  "alliance_name": "Fedaykin."
+}

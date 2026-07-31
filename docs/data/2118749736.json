@@ -1,0 +1,40 @@
+{
+  "character_id": 2118749736,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 156718111,
+    "name": "Baudin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1400791723,
+    "alliance_id": 99010468,
+    "corporation_name": "Metasoma Inc.",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 156718111,
+      "name": "Baudin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93393353,
+      "name": "Purple Cheech",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94577030,
+      "name": "Michael Pancake",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gishorn",
+  "corporation_id": 644716789,
+  "alliance_id": 741557221,
+  "corporation_name": "Decadence.",
+  "alliance_name": "RAZOR Alliance"
+}

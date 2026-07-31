@@ -1,0 +1,52 @@
+{
+  "character_id": 2121351231,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1754715146,
+    "name": "Tirax Vale",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98298938,
+    "alliance_id": 917526329,
+    "corporation_name": "Captain's Quarters",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 1754715146,
+      "name": "Tirax Vale",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 737297594,
+      "name": "Baroness Cerera",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1885133150,
+      "name": "Ynot Eyob",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2053237763,
+      "name": "Nikaroo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120798315,
+      "name": "Hornetchild",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Buckmister",
+  "corporation_id": 98687745,
+  "alliance_id": null,
+  "corporation_name": "Free Mining Alliance",
+  "alliance_name": null
+}

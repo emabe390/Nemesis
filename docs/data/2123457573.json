@@ -1,0 +1,52 @@
+{
+  "character_id": 2123457573,
+  "total_losses": 37,
+  "unique_killers": 32,
+  "nemesis": {
+    "id": 2119206846,
+    "name": "Dainslief",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2119206846,
+      "name": "Dainslief",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118645041,
+      "name": "Kiki Of Merri",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91500692,
+      "name": "Old Shadowwalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92177512,
+      "name": "Chosen One Erkkinen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "gu-tu",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

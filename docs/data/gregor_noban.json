@@ -1,0 +1,52 @@
+{
+  "character_id": 96290941,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96500905,
+    "name": "Karsten Haginen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 96500905,
+      "name": "Karsten Haginen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112222022,
+      "name": "Tyler Arnoux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117023842,
+      "name": "Magpul Masada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122609143,
+      "name": "Izula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124092673,
+      "name": "RushHourStAu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gregor Noban",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

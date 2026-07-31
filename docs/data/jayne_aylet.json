@@ -1,0 +1,40 @@
+{
+  "character_id": 2121190550,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 305263755,
+    "name": "Arek Selkaion",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1588647992,
+    "alliance_id": 99010240,
+    "corporation_name": "Xoth Inc",
+    "alliance_name": "The Curatores Veritatis Auxiliary"
+  },
+  "top_killers": [
+    {
+      "id": 305263755,
+      "name": "Arek Selkaion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1890857615,
+      "name": "Nice Gun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118796640,
+      "name": "Unscared",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jayne Aylet",
+  "corporation_id": 557199155,
+  "alliance_id": 99011223,
+  "corporation_name": "The New Federation",
+  "alliance_name": "Sigma Grindset"
+}

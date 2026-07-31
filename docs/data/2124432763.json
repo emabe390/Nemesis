@@ -1,0 +1,52 @@
+{
+  "character_id": 2124432763,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1734126381,
+    "name": "Leckdock",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091301,
+    "alliance_id": 99003581,
+    "corporation_name": "RomFleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1734126381,
+      "name": "Leckdock",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93895347,
+      "name": "Kamehameha Keikira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94780067,
+      "name": "GlobalHoGu King",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 193099457,
+      "name": "RTSAvalanche",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112502430,
+      "name": "Salty Haggis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enol Tharus",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

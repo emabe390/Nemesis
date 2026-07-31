@@ -1,0 +1,52 @@
+{
+  "character_id": 2123635280,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90573671,
+      "name": "Salidin Uitoh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93979716,
+      "name": "Lucia Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1225771468,
+      "name": "Anne Tesla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112329977,
+      "name": "Ishnak Davaham",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zeni Quartermain",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

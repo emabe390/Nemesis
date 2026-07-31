@@ -1,0 +1,52 @@
+{
+  "character_id": 2122825929,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 266826755,
+      "name": "Tiendiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114794035,
+      "name": "Lothias Telvunar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116388907,
+      "name": "Richard Swasey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118677664,
+      "name": "OutbackSlayhouse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Small Eyea",
+  "corporation_id": 98397309,
+  "alliance_id": 1354830081,
+  "corporation_name": "Imperial Transcontinental Logistics",
+  "alliance_name": "Goonswarm Federation"
+}

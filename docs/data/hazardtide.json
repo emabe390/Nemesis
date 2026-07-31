@@ -1,0 +1,40 @@
+{
+  "character_id": 2123974577,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92172285,
+    "name": "Dash Zapfod Arrower",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98833127,
+    "alliance_id": 99015041,
+    "corporation_name": "Federal Rapid Operations Group",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 92172285,
+      "name": "Dash Zapfod Arrower",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123042372,
+      "name": "Collatelle Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122284488,
+      "name": "Big Griggs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HazardTide",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

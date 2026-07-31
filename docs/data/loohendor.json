@@ -1,0 +1,52 @@
+{
+  "character_id": 2123501673,
+  "total_losses": 13,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 946904845,
+      "name": "TylerDerden",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 404346796,
+      "name": "Cat T",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1328149095,
+      "name": "Tandail",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1573343263,
+      "name": "Arel 41k",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loohendor",
+  "corporation_id": 1860753927,
+  "alliance_id": 1644918530,
+  "corporation_name": "Minmatar Death Squad",
+  "alliance_name": "Broken Chains Alliance"
+}

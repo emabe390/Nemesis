@@ -1,0 +1,52 @@
+{
+  "character_id": 2120173811,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 91426450,
+    "name": "Greg Krividus",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98348583,
+    "alliance_id": null,
+    "corporation_name": "Circling Vultures",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91426450,
+      "name": "Greg Krividus",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112340774,
+      "name": "Domnie Mojadesko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95639117,
+      "name": "Komod Drone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "hlj003",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

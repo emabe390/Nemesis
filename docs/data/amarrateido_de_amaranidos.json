@@ -1,0 +1,52 @@
+{
+  "character_id": 2123595541,
+  "total_losses": 18,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123651376,
+    "name": "Character 2123651376",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123651376,
+      "name": "Character 2123651376",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2122959823,
+      "name": "Ellis Ofsol",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90681744,
+      "name": "Character 90681744",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 242047691,
+      "name": "Flintina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 719834366,
+      "name": "Narcotic XIII",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Amarrateido de Amaranidos",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

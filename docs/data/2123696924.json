@@ -1,0 +1,52 @@
+{
+  "character_id": 2123696924,
+  "total_losses": 83,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 13,
+    "final_blows": 11,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 13,
+      "final_blows": 11
+    },
+    {
+      "id": 92094158,
+      "name": "CptBipto",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2115754630,
+      "name": "Seibertron X",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123844463,
+      "name": "Y'Sharrj",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2115201764,
+      "name": "DuongProxx",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Violent Pig Slayer",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

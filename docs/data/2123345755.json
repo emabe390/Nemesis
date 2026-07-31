@@ -1,0 +1,52 @@
+{
+  "character_id": 2123345755,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 90408677,
+    "name": "Mefc Ipret",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98722384,
+    "alliance_id": null,
+    "corporation_name": "Mefc Ipret Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 820113254,
+      "name": "Xialis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116248557,
+      "name": "Shub Niiggurath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116870953,
+      "name": "Durban Poison Maul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117502885,
+      "name": "Aulonanen Nani Rotsuda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123345755",
+  "corporation_id": 98754582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Baba Yagas",
+  "alliance_name": "The Initiative."
+}

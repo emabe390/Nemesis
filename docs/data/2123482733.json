@@ -1,0 +1,52 @@
+{
+  "character_id": 2123482733,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 3,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 1
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96300083,
+      "name": "artemis Garemoko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96310157,
+      "name": "Kaga Mitsuki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1179201785,
+      "name": "Huan Matus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shu Jian",
+  "corporation_id": 98715582,
+  "alliance_id": 1900696668,
+  "corporation_name": "Emperor Scythes",
+  "alliance_name": "The Initiative."
+}

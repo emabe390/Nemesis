@@ -1,0 +1,52 @@
+{
+  "character_id": 172430868,
+  "total_losses": 13,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 550442401,
+      "name": "Poenike",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 101363971,
+      "name": "WayCharles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113997419,
+      "name": "Gachi Aniki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94421295,
+      "name": "LeRoy Rathbone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omega Mythos",
+  "corporation_id": 98335809,
+  "alliance_id": 99003581,
+  "corporation_name": "The Northerners",
+  "alliance_name": "Fraternity."
+}

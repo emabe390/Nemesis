@@ -1,0 +1,34 @@
+{
+  "character_id": 2123952492,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1305156897,
+    "name": "Sturack",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748599,
+    "alliance_id": 99012843,
+    "corporation_name": "Kenshin Industries.",
+    "alliance_name": "Kenshin Shogunate."
+  },
+  "top_killers": [
+    {
+      "id": 1305156897,
+      "name": "Sturack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117153619,
+      "name": "GIACOMO RESTIVO",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "William Fernus",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122303780,
+  "total_losses": 34,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 2115928380,
+    "name": "genivs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791741,
+    "alliance_id": 498125261,
+    "corporation_name": "King For Crazy",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2115928380,
+      "name": "genivs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90690109,
+      "name": "merci halo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92053601,
+      "name": "Agrippa Arkaral",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92545140,
+      "name": "Skendin Hinken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94358977,
+      "name": "Lachdanan ImmO",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miss Meredith",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

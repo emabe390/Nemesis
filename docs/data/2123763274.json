@@ -1,0 +1,40 @@
+{
+  "character_id": 2123763274,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 396098765,
+    "name": "Corrgun",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98592854,
+    "alliance_id": 495729389,
+    "corporation_name": "Mea Culpa.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 396098765,
+      "name": "Corrgun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743892884,
+      "name": "EF Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121442974,
+      "name": "Transporange",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Angelina Destructa",
+  "corporation_id": 98773441,
+  "alliance_id": 99014500,
+  "corporation_name": "H8N LOYALS",
+  "alliance_name": "H8N LOYALS Parallax Union"
+}

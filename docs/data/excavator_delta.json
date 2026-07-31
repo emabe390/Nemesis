@@ -1,0 +1,52 @@
+{
+  "character_id": 2123321252,
+  "total_losses": 21,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93729582,
+      "name": "Character 93729582",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93940633,
+      "name": "Lai Lai Shalastringe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1857162614,
+      "name": "Cap own",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90273223,
+      "name": "AnglsDvl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Excavator Delta",
+  "corporation_id": 98249511,
+  "alliance_id": null,
+  "corporation_name": "Istvaan V",
+  "alliance_name": null
+}

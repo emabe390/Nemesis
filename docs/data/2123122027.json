@@ -1,0 +1,52 @@
+{
+  "character_id": 2123122027,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 95068538,
+    "name": "Carlos Bandolier",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451057,
+    "alliance_id": 99014193,
+    "corporation_name": "Fibonacci Futures",
+    "alliance_name": "Coalition Of Pirates"
+  },
+  "top_killers": [
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94443642,
+      "name": "Chronos Aion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 805804420,
+      "name": "Yuki Li",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arumat Defigit",
+  "corporation_id": 98805265,
+  "alliance_id": null,
+  "corporation_name": "EL COSO",
+  "alliance_name": null
+}

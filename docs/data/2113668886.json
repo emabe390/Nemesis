@@ -1,0 +1,52 @@
+{
+  "character_id": 2113668886,
+  "total_losses": 41,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117040955,
+      "name": "Scorpius Snapcaster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90656762,
+      "name": "Jam Tanto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92004354,
+      "name": "Teysha Blackblade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92032753,
+      "name": "Cosmo Blink",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dameon Jaeger",
+  "corporation_id": 98829060,
+  "alliance_id": 99014873,
+  "corporation_name": "Blood Corsairs",
+  "alliance_name": "The Sanguine Covenant"
+}

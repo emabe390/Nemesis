@@ -1,0 +1,52 @@
+{
+  "character_id": 2123981403,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 137705723,
+    "name": "Balthazarra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98644898,
+    "alliance_id": 99003699,
+    "corporation_name": "Guardians Incorporated",
+    "alliance_name": "Cynosural Field Theory."
+  },
+  "top_killers": [
+    {
+      "id": 137705723,
+      "name": "Balthazarra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1052797048,
+      "name": "Tobiazo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116105023,
+      "name": "Drithi Moonshae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92060825,
+      "name": "Zebbediah Crane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94541443,
+      "name": "Francis McLean",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eubiscus",
+  "corporation_id": 98648361,
+  "alliance_id": 99011162,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Shadow Ultimatum"
+}

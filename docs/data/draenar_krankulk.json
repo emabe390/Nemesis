@@ -1,0 +1,40 @@
+{
+  "character_id": 2123286339,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 921870093,
+    "name": "RoseDNA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 935907718,
+    "alliance_id": 1727758877,
+    "corporation_name": "Destructive Influence",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 921870093,
+      "name": "RoseDNA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90352186,
+      "name": "Ayuren Aakiwa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120630725,
+      "name": "lightg0000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Draenar Krankulk",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

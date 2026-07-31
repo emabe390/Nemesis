@@ -1,0 +1,46 @@
+{
+  "character_id": 2123863820,
+  "total_losses": 20,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2124112036,
+    "name": "Regis Rex",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98740395,
+    "alliance_id": 99012664,
+    "corporation_name": "Ouroboros Solutions",
+    "alliance_name": "Recursive Horizons"
+  },
+  "top_killers": [
+    {
+      "id": 2124112036,
+      "name": "Regis Rex",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 92312876,
+      "name": "Saweet Alar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112976524,
+      "name": "Brian TheBroker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114457967,
+      "name": "Heidi Topkek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Emmy Rex",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

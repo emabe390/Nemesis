@@ -1,0 +1,34 @@
+{
+  "character_id": 91185343,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1511492146,
+    "name": "Thom Grimmar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1511492146,
+      "name": "Thom Grimmar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95269492,
+      "name": "Horst Ademeit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Garnith Sorrowfall",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

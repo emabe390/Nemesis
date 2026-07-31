@@ -1,0 +1,46 @@
+{
+  "character_id": 2123660052,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1300904865,
+      "name": "roftcopter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90001188,
+      "name": "H3llblazer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93007417,
+      "name": "Tyrell Cadabra",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gentl Wind",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

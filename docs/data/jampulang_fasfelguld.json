@@ -1,0 +1,40 @@
+{
+  "character_id": 2124474120,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115789534,
+    "name": "Zechs Kovacs",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98181543,
+    "alliance_id": 1042504553,
+    "corporation_name": "F0RCED ENTRY",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2115789534,
+      "name": "Zechs Kovacs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121270074,
+      "name": "Jaja Colene",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119087410,
+      "name": "Shazzza",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jampulang Fasfelguld",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2123854567,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117592728,
+    "name": "Xtaccy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2117592728,
+      "name": "Xtaccy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1166789194,
+      "name": "Kira Fet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alexandria Nalelmir",
+  "corporation_id": 98672533,
+  "alliance_id": 99005393,
+  "corporation_name": "BrainBox",
+  "alliance_name": "Blades of Grass"
+}

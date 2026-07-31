@@ -1,0 +1,52 @@
+{
+  "character_id": 2123609716,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2121092830,
+    "name": "Tank CE0",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 900063097,
+    "alliance_id": null,
+    "corporation_name": "Dark Cartel",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121092830,
+      "name": "Tank CE0",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123696370,
+      "name": "GoBelievea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 195496187,
+      "name": "2Bad4Ux2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shouzan",
+  "corporation_id": 900063097,
+  "alliance_id": null,
+  "corporation_name": "Dark Cartel",
+  "alliance_name": null
+}

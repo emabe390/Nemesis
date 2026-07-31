@@ -1,0 +1,34 @@
+{
+  "character_id": 2124108196,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2124102345,
+    "name": "Whisk-n-Bisque",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 355443127,
+    "alliance_id": 1354830081,
+    "corporation_name": "ANZAC ALLIANCE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124102345,
+      "name": "Whisk-n-Bisque",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90607403,
+      "name": "PLANKTON PLANKTON",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Derry Cow",
+  "corporation_id": 355443127,
+  "alliance_id": 1354830081,
+  "corporation_name": "ANZAC ALLIANCE",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123679252,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2119220103,
+    "name": "Gesichtsgarten",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98724774,
+    "alliance_id": 99012369,
+    "corporation_name": "T H E . K R A K E N",
+    "alliance_name": "OUT OF THE DEEP"
+  },
+  "top_killers": [
+    {
+      "id": 2119220103,
+      "name": "Gesichtsgarten",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121612907,
+      "name": "Nakamura Jones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122552868,
+      "name": "Zarlursolf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123679252",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

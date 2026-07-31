@@ -1,0 +1,40 @@
+{
+  "character_id": 2118647698,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117301014,
+    "name": "Artiel",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117301014,
+      "name": "Artiel",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95528415,
+      "name": "Cohomology",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Hiram Jagger",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

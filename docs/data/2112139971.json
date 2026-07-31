@@ -1,0 +1,40 @@
+{
+  "character_id": 2112139971,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92840823,
+    "name": "Hika Shana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 92840823,
+      "name": "Hika Shana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122324116,
+      "name": "PL2000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123618595,
+      "name": "StuffedElf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arkus Navrey Darsaka",
+  "corporation_id": 98528707,
+  "alliance_id": null,
+  "corporation_name": "Independent Pilots Association",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 91643143,
+  "total_losses": 21,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 1124237739,
+    "name": "VegasMirage",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1124237739,
+      "name": "VegasMirage",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1714992864,
+      "name": "assasain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91258437,
+      "name": "Zaratun Positive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93990861,
+      "name": "Perkutor Jakuard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 332402304,
+      "name": "Gin Taylor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "NEJC SK",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123298013,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115215827,
+    "name": "Balagur Neo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119136438,
+      "name": "Meriven Vaal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119968929,
+      "name": "Oko sauronovo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92971425,
+      "name": "Victorieux Secret",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 573374598,
+      "name": "Emperial Templar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erica Gerrymanderer",
+  "corporation_id": 98782283,
+  "alliance_id": 99010877,
+  "corporation_name": "Solidified Encounter",
+  "alliance_name": "Out of the Blue."
+}

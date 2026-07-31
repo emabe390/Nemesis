@@ -1,0 +1,52 @@
+{
+  "character_id": 2122354232,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2116003648,
+    "name": "Gophert",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98200442,
+    "alliance_id": null,
+    "corporation_name": "BLADERUNNER.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116003648,
+      "name": "Gophert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90210626,
+      "name": "jackk O'neil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93233273,
+      "name": "Yumi MeiJin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96128422,
+      "name": "Sigrid Freud",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DarkAssassinKiller",
+  "corporation_id": 1165671007,
+  "alliance_id": 99012532,
+  "corporation_name": "Edge of Reason",
+  "alliance_name": "Angry Miners Alliance."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123555890,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123698423,
+    "name": "Earthsworn",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123698423,
+      "name": "Earthsworn",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2113946703,
+      "name": "extronmados",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1167259832,
+      "name": "Kathicon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115165612,
+      "name": "Learning PleaseIgnore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115168998,
+      "name": "Rayteen1311 JACK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SolidanLive",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

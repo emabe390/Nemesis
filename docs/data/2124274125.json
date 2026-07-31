@@ -1,0 +1,40 @@
+{
+  "character_id": 2124274125,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122690627,
+    "name": "Drane Kletchlin",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98102892,
+    "alliance_id": 173714703,
+    "corporation_name": "Dominion Guild",
+    "alliance_name": "PURPLE HELMETED WARRIORS"
+  },
+  "top_killers": [
+    {
+      "id": 2122690627,
+      "name": "Drane Kletchlin",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94085313,
+      "name": "Bryan Tinker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dervyn",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

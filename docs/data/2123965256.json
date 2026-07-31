@@ -1,0 +1,40 @@
+{
+  "character_id": 2123965256,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116301102,
+    "name": "Kimik Antollare",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98147922,
+    "alliance_id": null,
+    "corporation_name": "Minin Trading Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116301102,
+      "name": "Kimik Antollare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122222704,
+      "name": "BigglesworthXD",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121612449,
+      "name": "Yloriga Hakoke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wlerlur Aele",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

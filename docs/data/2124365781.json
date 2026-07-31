@@ -1,0 +1,40 @@
+{
+  "character_id": 2124365781,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 332688972,
+    "name": "Meinah",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98830650,
+    "alliance_id": null,
+    "corporation_name": "Gistii Vanguard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 332688972,
+      "name": "Meinah",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1416983859,
+      "name": "Rat 3",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120817710,
+      "name": "Muh Mabebu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pitt Lucron",
+  "corporation_id": 98721662,
+  "alliance_id": 99012840,
+  "corporation_name": "The Alchemist Foundation",
+  "alliance_name": "The Alchemy Syndicate"
+}

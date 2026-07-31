@@ -1,0 +1,40 @@
+{
+  "character_id": 2123258739,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122411290,
+    "name": "Armala Rin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98811364,
+    "alliance_id": null,
+    "corporation_name": "The Gravy Co.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122411290,
+      "name": "Armala Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123628709,
+      "name": "Dankangle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123748736,
+      "name": "Yrjo Vaisala",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Solaris Sirius",
+  "corporation_id": 98814386,
+  "alliance_id": null,
+  "corporation_name": "Caldari Mining Defense CO-OP",
+  "alliance_name": null
+}

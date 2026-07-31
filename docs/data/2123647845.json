@@ -1,0 +1,40 @@
+{
+  "character_id": 2123647845,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115423266,
+    "name": "Mashulia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98698983,
+    "alliance_id": 99012122,
+    "corporation_name": "Scan Stakan",
+    "alliance_name": "HOLD MY PROBS"
+  },
+  "top_killers": [
+    {
+      "id": 2115423266,
+      "name": "Mashulia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93757814,
+      "name": "Mattais Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95500451,
+      "name": "Taylor Bassani",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enstelle Prion",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

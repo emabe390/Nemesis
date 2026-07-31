@@ -1,0 +1,40 @@
+{
+  "character_id": 2122279020,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1406208348,
+    "name": "Stealthbot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98648442,
+    "alliance_id": 99010452,
+    "corporation_name": "Center For Kids Who Can't Fly Good",
+    "alliance_name": "Zoo Landers"
+  },
+  "top_killers": [
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118792641,
+      "name": "Ncenotic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119166980,
+      "name": "Brey Aylet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "General Jurisdiction",
+  "corporation_id": 98478391,
+  "alliance_id": 99009324,
+  "corporation_name": "Magellan Corporation",
+  "alliance_name": "Wardec Mechanics"
+}

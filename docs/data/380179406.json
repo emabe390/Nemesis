@@ -1,0 +1,52 @@
+{
+  "character_id": 380179406,
+  "total_losses": 38,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95013159,
+      "name": "Harry Nevers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 107298783,
+      "name": "Sireleck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123291992,
+      "name": "Moha Sam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jane Tomson",
+  "corporation_id": 98660292,
+  "alliance_id": 99012982,
+  "corporation_name": "Jump 2 Beacon",
+  "alliance_name": "OnlyFleets."
+}

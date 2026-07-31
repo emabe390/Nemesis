@@ -1,0 +1,40 @@
+{
+  "character_id": 2112404725,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122924546,
+    "name": "tagknife",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122924546,
+      "name": "tagknife",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1565101963,
+      "name": "MeisterDaDa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117445878,
+      "name": "Luppi Lu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Slash Buster",
+  "corporation_id": 98817566,
+  "alliance_id": 1900696668,
+  "corporation_name": "Cool Beans Inc.",
+  "alliance_name": "The Initiative."
+}

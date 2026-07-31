@@ -1,0 +1,40 @@
+{
+  "character_id": 90196037,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 629760460,
+    "name": "Drake Trondor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 629760460,
+      "name": "Drake Trondor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1194352503,
+      "name": "ToTheCore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118841957,
+      "name": "De Teis Vu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shirlah",
+  "corporation_id": 98769211,
+  "alliance_id": 99011223,
+  "corporation_name": "Yamato Tech Solutions",
+  "alliance_name": "Sigma Grindset"
+}

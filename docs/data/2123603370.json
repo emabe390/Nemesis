@@ -1,0 +1,52 @@
+{
+  "character_id": 2123603370,
+  "total_losses": 7,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2123512077,
+      "name": "Avocado Verde Salsa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123963786,
+      "name": "Heart On",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123963840,
+      "name": "Afraid This Time",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123963848,
+      "name": "Under My Feet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Octavia Garmoniya",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

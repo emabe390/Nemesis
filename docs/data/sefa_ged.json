@@ -1,0 +1,40 @@
+{
+  "character_id": 2123210559,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117407582,
+    "name": "Chilton",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98679876,
+    "alliance_id": null,
+    "corporation_name": "Bob Wills It",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117407582,
+      "name": "Chilton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117408802,
+      "name": "Easton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120231906,
+      "name": "Piter O'Nil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sefa Ged",
+  "corporation_id": 98316453,
+  "alliance_id": 99010265,
+  "corporation_name": "Outfit 418",
+  "alliance_name": "Blue Loot Not Included"
+}

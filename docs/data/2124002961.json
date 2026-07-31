@@ -1,0 +1,52 @@
+{
+  "character_id": 2124002961,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2116886824,
+    "name": "Aaron Roos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98686431,
+    "alliance_id": 99013177,
+    "corporation_name": "Fixers Corporation",
+    "alliance_name": "Pillars of Liberty"
+  },
+  "top_killers": [
+    {
+      "id": 2116886824,
+      "name": "Aaron Roos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122263187,
+      "name": "Fauux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97040187,
+      "name": "FortyFly",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lunna Ghost",
+  "corporation_id": 98830385,
+  "alliance_id": 99006125,
+  "corporation_name": "False Logistic Services",
+  "alliance_name": "SLYCE Pirates"
+}

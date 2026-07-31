@@ -1,0 +1,46 @@
+{
+  "character_id": 2112258520,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 1474650242,
+    "name": "Evil Death",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 724997872,
+    "alliance_id": 1354830081,
+    "corporation_name": "EVE-RO",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1474650242,
+      "name": "Evil Death",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116704234,
+      "name": "Elfacus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96851301,
+      "name": "Wertstaar Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119450232,
+      "name": "GPSxVladimir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valindil Mark-II",
+  "corporation_id": 98789272,
+  "alliance_id": 99014108,
+  "corporation_name": "Cryotech Retrieval Services",
+  "alliance_name": "S0ns Of Anarchy"
+}

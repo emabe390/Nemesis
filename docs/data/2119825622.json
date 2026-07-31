@@ -1,0 +1,34 @@
+{
+  "character_id": 2119825622,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 94817305,
+    "name": "Certh Finley",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98242799,
+    "alliance_id": 99008816,
+    "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+    "alliance_name": "Khimi Harar"
+  },
+  "top_killers": [
+    {
+      "id": 94817305,
+      "name": "Certh Finley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123908598,
+      "name": "Maloque Etel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2119825622",
+  "corporation_id": 98726575,
+  "alliance_id": null,
+  "corporation_name": "Astral Center for Intergalatic Discovery",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 91744644,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121053733,
+    "name": "Plus Local",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98603207,
+    "alliance_id": 99009698,
+    "corporation_name": "Zero To High",
+    "alliance_name": "Worst Alliance Ever"
+  },
+  "top_killers": [
+    {
+      "id": 2121053733,
+      "name": "Plus Local",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 243234837,
+      "name": "viceman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114361535,
+      "name": "Igritt Saint",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116793469,
+      "name": "Dorken Rahl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120042333,
+      "name": "Gundy Gunderson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Catherine Kamensky",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

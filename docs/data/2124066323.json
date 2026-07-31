@@ -1,0 +1,52 @@
+{
+  "character_id": 2124066323,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2120387427,
+    "name": "Alevar Dovmont",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98750111,
+    "alliance_id": null,
+    "corporation_name": "Mist Bastion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120387427,
+      "name": "Alevar Dovmont",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92091313,
+      "name": "Chuck Sanussi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93373529,
+      "name": "Fate Found",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95476074,
+      "name": "Ronnie Cordova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93223345,
+      "name": "Character 93223345",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harmless Frigate",
+  "corporation_id": 98432699,
+  "alliance_id": null,
+  "corporation_name": "Down the Vortex",
+  "alliance_name": null
+}

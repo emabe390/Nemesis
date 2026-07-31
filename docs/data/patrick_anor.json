@@ -1,0 +1,40 @@
+{
+  "character_id": 91256403,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95895095,
+    "name": "Sam Slipstream",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 95895095,
+      "name": "Sam Slipstream",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118072690,
+      "name": "Puenonel Ambrye",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Patrick Anor",
+  "corporation_id": 98788477,
+  "alliance_id": 99010484,
+  "corporation_name": "High Fivers",
+  "alliance_name": "The Burning Contingent Alliance"
+}

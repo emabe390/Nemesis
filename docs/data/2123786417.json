@@ -1,0 +1,52 @@
+{
+  "character_id": 2123786417,
+  "total_losses": 63,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 95859136,
+    "name": "Jay Parvi",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98704863,
+    "alliance_id": null,
+    "corporation_name": "Pinky and the Brain.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95859136,
+      "name": "Jay Parvi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92108395,
+      "name": "Biggus Duckus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94025277,
+      "name": "Malizar Kondur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96926676,
+      "name": "vaflya Nolen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 649403185,
+      "name": "Laciata",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nex Harkonnen",
+  "corporation_id": 98551200,
+  "alliance_id": 99012982,
+  "corporation_name": "African Atomic.",
+  "alliance_name": "OnlyFleets."
+}

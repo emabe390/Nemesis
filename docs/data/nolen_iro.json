@@ -1,0 +1,52 @@
+{
+  "character_id": 2123045288,
+  "total_losses": 16,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90728860,
+      "name": "Sparrow Christensen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96393511,
+      "name": "Metronom Russ",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112211872,
+      "name": "Misha Kusoni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118420212,
+      "name": "a153",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Nolen Iro",
+  "corporation_id": 98438878,
+  "alliance_id": 99013537,
+  "corporation_name": "The Nordic Associates",
+  "alliance_name": "Insidious."
+}

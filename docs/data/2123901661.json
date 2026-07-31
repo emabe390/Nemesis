@@ -1,0 +1,52 @@
+{
+  "character_id": 2123901661,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123761189,
+    "name": "Vercingetrix Aurelius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 230445889,
+    "alliance_id": 1354830081,
+    "corporation_name": "Mindstar Technology",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123761189,
+      "name": "Vercingetrix Aurelius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93565698,
+      "name": "Aldent Arkanon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119217172,
+      "name": "Character 2119217172",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119497024,
+      "name": "Jiao-Huang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119930287,
+      "name": "V1ctoria Vector",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vercingetrix Claudius",
+  "corporation_id": 230445889,
+  "alliance_id": 1354830081,
+  "corporation_name": "Mindstar Technology",
+  "alliance_name": "Goonswarm Federation"
+}

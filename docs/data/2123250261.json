@@ -1,0 +1,40 @@
+{
+  "character_id": 2123250261,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91848130,
+    "name": "Sxn Dna",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98084166,
+    "alliance_id": 99007552,
+    "corporation_name": "Unleashed Pestilence",
+    "alliance_name": "Black Rise Matters"
+  },
+  "top_killers": [
+    {
+      "id": 91848130,
+      "name": "Sxn Dna",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94087360,
+      "name": "LeConte Boudreaux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113955920,
+      "name": "Watel loodo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ADZombi Socrat",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

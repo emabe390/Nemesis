@@ -1,0 +1,34 @@
+{
+  "character_id": 2124044072,
+  "total_losses": 7,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 269925950,
+      "name": "Goupil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sparky Noban",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

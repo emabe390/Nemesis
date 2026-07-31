@@ -1,0 +1,40 @@
+{
+  "character_id": 784418608,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95138895,
+    "name": "Yuri Pyrrhus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98656870,
+    "alliance_id": 99012019,
+    "corporation_name": "Slavic Totem",
+    "alliance_name": "Can i bring my Drake..."
+  },
+  "top_killers": [
+    {
+      "id": 95138895,
+      "name": "Yuri Pyrrhus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120778556,
+      "name": "EF Zeta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Inis Mor",
+  "corporation_id": 98811021,
+  "alliance_id": null,
+  "corporation_name": "Dark Forest Industry",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123881954,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 92094158,
+      "name": "CptBipto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1323778484,
+      "name": "Ace Lonewolf",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SirPatric",
+  "corporation_id": 98617815,
+  "alliance_id": null,
+  "corporation_name": "Space Oddities Join Us",
+  "alliance_name": null
+}

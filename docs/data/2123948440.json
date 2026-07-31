@@ -1,0 +1,40 @@
+{
+  "character_id": 2123948440,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123065582,
+    "name": "El o",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98793895,
+    "alliance_id": null,
+    "corporation_name": "she is a vampire",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123065582,
+      "name": "El o",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114926171,
+      "name": "Todhandler Prems",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122751283,
+      "name": "Caleeen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SavatarVII",
+  "corporation_id": 98620289,
+  "alliance_id": 99010444,
+  "corporation_name": "Ascendance Rising",
+  "alliance_name": "Ascendance.."
+}

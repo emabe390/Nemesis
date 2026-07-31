@@ -1,0 +1,40 @@
+{
+  "character_id": 480013311,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 350337780,
+    "name": "Nergart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 605398057,
+    "alliance_id": 99003699,
+    "corporation_name": "Nocturnal Romance",
+    "alliance_name": "Cynosural Field Theory."
+  },
+  "top_killers": [
+    {
+      "id": 350337780,
+      "name": "Nergart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liu Firestorm",
+  "corporation_id": 1952236257,
+  "alliance_id": null,
+  "corporation_name": "Project 0 Corp",
+  "alliance_name": null
+}

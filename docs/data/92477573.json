@@ -1,0 +1,52 @@
+{
+  "character_id": 92477573,
+  "total_losses": 17,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2115215827,
+      "name": "Balagur Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114558165,
+      "name": "ADF Tsurpalen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115470878,
+      "name": "Morano Snow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118234842,
+      "name": "Alice-Liu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "LivedeviL",
+  "corporation_id": 98659412,
+  "alliance_id": 1354830081,
+  "corporation_name": "Close Encounters of the EVE Kind",
+  "alliance_name": "Goonswarm Federation"
+}

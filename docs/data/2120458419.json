@@ -1,0 +1,52 @@
+{
+  "character_id": 2120458419,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91362443,
+    "name": "Tobias Garo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791475,
+    "alliance_id": null,
+    "corporation_name": "Exploding Pixels",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91362443,
+      "name": "Tobias Garo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119986854,
+      "name": "David Wooderson III",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95012754,
+      "name": "Der Tauber",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95124379,
+      "name": "Thibault Yassavi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paul A Cahill",
+  "corporation_id": 98630716,
+  "alliance_id": 99009830,
+  "corporation_name": "Volantean Nation",
+  "alliance_name": "Lan'Tean Imperium"
+}

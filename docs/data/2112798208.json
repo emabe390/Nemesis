@@ -1,0 +1,52 @@
+{
+  "character_id": 2112798208,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91900395,
+      "name": "Doku Dakar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114098387,
+      "name": "Aurora Rinzler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115472971,
+      "name": "TETKA CTOHET",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119247371,
+      "name": "Rkhans",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maka Aldent",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

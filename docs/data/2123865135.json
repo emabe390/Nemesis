@@ -1,0 +1,40 @@
+{
+  "character_id": 2123865135,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119020649,
+    "name": "RHlNOX",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 2119020649,
+      "name": "RHlNOX",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119142890,
+      "name": "Russiankryt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baron el Cruzado",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

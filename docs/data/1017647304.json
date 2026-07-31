@@ -1,0 +1,52 @@
+{
+  "character_id": 1017647304,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 91379068,
+    "name": "Jan Black",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98645607,
+    "alliance_id": 917526329,
+    "corporation_name": "Pacifist Association",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93632869,
+      "name": "TYxUSMC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116231402,
+      "name": "Lyla Ozawa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117583295,
+      "name": "Acero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sudden Eye",
+  "corporation_id": 98600785,
+  "alliance_id": null,
+  "corporation_name": "Sudden Industries",
+  "alliance_name": null
+}

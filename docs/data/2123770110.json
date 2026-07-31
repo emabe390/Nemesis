@@ -1,0 +1,52 @@
+{
+  "character_id": 2123770110,
+  "total_losses": 197,
+  "unique_killers": 153,
+  "nemesis": {
+    "id": 2123785748,
+    "name": "J2star",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98814239,
+    "alliance_id": null,
+    "corporation_name": "Jstar Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123785748,
+      "name": "J2star",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120980988,
+      "name": "Evalen",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119795620,
+      "name": "Zaver78",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Orion Crabs",
+  "corporation_id": 98741162,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XLI",
+  "alliance_name": "Absolute Will"
+}

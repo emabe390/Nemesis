@@ -1,0 +1,40 @@
+{
+  "character_id": 733764861,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90028515,
+      "name": "ShadeStryker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93183057,
+      "name": "Space Ninja Monkey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enfina",
+  "corporation_id": 98799440,
+  "alliance_id": 1042504553,
+  "corporation_name": "High Insertion Velocity",
+  "alliance_name": "Solyaris Chtonium"
+}

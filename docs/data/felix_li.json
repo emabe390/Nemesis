@@ -1,0 +1,52 @@
+{
+  "character_id": 2123796026,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 223726310,
+    "name": "Beld Ermon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98523162,
+    "alliance_id": null,
+    "corporation_name": "BoneSquad",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 223726310,
+      "name": "Beld Ermon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 812049218,
+      "name": "Vladimir Norkoff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114772624,
+      "name": "Sion Felicia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117244013,
+      "name": "Mikael Shilliamsson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Felix Li",
+  "corporation_id": 98809234,
+  "alliance_id": 99014768,
+  "corporation_name": "Framgangur",
+  "alliance_name": "Storm Petrel Alliance"
+}

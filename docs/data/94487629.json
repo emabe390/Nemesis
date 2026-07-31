@@ -1,0 +1,40 @@
+{
+  "character_id": 94487629,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114979521,
+    "name": "Anaphylaxis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98630647,
+    "alliance_id": 99009902,
+    "corporation_name": "Southern Cross Silver Shields",
+    "alliance_name": "Flying Dangerous"
+  },
+  "top_killers": [
+    {
+      "id": 2114979521,
+      "name": "Anaphylaxis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121921619,
+      "name": "Chrimel Thiesant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 129168968,
+      "name": "Foxanek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neil Teayarr",
+  "corporation_id": 98693654,
+  "alliance_id": null,
+  "corporation_name": "Federation of Gimps for Space Violence",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124265400,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122033636,
+    "name": "Ada-in-the-Box",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838350,
+    "alliance_id": null,
+    "corporation_name": "Harmony's Garden",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 923919388,
+      "name": "Liteik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116349229,
+      "name": "Azalot Feraliy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122782538,
+      "name": "Sensey Eos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MSG Slug",
+  "corporation_id": 98651052,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order XX",
+  "alliance_name": "Absolute Honor"
+}

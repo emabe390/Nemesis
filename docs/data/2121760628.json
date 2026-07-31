@@ -1,0 +1,40 @@
+{
+  "character_id": 2121760628,
+  "total_losses": 13,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92406949,
+    "name": "Spanky Ikkala",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 92406949,
+      "name": "Spanky Ikkala",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2113888017,
+      "name": "Rebel Rebel-Rebel Rebel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115853038,
+      "name": "Caba Rhosa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Margo Ri",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

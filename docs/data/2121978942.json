@@ -1,0 +1,40 @@
+{
+  "character_id": 2121978942,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95425704,
+      "name": "Scarlet Lightsworn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121535845,
+      "name": "Rogue Operative 2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Not Zaylin Halin",
+  "corporation_id": 98756099,
+  "alliance_id": 99009331,
+  "corporation_name": "Baby-Zaylin",
+  "alliance_name": "Scumlords"
+}

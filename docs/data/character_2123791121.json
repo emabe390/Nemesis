@@ -1,0 +1,52 @@
+{
+  "character_id": 2123791121,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1598994184,
+    "name": "TUFFELSACK",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145496,
+    "alliance_id": 99000285,
+    "corporation_name": "Room for Improvement",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 1598994184,
+      "name": "TUFFELSACK",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96665706,
+      "name": "Elvis Thellere",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112511362,
+      "name": "The Sinner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113507297,
+      "name": "Quinn Tellan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123791121",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120678268,
+  "total_losses": 24,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2116510427,
+    "name": "Luthor Kerensky",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98470930,
+    "alliance_id": null,
+    "corporation_name": "eXpanse eXploration",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116510427,
+      "name": "Luthor Kerensky",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94873247,
+      "name": "Aliva Okaski",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95362087,
+      "name": "Myriam Taredi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 718046424,
+      "name": "Muhamad Ali",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Reminito",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

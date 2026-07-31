@@ -1,0 +1,52 @@
+{
+  "character_id": 2123507135,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124398966,
+      "name": "Meshif Rahim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90454083,
+      "name": "Raggnnorok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90589487,
+      "name": "Zicelis Eriker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95525344,
+      "name": "Kanye North",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chute Mi Noaw",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2121020512,
+  "total_losses": 16,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 614411261,
+    "name": "Ivar Quicksand",
+    "kill_count": 15,
+    "final_blows": 15,
+    "corporation_id": 98720342,
+    "alliance_id": 99009845,
+    "corporation_name": "Kurupt.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 614411261,
+      "name": "Ivar Quicksand",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 1584529233,
+      "name": "Chaotic Panda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Febha Jaynara",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

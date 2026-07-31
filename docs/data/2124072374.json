@@ -1,0 +1,52 @@
+{
+  "character_id": 2124072374,
+  "total_losses": 25,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2124072371,
+      "name": "Paladin12",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90105935,
+      "name": "Sethos Tragovian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90723207,
+      "name": "Jeanne Hurt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Paladin13",
+  "corporation_id": 98640194,
+  "alliance_id": 99014738,
+  "corporation_name": "Salted Fish Inc",
+  "alliance_name": "The Black Shores"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122770056,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95986361,
+    "name": "Picike Szeretet",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 143968112,
+    "alliance_id": 99007629,
+    "corporation_name": "Wings of Turul",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 95986361,
+      "name": "Picike Szeretet",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121989811,
+      "name": "Enturi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116898368,
+      "name": "1st-Hand",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leo Delta3 Gemini",
+  "corporation_id": 98603002,
+  "alliance_id": null,
+  "corporation_name": "Leo's Sweet Home",
+  "alliance_name": null
+}

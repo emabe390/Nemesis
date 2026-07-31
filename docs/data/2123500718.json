@@ -1,0 +1,34 @@
+{
+  "character_id": 2123500718,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93710245,
+    "name": "Tiber Galient",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 93710245,
+      "name": "Tiber Galient",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1226119440,
+      "name": "Deadhead38",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hi Reddit",
+  "corporation_id": 98826057,
+  "alliance_id": 1354830081,
+  "corporation_name": "Sorry About Your Space",
+  "alliance_name": "Goonswarm Federation"
+}

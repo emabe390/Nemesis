@@ -1,0 +1,52 @@
+{
+  "character_id": 2123632232,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92665983,
+    "name": "Captain Alduin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98325373,
+    "alliance_id": 99012982,
+    "corporation_name": "Running with Dogs",
+    "alliance_name": "OnlyFleets."
+  },
+  "top_killers": [
+    {
+      "id": 92665983,
+      "name": "Captain Alduin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92403862,
+      "name": "Character 92403862",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92498571,
+      "name": "Xorin Thex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95712433,
+      "name": "Luna Amaria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96636264,
+      "name": "Retsudo Yagyu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "it comes around",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

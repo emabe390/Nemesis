@@ -1,0 +1,52 @@
+{
+  "character_id": 2124272091,
+  "total_losses": 73,
+  "unique_killers": 54,
+  "nemesis": {
+    "id": 2124128931,
+    "name": "Juvley",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98820049,
+    "alliance_id": null,
+    "corporation_name": "Slow Life In The Minmatar",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124128931,
+      "name": "Juvley",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121998608,
+      "name": "Snauso",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90870013,
+      "name": "Vardant Arbosa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95169406,
+      "name": "Ishtar Komarovo",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Captain House",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

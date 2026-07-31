@@ -1,0 +1,52 @@
+{
+  "character_id": 2123311321,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 788408631,
+    "name": "Freany",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98785346,
+    "alliance_id": 99015016,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Slide On Contact"
+  },
+  "top_killers": [
+    {
+      "id": 788408631,
+      "name": "Freany",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1361950320,
+      "name": "Deiago Dragitor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120003112,
+      "name": "KOT-B-ATAKE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121048512,
+      "name": "Victor Thyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123011192,
+      "name": "KOT ECT-KOBETOP-HA-3ABTPAK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven-Stellaria",
+  "corporation_id": 98815440,
+  "alliance_id": null,
+  "corporation_name": "Stellaris Star Yard Services",
+  "alliance_name": null
+}

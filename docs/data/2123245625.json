@@ -1,0 +1,40 @@
+{
+  "character_id": 2123245625,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90534696,
+    "name": "deathops barrett",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 263585335,
+    "alliance_id": 498125261,
+    "corporation_name": "Black Omega Security",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 90534696,
+      "name": "deathops barrett",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 583926695,
+      "name": "Skillgannonn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iron JJ",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

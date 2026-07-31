@@ -1,0 +1,52 @@
+{
+  "character_id": 2123454835,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91279102,
+    "name": "Sniper Isu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98117112,
+    "alliance_id": null,
+    "corporation_name": "PIROCOR",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91279102,
+      "name": "Sniper Isu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92089166,
+      "name": "Egoiste Aele",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1112139706,
+      "name": "stuN palS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112133747,
+      "name": "Alooker YAG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112517961,
+      "name": "Daniel-San Winchester",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ookilen Toila Motsu",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

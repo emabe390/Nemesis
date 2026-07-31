@@ -1,0 +1,46 @@
+{
+  "character_id": 2114562783,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123080081,
+    "name": "Dogwelder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000179,
+    "alliance_id": null,
+    "corporation_name": "24th Imperial Crusade",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123080081,
+      "name": "Dogwelder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123747448,
+      "name": "Buddy Dicaprio",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 341219273,
+      "name": "Tex Raynor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 686505648,
+      "name": "Thor Kerrigan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Harbinger Ultimate",
+  "corporation_id": 98812464,
+  "alliance_id": 99013537,
+  "corporation_name": "Northern Dominion",
+  "alliance_name": "Insidious."
+}

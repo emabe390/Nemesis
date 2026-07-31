@@ -1,0 +1,52 @@
+{
+  "character_id": 2123688676,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2123623858,
+    "name": "PitG",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98742144,
+    "alliance_id": 99012369,
+    "corporation_name": "D I E . S T E I N B E I S S E R",
+    "alliance_name": "OUT OF THE DEEP"
+  },
+  "top_killers": [
+    {
+      "id": 2123623858,
+      "name": "PitG",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91099622,
+      "name": "Enzo Hayuki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92033685,
+      "name": "NoLogos Zaminous",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92800315,
+      "name": "S Griffen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PitGBuff",
+  "corporation_id": 98742144,
+  "alliance_id": 99012369,
+  "corporation_name": "D I E . S T E I N B E I S S E R",
+  "alliance_name": "OUT OF THE DEEP"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123852386,
+  "total_losses": 51,
+  "unique_killers": 37,
+  "nemesis": {
+    "id": 2124272551,
+    "name": "William Scatner",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98778904,
+    "alliance_id": null,
+    "corporation_name": "Clandestinauts",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124272551,
+      "name": "William Scatner",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95384357,
+      "name": "Succubus M",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96582280,
+      "name": "K Vicemen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123352416,
+      "name": "Lieurenave Vynneve",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91256825,
+      "name": "Sonic 37",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Old Redcap Sly",
+  "corporation_id": 98778904,
+  "alliance_id": 99015054,
+  "corporation_name": "Clandestinauts",
+  "alliance_name": "War of the Flea"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123869818,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2113457579,
+    "name": "Necrostrider Strider",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113457579,
+      "name": "Necrostrider Strider",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94317464,
+      "name": "Jack Firm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115068974,
+      "name": "Sigmond Yazria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121189899,
+      "name": "SeriesPro",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122507546,
+      "name": "Amanda Banana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "D0N-Diablo",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124179570,
+  "total_losses": 13,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 96272781,
+    "name": "Vector Orange",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96272781,
+      "name": "Vector Orange",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95107545,
+      "name": "Zorgar Zevalion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95778224,
+      "name": "Starlei Lavrinenko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Veneditor",
+  "corporation_id": 98830514,
+  "alliance_id": 150097440,
+  "corporation_name": "El Imperio Eterno",
+  "alliance_name": "Get Off My Lawn"
+}

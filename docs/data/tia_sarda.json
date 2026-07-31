@@ -1,0 +1,34 @@
+{
+  "character_id": 2123404478,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92884471,
+    "name": "Undersea Unicorn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 92884471,
+      "name": "Undersea Unicorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1548863606,
+      "name": "Teknophage",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tia Sarda",
+  "corporation_id": 98809234,
+  "alliance_id": 99014768,
+  "corporation_name": "Framgangur",
+  "alliance_name": "Storm Petrel Alliance"
+}

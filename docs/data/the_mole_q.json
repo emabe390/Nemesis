@@ -1,0 +1,52 @@
+{
+  "character_id": 2123197940,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020005,
+      "name": "Tyrannos Navarkos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94564223,
+      "name": "Bjorn Itonula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96246748,
+      "name": "Tiger space Thedark",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Mole Q",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

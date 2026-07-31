@@ -1,0 +1,40 @@
+{
+  "character_id": 1415263728,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121947082,
+      "name": "EF Sigma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120592173,
+      "name": "Mauz Froncek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bettie Coltrane",
+  "corporation_id": 98652516,
+  "alliance_id": 99014726,
+  "corporation_name": "Terminus Technologies Inc.",
+  "alliance_name": "Terminally Inept Traders and Scanners"
+}

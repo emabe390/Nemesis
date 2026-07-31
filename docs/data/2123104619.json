@@ -1,0 +1,40 @@
+{
+  "character_id": 2123104619,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115312456,
+    "name": "Matic Walk",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98789418,
+    "alliance_id": null,
+    "corporation_name": "Mental Disruption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115312456,
+      "name": "Matic Walk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120699364,
+      "name": "Kressu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122000106,
+      "name": "sinKR3AL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bosch Waschmaschine",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

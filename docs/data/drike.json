@@ -1,0 +1,52 @@
+{
+  "character_id": 2114426335,
+  "total_losses": 31,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 1033335677,
+    "name": "Viribus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1033335677,
+      "name": "Viribus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91923051,
+      "name": "Jack Peatec",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94078213,
+      "name": "Logan Aldeland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94291757,
+      "name": "Droid Petrovich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94500262,
+      "name": "VASA PUPKINN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drike",
+  "corporation_id": 98722831,
+  "alliance_id": 99003214,
+  "corporation_name": "The Friendly Fire Team",
+  "alliance_name": "Brave Collective"
+}

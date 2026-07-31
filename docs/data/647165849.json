@@ -1,0 +1,52 @@
+{
+  "character_id": 647165849,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 545912655,
+    "name": "Character 545912655",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1211383288,
+    "alliance_id": 99004295,
+    "corporation_name": "Lucifer's Hammer",
+    "alliance_name": "A Band Apart."
+  },
+  "top_killers": [
+    {
+      "id": 545912655,
+      "name": "Character 545912655",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120696692,
+      "name": "CTA61",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121097815,
+      "name": "Danny Nedelko",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121854122,
+      "name": "HandsomeChap",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dr Spok",
+  "corporation_id": 1104020786,
+  "alliance_id": 1900696668,
+  "corporation_name": "Sons of Zeus.",
+  "alliance_name": "The Initiative."
+}

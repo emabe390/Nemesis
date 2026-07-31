@@ -1,0 +1,46 @@
+{
+  "character_id": 2123364890,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114622852,
+    "name": "Nani Nanu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98149099,
+    "alliance_id": null,
+    "corporation_name": "Space Wulf's",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114622852,
+      "name": "Nani Nanu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1487320490,
+      "name": "Metaloid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113803816,
+      "name": "Arik Zahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "varible",
+  "corporation_id": 98802567,
+  "alliance_id": null,
+  "corporation_name": "TINC Corporation",
+  "alliance_name": null
+}

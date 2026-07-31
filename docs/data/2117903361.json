@@ -1,0 +1,46 @@
+{
+  "character_id": 2117903361,
+  "total_losses": 14,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95446412,
+    "name": "Sun Set Shimmer",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98630716,
+    "alliance_id": 99009830,
+    "corporation_name": "Volantean Nation",
+    "alliance_name": "Lan'Tean Imperium"
+  },
+  "top_killers": [
+    {
+      "id": 95446412,
+      "name": "Sun Set Shimmer",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 95675679,
+      "name": "Black Jack Nightmare",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112839983,
+      "name": "Nightmare Slave Two",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112839709,
+      "name": "Nightmare Slave One",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luna Nocturnal",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

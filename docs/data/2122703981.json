@@ -1,0 +1,40 @@
+{
+  "character_id": 2122703981,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95836181,
+    "name": "Julieta Chavez",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98576506,
+    "alliance_id": 99010079,
+    "corporation_name": "Brave Operations - Industry Division",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 95836181,
+      "name": "Julieta Chavez",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96164743,
+      "name": "General Skywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 820875466,
+      "name": "Admiral Sparrow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vibriya",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

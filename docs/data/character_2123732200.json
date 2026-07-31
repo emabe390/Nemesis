@@ -1,0 +1,40 @@
+{
+  "character_id": 2123732200,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93097462,
+    "name": "Legion Shavare",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98794423,
+    "alliance_id": 99012060,
+    "corporation_name": "Lonetrek Directorate of Taxation",
+    "alliance_name": "Standard Protocol"
+  },
+  "top_killers": [
+    {
+      "id": 93097462,
+      "name": "Legion Shavare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94286475,
+      "name": "Paragon Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123637555,
+      "name": "General Not X",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123732200",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

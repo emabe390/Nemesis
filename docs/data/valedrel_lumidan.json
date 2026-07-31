@@ -1,0 +1,40 @@
+{
+  "character_id": 94285654,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120872642,
+    "name": "Deore Aetis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98728495,
+    "alliance_id": 99010421,
+    "corporation_name": "Gay Triglavian Force Operations",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2120872642,
+      "name": "Deore Aetis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123970366,
+      "name": "Ayvi Miner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124027101,
+      "name": "Vovka Filaret",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Valedrel Lumidan",
+  "corporation_id": 1000080,
+  "alliance_id": null,
+  "corporation_name": "Ministry of War",
+  "alliance_name": null
+}

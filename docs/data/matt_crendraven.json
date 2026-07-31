@@ -1,0 +1,40 @@
+{
+  "character_id": 90498100,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95195707,
+    "name": "GOMER SIMPSON",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98679428,
+    "alliance_id": 99010320,
+    "corporation_name": "SCREECHING GRASS",
+    "alliance_name": "Bully Brigade"
+  },
+  "top_killers": [
+    {
+      "id": 95195707,
+      "name": "GOMER SIMPSON",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94631050,
+      "name": "Stephan Weidner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117905844,
+      "name": "Moki Kuha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Matt Crendraven",
+  "corporation_id": 98812235,
+  "alliance_id": null,
+  "corporation_name": "OrangeStar Industries",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123901910,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1710938021,
+    "name": "Motininis",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98408993,
+    "alliance_id": null,
+    "corporation_name": "Blood Cult",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1710938021,
+      "name": "Motininis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123606128,
+      "name": "Ctrushn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 532086182,
+      "name": "MORBSTAR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dault",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

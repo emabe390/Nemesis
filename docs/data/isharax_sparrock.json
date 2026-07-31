@@ -1,0 +1,52 @@
+{
+  "character_id": 2121516947,
+  "total_losses": 20,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117763006,
+      "name": "social Dee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90835645,
+      "name": "Lethe's Spring",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Isharax Sparrock",
+  "corporation_id": 98743227,
+  "alliance_id": 99013548,
+  "corporation_name": "Enigma Expanse",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

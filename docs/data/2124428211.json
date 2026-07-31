@@ -1,0 +1,40 @@
+{
+  "character_id": 2124428211,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112131460,
+    "name": "Cassian Drask",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2112131460,
+      "name": "Cassian Drask",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113894254,
+      "name": "Alherm Bererund",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124146540,
+      "name": "Mad Exterminator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alysor",
+  "corporation_id": 98767024,
+  "alliance_id": 99013563,
+  "corporation_name": "Allied Exploration Front",
+  "alliance_name": "Allied Exploration Front AXXF"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2116431095,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1020214161,
+    "name": "Boris Samson",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98762691,
+    "alliance_id": 99014668,
+    "corporation_name": "Arquebus Co.",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 1020214161,
+      "name": "Boris Samson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1775416025,
+      "name": "Sillyak",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122020189,
+      "name": "OrFinViBeS",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Remus Ordo",
+  "corporation_id": 98647659,
+  "alliance_id": 99011978,
+  "corporation_name": "Soltech Armada",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

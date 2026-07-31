@@ -1,0 +1,40 @@
+{
+  "character_id": 273570899,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116273912,
+    "name": "YANG KE",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116273912,
+      "name": "YANG KE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118016008,
+      "name": "Contingency-JCTX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119568054,
+      "name": "Agstarl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aron Soputo",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

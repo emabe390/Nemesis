@@ -1,0 +1,52 @@
+{
+  "character_id": 2123234134,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2115928815,
+    "name": "Akillith Abeloth",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98227378,
+    "alliance_id": 1900696668,
+    "corporation_name": "Comply Or Die",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2115928815,
+      "name": "Akillith Abeloth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96531387,
+      "name": "Nessmen Utama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121572226,
+      "name": "LutuYukuai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123262068,
+      "name": "MO PA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123328911,
+      "name": "TaiTuSi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "risk09",
+  "corporation_id": 98779121,
+  "alliance_id": 99014341,
+  "corporation_name": "The Stellar Paradox",
+  "alliance_name": "CreepShow Entertainment"
+}

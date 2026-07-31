@@ -1,0 +1,40 @@
+{
+  "character_id": 2123946825,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91836904,
+    "name": "Count Darwin",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98734047,
+    "alliance_id": 1354830081,
+    "corporation_name": "Carebears -With- Guns",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 91836904,
+      "name": "Count Darwin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122609143,
+      "name": "Izula",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123750963,
+      "name": "AIvatar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SmileZhao",
+  "corporation_id": 98707431,
+  "alliance_id": 99013541,
+  "corporation_name": "Serenity Moe University",
+  "alliance_name": "Fraternity Auxiliary"
+}

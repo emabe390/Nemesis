@@ -1,0 +1,40 @@
+{
+  "character_id": 2124296525,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123578357,
+    "name": "PPBOOM",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123578357,
+      "name": "PPBOOM",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96883734,
+      "name": "Gaz Peder",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116281043,
+      "name": "Bogdanoff Grichka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Verian Arlasta",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

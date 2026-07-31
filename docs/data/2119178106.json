@@ -1,0 +1,52 @@
+{
+  "character_id": 2119178106,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114576580,
+      "name": "Vikk Vegas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120646800,
+      "name": "Neisseria G0n0rrhoeae",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121924647,
+      "name": "Lethrim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122704421,
+      "name": "Hunter Lepardieu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mihail Lazarev",
+  "corporation_id": 98520878,
+  "alliance_id": 99001317,
+  "corporation_name": "Russian Space Community",
+  "alliance_name": "Banderlogs Alliance"
+}

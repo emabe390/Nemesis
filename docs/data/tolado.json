@@ -1,0 +1,40 @@
+{
+  "character_id": 2121665616,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92992007,
+    "name": "Jenos Halcyon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98511735,
+    "alliance_id": 99005178,
+    "corporation_name": "Quebecorp",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 92992007,
+      "name": "Jenos Halcyon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1490161422,
+      "name": "0101000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114715836,
+      "name": "Big All",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tolado",
+  "corporation_id": 98780340,
+  "alliance_id": 99011416,
+  "corporation_name": "Nomadic Spartans",
+  "alliance_name": "LinkNet"
+}

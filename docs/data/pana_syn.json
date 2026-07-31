@@ -1,0 +1,52 @@
+{
+  "character_id": 2123880608,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2121345502,
+    "name": "Boltrom",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000172,
+    "alliance_id": null,
+    "corporation_name": "Pator Tech School",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121345502,
+      "name": "Boltrom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 427321592,
+      "name": "Shimrock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1216508539,
+      "name": "Alice Keeper",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1573202061,
+      "name": "Unstopable Deadman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115711384,
+      "name": "Olexis Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PaNa Syn",
+  "corporation_id": 98807248,
+  "alliance_id": 99011314,
+  "corporation_name": "Galactic Pet Carrier",
+  "alliance_name": "SLOW Logistics Alliance"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123749607,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94307363,
+    "name": "Anika Petrokova",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98695839,
+    "alliance_id": 99003214,
+    "corporation_name": "South Sun Industries",
+    "alliance_name": "Brave Collective"
+  },
+  "top_killers": [
+    {
+      "id": 94307363,
+      "name": "Anika Petrokova",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115193701,
+      "name": "Totally Bewildered",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123749607,
+      "name": "Artemis sil Veikith",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artemis sil Veikith",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

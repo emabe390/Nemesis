@@ -1,0 +1,52 @@
+{
+  "character_id": 2123668300,
+  "total_losses": 29,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123467436,
+    "name": "Mad Reaperr",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98805841,
+    "alliance_id": 99012040,
+    "corporation_name": "The Party Crashers",
+    "alliance_name": "Regnum Astera"
+  },
+  "top_killers": [
+    {
+      "id": 2123467436,
+      "name": "Mad Reaperr",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123370103,
+      "name": "GraniteIce",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90393747,
+      "name": "Gramps Pljugi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95973205,
+      "name": "Camille Rin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "scathen",
+  "corporation_id": 98805841,
+  "alliance_id": null,
+  "corporation_name": "The Party Crashers",
+  "alliance_name": null
+}

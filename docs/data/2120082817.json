@@ -1,0 +1,52 @@
+{
+  "character_id": 2120082817,
+  "total_losses": 22,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2120415664,
+      "name": "Naomi Alexis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90786505,
+      "name": "Mullokad Iwaira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91019038,
+      "name": "Alfred Von Heisterburg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91630606,
+      "name": "William Follet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "catch star1",
+  "corporation_id": 98575144,
+  "alliance_id": 99003581,
+  "corporation_name": "Phoenix City",
+  "alliance_name": "Fraternity."
+}

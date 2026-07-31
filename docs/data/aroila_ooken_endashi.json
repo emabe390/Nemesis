@@ -1,0 +1,52 @@
+{
+  "character_id": 2123571216,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123555686,
+    "name": "porx",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98767024,
+    "alliance_id": 99013563,
+    "corporation_name": "Allied Exploration Front",
+    "alliance_name": "Allied Exploration Front AXXF"
+  },
+  "top_killers": [
+    {
+      "id": 2123555686,
+      "name": "porx",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96298613,
+      "name": "H-11 H-77",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1818628567,
+      "name": "sliver 0xD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112366909,
+      "name": "Ori Akami",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120792409,
+      "name": "Westlia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aroila Ooken Endashi",
+  "corporation_id": 98767024,
+  "alliance_id": 99013563,
+  "corporation_name": "Allied Exploration Front",
+  "alliance_name": "Allied Exploration Front AXXF"
+}

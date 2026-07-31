@@ -1,0 +1,52 @@
+{
+  "character_id": 2123855123,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92104475,
+    "name": "Obsidian Blackthorn",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 92104475,
+      "name": "Obsidian Blackthorn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1275343164,
+      "name": "Lil Einstein",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116780416,
+      "name": "Jun gu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alan Jaguar",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115730668,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92685256,
+    "name": "Shepard Carver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1673385956,
+    "alliance_id": 99011223,
+    "corporation_name": "Syndicate Enterprise",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 92685256,
+      "name": "Shepard Carver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92809371,
+      "name": "Nitto Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95620034,
+      "name": "MAKC BELIC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "TachibanaKanade",
+  "corporation_id": 98833187,
+  "alliance_id": 99007887,
+  "corporation_name": "Tianshan Imperial Guard",
+  "alliance_name": "Brotherhood of Spacers"
+}

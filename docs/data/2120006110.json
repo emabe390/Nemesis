@@ -1,0 +1,40 @@
+{
+  "character_id": 2120006110,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122181837,
+    "name": "Dehi Yassavi",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98772467,
+    "alliance_id": null,
+    "corporation_name": "Shadow Fleet.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122181837,
+      "name": "Dehi Yassavi",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 993323685,
+      "name": "Zend Verden",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123018054,
+      "name": "Alien Fun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andrey Kiritas",
+  "corporation_id": 98477000,
+  "alliance_id": 99010522,
+  "corporation_name": "Space Sich",
+  "alliance_name": "UA. Space"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 96102695,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96158434,
+    "name": "Elckron",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98540641,
+    "alliance_id": 99010457,
+    "corporation_name": "SYSTEM Corp",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96158434,
+      "name": "Elckron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 641794466,
+      "name": "Kilroy S",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118708101,
+      "name": "sammytobe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Android Mullers",
+  "corporation_id": 1000006,
+  "alliance_id": null,
+  "corporation_name": "Deep Core Mining Inc.",
+  "alliance_name": null
+}

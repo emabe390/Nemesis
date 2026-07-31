@@ -1,0 +1,52 @@
+{
+  "character_id": 2123123741,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117591218,
+    "name": "Xarkon Serine",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 2117591218,
+      "name": "Xarkon Serine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96197554,
+      "name": "Captain Smile",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 558518463,
+      "name": "Shadler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113586232,
+      "name": "Sister Clocks",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bousse Aideron",
+  "corporation_id": 98793911,
+  "alliance_id": 99014548,
+  "corporation_name": "evod logistics",
+  "alliance_name": "Project Oasis"
+}

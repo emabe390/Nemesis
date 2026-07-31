@@ -1,0 +1,40 @@
+{
+  "character_id": 2124423399,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121198918,
+    "name": "Mister Trickster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98741086,
+    "alliance_id": 99013045,
+    "corporation_name": "One Angry UKR",
+    "alliance_name": "UA Fleets Holding"
+  },
+  "top_killers": [
+    {
+      "id": 2121198918,
+      "name": "Mister Trickster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121747703,
+      "name": "Kaimak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95356395,
+      "name": "Mick Wilde",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rakeeni Lian Chetouni",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123889216,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116690528,
+    "name": "CNMoon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98537981,
+    "alliance_id": 99003581,
+    "corporation_name": "Galactic Empire Co LTD",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2116690528,
+      "name": "CNMoon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1532903269,
+      "name": "FonsterKajare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DTX8288",
+  "corporation_id": 98456550,
+  "alliance_id": 99009163,
+  "corporation_name": "Eternity Pavilion",
+  "alliance_name": "Dracarys."
+}

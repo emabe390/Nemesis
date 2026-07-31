@@ -1,0 +1,46 @@
+{
+  "character_id": 2123892132,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112133747,
+    "name": "Alooker YAG",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2112133747,
+      "name": "Alooker YAG",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 167517457,
+      "name": "Spar Multendor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120873305,
+      "name": "Obsidian Skar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122507546,
+      "name": "Amanda Banana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Christopher Harlow",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

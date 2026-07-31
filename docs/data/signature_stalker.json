@@ -1,0 +1,40 @@
+{
+  "character_id": 2124044575,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95952944,
+    "name": "Volkov Sanguinar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98658146,
+    "alliance_id": null,
+    "corporation_name": "Hidden Legacy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95952944,
+      "name": "Volkov Sanguinar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113302636,
+      "name": "129x01 Hexadecimal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123150828,
+      "name": "Palaziy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Signature Stalker",
+  "corporation_id": 98826113,
+  "alliance_id": null,
+  "corporation_name": "Hoid Holding",
+  "alliance_name": null
+}

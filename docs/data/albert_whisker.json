@@ -1,0 +1,52 @@
+{
+  "character_id": 2120893037,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 93475766,
+    "name": "Tidus Hanaya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112152985,
+      "name": "Imperius Amarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93376424,
+      "name": "Audrey Assad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93390401,
+      "name": "Savarox Crowen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 304652582,
+      "name": "Malcolm Malicious",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Albert Whisker",
+  "corporation_id": 557199155,
+  "alliance_id": 99011223,
+  "corporation_name": "The New Federation",
+  "alliance_name": "Sigma Grindset"
+}

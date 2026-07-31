@@ -1,0 +1,52 @@
+{
+  "character_id": 662674290,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 895888203,
+    "name": "Laarz",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 895888203,
+      "name": "Laarz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 198914893,
+      "name": "Vladimir Elexiel",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1267006933,
+      "name": "Faceoff84",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122915166,
+      "name": "Auron Askold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doctor Mike",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

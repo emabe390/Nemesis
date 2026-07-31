@@ -1,0 +1,46 @@
+{
+  "character_id": 2123641445,
+  "total_losses": 20,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123263326,
+    "name": "Sapar Odrin",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98074264,
+    "alliance_id": null,
+    "corporation_name": "London Elektricity",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123263326,
+      "name": "Sapar Odrin",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2112847569,
+      "name": "Shito Ren",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2112191771,
+      "name": "Nick Ezinem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123641445,
+      "name": "StonefaceNL",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StonefaceNL",
+  "corporation_id": 98074264,
+  "alliance_id": null,
+  "corporation_name": "London Elektricity",
+  "alliance_name": null
+}

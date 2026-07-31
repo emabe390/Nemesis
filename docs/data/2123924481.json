@@ -1,0 +1,46 @@
+{
+  "character_id": 2123924481,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114783921,
+    "name": "g0uda",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91199436,
+      "name": "Lani Noobani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90532329,
+      "name": "Kitty Duval",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 977054475,
+      "name": "Manfred Stahler",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jason Priestley",
+  "corporation_id": 98632833,
+  "alliance_id": null,
+  "corporation_name": "Katolis",
+  "alliance_name": null
+}

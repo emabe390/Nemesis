@@ -1,0 +1,40 @@
+{
+  "character_id": 1544363613,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96174116,
+    "name": "EternalStarsea",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96174116,
+      "name": "EternalStarsea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 574491333,
+      "name": "Judas Aralius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 624674285,
+      "name": "LundeBob",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alex Tantra",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123943743,
+  "total_losses": 147,
+  "unique_killers": 111,
+  "nemesis": {
+    "id": 96481537,
+    "name": "Xel'lotath Tier",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98523718,
+    "alliance_id": null,
+    "corporation_name": "Sanity's Redemption",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96481537,
+      "name": "Xel'lotath Tier",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95310292,
+      "name": "Osric Naskingar",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93672441,
+      "name": "Orion Sa-Solo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96965898,
+      "name": "Vikak Achasse",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Karman Herodoton",
+  "corporation_id": 98802001,
+  "alliance_id": 99010995,
+  "corporation_name": "Empyrean Academy",
+  "alliance_name": "Empyrean Edict"
+}

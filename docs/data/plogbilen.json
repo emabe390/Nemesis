@@ -1,0 +1,52 @@
+{
+  "character_id": 626955275,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 96548190,
+    "name": "You Got Dunked",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98831583,
+    "alliance_id": null,
+    "corporation_name": "InterGate Customs Control",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96548190,
+      "name": "You Got Dunked",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90360702,
+      "name": "Ethien Green",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92480026,
+      "name": "Rangor Post",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Plogbilen",
+  "corporation_id": 98729619,
+  "alliance_id": 99010240,
+  "corporation_name": "Wealthy Tax Fugitives",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

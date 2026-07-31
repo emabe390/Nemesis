@@ -1,0 +1,40 @@
+{
+  "character_id": 2119858933,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91952099,
+    "name": "TheUnholyTerror",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771388,
+    "alliance_id": 555959926,
+    "corporation_name": "Tactical Grace.",
+    "alliance_name": "Vanguard."
+  },
+  "top_killers": [
+    {
+      "id": 91952099,
+      "name": "TheUnholyTerror",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95639117,
+      "name": "Komod Drone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 226686100,
+      "name": "WillusKillus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ESY01",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

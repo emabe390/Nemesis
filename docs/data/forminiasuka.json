@@ -1,0 +1,40 @@
+{
+  "character_id": 2123552972,
+  "total_losses": 24,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121130491,
+    "name": "ForUndeadAsuka",
+    "kill_count": 22,
+    "final_blows": 22,
+    "corporation_id": 98570132,
+    "alliance_id": 99003581,
+    "corporation_name": "EF air force",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121130491,
+      "name": "ForUndeadAsuka",
+      "kill_count": 22,
+      "final_blows": 22
+    },
+    {
+      "id": 96137114,
+      "name": "Snow Kidfox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115800758,
+      "name": "huanying Yatolila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ForMiniAsuka",
+  "corporation_id": 98805400,
+  "alliance_id": 99006406,
+  "corporation_name": "EF air force University",
+  "alliance_name": "Fraternity University"
+}

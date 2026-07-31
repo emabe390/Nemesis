@@ -1,0 +1,52 @@
+{
+  "character_id": 2115046402,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96706657,
+      "name": "Aleksandr Grim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1330550491,
+      "name": "HighLord Havoc",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1423714908,
+      "name": "Jack Munny",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112685371,
+      "name": "Auditeur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orli Valun",
+  "corporation_id": 98626173,
+  "alliance_id": null,
+  "corporation_name": "Colonist of the Universal World",
+  "alliance_name": null
+}

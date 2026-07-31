@@ -1,0 +1,40 @@
+{
+  "character_id": 2123656934,
+  "total_losses": 17,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92621545,
+    "name": "Eli Patrouette",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98836815,
+    "alliance_id": 99015107,
+    "corporation_name": "We Touch Tips",
+    "alliance_name": "Suspiciously Well-Oiled Gamers"
+  },
+  "top_killers": [
+    {
+      "id": 92621545,
+      "name": "Eli Patrouette",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 92676938,
+      "name": "Soni Patrouette",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 828489921,
+      "name": "Ralian Gelain",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Beatrice Oksaras",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

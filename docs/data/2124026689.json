@@ -1,0 +1,52 @@
+{
+  "character_id": 2124026689,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90110676,
+      "name": "Ch'angCh'ang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96142487,
+      "name": "Karu Kasenumi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96724929,
+      "name": "Arthur Hemanseh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 187723081,
+      "name": "Lord Brummer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mary Pritchett",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

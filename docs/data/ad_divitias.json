@@ -1,0 +1,40 @@
+{
+  "character_id": 2123134600,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116659899,
+    "name": "Tasty Crab",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662506,
+    "alliance_id": null,
+    "corporation_name": "Just Munufacture It",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116659899,
+      "name": "Tasty Crab",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 390820993,
+      "name": "Borges08",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 881777623,
+      "name": "Autumn Nature",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ad Divitias",
+  "corporation_id": 98829507,
+  "alliance_id": null,
+  "corporation_name": "AAA Battery",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124113044,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90323169,
+    "name": "Aeth Gemulus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 553310352,
+    "alliance_id": null,
+    "corporation_name": "The Hatchery",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90323169,
+      "name": "Aeth Gemulus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91500790,
+      "name": "Crackpot V",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 532060175,
+      "name": "Dieko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Feclan",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

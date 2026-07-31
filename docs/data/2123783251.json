@@ -1,0 +1,52 @@
+{
+  "character_id": 2123783251,
+  "total_losses": 21,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123838366,
+    "name": "Rocket 85",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98632833,
+    "alliance_id": null,
+    "corporation_name": "Katolis",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123838366,
+      "name": "Rocket 85",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1380968958,
+      "name": "D'rall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115661242,
+      "name": "Pregananant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119268627,
+      "name": "Flibbertyjibbet",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jromia PI Guy",
+  "corporation_id": 98632833,
+  "alliance_id": null,
+  "corporation_name": "Katolis",
+  "alliance_name": null
+}

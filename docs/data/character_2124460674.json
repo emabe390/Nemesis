@@ -1,0 +1,40 @@
+{
+  "character_id": 2124460674,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 923688672,
+    "name": "Akurus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98403734,
+    "alliance_id": 99009885,
+    "corporation_name": "Subsidy H.R.S.",
+    "alliance_name": "Xagenic Freymvork"
+  },
+  "top_killers": [
+    {
+      "id": 923688672,
+      "name": "Akurus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123699361,
+      "name": "NekoAmane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124323362,
+      "name": "Pyro Negen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124460674",
+  "corporation_id": 98673544,
+  "alliance_id": 99003581,
+  "corporation_name": "InFlames.",
+  "alliance_name": "Fraternity."
+}

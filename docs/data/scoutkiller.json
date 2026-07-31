@@ -1,0 +1,46 @@
+{
+  "character_id": 2123492536,
+  "total_losses": 9,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1194877094,
+      "name": "LexLan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1865606068,
+      "name": "Emeranda N'Circe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121958249,
+      "name": "Capt Scarlet",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Scoutkiller",
+  "corporation_id": 98695005,
+  "alliance_id": 1354830081,
+  "corporation_name": "Splintered Dreams",
+  "alliance_name": "Goonswarm Federation"
+}

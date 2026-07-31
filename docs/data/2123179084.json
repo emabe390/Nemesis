@@ -1,0 +1,52 @@
+{
+  "character_id": 2123179084,
+  "total_losses": 50,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2123451297,
+    "name": "Baron B0B",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 98824787,
+    "alliance_id": null,
+    "corporation_name": "Highsec Ants",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123451297,
+      "name": "Baron B0B",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 2123196176,
+      "name": "Wing Commander B0B",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94460318,
+      "name": "EnatKinu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Osari Abara Otichoda",
+  "corporation_id": 98199332,
+  "alliance_id": 498125261,
+  "corporation_name": "Space Ants",
+  "alliance_name": "Test Alliance Please Ignore"
+}

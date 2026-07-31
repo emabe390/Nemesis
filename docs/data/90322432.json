@@ -1,0 +1,52 @@
+{
+  "character_id": 90322432,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 90746389,
+    "name": "Sonny O'neil",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93954410,
+      "name": "Eren Dante",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95041309,
+      "name": "Lamenoire Toralen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 276150103,
+      "name": "Slick Duoros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1287498641,
+      "name": "Liz Aun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mike Malstar",
+  "corporation_id": 98818770,
+  "alliance_id": null,
+  "corporation_name": "Heavy Kinetic Industries",
+  "alliance_name": null
+}

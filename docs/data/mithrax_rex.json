@@ -1,0 +1,52 @@
+{
+  "character_id": 2123673646,
+  "total_losses": 32,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123823133,
+    "name": "Felicity Rex",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 98815988,
+    "alliance_id": null,
+    "corporation_name": "Rex Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123823133,
+      "name": "Felicity Rex",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2124328971,
+      "name": "Rylie Rex",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2124490996,
+      "name": "Ray Rex",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2118673716,
+      "name": "Tionfig Tiomping",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90342647,
+      "name": "Morgan le Fey",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mithrax Rex",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

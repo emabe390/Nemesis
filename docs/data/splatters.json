@@ -1,0 +1,52 @@
+{
+  "character_id": 2119228582,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94355755,
+      "name": "Arazu Helios",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1164839908,
+      "name": "Red Beard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90818092,
+      "name": "Dookova",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90974043,
+      "name": "Daniel Alpena",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Splatters",
+  "corporation_id": 98780220,
+  "alliance_id": 99014210,
+  "corporation_name": "Unwritten",
+  "alliance_name": "Buy Low Die High"
+}

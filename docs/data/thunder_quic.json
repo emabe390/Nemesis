@@ -1,0 +1,52 @@
+{
+  "character_id": 2122054024,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2121827716,
+    "name": "Tony TwinTurbo",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98326241,
+    "alliance_id": 99009845,
+    "corporation_name": "Jerkasaurus Wrecks Inc.",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2121827716,
+      "name": "Tony TwinTurbo",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95206549,
+      "name": "LeeChanka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1243112377,
+      "name": "Agust Thor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1296068511,
+      "name": "Paraveil",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thunder Quic",
+  "corporation_id": 98755298,
+  "alliance_id": 99005338,
+  "corporation_name": "Fox of Resistance",
+  "alliance_name": "Pandemic Horde"
+}

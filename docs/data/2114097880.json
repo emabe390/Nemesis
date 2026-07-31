@@ -1,0 +1,40 @@
+{
+  "character_id": 2114097880,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113499894,
+    "name": "Phriding",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98812908,
+    "alliance_id": 99003995,
+    "corporation_name": "Domain of Death",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2113499894,
+      "name": "Phriding",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113553121,
+      "name": "Malinois Mali",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120326074,
+      "name": "Dermier Sail",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tank T-55",
+  "corporation_id": 98400629,
+  "alliance_id": null,
+  "corporation_name": "Sanya Rulit Corporation",
+  "alliance_name": null
+}

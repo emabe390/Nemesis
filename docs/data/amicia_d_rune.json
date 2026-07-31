@@ -1,0 +1,34 @@
+{
+  "character_id": 2123120433,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 111175275,
+    "name": "Sharhaner",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 238942032,
+    "alliance_id": 99012042,
+    "corporation_name": "Alfa Corporation",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 111175275,
+      "name": "Sharhaner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120598336,
+      "name": "Africa Heras Gavilan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Amicia d Rune",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

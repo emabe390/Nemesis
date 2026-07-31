@@ -1,0 +1,52 @@
+{
+  "character_id": 2124148108,
+  "total_losses": 54,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 2124218031,
+    "name": "Harald Anleikr",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98807228,
+    "alliance_id": null,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124218031,
+      "name": "Harald Anleikr",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 93372681,
+      "name": "Leafar Nightfall",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93425749,
+      "name": "Shalashaska Adam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 305263755,
+      "name": "Arek Selkaion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Harald Sarkir",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123465856,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93860351,
+    "name": "Fantasia El",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98814817,
+    "alliance_id": 99003581,
+    "corporation_name": "Clown Swords.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 93860351,
+      "name": "Fantasia El",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93940024,
+      "name": "Pleasant Santana",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 162266737,
+      "name": "KayLe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lyra Demetria",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

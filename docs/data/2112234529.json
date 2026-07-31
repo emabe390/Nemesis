@@ -1,0 +1,52 @@
+{
+  "character_id": 2112234529,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2113362799,
+    "name": "GoYoung Mining",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98504153,
+    "alliance_id": 99003581,
+    "corporation_name": "Stay Alive.",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113362799,
+      "name": "GoYoung Mining",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93417319,
+      "name": "Dabragones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95411402,
+      "name": "GoYoung",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 147718219,
+      "name": "Keeves",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 614389879,
+      "name": "TROUB1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GoYoung DH",
+  "corporation_id": 98504153,
+  "alliance_id": 99003581,
+  "corporation_name": "Stay Alive.",
+  "alliance_name": "Fraternity."
+}

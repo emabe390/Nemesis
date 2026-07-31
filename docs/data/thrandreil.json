@@ -1,0 +1,40 @@
+{
+  "character_id": 2118860138,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90338529,
+    "name": "Messor Herman",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98361497,
+    "alliance_id": 1354830081,
+    "corporation_name": "True Faces Hungary",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90338529,
+      "name": "Messor Herman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 606673945,
+      "name": "L0nd0 M0llari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 707377150,
+      "name": "Mirakl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thrandreil",
+  "corporation_id": 98311406,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Exchange Collective",
+  "alliance_name": "Solyaris Chtonium"
+}

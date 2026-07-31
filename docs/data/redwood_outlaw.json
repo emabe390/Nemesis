@@ -1,0 +1,52 @@
+{
+  "character_id": 2121912932,
+  "total_losses": 99,
+  "unique_killers": 80,
+  "nemesis": {
+    "id": 2123714020,
+    "name": "Atruim Atriox",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98820645,
+    "alliance_id": null,
+    "corporation_name": "PhaseShift Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123714020,
+      "name": "Atruim Atriox",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2116485636,
+      "name": "Navar Askold",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96207282,
+      "name": "Lana Wolfram",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95275775,
+      "name": "Nitsu Monyet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96850923,
+      "name": "Sovietrussia",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Redwood Outlaw",
+  "corporation_id": 98828460,
+  "alliance_id": 99013548,
+  "corporation_name": "PhaseShift Drifters",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

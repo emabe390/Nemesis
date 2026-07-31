@@ -1,0 +1,52 @@
+{
+  "character_id": 2120785238,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2118856841,
+    "name": "Korma Sin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118856841,
+      "name": "Korma Sin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90085013,
+      "name": "Tesla X1R",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90086332,
+      "name": "Tony Patterson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90520720,
+      "name": "Imiptat Ore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93312945,
+      "name": "Laslo Hekard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Je31",
+  "corporation_id": 98812181,
+  "alliance_id": 99012664,
+  "corporation_name": "Idle Abyss",
+  "alliance_name": "Recursive Horizons"
+}

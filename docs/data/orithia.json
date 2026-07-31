@@ -1,0 +1,40 @@
+{
+  "character_id": 2123313125,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91060112,
+    "name": "B3AST MODE B3AST",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 91060112,
+      "name": "B3AST MODE B3AST",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93673127,
+      "name": "Jon Illat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 732738715,
+      "name": "Develon Hitaki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orithia",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

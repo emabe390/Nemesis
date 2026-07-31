@@ -1,0 +1,40 @@
+{
+  "character_id": 2123753025,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94370897,
+    "name": "Richard Valdyr",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1720328013,
+      "name": "Adde Helecton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1756880362,
+      "name": "Nikalath",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shlomo Ben Steinberg",
+  "corporation_id": 98482245,
+  "alliance_id": 99014108,
+  "corporation_name": "Panzer Tactics",
+  "alliance_name": "S0ns Of Anarchy"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122046789,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120206910,
+    "name": "AtTheGod",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747886,
+    "alliance_id": 99013690,
+    "corporation_name": "Svideteli Odina",
+    "alliance_name": "Critical. Mass."
+  },
+  "top_killers": [
+    {
+      "id": 2120206910,
+      "name": "AtTheGod",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122693946,
+      "name": "NMmine8B",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122693997,
+      "name": "NMmine2B",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jonoke Garsk",
+  "corporation_id": 98530982,
+  "alliance_id": 99013551,
+  "corporation_name": "Solarmark",
+  "alliance_name": "Stellarium Alliance"
+}

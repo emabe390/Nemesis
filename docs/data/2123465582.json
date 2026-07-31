@@ -1,0 +1,52 @@
+{
+  "character_id": 2123465582,
+  "total_losses": 16,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 92824259,
+    "name": "ScHunter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98431483,
+    "alliance_id": 99014315,
+    "corporation_name": "Inner Hell",
+    "alliance_name": "H.E.L.L."
+  },
+  "top_killers": [
+    {
+      "id": 92824259,
+      "name": "ScHunter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90239593,
+      "name": "Shynix",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94614265,
+      "name": "NeKrolik Erquilenne",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95472433,
+      "name": "Reefer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95567661,
+      "name": "Makro Finn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Funnel of Salvaging",
+  "corporation_id": 98678248,
+  "alliance_id": 99011271,
+  "corporation_name": "Holy Rus Empire",
+  "alliance_name": "4Crabs Tavern"
+}

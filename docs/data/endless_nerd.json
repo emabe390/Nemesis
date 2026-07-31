@@ -1,0 +1,52 @@
+{
+  "character_id": 2124284355,
+  "total_losses": 35,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 2123050333,
+    "name": "Coral Raven",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98541160,
+    "alliance_id": null,
+    "corporation_name": "Stain Corp.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123050333,
+      "name": "Coral Raven",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 822515395,
+      "name": "Nammo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93558221,
+      "name": "Everett Rockefeller",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Endless Nerd",
+  "corporation_id": 98534496,
+  "alliance_id": 99009991,
+  "corporation_name": "Boondocks Industrial",
+  "alliance_name": "Intaki-Business Logistics Union"
+}

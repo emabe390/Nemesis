@@ -1,0 +1,52 @@
+{
+  "character_id": 2122737946,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2113457579,
+    "name": "Necrostrider Strider",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113457579,
+      "name": "Necrostrider Strider",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118176049,
+      "name": "Barreiro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122209376,
+      "name": "Ahdarji",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91587854,
+      "name": "Papera Ebaki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94260398,
+      "name": "Cheryl Astelir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Osaki Prototypes",
+  "corporation_id": 98819796,
+  "alliance_id": 99010240,
+  "corporation_name": "The Silver Wing",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

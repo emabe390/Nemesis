@@ -1,0 +1,46 @@
+{
+  "character_id": 94212345,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94370897,
+    "name": "Richard Valdyr",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 94370897,
+      "name": "Richard Valdyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1196060207,
+      "name": "Pimp Cane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1600033563,
+      "name": "Cadel Mars",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120359694,
+      "name": "S-6539",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bethany Wood",
+  "corporation_id": 98747667,
+  "alliance_id": 99004901,
+  "corporation_name": "Boomer Humor",
+  "alliance_name": "Snuffed Out"
+}

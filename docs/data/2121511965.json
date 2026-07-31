@@ -1,0 +1,52 @@
+{
+  "character_id": 2121511965,
+  "total_losses": 20,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2118127421,
+    "name": "String Theocracy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98538918,
+    "alliance_id": 99003581,
+    "corporation_name": "Foredawn Business Corporation",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2118127421,
+      "name": "String Theocracy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92189666,
+      "name": "Amiga Moja",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93278730,
+      "name": "Xaala Talvanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93624545,
+      "name": "Arlen Kade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94020271,
+      "name": "Raszagal Khalai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nevicare",
+  "corporation_id": 98538918,
+  "alliance_id": 99003581,
+  "corporation_name": "Foredawn Business Corporation",
+  "alliance_name": "Fraternity."
+}

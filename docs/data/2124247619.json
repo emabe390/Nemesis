@@ -1,0 +1,40 @@
+{
+  "character_id": 2124247619,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95144364,
+    "name": "Jilyian Otsolen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95144364,
+      "name": "Jilyian Otsolen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121652517,
+      "name": "Sanquine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123258430,
+      "name": "Joran Kaelor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gianfri",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

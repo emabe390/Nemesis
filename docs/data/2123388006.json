@@ -1,0 +1,52 @@
+{
+  "character_id": 2123388006,
+  "total_losses": 573,
+  "unique_killers": 363,
+  "nemesis": {
+    "id": 2122196229,
+    "name": "Keith Aero",
+    "kill_count": 30,
+    "final_blows": 29,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122196229,
+      "name": "Keith Aero",
+      "kill_count": 30,
+      "final_blows": 29
+    },
+    {
+      "id": 2124025473,
+      "name": "PiratXX",
+      "kill_count": 15,
+      "final_blows": 15
+    },
+    {
+      "id": 2121027256,
+      "name": "Strahlenkater",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2121152279,
+      "name": "Character 2121152279",
+      "kill_count": 14,
+      "final_blows": 14
+    },
+    {
+      "id": 2121959017,
+      "name": "Xapr-Zlodey",
+      "kill_count": 8,
+      "final_blows": 8
+    }
+  ],
+  "character_name": "MadNick",
+  "corporation_id": 98824437,
+  "alliance_id": 99003285,
+  "corporation_name": "Space Tramps of New Eden",
+  "alliance_name": "WarDogs League"
+}

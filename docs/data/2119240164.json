@@ -1,0 +1,52 @@
+{
+  "character_id": 2119240164,
+  "total_losses": 27,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2123666667,
+    "name": "Max Rustatansky",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98802730,
+    "alliance_id": 99014920,
+    "corporation_name": "Spaghetti Militia",
+    "alliance_name": "Spaghetti N' Meatballs"
+  },
+  "top_killers": [
+    {
+      "id": 2123666667,
+      "name": "Max Rustatansky",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91568680,
+      "name": "Crel Voz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93527663,
+      "name": "Jeronimo Moran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94870752,
+      "name": "Joho Kashuken",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ecchigun",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

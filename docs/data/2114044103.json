@@ -1,0 +1,40 @@
+{
+  "character_id": 2114044103,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 864458378,
+    "name": "Skruff",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 864458378,
+      "name": "Skruff",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91005892,
+      "name": "Save Africa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 226583259,
+      "name": "ScheenK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mortigan Kanjus",
+  "corporation_id": 98648215,
+  "alliance_id": null,
+  "corporation_name": "Hyper Pivot",
+  "alliance_name": null
+}

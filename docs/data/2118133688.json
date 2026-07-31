@@ -1,0 +1,40 @@
+{
+  "character_id": 2118133688,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121833083,
+    "name": "Swarozhich",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98818209,
+    "alliance_id": null,
+    "corporation_name": "Night falcons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121833083,
+      "name": "Swarozhich",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117562356,
+      "name": "CH-MAX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iba Serine",
+  "corporation_id": 98571715,
+  "alliance_id": 1900696668,
+  "corporation_name": "Xynodyne",
+  "alliance_name": "The Initiative."
+}

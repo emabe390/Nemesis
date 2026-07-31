@@ -1,0 +1,52 @@
+{
+  "character_id": 2121314824,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 148351537,
+    "name": "Javanabal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98451505,
+    "alliance_id": null,
+    "corporation_name": "Les deux mousquetaires",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 148351537,
+      "name": "Javanabal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 383636737,
+      "name": "The CloudyOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119674973,
+      "name": "Mrx Krypton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93304490,
+      "name": "Character 93304490",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1052797048,
+      "name": "Tobiazo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2121314824",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123687799,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 95152190,
+    "name": "Yuri Otsolen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815625,
+    "alliance_id": 99011127,
+    "corporation_name": "Speaker for the Dead",
+    "alliance_name": "Stay Feral"
+  },
+  "top_killers": [
+    {
+      "id": 95152190,
+      "name": "Yuri Otsolen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95245667,
+      "name": "Lady Lewt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121599379,
+      "name": "Jamata Ki Yuso",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123678616,
+      "name": "Enemy AI",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roy Kahn",
+  "corporation_id": 98746727,
+  "alliance_id": 99008905,
+  "corporation_name": "Lone Wolves Mining",
+  "alliance_name": "EZ. Street"
+}

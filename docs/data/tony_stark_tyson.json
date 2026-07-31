@@ -1,0 +1,52 @@
+{
+  "character_id": 2123683522,
+  "total_losses": 29,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123683304,
+    "name": "Clark Kent Norris",
+    "kill_count": 22,
+    "final_blows": 22,
+    "corporation_id": 98808628,
+    "alliance_id": 99011281,
+    "corporation_name": "Xelrak Institute",
+    "alliance_name": "Naval Defence Institute"
+  },
+  "top_killers": [
+    {
+      "id": 2123683304,
+      "name": "Clark Kent Norris",
+      "kill_count": 22,
+      "final_blows": 22
+    },
+    {
+      "id": 312168979,
+      "name": "Jah'bastah II",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119210149,
+      "name": "Harry No Styles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 434194944,
+      "name": "Eti Cetu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121712510,
+      "name": "Jamie0239",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tony Stark Tyson",
+  "corporation_id": 98816211,
+  "alliance_id": null,
+  "corporation_name": "Bruce Wayne Enterprises",
+  "alliance_name": null
+}

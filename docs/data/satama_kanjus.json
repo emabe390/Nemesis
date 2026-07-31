@@ -1,0 +1,46 @@
+{
+  "character_id": 2123889152,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112078106,
+    "name": "Evan Amouh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798223,
+    "alliance_id": null,
+    "corporation_name": "Ship Sommeliers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112078106,
+      "name": "Evan Amouh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122959010,
+      "name": "Nouri Arareb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122729325,
+      "name": "Isolde von Reuenthal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123892152,
+      "name": "Appened",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Satama Kanjus",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

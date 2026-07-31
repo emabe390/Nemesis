@@ -1,0 +1,40 @@
+{
+  "character_id": 2123215419,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113875865,
+    "name": "Joey Umangiar",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98801741,
+    "alliance_id": 99014391,
+    "corporation_name": "When to Run Where to Hide",
+    "alliance_name": "Howitzers and Champagne"
+  },
+  "top_killers": [
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 244469783,
+      "name": "Naldo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morpheuz Kashuken",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

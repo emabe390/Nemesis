@@ -1,0 +1,52 @@
+{
+  "character_id": 2113947691,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112903628,
+    "name": "Den Bilzerian",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98154172,
+    "alliance_id": 99007887,
+    "corporation_name": "Nether Guards",
+    "alliance_name": "Brotherhood of Spacers"
+  },
+  "top_killers": [
+    {
+      "id": 2112903628,
+      "name": "Den Bilzerian",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93558221,
+      "name": "Everett Rockefeller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 102494091,
+      "name": "Konfuchie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 326296875,
+      "name": "Fouston",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aceassin Thunder",
+  "corporation_id": 98659405,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Astartes",
+  "alliance_name": null
+}

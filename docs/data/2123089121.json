@@ -1,0 +1,40 @@
+{
+  "character_id": 2123089121,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92804446,
+    "name": "Tony Folkner",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92804446,
+      "name": "Tony Folkner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1415393083,
+      "name": "SlikSherman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119986533,
+      "name": "Torbede Ogeir Austrene",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OttoderGrosse",
+  "corporation_id": 98798725,
+  "alliance_id": null,
+  "corporation_name": "Corporation Against Taxes",
+  "alliance_name": null
+}

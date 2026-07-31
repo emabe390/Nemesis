@@ -1,0 +1,52 @@
+{
+  "character_id": 2123745006,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 393298330,
+      "name": "D White",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 986110931,
+      "name": "Daressek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115519721,
+      "name": "Aidan Hakoke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117298490,
+      "name": "Malo Keth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maga iz Derbenta",
+  "corporation_id": 98637669,
+  "alliance_id": 99013924,
+  "corporation_name": "F.13 - Union of Russians",
+  "alliance_name": "Legion of xXDEATHXx Academy"
+}

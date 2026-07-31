@@ -1,0 +1,40 @@
+{
+  "character_id": 2123419025,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123763885,
+    "name": "Freddy Lecter",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123763885,
+      "name": "Freddy Lecter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 203409404,
+      "name": "Archaeda",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Teodor Faenskap",
+  "corporation_id": 739512306,
+  "alliance_id": null,
+  "corporation_name": "Drunken Explorers",
+  "alliance_name": null
+}

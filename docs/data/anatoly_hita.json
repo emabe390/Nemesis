@@ -1,0 +1,52 @@
+{
+  "character_id": 2123892162,
+  "total_losses": 19,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2114867663,
+    "name": "Sebastian Tombs",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2114867663,
+      "name": "Sebastian Tombs",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 90597256,
+      "name": "Lokki Deathw1sh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117070774,
+      "name": "Odundald Hamar Ronuken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91454836,
+      "name": "Devill's Hill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95926599,
+      "name": "STJet Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anatoly Hita",
+  "corporation_id": 98799892,
+  "alliance_id": 99014402,
+  "corporation_name": "False Gods",
+  "alliance_name": "Plenitude Alliance"
+}

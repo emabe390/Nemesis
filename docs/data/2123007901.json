@@ -1,0 +1,46 @@
+{
+  "character_id": 2123007901,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 535160662,
+    "name": "Kioxie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806804,
+    "alliance_id": 99014431,
+    "corporation_name": "Scrapyard Artificer's",
+    "alliance_name": "Just Lizard"
+  },
+  "top_killers": [
+    {
+      "id": 535160662,
+      "name": "Kioxie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92584895,
+      "name": "Zandyr Madeveda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93998571,
+      "name": "Ro Fenrios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 945425927,
+      "name": "PhoenixHeart",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Askenen Mikakka",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122808447,
+  "total_losses": 16,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 4,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 3
+    },
+    {
+      "id": 95639117,
+      "name": "Komod Drone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 494933102,
+      "name": "Hilda Burroughs",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92980459,
+      "name": "Theragus Omnikron",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 432590883,
+      "name": "Battelstar1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Copper Amarna",
+  "corporation_id": 98812464,
+  "alliance_id": 99009129,
+  "corporation_name": "Northern Dominion",
+  "alliance_name": "No Visual."
+}

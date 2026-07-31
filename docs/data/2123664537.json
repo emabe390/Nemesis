@@ -1,0 +1,40 @@
+{
+  "character_id": 2123664537,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 657920202,
+    "name": "Mahik net",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98824182,
+    "alliance_id": 99014727,
+    "corporation_name": "Bloodcasted Carnage",
+    "alliance_name": "The Crimson Feed"
+  },
+  "top_killers": [
+    {
+      "id": 657920202,
+      "name": "Mahik net",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96612356,
+      "name": "Dam Skadi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123739274,
+      "name": "Ba'al Zvuv",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Meredith Murderface",
+  "corporation_id": 98672155,
+  "alliance_id": 99010421,
+  "corporation_name": "Slavers Union",
+  "alliance_name": "Something Really Pretentious"
+}

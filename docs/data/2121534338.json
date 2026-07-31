@@ -1,0 +1,52 @@
+{
+  "character_id": 2121534338,
+  "total_losses": 18,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2120835265,
+    "name": "Rip Fury",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98665607,
+    "alliance_id": null,
+    "corporation_name": "Them boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120835265,
+      "name": "Rip Fury",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123701397,
+      "name": "Mecclovin Tiberius Skywalker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91517843,
+      "name": "Sam Chadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94258718,
+      "name": "Araks Belin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94593302,
+      "name": "Scotty Omerta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sanar Dusk",
+  "corporation_id": 98766750,
+  "alliance_id": 495729389,
+  "corporation_name": "Ain't Misbehaving",
+  "alliance_name": "Shadow Cartel"
+}

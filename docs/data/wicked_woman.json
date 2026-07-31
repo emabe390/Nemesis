@@ -1,0 +1,52 @@
+{
+  "character_id": 1111749075,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93406704,
+    "name": "Amber Cowell",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779501,
+    "alliance_id": null,
+    "corporation_name": "BLAMBER",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93406704,
+      "name": "Amber Cowell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 610503325,
+      "name": "Haplopelma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91531672,
+      "name": "Bedlicka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95463741,
+      "name": "Traxuss Traxuss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wicked Woman",
+  "corporation_id": 1281394988,
+  "alliance_id": 99013803,
+  "corporation_name": "Wicked Inc",
+  "alliance_name": "Wicked Goats Enterprises"
+}

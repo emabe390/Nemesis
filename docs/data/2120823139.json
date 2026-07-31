@@ -1,0 +1,40 @@
+{
+  "character_id": 2120823139,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1696881463,
+    "name": "Character 1696881463",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785802,
+    "alliance_id": 99009961,
+    "corporation_name": "Celtic Dragon Corp Inc",
+    "alliance_name": "The Gorram Shiney Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 1696881463,
+      "name": "Character 1696881463",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112413465,
+      "name": "Sapco Trade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118554154,
+      "name": "PHunter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RosGardd",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

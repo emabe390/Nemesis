@@ -1,0 +1,40 @@
+{
+  "character_id": 2124001185,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93985921,
+    "name": "Vilzuh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98783538,
+    "alliance_id": 99009927,
+    "corporation_name": "Dishonorable Duel Disturbance",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 93985921,
+      "name": "Vilzuh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92956893,
+      "name": "Iwata s",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "War Ham",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

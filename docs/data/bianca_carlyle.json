@@ -1,0 +1,40 @@
+{
+  "character_id": 2118429840,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91563248,
+    "name": "Alex Kalina",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98571108,
+    "alliance_id": 1900696668,
+    "corporation_name": "Siromanci",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91563248,
+      "name": "Alex Kalina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94502741,
+      "name": "Mongo the Mechanic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91262693,
+      "name": "Riley Badasaz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bianca Carlyle",
+  "corporation_id": 98753748,
+  "alliance_id": null,
+  "corporation_name": "Peacekeeper Authority of The Ishagan Seven Stars",
+  "alliance_name": null
+}

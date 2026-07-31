@@ -1,0 +1,40 @@
+{
+  "character_id": 255730250,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92945930,
+    "name": "Mal Warre",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98685256,
+    "alliance_id": null,
+    "corporation_name": "Merdur Masheen",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93883501,
+      "name": "Ilithyia Borgia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122032390,
+      "name": "Cora Cain",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Makohiro",
+  "corporation_id": 98713511,
+  "alliance_id": 99012697,
+  "corporation_name": "nihonium 113th Fleet",
+  "alliance_name": "High Elements Alliance"
+}

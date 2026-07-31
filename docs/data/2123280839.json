@@ -1,0 +1,40 @@
+{
+  "character_id": 2123280839,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95607218,
+    "name": "Caprikas Oskold",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98726134,
+    "alliance_id": 99011978,
+    "corporation_name": "Rattini Tribe",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 95607218,
+      "name": "Caprikas Oskold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116464876,
+      "name": "Spheres",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122932368,
+      "name": "poluraspad24",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sinvutshi",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123979196,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96497536,
+    "name": "Erik Christos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98803488,
+    "alliance_id": null,
+    "corporation_name": "Essence Endeavours",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96497536,
+      "name": "Erik Christos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96520595,
+      "name": "R4f43l R054",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117890816,
+      "name": "Hidetoshi Okamura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123668838,
+      "name": "Saint Huck",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91657844,
+      "name": "Prometheus Dormiens",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "neonden",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

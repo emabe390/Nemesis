@@ -1,0 +1,40 @@
+{
+  "character_id": 96815652,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 95167320,
+      "name": "Pete Zachanassian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113775126,
+      "name": "Quantum DarkMatter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PacMan Kashada",
+  "corporation_id": 98582758,
+  "alliance_id": 99008817,
+  "corporation_name": "Jester's Fleet",
+  "alliance_name": "Jester's Alliance"
+}

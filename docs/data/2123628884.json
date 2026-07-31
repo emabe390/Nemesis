@@ -1,0 +1,52 @@
+{
+  "character_id": 2123628884,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 93637233,
+    "name": "Character 93637233",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98741376,
+    "alliance_id": 99011978,
+    "corporation_name": "Minmatar Fleet Academy",
+    "alliance_name": "Minmatar Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93637233,
+      "name": "Character 93637233",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010678,
+      "name": "kholops 04",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010679,
+      "name": "kholops 03",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kif Vokan",
+  "corporation_id": 1000179,
+  "alliance_id": null,
+  "corporation_name": "24th Imperial Crusade",
+  "alliance_name": null
+}

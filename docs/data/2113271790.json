@@ -1,0 +1,52 @@
+{
+  "character_id": 2113271790,
+  "total_losses": 11,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 97036844,
+      "name": "Magalaus Shardani",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115009197,
+      "name": "Ashanti Nkiru",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93603957,
+      "name": "Oliver Forks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 598509236,
+      "name": "Xiarea",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skytastic",
+  "corporation_id": 1324429368,
+  "alliance_id": 1354830081,
+  "corporation_name": "NED-Clan",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123005574,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 507459428,
+    "name": "Pippan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98427793,
+    "alliance_id": null,
+    "corporation_name": "MongStars",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 507459428,
+      "name": "Pippan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 645134875,
+      "name": "Deathington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123408454,
+      "name": "MinerGerman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Belana Fleming",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

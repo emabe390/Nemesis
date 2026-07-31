@@ -1,0 +1,40 @@
+{
+  "character_id": 2013796440,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1205645544,
+    "name": "sir Beto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1975749457,
+    "alliance_id": 933731581,
+    "corporation_name": "No.Mercy",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 1205645544,
+      "name": "sir Beto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1079767980,
+      "name": "Zabtitus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119115691,
+      "name": "Zean Andersen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gheeveetto Meyargen",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 92368155,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 973576579,
+    "name": "Genning",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115066812,
+      "name": "DrFriend",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94105304,
+      "name": "Ayaka Iida",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94848671,
+      "name": "Valentino Flex",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bonaventured 2",
+  "corporation_id": 728020569,
+  "alliance_id": 1354830081,
+  "corporation_name": "Gladius Veritatis",
+  "alliance_name": "Goonswarm Federation"
+}

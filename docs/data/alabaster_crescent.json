@@ -1,0 +1,46 @@
+{
+  "character_id": 2121430246,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118633645,
+    "name": "Victoria Aldritch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98720281,
+    "alliance_id": 495729389,
+    "corporation_name": "Blood Alcohol Content",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2118633645,
+      "name": "Victoria Aldritch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122688928,
+      "name": "Tor Baines",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93551410,
+      "name": "Warren DeMartini",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114186498,
+      "name": "Lyor Vallian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alabaster Crescent",
+  "corporation_id": 98739641,
+  "alliance_id": null,
+  "corporation_name": "Umbrian Dawn",
+  "alliance_name": null
+}

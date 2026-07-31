@@ -1,0 +1,52 @@
+{
+  "character_id": 2122499082,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2118421038,
+    "name": "Ascia",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98165469,
+    "alliance_id": null,
+    "corporation_name": "Hammerwerke",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118421038,
+      "name": "Ascia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122613394,
+      "name": "Lasse Ker'Khan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95261300,
+      "name": "Grima The Mad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96152951,
+      "name": "Chernii Mamba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116632870,
+      "name": "ballsack brinkrns",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Arcurio",
+  "corporation_id": 98817268,
+  "alliance_id": 99014441,
+  "corporation_name": "Voidforge Industries",
+  "alliance_name": "Tech 3 Dregs."
+}

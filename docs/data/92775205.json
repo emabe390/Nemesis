@@ -1,0 +1,40 @@
+{
+  "character_id": 92775205,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91036798,
+    "name": "Aleksandr Patrin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98693541,
+    "alliance_id": 99012161,
+    "corporation_name": "Take this...",
+    "alliance_name": "SHOULD NOT EXPLODE..."
+  },
+  "top_killers": [
+    {
+      "id": 91036798,
+      "name": "Aleksandr Patrin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96087744,
+      "name": "Involves Aurilen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1024862171,
+      "name": "Levi Duke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Virtus Fidei",
+  "corporation_id": 98139309,
+  "alliance_id": 99007879,
+  "corporation_name": "Don't Wake a sleeping bear",
+  "alliance_name": "TIME CRIT"
+}

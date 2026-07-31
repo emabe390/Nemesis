@@ -1,0 +1,34 @@
+{
+  "character_id": 2124025176,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93275644,
+    "name": "Luigi Gumby",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 93275644,
+      "name": "Luigi Gumby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94174832,
+      "name": "Avio Yaken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Strembat",
+  "corporation_id": 98822497,
+  "alliance_id": null,
+  "corporation_name": "Strem Corporation",
+  "alliance_name": null
+}

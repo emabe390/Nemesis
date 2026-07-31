@@ -1,0 +1,52 @@
+{
+  "character_id": 2123464894,
+  "total_losses": 18,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92635152,
+    "name": "Amara Amnell",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92635152,
+      "name": "Amara Amnell",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 96182027,
+      "name": "Erika Unomaz",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122142495,
+      "name": "Chobhame",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 639319407,
+      "name": "Andrejs L",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 644463716,
+      "name": "Lethality Lives",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "boatfrog",
+  "corporation_id": 98718341,
+  "alliance_id": 1354830081,
+  "corporation_name": "Illuminated",
+  "alliance_name": "Goonswarm Federation"
+}

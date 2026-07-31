@@ -1,0 +1,46 @@
+{
+  "character_id": 2121975830,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2112785931,
+    "name": "Farrel Valran",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176563,
+    "alliance_id": 1354830081,
+    "corporation_name": "Rekium",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112785931,
+      "name": "Farrel Valran",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 657963064,
+      "name": "Cheiftan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 889377962,
+      "name": "N3m3sys",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121653759,
+      "name": "Ausko Drakka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Takahuli",
+  "corporation_id": 98803589,
+  "alliance_id": null,
+  "corporation_name": "Walk the field",
+  "alliance_name": null
+}

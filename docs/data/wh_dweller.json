@@ -1,0 +1,40 @@
+{
+  "character_id": 2122912293,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 345875676,
+    "name": "Caleb Drakka",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 427125032,
+    "alliance_id": 1354830081,
+    "corporation_name": "TunDraGon",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 345875676,
+      "name": "Caleb Drakka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1342819338,
+      "name": "M0RE P0WER",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1573200647,
+      "name": "Crusher McCabe",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WH DWELLER",
+  "corporation_id": 98494391,
+  "alliance_id": 99009287,
+  "corporation_name": "Fish Vending Machine",
+  "alliance_name": "Beyond the Breach"
+}

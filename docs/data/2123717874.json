@@ -1,0 +1,52 @@
+{
+  "character_id": 2123717874,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2120286664,
+    "name": "Juni Jun'ko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98747372,
+    "alliance_id": 99013766,
+    "corporation_name": "Regrediens",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2120286664,
+      "name": "Juni Jun'ko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90679008,
+      "name": "nmbr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93135128,
+      "name": "Marcus Soletta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 905583770,
+      "name": "Jao I",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120152540,
+      "name": "Jetstream Valenok",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bill the Operator",
+  "corporation_id": 98814893,
+  "alliance_id": null,
+  "corporation_name": "Jackals in J-Space",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123816441,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2120516093,
+    "name": "Sherrie Sky",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98528707,
+    "alliance_id": null,
+    "corporation_name": "Independent Pilots Association",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120516093,
+      "name": "Sherrie Sky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90282519,
+      "name": "Glenn Eastland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93684815,
+      "name": "Stenten Brath",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94738898,
+      "name": "Character 94738898",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "West Cas",
+  "corporation_id": 98778615,
+  "alliance_id": 99010325,
+  "corporation_name": "JSA LTD.",
+  "alliance_name": "Patchwork Freelancers"
+}

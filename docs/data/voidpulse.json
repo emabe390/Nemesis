@@ -1,0 +1,46 @@
+{
+  "character_id": 2123716755,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 122298729,
+    "name": "Jeffrey",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 2000435808,
+    "alliance_id": null,
+    "corporation_name": "BioDragons",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 122298729,
+      "name": "Jeffrey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 800524399,
+      "name": "Rots Mijnwerker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1268848494,
+      "name": "Commissar keerik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1363182488,
+      "name": "Fiora",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Voidpulse",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

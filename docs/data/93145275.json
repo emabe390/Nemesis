@@ -1,0 +1,52 @@
+{
+  "character_id": 93145275,
+  "total_losses": 41,
+  "unique_killers": 29,
+  "nemesis": {
+    "id": 3019581,
+    "name": "Artemis Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91057149,
+      "name": "Raven Kvetina",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92769745,
+      "name": "OXION Bacardi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93168326,
+      "name": "Kivakork Oskold",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Astronaut Gagarin",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

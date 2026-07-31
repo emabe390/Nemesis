@@ -1,0 +1,52 @@
+{
+  "character_id": 2123384163,
+  "total_losses": 12,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2117035347,
+    "name": "Queen Shiro",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98512964,
+    "alliance_id": 99001105,
+    "corporation_name": "Sorry We're In Your Space Eh",
+    "alliance_name": "Seventh Sanctum."
+  },
+  "top_killers": [
+    {
+      "id": 2117035347,
+      "name": "Queen Shiro",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 336117019,
+      "name": "Cpt WhiteEye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 560468720,
+      "name": "Asbendale Silverblade",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117498884,
+      "name": "Kozi Pasterz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120373084,
+      "name": "Combat Operator",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lalage",
+  "corporation_id": 98539082,
+  "alliance_id": 1354830081,
+  "corporation_name": "Darkmoon Military Industrial Complex",
+  "alliance_name": "Goonswarm Federation"
+}

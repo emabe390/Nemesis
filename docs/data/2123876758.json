@@ -1,0 +1,52 @@
+{
+  "character_id": 2123876758,
+  "total_losses": 45,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 2123941891,
+    "name": "Kind Dall'e",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98834098,
+    "alliance_id": null,
+    "corporation_name": "We Fight at Zero",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123941891,
+      "name": "Kind Dall'e",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120950121,
+      "name": "SwingFish",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91427841,
+      "name": "Davion Dragonfall",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113902682,
+      "name": "Kento Bento Box",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Captain Samael Black",
+  "corporation_id": 98820741,
+  "alliance_id": 99014711,
+  "corporation_name": "Nightforge Voidworks",
+  "alliance_name": "Forge Eternal"
+}

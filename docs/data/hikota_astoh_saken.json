@@ -1,0 +1,52 @@
+{
+  "character_id": 2124100996,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 827406106,
+    "name": "CATTYS",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 724997872,
+    "alliance_id": 1354830081,
+    "corporation_name": "EVE-RO",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 827406106,
+      "name": "CATTYS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1299455473,
+      "name": "Garnoo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115774615,
+      "name": "Zwei NDA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117712855,
+      "name": "Vier NDA",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120565760,
+      "name": "Alpha NDA",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hikota Astoh Saken",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

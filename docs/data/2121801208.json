@@ -1,0 +1,52 @@
+{
+  "character_id": 2121801208,
+  "total_losses": 83,
+  "unique_killers": 63,
+  "nemesis": {
+    "id": 92650979,
+    "name": "Day Mon",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98594317,
+    "alliance_id": 99009229,
+    "corporation_name": "Biomass Transit",
+    "alliance_name": "Seven Four Five"
+  },
+  "top_killers": [
+    {
+      "id": 92650979,
+      "name": "Day Mon",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 93548815,
+      "name": "Jefferson Spence",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1628192698,
+      "name": "KeSya Claproth",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94493692,
+      "name": "Thornprick Sotken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96355155,
+      "name": "chouchou baby",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Stardawgg",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

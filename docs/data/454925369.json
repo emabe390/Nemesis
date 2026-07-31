@@ -1,0 +1,46 @@
+{
+  "character_id": 454925369,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123179637,
+      "name": "M41K1",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90802673,
+      "name": "colin brunner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "OuterPlexis",
+  "corporation_id": 98434459,
+  "alliance_id": null,
+  "corporation_name": "There's a Worm in my Hole",
+  "alliance_name": null
+}

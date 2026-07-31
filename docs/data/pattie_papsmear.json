@@ -1,0 +1,40 @@
+{
+  "character_id": 2123632372,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112488080,
+    "name": "Elfsuf TFEC",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98765680,
+    "alliance_id": null,
+    "corporation_name": "The Fun Epic Club",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112488080,
+      "name": "Elfsuf TFEC",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112883869,
+      "name": "Bin Tissant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122393056,
+      "name": "ViCe 0v3rLoRd III",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pattie Papsmear",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

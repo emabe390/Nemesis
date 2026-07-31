@@ -1,0 +1,46 @@
+{
+  "character_id": 2123957527,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 90500669,
+    "name": "Dreadnaught X",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98589727,
+    "alliance_id": 498125261,
+    "corporation_name": "Storm Chasers.",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 90500669,
+      "name": "Dreadnaught X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 789508125,
+      "name": "Transipid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114105532,
+      "name": "Sir Tobias Helm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115519310,
+      "name": "Xarkon Arji",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elleen Musk",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

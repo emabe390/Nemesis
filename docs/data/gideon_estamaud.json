@@ -1,0 +1,52 @@
+{
+  "character_id": 2123953875,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 711649546,
+    "name": "Father Weebles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98806620,
+    "alliance_id": 99014341,
+    "corporation_name": "CreepShow K162",
+    "alliance_name": "CreepShow Entertainment"
+  },
+  "top_killers": [
+    {
+      "id": 711649546,
+      "name": "Father Weebles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92203228,
+      "name": "Vyacheslav Nikolaev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93997594,
+      "name": "munsking",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 247355051,
+      "name": "Nikodi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 487318805,
+      "name": "RandomViruzz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gideon Estamaud",
+  "corporation_id": 98815690,
+  "alliance_id": null,
+  "corporation_name": "Lazy Miners Union",
+  "alliance_name": null
+}

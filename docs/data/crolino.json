@@ -1,0 +1,40 @@
+{
+  "character_id": 2123696975,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 443286234,
+    "name": "Ultrabug",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 678558985,
+    "alliance_id": null,
+    "corporation_name": "Morne Attitude",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 443286234,
+      "name": "Ultrabug",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1567202659,
+      "name": "Brutus Duran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118938507,
+      "name": "Uva Ursi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CroLino",
+  "corporation_id": 98546739,
+  "alliance_id": 1354830081,
+  "corporation_name": "Balkan Kings",
+  "alliance_name": "Goonswarm Federation"
+}

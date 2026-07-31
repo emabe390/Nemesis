@@ -1,0 +1,40 @@
+{
+  "character_id": 2123646196,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 934231458,
+    "name": "K'att Sai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 934231458,
+      "name": "K'att Sai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118368465,
+      "name": "Lightter",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93008905,
+      "name": "Donio Delvito",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ArThurChase",
+  "corporation_id": 98536418,
+  "alliance_id": null,
+  "corporation_name": "Academy of Russian Federation",
+  "alliance_name": null
+}

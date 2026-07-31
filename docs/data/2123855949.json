@@ -1,0 +1,52 @@
+{
+  "character_id": 2123855949,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 96861620,
+    "name": "Agimus VI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1275946672,
+      "name": "Lady Kosmos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90796316,
+      "name": "Panda Ostus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93088604,
+      "name": "Crontz Crontz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Airgir Hniggur",
+  "corporation_id": 98815453,
+  "alliance_id": null,
+  "corporation_name": "Milltech Corp",
+  "alliance_name": null
+}

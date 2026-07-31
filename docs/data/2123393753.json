@@ -1,0 +1,40 @@
+{
+  "character_id": 2123393753,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121252634,
+    "name": "Dandy Slayer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98761118,
+    "alliance_id": null,
+    "corporation_name": "Meady Ochre",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121252634,
+      "name": "Dandy Slayer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119620246,
+      "name": "Isabell Mars",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122204068,
+      "name": "itwasreal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kate Watson Walker",
+  "corporation_id": 98802880,
+  "alliance_id": null,
+  "corporation_name": "LP Trade Corporation Ltd.",
+  "alliance_name": null
+}

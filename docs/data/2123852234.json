@@ -1,0 +1,52 @@
+{
+  "character_id": 2123852234,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 907866878,
+    "name": "Lizzon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750336,
+    "alliance_id": null,
+    "corporation_name": "The Agreeables",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116477379,
+      "name": "Whiskey Erso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96211031,
+      "name": "Moka-chan Kira",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96914905,
+      "name": "Darvon Bami",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112269642,
+      "name": "Internet Wizard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aroxien Pahineh",
+  "corporation_id": 98815029,
+  "alliance_id": null,
+  "corporation_name": "La Province du Sud",
+  "alliance_name": null
+}

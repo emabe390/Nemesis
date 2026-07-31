@@ -1,0 +1,40 @@
+{
+  "character_id": 2123923989,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94899371,
+    "name": "Vanu Kahn",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98717750,
+    "alliance_id": 99012239,
+    "corporation_name": "Aggressive Neutity",
+    "alliance_name": "Desolate."
+  },
+  "top_killers": [
+    {
+      "id": 94899371,
+      "name": "Vanu Kahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 418852582,
+      "name": "Hector Centauri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115317607,
+      "name": "Eiirik Naaru",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vaurent Deninard",
+  "corporation_id": 98803508,
+  "alliance_id": null,
+  "corporation_name": "Silk Dance",
+  "alliance_name": null
+}

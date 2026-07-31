@@ -1,0 +1,46 @@
+{
+  "character_id": 2123894792,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123959305,
+    "name": "Vollmer Gravitas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785282,
+    "alliance_id": 99013981,
+    "corporation_name": "Militant Industrialists LLC",
+    "alliance_name": "Militant Consortium"
+  },
+  "top_killers": [
+    {
+      "id": 2123959305,
+      "name": "Vollmer Gravitas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1644138151,
+      "name": "Arcanier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113464393,
+      "name": "Mo Freeman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113608503,
+      "name": "Ittihat Ve-Terakki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vollmer Fidelis",
+  "corporation_id": 98785282,
+  "alliance_id": 99013981,
+  "corporation_name": "Militant Industrialists LLC",
+  "alliance_name": "Militant Consortium"
+}

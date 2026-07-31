@@ -1,0 +1,40 @@
+{
+  "character_id": 2123790236,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91346781,
+    "name": "Maleus Maleficarus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766866,
+    "alliance_id": null,
+    "corporation_name": "Nuclear Kolobok",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91346781,
+      "name": "Maleus Maleficarus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1842159769,
+      "name": "MrMaaX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121437141,
+      "name": "Omonoi Tsero",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ratniksmex",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

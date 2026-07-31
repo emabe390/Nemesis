@@ -1,0 +1,46 @@
+{
+  "character_id": 2123188679,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 138302040,
+    "name": "Captain Slackbladder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95643399,
+      "name": "Amidamaru Rosario",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114017032,
+      "name": "Vasilios",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123330104,
+      "name": "Konrad Kuvakei",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Armelio Gonzalez",
+  "corporation_id": 98552432,
+  "alliance_id": null,
+  "corporation_name": "Hijos de la Luna",
+  "alliance_name": null
+}

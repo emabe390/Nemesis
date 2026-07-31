@@ -1,0 +1,52 @@
+{
+  "character_id": 2123319336,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1628801748,
+    "name": "quietslayer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 1628801748,
+      "name": "quietslayer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112998307,
+      "name": "Assuna Sword",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121731478,
+      "name": "The Ship's Computer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92227433,
+      "name": "Deadeye 2907",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1839787349,
+      "name": "Alex Rendez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Flamefury",
+  "corporation_id": 98800334,
+  "alliance_id": null,
+  "corporation_name": "Ghoulic Legion.",
+  "alliance_name": null
+}

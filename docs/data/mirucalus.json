@@ -1,0 +1,52 @@
+{
+  "character_id": 1048234287,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 112425816,
+      "name": "Beck Yareth",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 448452178,
+      "name": "Aulis Saiden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 698393108,
+      "name": "Pretoko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "mirucalus",
+  "corporation_id": 98837670,
+  "alliance_id": 99015102,
+  "corporation_name": "Frontier Naval Inc",
+  "alliance_name": "Stellar Nomads Alliance"
+}

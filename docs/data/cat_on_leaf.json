@@ -1,0 +1,40 @@
+{
+  "character_id": 2122547953,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96872063,
+    "name": "Sergei Skazzor",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98720009,
+    "alliance_id": 1354830081,
+    "corporation_name": "guerrilla.squad",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96872063,
+      "name": "Sergei Skazzor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121549658,
+      "name": "Caranya",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122557951,
+      "name": "Ri Si Wo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cat on leaf",
+  "corporation_id": 98803776,
+  "alliance_id": null,
+  "corporation_name": "L.E.A.P",
+  "alliance_name": null
+}

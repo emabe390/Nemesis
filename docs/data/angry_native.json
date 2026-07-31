@@ -1,0 +1,40 @@
+{
+  "character_id": 2115243056,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121407199,
+    "name": "Metalwer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121407199,
+      "name": "Metalwer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 371792633,
+      "name": "PsyBlade",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121460665,
+      "name": "Intrigare",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Angry Native",
+  "corporation_id": 98462718,
+  "alliance_id": 498125261,
+  "corporation_name": "Miners Legion",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123992592,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117153619,
+    "name": "GIACOMO RESTIVO",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799440,
+    "alliance_id": 1042504553,
+    "corporation_name": "High Insertion Velocity",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 2117153619,
+      "name": "GIACOMO RESTIVO",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122640456,
+      "name": "Charles Restivo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92945930,
+      "name": "Mal Warre",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113845227,
+      "name": "Fury al-Shabazz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Adrasteja 000",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

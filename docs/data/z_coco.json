@@ -1,0 +1,40 @@
+{
+  "character_id": 2123426231,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 148364279,
+    "name": "Jokastis",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 148364279,
+      "name": "Jokastis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113937465,
+      "name": "Wulfric Durin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120868162,
+      "name": "MoraMultus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Z-CoCo",
+  "corporation_id": 98805140,
+  "alliance_id": 99013537,
+  "corporation_name": "Sunset Red Activity Club",
+  "alliance_name": "Insidious."
+}

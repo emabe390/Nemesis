@@ -1,0 +1,34 @@
+{
+  "character_id": 2123919504,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117368401,
+      "name": "Monolith Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bingo Bluey",
+  "corporation_id": 98818725,
+  "alliance_id": null,
+  "corporation_name": "Bluey's Family",
+  "alliance_name": null
+}

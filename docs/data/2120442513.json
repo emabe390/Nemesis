@@ -1,0 +1,40 @@
+{
+  "character_id": 2120442513,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94049521,
+    "name": "Heloqt",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98785346,
+    "alliance_id": 99005678,
+    "corporation_name": "Prime Directive.",
+    "alliance_name": "Local Is Primary"
+  },
+  "top_killers": [
+    {
+      "id": 94049521,
+      "name": "Heloqt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94441542,
+      "name": "Marl Feng",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122397166,
+      "name": "Griff Carlyle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faction Slav",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 1649288468,
+  "total_losses": 22,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90754926,
+    "name": "Anja Ward",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 1000046,
+    "alliance_id": null,
+    "corporation_name": "Sebiestor Tribe",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90754926,
+      "name": "Anja Ward",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 2113438952,
+      "name": "Unemployed Chud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113454268,
+      "name": "Climax's Child",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Zoltan",
+  "corporation_id": 667531913,
+  "alliance_id": 1354830081,
+  "corporation_name": "GoonWaffe",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96705212,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 777602347,
+    "name": "Solasta Kovacs",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 828800677,
+    "alliance_id": 386292982,
+    "corporation_name": "Sniggerdly",
+    "alliance_name": "Pandemic Legion"
+  },
+  "top_killers": [
+    {
+      "id": 777602347,
+      "name": "Solasta Kovacs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121021105,
+      "name": "Dagus Raholan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121487252,
+      "name": "Jackeline Meyerhofer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Luke Dundan",
+  "corporation_id": 98487359,
+  "alliance_id": 99011614,
+  "corporation_name": "Ronin ONE",
+  "alliance_name": "Ronin Reloaded"
+}

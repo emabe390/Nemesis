@@ -1,0 +1,40 @@
+{
+  "character_id": 1796065671,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1791305715,
+    "name": "Rotbur",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 361967369,
+    "alliance_id": 99003581,
+    "corporation_name": "Viper-Squad",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 1791305715,
+      "name": "Rotbur",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 145352963,
+      "name": "Jon Ogden",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112752661,
+      "name": "Atomic Bomberman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GreatGoldMine",
+  "corporation_id": 98532842,
+  "alliance_id": null,
+  "corporation_name": "Golden Astral Sciences",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2119772445,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 96522434,
+    "name": "Kaitlynn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98728816,
+    "alliance_id": null,
+    "corporation_name": "Alachene Holding",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96522434,
+      "name": "Kaitlynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123627892,
+      "name": "Shermster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93176064,
+      "name": "serega birukov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113321344,
+      "name": "Domini Djones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113462127,
+      "name": "Willowtan Dawnguard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sedriss of Krypshade",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

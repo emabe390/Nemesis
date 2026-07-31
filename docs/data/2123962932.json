@@ -1,0 +1,46 @@
+{
+  "character_id": 2123962932,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 667278171,
+    "name": "Rugs",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000166,
+    "alliance_id": null,
+    "corporation_name": "Imperial Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 667278171,
+      "name": "Rugs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1194352503,
+      "name": "ToTheCore",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117995941,
+      "name": "Clean Shave",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122781409,
+      "name": "Margarite Moon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yon Vukenda",
+  "corporation_id": 98806690,
+  "alliance_id": 99011291,
+  "corporation_name": "Cosmos Phoenix Reborn",
+  "alliance_name": "Cosmos Origins"
+}

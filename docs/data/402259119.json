@@ -1,0 +1,34 @@
+{
+  "character_id": 402259119,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117252003,
+    "name": "Marlon Houston",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98746877,
+    "alliance_id": 99013766,
+    "corporation_name": "Flota Imperial",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2117252003,
+      "name": "Marlon Houston",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113117470,
+      "name": "Web Driver",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 402259119",
+  "corporation_id": 752029341,
+  "alliance_id": null,
+  "corporation_name": "Wolf Mining",
+  "alliance_name": null
+}

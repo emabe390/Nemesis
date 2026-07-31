@@ -1,0 +1,40 @@
+{
+  "character_id": 2123460628,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119796816,
+    "name": "SupremeUnknown",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98015736,
+    "alliance_id": 99001963,
+    "corporation_name": "The Classy Gentlemans Corporation",
+    "alliance_name": "Moist."
+  },
+  "top_killers": [
+    {
+      "id": 2119796816,
+      "name": "SupremeUnknown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113052704,
+      "name": "Net Zwerg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marco Romano",
+  "corporation_id": 98810567,
+  "alliance_id": null,
+  "corporation_name": "Renraku-Computer-Systems",
+  "alliance_name": null
+}

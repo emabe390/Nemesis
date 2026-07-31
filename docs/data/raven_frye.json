@@ -1,0 +1,52 @@
+{
+  "character_id": 91544705,
+  "total_losses": 14,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 542322221,
+    "name": "Xen Kira",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821498,
+    "alliance_id": 99014651,
+    "corporation_name": "TopGunMaverickInverted",
+    "alliance_name": "Inverted."
+  },
+  "top_killers": [
+    {
+      "id": 542322221,
+      "name": "Xen Kira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91127838,
+      "name": "Character 91127838",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92521281,
+      "name": "Lt Lunar Lazair",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93243194,
+      "name": "Agent J Squire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93413844,
+      "name": "Tyson Aardvark",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raven Frye",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

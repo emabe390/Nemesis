@@ -1,0 +1,52 @@
+{
+  "character_id": 2124535146,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96229677,
+    "name": "Character 96229677",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98820791,
+    "alliance_id": 99008751,
+    "corporation_name": "Orbital EGQC",
+    "alliance_name": "MARABUNTA"
+  },
+  "top_killers": [
+    {
+      "id": 96229677,
+      "name": "Character 96229677",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116353899,
+      "name": "Edward Dickson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123415312,
+      "name": "Pvt Randy Bobandy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94743050,
+      "name": "Uho Dono",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 806065059,
+      "name": "AI Reidlos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Coldvector",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

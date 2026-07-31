@@ -1,0 +1,40 @@
+{
+  "character_id": 2117751862,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91307469,
+    "name": "Jim Audeles",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000115,
+    "alliance_id": null,
+    "corporation_name": "University of Caille",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91307469,
+      "name": "Jim Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117247924,
+      "name": "Hjalmar Svennsen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jarum Andedare",
+  "corporation_id": 98670268,
+  "alliance_id": null,
+  "corporation_name": "Reconciled",
+  "alliance_name": null
+}

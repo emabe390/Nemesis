@@ -1,0 +1,52 @@
+{
+  "character_id": 2123673031,
+  "total_losses": 60,
+  "unique_killers": 48,
+  "nemesis": {
+    "id": 570570352,
+    "name": "Artemis Tensk",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98816841,
+    "alliance_id": 99010079,
+    "corporation_name": "Azure Forge Industries",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 570570352,
+      "name": "Artemis Tensk",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94557914,
+      "name": "tele-guy Toralen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1549195275,
+      "name": "Val Auroris",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Khallie Korai",
+  "corporation_id": 98169165,
+  "alliance_id": 99003214,
+  "corporation_name": "Brave Newbies Inc.",
+  "alliance_name": "Brave Collective"
+}

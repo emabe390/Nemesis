@@ -1,0 +1,52 @@
+{
+  "character_id": 2121622755,
+  "total_losses": 20,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2116334184,
+    "name": "Tavis Vemane",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98668936,
+    "alliance_id": 99011223,
+    "corporation_name": "The Awoken",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2116334184,
+      "name": "Tavis Vemane",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 97181975,
+      "name": "Nathan Steeles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118289644,
+      "name": "Dehitek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90221443,
+      "name": "Rykirs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90664774,
+      "name": "Paul Rem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baptiste-Xavier de Parlisse",
+  "corporation_id": 98699553,
+  "alliance_id": 99014849,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative."
+}

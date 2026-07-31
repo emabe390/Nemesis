@@ -1,0 +1,52 @@
+{
+  "character_id": 2123601399,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 96041000,
+    "name": "migy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98541160,
+    "alliance_id": 99015045,
+    "corporation_name": "Stain Corp.",
+    "alliance_name": "H O S T I L E"
+  },
+  "top_killers": [
+    {
+      "id": 96041000,
+      "name": "migy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95007859,
+      "name": "Edward Demidov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117546533,
+      "name": "Macrinus Varus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122655386,
+      "name": "Private Chen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123692300,
+      "name": "Stabsoffizierr",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Berstuko",
+  "corporation_id": 98774580,
+  "alliance_id": 99008412,
+  "corporation_name": "No Signal Inc.",
+  "alliance_name": "Lost and Clowned"
+}

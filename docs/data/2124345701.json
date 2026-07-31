@@ -1,0 +1,52 @@
+{
+  "character_id": 2124345701,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2120613343,
+    "name": "Eberhart",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98703471,
+    "alliance_id": 933731581,
+    "corporation_name": "Short Bus Buccaneers",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2120613343,
+      "name": "Eberhart",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 139089093,
+      "name": "highclam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119780128,
+      "name": "Can Meng",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96071269,
+      "name": "Jacques Perl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 519764149,
+      "name": "Kalergos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ANC1",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

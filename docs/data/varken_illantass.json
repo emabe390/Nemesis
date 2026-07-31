@@ -1,0 +1,52 @@
+{
+  "character_id": 2123459285,
+  "total_losses": 31,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 722390125,
+    "name": "Lesican",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 722390125,
+      "name": "Lesican",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113211681,
+      "name": "Johnny Farstriker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122126738,
+      "name": "Captain Droolbeard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90423258,
+      "name": "korellis hawkesford",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91274560,
+      "name": "George Harisson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Varken Illantass",
+  "corporation_id": 98330748,
+  "alliance_id": 99006319,
+  "corporation_name": "WiNGSPAN Delivery Services",
+  "alliance_name": "WiNGSPAN Delivery Network"
+}

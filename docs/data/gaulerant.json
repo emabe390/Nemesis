@@ -1,0 +1,52 @@
+{
+  "character_id": 2123054111,
+  "total_losses": 25,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 1408513141,
+    "name": "Bob Veers",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98567636,
+    "alliance_id": null,
+    "corporation_name": "Autismus maximuss",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1408513141,
+      "name": "Bob Veers",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122596062,
+      "name": "Dubsz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91276665,
+      "name": "Hallucinosis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91756340,
+      "name": "Dan Egdald",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaulerant",
+  "corporation_id": 98777401,
+  "alliance_id": 99009163,
+  "corporation_name": "Baby-Bus",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123345063,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 93911976,
+    "name": "Babbs Cor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98773204,
+    "alliance_id": 99013646,
+    "corporation_name": "Nanofiber Overheat",
+    "alliance_name": "Nanogang"
+  },
+  "top_killers": [
+    {
+      "id": 93911976,
+      "name": "Babbs Cor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119313972,
+      "name": "AisPobo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120758209,
+      "name": "TolikFmSmile",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120993877,
+      "name": "Zet Destroyer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121572226,
+      "name": "LutuYukuai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mamaxa",
+  "corporation_id": 98816022,
+  "alliance_id": null,
+  "corporation_name": "Mamaxa Corporation",
+  "alliance_name": null
+}

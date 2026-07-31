@@ -1,0 +1,40 @@
+{
+  "character_id": 2123708042,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 639432648,
+    "name": "brahiem",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98075412,
+    "alliance_id": 99001969,
+    "corporation_name": "Grimm Hounds",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 639432648,
+      "name": "brahiem",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 1268848494,
+      "name": "Commissar keerik",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92784257,
+      "name": "Raddan Eldre'Thalas",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Torrent X1",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

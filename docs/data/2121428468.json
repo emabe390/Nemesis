@@ -1,0 +1,40 @@
+{
+  "character_id": 2121428468,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117982648,
+    "name": "SelfishCat",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98615588,
+    "alliance_id": 99014743,
+    "corporation_name": "10 Potatoes",
+    "alliance_name": "Project Potato"
+  },
+  "top_killers": [
+    {
+      "id": 2117982648,
+      "name": "SelfishCat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118486172,
+      "name": "Conor Alt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123406608,
+      "name": "ito kodlak",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BTR-80",
+  "corporation_id": 98400629,
+  "alliance_id": null,
+  "corporation_name": "Sanya Rulit Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2124277562,
+  "total_losses": 35,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2120950121,
+    "name": "SwingFish",
+    "kill_count": 29,
+    "final_blows": 29,
+    "corporation_id": 98747703,
+    "alliance_id": 99013615,
+    "corporation_name": "Cosmic Sanitation Squad",
+    "alliance_name": "MlNER NEEDs"
+  },
+  "top_killers": [
+    {
+      "id": 2120950121,
+      "name": "SwingFish",
+      "kill_count": 29,
+      "final_blows": 29
+    },
+    {
+      "id": 2119351415,
+      "name": "Comtesse d'Artois",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120900708,
+      "name": "Comte d'Artois",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 956803617,
+      "name": "The Pilgrimage",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arthur John Solette",
+  "corporation_id": 98476682,
+  "alliance_id": null,
+  "corporation_name": "One True Academy",
+  "alliance_name": null
+}

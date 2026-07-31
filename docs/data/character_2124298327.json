@@ -1,0 +1,40 @@
+{
+  "character_id": 2124298327,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1270802394,
+    "name": "Certain Risk",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98444440,
+    "alliance_id": 99015024,
+    "corporation_name": "Fly Sideways",
+    "alliance_name": "Low Class"
+  },
+  "top_killers": [
+    {
+      "id": 1270802394,
+      "name": "Certain Risk",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113233546,
+      "name": "Sven Bauer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124298327",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

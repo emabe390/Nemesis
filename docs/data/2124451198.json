@@ -1,0 +1,40 @@
+{
+  "character_id": 2124451198,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 885340324,
+    "name": "Romulus DK",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98817382,
+    "alliance_id": 99015045,
+    "corporation_name": "Wicked Deeds",
+    "alliance_name": "H O S T I L E"
+  },
+  "top_killers": [
+    {
+      "id": 885340324,
+      "name": "Romulus DK",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 272405573,
+      "name": "Tukuarikan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97109576,
+      "name": "Spyke Spiegel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MoonlightQuerry",
+  "corporation_id": 98778107,
+  "alliance_id": 99015145,
+  "corporation_name": "Glencore Technology",
+  "alliance_name": "The First Covenant"
+}

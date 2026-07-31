@@ -1,0 +1,40 @@
+{
+  "character_id": 2115490247,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 887486212,
+    "name": "Nucanot",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98808453,
+    "alliance_id": null,
+    "corporation_name": "Sponsored by Ansiblex",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 887486212,
+      "name": "Nucanot",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114446534,
+      "name": "jommy Virpio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121389109,
+      "name": "Farkas Szabolcs",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ayren Ovaert",
+  "corporation_id": 98685869,
+  "alliance_id": 99003214,
+  "corporation_name": "Monitor Inc.",
+  "alliance_name": "Brave Collective"
+}

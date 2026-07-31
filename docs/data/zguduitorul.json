@@ -1,0 +1,52 @@
+{
+  "character_id": 2123465399,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2121154833,
+    "name": "Martin Ripley",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98752620,
+    "alliance_id": null,
+    "corporation_name": "McDonald's Wormhole Dwellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121154833,
+      "name": "Martin Ripley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122058093,
+      "name": "Loyette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92571320,
+      "name": "Arhont Sibirskii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96835303,
+      "name": "Character 96835303",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZGUDUITORUL",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

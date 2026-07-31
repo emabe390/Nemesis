@@ -1,0 +1,52 @@
+{
+  "character_id": 2123207159,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 121251991,
+    "name": "Kontrax",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98434459,
+    "alliance_id": null,
+    "corporation_name": "There's a Worm in my Hole",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 121251991,
+      "name": "Kontrax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120520596,
+      "name": "Verlainette Pauleux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96324212,
+      "name": "Lord Sky Fury",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1363441224,
+      "name": "Fenris Colt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Codie Bauldry",
+  "corporation_id": 98782197,
+  "alliance_id": 99012009,
+  "corporation_name": "Aphididae Industries",
+  "alliance_name": "Minmatar Fleet Associates"
+}

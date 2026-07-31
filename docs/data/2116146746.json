@@ -1,0 +1,40 @@
+{
+  "character_id": 2116146746,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123204179,
+    "name": "Rick Pounder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818601,
+    "alliance_id": 99014712,
+    "corporation_name": "Cult of Magik",
+    "alliance_name": "Congregation of Magiks"
+  },
+  "top_killers": [
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116332622,
+      "name": "Emily Leist",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bailey Yavimaya",
+  "corporation_id": 742354696,
+  "alliance_id": 99011223,
+  "corporation_name": "New Eden Shipyards",
+  "alliance_name": "Sigma Grindset"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124504686,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95636243,
+    "name": "Harkonne",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1005661681,
+    "alliance_id": 495729389,
+    "corporation_name": "Sonnenlegion",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 95636243,
+      "name": "Harkonne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1237645785,
+      "name": "Jieve Firehelm",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Marcus Aurelius XI",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

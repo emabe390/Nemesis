@@ -1,0 +1,34 @@
+{
+  "character_id": 2124380406,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 93206061,
+    "name": "Character 93206061",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98724821,
+    "alliance_id": null,
+    "corporation_name": "Garden of Shadows",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93206061,
+      "name": "Character 93206061",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95502210,
+      "name": "Ozymandias Sparious",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Darkzoph Scharf",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124052259,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120968053,
+    "name": "Shadorrn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98684420,
+    "alliance_id": 99011416,
+    "corporation_name": "Silent Vale",
+    "alliance_name": "LinkNet"
+  },
+  "top_killers": [
+    {
+      "id": 2120968053,
+      "name": "Shadorrn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117023842,
+      "name": "Magpul Masada",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121445176,
+      "name": "Ozano",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bastina",
+  "corporation_id": 98702065,
+  "alliance_id": 173714703,
+  "corporation_name": "Gjallarhorn Incorporated",
+  "alliance_name": "PURPLE HELMETED WARRIORS"
+}

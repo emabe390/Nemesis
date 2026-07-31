@@ -1,0 +1,46 @@
+{
+  "character_id": 2122668438,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 93856334,
+    "name": "Aleister Carver",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 93856334,
+      "name": "Aleister Carver",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90713358,
+      "name": "Homer Simpson Amatin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 274804553,
+      "name": "Inara Doran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1935847229,
+      "name": "death cruzer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Autorev",
+  "corporation_id": 98740395,
+  "alliance_id": 99012664,
+  "corporation_name": "Ouroboros Solutions",
+  "alliance_name": "Recursive Horizons"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121796670,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 322721342,
+    "name": "Character 322721342",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98799440,
+    "alliance_id": 1042504553,
+    "corporation_name": "High Insertion Velocity",
+    "alliance_name": "Solyaris Chtonium"
+  },
+  "top_killers": [
+    {
+      "id": 322721342,
+      "name": "Character 322721342",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95298092,
+      "name": "Matashibi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96054311,
+      "name": "Red Baldric",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 584030540,
+      "name": "Aiesha Nmemnova",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tristan Yool",
+  "corporation_id": 98831204,
+  "alliance_id": 99015113,
+  "corporation_name": "Nine Lives Privateering Company",
+  "alliance_name": "Apex Mercantile"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123781558,
+  "total_losses": 13,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2122304936,
+    "name": "Haira Erata",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2122304936,
+      "name": "Haira Erata",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1700284711,
+      "name": "Seabronc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123582330,
+      "name": "Ryvixa Arylia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 274275469,
+      "name": "omega1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 691633815,
+      "name": "pater steve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "gmaCorbin",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

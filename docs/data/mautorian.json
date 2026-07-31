@@ -1,0 +1,52 @@
+{
+  "character_id": 2124236854,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2020941753,
+    "name": "KATASH1",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98180825,
+    "alliance_id": 99013803,
+    "corporation_name": "Burning-Technologies",
+    "alliance_name": "Wicked Goats Enterprises"
+  },
+  "top_killers": [
+    {
+      "id": 2020941753,
+      "name": "KATASH1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115834132,
+      "name": "Roman Sea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117739243,
+      "name": "Hossy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123321244,
+      "name": "Excavator Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123321251,
+      "name": "Excavator Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mautorian",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

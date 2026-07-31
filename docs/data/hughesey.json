@@ -1,0 +1,40 @@
+{
+  "character_id": 2123202828,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 964330275,
+    "name": "Aegis Stormborn",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1164839908,
+      "name": "Red Beard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hughesey",
+  "corporation_id": 98815455,
+  "alliance_id": null,
+  "corporation_name": "Wombats Mini Mining Inc",
+  "alliance_name": null
+}

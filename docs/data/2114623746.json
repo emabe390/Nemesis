@@ -1,0 +1,52 @@
+{
+  "character_id": 2114623746,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1788042000,
+    "name": "TinaThorn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810232,
+    "alliance_id": null,
+    "corporation_name": "Paperclip Rebellion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1788042000,
+      "name": "TinaThorn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97260827,
+      "name": "LittleVanu Yuki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112525860,
+      "name": "Primal ArmorRs",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113060308,
+      "name": "Carlo Wang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113868876,
+      "name": "Eric Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Schweinorg Reinhardt",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

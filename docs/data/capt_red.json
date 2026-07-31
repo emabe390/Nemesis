@@ -1,0 +1,46 @@
+{
+  "character_id": 1081516017,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 96396050,
+      "name": "Markus Fortran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116973106,
+      "name": "Bobo Boomer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121495970,
+      "name": "Zenadore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Capt Red",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

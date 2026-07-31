@@ -1,0 +1,52 @@
+{
+  "character_id": 2123430702,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2121407199,
+    "name": "Metalwer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121407199,
+      "name": "Metalwer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123048687,
+      "name": "Tairulaisen Koraka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91960700,
+      "name": "Rintaro Okabe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 544954858,
+      "name": "Atrus Atreides",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 780448988,
+      "name": "Isean",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MIne A 14",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

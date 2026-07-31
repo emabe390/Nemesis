@@ -1,0 +1,40 @@
+{
+  "character_id": 2123314667,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96325741,
+    "name": "Quintus Consul",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98651048,
+    "alliance_id": 99010386,
+    "corporation_name": "Absolute Order XVI",
+    "alliance_name": "Absolute Honor"
+  },
+  "top_killers": [
+    {
+      "id": 96325741,
+      "name": "Quintus Consul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 198028002,
+      "name": "RedMage",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122818738,
+      "name": "Scug",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Golda Mier",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

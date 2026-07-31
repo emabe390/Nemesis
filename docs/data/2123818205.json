@@ -1,0 +1,52 @@
+{
+  "character_id": 2123818205,
+  "total_losses": 38,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 2123600830,
+    "name": "Silent Alaska",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2123600830,
+      "name": "Silent Alaska",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 2123735528,
+      "name": "Weee wooo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94212475,
+      "name": "Rost Kosh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97210253,
+      "name": "Father Nye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Wongcoi",
+  "corporation_id": 98813744,
+  "alliance_id": 99014050,
+  "corporation_name": "DED Battle Sisters Convent Sanctorum",
+  "alliance_name": "Lunar Luminescence"
+}

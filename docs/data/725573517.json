@@ -1,0 +1,40 @@
+{
+  "character_id": 725573517,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122033636,
+    "name": "Ada-in-the-Box",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98838350,
+    "alliance_id": null,
+    "corporation_name": "Harmony's Garden",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122033636,
+      "name": "Ada-in-the-Box",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118193090,
+      "name": "Min Haneul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123441402,
+      "name": "True Corsar 2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Star Bug",
+  "corporation_id": 98690361,
+  "alliance_id": 1900696668,
+  "corporation_name": "Hold my Bier",
+  "alliance_name": "The Initiative."
+}

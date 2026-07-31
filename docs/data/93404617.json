@@ -1,0 +1,40 @@
+{
+  "character_id": 93404617,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93800823,
+    "name": "Serg Pit",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98621194,
+    "alliance_id": 99012042,
+    "corporation_name": "Stain Fleet Corp",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 93800823,
+      "name": "Serg Pit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1383451942,
+      "name": "Sgt Turok",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115706150,
+      "name": "Deadly Hita",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Ghost Silent",
+  "corporation_id": 1000009,
+  "alliance_id": null,
+  "corporation_name": "Caldari Provisions",
+  "alliance_name": null
+}

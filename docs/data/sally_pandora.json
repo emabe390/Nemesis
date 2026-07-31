@@ -1,0 +1,52 @@
+{
+  "character_id": 2123654133,
+  "total_losses": 91,
+  "unique_killers": 73,
+  "nemesis": {
+    "id": 91139333,
+    "name": "Kyle Anstian",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1418791931,
+    "alliance_id": 917526329,
+    "corporation_name": "Risky eXplosion",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 91139333,
+      "name": "Kyle Anstian",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 91254848,
+      "name": "fliet99",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116090809,
+      "name": "Saiberberg S",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 90668860,
+      "name": "Merukan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sally Pandora",
+  "corporation_id": 98652614,
+  "alliance_id": 99010517,
+  "corporation_name": "Temple of Tuvan Orth",
+  "alliance_name": "Guardians of Tranquility"
+}

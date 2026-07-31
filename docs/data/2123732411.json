@@ -1,0 +1,40 @@
+{
+  "character_id": 2123732411,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123605636,
+    "name": "Claire Bright",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98829294,
+    "alliance_id": null,
+    "corporation_name": "Even Odds Theory",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123605636,
+      "name": "Claire Bright",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1422296594,
+      "name": "Zashiran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115638057,
+      "name": "Sal Vagee",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2123732411",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

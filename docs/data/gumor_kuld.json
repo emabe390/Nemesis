@@ -1,0 +1,40 @@
+{
+  "character_id": 2118951922,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91906929,
+    "name": "Rukia Hamazu",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98192155,
+    "alliance_id": null,
+    "corporation_name": "Zeeman Industries",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1027654443,
+      "name": "inFKami",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115046375,
+      "name": "Firebon Orlenard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gumor Kuld",
+  "corporation_id": 98699553,
+  "alliance_id": 99014849,
+  "corporation_name": "Astral Acquisitions Inc.",
+  "alliance_name": "Astral Ascendancy Initiative."
+}

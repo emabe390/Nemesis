@@ -1,0 +1,52 @@
+{
+  "character_id": 2123833844,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96636264,
+    "name": "Retsudo Yagyu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98492570,
+    "alliance_id": 1459096720,
+    "corporation_name": "Secret Service Inc",
+    "alliance_name": "Brotherhood Of Silent Space"
+  },
+  "top_killers": [
+    {
+      "id": 96636264,
+      "name": "Retsudo Yagyu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 625550881,
+      "name": "Torothin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95743353,
+      "name": "Jaxom Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 711649546,
+      "name": "Father Weebles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1698095285,
+      "name": "Vulcani",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Closing Shade",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

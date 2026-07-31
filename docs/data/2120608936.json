@@ -1,0 +1,52 @@
+{
+  "character_id": 2120608936,
+  "total_losses": 18,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 178102877,
+    "name": "Golden Helmet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 178102877,
+      "name": "Golden Helmet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113305888,
+      "name": "Character 2113305888",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117890816,
+      "name": "Hidetoshi Okamura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92099164,
+      "name": "NayerSkeyak Vyvorant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hayten",
+  "corporation_id": 1402249247,
+  "alliance_id": 99013548,
+  "corporation_name": "Lionel War Industries",
+  "alliance_name": "ENIGMA DOMAIN ALLIANCE"
+}

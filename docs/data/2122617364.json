@@ -1,0 +1,52 @@
+{
+  "character_id": 2122617364,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 744537204,
+    "name": "Hunter Dredd",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 744537204,
+      "name": "Hunter Dredd",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91200695,
+      "name": "Jason Nautica",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115806515,
+      "name": "Diablo DeFuego",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118981084,
+      "name": "Andrew Pall",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eyjals",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123986163,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96416148,
+    "name": "Mistress Six",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98768071,
+    "alliance_id": 99010804,
+    "corporation_name": "Khanid Border Patrol",
+    "alliance_name": "Macabric Trick"
+  },
+  "top_killers": [
+    {
+      "id": 96416148,
+      "name": "Mistress Six",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112048997,
+      "name": "Luk Psywalker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120071250,
+      "name": "Ladynumping",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Erkinnen",
+  "corporation_id": 98821075,
+  "alliance_id": null,
+  "corporation_name": "Erkinnen Corporation",
+  "alliance_name": null
+}

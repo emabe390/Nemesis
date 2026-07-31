@@ -1,0 +1,40 @@
+{
+  "character_id": 2123684498,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1292964949,
+    "name": "Khalger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98821127,
+    "alliance_id": null,
+    "corporation_name": "The big boys",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1292964949,
+      "name": "Khalger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1693275040,
+      "name": "crahkiller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114227134,
+      "name": "Sam Fuller",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PatrynJoV",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

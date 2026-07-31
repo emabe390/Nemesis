@@ -1,0 +1,40 @@
+{
+  "character_id": 2002437987,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114281357,
+    "name": "Arthur Lachu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1187207583,
+    "alliance_id": 1354830081,
+    "corporation_name": "Shocky Industries Ltd.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2114281357,
+      "name": "Arthur Lachu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117427055,
+      "name": "Dirtyjoe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121555816,
+      "name": "Detection",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Loccy",
+  "corporation_id": 98762032,
+  "alliance_id": 99013823,
+  "corporation_name": "Nebula Systems",
+  "alliance_name": "Cat Scratch Fevers"
+}

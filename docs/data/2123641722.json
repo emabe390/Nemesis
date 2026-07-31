@@ -1,0 +1,46 @@
+{
+  "character_id": 2123641722,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91864941,
+    "name": "Alpher Douglas",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98705914,
+    "alliance_id": 99003285,
+    "corporation_name": "Dangerous Strangers",
+    "alliance_name": "WarDogs League"
+  },
+  "top_killers": [
+    {
+      "id": 91864941,
+      "name": "Alpher Douglas",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94101251,
+      "name": "Sam Spooner",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122191553,
+      "name": "Kahadrus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122734711,
+      "name": "LaKostya Croc",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sorcha Faelwyn",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

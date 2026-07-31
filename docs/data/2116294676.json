@@ -1,0 +1,52 @@
+{
+  "character_id": 2116294676,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2123560119,
+    "name": "Dank Angle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 2123560119,
+      "name": "Dank Angle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95046589,
+      "name": "Jessie Hayato",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 2116187087,
+      "name": "Virren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122384778,
+      "name": "Balu-Mining",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123077369,
+      "name": "System-JK",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Graftys NS",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

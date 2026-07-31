@@ -1,0 +1,52 @@
+{
+  "character_id": 2116790052,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 90159499,
+    "name": "Jeremiah Galtus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98791475,
+    "alliance_id": null,
+    "corporation_name": "Exploding Pixels",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90159499,
+      "name": "Jeremiah Galtus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92529255,
+      "name": "Freddi Nebail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1067414996,
+      "name": "Poseidon Argus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90520305,
+      "name": "Mark Outa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 440760827,
+      "name": "Ad Alta",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Man of Super",
+  "corporation_id": 98640845,
+  "alliance_id": 99011277,
+  "corporation_name": "The Inf3cted",
+  "alliance_name": "Pathog3n"
+}

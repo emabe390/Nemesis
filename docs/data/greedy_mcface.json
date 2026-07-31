@@ -1,0 +1,52 @@
+{
+  "character_id": 2118285701,
+  "total_losses": 18,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2112839400,
+    "name": "Toundrah Blish",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98451868,
+    "alliance_id": null,
+    "corporation_name": "Les Petits Pedestres",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2112839400,
+      "name": "Toundrah Blish",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122340771,
+      "name": "Brim Borion",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91361942,
+      "name": "Duke Revolution",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 615036859,
+      "name": "AAie Zory",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Greedy McFace",
+  "corporation_id": 98776045,
+  "alliance_id": 99014321,
+  "corporation_name": "Tilean Silver Lion Company",
+  "alliance_name": "Tilean Dominium"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123862823,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 93250376,
+      "name": "m3rcurial",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1905713025,
+      "name": "Avi Lee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2081750081,
+      "name": "Redeovg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115495684,
+      "name": "Lanpa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RaunDotZip",
+  "corporation_id": 98667941,
+  "alliance_id": 99010641,
+  "corporation_name": "The Bombards",
+  "alliance_name": "Send Dudes"
+}

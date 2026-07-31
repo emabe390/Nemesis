@@ -1,0 +1,40 @@
+{
+  "character_id": 2124040340,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1290709513,
+    "name": "Mike Kisiel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98158909,
+    "alliance_id": 99007335,
+    "corporation_name": "Sokar Syndicate",
+    "alliance_name": "Habitual Chaos"
+  },
+  "top_killers": [
+    {
+      "id": 1290709513,
+      "name": "Mike Kisiel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119981297,
+      "name": "Character 2119981297",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WhaleTailor",
+  "corporation_id": 98819914,
+  "alliance_id": null,
+  "corporation_name": "Darkline Interstellar",
+  "alliance_name": null
+}

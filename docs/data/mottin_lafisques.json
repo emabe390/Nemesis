@@ -1,0 +1,40 @@
+{
+  "character_id": 2123546771,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121491186,
+    "name": "Elil Win Ray",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98751228,
+    "alliance_id": 99012932,
+    "corporation_name": "CHOAYURA",
+    "alliance_name": "CHOAYURA Megacorporation"
+  },
+  "top_killers": [
+    {
+      "id": 2121491186,
+      "name": "Elil Win Ray",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 657920202,
+      "name": "Mahik net",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123848803,
+      "name": "Devil of Rhine",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mottin Lafisques",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

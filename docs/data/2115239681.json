@@ -1,0 +1,52 @@
+{
+  "character_id": 2115239681,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117053665,
+      "name": "Oruo Otichoda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91686051,
+      "name": "Xarion Xentox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 473835961,
+      "name": "StarArrow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113314899,
+      "name": "Dexter Garven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Charles V",
+  "corporation_id": 98473459,
+  "alliance_id": 99014617,
+  "corporation_name": "Lethal Devotion",
+  "alliance_name": "D E L I R I U M"
+}

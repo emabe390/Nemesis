@@ -1,0 +1,40 @@
+{
+  "character_id": 2123504731,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119190048,
+    "name": "Zhags",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370339,
+    "alliance_id": 99012428,
+    "corporation_name": "D-sync",
+    "alliance_name": "D-sync."
+  },
+  "top_killers": [
+    {
+      "id": 2119190048,
+      "name": "Zhags",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120757540,
+      "name": "Biggus le Dickus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115253023,
+      "name": "cowjazz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "5th Dragon",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

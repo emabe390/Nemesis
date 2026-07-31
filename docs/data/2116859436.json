@@ -1,0 +1,52 @@
+{
+  "character_id": 2116859436,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2112583621,
+    "name": "mana jorell",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98330748,
+    "alliance_id": 99006319,
+    "corporation_name": "WiNGSPAN Delivery Services",
+    "alliance_name": "WiNGSPAN Delivery Network"
+  },
+  "top_killers": [
+    {
+      "id": 2112583621,
+      "name": "mana jorell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1727025426,
+      "name": "Perseus Kallistratos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116988196,
+      "name": "Zombi 2020",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117403851,
+      "name": "RoflanPomojka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121366978,
+      "name": "Hillbilly-6000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CatMeow Cade",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

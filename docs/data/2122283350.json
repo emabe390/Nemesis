@@ -1,0 +1,52 @@
+{
+  "character_id": 2122283350,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121270887,
+    "name": "SCP9400",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98810705,
+    "alliance_id": 99014305,
+    "corporation_name": "Maxx-C",
+    "alliance_name": "Yu-Gi-Oh Duel"
+  },
+  "top_killers": [
+    {
+      "id": 2121270887,
+      "name": "SCP9400",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112544950,
+      "name": "Yuyuko saigyuuji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120823003,
+      "name": "VaaaaS",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123766048,
+      "name": "Husky211",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MaximRing",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

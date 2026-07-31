@@ -1,0 +1,52 @@
+{
+  "character_id": 2122157200,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 672826810,
+    "name": "Pallustris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98808697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Void Engine.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 672826810,
+      "name": "Pallustris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1130903144,
+      "name": "pizzaguy99",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1822052106,
+      "name": "Commander Azzag",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115589609,
+      "name": "NITO SOLO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119784291,
+      "name": "Splattack",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RainbowTop1",
+  "corporation_id": 98606029,
+  "alliance_id": 99009163,
+  "corporation_name": "Dam Scientific Research",
+  "alliance_name": "Dracarys."
+}

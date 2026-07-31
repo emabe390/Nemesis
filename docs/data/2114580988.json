@@ -1,0 +1,40 @@
+{
+  "character_id": 2114580988,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117095930,
+    "name": "Dmitry Sceletus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98131912,
+    "alliance_id": null,
+    "corporation_name": "True Horde",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117095930,
+      "name": "Dmitry Sceletus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123354342,
+      "name": "Zevi Marque",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123378388,
+      "name": "ZoranGreen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kim DeHert",
+  "corporation_id": 98726134,
+  "alliance_id": 99011978,
+  "corporation_name": "Rattini Tribe",
+  "alliance_name": "Minmatar Fleet Alliance"
+}

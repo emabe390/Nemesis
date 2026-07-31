@@ -1,0 +1,52 @@
+{
+  "character_id": 2124163601,
+  "total_losses": 18,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 583637272,
+    "name": "H5N1ONE",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 583637272,
+      "name": "H5N1ONE",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 687753641,
+      "name": "Iliad D'jax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1254833090,
+      "name": "niobeh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94421295,
+      "name": "LeRoy Rathbone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97257636,
+      "name": "Kaven Martinez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fenrir Node",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

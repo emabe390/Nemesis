@@ -1,0 +1,52 @@
+{
+  "character_id": 2117667340,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 94278611,
+    "name": "Jason Baros",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 94278611,
+      "name": "Jason Baros",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94678527,
+      "name": "Pern Eus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97045528,
+      "name": "Mike Blackflag",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1107965223,
+      "name": "Oppressor Nikostratus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121286637,
+      "name": "Fritz V Hynek",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drahedio",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

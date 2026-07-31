@@ -1,0 +1,40 @@
+{
+  "character_id": 2123810232,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94003370,
+    "name": "Loc'Na Morbiditti",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98568086,
+    "alliance_id": null,
+    "corporation_name": "EveIsBoring",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94003370,
+      "name": "Loc'Na Morbiditti",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118531355,
+      "name": "Character 2118531355",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sveketolf Regyri",
+  "corporation_id": 98767377,
+  "alliance_id": null,
+  "corporation_name": "MAP Corp",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123879996,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 693863860,
+    "name": "2Shae",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766678,
+    "alliance_id": 99004804,
+    "corporation_name": "Somos la Muerte",
+    "alliance_name": "DarkSide."
+  },
+  "top_killers": [
+    {
+      "id": 693863860,
+      "name": "2Shae",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1917267635,
+      "name": "Mila Yakinov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120980988,
+      "name": "Evalen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1013841685,
+      "name": "Warrior Alpha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113875865,
+      "name": "Joey Umangiar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hardy Fly",
+  "corporation_id": 98809477,
+  "alliance_id": 99010389,
+  "corporation_name": "Not A Threat. I Promise",
+  "alliance_name": "Outsmarted"
+}

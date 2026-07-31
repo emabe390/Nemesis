@@ -1,0 +1,40 @@
+{
+  "character_id": 2122368029,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96035709,
+    "name": "Henning fon Holzendorf",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 96035709,
+      "name": "Henning fon Holzendorf",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rick DSanchez III",
+  "corporation_id": 98797602,
+  "alliance_id": null,
+  "corporation_name": "Triglavianische Wurmlochvereinigung e.V.",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123560441,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 1931745233,
+    "name": "Muffcobb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 980418053,
+    "alliance_id": 99000285,
+    "corporation_name": "737 Incorporated",
+    "alliance_name": "Good Sax"
+  },
+  "top_killers": [
+    {
+      "id": 1931745233,
+      "name": "Muffcobb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115311925,
+      "name": "Ivan Roger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123192811,
+      "name": "Kaavala Tornadas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95552760,
+      "name": "Zim Agnon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95769868,
+      "name": "TERKISH",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Solalar",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

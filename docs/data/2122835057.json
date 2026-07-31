@@ -1,0 +1,40 @@
+{
+  "character_id": 2122835057,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105165308,
+    "name": "Marclonus",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98658397,
+    "alliance_id": 99010321,
+    "corporation_name": "H.A.T.E.",
+    "alliance_name": "B.E.A.R.S."
+  },
+  "top_killers": [
+    {
+      "id": 105165308,
+      "name": "Marclonus",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2118814274,
+      "name": "Aggressive Elk",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91323840,
+      "name": "Roberrrto Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okano Uisa Muvila",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123813852,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 284601594,
+    "name": "Fthorian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 284601594,
+      "name": "Fthorian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 298313416,
+      "name": "No'vac",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 109249530,
+      "name": "Mobile Spaceunit",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alfa-Q",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121594530,
+  "total_losses": 17,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 337770848,
+    "name": "Character 337770848",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98826500,
+    "alliance_id": null,
+    "corporation_name": "Polaris Requiem",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 337770848,
+      "name": "Character 337770848",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112640164,
+      "name": "Sunburnt Elly",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116503388,
+      "name": "Chuck Blevins",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93990861,
+      "name": "Perkutor Jakuard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rin Revell",
+  "corporation_id": 98575203,
+  "alliance_id": 99010980,
+  "corporation_name": "Dark Venture Corporation",
+  "alliance_name": "Kitchen Sinkhole"
+}

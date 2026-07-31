@@ -1,0 +1,40 @@
+{
+  "character_id": 2123417636,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 319949834,
+    "name": "Mmarauder",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 583616018,
+    "alliance_id": 1354830081,
+    "corporation_name": "Black Aces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 319949834,
+      "name": "Mmarauder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112614847,
+      "name": "Cyty Namar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117616860,
+      "name": "Joker Avada",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Heinaro Aakiwa",
+  "corporation_id": 583616018,
+  "alliance_id": 1354830081,
+  "corporation_name": "Black Aces",
+  "alliance_name": "Goonswarm Federation"
+}

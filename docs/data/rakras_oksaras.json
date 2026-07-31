@@ -1,0 +1,52 @@
+{
+  "character_id": 2123971366,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2116109293,
+    "name": "PINK SCOPE",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 306830202,
+    "alliance_id": 99004357,
+    "corporation_name": "The Tuskers",
+    "alliance_name": "The Tuskers Co."
+  },
+  "top_killers": [
+    {
+      "id": 2116109293,
+      "name": "PINK SCOPE",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90330852,
+      "name": "Tol Vir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115179684,
+      "name": "Destaze",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123971320,
+      "name": "Ekari Aima Uitra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123971333,
+      "name": "Salalimo Ozuwara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rakras Oksaras",
+  "corporation_id": 98600350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Watch Eagle",
+  "alliance_name": "Goonswarm Federation"
+}

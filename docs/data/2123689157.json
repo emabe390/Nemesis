@@ -1,0 +1,52 @@
+{
+  "character_id": 2123689157,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1289328660,
+    "name": "Suplex Backbreaker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98658625,
+    "alliance_id": 99011957,
+    "corporation_name": "Goosefleet",
+    "alliance_name": "Gooseflock Featheration"
+  },
+  "top_killers": [
+    {
+      "id": 1289328660,
+      "name": "Suplex Backbreaker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123357953,
+      "name": "Ashthar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95478405,
+      "name": "Limerin Earthborn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 713111330,
+      "name": "Nathanaek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 845980282,
+      "name": "Paragorn Duvas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Okono",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

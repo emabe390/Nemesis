@@ -1,0 +1,40 @@
+{
+  "character_id": 95026108,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95788602,
+    "name": "Dragon Deveto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808795,
+    "alliance_id": null,
+    "corporation_name": "Liminal Order",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95788602,
+      "name": "Dragon Deveto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1319315910,
+      "name": "Kapitan4Len",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94843529,
+      "name": "Fenrir Nordson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 95026108",
+  "corporation_id": 98730577,
+  "alliance_id": 99004344,
+  "corporation_name": "Unreasonable Neighbours",
+  "alliance_name": "Hole Control"
+}

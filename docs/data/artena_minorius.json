@@ -1,0 +1,46 @@
+{
+  "character_id": 2123954810,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 973132633,
+    "name": "GTN",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 166334732,
+    "alliance_id": 495729389,
+    "corporation_name": "BALKAN EXPRESS",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 973132633,
+      "name": "GTN",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 673265272,
+      "name": "Godren Storm",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123408059,
+      "name": "Aurora Inara",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "artena minorius",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123808476,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112270582,
+    "name": "Bixtarqiv",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2112270582,
+      "name": "Bixtarqiv",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94899371,
+      "name": "Vanu Kahn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 771498253,
+      "name": "DarhtVaderrin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RocketScience",
+  "corporation_id": 98819572,
+  "alliance_id": 99014582,
+  "corporation_name": "System Lords of the Ammatar Empire",
+  "alliance_name": "Glacial Industrial Collective"
+}

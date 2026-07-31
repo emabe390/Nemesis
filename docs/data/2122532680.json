@@ -1,0 +1,40 @@
+{
+  "character_id": 2122532680,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113806441,
+    "name": "Dizzy Helsing",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777557,
+    "alliance_id": null,
+    "corporation_name": "Watch Eagle Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113806441,
+      "name": "Dizzy Helsing",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122534271,
+      "name": "Hosen Hilanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keeping Hisec safe",
+  "corporation_id": 98791314,
+  "alliance_id": 99010089,
+  "corporation_name": "Highsec Safety Commission",
+  "alliance_name": "Novus Ordo."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123640214,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2122239422,
+    "name": "Kacas Faeles",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98665680,
+    "alliance_id": 99011223,
+    "corporation_name": "Th3 Hav3n",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 2122239422,
+      "name": "Kacas Faeles",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123640194,
+      "name": "WCZ4",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95705325,
+      "name": "Character 95705325",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119342072,
+      "name": "Arachyr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121916543,
+      "name": "BatteryHold",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "WCZ5",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

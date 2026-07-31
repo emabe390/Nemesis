@@ -1,0 +1,52 @@
+{
+  "character_id": 2123335679,
+  "total_losses": 50,
+  "unique_killers": 33,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2113563837,
+      "name": "Evgen Abarmotte",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90218543,
+      "name": "Notmo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92163548,
+      "name": "Noctus Thanatos",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ind REGl0NAL",
+  "corporation_id": 98771069,
+  "alliance_id": 99013766,
+  "corporation_name": "Corsario.",
+  "alliance_name": "Death Legion of Capybaras"
+}

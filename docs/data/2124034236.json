@@ -1,0 +1,40 @@
+{
+  "character_id": 2124034236,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 884085686,
+    "name": "Tarkis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 884085686,
+      "name": "Tarkis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92377960,
+      "name": "Mark Theosis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1632015551,
+      "name": "Zakalve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Choure Reau Athonille",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

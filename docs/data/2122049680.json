@@ -1,0 +1,40 @@
+{
+  "character_id": 2122049680,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96783235,
+    "name": "Character 96783235",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98766100,
+    "alliance_id": 99013537,
+    "corporation_name": "Our Sanctum",
+    "alliance_name": "Insidious."
+  },
+  "top_killers": [
+    {
+      "id": 96783235,
+      "name": "Character 96783235",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117623123,
+      "name": "Roy Davies",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120762118,
+      "name": "Marie Davies",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shalun'off",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123492744,
+  "total_losses": 22,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 95680468,
+      "name": "Lob Lot",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115656678,
+      "name": "Blops Cyno Lit",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92796020,
+      "name": "Scorrn Starr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 640170087,
+      "name": "JK Shadow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silent pedi",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

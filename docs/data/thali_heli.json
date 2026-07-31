@@ -1,0 +1,52 @@
+{
+  "character_id": 2123478181,
+  "total_losses": 43,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2123093724,
+    "name": "Nidaros Hvide",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98378388,
+    "alliance_id": 99002685,
+    "corporation_name": "Marauders Associated",
+    "alliance_name": "Synergy of Steel"
+  },
+  "top_killers": [
+    {
+      "id": 2123093724,
+      "name": "Nidaros Hvide",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 90542575,
+      "name": "James Aeder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90837455,
+      "name": "Intevid TheWej",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91667749,
+      "name": "Gbus Furnadez",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Thali Heli",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

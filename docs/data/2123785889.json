@@ -1,0 +1,34 @@
+{
+  "character_id": 2123785889,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92758871,
+    "name": "Enaz Selpats",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98169146,
+    "alliance_id": null,
+    "corporation_name": "Dragon's Den inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92758871,
+      "name": "Enaz Selpats",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96834238,
+      "name": "Andromeda Hunt",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Stealthfyre",
+  "corporation_id": 98403734,
+  "alliance_id": 99009885,
+  "corporation_name": "Subsidy H.R.S.",
+  "alliance_name": "Xagenic Freymvork"
+}

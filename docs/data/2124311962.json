@@ -1,0 +1,52 @@
+{
+  "character_id": 2124311962,
+  "total_losses": 51,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 90380173,
+    "name": "Tresorknacker",
+    "kill_count": 17,
+    "final_blows": 17,
+    "corporation_id": 98541136,
+    "alliance_id": null,
+    "corporation_name": "Solid Ground",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90380173,
+      "name": "Tresorknacker",
+      "kill_count": 17,
+      "final_blows": 17
+    },
+    {
+      "id": 2114042817,
+      "name": "WilhelmDerEroberer",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93086301,
+      "name": "Dorm Marstolt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rolland Muller",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

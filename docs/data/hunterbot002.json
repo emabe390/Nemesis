@@ -1,0 +1,52 @@
+{
+  "character_id": 2124217057,
+  "total_losses": 10,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2124201130,
+    "name": "HunterBlackJack",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98783021,
+    "alliance_id": null,
+    "corporation_name": "BEI-ZHEN-FUSI",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124201130,
+      "name": "HunterBlackJack",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92180062,
+      "name": "Shilliam Watner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120677445,
+      "name": "Manchas Luchas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124217056,
+      "name": "HunterBOT001",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124213763,
+      "name": "HunterWhiteRose",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HunterBOT002",
+  "corporation_id": 98783021,
+  "alliance_id": null,
+  "corporation_name": "BEI-ZHEN-FUSI",
+  "alliance_name": null
+}

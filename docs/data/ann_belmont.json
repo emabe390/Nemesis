@@ -1,0 +1,40 @@
+{
+  "character_id": 2124348324,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96482802,
+    "name": "Tatsu Hattori",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98805281,
+    "alliance_id": 99013072,
+    "corporation_name": "DogSoldierS",
+    "alliance_name": "Stain Neurodiverse Democracy"
+  },
+  "top_killers": [
+    {
+      "id": 96482802,
+      "name": "Tatsu Hattori",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90614014,
+      "name": "Jack Times",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 968604553,
+      "name": "Swamp Ziro",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ann Belmont",
+  "corporation_id": 98799892,
+  "alliance_id": 99010468,
+  "corporation_name": "False Gods",
+  "alliance_name": "Weapons Of Mass Production."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2120266393,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90071419,
+      "name": "Thailius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91365609,
+      "name": "Igor Gorodbin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96221420,
+      "name": "Zaraza Holl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 380179406,
+      "name": "Jane Tomson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2120266393",
+  "corporation_id": 98788012,
+  "alliance_id": 99013690,
+  "corporation_name": "The Edge of Heretics",
+  "alliance_name": "Critical. Mass."
+}

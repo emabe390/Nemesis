@@ -1,0 +1,52 @@
+{
+  "character_id": 2123625783,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2115104200,
+    "name": "SAMSUNG KoreaCompany",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98617815,
+    "alliance_id": null,
+    "corporation_name": "Space Oddities Join Us",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115104200,
+      "name": "SAMSUNG KoreaCompany",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90178634,
+      "name": "AkatokuChaos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91638864,
+      "name": "SpS2000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93255989,
+      "name": "SIdd Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93710229,
+      "name": "sidonai Adestur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Taikonaut SG",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

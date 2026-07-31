@@ -1,0 +1,34 @@
+{
+  "character_id": 2123878542,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120038633,
+    "name": "BellZayper Dragneel",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98771069,
+    "alliance_id": 99013766,
+    "corporation_name": "Corsario.",
+    "alliance_name": "Death Legion of Capybaras"
+  },
+  "top_killers": [
+    {
+      "id": 2120038633,
+      "name": "BellZayper Dragneel",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122696107,
+      "name": "Red Nikki",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Esfiron",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

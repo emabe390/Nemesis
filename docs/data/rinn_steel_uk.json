@@ -1,0 +1,52 @@
+{
+  "character_id": 2120463410,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 960907441,
+      "name": "Luukje",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1205254836,
+      "name": "ELicken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rinn Steel UK",
+  "corporation_id": 98645539,
+  "alliance_id": 99013541,
+  "corporation_name": "L.A.T.I.N.O.S",
+  "alliance_name": "Fraternity Auxiliary"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123538232,
+  "total_losses": 42,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2121405431,
+    "name": "Mitis Wendy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98186730,
+    "alliance_id": 1354830081,
+    "corporation_name": "Brothers of Tyr",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2121405431,
+      "name": "Mitis Wendy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90914104,
+      "name": "Bytrik Tivianne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92031734,
+      "name": "Rus Kicks",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95631062,
+      "name": "Teddy KGB",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1646278653,
+      "name": "Fuzojix",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ShiKaoKe",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

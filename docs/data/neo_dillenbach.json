@@ -1,0 +1,52 @@
+{
+  "character_id": 94117346,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90499659,
+    "name": "Jarma Topdrawer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98518773,
+    "alliance_id": null,
+    "corporation_name": "Vega - Orbital Resource Extraction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90499659,
+      "name": "Jarma Topdrawer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1743905655,
+      "name": "EF Beta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Neo Dillenbach",
+  "corporation_id": 98814263,
+  "alliance_id": null,
+  "corporation_name": "NxCorp",
+  "alliance_name": null
+}

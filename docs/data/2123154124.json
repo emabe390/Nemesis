@@ -1,0 +1,52 @@
+{
+  "character_id": 2123154124,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94885321,
+      "name": "sarah lasse",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120279659,
+      "name": "Haim Green",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120656059,
+      "name": "Gladius Humanitatis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92291171,
+      "name": "Skol Marito",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Victoria Starshine",
+  "corporation_id": 98769631,
+  "alliance_id": 99012403,
+  "corporation_name": "ISEEU Corporation",
+  "alliance_name": "Observatory Great Bear"
+}

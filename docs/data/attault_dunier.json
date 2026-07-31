@@ -1,0 +1,40 @@
+{
+  "character_id": 2123177390,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92647156,
+    "name": "Lars Fitz-Patrick",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98688951,
+    "alliance_id": 99009856,
+    "corporation_name": "Mercury Arms Inc.",
+    "alliance_name": "Ghostbirds"
+  },
+  "top_killers": [
+    {
+      "id": 92647156,
+      "name": "Lars Fitz-Patrick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114096575,
+      "name": "Abby Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Attault Dunier",
+  "corporation_id": 98723937,
+  "alliance_id": null,
+  "corporation_name": "buscadores de la pierna de wirt",
+  "alliance_name": null
+}

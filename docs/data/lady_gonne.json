@@ -1,0 +1,52 @@
+{
+  "character_id": 2124032497,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93932649,
+    "name": "Validium Cor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98757825,
+    "alliance_id": null,
+    "corporation_name": "Holier Than Thou.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93932649,
+      "name": "Validium Cor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 91682985,
+      "name": "Mariko Ishii",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92684023,
+      "name": "Valcc Elusive",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93338268,
+      "name": "Greedseed Altol",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "lady gonne",
+  "corporation_id": 98819016,
+  "alliance_id": 99014577,
+  "corporation_name": "Silentrix",
+  "alliance_name": "High Sec Mining Consortium"
+}

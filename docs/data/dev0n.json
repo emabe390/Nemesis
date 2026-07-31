@@ -1,0 +1,52 @@
+{
+  "character_id": 570246427,
+  "total_losses": 32,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 95865832,
+    "name": "John Clemson",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98784883,
+    "alliance_id": 99015133,
+    "corporation_name": "G0lden Fleet.",
+    "alliance_name": "GOBLIN FLEET"
+  },
+  "top_killers": [
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91108529,
+      "name": "Character 91108529",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 217684493,
+      "name": "Imperius Dominus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90267480,
+      "name": "Sadams",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92161777,
+      "name": "Apple Adven",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "dev0n",
+  "corporation_id": 98373312,
+  "alliance_id": null,
+  "corporation_name": "Silence now",
+  "alliance_name": null
+}

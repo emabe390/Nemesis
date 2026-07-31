@@ -1,0 +1,52 @@
+{
+  "character_id": 2123694488,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118033675,
+      "name": "GreenEyes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123857193,
+      "name": "Fumi Isayeki",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91277703,
+      "name": "Dresha N-Tagil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96936319,
+      "name": "Wizard5842 Momaki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lost Dawn",
+  "corporation_id": 98817310,
+  "alliance_id": 99009163,
+  "corporation_name": "Dusk dreadnought.",
+  "alliance_name": "Dracarys."
+}

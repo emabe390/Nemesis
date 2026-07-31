@@ -1,0 +1,52 @@
+{
+  "character_id": 2118093469,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2118943330,
+    "name": "Samuel Culpeper",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 2118943330,
+      "name": "Samuel Culpeper",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91586742,
+      "name": "Lynx Claw",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92735123,
+      "name": "Kaiden Bridge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93376562,
+      "name": "Sergey Beda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93563659,
+      "name": "NovaMoon Enaka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zechariah Audeles",
+  "corporation_id": 98672533,
+  "alliance_id": 99005393,
+  "corporation_name": "BrainBox",
+  "alliance_name": "Blades of Grass"
+}

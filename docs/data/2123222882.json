@@ -1,0 +1,52 @@
+{
+  "character_id": 2123222882,
+  "total_losses": 9,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 217897530,
+    "name": "maserri",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98648570,
+    "alliance_id": 99010561,
+    "corporation_name": "Krab Miners",
+    "alliance_name": "Krab Miners."
+  },
+  "top_killers": [
+    {
+      "id": 217897530,
+      "name": "maserri",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 580851398,
+      "name": "Swishow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 731851538,
+      "name": "QuarantineEng",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1190226993,
+      "name": "Cpt JackSparow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "In HER Name",
+  "corporation_id": 98743337,
+  "alliance_id": 99012862,
+  "corporation_name": "Mining Under the Influence",
+  "alliance_name": "Influential Operations"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2120923556,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95544410,
+    "name": "Brett Powervul",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 310281086,
+    "alliance_id": 1354830081,
+    "corporation_name": "Un4seen Development",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95544410,
+      "name": "Brett Powervul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96066474,
+      "name": "Kobra LivesMatter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120383991,
+      "name": "Morton Locke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ritsu Mining",
+  "corporation_id": 98783407,
+  "alliance_id": 99003995,
+  "corporation_name": "Golden Fleece",
+  "alliance_name": "Invidia Gloriae Comes"
+}

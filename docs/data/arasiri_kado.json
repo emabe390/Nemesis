@@ -1,0 +1,40 @@
+{
+  "character_id": 2123277000,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 703462502,
+    "name": "Potential Impact",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98190062,
+    "alliance_id": 1354830081,
+    "corporation_name": "Peoples Liberation Army",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 703462502,
+      "name": "Potential Impact",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113029856,
+      "name": "DomiTyphoon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114036083,
+      "name": "Asa3 Hekki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arasiri Kado",
+  "corporation_id": 98716632,
+  "alliance_id": 99003581,
+  "corporation_name": "Salamandras Prime",
+  "alliance_name": "Fraternity."
+}

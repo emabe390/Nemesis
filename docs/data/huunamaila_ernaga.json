@@ -1,0 +1,40 @@
+{
+  "character_id": 2123101711,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 558518463,
+    "name": "Shadler",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98069940,
+    "alliance_id": 99012042,
+    "corporation_name": "First Medical Aid Industry Evolution",
+    "alliance_name": "Fanatic Legion."
+  },
+  "top_killers": [
+    {
+      "id": 558518463,
+      "name": "Shadler",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1481434758,
+      "name": "Epofhis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116499190,
+      "name": "Rolandius Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Huunamaila Ernaga",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

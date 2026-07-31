@@ -1,0 +1,40 @@
+{
+  "character_id": 2122216728,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122327236,
+    "name": "MorffeII",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767977,
+    "alliance_id": null,
+    "corporation_name": "Space Bears",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122327236,
+      "name": "MorffeII",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115348530,
+      "name": "Rossih Azkaban",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123285325,
+      "name": "Shiro Nakamoto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SetunaSnow",
+  "corporation_id": 98748386,
+  "alliance_id": 99006406,
+  "corporation_name": "GANGUEHILL COLLEGE",
+  "alliance_name": "Fraternity University"
+}

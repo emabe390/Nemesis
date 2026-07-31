@@ -1,0 +1,40 @@
+{
+  "character_id": 2120237885,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 92406000,
+      "name": "Aldous L Huxley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1236699241,
+      "name": "MooCowofKow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Faustus Walter",
+  "corporation_id": 98813305,
+  "alliance_id": 99009163,
+  "corporation_name": "E N E M Y",
+  "alliance_name": "Dracarys."
+}

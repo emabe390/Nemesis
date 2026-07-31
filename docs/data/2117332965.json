@@ -1,0 +1,46 @@
+{
+  "character_id": 2117332965,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116425189,
+    "name": "Gavin Pettrie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646080,
+    "alliance_id": 927292903,
+    "corporation_name": "The Gavinomium",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 2116425189,
+      "name": "Gavin Pettrie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1404461682,
+      "name": "Maximus Corpus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1814533716,
+      "name": "The JustifiedX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GFXuntold",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

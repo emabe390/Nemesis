@@ -1,0 +1,52 @@
+{
+  "character_id": 2124205365,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115347148,
+    "name": "Kag Fox",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1599371034,
+    "alliance_id": 1354830081,
+    "corporation_name": "SovNarKom.",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2115347148,
+      "name": "Kag Fox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121071230,
+      "name": "Barberton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93812968,
+      "name": "Noah Tollerton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 327771665,
+      "name": "Criminal Dragon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 958182227,
+      "name": "Wulfrunian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2124205365",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

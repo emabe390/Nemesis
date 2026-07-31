@@ -1,0 +1,52 @@
+{
+  "character_id": 2122261267,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 1106585739,
+    "name": "Re'Lith",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98766303,
+    "alliance_id": null,
+    "corporation_name": "Rookie Crewkie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1106585739,
+      "name": "Re'Lith",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114348755,
+      "name": "Jason Bournne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118867018,
+      "name": "ISP15",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121761614,
+      "name": "CrazyFreeze",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121917791,
+      "name": "LesMoore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MagicWhisper",
+  "corporation_id": 98782842,
+  "alliance_id": 99010882,
+  "corporation_name": "My Little Fish Corp. 0",
+  "alliance_name": "Nasty Watcher Group"
+}

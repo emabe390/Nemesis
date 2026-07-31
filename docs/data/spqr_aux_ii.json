@@ -1,0 +1,40 @@
+{
+  "character_id": 2122709869,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114596476,
+    "name": "Maxim Yassko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788012,
+    "alliance_id": 99013690,
+    "corporation_name": "The Edge of Heretics",
+    "alliance_name": "Critical. Mass."
+  },
+  "top_killers": [
+    {
+      "id": 2114596476,
+      "name": "Maxim Yassko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122980630,
+      "name": "Shurtanen Hijo Ikkala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114600859,
+      "name": "Filin urmamovich",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SPQR AUX II",
+  "corporation_id": 98659921,
+  "alliance_id": 99009764,
+  "corporation_name": "Rat Nation",
+  "alliance_name": "Azure Citizen"
+}

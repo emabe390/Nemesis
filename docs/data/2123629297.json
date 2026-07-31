@@ -1,0 +1,52 @@
+{
+  "character_id": 2123629297,
+  "total_losses": 9,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 92682146,
+    "name": "Character 92682146",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771594,
+    "alliance_id": null,
+    "corporation_name": "ComGuards",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92682146,
+      "name": "Character 92682146",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123180054,
+      "name": "Splinter Askold",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123547712,
+      "name": "Brandir",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124237209,
+      "name": "Viparouchi Saisima",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 179004085,
+      "name": "Peter Powers",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spiliakis",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

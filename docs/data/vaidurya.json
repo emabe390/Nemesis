@@ -1,0 +1,52 @@
+{
+  "character_id": 2124200727,
+  "total_losses": 61,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92631420,
+      "name": "KittyCat Cat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92720359,
+      "name": "Kavoro Pel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94199960,
+      "name": "Maexi Power",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94512325,
+      "name": "Osrono Darksky",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Vaidurya",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

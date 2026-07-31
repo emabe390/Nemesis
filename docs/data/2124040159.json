@@ -1,0 +1,40 @@
+{
+  "character_id": 2124040159,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114269177,
+    "name": "Andrea Rossix",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98176024,
+    "alliance_id": 99011880,
+    "corporation_name": "Pixel Navigators",
+    "alliance_name": "AimogMart"
+  },
+  "top_killers": [
+    {
+      "id": 2114269177,
+      "name": "Andrea Rossix",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 358191535,
+      "name": "Deadi9",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121985434,
+      "name": "Jordy Blaster",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nitbuster",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

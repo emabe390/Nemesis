@@ -1,0 +1,52 @@
+{
+  "character_id": 2123561359,
+  "total_losses": 46,
+  "unique_killers": 34,
+  "nemesis": {
+    "id": 1230873801,
+    "name": "Killer Rasta",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 1230873801,
+      "name": "Killer Rasta",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2118828921,
+      "name": "Xantia",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123079364,
+      "name": "Rythorn",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 883169535,
+      "name": "Grimslaw",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2003068966,
+      "name": "Rothschildia cinctan",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kailion",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

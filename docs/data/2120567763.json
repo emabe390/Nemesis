@@ -1,0 +1,52 @@
+{
+  "character_id": 2120567763,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117940228,
+    "name": "Alicia network",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98777806,
+    "alliance_id": 99014308,
+    "corporation_name": "Stone Warriors",
+    "alliance_name": "Stone Warriors Fleet"
+  },
+  "top_killers": [
+    {
+      "id": 2117940228,
+      "name": "Alicia network",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120493310,
+      "name": "Myrroween",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121121061,
+      "name": "Lucky Layla",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122217621,
+      "name": "Dage-2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122420846,
+      "name": "Amanoi Anneto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaun Oriki",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

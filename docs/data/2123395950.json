@@ -1,0 +1,52 @@
+{
+  "character_id": 2123395950,
+  "total_losses": 258,
+  "unique_killers": 183,
+  "nemesis": {
+    "id": 2116024316,
+    "name": "Delph Pollard",
+    "kill_count": 11,
+    "final_blows": 11,
+    "corporation_id": 98759906,
+    "alliance_id": null,
+    "corporation_name": "Honor Point",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116024316,
+      "name": "Delph Pollard",
+      "kill_count": 11,
+      "final_blows": 11
+    },
+    {
+      "id": 2123944257,
+      "name": "BORG UNIT 83",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123908668,
+      "name": "BORG UNIT 84",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91251313,
+      "name": "Grunt Kado",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95908711,
+      "name": "Dreya Starhunt",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "BORG UNIT 88",
+  "corporation_id": 272675225,
+  "alliance_id": 1354830081,
+  "corporation_name": "Monkey Attack Squad",
+  "alliance_name": "Goonswarm Federation"
+}

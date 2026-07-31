@@ -1,0 +1,40 @@
+{
+  "character_id": 2122145366,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123402513,
+    "name": "BotActivityDetected",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771679,
+    "alliance_id": null,
+    "corporation_name": "The Pirate Playhouse",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123402513,
+      "name": "BotActivityDetected",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116554980,
+      "name": "Thomas Mulholland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122754894,
+      "name": "Sloom25",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "a's'm",
+  "corporation_id": 98573431,
+  "alliance_id": 99014279,
+  "corporation_name": "Chinese Breeze Peace",
+  "alliance_name": "HuaXa"
+}

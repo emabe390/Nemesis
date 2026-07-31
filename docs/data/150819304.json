@@ -1,0 +1,40 @@
+{
+  "character_id": 150819304,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95001236,
+      "name": "Jagier Miester",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95745932,
+      "name": "Bratney Spares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BARF",
+  "corporation_id": 98740873,
+  "alliance_id": 99010877,
+  "corporation_name": "Cynosural Field.",
+  "alliance_name": "Out of the Blue."
+}

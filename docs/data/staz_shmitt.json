@@ -1,0 +1,40 @@
+{
+  "character_id": 2123571597,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90710624,
+    "name": "Dtex O'neil",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98768588,
+    "alliance_id": 99014289,
+    "corporation_name": "Tiny Toons Inc.",
+    "alliance_name": "Ibuprofen Chapter"
+  },
+  "top_killers": [
+    {
+      "id": 90710624,
+      "name": "Dtex O'neil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92529255,
+      "name": "Freddi Nebail",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123642762,
+      "name": "crosswired",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Staz Shmitt",
+  "corporation_id": 98315934,
+  "alliance_id": 99014936,
+  "corporation_name": "Stuff and Junk Enterprises",
+  "alliance_name": "Health Code Violation"
+}

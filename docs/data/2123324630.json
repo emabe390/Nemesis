@@ -1,0 +1,40 @@
+{
+  "character_id": 2123324630,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119785123,
+    "name": "Cancer Interfectorem",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119785123,
+      "name": "Cancer Interfectorem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115515248,
+      "name": "Star Harrier",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HappyHat",
+  "corporation_id": 98637558,
+  "alliance_id": 99010735,
+  "corporation_name": "Slow Chidlren at Play",
+  "alliance_name": "SL0W CHILDREN AT PLAY"
+}

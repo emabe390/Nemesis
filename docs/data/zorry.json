@@ -1,0 +1,52 @@
+{
+  "character_id": 2123493435,
+  "total_losses": 25,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 95340827,
+    "name": "Natural Clone Killer",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95340827,
+      "name": "Natural Clone Killer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95792174,
+      "name": "HA ABOCb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96035541,
+      "name": "Buffalo72",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114246982,
+      "name": "PurgerAdrenaline",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119709705,
+      "name": "JustARandomGuy-FR",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "zorry",
+  "corporation_id": 98806096,
+  "alliance_id": 99014171,
+  "corporation_name": "Militant Auxiliary Interstellar Logistics",
+  "alliance_name": "Militant Auxiliary"
+}

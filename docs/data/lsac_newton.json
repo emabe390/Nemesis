@@ -1,0 +1,40 @@
+{
+  "character_id": 2124302331,
+  "total_losses": 9,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124302346,
+    "name": "Paul Dirac1",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98825941,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kun-Lun",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124302346,
+      "name": "Paul Dirac1",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 95277885,
+      "name": "Mark Bridges",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 594456576,
+      "name": "XxJaNxX",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lsac Newton",
+  "corporation_id": 98825941,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kun-Lun",
+  "alliance_name": "Goonswarm Federation"
+}

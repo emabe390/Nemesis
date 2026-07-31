@@ -1,0 +1,52 @@
+{
+  "character_id": 2123749845,
+  "total_losses": 14,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 705750642,
+    "name": "Sad Doom",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98813951,
+    "alliance_id": 99011258,
+    "corporation_name": "Tactical Nuke Inc.",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 705750642,
+      "name": "Sad Doom",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112854706,
+      "name": "Doob Jakatar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91565688,
+      "name": "Damoraath Sponge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94389195,
+      "name": "Rollo Vertal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95891003,
+      "name": "Marc Anneto",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vladimir MLK",
+  "corporation_id": 98638037,
+  "alliance_id": null,
+  "corporation_name": "Adeptus Mechanicus Coalition",
+  "alliance_name": null
+}

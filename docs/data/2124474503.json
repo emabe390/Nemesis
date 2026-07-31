@@ -1,0 +1,34 @@
+{
+  "character_id": 2124474503,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113027115,
+    "name": "Rudie DeNiro",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98407038,
+    "alliance_id": 1966049571,
+    "corporation_name": "Kill'em all. Let Bob sort'em out.",
+    "alliance_name": "Ushra'Khan"
+  },
+  "top_killers": [
+    {
+      "id": 2113027115,
+      "name": "Rudie DeNiro",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121635983,
+      "name": "Character 2121635983",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Hans Hako",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

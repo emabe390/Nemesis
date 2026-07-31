@@ -1,0 +1,52 @@
+{
+  "character_id": 2123114554,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 105251769,
+    "name": "Culuee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98694434,
+    "alliance_id": 99011258,
+    "corporation_name": "Eskimo Callboys",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112366239,
+      "name": "Insane Squirrel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90376921,
+      "name": "Osmon Queen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93558221,
+      "name": "Everett Rockefeller",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1704271169,
+      "name": "Kronos Hopeslayer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xavier Weyland",
+  "corporation_id": 98806187,
+  "alliance_id": null,
+  "corporation_name": "Angel Risk Management",
+  "alliance_name": null
+}

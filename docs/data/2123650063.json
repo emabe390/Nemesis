@@ -1,0 +1,52 @@
+{
+  "character_id": 2123650063,
+  "total_losses": 19,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 2116708949,
+    "name": "Michael Canary",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98747271,
+    "alliance_id": null,
+    "corporation_name": "Canaries Advanced Species Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116708949,
+      "name": "Michael Canary",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2116692184,
+      "name": "Derazer Derazer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91809357,
+      "name": "Abraham Solis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92091313,
+      "name": "Chuck Sanussi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92300270,
+      "name": "Wurby Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucas Dale",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2112201546,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 410880047,
+    "name": "Saturous",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 410880047,
+      "name": "Saturous",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1634302084,
+      "name": "Olan Draselac",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tacitus Varinia",
+  "corporation_id": 98828726,
+  "alliance_id": 99005382,
+  "corporation_name": "Jita Enforcement Division",
+  "alliance_name": "Jita Holding Inc."
+}

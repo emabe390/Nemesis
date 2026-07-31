@@ -1,0 +1,40 @@
+{
+  "character_id": 2124365541,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1237160250,
+    "name": "Baphommet",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98834005,
+    "alliance_id": null,
+    "corporation_name": "Fulcrum Security Consult",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1237160250,
+      "name": "Baphommet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119466335,
+      "name": "AileenSerendipity",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119727164,
+      "name": "Ming-Dynasty",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sebastien Malone",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

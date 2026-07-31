@@ -1,0 +1,52 @@
+{
+  "character_id": 95640053,
+  "total_losses": 144,
+  "unique_killers": 121,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 6,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 6,
+      "final_blows": 2
+    },
+    {
+      "id": 912927245,
+      "name": "Onic Madres",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 811374433,
+      "name": "Barking Dragon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93169249,
+      "name": "Trensk Mikakka",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94549997,
+      "name": "Battlesnatch Echerie",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kel Kalkoken",
+  "corporation_id": 263585335,
+  "alliance_id": 498125261,
+  "corporation_name": "Black Omega Security",
+  "alliance_name": "Test Alliance Please Ignore"
+}

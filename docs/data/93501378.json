@@ -1,0 +1,40 @@
+{
+  "character_id": 93501378,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114427807,
+    "name": "Effy Lucius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114427807,
+      "name": "Effy Lucius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96770277,
+      "name": "Naama Kai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115292717,
+      "name": "Character 2115292717",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Livid Retreat",
+  "corporation_id": 98809108,
+  "alliance_id": 99009324,
+  "corporation_name": "336ers",
+  "alliance_name": "Wardec Mechanics"
+}

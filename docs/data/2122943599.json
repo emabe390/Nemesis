@@ -1,0 +1,40 @@
+{
+  "character_id": 2122943599,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95012754,
+    "name": "Der Tauber",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98823090,
+    "alliance_id": null,
+    "corporation_name": "Last Signature",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95012754,
+      "name": "Der Tauber",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 487040562,
+      "name": "brutor bellum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112274890,
+      "name": "Sage Mo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Serg Mig-25P",
+  "corporation_id": 98788548,
+  "alliance_id": 99012122,
+  "corporation_name": "501'st Legion",
+  "alliance_name": "HOLD MY PROBS"
+}

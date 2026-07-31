@@ -1,0 +1,52 @@
+{
+  "character_id": 362732228,
+  "total_losses": 40,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 2121050391,
+    "name": "Toby Wolfenstein",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98091301,
+    "alliance_id": 99003581,
+    "corporation_name": "RomFleet",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121050391,
+      "name": "Toby Wolfenstein",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96096443,
+      "name": "Liliana Heretical",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 207798513,
+      "name": "Aran'gar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114980900,
+      "name": "Uncle Wired",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92739305,
+      "name": "Tentakel Jack",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Allan Grey",
+  "corporation_id": 98366055,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ministry of Offense",
+  "alliance_name": "Goonswarm Federation"
+}

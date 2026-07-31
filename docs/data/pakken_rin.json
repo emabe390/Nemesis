@@ -1,0 +1,40 @@
+{
+  "character_id": 2123373375,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90004757,
+    "name": "Forest Knight",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98370861,
+    "alliance_id": 1354830081,
+    "corporation_name": "KarmaFleet",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90004757,
+      "name": "Forest Knight",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112168411,
+      "name": "The Anomaly Neo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122633573,
+      "name": "NeonLife",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pakken Rin",
+  "corporation_id": 1018389948,
+  "alliance_id": 498125261,
+  "corporation_name": "Dreddit",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2115548470,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91218217,
+    "name": "Morse Arcturus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98779121,
+    "alliance_id": null,
+    "corporation_name": "The Stellar Paradox",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91218217,
+      "name": "Morse Arcturus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118061818,
+      "name": "Beyu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119222039,
+      "name": "Koczer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2115548470",
+  "corporation_id": 98819140,
+  "alliance_id": null,
+  "corporation_name": "Asteroid Addicts",
+  "alliance_name": null
+}

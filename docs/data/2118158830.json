@@ -1,0 +1,40 @@
+{
+  "character_id": 2118158830,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 896314655,
+    "name": "ShepherdE",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 896314655,
+      "name": "ShepherdE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1605283264,
+      "name": "Aziz Ayman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122243056,
+      "name": "Satchel Page",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FakeSpaceTaxi",
+  "corporation_id": 98755341,
+  "alliance_id": null,
+  "corporation_name": "Just me and my buttons",
+  "alliance_name": null
+}

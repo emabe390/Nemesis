@@ -1,0 +1,40 @@
+{
+  "character_id": 2123878836,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119431692,
+    "name": "Zeta Ophiuchus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98701240,
+    "alliance_id": null,
+    "corporation_name": "000' Bandits Ophiuchi",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 773213117,
+      "name": "Jagtor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115157279,
+      "name": "V Jban",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Liefaria Starbreeze",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

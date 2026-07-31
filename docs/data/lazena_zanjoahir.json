@@ -1,0 +1,40 @@
+{
+  "character_id": 2124366271,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123402513,
+    "name": "BotActivityDetected",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771679,
+    "alliance_id": null,
+    "corporation_name": "The Pirate Playhouse",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123402513,
+      "name": "BotActivityDetected",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123917868,
+      "name": "MOLODO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123917929,
+      "name": "REN A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lazena Zanjoahir",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

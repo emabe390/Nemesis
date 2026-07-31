@@ -1,0 +1,52 @@
+{
+  "character_id": 90210253,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 96272470,
+    "name": "Malthiel Deathstalker",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807925,
+    "alliance_id": null,
+    "corporation_name": "Drill-And-Kill",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96272470,
+      "name": "Malthiel Deathstalker",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119200463,
+      "name": "Chloe Night",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 112597121,
+      "name": "MIROMAX",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905749,
+      "name": "EF Gamma",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1862165216,
+      "name": "Deadly Bruho",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lizan",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

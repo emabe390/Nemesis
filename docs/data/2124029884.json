@@ -1,0 +1,52 @@
+{
+  "character_id": 2124029884,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2123995213,
+    "name": "Anduin-Wrynn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123995213,
+      "name": "Anduin-Wrynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90100519,
+      "name": "Mighty Bk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96210762,
+      "name": "Mala Mitternacht",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 214665328,
+      "name": "Mr Dima",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Anduin-Lothar",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

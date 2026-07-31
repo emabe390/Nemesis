@@ -1,0 +1,40 @@
+{
+  "character_id": 2124346582,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 798282716,
+    "name": "Kismeteer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 238510404,
+    "alliance_id": 1900696668,
+    "corporation_name": "Bat Country",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 798282716,
+      "name": "Kismeteer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112687816,
+      "name": "Enigmatica Goldberge",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119101331,
+      "name": "Tolalula Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mattiacet en Daire",
+  "corporation_id": 1000147,
+  "alliance_id": null,
+  "corporation_name": "Intaki Syndicate",
+  "alliance_name": null
+}

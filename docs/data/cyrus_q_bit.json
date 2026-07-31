@@ -1,0 +1,52 @@
+{
+  "character_id": 2123675494,
+  "total_losses": 14,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 90488196,
+    "name": "8U11ET",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90488196,
+      "name": "8U11ET",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96186050,
+      "name": "Fitted Asshat",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 473081618,
+      "name": "Anarcadia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91101763,
+      "name": "The Exterminated",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92705427,
+      "name": "TBH Saken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cyrus Q-Bit",
+  "corporation_id": 98810907,
+  "alliance_id": null,
+  "corporation_name": "Planet School Council",
+  "alliance_name": null
+}

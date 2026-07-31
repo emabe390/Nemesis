@@ -1,0 +1,40 @@
+{
+  "character_id": 2123612749,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113184908,
+    "name": "Ninestorm",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789847,
+    "alliance_id": null,
+    "corporation_name": "Kronos Mobile Unit",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113184908,
+      "name": "Ninestorm",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 896760145,
+      "name": "Puchu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114387976,
+      "name": "Galen Vaskor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "AMXdeviv",
+  "corporation_id": 98809037,
+  "alliance_id": null,
+  "corporation_name": "Amxgody",
+  "alliance_name": null
+}

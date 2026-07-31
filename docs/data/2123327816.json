@@ -1,0 +1,52 @@
+{
+  "character_id": 2123327816,
+  "total_losses": 53,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94121111,
+      "name": "Corax Horax",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 558290866,
+      "name": "Taswor Armdes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1042356744,
+      "name": "Lemia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jovehn3",
+  "corporation_id": 1167014990,
+  "alliance_id": 1354830081,
+  "corporation_name": "Zebra Corp",
+  "alliance_name": "Goonswarm Federation"
+}

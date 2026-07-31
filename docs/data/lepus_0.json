@@ -1,0 +1,52 @@
+{
+  "character_id": 2123802503,
+  "total_losses": 17,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123751986,
+    "name": "lepus-1",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98540583,
+    "alliance_id": 99003581,
+    "corporation_name": "Special law enforcement department",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123751986,
+      "name": "lepus-1",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123751988,
+      "name": "lepus-3",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 93422769,
+      "name": "SabersKunk Dallocort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95736505,
+      "name": "Peri Cell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97205540,
+      "name": "Singrana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "lepus-0",
+  "corporation_id": 98540583,
+  "alliance_id": 99003581,
+  "corporation_name": "Special law enforcement department",
+  "alliance_name": "Fraternity."
+}

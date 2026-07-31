@@ -1,0 +1,34 @@
+{
+  "character_id": 2123833728,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 871846177,
+    "name": "Johnny Punisher",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 463750601,
+    "alliance_id": null,
+    "corporation_name": "Paisti",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 871846177,
+      "name": "Johnny Punisher",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123657604,
+      "name": "Neverio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jenny Sinns",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

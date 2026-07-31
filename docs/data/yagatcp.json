@@ -1,0 +1,52 @@
+{
+  "character_id": 2124295316,
+  "total_losses": 14,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2124348689,
+    "name": "YagaUDP",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000044,
+    "alliance_id": null,
+    "corporation_name": "School of Applied Knowledge",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124348689,
+      "name": "YagaUDP",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123956312,
+      "name": "Kaden Hanoma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 388577597,
+      "name": "Milrode",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "YagaTCP",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

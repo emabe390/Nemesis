@@ -1,0 +1,40 @@
+{
+  "character_id": 2123033945,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1307353296,
+    "name": "TheUnpleasantOne",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1307353296,
+      "name": "TheUnpleasantOne",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121426855,
+      "name": "Avatarman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91470256,
+      "name": "Irina Gatekeeper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Miss Dusty Springfield",
+  "corporation_id": 98670604,
+  "alliance_id": null,
+  "corporation_name": "BBC Open Heart University",
+  "alliance_name": null
+}

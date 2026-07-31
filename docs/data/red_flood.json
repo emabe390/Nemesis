@@ -1,0 +1,40 @@
+{
+  "character_id": 2122698965,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115762353,
+    "name": "Baxi Parmala",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1418791931,
+    "alliance_id": 917526329,
+    "corporation_name": "Risky eXplosion",
+    "alliance_name": "Death or Glory"
+  },
+  "top_killers": [
+    {
+      "id": 2115762353,
+      "name": "Baxi Parmala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122648602,
+      "name": "Exsequor Silenti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117732349,
+      "name": "Chompi SF",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Red-Flood",
+  "corporation_id": 98600350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Watch Eagle",
+  "alliance_name": "Goonswarm Federation"
+}

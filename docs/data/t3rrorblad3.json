@@ -1,0 +1,40 @@
+{
+  "character_id": 2123875803,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 269925950,
+    "name": "Goupil",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 518374468,
+    "alliance_id": null,
+    "corporation_name": "Holiday in Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 269925950,
+      "name": "Goupil",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1802602052,
+      "name": "Khruzad",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116256107,
+      "name": "Foze Funaila",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "T3rrorblad3",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

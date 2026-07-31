@@ -1,0 +1,40 @@
+{
+  "character_id": 2124066340,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 105251769,
+    "name": "Culuee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98694434,
+    "alliance_id": 99011258,
+    "corporation_name": "Eskimo Callboys",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 105251769,
+      "name": "Culuee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123711173,
+      "name": "Luasense",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122709133,
+      "name": "Ange Du Matin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drake Ordan",
+  "corporation_id": 98823866,
+  "alliance_id": null,
+  "corporation_name": "Tryggr Mining Independentents",
+  "alliance_name": null
+}

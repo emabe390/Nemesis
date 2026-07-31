@@ -1,0 +1,52 @@
+{
+  "character_id": 2123722465,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115244559,
+    "name": "Nikita Kuzichkin",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98839045,
+    "alliance_id": null,
+    "corporation_name": "Revenant Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115244559,
+      "name": "Nikita Kuzichkin",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114611101,
+      "name": "Fallen Utensil",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96723543,
+      "name": "Sergei Malatov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116147696,
+      "name": "Elhisia Skor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123003550,
+      "name": "Vandanela",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ciphine",
+  "corporation_id": 98809880,
+  "alliance_id": 1988009451,
+  "corporation_name": "Tabou.",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

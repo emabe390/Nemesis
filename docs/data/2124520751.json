@@ -1,0 +1,40 @@
+{
+  "character_id": 2124520751,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 115171518,
+    "name": "Goliath Scorpion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98837218,
+    "alliance_id": null,
+    "corporation_name": "ShizCorp",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 115171518,
+      "name": "Goliath Scorpion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114188266,
+      "name": "Crassus Ohmiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92787740,
+      "name": "Desmond Wynn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jferret",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123923802,
+  "total_losses": 7,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96409341,
+    "name": "Irilieth Raivotuuli",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98285854,
+    "alliance_id": 1988009451,
+    "corporation_name": "Ember Inc.",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96409341,
+      "name": "Irilieth Raivotuuli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 889732885,
+      "name": "Bluemelon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 208472006,
+      "name": "Xlost",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Admiral Malvarion",
+  "corporation_id": 98813850,
+  "alliance_id": null,
+  "corporation_name": "Sol Ringen",
+  "alliance_name": null
+}

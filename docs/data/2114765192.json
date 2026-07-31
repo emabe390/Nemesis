@@ -1,0 +1,34 @@
+{
+  "character_id": 2114765192,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117717899,
+    "name": "Anohkann",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815485,
+    "alliance_id": 99014986,
+    "corporation_name": "The High Ground.",
+    "alliance_name": "Kinetic Diplomacy"
+  },
+  "top_killers": [
+    {
+      "id": 2117717899,
+      "name": "Anohkann",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117734779,
+      "name": "Anohkayn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scarlett Autumns",
+  "corporation_id": 98436346,
+  "alliance_id": null,
+  "corporation_name": "Anybody Out There.",
+  "alliance_name": null
+}

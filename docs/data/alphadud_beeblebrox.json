@@ -1,0 +1,52 @@
+{
+  "character_id": 2118164623,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2118119304,
+    "name": "Ourg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98092494,
+    "alliance_id": null,
+    "corporation_name": "Besra Overwatch",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118119304,
+      "name": "Ourg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 690792969,
+      "name": "Deff",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1550803871,
+      "name": "Transmission 116",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118293409,
+      "name": "Ursamini Moxi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122195411,
+      "name": "XSylas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Alphadud Beeblebrox",
+  "corporation_id": 98710885,
+  "alliance_id": 1042504553,
+  "corporation_name": "Aegis Ascending",
+  "alliance_name": "Solyaris Chtonium"
+}

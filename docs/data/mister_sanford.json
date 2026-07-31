@@ -1,0 +1,52 @@
+{
+  "character_id": 2123684236,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 95575600,
+    "name": "Ant Onim",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98453785,
+    "alliance_id": null,
+    "corporation_name": "Biological Hazard.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95575600,
+      "name": "Ant Onim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121479442,
+      "name": "Asteroid Blitz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94227255,
+      "name": "Thraseus Dimaloun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94274591,
+      "name": "Turkeymuffin Munba",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95552485,
+      "name": "Kallen K",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mister Sanford",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

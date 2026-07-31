@@ -1,0 +1,52 @@
+{
+  "character_id": 2123365893,
+  "total_losses": 16,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90417646,
+      "name": "Julia Mawg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90787506,
+      "name": "Sodar Plaude",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 97205540,
+      "name": "Singrana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shortykus II",
+  "corporation_id": 98786641,
+  "alliance_id": 1900696668,
+  "corporation_name": "Sneaked In",
+  "alliance_name": "The Initiative."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 564550008,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2118896777,
+    "name": "GrimGhost",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2118896777,
+      "name": "GrimGhost",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120417002,
+      "name": "Bushtennung",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115732261,
+      "name": "Don Bacon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123992287,
+      "name": "Polarization Problem",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rak Bar",
+  "corporation_id": 679900455,
+  "alliance_id": 1354830081,
+  "corporation_name": "Kriegsmarinewerft",
+  "alliance_name": "Goonswarm Federation"
+}

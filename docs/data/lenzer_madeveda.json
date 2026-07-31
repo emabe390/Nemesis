@@ -1,0 +1,46 @@
+{
+  "character_id": 92010578,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 109249530,
+    "name": "Mobile Spaceunit",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98135265,
+    "alliance_id": null,
+    "corporation_name": "Soylent Green Syndicate",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 109249530,
+      "name": "Mobile Spaceunit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 929643379,
+      "name": "aRs30",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115668403,
+      "name": "Frik Apol",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118016167,
+      "name": "Zeros Mu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lenzer Madeveda",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123640476,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122959010,
+    "name": "Nouri Arareb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 976640448,
+    "alliance_id": 99013937,
+    "corporation_name": "Beyond Redemption Corp",
+    "alliance_name": "Beyond Redemption."
+  },
+  "top_killers": [
+    {
+      "id": 2122959010,
+      "name": "Nouri Arareb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1238410901,
+      "name": "Diddy Meerkat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arsdard Firn",
+  "corporation_id": 1000172,
+  "alliance_id": null,
+  "corporation_name": "Pator Tech School",
+  "alliance_name": null
+}

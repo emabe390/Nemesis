@@ -1,0 +1,52 @@
+{
+  "character_id": 2124086589,
+  "total_losses": 23,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 407278691,
+    "name": "Judas II",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 804504419,
+    "alliance_id": 99006495,
+    "corporation_name": "Dark-Rising",
+    "alliance_name": "Wrecking Machine."
+  },
+  "top_killers": [
+    {
+      "id": 407278691,
+      "name": "Judas II",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92189666,
+      "name": "Amiga Moja",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96759555,
+      "name": "Honzas Krutas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 557980461,
+      "name": "Tar esh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1891907038,
+      "name": "Kahvegi",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "OreWhorre",
+  "corporation_id": 98823451,
+  "alliance_id": null,
+  "corporation_name": "Yield Protocol",
+  "alliance_name": null
+}

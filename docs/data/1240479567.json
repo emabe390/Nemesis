@@ -1,0 +1,40 @@
+{
+  "character_id": 1240479567,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96861620,
+    "name": "Agimus VI",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98777540,
+    "alliance_id": 99010457,
+    "corporation_name": "Gh0st of Eden",
+    "alliance_name": "Parallaxis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96861620,
+      "name": "Agimus VI",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91650874,
+      "name": "Character 91650874",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119039431,
+      "name": "Har Osta Skord",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Catrinna",
+  "corporation_id": 98834802,
+  "alliance_id": 99014402,
+  "corporation_name": "Star Tail Industuries",
+  "alliance_name": "Plenitude Alliance"
+}

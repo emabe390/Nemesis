@@ -1,0 +1,40 @@
+{
+  "character_id": 2123934484,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116639027,
+    "name": "Triss Aye",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98612867,
+    "alliance_id": null,
+    "corporation_name": "Ranger Warrior.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116639027,
+      "name": "Triss Aye",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118485344,
+      "name": "exquisiteggplant",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94871467,
+      "name": "David Brannigan",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Commander Cylex Unionborn",
+  "corporation_id": 98815690,
+  "alliance_id": null,
+  "corporation_name": "Lazy Miners Union",
+  "alliance_name": null
+}

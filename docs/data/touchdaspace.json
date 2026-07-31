@@ -1,0 +1,40 @@
+{
+  "character_id": 2123675124,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113808611,
+    "name": "David Eidolon",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2113808611,
+      "name": "David Eidolon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119073900,
+      "name": "Character 2119073900",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120965705,
+      "name": "Xenrik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Touchdaspace",
+  "corporation_id": 98821822,
+  "alliance_id": 1354830081,
+  "corporation_name": "Get off my fing rock",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124280440,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123632648,
+    "name": "Lucius Artemius",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98815485,
+    "alliance_id": 99014986,
+    "corporation_name": "The High Ground.",
+    "alliance_name": "Kinetic Diplomacy"
+  },
+  "top_killers": [
+    {
+      "id": 2123632648,
+      "name": "Lucius Artemius",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 913171352,
+      "name": "Hellrazer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120941741,
+      "name": "Azur Manus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Enore Nano",
+  "corporation_id": 98775430,
+  "alliance_id": 99009163,
+  "corporation_name": "Poseidon Infrastructure Investment Bank",
+  "alliance_name": "Dracarys."
+}

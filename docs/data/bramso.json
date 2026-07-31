@@ -1,0 +1,52 @@
+{
+  "character_id": 2123761462,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92048822,
+    "name": "lemunk igneel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 92048822,
+      "name": "lemunk igneel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120696692,
+      "name": "CTA61",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92561675,
+      "name": "Xanderfall Audeles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95999128,
+      "name": "Kiro Mun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119059964,
+      "name": "KLow Osso",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Bramso",
+  "corporation_id": 98788614,
+  "alliance_id": 99013692,
+  "corporation_name": "BIack Sun Syndicate",
+  "alliance_name": "Independent Miners Alliance"
+}

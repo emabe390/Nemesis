@@ -1,0 +1,40 @@
+{
+  "character_id": 2114796735,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 775851151,
+    "name": "Krumholz",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 155453528,
+    "alliance_id": 1727758877,
+    "corporation_name": "Das zweite Konglomerat",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 775851151,
+      "name": "Krumholz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 891076548,
+      "name": "Trisania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117003436,
+      "name": "Goo Chewor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sztygar Przodowy",
+  "corporation_id": 1297657426,
+  "alliance_id": 1354830081,
+  "corporation_name": "CBC Interstellar",
+  "alliance_name": "Goonswarm Federation"
+}

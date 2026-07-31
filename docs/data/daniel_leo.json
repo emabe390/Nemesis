@@ -1,0 +1,46 @@
+{
+  "character_id": 2124521844,
+  "total_losses": 10,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 94577030,
+    "name": "Michael Pancake",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 849473841,
+    "alliance_id": 99005724,
+    "corporation_name": "Beach Boys",
+    "alliance_name": "The Minions."
+  },
+  "top_killers": [
+    {
+      "id": 94577030,
+      "name": "Michael Pancake",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 731398258,
+      "name": "Rossarii",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96723543,
+      "name": "Sergei Malatov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Daniel Leo",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

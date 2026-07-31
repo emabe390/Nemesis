@@ -1,0 +1,52 @@
+{
+  "character_id": 624003339,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 114101458,
+    "name": "Irllandi",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 625591217,
+    "alliance_id": null,
+    "corporation_name": "Sovetsky Soyuz",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 114101458,
+      "name": "Irllandi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92075107,
+      "name": "Lianne d'Argon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93004730,
+      "name": "Teodor Pain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96185946,
+      "name": "NapoIeon Bonaparte",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mister Alfa",
+  "corporation_id": 98273499,
+  "alliance_id": null,
+  "corporation_name": "United Militant Agency of Defense",
+  "alliance_name": null
+}

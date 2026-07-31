@@ -1,0 +1,52 @@
+{
+  "character_id": 2122111112,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122366183,
+    "name": "Siltirairos Yotosala",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98340844,
+    "alliance_id": 99012751,
+    "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+    "alliance_name": "Unicorns from Hell"
+  },
+  "top_killers": [
+    {
+      "id": 2122366183,
+      "name": "Siltirairos Yotosala",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95029230,
+      "name": "Tagara Draconus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96291468,
+      "name": "Sheived Kotik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113207296,
+      "name": "Maverick Parmala",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lucas Palmer",
+  "corporation_id": 98040755,
+  "alliance_id": 99005065,
+  "corporation_name": "Hard Knocks Inc.",
+  "alliance_name": "Hard Knocks Citizens"
+}

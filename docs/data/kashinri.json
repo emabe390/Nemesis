@@ -1,0 +1,52 @@
+{
+  "character_id": 2123566555,
+  "total_losses": 15,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 90838351,
+    "name": "Guillaume Adoulin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98686547,
+    "alliance_id": null,
+    "corporation_name": "Overclocker.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 90838351,
+      "name": "Guillaume Adoulin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95529963,
+      "name": "Nyxmiuson VerssusAll",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 693520737,
+      "name": "Diablo Venator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118440362,
+      "name": "Yuusuke Urameshi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119771051,
+      "name": "Vesrys",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "kashinri",
+  "corporation_id": 98765090,
+  "alliance_id": 99003581,
+  "corporation_name": "Titan Legion",
+  "alliance_name": "Fraternity."
+}

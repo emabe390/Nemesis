@@ -1,0 +1,40 @@
+{
+  "character_id": 1567450804,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1450265635,
+    "name": "D J",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98796214,
+    "alliance_id": 1683694957,
+    "corporation_name": "Tactical Raki",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1450265635,
+      "name": "D J",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90547537,
+      "name": "Darius Caliente",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95420119,
+      "name": "Jason Flamerad",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vosmere",
+  "corporation_id": 98648361,
+  "alliance_id": 1354830081,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Goonswarm Federation"
+}

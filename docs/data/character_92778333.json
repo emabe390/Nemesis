@@ -1,0 +1,52 @@
+{
+  "character_id": 92778333,
+  "total_losses": 39,
+  "unique_killers": 22,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2123740018,
+      "name": "Wren Etmenh",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2123969722,
+      "name": "Gregson Gar",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90201872,
+      "name": "R Hotzenplotz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95727518,
+      "name": "Glenn Martin Hughes",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 92778333",
+  "corporation_id": 98447127,
+  "alliance_id": null,
+  "corporation_name": "The Gypsy Caravan",
+  "alliance_name": null
+}

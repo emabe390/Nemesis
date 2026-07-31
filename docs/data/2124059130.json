@@ -1,0 +1,52 @@
+{
+  "character_id": 2124059130,
+  "total_losses": 66,
+  "unique_killers": 43,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 625550881,
+      "name": "Torothin",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 92005178,
+      "name": "Lina Solette",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1648763621,
+      "name": "Bruce Kemp",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ClubberYang",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

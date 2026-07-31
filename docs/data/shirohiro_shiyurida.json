@@ -1,0 +1,52 @@
+{
+  "character_id": 2123629688,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2119983617,
+    "name": "Tiggrik",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98780050,
+    "alliance_id": 99012654,
+    "corporation_name": "Pocket Tiger",
+    "alliance_name": "Ant Tiger"
+  },
+  "top_killers": [
+    {
+      "id": 2119983617,
+      "name": "Tiggrik",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123575085,
+      "name": "Anomalous Miner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90573671,
+      "name": "Salidin Uitoh",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96414130,
+      "name": "Tas Navi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 183139135,
+      "name": "neovita",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shirohiro Shiyurida",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

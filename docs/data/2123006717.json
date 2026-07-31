@@ -1,0 +1,52 @@
+{
+  "character_id": 2123006717,
+  "total_losses": 18,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 137705723,
+    "name": "Balthazarra",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98644898,
+    "alliance_id": 99003699,
+    "corporation_name": "Guardians Incorporated",
+    "alliance_name": "Cynosural Field Theory."
+  },
+  "top_killers": [
+    {
+      "id": 137705723,
+      "name": "Balthazarra",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2112698901,
+      "name": "Alexandr Zaitcev",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2120695118,
+      "name": "Riley Rockwell",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96196522,
+      "name": "Nero Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 755421293,
+      "name": "Haary",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Oromi Barviainen",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

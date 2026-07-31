@@ -1,0 +1,40 @@
+{
+  "character_id": 2123852723,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119784291,
+    "name": "Splattack",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98750082,
+    "alliance_id": 99010877,
+    "corporation_name": "NOT HALF BAD",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 2119784291,
+      "name": "Splattack",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94257145,
+      "name": "Arew Andedare",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120929404,
+      "name": "Julanez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vaeloris Erata",
+  "corporation_id": 98769199,
+  "alliance_id": 1042504553,
+  "corporation_name": "Shiv Wreckoning",
+  "alliance_name": "Solyaris Chtonium"
+}

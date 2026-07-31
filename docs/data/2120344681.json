@@ -1,0 +1,40 @@
+{
+  "character_id": 2120344681,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113954907,
+    "name": "Chip Norris",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000165,
+    "alliance_id": null,
+    "corporation_name": "Hedion University",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113954907,
+      "name": "Chip Norris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122320782,
+      "name": "Fuzzi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124299525,
+      "name": "Home Defense Fleet",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "CertifiedBruh Moment",
+  "corporation_id": 994783381,
+  "alliance_id": 99003214,
+  "corporation_name": "Duty.",
+  "alliance_name": "Brave Collective"
+}

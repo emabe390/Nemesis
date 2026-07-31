@@ -1,0 +1,40 @@
+{
+  "character_id": 2123806493,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122121274,
+    "name": "ChairmanMo",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98182376,
+    "alliance_id": 99013187,
+    "corporation_name": "Quafe Commandos",
+    "alliance_name": "The Obsidian Front - Reborn"
+  },
+  "top_killers": [
+    {
+      "id": 2122121274,
+      "name": "ChairmanMo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114003488,
+      "name": "Zeta Crucis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122042833,
+      "name": "dark good",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arinsund Reyr Baboli",
+  "corporation_id": 98022595,
+  "alliance_id": null,
+  "corporation_name": "Syndicate Society",
+  "alliance_name": null
+}

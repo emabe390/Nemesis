@@ -1,0 +1,52 @@
+{
+  "character_id": 2123464097,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91310024,
+    "name": "Sven Viko VIkolander",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98733755,
+    "alliance_id": null,
+    "corporation_name": "In space we are briefly free",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91310024,
+      "name": "Sven Viko VIkolander",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 146137508,
+      "name": "DiamondDog",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93167426,
+      "name": "Kripkey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95190225,
+      "name": "Darkon Chanlin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119926405,
+      "name": "The Green Basturd",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Swerds",
+  "corporation_id": 98768698,
+  "alliance_id": 99013615,
+  "corporation_name": "Hareka Mining and Extraction Inc.",
+  "alliance_name": "MlNER NEEDs"
+}

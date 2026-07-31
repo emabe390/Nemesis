@@ -1,0 +1,52 @@
+{
+  "character_id": 2123040238,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92048822,
+    "name": "lemunk igneel",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 92048822,
+      "name": "lemunk igneel",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96211031,
+      "name": "Moka-chan Kira",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90057147,
+      "name": "DeadFoggy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91495789,
+      "name": "KHARNE BlackDeath",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Combatus wombatus",
+  "corporation_id": 1268333930,
+  "alliance_id": 99005178,
+  "corporation_name": "QuantumTech Industries",
+  "alliance_name": "Domain Research and Mining Inst."
+}

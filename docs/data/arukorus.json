@@ -1,0 +1,52 @@
+{
+  "character_id": 2123587379,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 1431313851,
+    "name": "Phoenix Bain",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98210135,
+    "alliance_id": 1900696668,
+    "corporation_name": "Infinite Point",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1431313851,
+      "name": "Phoenix Bain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1545154838,
+      "name": "Amaeros",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1633218082,
+      "name": "Squizz Caphinator",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119005190,
+      "name": "Jamal Enzo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 401716063,
+      "name": "Cam Taylor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arukorus",
+  "corporation_id": 98768165,
+  "alliance_id": null,
+  "corporation_name": "Brave Explorers",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123531016,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 92568237,
+    "name": "Jean-Olivier Chouinard",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 624410653,
+    "alliance_id": 1354830081,
+    "corporation_name": "Les chevaliers de l'ordre",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92568237,
+      "name": "Jean-Olivier Chouinard",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2112700380,
+      "name": "Kahla Rhal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113063190,
+      "name": "BoneChilling Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113725291,
+      "name": "New-York",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115763641,
+      "name": "Tuberabka Rus",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Tah Vir Een",
+  "corporation_id": 98795387,
+  "alliance_id": null,
+  "corporation_name": "Fruit Flies",
+  "alliance_name": null
+}

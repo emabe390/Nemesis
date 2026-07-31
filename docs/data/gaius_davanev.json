@@ -1,0 +1,40 @@
+{
+  "character_id": 2123381586,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113427464,
+    "name": "Vladislav Mernher",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98700577,
+    "alliance_id": 99011387,
+    "corporation_name": "WE ARE ZERGS",
+    "alliance_name": "ZERG REBORN"
+  },
+  "top_killers": [
+    {
+      "id": 2113427464,
+      "name": "Vladislav Mernher",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123698628,
+      "name": "space lazerz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Gaius Davanev",
+  "corporation_id": 98802832,
+  "alliance_id": null,
+  "corporation_name": "House Davanev",
+  "alliance_name": null
+}

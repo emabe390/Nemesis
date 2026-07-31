@@ -1,0 +1,52 @@
+{
+  "character_id": 2123469903,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2116584690,
+    "name": "Next Otsada",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98762098,
+    "alliance_id": 1900696668,
+    "corporation_name": "Aegis Victorium",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2116584690,
+      "name": "Next Otsada",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 168805399,
+      "name": "Andreinie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1001312721,
+      "name": "DanVanCrone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122515161,
+      "name": "Paolo Thompson",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123669936,
+      "name": "ImWarg",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Reidur",
+  "corporation_id": 98737921,
+  "alliance_id": null,
+  "corporation_name": "WE ARE ZERGLINGS",
+  "alliance_name": null
+}

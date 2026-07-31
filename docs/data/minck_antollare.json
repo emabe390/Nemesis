@@ -1,0 +1,52 @@
+{
+  "character_id": 2123833858,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123425304,
+    "name": "Ganiel Drillex",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123425304,
+      "name": "Ganiel Drillex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 710626032,
+      "name": "Beastie TeaBoy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 761965715,
+      "name": "Javnar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 924610593,
+      "name": "Sicks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118847820,
+      "name": "Jakkalas",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Minck Antollare",
+  "corporation_id": 98084418,
+  "alliance_id": 99007855,
+  "corporation_name": "CBC FORGE",
+  "alliance_name": "Mostly Newbies"
+}

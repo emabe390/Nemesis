@@ -1,0 +1,52 @@
+{
+  "character_id": 689214714,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2121279313,
+    "name": "El Mandril",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98778667,
+    "alliance_id": 99013327,
+    "corporation_name": "Hard Cuys Inc.",
+    "alliance_name": "Hard Knocks Executors"
+  },
+  "top_killers": [
+    {
+      "id": 2121279313,
+      "name": "El Mandril",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95838357,
+      "name": "Deathstar Omega",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92082021,
+      "name": "Rafal Gniadek",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117278800,
+      "name": "Schnarph",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117898258,
+      "name": "Kril Mern Ronuken",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vendres Olo",
+  "corporation_id": 98372649,
+  "alliance_id": 99005130,
+  "corporation_name": "Signal Cartel",
+  "alliance_name": "EvE-Scout Enclave"
+}

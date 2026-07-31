@@ -1,0 +1,52 @@
+{
+  "character_id": 2120858201,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 973576579,
+    "name": "Genning",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1720097622,
+    "alliance_id": null,
+    "corporation_name": "Universal Fleet Operations",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 973576579,
+      "name": "Genning",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123200705,
+      "name": "Localizer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1228229185,
+      "name": "Ka'Narlist",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1448793415,
+      "name": "Whacked viper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MistaSlave",
+  "corporation_id": 98657999,
+  "alliance_id": 1354830081,
+  "corporation_name": "Rage Confederacy",
+  "alliance_name": "Goonswarm Federation"
+}

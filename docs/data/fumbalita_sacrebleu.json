@@ -1,0 +1,40 @@
+{
+  "character_id": 2114399098,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94124583,
+      "name": "Calico Jack Rose",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 838844714,
+      "name": "Calrissian Lando",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fumbalita Sacrebleu",
+  "corporation_id": 98253255,
+  "alliance_id": 431502563,
+  "corporation_name": "Proudly Snoring",
+  "alliance_name": "Ministry of Inappropriate Footwork"
+}

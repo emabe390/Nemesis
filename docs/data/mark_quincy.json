@@ -1,0 +1,40 @@
+{
+  "character_id": 2123828233,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 475500356,
+    "name": "Icuwarrior",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 475500356,
+      "name": "Icuwarrior",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115171275,
+      "name": "Bribarian Makanen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118865810,
+      "name": "Wud Dah Lewt",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mark Quincy",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

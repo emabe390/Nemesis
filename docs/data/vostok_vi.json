@@ -1,0 +1,52 @@
+{
+  "character_id": 2123777794,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2115400431,
+    "name": "Joshua Kurvore",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98631594,
+    "alliance_id": 99009845,
+    "corporation_name": "Sons of Seyllin",
+    "alliance_name": "Sedition."
+  },
+  "top_killers": [
+    {
+      "id": 2115400431,
+      "name": "Joshua Kurvore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92623780,
+      "name": "Caria Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92954126,
+      "name": "Redal Seith",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 114101458,
+      "name": "Irllandi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112133747,
+      "name": "Alooker YAG",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vostok VI",
+  "corporation_id": 98476260,
+  "alliance_id": null,
+  "corporation_name": "Enemy in System",
+  "alliance_name": null
+}

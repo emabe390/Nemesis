@@ -1,0 +1,40 @@
+{
+  "character_id": 91407745,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114479086,
+    "name": "Szybki Enzo",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114479086,
+      "name": "Szybki Enzo",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114926288,
+      "name": "Chudy LoLo",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 3,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Cpt Loxer",
+  "corporation_id": 98753545,
+  "alliance_id": null,
+  "corporation_name": "Vault 23",
+  "alliance_name": null
+}

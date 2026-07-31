@@ -1,0 +1,40 @@
+{
+  "character_id": 116205295,
+  "total_losses": 10,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 351588570,
+    "name": "Devan Arlastian",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98336338,
+    "alliance_id": 1988009451,
+    "corporation_name": "The Sapphire Liontooth Association",
+    "alliance_name": "Curatores Veritatis Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 351588570,
+      "name": "Devan Arlastian",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2116497984,
+      "name": "Deadly Steve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121935407,
+      "name": "Guntharson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abunasa",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

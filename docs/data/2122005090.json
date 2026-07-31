@@ -1,0 +1,52 @@
+{
+  "character_id": 2122005090,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 1768950499,
+    "name": "Dankkarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98066322,
+    "alliance_id": null,
+    "corporation_name": "Benito de Soto",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1768950499,
+      "name": "Dankkarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96694814,
+      "name": "Coramyr Solstice",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 950545391,
+      "name": "Lanari",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1808133051,
+      "name": "Mail Lite",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fleischer Kolo Mene",
+  "corporation_id": 98760616,
+  "alliance_id": 99010079,
+  "corporation_name": "Brave Empire Inc.",
+  "alliance_name": "Brave United"
+}

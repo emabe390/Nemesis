@@ -1,0 +1,40 @@
+{
+  "character_id": 2123905512,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113250901,
+    "name": "Larson Drak",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 370425408,
+    "alliance_id": null,
+    "corporation_name": "Piratas Leprosos Guineanos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113250901,
+      "name": "Larson Drak",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116231402,
+      "name": "Lyla Ozawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118026884,
+      "name": "Gac Solo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ahalo Kion",
+  "corporation_id": 98650314,
+  "alliance_id": 99009758,
+  "corporation_name": "Absolute Order XIV",
+  "alliance_name": "Absolute Will"
+}

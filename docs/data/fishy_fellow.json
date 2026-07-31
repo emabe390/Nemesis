@@ -1,0 +1,52 @@
+{
+  "character_id": 2117063249,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123624064,
+    "name": "ProfiProfil",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98810604,
+    "alliance_id": 99013823,
+    "corporation_name": "Federation of New Eden",
+    "alliance_name": "Cat Scratch Fevers"
+  },
+  "top_killers": [
+    {
+      "id": 2123624064,
+      "name": "ProfiProfil",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123204179,
+      "name": "Rick Pounder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113665247,
+      "name": "Jeff Fastbender",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117098267,
+      "name": "Mallore Aulmais",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121490686,
+      "name": "Ino Dehle",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fishy Fellow",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

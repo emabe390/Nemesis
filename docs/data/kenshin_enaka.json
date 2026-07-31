@@ -1,0 +1,52 @@
+{
+  "character_id": 2124002317,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 97093729,
+    "name": "Hakshi Yvormes",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487359,
+    "alliance_id": 99011614,
+    "corporation_name": "Ronin ONE",
+    "alliance_name": "Ronin Reloaded"
+  },
+  "top_killers": [
+    {
+      "id": 97093729,
+      "name": "Hakshi Yvormes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115064058,
+      "name": "Ichimusai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122569595,
+      "name": "PreatorianOneEleven",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    }
+  ],
+  "character_name": "Kenshin Enaka",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

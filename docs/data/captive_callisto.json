@@ -1,0 +1,40 @@
+{
+  "character_id": 2124029155,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90746389,
+    "name": "Sonny O'neil",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1566201664,
+      "name": "Jum Shoot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122847801,
+      "name": "BabyYoda 8733",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Captive Callisto",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

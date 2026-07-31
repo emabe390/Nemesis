@@ -1,0 +1,40 @@
+{
+  "character_id": 2113656092,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93418551,
+    "name": "Zvezda Letov",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98102660,
+    "alliance_id": null,
+    "corporation_name": "My Little Pony Industries Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93418551,
+      "name": "Zvezda Letov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2048293842,
+      "name": "Character 2048293842",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "DimOn DP",
+  "corporation_id": 98780050,
+  "alliance_id": 99012654,
+  "corporation_name": "Pocket Tiger",
+  "alliance_name": "Ant Tiger"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2122190100,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 206415076,
+      "name": "Mister PewPew",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115054328,
+      "name": "Dira Trepidation",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119878553,
+      "name": "Milire Adoulin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93619076,
+      "name": "Kilyavi Alaailaa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orianna Laviann",
+  "corporation_id": 98541311,
+  "alliance_id": 99013223,
+  "corporation_name": "Omnivores of Mediocrity",
+  "alliance_name": "Omnivores"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124054812,
+  "total_losses": 23,
+  "unique_killers": 17,
+  "nemesis": {
+    "id": 2121112195,
+    "name": "Character 2121112195",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98823887,
+    "alliance_id": null,
+    "corporation_name": "Master Baitors",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2121112195,
+      "name": "Character 2121112195",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 553943114,
+      "name": "Armorer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113291089,
+      "name": "Slistrim Arzi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123050276,
+      "name": "Qwertal",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alerian Fortune",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

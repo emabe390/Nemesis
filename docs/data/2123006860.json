@@ -1,0 +1,52 @@
+{
+  "character_id": 2123006860,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2114891378,
+    "name": "Doom's Harbinger",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98614319,
+    "alliance_id": 99014735,
+    "corporation_name": "Sunlight Corsairs",
+    "alliance_name": "Psyno Theory"
+  },
+  "top_killers": [
+    {
+      "id": 2114891378,
+      "name": "Doom's Harbinger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90093028,
+      "name": "Pearleus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90100519,
+      "name": "Mighty Bk",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112877244,
+      "name": "Sunra Hekki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114980900,
+      "name": "Uncle Wired",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nineturn",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

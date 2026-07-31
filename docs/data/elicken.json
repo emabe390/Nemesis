@@ -1,0 +1,52 @@
+{
+  "character_id": 1205254836,
+  "total_losses": 63,
+  "unique_killers": 56,
+  "nemesis": {
+    "id": 2115866941,
+    "name": "vector-A",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98817479,
+    "alliance_id": 99003581,
+    "corporation_name": "NO PANIC GROUP",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 1402766339,
+      "name": "Gothicus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92204401,
+      "name": "Jeltior",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92493967,
+      "name": "Omnaria Kautsuo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93112219,
+      "name": "Character 93112219",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ELicken",
+  "corporation_id": 98008630,
+  "alliance_id": 1354830081,
+  "corporation_name": "Thunderwaffe",
+  "alliance_name": "Goonswarm Federation"
+}

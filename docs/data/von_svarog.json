@@ -1,0 +1,40 @@
+{
+  "character_id": 2124034803,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92990185,
+    "name": "Eanarion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98620135,
+    "alliance_id": null,
+    "corporation_name": "Gultratren Partisans",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92990185,
+      "name": "Eanarion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 708182017,
+      "name": "xp8k",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114078816,
+      "name": "Johny Crichton",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Von Svarog",
+  "corporation_id": 98648361,
+  "alliance_id": 99011162,
+  "corporation_name": "Deadspace Excavations",
+  "alliance_name": "Shadow Ultimatum"
+}

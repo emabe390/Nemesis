@@ -1,0 +1,52 @@
+{
+  "character_id": 2123766001,
+  "total_losses": 22,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 92501622,
+    "name": "Michael Starlight",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98838381,
+    "alliance_id": null,
+    "corporation_name": "Warpwing Duck",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92501622,
+      "name": "Michael Starlight",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92716168,
+      "name": "Agram Plox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120838803,
+      "name": "Jenham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123695052,
+      "name": "Mendeleev Loo",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90606716,
+      "name": "Lissa Suares",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Brezhnev Loo",
+  "corporation_id": 98805140,
+  "alliance_id": 99013537,
+  "corporation_name": "Sunset Red Activity Club",
+  "alliance_name": "Insidious."
+}

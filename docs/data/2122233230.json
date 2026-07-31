@@ -1,0 +1,34 @@
+{
+  "character_id": 2122233230,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 90001581,
+    "name": "Xai Hun'teh",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98088416,
+    "alliance_id": 99006750,
+    "corporation_name": "Bean-shidh",
+    "alliance_name": "The Nameless Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 90001581,
+      "name": "Xai Hun'teh",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1285785033,
+      "name": "Pirogronium",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kendle Porp",
+  "corporation_id": 98768606,
+  "alliance_id": null,
+  "corporation_name": "Rocinante's Crew",
+  "alliance_name": null
+}

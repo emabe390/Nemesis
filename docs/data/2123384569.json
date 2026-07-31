@@ -1,0 +1,40 @@
+{
+  "character_id": 2123384569,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92140774,
+    "name": "Rishian starfury",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98409330,
+    "alliance_id": 1354830081,
+    "corporation_name": "Ascendance",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 92140774,
+      "name": "Rishian starfury",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117322936,
+      "name": "Ihahoda Hakoke",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119348477,
+      "name": "Zana Lagrange",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kgu Twelve",
+  "corporation_id": 98770788,
+  "alliance_id": 99005338,
+  "corporation_name": "R.A.A.",
+  "alliance_name": "Pandemic Horde"
+}

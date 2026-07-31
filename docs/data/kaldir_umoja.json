@@ -1,0 +1,40 @@
+{
+  "character_id": 2123606399,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94237200,
+    "name": "Lol Muvila",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98583746,
+    "alliance_id": null,
+    "corporation_name": "Bad and Dumb",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94237200,
+      "name": "Lol Muvila",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 982259713,
+      "name": "Daemon Prince",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaldir Umoja",
+  "corporation_id": 98728397,
+  "alliance_id": 99012722,
+  "corporation_name": "HIGH SEC MINING CORP",
+  "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
+}

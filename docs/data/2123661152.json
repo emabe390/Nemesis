@@ -1,0 +1,40 @@
+{
+  "character_id": 2123661152,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118011224,
+    "name": "Will Adama",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98244982,
+    "alliance_id": null,
+    "corporation_name": "Die Woge des Wahnsinns",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2118011224,
+      "name": "Will Adama",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122818657,
+      "name": "Stecki-91",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122992523,
+      "name": "AnnElise von Thukker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BrandCage02",
+  "corporation_id": 98784944,
+  "alliance_id": 99006406,
+  "corporation_name": "Fuxi University",
+  "alliance_name": "Fraternity University"
+}

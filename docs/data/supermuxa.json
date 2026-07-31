@@ -1,0 +1,34 @@
+{
+  "character_id": 2123840426,
+  "total_losses": 7,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1536135906,
+    "name": "SMuxa",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98670171,
+    "alliance_id": null,
+    "corporation_name": "SMuxa Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1536135906,
+      "name": "SMuxa",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 1198211449,
+      "name": "ColRelentless",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "supermuxa",
+  "corporation_id": 98670171,
+  "alliance_id": null,
+  "corporation_name": "SMuxa Corporation",
+  "alliance_name": null
+}

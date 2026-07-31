@@ -1,0 +1,40 @@
+{
+  "character_id": 2124410026,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 968366168,
+    "name": "Princess Celine",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 287987399,
+    "alliance_id": null,
+    "corporation_name": "The Burning Skull",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 968366168,
+      "name": "Princess Celine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120739927,
+      "name": "Heiko Khoo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122959010,
+      "name": "Nouri Arareb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Fjorn Emberhammer",
+  "corporation_id": 98835191,
+  "alliance_id": null,
+  "corporation_name": "Chroma Punk Industries",
+  "alliance_name": null
+}

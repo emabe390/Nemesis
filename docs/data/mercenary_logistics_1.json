@@ -1,0 +1,40 @@
+{
+  "character_id": 2124173694,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1134928419,
+    "name": "Katasumi",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 1134928419,
+      "name": "Katasumi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118925649,
+      "name": "bkotsmsr",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119067075,
+      "name": "Tototex Egoh Min",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mercenary Logistics 1",
+  "corporation_id": 98827489,
+  "alliance_id": null,
+  "corporation_name": "Ordion Mercenaries",
+  "alliance_name": null
+}

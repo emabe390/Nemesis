@@ -1,0 +1,52 @@
+{
+  "character_id": 2122202130,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 2123344639,
+    "name": "Stillwater Jim",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98778408,
+    "alliance_id": 99007005,
+    "corporation_name": "Kaden Voss inc",
+    "alliance_name": "United Neopian Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123344639,
+      "name": "Stillwater Jim",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91145490,
+      "name": "Peter Johannsen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93176064,
+      "name": "serega birukov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93488784,
+      "name": "Icarus Tendris",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaden Voss",
+  "corporation_id": 98778408,
+  "alliance_id": null,
+  "corporation_name": "Kaden Voss inc",
+  "alliance_name": null
+}

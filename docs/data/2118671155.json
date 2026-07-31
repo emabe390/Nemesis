@@ -1,0 +1,52 @@
+{
+  "character_id": 2118671155,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2117429635,
+    "name": "Hurariaken",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98000226,
+    "alliance_id": 99014841,
+    "corporation_name": "Cygnus Project",
+    "alliance_name": "Verlate"
+  },
+  "top_killers": [
+    {
+      "id": 2117429635,
+      "name": "Hurariaken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95629285,
+      "name": "Nicky Sanders",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 341219273,
+      "name": "Tex Raynor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1485901019,
+      "name": "Syrinthal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121006286,
+      "name": "Cyber Seth",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tos-PI1",
+  "corporation_id": 98494391,
+  "alliance_id": 99009287,
+  "corporation_name": "Fish Vending Machine",
+  "alliance_name": "Beyond the Breach"
+}

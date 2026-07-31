@@ -1,0 +1,52 @@
+{
+  "character_id": 2123680500,
+  "total_losses": 56,
+  "unique_killers": 44,
+  "nemesis": {
+    "id": 2123565275,
+    "name": "Medzhouse",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98597090,
+    "alliance_id": null,
+    "corporation_name": "Beyond Knowledge Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123565275,
+      "name": "Medzhouse",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 90752661,
+      "name": "Pietro Caspian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90867329,
+      "name": "Imperator Universitas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 236642994,
+      "name": "Negativ",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123680500",
+  "corporation_id": 98597090,
+  "alliance_id": null,
+  "corporation_name": "Beyond Knowledge Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 90864848,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 713111330,
+    "name": "Nathanaek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98165469,
+    "alliance_id": null,
+    "corporation_name": "Hammerwerke",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 713111330,
+      "name": "Nathanaek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1083134128,
+      "name": "Viscera Fox",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Rainbow Fox",
+  "corporation_id": 98787023,
+  "alliance_id": 99013747,
+  "corporation_name": "Nova Prospect Enterprises",
+  "alliance_name": "Missile Militia"
+}

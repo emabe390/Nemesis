@@ -1,0 +1,52 @@
+{
+  "character_id": 2123810609,
+  "total_losses": 5,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 239783732,
+    "name": "Fedor E",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 495392624,
+    "alliance_id": 1900696668,
+    "corporation_name": "GeoCorp.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 239783732,
+      "name": "Fedor E",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115017221,
+      "name": "Elsa Eraser",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118930603,
+      "name": "Gisa Gneiss",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120887441,
+      "name": "Hillbilly-3000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122709739,
+      "name": "God King Lucifer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nalcoe",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

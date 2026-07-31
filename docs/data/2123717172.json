@@ -1,0 +1,52 @@
+{
+  "character_id": 2123717172,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 96017341,
+    "name": "Jon Corley",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98197530,
+    "alliance_id": null,
+    "corporation_name": "Argentum Holdings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96017341,
+      "name": "Jon Corley",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96049408,
+      "name": "Hans Troi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1045497610,
+      "name": "Lord CRESPO",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1568814036,
+      "name": "Langz",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1650116944,
+      "name": "B0ZziLLa",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "b0ngulator",
+  "corporation_id": 98197530,
+  "alliance_id": null,
+  "corporation_name": "Argentum Holdings",
+  "alliance_name": null
+}

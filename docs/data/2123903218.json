@@ -1,0 +1,40 @@
+{
+  "character_id": 2123903218,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 258172196,
+    "name": "vognsen",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 258172196,
+      "name": "vognsen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113010838,
+      "name": "Character 2113010838",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123202539,
+      "name": "Inuki Odunen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Craize-lis",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

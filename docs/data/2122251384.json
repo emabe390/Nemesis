@@ -1,0 +1,52 @@
+{
+  "character_id": 2122251384,
+  "total_losses": 17,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 1632820309,
+    "name": "Robert Harrison",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349468365,
+    "alliance_id": 99010468,
+    "corporation_name": "Ronin Interstellar Industries",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 1632820309,
+      "name": "Robert Harrison",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116003648,
+      "name": "Gophert",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93313370,
+      "name": "Alucard Isayeki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94299194,
+      "name": "Nadeko Hakomairos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BiggerBeard",
+  "corporation_id": 1063360566,
+  "alliance_id": 1354830081,
+  "corporation_name": "SUNDERING",
+  "alliance_name": "Goonswarm Federation"
+}

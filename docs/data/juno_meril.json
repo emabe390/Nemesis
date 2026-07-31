@@ -1,0 +1,40 @@
+{
+  "character_id": 2123547688,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124156025,
+    "name": "Caldari Citizen 2124156025",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000045,
+    "alliance_id": null,
+    "corporation_name": "Science and Trade Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124156025,
+      "name": "Caldari Citizen 2124156025",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94129950,
+      "name": "Jens Mauhl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1391279202,
+      "name": "Precurseur",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Juno Meril",
+  "corporation_id": 98674424,
+  "alliance_id": null,
+  "corporation_name": "Shadow Archers",
+  "alliance_name": null
+}

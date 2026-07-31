@@ -1,0 +1,46 @@
+{
+  "character_id": 2120154227,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2118920683,
+    "name": "Jules Jane",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98670226,
+    "alliance_id": 99010756,
+    "corporation_name": "StratsCo",
+    "alliance_name": "Pretenders"
+  },
+  "top_killers": [
+    {
+      "id": 2118920683,
+      "name": "Jules Jane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93034758,
+      "name": "Trajan Al'Thor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1309920473,
+      "name": "Supercool",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120848334,
+      "name": "Leatherman2",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eli Notgood",
+  "corporation_id": 98798270,
+  "alliance_id": null,
+  "corporation_name": "Eviction PendingTM",
+  "alliance_name": null
+}

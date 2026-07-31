@@ -1,0 +1,40 @@
+{
+  "character_id": 2122637896,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120306470,
+    "name": "Jarle",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98798713,
+    "alliance_id": null,
+    "corporation_name": "NovaCore Executive Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120306470,
+      "name": "Jarle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010673,
+      "name": "kholops 09",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124010677,
+      "name": "kholops 05",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Artique",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

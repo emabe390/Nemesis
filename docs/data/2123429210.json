@@ -1,0 +1,52 @@
+{
+  "character_id": 2123429210,
+  "total_losses": 11,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 96657392,
+    "name": "LordJason Douglas",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1167014990,
+    "alliance_id": 1354830081,
+    "corporation_name": "Zebra Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96657392,
+      "name": "LordJason Douglas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123649910,
+      "name": "Haze S",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123688559,
+      "name": "Kotar X",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93127266,
+      "name": "Kyato Hiatora",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93356038,
+      "name": "Bingham McSnuggles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Richard Longstocking",
+  "corporation_id": 98803517,
+  "alliance_id": 99003581,
+  "corporation_name": "Fractured Dominions",
+  "alliance_name": "Fraternity."
+}

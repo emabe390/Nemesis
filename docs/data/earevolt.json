@@ -1,0 +1,52 @@
+{
+  "character_id": 2124074147,
+  "total_losses": 46,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 93368150,
+    "name": "Character 93368150",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798125,
+    "alliance_id": 99014106,
+    "corporation_name": "The K Corporation",
+    "alliance_name": "Snail Church"
+  },
+  "top_killers": [
+    {
+      "id": 93368150,
+      "name": "Character 93368150",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94388027,
+      "name": "Hal Pistor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96192624,
+      "name": "Faith Blackwings",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96236004,
+      "name": "Alex Suvorov",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 394413540,
+      "name": "William Walker",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "EArevolt",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

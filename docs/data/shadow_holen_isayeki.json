@@ -1,0 +1,40 @@
+{
+  "character_id": 2123771193,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 225553166,
+    "name": "Kaeser",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 225553166,
+      "name": "Kaeser",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 950702964,
+      "name": "David Callan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113902106,
+      "name": "Aurora Isogen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shadow Holen-Isayeki",
+  "corporation_id": 98614919,
+  "alliance_id": 99001969,
+  "corporation_name": "Mineski Infinity",
+  "alliance_name": "SONS of BANE"
+}

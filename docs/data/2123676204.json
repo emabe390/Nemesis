@@ -1,0 +1,52 @@
+{
+  "character_id": 2123676204,
+  "total_losses": 10,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90222257,
+    "name": "Character 90222257",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98367024,
+    "alliance_id": 99008701,
+    "corporation_name": "New Jovian Exploration Department",
+    "alliance_name": "New Jovian Collective"
+  },
+  "top_killers": [
+    {
+      "id": 90222257,
+      "name": "Character 90222257",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90554173,
+      "name": "Piotr Pole",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115661792,
+      "name": "Mana Loutte",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90510057,
+      "name": "ballisticsarge Arareb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115319269,
+      "name": "Dragan Brankovic",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "IndyPindy",
+  "corporation_id": 98785607,
+  "alliance_id": 99010995,
+  "corporation_name": "Vindicta Optime",
+  "alliance_name": "Empyrean Edict"
+}

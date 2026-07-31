@@ -1,0 +1,52 @@
+{
+  "character_id": 2123659837,
+  "total_losses": 15,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2119431692,
+    "name": "Zeta Ophiuchus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98701240,
+    "alliance_id": null,
+    "corporation_name": "000' Bandits Ophiuchi",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2119431692,
+      "name": "Zeta Ophiuchus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2121724762,
+      "name": "Hack Hackerson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90357754,
+      "name": "Usoko Huren",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93828812,
+      "name": "Character 93828812",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Andreas Otto Stahl",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

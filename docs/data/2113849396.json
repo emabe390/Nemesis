@@ -1,0 +1,40 @@
+{
+  "character_id": 2113849396,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124350030,
+    "name": "DaJucee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98500968,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cuervos Imperiales",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124350030,
+      "name": "DaJucee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95221140,
+      "name": "Hiroshi Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96482802,
+      "name": "Tatsu Hattori",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hatonomi Inoumola",
+  "corporation_id": 98774062,
+  "alliance_id": null,
+  "corporation_name": "Khanid Civil Labour Union",
+  "alliance_name": null
+}

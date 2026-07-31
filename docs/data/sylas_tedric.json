@@ -1,0 +1,52 @@
+{
+  "character_id": 2123564313,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 92205070,
+    "name": "Scyther Vrynn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000167,
+    "alliance_id": null,
+    "corporation_name": "State War Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92205070,
+      "name": "Scyther Vrynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92742545,
+      "name": "Parazoid Azi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1331575631,
+      "name": "Jayne Cobby",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123250748,
+      "name": "Suuri Motsu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91779680,
+      "name": "VanHellin Krovchenko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sylas Tedric",
+  "corporation_id": 98805285,
+  "alliance_id": 99009163,
+  "corporation_name": "Silent Protocol",
+  "alliance_name": "Dracarys."
+}

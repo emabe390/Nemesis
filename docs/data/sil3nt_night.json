@@ -1,0 +1,52 @@
+{
+  "character_id": 2123881114,
+  "total_losses": 25,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123675081,
+    "name": "Kini Isi Askiras",
+    "kill_count": 19,
+    "final_blows": 19,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123675081,
+      "name": "Kini Isi Askiras",
+      "kill_count": 19,
+      "final_blows": 19
+    },
+    {
+      "id": 2120835192,
+      "name": "Ezio Brinalle",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93613311,
+      "name": "Mango Karpalo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112553718,
+      "name": "Z311",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116116382,
+      "name": "Markus VamHana",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sil3nt Night",
+  "corporation_id": 98744491,
+  "alliance_id": 99013330,
+  "corporation_name": "URSA PRIMUS",
+  "alliance_name": "URSA."
+}

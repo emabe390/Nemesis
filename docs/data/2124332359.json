@@ -1,0 +1,52 @@
+{
+  "character_id": 2124332359,
+  "total_losses": 11,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 850452726,
+    "name": "Gaius Ceasar",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1005661681,
+    "alliance_id": 495729389,
+    "corporation_name": "Sonnenlegion",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 850452726,
+      "name": "Gaius Ceasar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 966975384,
+      "name": "DISPER",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113344514,
+      "name": "Sdoh Nee",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114840010,
+      "name": "Watchdog-1 MOONPIRE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114840116,
+      "name": "Watchdog-2 MOONPIRE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Darius Dreamstar",
+  "corporation_id": 98826555,
+  "alliance_id": null,
+  "corporation_name": "Spaceport Engineers",
+  "alliance_name": null
+}

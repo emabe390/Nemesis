@@ -1,0 +1,52 @@
+{
+  "character_id": 2124201929,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 367575249,
+      "name": "Saggle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115562727,
+      "name": "Ricin Waffles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95908107,
+      "name": "Hitman 47-47",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 697821017,
+      "name": "Gabriel LeCroix",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dulles Kansene",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

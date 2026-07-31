@@ -1,0 +1,40 @@
+{
+  "character_id": 2124549290,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 617775431,
+    "name": "Svetlania",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98370987,
+    "alliance_id": 495729389,
+    "corporation_name": "Eagle Wing Industries",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 617775431,
+      "name": "Svetlania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1266187016,
+      "name": "Major Bang",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2045131155,
+      "name": "Character 2045131155",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Abrahim Marak",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

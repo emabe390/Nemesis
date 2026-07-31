@@ -1,0 +1,52 @@
+{
+  "character_id": 2123857581,
+  "total_losses": 23,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123857586,
+    "name": "Fuji San",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123857586,
+      "name": "Fuji San",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2117849003,
+      "name": "Urg'haal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116322055,
+      "name": "yjwb003",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94905609,
+      "name": "Mychal Chelette",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yui Arata",
+  "corporation_id": 98743678,
+  "alliance_id": 99011277,
+  "corporation_name": "setHacked Corporation",
+  "alliance_name": "Pathog3n"
+}

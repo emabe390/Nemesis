@@ -1,0 +1,52 @@
+{
+  "character_id": 1186576736,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124398966,
+      "name": "Meshif Rahim",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92014786,
+      "name": "Rina Kondur",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93165189,
+      "name": "Character 93165189",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94012337,
+      "name": "Scientio Pope",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hratan",
+  "corporation_id": 705444291,
+  "alliance_id": 1966049571,
+  "corporation_name": "T.R.I.A.D",
+  "alliance_name": "Ushra'Khan"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123964315,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2122681791,
+    "name": "Sceptiksmb",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 813634421,
+      "name": "SanZo Fengi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1525961147,
+      "name": "CJ Walker",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119365260,
+      "name": "Heretics Must Die",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120652956,
+      "name": "Bec d'Corbin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Werstor",
+  "corporation_id": 1000436,
+  "alliance_id": null,
+  "corporation_name": "Malakim Zealots",
+  "alliance_name": null
+}

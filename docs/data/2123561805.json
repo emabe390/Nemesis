@@ -1,0 +1,46 @@
+{
+  "character_id": 2123561805,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2122880544,
+    "name": "Wulf Bowman",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98674534,
+    "alliance_id": 99013513,
+    "corporation_name": "Voidlings",
+    "alliance_name": "V0IDLINGS"
+  },
+  "top_killers": [
+    {
+      "id": 2122880544,
+      "name": "Wulf Bowman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95068538,
+      "name": "Carlos Bandolier",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118722264,
+      "name": "Roskolnikov",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120794912,
+      "name": "pyrostasis1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ShuFrost",
+  "corporation_id": 98541758,
+  "alliance_id": null,
+  "corporation_name": "Emperor's Medical Corporation",
+  "alliance_name": null
+}

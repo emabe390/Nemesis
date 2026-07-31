@@ -1,0 +1,40 @@
+{
+  "character_id": 2121938693,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119020110,
+    "name": "Jonny Fire",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 2119020110,
+      "name": "Jonny Fire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90815840,
+      "name": "Dr Falvian Moebius",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118849040,
+      "name": "Lilac Onzo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aralen Nomulous",
+  "corporation_id": 98580971,
+  "alliance_id": 99007887,
+  "corporation_name": "Ambition Unlimited",
+  "alliance_name": "Brotherhood of Spacers"
+}

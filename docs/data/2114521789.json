@@ -1,0 +1,52 @@
+{
+  "character_id": 2114521789,
+  "total_losses": 21,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 955593279,
+      "name": "Palendiras",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114381977,
+      "name": "Minty Goodness",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121464870,
+      "name": "TVOYA SMERTb",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93475766,
+      "name": "Tidus Hanaya",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Raydon Targaryen",
+  "corporation_id": 98270640,
+  "alliance_id": 1354830081,
+  "corporation_name": "BOVRIL bOREers Mining CO-OP",
+  "alliance_name": "Goonswarm Federation"
+}

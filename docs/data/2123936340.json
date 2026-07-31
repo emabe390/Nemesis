@@ -1,0 +1,52 @@
+{
+  "character_id": 2123936340,
+  "total_losses": 61,
+  "unique_killers": 49,
+  "nemesis": {
+    "id": 91408843,
+    "name": "Roomero",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98094266,
+    "alliance_id": null,
+    "corporation_name": "Kingdom of Candats",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91408843,
+      "name": "Roomero",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91441111,
+      "name": "Citizen 413587",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96885210,
+      "name": "Cucumber ares",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 380801879,
+      "name": "Dredx",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Character 2123936340",
+  "corporation_id": 98795383,
+  "alliance_id": 99003956,
+  "corporation_name": "PushX Beacon Network",
+  "alliance_name": "Push Interstellar Network"
+}

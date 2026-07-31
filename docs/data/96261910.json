@@ -1,0 +1,40 @@
+{
+  "character_id": 96261910,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93106874,
+    "name": "Jelena Sarn",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98336806,
+    "alliance_id": 99014878,
+    "corporation_name": "Amandla Legion",
+    "alliance_name": "Fortuna Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 93106874,
+      "name": "Jelena Sarn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121652517,
+      "name": "Sanquine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Doosdi",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

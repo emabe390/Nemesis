@@ -1,0 +1,46 @@
+{
+  "character_id": 390030201,
+  "total_losses": 39,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96797014,
+    "name": "Breadfish Chelien",
+    "kill_count": 23,
+    "final_blows": 23,
+    "corporation_id": 98570801,
+    "alliance_id": null,
+    "corporation_name": "Insitution of Homeless Fish",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 96797014,
+      "name": "Breadfish Chelien",
+      "kill_count": 23,
+      "final_blows": 23
+    },
+    {
+      "id": 2116291626,
+      "name": "Eva Starrchaser",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117725082,
+      "name": "Deon Deadmeat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zorino",
+  "corporation_id": 98670226,
+  "alliance_id": 99010756,
+  "corporation_name": "StratsCo",
+  "alliance_name": "Pretenders"
+}

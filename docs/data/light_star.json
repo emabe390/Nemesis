@@ -1,0 +1,52 @@
+{
+  "character_id": 2118158445,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 2112553718,
+    "name": "Z311",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98600992,
+    "alliance_id": 396211967,
+    "corporation_name": "Avanto",
+    "alliance_name": "Arctic Light"
+  },
+  "top_killers": [
+    {
+      "id": 2112553718,
+      "name": "Z311",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90412994,
+      "name": "Takeo Tensai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91684579,
+      "name": "Ivan Pokos2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94388027,
+      "name": "Hal Pistor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94867614,
+      "name": "Fourteenth Seat",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Light-Star",
+  "corporation_id": 98682466,
+  "alliance_id": 99012390,
+  "corporation_name": "Bob's Bacon Consortium",
+  "alliance_name": "Reaching for Uranus"
+}

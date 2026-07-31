@@ -1,0 +1,52 @@
+{
+  "character_id": 90715403,
+  "total_losses": 133,
+  "unique_killers": 110,
+  "nemesis": {
+    "id": 2117671804,
+    "name": "ColdStorm",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98659675,
+    "alliance_id": null,
+    "corporation_name": "The Cold Storm",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2117671804,
+      "name": "ColdStorm",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 245145018,
+      "name": "Barbens",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1184548204,
+      "name": "Floorist",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90801006,
+      "name": "Rude Badasaz",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90209288,
+      "name": "Sevenn T",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Judge Sarn",
+  "corporation_id": 98161982,
+  "alliance_id": null,
+  "corporation_name": "Bulls Fury",
+  "alliance_name": null
+}

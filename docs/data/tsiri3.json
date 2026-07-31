@@ -1,0 +1,52 @@
+{
+  "character_id": 2123144574,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 2115944316,
+    "name": "Big Bonso",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115944316,
+      "name": "Big Bonso",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 713141884,
+      "name": "Davey Oaks",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 824733020,
+      "name": "h04x",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1947841944,
+      "name": "FenriXis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115278975,
+      "name": "Evelyn V-19 DarkHome",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tsiri3",
+  "corporation_id": 98595110,
+  "alliance_id": 99010386,
+  "corporation_name": "Absolute Order",
+  "alliance_name": "Absolute Honor"
+}

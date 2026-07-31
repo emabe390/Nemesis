@@ -1,0 +1,52 @@
+{
+  "character_id": 2122246066,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96921035,
+    "name": "Drimocus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98280055,
+    "alliance_id": 99010079,
+    "corporation_name": "Second Sons",
+    "alliance_name": "Brave United"
+  },
+  "top_killers": [
+    {
+      "id": 96921035,
+      "name": "Drimocus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92159291,
+      "name": "Sawyar Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 633718149,
+      "name": "Kimett",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122246033,
+      "name": "Phearless Quake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122246042,
+      "name": "Phunky Quake",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Pherric Quake",
+  "corporation_id": 98817913,
+  "alliance_id": null,
+  "corporation_name": "Quake Inc",
+  "alliance_name": null
+}

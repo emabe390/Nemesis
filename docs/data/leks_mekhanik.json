@@ -1,0 +1,34 @@
+{
+  "character_id": 2122901249,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2114783921,
+    "name": "g0uda",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90841440,
+      "name": "Forrest Belvar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Leks Mekhanik",
+  "corporation_id": 98798423,
+  "alliance_id": null,
+  "corporation_name": "Takeda Inc.",
+  "alliance_name": null
+}

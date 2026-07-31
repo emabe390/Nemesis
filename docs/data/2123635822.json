@@ -1,0 +1,52 @@
+{
+  "character_id": 2123635822,
+  "total_losses": 29,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3020009,
+      "name": "Metis Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93018669,
+      "name": "Knapica",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96035541,
+      "name": "Buffalo72",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "toramaru-mk2",
+  "corporation_id": 98677509,
+  "alliance_id": 99010412,
+  "corporation_name": "Nisuwa Dairy Union",
+  "alliance_name": "Nisuwa Cartel"
+}

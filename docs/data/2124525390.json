@@ -1,0 +1,40 @@
+{
+  "character_id": 2124525390,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93866112,
+    "name": "Odontodactylus Maculata",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98140406,
+    "alliance_id": 99007636,
+    "corporation_name": "Legion of the Black Knight",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 93866112,
+      "name": "Odontodactylus Maculata",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 424638600,
+      "name": "Shobolingoza",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117504100,
+      "name": "William Friedman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Sokron",
+  "corporation_id": 98816038,
+  "alliance_id": null,
+  "corporation_name": "Eagle Wing Acadamy",
+  "alliance_name": null
+}

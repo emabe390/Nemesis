@@ -1,0 +1,52 @@
+{
+  "character_id": 2123638612,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 3019585,
+    "name": "Arithmos Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019585,
+      "name": "Arithmos Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94507027,
+      "name": "Terra Snow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 365388446,
+      "name": "De BuG",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2056986286,
+      "name": "Lokar Griman",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Poseidon Lovegood",
+  "corporation_id": 98812878,
+  "alliance_id": 99012539,
+  "corporation_name": "The Detention Center",
+  "alliance_name": "MKUGA Associates"
+}

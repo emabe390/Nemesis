@@ -1,0 +1,52 @@
+{
+  "character_id": 755421293,
+  "total_losses": 37,
+  "unique_killers": 36,
+  "nemesis": {
+    "id": 409301765,
+    "name": "The Templariarch",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98487467,
+    "alliance_id": 99014668,
+    "corporation_name": "Khanid Propulsion Systems",
+    "alliance_name": "The Ravens' Nest"
+  },
+  "top_killers": [
+    {
+      "id": 409301765,
+      "name": "The Templariarch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90861008,
+      "name": "Rezorin Rezaraev",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91070088,
+      "name": "J1m Raynor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91547663,
+      "name": "Avion Sundiver",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93826692,
+      "name": "Nuclearl Launch detected",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Haary",
+  "corporation_id": 98478883,
+  "alliance_id": null,
+  "corporation_name": "Know-Nothings",
+  "alliance_name": null
+}

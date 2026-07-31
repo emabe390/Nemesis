@@ -1,0 +1,46 @@
+{
+  "character_id": 2123213813,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2116815965,
+    "name": "Wigand Gunnarson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98640970,
+    "alliance_id": 99010015,
+    "corporation_name": "N-E-U-T",
+    "alliance_name": "BLACKFLAG."
+  },
+  "top_killers": [
+    {
+      "id": 2116815965,
+      "name": "Wigand Gunnarson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91807649,
+      "name": "Van Doe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118555838,
+      "name": "KillerFischHDMI",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123455976,
+      "name": "Tzytlali",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ur Magerd",
+  "corporation_id": 98700249,
+  "alliance_id": 99012847,
+  "corporation_name": "Mechanical Advantage",
+  "alliance_name": "GunFam"
+}

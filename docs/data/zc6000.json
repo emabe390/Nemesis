@@ -1,0 +1,40 @@
+{
+  "character_id": 2124089403,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116310101,
+    "name": "Fei0 Ying",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98608055,
+    "alliance_id": 1354830081,
+    "corporation_name": "Levy Guards",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2116310101,
+      "name": "Fei0 Ying",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116281043,
+      "name": "Bogdanoff Grichka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122959010,
+      "name": "Nouri Arareb",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZC6000",
+  "corporation_id": 98776045,
+  "alliance_id": 99014321,
+  "corporation_name": "Tilean Silver Lion Company",
+  "alliance_name": "Tilean Dominium"
+}

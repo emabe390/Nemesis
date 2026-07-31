@@ -1,0 +1,52 @@
+{
+  "character_id": 95744182,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 898115249,
+    "name": "atalanti",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 898115249,
+      "name": "atalanti",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113400141,
+      "name": "Marya Niszakam",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95194808,
+      "name": "Yar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 512287015,
+      "name": "Solus Imbrium",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112908132,
+      "name": "Randomly Antisocial",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jack Newland",
+  "corporation_id": 98771189,
+  "alliance_id": null,
+  "corporation_name": "Black Flag Explorers",
+  "alliance_name": null
+}

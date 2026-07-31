@@ -1,0 +1,40 @@
+{
+  "character_id": 2123537631,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90692369,
+    "name": "Larcal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 693378155,
+    "alliance_id": 498125261,
+    "corporation_name": "Unholy Knights of Cthulhu",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 90692369,
+      "name": "Larcal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92275823,
+      "name": "Frug0",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94177601,
+      "name": "Sorus Orez",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jono Ezekiel",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

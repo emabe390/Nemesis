@@ -1,0 +1,52 @@
+{
+  "character_id": 2123359278,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2124366402,
+    "name": "Ungi Haginen",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98667941,
+    "alliance_id": 99010641,
+    "corporation_name": "The Bombards",
+    "alliance_name": "Send Dudes"
+  },
+  "top_killers": [
+    {
+      "id": 2124366402,
+      "name": "Ungi Haginen",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90598879,
+      "name": "Markus Hirl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92205070,
+      "name": "Scyther Vrynn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123129863,
+      "name": "Pav Gin",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Norfrost",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 2123697046,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2123249706,
+    "name": "Character 2123249706",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98798730,
+    "alliance_id": null,
+    "corporation_name": "The Jita Autopilot Adminstration",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123249706,
+      "name": "Character 2123249706",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94787595,
+      "name": "Miranda Shastin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 893397831,
+      "name": "Koomji",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114260202,
+      "name": "Nira Mangeiri",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rockbird",
+  "corporation_id": 98378388,
+  "alliance_id": 99002685,
+  "corporation_name": "Marauders Associated",
+  "alliance_name": "Synergy of Steel"
+}

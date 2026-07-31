@@ -1,0 +1,52 @@
+{
+  "character_id": 2123693252,
+  "total_losses": 27,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 93295547,
+    "name": "Raven Naari",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98319268,
+    "alliance_id": null,
+    "corporation_name": "The Aviary",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93295547,
+      "name": "Raven Naari",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96619319,
+      "name": "Celeste Star",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 187753728,
+      "name": "Dorian Aredes",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1588351399,
+      "name": "Rosalyn Cross",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Ox Oryx",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

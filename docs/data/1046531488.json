@@ -1,0 +1,52 @@
+{
+  "character_id": 1046531488,
+  "total_losses": 21,
+  "unique_killers": 20,
+  "nemesis": {
+    "id": 940427555,
+    "name": "Zen Horizon",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 763838205,
+    "alliance_id": null,
+    "corporation_name": "Appetite 4 Destruction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 940427555,
+      "name": "Zen Horizon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91330268,
+      "name": "Krixhis D'Haran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91785706,
+      "name": "Kuruk Arnook",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92301603,
+      "name": "Trans Phats Beaglasa",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93791347,
+      "name": "Bear Maulerant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Spiltfish",
+  "corporation_id": 98426237,
+  "alliance_id": 99004604,
+  "corporation_name": "Phoenix Naval Operations",
+  "alliance_name": "Phoenix Naval Systems"
+}

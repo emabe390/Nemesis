@@ -1,0 +1,40 @@
+{
+  "character_id": 2123451234,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115891724,
+    "name": "Nick Kg",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98641311,
+    "alliance_id": 99012067,
+    "corporation_name": "CATALYST FOR YOU",
+    "alliance_name": "United Cats"
+  },
+  "top_killers": [
+    {
+      "id": 2115891724,
+      "name": "Nick Kg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116448933,
+      "name": "TT xiaoyao",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117047948,
+      "name": "sueface",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Freg Elget Askold",
+  "corporation_id": 98723940,
+  "alliance_id": null,
+  "corporation_name": "Freedom Communications Corporation",
+  "alliance_name": null
+}

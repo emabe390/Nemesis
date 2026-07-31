@@ -1,0 +1,52 @@
+{
+  "character_id": 2123688794,
+  "total_losses": 19,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 2123792214,
+    "name": "Character 2123792214",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98777162,
+    "alliance_id": 1354830081,
+    "corporation_name": "TRIGLAVIAN EXECUYIR",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123792214,
+      "name": "Character 2123792214",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116231402,
+      "name": "Lyla Ozawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93088717,
+      "name": "Exhunt HD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93315636,
+      "name": "Za Grim",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96979414,
+      "name": "Kyrah Inferno",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Minstrelt",
+  "corporation_id": 98777162,
+  "alliance_id": 1354830081,
+  "corporation_name": "TRIGLAVIAN EXECUYIR",
+  "alliance_name": "Goonswarm Federation"
+}

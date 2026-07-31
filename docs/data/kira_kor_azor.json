@@ -1,0 +1,52 @@
+{
+  "character_id": 2124436010,
+  "total_losses": 24,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2122967967,
+    "name": "discobolus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98789393,
+    "alliance_id": null,
+    "corporation_name": "stoneAge.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122967967,
+      "name": "discobolus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90201872,
+      "name": "R Hotzenplotz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 875463717,
+      "name": "Lhorenzho",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1735126831,
+      "name": "Rehvun",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2049784221,
+      "name": "Onionz",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kira Kor-Azor",
+  "corporation_id": 98835577,
+  "alliance_id": 99014897,
+  "corporation_name": "Order of the Crimson Blade",
+  "alliance_name": "Crimson Forge Vanguard"
+}

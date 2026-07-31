@@ -1,0 +1,52 @@
+{
+  "character_id": 2123589764,
+  "total_losses": 17,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 92210876,
+    "name": "Howard Garrison",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807228,
+    "alliance_id": 99014873,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 92210876,
+      "name": "Howard Garrison",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93775532,
+      "name": "Fenix Nikolajsen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1373971920,
+      "name": "Heinrich Hertz",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114425147,
+      "name": "Abazaga",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116895391,
+      "name": "Timea Aldeland",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Shikibato Yaken",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

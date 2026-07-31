@@ -1,0 +1,52 @@
+{
+  "character_id": 2123152223,
+  "total_losses": 48,
+  "unique_killers": 45,
+  "nemesis": {
+    "id": 92245397,
+    "name": "Hroki Saken",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98637264,
+    "alliance_id": 99011223,
+    "corporation_name": "Sensible People",
+    "alliance_name": "Sigma Grindset"
+  },
+  "top_killers": [
+    {
+      "id": 92245397,
+      "name": "Hroki Saken",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1963256473,
+      "name": "Spr1nger",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90066374,
+      "name": "Jadon Tor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90478736,
+      "name": "Vivi Rothschild",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Rage Starscythe",
+  "corporation_id": 98721350,
+  "alliance_id": 1354830081,
+  "corporation_name": "Angry Midlife Aliens",
+  "alliance_name": "Goonswarm Federation"
+}

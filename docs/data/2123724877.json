@@ -1,0 +1,52 @@
+{
+  "character_id": 2123724877,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 732713040,
+    "name": "Paris Montana",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 995713015,
+    "alliance_id": null,
+    "corporation_name": "Praetorian Guard",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 732713040,
+      "name": "Paris Montana",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 795994401,
+      "name": "Gravaton Cleric",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121694378,
+      "name": "Character 2121694378",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92952998,
+      "name": "Tricycle Jones",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 198615626,
+      "name": "Delta Flyer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wehrmach",
+  "corporation_id": 98801094,
+  "alliance_id": null,
+  "corporation_name": "YT Kolsuzlar Birligi",
+  "alliance_name": null
+}

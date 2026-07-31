@@ -1,0 +1,40 @@
+{
+  "character_id": 2123707126,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93140354,
+    "name": "Konradt Curze",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 93140354,
+      "name": "Konradt Curze",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95527904,
+      "name": "Siegmeyer Hearthfield",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122657605,
+      "name": "Doctor Flanio",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kapouta4",
+  "corporation_id": 98811801,
+  "alliance_id": null,
+  "corporation_name": "Kapouta's Corporation",
+  "alliance_name": null
+}

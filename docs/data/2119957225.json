@@ -1,0 +1,52 @@
+{
+  "character_id": 2119957225,
+  "total_losses": 449,
+  "unique_killers": 378,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 11,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 11,
+      "final_blows": 1
+    },
+    {
+      "id": 2124366662,
+      "name": "BrHeidmarIsMyBeach",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2120835265,
+      "name": "Rip Fury",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 90654372,
+      "name": "Mihael Molou",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91419334,
+      "name": "Gumi Vocaloid",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "Al-Punchy",
+  "corporation_id": 98794874,
+  "alliance_id": 99012929,
+  "corporation_name": "Gravitationnal Waves",
+  "alliance_name": "Deteriorated"
+}

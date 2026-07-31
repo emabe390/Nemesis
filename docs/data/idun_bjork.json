@@ -1,0 +1,52 @@
+{
+  "character_id": 2123569585,
+  "total_losses": 159,
+  "unique_killers": 127,
+  "nemesis": {
+    "id": 3019609,
+    "name": "Karybdis Tyrannos",
+    "kill_count": 3,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 604639162,
+      "name": "Shad0wsFury",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90235339,
+      "name": "WaechterDesTages",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90635307,
+      "name": "Mr. Burke",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Idun Bjork",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

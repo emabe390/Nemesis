@@ -1,0 +1,34 @@
+{
+  "character_id": 2123406688,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 981408963,
+    "name": "art amarr",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000066,
+    "alliance_id": null,
+    "corporation_name": "Viziam",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 981408963,
+      "name": "art amarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114628612,
+      "name": "Just Seed Dreads",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Sig'nis Vhen-Korr",
+  "corporation_id": 98803016,
+  "alliance_id": 99010193,
+  "corporation_name": "Cipher Indusitral Investments",
+  "alliance_name": "Ivy League Alt Alliance"
+}

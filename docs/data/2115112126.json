@@ -1,0 +1,46 @@
+{
+  "character_id": 2115112126,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2115248039,
+    "name": "Cosmic Tachyon",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98637550,
+    "alliance_id": null,
+    "corporation_name": "Cosmic Tachyon Technology",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2115248039,
+      "name": "Cosmic Tachyon",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2112256205,
+      "name": "Character 2112256205",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113243708,
+      "name": "Journey Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114352637,
+      "name": "Ygritte Pava",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jessica Swing",
+  "corporation_id": 98286981,
+  "alliance_id": 99013541,
+  "corporation_name": "Bluehogs",
+  "alliance_name": "Fraternity Auxiliary"
+}

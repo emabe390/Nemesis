@@ -1,0 +1,52 @@
+{
+  "character_id": 2123888630,
+  "total_losses": 95,
+  "unique_killers": 84,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93242586,
+      "name": "Prda Prda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93297581,
+      "name": "Tyrial Nightbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93558221,
+      "name": "Everett Rockefeller",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93653479,
+      "name": "Laise Snow",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Stellar Glide",
+  "corporation_id": 98190062,
+  "alliance_id": 1354830081,
+  "corporation_name": "Peoples Liberation Army",
+  "alliance_name": "Goonswarm Federation"
+}

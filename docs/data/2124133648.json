@@ -1,0 +1,52 @@
+{
+  "character_id": 2124133648,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 838744855,
+    "name": "Eckart",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 323998201,
+    "alliance_id": 1727758877,
+    "corporation_name": "Militaris Industries",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 838744855,
+      "name": "Eckart",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 873739084,
+      "name": "SGA1",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 978231243,
+      "name": "FyreStrike",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1863145372,
+      "name": "KarLaeda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114314412,
+      "name": "3VYiTie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cetanu",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

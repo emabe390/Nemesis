@@ -1,0 +1,34 @@
+{
+  "character_id": 2123819029,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2123818304,
+    "name": "Viki Lumpeciara",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98454925,
+    "alliance_id": 1354830081,
+    "corporation_name": "Blackwater Task Forces",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2123818304,
+      "name": "Viki Lumpeciara",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123819011,
+      "name": "Viki Traktorzysta",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Julia Traktorzysta",
+  "corporation_id": 98454925,
+  "alliance_id": 1354830081,
+  "corporation_name": "Blackwater Task Forces",
+  "alliance_name": "Goonswarm Federation"
+}

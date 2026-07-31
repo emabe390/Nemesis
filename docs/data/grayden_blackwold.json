@@ -1,0 +1,34 @@
+{
+  "character_id": 2124425933,
+  "total_losses": 15,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2113288092,
+    "name": "Character 2113288092",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2113288092,
+      "name": "Character 2113288092",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2121850196,
+      "name": "Drayden Fury",
+      "kill_count": 7,
+      "final_blows": 7
+    }
+  ],
+  "character_name": "Grayden Blackwold",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

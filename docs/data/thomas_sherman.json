@@ -1,0 +1,46 @@
+{
+  "character_id": 2123924766,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 3020008,
+    "name": "Agreus Tyrannos",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020008,
+      "name": "Agreus Tyrannos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117884104,
+      "name": "Character 2117884104",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123947270,
+      "name": "System Effect",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Thomas Sherman",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2122861931,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90568461,
+    "name": "BuuBu",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 724997872,
+    "alliance_id": 1354830081,
+    "corporation_name": "EVE-RO",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 90568461,
+      "name": "BuuBu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94106505,
+      "name": "Freelancer Overlord",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121637840,
+      "name": "MaxwellMouse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Skuhravy",
+  "corporation_id": 724997872,
+  "alliance_id": 1354830081,
+  "corporation_name": "EVE-RO",
+  "alliance_name": "Goonswarm Federation"
+}

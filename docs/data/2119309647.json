@@ -1,0 +1,40 @@
+{
+  "character_id": 2119309647,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2112835975,
+    "name": "Faith Katelo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2112835975,
+      "name": "Faith Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113214868,
+      "name": "Jimmie Katelo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114023075,
+      "name": "Battalion",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kala Ovai",
+  "corporation_id": 1634775132,
+  "alliance_id": 1354830081,
+  "corporation_name": "UK Corp",
+  "alliance_name": "Goonswarm Federation"
+}

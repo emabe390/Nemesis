@@ -1,0 +1,40 @@
+{
+  "character_id": 2123941520,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93593722,
+    "name": "Saza Abre-Kai",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1018389948,
+    "alliance_id": 498125261,
+    "corporation_name": "Dreddit",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 93593722,
+      "name": "Saza Abre-Kai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96871790,
+      "name": "Guffor Atremi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115965670,
+      "name": "Ted Bund1",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Alexilo Vashchilyandr",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123667310,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95835700,
+    "name": "Ein Skrue Laus",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 538004967,
+    "alliance_id": null,
+    "corporation_name": "x13",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 95835700,
+      "name": "Ein Skrue Laus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1190226993,
+      "name": "Cpt JackSparow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112374898,
+      "name": "Taliyah Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Stanich",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

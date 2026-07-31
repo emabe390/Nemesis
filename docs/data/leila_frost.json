@@ -1,0 +1,52 @@
+{
+  "character_id": 2112357666,
+  "total_losses": 37,
+  "unique_killers": 31,
+  "nemesis": {
+    "id": 2122054135,
+    "name": "Z-33H3",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2122054135,
+      "name": "Z-33H3",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91906929,
+      "name": "Rukia Hamazu",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92728805,
+      "name": "DeaD oRc",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96458451,
+      "name": "Karalhovsky Poppenstein",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113806262,
+      "name": "Satori Koishi",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Leila Frost",
+  "corporation_id": 98187440,
+  "alliance_id": 99013831,
+  "corporation_name": "Scandium Defense and Security Inc.",
+  "alliance_name": "Sleeper Protocol"
+}

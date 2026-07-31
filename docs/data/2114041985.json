@@ -1,0 +1,34 @@
+{
+  "character_id": 2114041985,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1785589776,
+    "name": "Norrec Vizjerei",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98262459,
+    "alliance_id": 99012936,
+    "corporation_name": "Portia Squad",
+    "alliance_name": "Daughters of Ane"
+  },
+  "top_killers": [
+    {
+      "id": 1785589776,
+      "name": "Norrec Vizjerei",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92300270,
+      "name": "Wurby Hadah",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mike Shtagger",
+  "corporation_id": 98697445,
+  "alliance_id": null,
+  "corporation_name": "Ural Mining and Reprocessing Corporation",
+  "alliance_name": null
+}

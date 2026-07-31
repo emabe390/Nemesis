@@ -1,0 +1,46 @@
+{
+  "character_id": 2123812904,
+  "total_losses": 8,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2117776396,
+    "name": "Modus Deus",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98607450,
+    "alliance_id": 99004344,
+    "corporation_name": "Ruthless Regiment",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 2117776396,
+      "name": "Modus Deus",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 934231458,
+      "name": "K'att Sai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1883101735,
+      "name": "Marie Lavoux",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Da'alren",
+  "corporation_id": 98815517,
+  "alliance_id": null,
+  "corporation_name": "Kuroda Industries",
+  "alliance_name": null
+}

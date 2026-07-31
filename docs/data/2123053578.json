@@ -1,0 +1,52 @@
+{
+  "character_id": 2123053578,
+  "total_losses": 10,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2123937119,
+    "name": "Character 2123937119",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000436,
+    "alliance_id": null,
+    "corporation_name": "Malakim Zealots",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123937119,
+      "name": "Character 2123937119",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2121475828,
+      "name": "HarmlessOne",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93255000,
+      "name": "PROC3SS ELEVATED",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 906890510,
+      "name": "Gryphon Darkcloud",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 975061176,
+      "name": "hotnready",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Asteroid Veldspar",
+  "corporation_id": 98224639,
+  "alliance_id": 99005678,
+  "corporation_name": "Dirt 'n' Glitter",
+  "alliance_name": "Local Is Primary"
+}

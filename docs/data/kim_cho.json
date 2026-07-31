@@ -1,0 +1,52 @@
+{
+  "character_id": 1353711775,
+  "total_losses": 15,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2116583018,
+    "name": "The Meek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98575203,
+    "alliance_id": 99010980,
+    "corporation_name": "Dark Venture Corporation",
+    "alliance_name": "Kitchen Sinkhole"
+  },
+  "top_killers": [
+    {
+      "id": 2116583018,
+      "name": "The Meek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118568440,
+      "name": "Oreo Otichoda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 515554158,
+      "name": "Lord Road",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 526031522,
+      "name": "Ra1n Forest",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kim Cho",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

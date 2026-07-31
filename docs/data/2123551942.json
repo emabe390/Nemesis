@@ -1,0 +1,34 @@
+{
+  "character_id": 2123551942,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122803800,
+    "name": "ryhev",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98818043,
+    "alliance_id": null,
+    "corporation_name": "The Scythe of Plexus",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122803800,
+      "name": "ryhev",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1121029034,
+      "name": "Cpt Armarlio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ytiri Raitaru",
+  "corporation_id": 98807294,
+  "alliance_id": null,
+  "corporation_name": "Sundari Kijodai",
+  "alliance_name": null
+}

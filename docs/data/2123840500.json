@@ -1,0 +1,52 @@
+{
+  "character_id": 2123840500,
+  "total_losses": 41,
+  "unique_killers": 23,
+  "nemesis": {
+    "id": 580537053,
+    "name": "Carusius",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98764551,
+    "alliance_id": 99014027,
+    "corporation_name": "PLA Fleet",
+    "alliance_name": "People's Liberation Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 580537053,
+      "name": "Carusius",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2118648533,
+      "name": "Soura Ichosira",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 392247734,
+      "name": "X7000",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 127181490,
+      "name": "Delanhunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 452054418,
+      "name": "goamatze",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Black Scutor",
+  "corporation_id": 98819016,
+  "alliance_id": 99015045,
+  "corporation_name": "Silentrix",
+  "alliance_name": "H O S T I L E"
+}

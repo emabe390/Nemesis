@@ -1,0 +1,52 @@
+{
+  "character_id": 2123455793,
+  "total_losses": 68,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 2012252990,
+    "name": "Dii minores",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1903628557,
+    "alliance_id": 99003557,
+    "corporation_name": "AirGuard",
+    "alliance_name": "LowSechnaya Sholupen"
+  },
+  "top_killers": [
+    {
+      "id": 2012252990,
+      "name": "Dii minores",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91410107,
+      "name": "Radist Peresvet",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95908711,
+      "name": "Dreya Starhunt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96885210,
+      "name": "Cucumber ares",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Lolth Chand Lazair",
+  "corporation_id": 98832941,
+  "alliance_id": null,
+  "corporation_name": "Nightgate Solutions",
+  "alliance_name": null
+}

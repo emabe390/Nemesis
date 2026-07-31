@@ -1,0 +1,52 @@
+{
+  "character_id": 90402808,
+  "total_losses": 26,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 95631841,
+    "name": "Lana Linder",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 244898283,
+    "alliance_id": 1354830081,
+    "corporation_name": "OEG",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 95631841,
+      "name": "Lana Linder",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 313431206,
+      "name": "Olegshaman",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91926327,
+      "name": "Kingababa Nyulo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93214934,
+      "name": "Kane Carnifex",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96235294,
+      "name": "RMB",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tom Hutchison",
+  "corporation_id": 98713128,
+  "alliance_id": 99007887,
+  "corporation_name": "Entropy Engine",
+  "alliance_name": "Brotherhood of Spacers"
+}

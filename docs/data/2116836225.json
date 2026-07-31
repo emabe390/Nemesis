@@ -1,0 +1,34 @@
+{
+  "character_id": 2116836225,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2112622771,
+    "name": "Ripley Von-Stinkle Winkle",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1850626854,
+    "alliance_id": 99009564,
+    "corporation_name": "The Priesthood",
+    "alliance_name": "WeR4"
+  },
+  "top_killers": [
+    {
+      "id": 2112622771,
+      "name": "Ripley Von-Stinkle Winkle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95462653,
+      "name": "JerryRin AT2016 Commentator",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2116836225",
+  "corporation_id": 98835765,
+  "alliance_id": null,
+  "corporation_name": "Clan X",
+  "alliance_name": null
+}

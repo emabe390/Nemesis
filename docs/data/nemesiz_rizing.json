@@ -1,0 +1,40 @@
+{
+  "character_id": 2123910339,
+  "total_losses": 22,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2026334150,
+    "name": "Jimmy Uhaul",
+    "kill_count": 20,
+    "final_blows": 20,
+    "corporation_id": 98523630,
+    "alliance_id": 99013285,
+    "corporation_name": "Nomadicorp",
+    "alliance_name": "Incorporeal Conglomerate Society"
+  },
+  "top_killers": [
+    {
+      "id": 2026334150,
+      "name": "Jimmy Uhaul",
+      "kill_count": 20,
+      "final_blows": 20
+    },
+    {
+      "id": 93945038,
+      "name": "Ganbash Kor",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118141845,
+      "name": "banuIV",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Nemesiz Rizing",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

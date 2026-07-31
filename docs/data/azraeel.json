@@ -1,0 +1,52 @@
+{
+  "character_id": 2120234956,
+  "total_losses": 12,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 90563486,
+    "name": "Corsa Cor",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98462540,
+    "alliance_id": 1900696668,
+    "corporation_name": "DERUS ORDER",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 90563486,
+      "name": "Corsa Cor",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94512325,
+      "name": "Osrono Darksky",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94507027,
+      "name": "Terra Snow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 213897433,
+      "name": "AvenNight",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Azraeel",
+  "corporation_id": 98397588,
+  "alliance_id": null,
+  "corporation_name": "The good old pirates",
+  "alliance_name": null
+}

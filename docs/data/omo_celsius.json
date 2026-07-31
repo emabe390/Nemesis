@@ -1,0 +1,40 @@
+{
+  "character_id": 1902231839,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123192010,
+    "name": "Gnarly Gimli",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98788045,
+    "alliance_id": 99010089,
+    "corporation_name": "Fellowship of the Dongs",
+    "alliance_name": "Novus Ordo."
+  },
+  "top_killers": [
+    {
+      "id": 2123192010,
+      "name": "Gnarly Gimli",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123628230,
+      "name": "Swoledemort",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123006134,
+      "name": "Shady Samwise",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Omo Celsius",
+  "corporation_id": 98739578,
+  "alliance_id": null,
+  "corporation_name": "Int. Institute of Extraterrestrial Cultures",
+  "alliance_name": null
+}

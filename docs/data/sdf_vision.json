@@ -1,0 +1,52 @@
+{
+  "character_id": 2123701241,
+  "total_losses": 14,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 138302040,
+    "name": "Captain Slackbladder",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98091430,
+    "alliance_id": 495729389,
+    "corporation_name": "Wok The Dog",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 138302040,
+      "name": "Captain Slackbladder",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93364996,
+      "name": "Burnin Jays",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1948910226,
+      "name": "Tarces",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117874300,
+      "name": "The Milk Miner",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90783566,
+      "name": "Jartan Zorkun",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SDF VISION",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

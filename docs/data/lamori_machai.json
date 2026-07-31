@@ -1,0 +1,40 @@
+{
+  "character_id": 96020662,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 272405573,
+    "name": "Tukuarikan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 763838205,
+    "alliance_id": null,
+    "corporation_name": "Appetite 4 Destruction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 272405573,
+      "name": "Tukuarikan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112700380,
+      "name": "Kahla Rhal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96014249,
+      "name": "Nazeem Anthar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lamori Machai",
+  "corporation_id": 98186730,
+  "alliance_id": 1354830081,
+  "corporation_name": "Brothers of Tyr",
+  "alliance_name": "Goonswarm Federation"
+}

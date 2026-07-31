@@ -1,0 +1,52 @@
+{
+  "character_id": 1205035991,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 1312548849,
+    "name": "Headhunter JAX",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000009,
+    "alliance_id": null,
+    "corporation_name": "Caldari Provisions",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1312548849,
+      "name": "Headhunter JAX",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94235959,
+      "name": "Eadrom Vintarus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95830261,
+      "name": "Hansser Han",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 813471515,
+      "name": "Warn1nG Soul",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 909008587,
+      "name": "CrackerC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mk25",
+  "corporation_id": 98695005,
+  "alliance_id": 1354830081,
+  "corporation_name": "Splintered Dreams",
+  "alliance_name": "Goonswarm Federation"
+}

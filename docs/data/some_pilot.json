@@ -1,0 +1,40 @@
+{
+  "character_id": 2112636614,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2119679925,
+    "name": "Harlivic",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98726959,
+    "alliance_id": 99012181,
+    "corporation_name": "HodDogKorp",
+    "alliance_name": "Alea jacta est."
+  },
+  "top_killers": [
+    {
+      "id": 2119679925,
+      "name": "Harlivic",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122738640,
+      "name": "Beoken03",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123113266,
+      "name": "Agatha Kado",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Some Pilot",
+  "corporation_id": 98729504,
+  "alliance_id": 99013256,
+  "corporation_name": "Some Corporation.",
+  "alliance_name": "Tactical Feeding."
+}

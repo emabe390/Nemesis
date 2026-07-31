@@ -1,0 +1,52 @@
+{
+  "character_id": 2124242001,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 833004444,
+    "name": "DerOdin",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 679900455,
+    "alliance_id": 1354830081,
+    "corporation_name": "Kriegsmarinewerft",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 833004444,
+      "name": "DerOdin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1920380537,
+      "name": "Shagdurug",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95118114,
+      "name": "deus omnimu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1350013104,
+      "name": "Renegats",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113080896,
+      "name": "Party Co",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tolan Fury",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

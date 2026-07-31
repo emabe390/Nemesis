@@ -1,0 +1,40 @@
+{
+  "character_id": 2121975910,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1800395514,
+    "name": "poggly's child",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98000855,
+    "alliance_id": 99010877,
+    "corporation_name": "Titan Inc.",
+    "alliance_name": "Out of the Blue."
+  },
+  "top_killers": [
+    {
+      "id": 1800395514,
+      "name": "poggly's child",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118965239,
+      "name": "Toby Flenderson Nogodplease",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123161970,
+      "name": "Philippe D'Avignone",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vivir Albakhan",
+  "corporation_id": 98765306,
+  "alliance_id": 99012009,
+  "corporation_name": "Soltech Holdings",
+  "alliance_name": "Minmatar Fleet Associates"
+}

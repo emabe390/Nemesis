@@ -1,0 +1,52 @@
+{
+  "character_id": 2123897097,
+  "total_losses": 17,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 2123098219,
+    "name": "Philip Murgy",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 423280073,
+    "alliance_id": 99002217,
+    "corporation_name": "Black Rebel Rifter Club",
+    "alliance_name": "The Devil's Tattoo"
+  },
+  "top_killers": [
+    {
+      "id": 2123098219,
+      "name": "Philip Murgy",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93915317,
+      "name": "Friedrich VonHayek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124179898,
+      "name": "Entwa'Dumela",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96864600,
+      "name": "Plevboi Almarathan",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 768915824,
+      "name": "Kelon Darklight",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Redek Fidard",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

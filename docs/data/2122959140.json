@@ -1,0 +1,52 @@
+{
+  "character_id": 2122959140,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 91078475,
+    "name": "Adam Lees",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91078475,
+      "name": "Adam Lees",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91628728,
+      "name": "Illustras Mortales",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95865832,
+      "name": "John Clemson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1604582814,
+      "name": "whitegreenred",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Experiment 1",
+  "corporation_id": 98457033,
+  "alliance_id": 1900696668,
+  "corporation_name": "United Mining and Hauling Inc",
+  "alliance_name": "The Initiative."
+}

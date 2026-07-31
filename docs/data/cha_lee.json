@@ -1,0 +1,46 @@
+{
+  "character_id": 2120935000,
+  "total_losses": 5,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 96302482,
+    "name": "John F Gore",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98380820,
+    "alliance_id": 99009511,
+    "corporation_name": "Exit-Strategy",
+    "alliance_name": "Unchained Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 96302482,
+      "name": "John F Gore",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95071769,
+      "name": "Dexter Awake",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120814886,
+      "name": "xJennyD",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121239816,
+      "name": "Aki Aiska",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cha-Lee",
+  "corporation_id": 1000171,
+  "alliance_id": null,
+  "corporation_name": "Republic University",
+  "alliance_name": null
+}

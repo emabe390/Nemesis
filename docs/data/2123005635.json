@@ -1,0 +1,40 @@
+{
+  "character_id": 2123005635,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2121205170,
+    "name": "wyltakeit",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98710383,
+    "alliance_id": 495729389,
+    "corporation_name": "Late night poets",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2121205170,
+      "name": "wyltakeit",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122158066,
+      "name": "North Hades",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122853126,
+      "name": "Viktor Sebastian",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MiddleQueen",
+  "corporation_id": 98773773,
+  "alliance_id": 1900696668,
+  "corporation_name": "Project.Nova",
+  "alliance_name": "The Initiative."
+}

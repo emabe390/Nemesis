@@ -1,0 +1,52 @@
+{
+  "character_id": 2123525104,
+  "total_losses": 22,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 2122593833,
+    "name": "Viola Terra",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98785258,
+    "alliance_id": 99013786,
+    "corporation_name": "Redshift Horizon",
+    "alliance_name": "Cryonic Origin Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2122593833,
+      "name": "Viola Terra",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 90753521,
+      "name": "Sinimox",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119166796,
+      "name": "Dark Evan Swan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121050517,
+      "name": "Stcake",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90514148,
+      "name": "Yanoo L",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "John Speecker",
+  "corporation_id": 98091301,
+  "alliance_id": 99003581,
+  "corporation_name": "RomFleet",
+  "alliance_name": "Fraternity."
+}

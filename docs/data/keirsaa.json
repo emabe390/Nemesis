@@ -1,0 +1,40 @@
+{
+  "character_id": 2121990569,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116532685,
+    "name": "WeX SM",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98040755,
+    "alliance_id": 99005065,
+    "corporation_name": "Hard Knocks Inc.",
+    "alliance_name": "Hard Knocks Citizens"
+  },
+  "top_killers": [
+    {
+      "id": 2116532685,
+      "name": "WeX SM",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123628230,
+      "name": "Swoledemort",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123677397,
+      "name": "Bilbo Shaggins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keirsaa",
+  "corporation_id": 98764953,
+  "alliance_id": 99011248,
+  "corporation_name": "Twcortic",
+  "alliance_name": "Big Green Fly"
+}

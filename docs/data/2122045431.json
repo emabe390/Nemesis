@@ -1,0 +1,40 @@
+{
+  "character_id": 2122045431,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91857699,
+    "name": "Puun Arthie",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98767815,
+    "alliance_id": 99009324,
+    "corporation_name": "SmartBomb Mechanics",
+    "alliance_name": "Wardec Mechanics"
+  },
+  "top_killers": [
+    {
+      "id": 91857699,
+      "name": "Puun Arthie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 752064542,
+      "name": "Lazr GoPew",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1413346124,
+      "name": "drones man",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "StarBomber 6",
+  "corporation_id": 98679876,
+  "alliance_id": null,
+  "corporation_name": "Bob Wills It",
+  "alliance_name": null
+}

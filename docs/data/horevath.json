@@ -1,0 +1,52 @@
+{
+  "character_id": 93462250,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 94670799,
+    "name": "Yaleni",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98266795,
+    "alliance_id": null,
+    "corporation_name": "Blackguard Inc.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94670799,
+      "name": "Yaleni",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94684098,
+      "name": "Vanadia Ernaga",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121068963,
+      "name": "Yak of Mors",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121525684,
+      "name": "Lana Gurista's",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123981036,
+      "name": "Hino Kusoni",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Horevath",
+  "corporation_id": 98835101,
+  "alliance_id": null,
+  "corporation_name": "Sirens in Scarlet",
+  "alliance_name": null
+}

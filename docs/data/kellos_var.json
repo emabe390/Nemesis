@@ -1,0 +1,40 @@
+{
+  "character_id": 2124121284,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91530658,
+    "name": "Valkanto FitzGerald",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98686314,
+    "alliance_id": 99008985,
+    "corporation_name": "Violator The Clown",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 91530658,
+      "name": "Valkanto FitzGerald",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120178847,
+      "name": "Badbo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123727278,
+      "name": "Orporas Anzomi",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kellos Var",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

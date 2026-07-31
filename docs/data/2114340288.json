@@ -1,0 +1,40 @@
+{
+  "character_id": 2114340288,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114258575,
+    "name": "mysterious oriental",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98524084,
+    "alliance_id": 99003581,
+    "corporation_name": "Chi Gua",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2114258575,
+      "name": "mysterious oriental",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123721775,
+      "name": "Youleland",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124274809,
+      "name": "Magah Ohu",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "The Omegathron",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

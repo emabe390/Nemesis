@@ -1,0 +1,52 @@
+{
+  "character_id": 2123504778,
+  "total_losses": 10,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 2122351738,
+    "name": "Angel Takenoko",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98771388,
+    "alliance_id": 555959926,
+    "corporation_name": "Tactical Grace.",
+    "alliance_name": "Vanguard."
+  },
+  "top_killers": [
+    {
+      "id": 2122351738,
+      "name": "Angel Takenoko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90897217,
+      "name": "Josh Dian",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1615140423,
+      "name": "The Magnifico",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1822052106,
+      "name": "Commander Azzag",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113340961,
+      "name": "Medusa of Eve",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Macro Ortega",
+  "corporation_id": 98226756,
+  "alliance_id": 99003995,
+  "corporation_name": "United Offensive Operations",
+  "alliance_name": "Invidia Gloriae Comes"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119688256,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94781822,
+    "name": "Ferry Style",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98030681,
+    "alliance_id": 1900696668,
+    "corporation_name": "ANGELGARD.",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 94781822,
+      "name": "Ferry Style",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 329151590,
+      "name": "Jomby",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1795859664,
+      "name": "The Naga",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Titus Archonte",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2124475500,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120537525,
+    "name": "Sophitia Freya",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98646775,
+    "alliance_id": 495729389,
+    "corporation_name": "Banana-Republic.",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 2120537525,
+      "name": "Sophitia Freya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 582631082,
+      "name": "Nerv Moretta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118137145,
+      "name": "Maiden Soulburner",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kerarli",
+  "corporation_id": 98836641,
+  "alliance_id": null,
+  "corporation_name": "Xamlo Corporate Security",
+  "alliance_name": null
+}

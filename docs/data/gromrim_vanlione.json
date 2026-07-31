@@ -1,0 +1,34 @@
+{
+  "character_id": 95070400,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 96293261,
+    "name": "Eula Ruler",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98279775,
+    "alliance_id": 1354830081,
+    "corporation_name": "Deep Space Conquerors",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 96293261,
+      "name": "Eula Ruler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114428413,
+      "name": "GERDIPO WEL",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Gromrim VanLione",
+  "corporation_id": 98808722,
+  "alliance_id": null,
+  "corporation_name": "The Ultraviolet Control",
+  "alliance_name": null
+}

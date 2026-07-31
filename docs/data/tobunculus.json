@@ -1,0 +1,52 @@
+{
+  "character_id": 2123884823,
+  "total_losses": 20,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 2122753404,
+    "name": "CoffeeOrTea02",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98816688,
+    "alliance_id": 99014768,
+    "corporation_name": "NanYiChaShe",
+    "alliance_name": "Storm Petrel Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2122753404,
+      "name": "CoffeeOrTea02",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94712373,
+      "name": "Bullet Anarchy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95502126,
+      "name": "Arya Zanzy",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 518191714,
+      "name": "Sravaw",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tobunculus",
+  "corporation_id": 1000165,
+  "alliance_id": null,
+  "corporation_name": "Hedion University",
+  "alliance_name": null
+}

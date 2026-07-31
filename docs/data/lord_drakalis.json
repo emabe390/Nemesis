@@ -1,0 +1,52 @@
+{
+  "character_id": 2123989134,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120279046,
+    "name": "GoBlock2021",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120279046,
+      "name": "GoBlock2021",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91379068,
+      "name": "Jan Black",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93488784,
+      "name": "Icarus Tendris",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 804683739,
+      "name": "Character 804683739",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117654545,
+      "name": "Ondre Adare Riraille",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lord Drakalis",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

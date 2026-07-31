@@ -1,0 +1,40 @@
+{
+  "character_id": 2120035607,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 406046712,
+    "name": "Arathmen",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98662524,
+    "alliance_id": 99014163,
+    "corporation_name": "Swamp Panthers",
+    "alliance_name": "Bog Brotherhood"
+  },
+  "top_killers": [
+    {
+      "id": 406046712,
+      "name": "Arathmen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112148425,
+      "name": "Evie Kouvo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114762971,
+      "name": "Koneko Breau",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jewel Nolen",
+  "corporation_id": 98558506,
+  "alliance_id": 99005338,
+  "corporation_name": "A Blessed Bean",
+  "alliance_name": "Pandemic Horde"
+}

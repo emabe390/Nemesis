@@ -1,0 +1,40 @@
+{
+  "character_id": 2123990469,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 96021512,
+    "name": "Tankbuster",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98749845,
+    "alliance_id": 99013251,
+    "corporation_name": "Circle of Honledok",
+    "alliance_name": "Circle of Vheroka"
+  },
+  "top_killers": [
+    {
+      "id": 96021512,
+      "name": "Tankbuster",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113270573,
+      "name": "Joey Belvar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93872166,
+      "name": "s33k3r Atram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yaharia",
+  "corporation_id": 98822926,
+  "alliance_id": null,
+  "corporation_name": "The Ash and Gold",
+  "alliance_name": null
+}

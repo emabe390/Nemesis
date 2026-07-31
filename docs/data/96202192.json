@@ -1,0 +1,40 @@
+{
+  "character_id": 96202192,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114783921,
+    "name": "g0uda",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2114783921,
+      "name": "g0uda",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 1427803393,
+      "name": "Obsidian Scar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114138594,
+      "name": "Annabella Doriann",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FURYGAN Eistiras",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2119999946,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123710381,
+    "name": "Ithadrin",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123710381,
+      "name": "Ithadrin",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2114772624,
+      "name": "Sion Felicia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121161848,
+      "name": "Rairt Adoulin",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ithraides",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

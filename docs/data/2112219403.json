@@ -1,0 +1,52 @@
+{
+  "character_id": 2112219403,
+  "total_losses": 62,
+  "unique_killers": 41,
+  "nemesis": {
+    "id": 2118930038,
+    "name": "Grivennik",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98741783,
+    "alliance_id": 99007629,
+    "corporation_name": "Veridium",
+    "alliance_name": "Ferrata Victrix"
+  },
+  "top_killers": [
+    {
+      "id": 2118930038,
+      "name": "Grivennik",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90464927,
+      "name": "Jarasta Farai",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90532329,
+      "name": "Kitty Duval",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91836904,
+      "name": "Count Darwin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93477574,
+      "name": "Capsule Crush Saga",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Otis Visteen",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

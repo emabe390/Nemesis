@@ -1,0 +1,40 @@
+{
+  "character_id": 2115913382,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1021830239,
+    "name": "Roland 99",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 712577137,
+    "alliance_id": 99010015,
+    "corporation_name": "Commonwealth Mercenaries",
+    "alliance_name": "BLACKFLAG."
+  },
+  "top_killers": [
+    {
+      "id": 1021830239,
+      "name": "Roland 99",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1722420140,
+      "name": "L'assasine Noire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114929107,
+      "name": "Samuele KLLSM",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Batista John",
+  "corporation_id": 98820049,
+  "alliance_id": null,
+  "corporation_name": "Slow Life In The Minmatar",
+  "alliance_name": null
+}

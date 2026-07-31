@@ -1,0 +1,40 @@
+{
+  "character_id": 2123750264,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91245320,
+    "name": "Orion Aurorea",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98640845,
+    "alliance_id": 99011277,
+    "corporation_name": "The Inf3cted",
+    "alliance_name": "Pathog3n"
+  },
+  "top_killers": [
+    {
+      "id": 91245320,
+      "name": "Orion Aurorea",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122735384,
+      "name": "Rafiex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118118047,
+      "name": "Leyo Desp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lord Wu'an",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

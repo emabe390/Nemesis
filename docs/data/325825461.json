@@ -1,0 +1,40 @@
+{
+  "character_id": 325825461,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1042142793,
+    "name": "Joseph Flee",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98721350,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Midlife Aliens",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 1042142793,
+      "name": "Joseph Flee",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123176456,
+      "name": "Adm Jimi Pierdziawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120873305,
+      "name": "Obsidian Skar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Carter Locke",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

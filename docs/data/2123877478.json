@@ -1,0 +1,52 @@
+{
+  "character_id": 2123877478,
+  "total_losses": 7,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 92102210,
+    "name": "Selah Rania",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778569,
+    "alliance_id": 99015041,
+    "corporation_name": "Death Metal Frogs",
+    "alliance_name": "Frog Assault Command"
+  },
+  "top_killers": [
+    {
+      "id": 92102210,
+      "name": "Selah Rania",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90364875,
+      "name": "Illustrale Mortales",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91518875,
+      "name": "Wyrd Nekros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93053798,
+      "name": "Nolifer Teravoon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94507027,
+      "name": "Terra Snow",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SoapLand",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

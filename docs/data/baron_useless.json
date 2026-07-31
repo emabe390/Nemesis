@@ -1,0 +1,34 @@
+{
+  "character_id": 2124290944,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2122790309,
+    "name": "Eva Deal",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117811835,
+      "name": "Salvio",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Baron Useless",
+  "corporation_id": 98798932,
+  "alliance_id": 99014978,
+  "corporation_name": "Ore and Order",
+  "alliance_name": "freie Flotte"
+}

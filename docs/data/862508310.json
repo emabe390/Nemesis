@@ -1,0 +1,40 @@
+{
+  "character_id": 862508310,
+  "total_losses": 8,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 186312767,
+    "name": "Naxxiz",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 186312767,
+      "name": "Naxxiz",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 149849961,
+      "name": "Zmey Gorynich",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113520942,
+      "name": "Mampi Swift",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Scipio Amarrianus",
+  "corporation_id": 1000066,
+  "alliance_id": null,
+  "corporation_name": "Viziam",
+  "alliance_name": null
+}

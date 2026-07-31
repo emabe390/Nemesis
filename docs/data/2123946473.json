@@ -1,0 +1,52 @@
+{
+  "character_id": 2123946473,
+  "total_losses": 56,
+  "unique_killers": 30,
+  "nemesis": {
+    "id": 2121330340,
+    "name": "DownToZero",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 98598862,
+    "alliance_id": 99003581,
+    "corporation_name": "Chaos arbiter",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2121330340,
+      "name": "DownToZero",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2115798866,
+      "name": "BtsBma",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2122681791,
+      "name": "Sceptiksmb",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 94169599,
+      "name": "Bonescriptian Khurelem",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95353110,
+      "name": "Morathi II",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "InfiniteHeaven",
+  "corporation_id": 98777557,
+  "alliance_id": null,
+  "corporation_name": "Watch Eagle Academy",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123537392,
+  "total_losses": 50,
+  "unique_killers": 46,
+  "nemesis": {
+    "id": 90157256,
+    "name": "Character 90157256",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 2014367342,
+    "alliance_id": 99009927,
+    "corporation_name": "Blackwater USA Inc.",
+    "alliance_name": "Deepwater Hooligans"
+  },
+  "top_killers": [
+    {
+      "id": 90157256,
+      "name": "Character 90157256",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 93938269,
+      "name": "Matt Doe",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1039954645,
+      "name": "Josephine Weyland",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91435287,
+      "name": "Ian Maecos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92909349,
+      "name": "Slate Ambramotte",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "next-doorLaoWang",
+  "corporation_id": 98185110,
+  "alliance_id": 99003581,
+  "corporation_name": "Fuxi Legion",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123695253,
+  "total_losses": 12,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 166578912,
+    "name": "Kothar Ra",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98229028,
+    "alliance_id": 99015175,
+    "corporation_name": "Direct Action.",
+    "alliance_name": "Dust Up"
+  },
+  "top_killers": [
+    {
+      "id": 166578912,
+      "name": "Kothar Ra",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92694343,
+      "name": "Atticus Finch Kelcyn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95792174,
+      "name": "HA ABOCb",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 495419249,
+      "name": "Dark Motoko",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Chad Online",
+  "corporation_id": 98199332,
+  "alliance_id": 741557221,
+  "corporation_name": "Space Ants",
+  "alliance_name": "RAZOR Alliance"
+}

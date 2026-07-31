@@ -1,0 +1,40 @@
+{
+  "character_id": 2123891532,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2122514833,
+    "name": "Void Abyssal",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98825616,
+    "alliance_id": 933731581,
+    "corporation_name": "Renegade Raccoons",
+    "alliance_name": "Triumvirate."
+  },
+  "top_killers": [
+    {
+      "id": 2122514833,
+      "name": "Void Abyssal",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2123558916,
+      "name": "Charls Darwin",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116654287,
+      "name": "Albert Schniitzel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Void Abals",
+  "corporation_id": 98825616,
+  "alliance_id": 933731581,
+  "corporation_name": "Renegade Raccoons",
+  "alliance_name": "Triumvirate."
+}

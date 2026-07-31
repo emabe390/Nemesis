@@ -1,0 +1,40 @@
+{
+  "character_id": 2124225363,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 95127032,
+    "name": "Biggerest Johnson",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98748169,
+    "alliance_id": 99005178,
+    "corporation_name": "Feather Rufflers",
+    "alliance_name": "Domain Research and Mining Inst."
+  },
+  "top_killers": [
+    {
+      "id": 95127032,
+      "name": "Biggerest Johnson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 213585494,
+      "name": "Natasha Mzie",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123907597,
+      "name": "GuyBro Achasse",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Yoba Molou",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

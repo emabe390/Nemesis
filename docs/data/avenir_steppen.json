@@ -1,0 +1,52 @@
+{
+  "character_id": 2118903165,
+  "total_losses": 16,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 391166211,
+    "name": "Fenn Redfield",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 391166211,
+      "name": "Fenn Redfield",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116400551,
+      "name": "Count Euler",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91043794,
+      "name": "Clarisse Cadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92716168,
+      "name": "Agram Plox",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Avenir Steppen",
+  "corporation_id": 98776808,
+  "alliance_id": 99013823,
+  "corporation_name": "Lost in dark space",
+  "alliance_name": "Cat Scratch Fevers"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123746141,
+  "total_losses": 12,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 3020006,
+    "name": "Orpheus Tyrannos",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020006,
+      "name": "Orpheus Tyrannos",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 3,
+      "final_blows": 2
+    },
+    {
+      "id": 1335719137,
+      "name": "Red Glaze",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121959468,
+      "name": "Ahb Squatch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119257766,
+      "name": "E SHOGUN",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Houl Gaeyp'r",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

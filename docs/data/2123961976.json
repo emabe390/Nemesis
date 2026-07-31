@@ -1,0 +1,40 @@
+{
+  "character_id": 2123961976,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2114756411,
+    "name": "Nick Favor",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98827129,
+    "alliance_id": 99004344,
+    "corporation_name": "Legio Noctis",
+    "alliance_name": "Hole Control"
+  },
+  "top_killers": [
+    {
+      "id": 2114756411,
+      "name": "Nick Favor",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2114125396,
+      "name": "Jue Choe Kaiche",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2119670773,
+      "name": "Ranesumi Tin Saraki",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Viktor Thundercock",
+  "corporation_id": 98734047,
+  "alliance_id": 1354830081,
+  "corporation_name": "Carebears -With- Guns",
+  "alliance_name": "Goonswarm Federation"
+}

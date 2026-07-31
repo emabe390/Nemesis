@@ -41,14 +41,16 @@ cd backend
 pip install -r requirements.txt
 
 # First time: build database and export
-./run.sh init
+bash run.sh init
 
 # Or start from recent history only (faster)
-./run.sh init 20240101
+bash run.sh init 20240101
 
 # Weekly update (adds new days, exports, git push)
-./run.sh weekly
+bash run.sh weekly
 ```
+
+See [DEPLOY.md](DEPLOY.md) for GitHub Pages setup and automation.
 
 ## Setup
 
@@ -63,23 +65,24 @@ cd backend
 pip install -r requirements.txt
 
 # Full build (all history since 2007 — takes hours)
-./run.sh init
+bash run.sh init
 
 # Partial build (from 2024-01-01 — much faster)
-./run.sh init 20240101
+bash run.sh init 20240101
 
 # Weekly update + export + git push
-./run.sh weekly
+bash run.sh weekly
 ```
 
 ### Commands
 
 ```bash
-./run.sh init [START_DATE]    # Build database. Optional YYYYMMDD start.
-./run.sh weekly              # Update DB, export JSON, git commit+push
-./run.sh export              # Export only (no DB update)
-./run.sh stats               # Show database statistics
-./run.sh help                # Full help
+bash run.sh init [START_DATE]    # Build database. Optional YYYYMMDD start.
+bash run.sh backfill END_DATE   # Import history up to END_DATE (expand backward).
+bash run.sh weekly              # Update DB, export JSON, git commit+push
+bash run.sh export              # Export only (no DB update)
+bash run.sh stats               # Show database statistics
+bash run.sh help                # Full help
 ```
 
 ### Environment Variables
@@ -93,7 +96,22 @@ PYTHON=python3                    # Python executable
 
 Example with overrides:
 ```bash
-NEMESIS_DB=/mnt/usb/nemesis.db NEMESIS_MIN_LOSSES=5 ./run.sh weekly
+NEMESIS_DB=/mnt/usb/nemesis.db NEMESIS_MIN_LOSSES=5 bash run.sh weekly
+```
+
+### Partial Build + Backfill
+
+Start from 2026 for quick results, then fill in history later:
+
+```bash
+# Start from 2026 (minutes instead of hours)
+bash run.sh init 20260101
+
+# Weekly updates
+bash run.sh weekly
+
+# Eventually, backfill everything before 2026
+bash run.sh backfill 20251231
 ```
 
 ### Database Size
@@ -112,8 +130,8 @@ NEMESIS_DB=/mnt/usb/nemesis.db NEMESIS_MIN_LOSSES=5 ./run.sh weekly
 export NEMESIS_DB=/mnt/usb/nemesis.db
 export NEMESIS_OUTPUT=/mnt/usb/nemesis-data
 
-./run.sh init
-./run.sh weekly
+bash run.sh init
+bash run.sh weekly
 
 # Serve locally
 python -m http.server 8000 --directory /mnt/usb/nemesis-data/
@@ -129,7 +147,7 @@ crontab -e
 
 Add:
 ```cron
-0 3 * * 1 cd /path/to/nemesis/backend && ./run.sh weekly >> /path/to/nemesis/cron.log 2>&1
+0 3 * * 1 cd /path/to/nemesis/backend && bash run.sh weekly >> /path/to/nemesis/cron.log 2>&1
 ```
 
 ### systemd Timer (Linux)
@@ -143,7 +161,7 @@ After=network.target
 [Service]
 Type=oneshot
 WorkingDirectory=/path/to/nemesis/backend
-ExecStart=/path/to/nemesis/backend/run.sh weekly
+ExecStart=bash /path/to/nemesis/backend/run.sh weekly
 User=pi
 ```
 
@@ -191,6 +209,7 @@ Create `~/Library/LaunchAgents/com.nemesis.tracker.plist`:
   <string>com.nemesis.tracker</string>
   <key>ProgramArguments</key>
   <array>
+    <string>bash</string>
     <string>/path/to/nemesis/backend/run.sh</string>
     <string>weekly</string>
   </array>

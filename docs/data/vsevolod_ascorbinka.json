@@ -1,0 +1,40 @@
+{
+  "character_id": 2123094849,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94014054,
+    "name": "Cruel Savage",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98331863,
+    "alliance_id": null,
+    "corporation_name": "North Castle",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 94014054,
+      "name": "Cruel Savage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 907866878,
+      "name": "Lizzon",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93689550,
+      "name": "Character 93689550",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vsevolod Ascorbinka",
+  "corporation_id": 98806836,
+  "alliance_id": 99013915,
+  "corporation_name": "Synthetic Corp.",
+  "alliance_name": "Wings of Independence."
+}

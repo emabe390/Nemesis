@@ -1,0 +1,52 @@
+{
+  "character_id": 1493761058,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 691633815,
+    "name": "pater steve",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98531454,
+    "alliance_id": 1354830081,
+    "corporation_name": "Asteroid Farm Unlimited",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 691633815,
+      "name": "pater steve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95283791,
+      "name": "Kornalus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 278906541,
+      "name": "NewRoman",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118930038,
+      "name": "Grivennik",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122700765,
+      "name": "Nada Tor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Astrino",
+  "corporation_id": 98531454,
+  "alliance_id": 1354830081,
+  "corporation_name": "Asteroid Farm Unlimited",
+  "alliance_name": "Goonswarm Federation"
+}

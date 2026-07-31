@@ -1,0 +1,46 @@
+{
+  "character_id": 2123215246,
+  "total_losses": 6,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 805624334,
+    "name": "the destroyer01",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 583867044,
+    "alliance_id": 1900696668,
+    "corporation_name": "Ceptacemia",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 805624334,
+      "name": "the destroyer01",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 964330275,
+      "name": "Aegis Stormborn",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90480556,
+      "name": "Maxwell Smiles",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96128670,
+      "name": "Pterry Dactyl Kasterborous",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "You Trynna Poisonme",
+  "corporation_id": 98705678,
+  "alliance_id": 99012009,
+  "corporation_name": "Minmatar Fleet Logistics",
+  "alliance_name": "Minmatar Fleet Associates"
+}

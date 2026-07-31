@@ -1,0 +1,40 @@
+{
+  "character_id": 2123555260,
+  "total_losses": 11,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91643796,
+    "name": "Venum Einherjar's",
+    "kill_count": 9,
+    "final_blows": 9,
+    "corporation_id": 98557697,
+    "alliance_id": 1900696668,
+    "corporation_name": "Lost Legends",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 91643796,
+      "name": "Venum Einherjar's",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2116929585,
+      "name": "Task4",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124544241,
+      "name": "Character 2124544241",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "BAYST3",
+  "corporation_id": 98817783,
+  "alliance_id": 495729389,
+  "corporation_name": "Silent Sojourner",
+  "alliance_name": "Shadow Cartel"
+}

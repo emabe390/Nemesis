@@ -1,0 +1,46 @@
+{
+  "character_id": 2122607209,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 2114805278,
+    "name": "624-31-58",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98727038,
+    "alliance_id": null,
+    "corporation_name": "Orbital Salvage and Satellite Repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2114805278,
+      "name": "624-31-58",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118465313,
+      "name": "Hauska",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121428297,
+      "name": "Rocannon Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123318117,
+      "name": "Interfector Apis",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maxim Detrois",
+  "corporation_id": 98822946,
+  "alliance_id": null,
+  "corporation_name": "Agents of Rapid Unscheduled Disassembly",
+  "alliance_name": null
+}

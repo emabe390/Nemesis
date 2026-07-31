@@ -1,0 +1,52 @@
+{
+  "character_id": 2122847108,
+  "total_losses": 17,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 2122324432,
+    "name": "PROJECT24",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98407286,
+    "alliance_id": null,
+    "corporation_name": "KARNAGE",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2122324432,
+      "name": "PROJECT24",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122398193,
+      "name": "DoR FABS",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91073037,
+      "name": "Honningbarnet",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 409301765,
+      "name": "The Templariarch",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zadal Nata",
+  "corporation_id": 98830254,
+  "alliance_id": null,
+  "corporation_name": "Shadow Tax Collective",
+  "alliance_name": null
+}

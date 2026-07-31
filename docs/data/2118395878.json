@@ -1,0 +1,52 @@
+{
+  "character_id": 2118395878,
+  "total_losses": 24,
+  "unique_killers": 15,
+  "nemesis": {
+    "id": 90420771,
+    "name": "Ellie Sade",
+    "kill_count": 7,
+    "final_blows": 7,
+    "corporation_id": 98763427,
+    "alliance_id": 99012852,
+    "corporation_name": "Catskull Horizons",
+    "alliance_name": "Grimskulls"
+  },
+  "top_killers": [
+    {
+      "id": 90420771,
+      "name": "Ellie Sade",
+      "kill_count": 7,
+      "final_blows": 7
+    },
+    {
+      "id": 2122253320,
+      "name": "Naraiwe Artanis",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2115284156,
+      "name": "Blind Cyborg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019581,
+      "name": "Artemis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Keroldur Seig Atavuli",
+  "corporation_id": 98669072,
+  "alliance_id": null,
+  "corporation_name": "Wormhole Academy for Exploration and Yeet",
+  "alliance_name": null
+}

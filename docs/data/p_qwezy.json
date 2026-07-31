@@ -1,0 +1,52 @@
+{
+  "character_id": 2124250372,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 874614389,
+    "name": "Maria Fernandez",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000182,
+    "alliance_id": null,
+    "corporation_name": "Tribal Liberation Force",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 874614389,
+      "name": "Maria Fernandez",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91015522,
+      "name": "Character 91015522",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93824648,
+      "name": "Thelonious Chelda",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94855503,
+      "name": "Falling Lief",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95224056,
+      "name": "Suzanne Khale",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "P Qwezy",
+  "corporation_id": 98824965,
+  "alliance_id": 99010240,
+  "corporation_name": "Aurelion Frame",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 92785380,
+  "total_losses": 27,
+  "unique_killers": 19,
+  "nemesis": {
+    "id": 91078475,
+    "name": "Adam Lees",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91078475,
+      "name": "Adam Lees",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 621128928,
+      "name": "UKLynch",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1105746255,
+      "name": "Nemalex",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1427987236,
+      "name": "Loup S0litaire",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114092250,
+      "name": "AeroVero Penguins",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Psycho Punks",
+  "corporation_id": 98722042,
+  "alliance_id": null,
+  "corporation_name": "Digital Ghosts",
+  "alliance_name": null
+}

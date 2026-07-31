@@ -1,0 +1,52 @@
+{
+  "character_id": 2122833163,
+  "total_losses": 24,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 11,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 11,
+      "final_blows": 1
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 4,
+      "final_blows": 2
+    },
+    {
+      "id": 2122783355,
+      "name": "Kaiyuan",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2122792922,
+      "name": "Yuanyuan 01",
+      "kill_count": 2,
+      "final_blows": 1
+    },
+    {
+      "id": 2114273877,
+      "name": "Newbie McNewberson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kaiyuan alpha",
+  "corporation_id": 98409330,
+  "alliance_id": 1354830081,
+  "corporation_name": "Ascendance",
+  "alliance_name": "Goonswarm Federation"
+}

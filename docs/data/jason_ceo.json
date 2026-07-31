@@ -1,0 +1,40 @@
+{
+  "character_id": 2123766068,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92660274,
+    "name": "Koloblicin Rahl",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98390751,
+    "alliance_id": null,
+    "corporation_name": "The Lazerus Project",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92660274,
+      "name": "Koloblicin Rahl",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122514833,
+      "name": "Void Abyssal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jason CEO",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

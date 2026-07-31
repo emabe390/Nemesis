@@ -1,0 +1,52 @@
+{
+  "character_id": 2120882599,
+  "total_losses": 14,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2123350822,
+    "name": "Bombardio Crocodilo",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98819994,
+    "alliance_id": null,
+    "corporation_name": "The Horizon Jurisdiction",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123350822,
+      "name": "Bombardio Crocodilo",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 1099051589,
+      "name": "Picard X",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1632015551,
+      "name": "Zakalve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 977765732,
+      "name": "MiGe",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1432847070,
+      "name": "ArchvAngel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Elisabeth Goodman",
+  "corporation_id": 98599770,
+  "alliance_id": 99003581,
+  "corporation_name": "Fraternity Building Management",
+  "alliance_name": "Fraternity."
+}

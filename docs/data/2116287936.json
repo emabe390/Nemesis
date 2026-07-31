@@ -1,0 +1,52 @@
+{
+  "character_id": 2116287936,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1406208348,
+      "name": "Stealthbot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2117709958,
+      "name": "big brain ideas",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94074380,
+      "name": "Anette Halbe-stunde",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96723947,
+      "name": "rusty car",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Cardisz Miromme",
+  "corporation_id": 98730577,
+  "alliance_id": 99004344,
+  "corporation_name": "Unreasonable Neighbours",
+  "alliance_name": "Hole Control"
+}

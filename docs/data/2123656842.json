@@ -1,0 +1,40 @@
+{
+  "character_id": 2123656842,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115451159,
+    "name": "Mogul Graham",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98316453,
+    "alliance_id": 99010265,
+    "corporation_name": "Outfit 418",
+    "alliance_name": "Blue Loot Not Included"
+  },
+  "top_killers": [
+    {
+      "id": 2115451159,
+      "name": "Mogul Graham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92878991,
+      "name": "Sara Habalu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1568814036,
+      "name": "Langz",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Auru Miserado",
+  "corporation_id": 98809227,
+  "alliance_id": null,
+  "corporation_name": "Raiders Crew",
+  "alliance_name": null
+}

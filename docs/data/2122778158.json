@@ -1,0 +1,52 @@
+{
+  "character_id": 2122778158,
+  "total_losses": 11,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 2114430598,
+    "name": "Rednas Kela",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98633161,
+    "alliance_id": 99009163,
+    "corporation_name": "Uabros",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2114430598,
+      "name": "Rednas Kela",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91609412,
+      "name": "Bowser Kane",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114090787,
+      "name": "Vizsla Rob",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 105165308,
+      "name": "Marclonus",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114441427,
+      "name": "Mari Kela",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Count Tingzard",
+  "corporation_id": 98832842,
+  "alliance_id": 99012009,
+  "corporation_name": "Ellemel",
+  "alliance_name": "Minmatar Fleet Associates"
+}

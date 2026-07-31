@@ -1,0 +1,40 @@
+{
+  "character_id": 2123278996,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113321478,
+      "name": "Nishikinomaki Ms",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118469291,
+      "name": "Tama Ajatar",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Uittakka Otsito",
+  "corporation_id": 98367903,
+  "alliance_id": 99007887,
+  "corporation_name": "Kladdkaka Incorporated",
+  "alliance_name": "Brotherhood of Spacers"
+}

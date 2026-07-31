@@ -1,0 +1,52 @@
+{
+  "character_id": 2119851788,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 91975260,
+    "name": "Baern Ophelan",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1000181,
+    "alliance_id": null,
+    "corporation_name": "Federal Defense Union",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91975260,
+      "name": "Baern Ophelan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2124427256,
+      "name": "Portnick",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94495114,
+      "name": "Rage Zombie",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 239952071,
+      "name": "HonkiPonki",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1916140599,
+      "name": "Bryan Yakinov",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zaccheo",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

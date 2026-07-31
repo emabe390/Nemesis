@@ -1,0 +1,52 @@
+{
+  "character_id": 2117248438,
+  "total_losses": 54,
+  "unique_killers": 42,
+  "nemesis": {
+    "id": 93613656,
+    "name": "Thjodrekk",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98482256,
+    "alliance_id": null,
+    "corporation_name": "Blood Reavers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93613656,
+      "name": "Thjodrekk",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 91127838,
+      "name": "Character 91127838",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 204263288,
+      "name": "Lucifer Lichtbringer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 273148724,
+      "name": "Herjaza",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 810739761,
+      "name": "Cizani",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Luthaerin Gemreaver",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

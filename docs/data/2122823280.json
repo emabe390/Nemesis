@@ -1,0 +1,52 @@
+{
+  "character_id": 2122823280,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2123418810,
+    "name": "Icurian",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98558506,
+    "alliance_id": 99005338,
+    "corporation_name": "A Blessed Bean",
+    "alliance_name": "Pandemic Horde"
+  },
+  "top_killers": [
+    {
+      "id": 2123418810,
+      "name": "Icurian",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91119195,
+      "name": "Trx Headroom",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123242374,
+      "name": "Evil Hecate",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123788240,
+      "name": "Rotmother",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 2122823280",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

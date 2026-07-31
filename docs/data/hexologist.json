@@ -1,0 +1,40 @@
+{
+  "character_id": 2120490885,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1009853321,
+    "name": "Spirited",
+    "kill_count": 8,
+    "final_blows": 8,
+    "corporation_id": 773499566,
+    "alliance_id": 1900696668,
+    "corporation_name": "The Graduates",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 1009853321,
+      "name": "Spirited",
+      "kill_count": 8,
+      "final_blows": 8
+    },
+    {
+      "id": 2118230385,
+      "name": "Xshaobao LD",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2124194875,
+      "name": "LCASS1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hexologist",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123020890,
+  "total_losses": 11,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120340275,
+    "name": "HeavyTree",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98790733,
+    "alliance_id": null,
+    "corporation_name": "Heavy's Slaves",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120340275,
+      "name": "HeavyTree",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 96608657,
+      "name": "Krutor Mordorr",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94558331,
+      "name": "Xevus Rayl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2116816249,
+      "name": "Nazuka kerck",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123237969,
+      "name": "PeachCreamPie",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Greedy Agil",
+  "corporation_id": 98790733,
+  "alliance_id": null,
+  "corporation_name": "Heavy's Slaves",
+  "alliance_name": null
+}

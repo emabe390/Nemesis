@@ -1,0 +1,40 @@
+{
+  "character_id": 2124356835,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123012013,
+    "name": "UNIT YOKOHAMA",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98497495,
+    "alliance_id": 99003995,
+    "corporation_name": "RUCIHIIII",
+    "alliance_name": "Invidia Gloriae Comes"
+  },
+  "top_killers": [
+    {
+      "id": 2123012013,
+      "name": "UNIT YOKOHAMA",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122790309,
+      "name": "Eva Deal",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xeralyth",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

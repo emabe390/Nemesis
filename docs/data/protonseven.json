@@ -1,0 +1,52 @@
+{
+  "character_id": 2123617324,
+  "total_losses": 49,
+  "unique_killers": 13,
+  "nemesis": {
+    "id": 94377240,
+    "name": "Gertrude the Goat",
+    "kill_count": 13,
+    "final_blows": 13,
+    "corporation_id": 1282059165,
+    "alliance_id": 1727758877,
+    "corporation_name": "Van Diemen's Demise",
+    "alliance_name": "Northern Coalition."
+  },
+  "top_killers": [
+    {
+      "id": 94377240,
+      "name": "Gertrude the Goat",
+      "kill_count": 13,
+      "final_blows": 13
+    },
+    {
+      "id": 2123852386,
+      "name": "Old Redcap Sly",
+      "kill_count": 9,
+      "final_blows": 9
+    },
+    {
+      "id": 2120254873,
+      "name": "CASTOLE",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 2119554191,
+      "name": "Kanetena Bastanold",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2122454426,
+      "name": "PlebAbuser",
+      "kill_count": 3,
+      "final_blows": 3
+    }
+  ],
+  "character_name": "ProtonSeven",
+  "corporation_id": 98831018,
+  "alliance_id": 1354830081,
+  "corporation_name": "ProtonStorm Dynamics Works",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2121337330,
+  "total_losses": 9,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 677728662,
+    "name": "ORACOM",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98108721,
+    "alliance_id": 99007636,
+    "corporation_name": "Stryker Industries",
+    "alliance_name": "Stryker Group"
+  },
+  "top_killers": [
+    {
+      "id": 677728662,
+      "name": "ORACOM",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90975738,
+      "name": "Kragol Beldrulf",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95246477,
+      "name": "Chakra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95890817,
+      "name": "Kacela Komodo Bane",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 159280380,
+      "name": "Hans I",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "XL-Z",
+  "corporation_id": 1000044,
+  "alliance_id": null,
+  "corporation_name": "School of Applied Knowledge",
+  "alliance_name": null
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 92606714,
+  "total_losses": 10,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 92443894,
+    "name": "Ventora Gengod",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 98180098,
+    "alliance_id": 99002685,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "Synergy of Steel"
+  },
+  "top_killers": [
+    {
+      "id": 92443894,
+      "name": "Ventora Gengod",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 94699857,
+      "name": "Xentora Yazria",
+      "kill_count": 5,
+      "final_blows": 5
+    }
+  ],
+  "character_name": "Zenturia Lazair",
+  "corporation_id": 1000166,
+  "alliance_id": null,
+  "corporation_name": "Imperial Academy",
+  "alliance_name": null
+}

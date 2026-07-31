@@ -1,0 +1,34 @@
+{
+  "character_id": 1206432441,
+  "total_losses": 5,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 303526372,
+    "name": "joshcosh",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 355443127,
+    "alliance_id": 1354830081,
+    "corporation_name": "ANZAC ALLIANCE",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 303526372,
+      "name": "joshcosh",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 1198327053,
+      "name": "BeshenijElectroforeznik",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Character 1206432441",
+  "corporation_id": 98822112,
+  "alliance_id": null,
+  "corporation_name": "Mysterion Inc",
+  "alliance_name": null
+}

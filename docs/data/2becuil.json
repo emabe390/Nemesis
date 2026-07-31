@@ -1,0 +1,40 @@
+{
+  "character_id": 1840700579,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2124017065,
+    "name": "Harry W8",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98826578,
+    "alliance_id": null,
+    "corporation_name": "BeCuil Inc",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2124017065,
+      "name": "Harry W8",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 91926604,
+      "name": "Bobby Kaleto",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96290059,
+      "name": "Thomas Ilthen",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "2beCuil",
+  "corporation_id": 98826578,
+  "alliance_id": null,
+  "corporation_name": "BeCuil Inc",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123211644,
+  "total_losses": 14,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 90137888,
+    "name": "TEL''C",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98824542,
+    "alliance_id": 99014092,
+    "corporation_name": "South Gal Standing",
+    "alliance_name": "Quafe Liberation Front"
+  },
+  "top_killers": [
+    {
+      "id": 90137888,
+      "name": "TEL''C",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95299451,
+      "name": "Lucian Lockard",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113477972,
+      "name": "Logan DeGreaux",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122566611,
+      "name": "Rubi Anambrelle",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92625209,
+      "name": "Den XiaoPing",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vosenne Yor",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123332510,
+  "total_losses": 15,
+  "unique_killers": 11,
+  "nemesis": {
+    "id": 93214684,
+    "name": "Powny Black",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98234292,
+    "alliance_id": null,
+    "corporation_name": "Quantum Studies Institute",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93214684,
+      "name": "Powny Black",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95957241,
+      "name": "Anastasiya Lisovskaya",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1639100631,
+      "name": "Blade RU",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112393255,
+      "name": "Konnen Jung",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SleepyTV",
+  "corporation_id": 98633815,
+  "alliance_id": 99003995,
+  "corporation_name": "Ether Element",
+  "alliance_name": "Invidia Gloriae Comes"
+}

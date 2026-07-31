@@ -1,0 +1,40 @@
+{
+  "character_id": 2124014115,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 447255540,
+    "name": "Falina",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 772638496,
+    "alliance_id": 99006249,
+    "corporation_name": "Disaster Area",
+    "alliance_name": "DISASTER Delivery Service"
+  },
+  "top_killers": [
+    {
+      "id": 447255540,
+      "name": "Falina",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 813634421,
+      "name": "SanZo Fengi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1181492764,
+      "name": "SgtSlacker",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Professor Winkle",
+  "corporation_id": 1000115,
+  "alliance_id": null,
+  "corporation_name": "University of Caille",
+  "alliance_name": null
+}

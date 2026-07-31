@@ -1,0 +1,52 @@
+{
+  "character_id": 2123684884,
+  "total_losses": 15,
+  "unique_killers": 12,
+  "nemesis": {
+    "id": 467842482,
+    "name": "Johan Marberg",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1248528484,
+    "alliance_id": 701459600,
+    "corporation_name": "SoE Roughriders",
+    "alliance_name": "Electus Matari"
+  },
+  "top_killers": [
+    {
+      "id": 467842482,
+      "name": "Johan Marberg",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 647907454,
+      "name": "Fighter Bulls",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1761145024,
+      "name": "Dato Koppla",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93848496,
+      "name": "MagicPeanut",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 609879808,
+      "name": "Armid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kolirayas",
+  "corporation_id": 98819127,
+  "alliance_id": null,
+  "corporation_name": "SEED CN",
+  "alliance_name": null
+}

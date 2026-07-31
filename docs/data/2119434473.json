@@ -1,0 +1,40 @@
+{
+  "character_id": 2119434473,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1098222196,
+    "name": "Zelbinion",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 349468365,
+    "alliance_id": 99010468,
+    "corporation_name": "Ronin Interstellar Industries",
+    "alliance_name": "Weapons Of Mass Production."
+  },
+  "top_killers": [
+    {
+      "id": 1098222196,
+      "name": "Zelbinion",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115614968,
+      "name": "Yosh Varn",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118178974,
+      "name": "GaiusGracchus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ashen Blazes",
+  "corporation_id": 98788614,
+  "alliance_id": 99013692,
+  "corporation_name": "BIack Sun Syndicate",
+  "alliance_name": "Independent Miners Alliance"
+}

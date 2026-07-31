@@ -1,0 +1,52 @@
+{
+  "character_id": 94923806,
+  "total_losses": 9,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93433283,
+    "name": "Station Clear",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98348583,
+    "alliance_id": null,
+    "corporation_name": "Circling Vultures",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 93433283,
+      "name": "Station Clear",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 713029960,
+      "name": "Admiral Traun",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114354000,
+      "name": "Character 2114354000",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118795845,
+      "name": "Yvare en Divalone",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120812973,
+      "name": "SLBY CC",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Godric Starguard",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

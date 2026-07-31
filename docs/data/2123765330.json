@@ -1,0 +1,40 @@
+{
+  "character_id": 2123765330,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 740085026,
+    "name": "Character 740085026",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98144590,
+    "alliance_id": 99007257,
+    "corporation_name": "Hounds of War.",
+    "alliance_name": "Hashashin Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 740085026,
+      "name": "Character 740085026",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1743905848,
+      "name": "EF Delta",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113535129,
+      "name": "Character 2113535129",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Achura Rine",
+  "corporation_id": 98055531,
+  "alliance_id": 99010877,
+  "corporation_name": "Epidemic.",
+  "alliance_name": "Out of the Blue."
+}

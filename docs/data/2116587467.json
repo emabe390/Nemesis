@@ -1,0 +1,52 @@
+{
+  "character_id": 2116587467,
+  "total_losses": 59,
+  "unique_killers": 51,
+  "nemesis": {
+    "id": 3019582,
+    "name": "Apollo Tyrannos",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019582,
+      "name": "Apollo Tyrannos",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 3019583,
+      "name": "Tyrannos Strategos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 746290006,
+      "name": "Transporter 4",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112947035,
+      "name": "Esil Taron",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114042030,
+      "name": "M2018M",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Zhao Xiaotian",
+  "corporation_id": 98538918,
+  "alliance_id": 99003581,
+  "corporation_name": "Foredawn Business Corporation",
+  "alliance_name": "Fraternity."
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123023905,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2118893232,
+    "name": "ImperiumNovus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98730813,
+    "alliance_id": 99003581,
+    "corporation_name": "Hippo Cartel",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2118893232,
+      "name": "ImperiumNovus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2119444619,
+      "name": "Norman Wanangwa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95879269,
+      "name": "Kuno Akachi",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96160311,
+      "name": "Azure StarLight",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96548383,
+      "name": "Optimus Mecca",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morpheus King",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

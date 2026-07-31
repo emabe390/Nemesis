@@ -1,0 +1,40 @@
+{
+  "character_id": 2123383949,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 274477726,
+    "name": "John Bishop",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98748326,
+    "alliance_id": null,
+    "corporation_name": "Forgot to repair",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 274477726,
+      "name": "John Bishop",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1008801407,
+      "name": "GhettoChick",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113783887,
+      "name": "Rem Eegailo",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Arzad And",
+  "corporation_id": 98825882,
+  "alliance_id": null,
+  "corporation_name": "Valerian Charter Company",
+  "alliance_name": null
+}

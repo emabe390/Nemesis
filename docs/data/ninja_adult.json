@@ -1,0 +1,52 @@
+{
+  "character_id": 2121351054,
+  "total_losses": 29,
+  "unique_killers": 25,
+  "nemesis": {
+    "id": 2123869352,
+    "name": "Garm Bel lblis",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 1000168,
+    "alliance_id": null,
+    "corporation_name": "Federal Navy Academy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123869352,
+      "name": "Garm Bel lblis",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2120368591,
+      "name": "Laz Darkl",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90074430,
+      "name": "Chaddington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90998212,
+      "name": "Layla Cross",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91409301,
+      "name": "Cody Miles",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Ninja Adult",
+  "corporation_id": 98478883,
+  "alliance_id": 99014300,
+  "corporation_name": "Know-Nothings",
+  "alliance_name": "Negative Feedback"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123953335,
+  "total_losses": 45,
+  "unique_killers": 39,
+  "nemesis": {
+    "id": 1121789401,
+    "name": "Merc 404",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 1831131676,
+    "alliance_id": 99005839,
+    "corporation_name": "V0LTA",
+    "alliance_name": "WE FORM V0LTA"
+  },
+  "top_killers": [
+    {
+      "id": 1121789401,
+      "name": "Merc 404",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 148364279,
+      "name": "Jokastis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 326458457,
+      "name": "RICOrus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1548968926,
+      "name": "Chale'aan",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113049703,
+      "name": "King Amaarian",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Primo Bigtimus",
+  "corporation_id": 693378155,
+  "alliance_id": 498125261,
+  "corporation_name": "Unholy Knights of Cthulhu",
+  "alliance_name": "Test Alliance Please Ignore"
+}

@@ -1,0 +1,34 @@
+{
+  "character_id": 2121790703,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2120070754,
+    "name": "TY-103",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715093,
+    "alliance_id": 99003581,
+    "corporation_name": "Thunder Shield",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2120070754,
+      "name": "TY-103",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113583127,
+      "name": "Modern dwarf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "PROTON XG",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

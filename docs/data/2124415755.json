@@ -1,0 +1,52 @@
+{
+  "character_id": 2124415755,
+  "total_losses": 52,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 580537053,
+    "name": "Carusius",
+    "kill_count": 6,
+    "final_blows": 6,
+    "corporation_id": 98764551,
+    "alliance_id": 99014027,
+    "corporation_name": "PLA Fleet",
+    "alliance_name": "People's Liberation Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 580537053,
+      "name": "Carusius",
+      "kill_count": 6,
+      "final_blows": 6
+    },
+    {
+      "id": 452054418,
+      "name": "goamatze",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 92481622,
+      "name": "Karolkens Chmura",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 203409404,
+      "name": "Archaeda",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 392247734,
+      "name": "X7000",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Pilostiazos",
+  "corporation_id": 1000180,
+  "alliance_id": null,
+  "corporation_name": "State Protectorate",
+  "alliance_name": null
+}

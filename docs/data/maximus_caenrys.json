@@ -1,0 +1,40 @@
+{
+  "character_id": 2123665475,
+  "total_losses": 7,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123799956,
+    "name": "Gil Thresher",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 917701062,
+    "alliance_id": 937872513,
+    "corporation_name": "EVE University",
+    "alliance_name": "Ivy League"
+  },
+  "top_killers": [
+    {
+      "id": 2123799956,
+      "name": "Gil Thresher",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2112613679,
+      "name": "Minmatar Citizen 2112613679",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114430371,
+      "name": "Marcus Arilia",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Maximus Caenrys",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

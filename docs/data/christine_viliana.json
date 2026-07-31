@@ -1,0 +1,52 @@
+{
+  "character_id": 2112996941,
+  "total_losses": 12,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 93500810,
+    "name": "James Pruitt",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 953808580,
+    "alliance_id": 1354830081,
+    "corporation_name": "Cloaked Goof",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 93500810,
+      "name": "James Pruitt",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95126978,
+      "name": "Rae'el",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 97126313,
+      "name": "Saganami Hexapuma",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 640595536,
+      "name": "Avarr",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90433122,
+      "name": "Reavan Beldrulf",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Christine Viliana",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

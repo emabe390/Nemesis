@@ -1,0 +1,34 @@
+{
+  "character_id": 2122794344,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 189249079,
+    "name": "Character 189249079",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98373312,
+    "alliance_id": null,
+    "corporation_name": "Silence now",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 189249079,
+      "name": "Character 189249079",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120627020,
+      "name": "Character 2120627020",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "FarmHand03",
+  "corporation_id": 98785476,
+  "alliance_id": null,
+  "corporation_name": "Strategic Asset Removal Services",
+  "alliance_name": null
+}

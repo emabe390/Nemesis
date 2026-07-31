@@ -1,0 +1,40 @@
+{
+  "character_id": 2123829171,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123648313,
+    "name": "BalanceInfo",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98802914,
+    "alliance_id": 99009163,
+    "corporation_name": "NAN-ZHEN-FUSI",
+    "alliance_name": "Dracarys."
+  },
+  "top_killers": [
+    {
+      "id": 2123648313,
+      "name": "BalanceInfo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123829164,
+      "name": "MaidTheYabai",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123829179,
+      "name": "MaidTheTsurai",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "MaidTheKaitai",
+  "corporation_id": 98802914,
+  "alliance_id": 99009163,
+  "corporation_name": "NAN-ZHEN-FUSI",
+  "alliance_name": "Dracarys."
+}

@@ -1,0 +1,46 @@
+{
+  "character_id": 93253100,
+  "total_losses": 4,
+  "unique_killers": 4,
+  "nemesis": {
+    "id": 91581240,
+    "name": "Sarah Umbra",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 635210548,
+    "alliance_id": 99003581,
+    "corporation_name": "Fusion Enterprises Ltd",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 91581240,
+      "name": "Sarah Umbra",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113191119,
+      "name": "Tony Pellion",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113555220,
+      "name": "Valfar Stormbean",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122524073,
+      "name": "Kaldrod",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Turbokat",
+  "corporation_id": 425883056,
+  "alliance_id": 99004901,
+  "corporation_name": "Hoover Inc.",
+  "alliance_name": "Snuffed Out"
+}

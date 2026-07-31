@@ -1,0 +1,52 @@
+{
+  "character_id": 2123184295,
+  "total_losses": 8,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 105396945,
+    "name": "Falcon 701",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98432283,
+    "alliance_id": null,
+    "corporation_name": "Wormhole Rats and Fromage",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 105396945,
+      "name": "Falcon 701",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 449592077,
+      "name": "Relentlis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113115476,
+      "name": "Hultaji Gogiko",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113786127,
+      "name": "Emilia Hanid",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124366553,
+      "name": "Tsukino Utakata",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Orunen Harri Ikkala",
+  "corporation_id": 98698983,
+  "alliance_id": 99012122,
+  "corporation_name": "Scan Stakan",
+  "alliance_name": "HOLD MY PROBS"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123275651,
+  "total_losses": 40,
+  "unique_killers": 35,
+  "nemesis": {
+    "id": 95611812,
+    "name": "Ale Machine",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98769631,
+    "alliance_id": 99012403,
+    "corporation_name": "ISEEU Corporation",
+    "alliance_name": "Observatory Great Bear"
+  },
+  "top_killers": [
+    {
+      "id": 95611812,
+      "name": "Ale Machine",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 95726511,
+      "name": "Huckton Hilanen",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120148167,
+      "name": "Mitsui Funaila",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122815701,
+      "name": "Mauer",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90416002,
+      "name": "Sublime Rage",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "super star book",
+  "corporation_id": 98781311,
+  "alliance_id": 99014187,
+  "corporation_name": "Dawn's LightP",
+  "alliance_name": "Dawn's Light"
+}

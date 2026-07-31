@@ -1,0 +1,40 @@
+{
+  "character_id": 2120312988,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1816417415,
+    "name": "MantelGlobalIndustries",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98585025,
+    "alliance_id": 99011883,
+    "corporation_name": "Nadire Security Consultants",
+    "alliance_name": "Federation Peacekeepers"
+  },
+  "top_killers": [
+    {
+      "id": 1816417415,
+      "name": "MantelGlobalIndustries",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94404170,
+      "name": "Argon Trime",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94515428,
+      "name": "Black FIy",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Iteken Sotken",
+  "corporation_id": 98812777,
+  "alliance_id": null,
+  "corporation_name": "Leya Corporation",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2124119580,
+  "total_losses": 57,
+  "unique_killers": 38,
+  "nemesis": {
+    "id": 280055407,
+    "name": "Apoctasy",
+    "kill_count": 5,
+    "final_blows": 5,
+    "corporation_id": 1234496014,
+    "alliance_id": 99010421,
+    "corporation_name": "The Python Cartel.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 280055407,
+      "name": "Apoctasy",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 981819213,
+      "name": "Rhaman Guderian",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90408677,
+      "name": "Mefc Ipret",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90592645,
+      "name": "Duncan Hashimoto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90735229,
+      "name": "Jerome Alfrir",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Jah Mana",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

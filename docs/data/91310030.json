@@ -1,0 +1,40 @@
+{
+  "character_id": 91310030,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91158925,
+    "name": "Lucy Royal",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98465044,
+    "alliance_id": null,
+    "corporation_name": "The Royal Legion",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91158925,
+      "name": "Lucy Royal",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116254077,
+      "name": "One Bill",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123700180,
+      "name": "R1zka",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "SWA President",
+  "corporation_id": 1100853848,
+  "alliance_id": null,
+  "corporation_name": "Task Force 20",
+  "alliance_name": null
+}

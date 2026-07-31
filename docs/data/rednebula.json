@@ -1,0 +1,40 @@
+{
+  "character_id": 2122046011,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 887486212,
+    "name": "Nucanot",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98808453,
+    "alliance_id": null,
+    "corporation_name": "Sponsored by Ansiblex",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 887486212,
+      "name": "Nucanot",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91849604,
+      "name": "Raiden Rattlehead",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116988639,
+      "name": "Babbl",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "RedNebula",
+  "corporation_id": 98616922,
+  "alliance_id": 99003214,
+  "corporation_name": "Galactic Deep Space Industries",
+  "alliance_name": "Brave Collective"
+}

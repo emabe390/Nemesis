@@ -1,0 +1,52 @@
+{
+  "character_id": 502525121,
+  "total_losses": 17,
+  "unique_killers": 16,
+  "nemesis": {
+    "id": 350000799,
+    "name": "Kveto",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1022815351,
+    "alliance_id": null,
+    "corporation_name": "korpa pYco",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 350000799,
+      "name": "Kveto",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92723056,
+      "name": "Neselia",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 93733340,
+      "name": "Karl C Agathon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95278751,
+      "name": "Nik Phelt",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 145536783,
+      "name": "Vorn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aces Higher",
+  "corporation_id": 98729619,
+  "alliance_id": 99010240,
+  "corporation_name": "Wealthy Tax Fugitives",
+  "alliance_name": "The Curatores Veritatis Auxiliary"
+}

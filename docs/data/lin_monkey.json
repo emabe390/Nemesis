@@ -1,0 +1,40 @@
+{
+  "character_id": 2113898203,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1905713025,
+    "name": "Avi Lee",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98807228,
+    "alliance_id": 99014873,
+    "corporation_name": "Genstar Reloaded",
+    "alliance_name": "The Sanguine Covenant"
+  },
+  "top_killers": [
+    {
+      "id": 1905713025,
+      "name": "Avi Lee",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2113965255,
+      "name": "jonakin Padecain",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118621994,
+      "name": "Terdus Fergusus Maximus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Lin Monkey",
+  "corporation_id": 98696463,
+  "alliance_id": 99003581,
+  "corporation_name": "Light Spot Poacher",
+  "alliance_name": "Fraternity."
+}

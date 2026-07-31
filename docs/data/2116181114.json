@@ -1,0 +1,52 @@
+{
+  "character_id": 2116181114,
+  "total_losses": 13,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 4,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 4,
+      "final_blows": 0
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91364694,
+      "name": "Vladof Alduin",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91943256,
+      "name": "Haix Exter",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1818628567,
+      "name": "sliver 0xD",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ART-3001",
+  "corporation_id": 98120737,
+  "alliance_id": 99003557,
+  "corporation_name": "RadioActivia",
+  "alliance_name": "LowSechnaya Sholupen"
+}

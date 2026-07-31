@@ -1,0 +1,52 @@
+{
+  "character_id": 1200036854,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120894096,
+    "name": "Ash Torp",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98778021,
+    "alliance_id": null,
+    "corporation_name": "Aurora.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120894096,
+      "name": "Ash Torp",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95121535,
+      "name": "Azira Aurilen",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 854486695,
+      "name": "Mike Right",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113053476,
+      "name": "Dejan Estemaire",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114035511,
+      "name": "udontmatter",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kazi Kazan",
+  "corporation_id": 98168318,
+  "alliance_id": 99005830,
+  "corporation_name": "Corporation of DEA",
+  "alliance_name": "Memento Moriendo"
+}

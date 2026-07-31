@@ -1,0 +1,52 @@
+{
+  "character_id": 2118087426,
+  "total_losses": 12,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 2,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 2,
+      "final_blows": 0
+    },
+    {
+      "id": 830867348,
+      "name": "Cyrise",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1363981399,
+      "name": "Rehnis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91876449,
+      "name": "Zoquin Bates",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96676697,
+      "name": "INSTRUCTOR",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Wingman hawk2",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 2123475897,
+  "total_losses": 87,
+  "unique_killers": 55,
+  "nemesis": {
+    "id": 1375142084,
+    "name": "Johnny Rah",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98644650,
+    "alliance_id": 99010431,
+    "corporation_name": "Kybernauts",
+    "alliance_name": "Kybernauts Clade"
+  },
+  "top_killers": [
+    {
+      "id": 1375142084,
+      "name": "Johnny Rah",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 820113254,
+      "name": "Xialis",
+      "kill_count": 5,
+      "final_blows": 5
+    },
+    {
+      "id": 2121626726,
+      "name": "Yohsi Amakh Boma",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2116042690,
+      "name": "Sam Mask",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90049267,
+      "name": "CommanderRa",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Saira Aihaken",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

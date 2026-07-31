@@ -1,0 +1,40 @@
+{
+  "character_id": 2123257428,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116896838,
+    "name": "Rats Degouts",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98145686,
+    "alliance_id": null,
+    "corporation_name": "La French Camaraderie",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2116896838,
+      "name": "Rats Degouts",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94206591,
+      "name": "Zavasha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113934359,
+      "name": "Demetrea Joringer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Zara Aya",
+  "corporation_id": 98808065,
+  "alliance_id": null,
+  "corporation_name": "Hydra Industrial Corp.",
+  "alliance_name": null
+}

@@ -1,0 +1,52 @@
+{
+  "character_id": 1065626375,
+  "total_losses": 22,
+  "unique_killers": 21,
+  "nemesis": {
+    "id": 94821568,
+    "name": "Darknos Skordic",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1634775132,
+    "alliance_id": 1354830081,
+    "corporation_name": "UK Corp",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 94821568,
+      "name": "Darknos Skordic",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019609,
+      "name": "Karybdis Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 90828002,
+      "name": "Charlie Severasse",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91517843,
+      "name": "Sam Chadelanne",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92172285,
+      "name": "Dash Zapfod Arrower",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Roberik Manders",
+  "corporation_id": 98725367,
+  "alliance_id": 99014320,
+  "corporation_name": "Rift Watch",
+  "alliance_name": "Watchpoint"
+}

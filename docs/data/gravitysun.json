@@ -1,0 +1,52 @@
+{
+  "character_id": 2123487347,
+  "total_losses": 8,
+  "unique_killers": 6,
+  "nemesis": {
+    "id": 90208148,
+    "name": "Selusa Secundus",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98251840,
+    "alliance_id": 99010421,
+    "corporation_name": "Beyond Remorse.",
+    "alliance_name": "Something Really Pretentious"
+  },
+  "top_killers": [
+    {
+      "id": 90208148,
+      "name": "Selusa Secundus",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121578636,
+      "name": "Carbonnarross",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 90085013,
+      "name": "Tesla X1R",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 91636587,
+      "name": "CapitanU X5",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123642058,
+      "name": "Reiskocher3000",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "GravitySun",
+  "corporation_id": 98795761,
+  "alliance_id": 99003214,
+  "corporation_name": "Romanian Assault Unit",
+  "alliance_name": "Brave Collective"
+}

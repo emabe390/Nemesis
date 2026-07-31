@@ -1,0 +1,40 @@
+{
+  "character_id": 2116715223,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116969616,
+    "name": "LOS-t",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98776808,
+    "alliance_id": 99013823,
+    "corporation_name": "Lost in dark space",
+    "alliance_name": "Cat Scratch Fevers"
+  },
+  "top_killers": [
+    {
+      "id": 2116969616,
+      "name": "LOS-t",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121418673,
+      "name": "S I T",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123882928,
+      "name": "Alena Prime",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dax Stonebreaker",
+  "corporation_id": 98466877,
+  "alliance_id": 99013327,
+  "corporation_name": "Calamitous Crew",
+  "alliance_name": "Hard Knocks Executors"
+}

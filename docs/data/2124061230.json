@@ -1,0 +1,40 @@
+{
+  "character_id": 2124061230,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90305918,
+    "name": "Sydul Deramer",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98299671,
+    "alliance_id": 99008787,
+    "corporation_name": "Dark Chapter",
+    "alliance_name": "Transgress"
+  },
+  "top_killers": [
+    {
+      "id": 90305918,
+      "name": "Sydul Deramer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94251822,
+      "name": "Faye Gunaway",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121742782,
+      "name": "Vortex the Monger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Minmatar Clown",
+  "corporation_id": 1000182,
+  "alliance_id": null,
+  "corporation_name": "Tribal Liberation Force",
+  "alliance_name": null
+}

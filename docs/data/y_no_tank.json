@@ -1,0 +1,52 @@
+{
+  "character_id": 2118865741,
+  "total_losses": 28,
+  "unique_killers": 24,
+  "nemesis": {
+    "id": 2123782700,
+    "name": "Taliesin Koroviev",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98822454,
+    "alliance_id": null,
+    "corporation_name": "Taliesin Koroviev Corporation",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2123782700,
+      "name": "Taliesin Koroviev",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2123741113,
+      "name": "Cellblock 8",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91897468,
+      "name": "Catt Shadow",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96376437,
+      "name": "Poke Amilupar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96393732,
+      "name": "Khatesh Savant",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Y No Tank",
+  "corporation_id": 98730744,
+  "alliance_id": 99011227,
+  "corporation_name": "In Search of The Marauders Map",
+  "alliance_name": "Sorority"
+}

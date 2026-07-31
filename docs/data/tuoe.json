@@ -1,0 +1,40 @@
+{
+  "character_id": 2123911444,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 556910676,
+    "name": "Sebben",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98457239,
+    "alliance_id": 99008985,
+    "corporation_name": "Tempered Aggression",
+    "alliance_name": "Seker Matar"
+  },
+  "top_killers": [
+    {
+      "id": 556910676,
+      "name": "Sebben",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 824733020,
+      "name": "h04x",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1159312906,
+      "name": "Flynn Fetladral",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tuoe",
+  "corporation_id": 1000077,
+  "alliance_id": null,
+  "corporation_name": "Royal Amarr Institute",
+  "alliance_name": null
+}

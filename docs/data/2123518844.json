@@ -1,0 +1,34 @@
+{
+  "character_id": 2123518844,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1124237739,
+    "name": "VegasMirage",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98583428,
+    "alliance_id": null,
+    "corporation_name": "Blank-Space",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 1124237739,
+      "name": "VegasMirage",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121376146,
+      "name": "Mordran Eram",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Knut knutsson",
+  "corporation_id": 917701062,
+  "alliance_id": 937872513,
+  "corporation_name": "EVE University",
+  "alliance_name": "Ivy League"
+}

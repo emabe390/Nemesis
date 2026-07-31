@@ -1,0 +1,52 @@
+{
+  "character_id": 2123623538,
+  "total_losses": 11,
+  "unique_killers": 9,
+  "nemesis": {
+    "id": 92664583,
+    "name": "Murdoch Luther",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98556211,
+    "alliance_id": 99002974,
+    "corporation_name": "The Vendetta Mercenaries",
+    "alliance_name": "Vendetta Mercenary Group"
+  },
+  "top_killers": [
+    {
+      "id": 92664583,
+      "name": "Murdoch Luther",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115866941,
+      "name": "vector-A",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 3019604,
+      "name": "Cassandra Tyrannos",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90688996,
+      "name": "Erev Garo",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94988888,
+      "name": "Yesraffut Groslard",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mirr Miromme",
+  "corporation_id": 98772435,
+  "alliance_id": 99009163,
+  "corporation_name": "Bizarre Adventure Artel",
+  "alliance_name": "Dracarys."
+}

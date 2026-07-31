@@ -1,0 +1,40 @@
+{
+  "character_id": 1211585655,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 137690223,
+    "name": "Kryptek",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98065337,
+    "alliance_id": 99004567,
+    "corporation_name": "Bring The Noise",
+    "alliance_name": "Honorable Third Party"
+  },
+  "top_killers": [
+    {
+      "id": 137690223,
+      "name": "Kryptek",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1399211800,
+      "name": "Braygo Khallazar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115402830,
+      "name": "Character 2115402830",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eenea",
+  "corporation_id": 98046751,
+  "alliance_id": null,
+  "corporation_name": "A Water",
+  "alliance_name": null
+}

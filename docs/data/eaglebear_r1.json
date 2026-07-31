@@ -1,0 +1,52 @@
+{
+  "character_id": 2123445592,
+  "total_losses": 7,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 2120326074,
+    "name": "Dermier Sail",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98715717,
+    "alliance_id": 99014092,
+    "corporation_name": "Horngry",
+    "alliance_name": "Quafe Liberation Front"
+  },
+  "top_killers": [
+    {
+      "id": 2120326074,
+      "name": "Dermier Sail",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2121062076,
+      "name": "Prisoner's Chain",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112883869,
+      "name": "Bin Tissant",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114731379,
+      "name": "Kalifa Surmia Ederton",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2115024457,
+      "name": "Black sould",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Eaglebear R1",
+  "corporation_id": 98735707,
+  "alliance_id": 99014427,
+  "corporation_name": "Rockwall Mining Industries Inc.",
+  "alliance_name": "Itty Bitty Asteroid Academy"
+}

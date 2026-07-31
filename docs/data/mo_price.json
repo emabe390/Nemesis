@@ -1,0 +1,40 @@
+{
+  "character_id": 2123869204,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 93162925,
+    "name": "Carl O'Neill",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98757718,
+    "alliance_id": 99004901,
+    "corporation_name": "One Risky Click",
+    "alliance_name": "Snuffed Out"
+  },
+  "top_killers": [
+    {
+      "id": 93162925,
+      "name": "Carl O'Neill",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94020078,
+      "name": "Xavier Ghasha",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2120089480,
+      "name": "Agatha VanGlicklison",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mo Price",
+  "corporation_id": 98817575,
+  "alliance_id": null,
+  "corporation_name": "Outpost Zero Fabrication",
+  "alliance_name": null
+}

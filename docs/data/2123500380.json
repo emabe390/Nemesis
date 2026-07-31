@@ -1,0 +1,52 @@
+{
+  "character_id": 2123500380,
+  "total_losses": 11,
+  "unique_killers": 10,
+  "nemesis": {
+    "id": 96288248,
+    "name": "Pipo Leclown",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98785126,
+    "alliance_id": 99011258,
+    "corporation_name": "FREAKS CIRCUS",
+    "alliance_name": "Train Wreck."
+  },
+  "top_killers": [
+    {
+      "id": 96288248,
+      "name": "Pipo Leclown",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93705140,
+      "name": "Charles Worthington",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94263305,
+      "name": "Kthavren Ipsum",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 94641066,
+      "name": "Dex Maddock",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96130170,
+      "name": "Dreidon Bloodborn",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Morgan Ghostwalker",
+  "corporation_id": 583616018,
+  "alliance_id": 1354830081,
+  "corporation_name": "Black Aces",
+  "alliance_name": "Goonswarm Federation"
+}

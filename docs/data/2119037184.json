@@ -1,0 +1,52 @@
+{
+  "character_id": 2119037184,
+  "total_losses": 14,
+  "unique_killers": 14,
+  "nemesis": {
+    "id": 3019610,
+    "name": "Scylla Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3019610,
+      "name": "Scylla Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 92156287,
+      "name": "Count Kalgan Paisley",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 92476841,
+      "name": "Trelnyx",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 95771165,
+      "name": "Arien Iluvitar",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 198914893,
+      "name": "Vladimir Elexiel",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Hans Tybalt",
+  "corporation_id": 98668936,
+  "alliance_id": 99011223,
+  "corporation_name": "The Awoken",
+  "alliance_name": "Sigma Grindset"
+}

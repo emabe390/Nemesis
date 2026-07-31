@@ -1,0 +1,52 @@
+{
+  "character_id": 2123170340,
+  "total_losses": 6,
+  "unique_killers": 5,
+  "nemesis": {
+    "id": 391166211,
+    "name": "Fenn Redfield",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98560621,
+    "alliance_id": null,
+    "corporation_name": "Violence is the Answer",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 391166211,
+      "name": "Fenn Redfield",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95712433,
+      "name": "Luna Amaria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 775694970,
+      "name": "Kania",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1326553713,
+      "name": "Buzz Tard",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124035197,
+      "name": "Serbantoss",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aila Tiara",
+  "corporation_id": 1000169,
+  "alliance_id": null,
+  "corporation_name": "Center for Advanced Studies",
+  "alliance_name": null
+}

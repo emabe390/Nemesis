@@ -1,0 +1,40 @@
+{
+  "character_id": 2117647540,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120830004,
+    "name": "Razumton",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98789018,
+    "alliance_id": null,
+    "corporation_name": "United Free Beings",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2120830004,
+      "name": "Razumton",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2114486509,
+      "name": "Katar Illat",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117518049,
+      "name": "Michael Marsh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Drusilla Semantic",
+  "corporation_id": 98663820,
+  "alliance_id": 99012847,
+  "corporation_name": "13th Revelation",
+  "alliance_name": "GunFam"
+}

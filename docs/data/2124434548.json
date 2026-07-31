@@ -1,0 +1,40 @@
+{
+  "character_id": 2124434548,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113788843,
+    "name": "Annastra Sotken",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98008663,
+    "alliance_id": 1354830081,
+    "corporation_name": "Angry Angels Constructions",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2113788843,
+      "name": "Annastra Sotken",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122146514,
+      "name": "Will Garrety",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124384145,
+      "name": "bolt alpha1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Forklift Operator",
+  "corporation_id": 98835744,
+  "alliance_id": null,
+  "corporation_name": "Lost and Self-Found",
+  "alliance_name": null
+}

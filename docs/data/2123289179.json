@@ -1,0 +1,40 @@
+{
+  "character_id": 2123289179,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 338285735,
+    "name": "OT Smithers",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98060878,
+    "alliance_id": 99009584,
+    "corporation_name": "Buccaneer's Den",
+    "alliance_name": "Dock Workers"
+  },
+  "top_killers": [
+    {
+      "id": 338285735,
+      "name": "OT Smithers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112095391,
+      "name": "Shad Kkep",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114092250,
+      "name": "AeroVero Penguins",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Dolores Manso",
+  "corporation_id": 1000437,
+  "alliance_id": null,
+  "corporation_name": "Commando Guri",
+  "alliance_name": null
+}

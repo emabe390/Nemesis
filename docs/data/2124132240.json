@@ -1,0 +1,40 @@
+{
+  "character_id": 2124132240,
+  "total_losses": 12,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2123805001,
+    "name": "DFPA",
+    "kill_count": 10,
+    "final_blows": 10,
+    "corporation_id": 98838901,
+    "alliance_id": 99003581,
+    "corporation_name": "Deep Stone Crypt",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 2123805001,
+      "name": "DFPA",
+      "kill_count": 10,
+      "final_blows": 10
+    },
+    {
+      "id": 93123853,
+      "name": "Loki Kuha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123441391,
+      "name": "True Corsar 1",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Silky Skipper",
+  "corporation_id": 98089258,
+  "alliance_id": 1900696668,
+  "corporation_name": "Game of Drones",
+  "alliance_name": "The Initiative."
+}

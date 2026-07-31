@@ -1,0 +1,40 @@
+{
+  "character_id": 2114939978,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1160996029,
+    "name": "HKMP5",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98328437,
+    "alliance_id": 99015056,
+    "corporation_name": "Applied Anarchy",
+    "alliance_name": "Calculated Disorder"
+  },
+  "top_killers": [
+    {
+      "id": 1160996029,
+      "name": "HKMP5",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2118348874,
+      "name": "Honour submarine",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124111504,
+      "name": "Lvctor",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Toshiro Ukitake",
+  "corporation_id": 1000181,
+  "alliance_id": null,
+  "corporation_name": "Federal Defense Union",
+  "alliance_name": null
+}

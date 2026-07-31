@@ -1,0 +1,34 @@
+{
+  "character_id": 2121434100,
+  "total_losses": 3,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 1476742230,
+    "name": "Sap hazar",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1234433085,
+    "alliance_id": 1683694957,
+    "corporation_name": "Nekogame",
+    "alliance_name": "COASTAL BROTHERHOOD"
+  },
+  "top_killers": [
+    {
+      "id": 1476742230,
+      "name": "Sap hazar",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 891149554,
+      "name": "Knaz Vladimir",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Aaronkoras Kan Ijonen",
+  "corporation_id": 98593174,
+  "alliance_id": 1042504553,
+  "corporation_name": "Pyke Syndicate",
+  "alliance_name": "Solyaris Chtonium"
+}

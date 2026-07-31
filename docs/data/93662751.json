@@ -1,0 +1,40 @@
+{
+  "character_id": 93662751,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 92473624,
+    "name": "SausageMonkey",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98154430,
+    "alliance_id": null,
+    "corporation_name": "Posh Wankers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 92473624,
+      "name": "SausageMonkey",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 211150393,
+      "name": "Rawstyle",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 698404960,
+      "name": "Qutis Hanid",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Xiderpunk",
+  "corporation_id": 1000049,
+  "alliance_id": null,
+  "corporation_name": "Brutor Tribe",
+  "alliance_name": null
+}

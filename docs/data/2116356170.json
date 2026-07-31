@@ -1,0 +1,52 @@
+{
+  "character_id": 2116356170,
+  "total_losses": 10,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2112289452,
+    "name": "We Escelated",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1491319733,
+    "alliance_id": 927292903,
+    "corporation_name": "Stimulus",
+    "alliance_name": "Rote Kapelle"
+  },
+  "top_killers": [
+    {
+      "id": 2112289452,
+      "name": "We Escelated",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2115451159,
+      "name": "Mogul Graham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 93621880,
+      "name": "Atrol Nalelmir",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 210307238,
+      "name": "Beulea",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 685998643,
+      "name": "InstinctiveKiller",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "ZJL0",
+  "corporation_id": 1000170,
+  "alliance_id": null,
+  "corporation_name": "Republic Military School",
+  "alliance_name": null
+}

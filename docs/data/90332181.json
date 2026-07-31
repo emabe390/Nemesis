@@ -1,0 +1,34 @@
+{
+  "character_id": 90332181,
+  "total_losses": 4,
+  "unique_killers": 2,
+  "nemesis": {
+    "id": 2117278800,
+    "name": "Schnarph",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98416553,
+    "alliance_id": 99012358,
+    "corporation_name": "Carcharodons Astra",
+    "alliance_name": "Travellers of the Void"
+  },
+  "top_killers": [
+    {
+      "id": 2117278800,
+      "name": "Schnarph",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90667238,
+      "name": "Plex Sniffer",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vladimir Satsouk",
+  "corporation_id": 101116365,
+  "alliance_id": 1988009451,
+  "corporation_name": "W.A.S.P",
+  "alliance_name": "Curatores Veritatis Alliance"
+}

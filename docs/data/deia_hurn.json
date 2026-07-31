@@ -1,0 +1,52 @@
+{
+  "character_id": 2123301094,
+  "total_losses": 8,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 800103040,
+    "name": "Ignis Infernalis",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 1715234301,
+    "alliance_id": null,
+    "corporation_name": "Isk sellers",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 800103040,
+      "name": "Ignis Infernalis",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94024546,
+      "name": "Dr chow Tasioka",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 96037193,
+      "name": "solo star",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 703118119,
+      "name": "Antaire Riggers",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118941876,
+      "name": "Efendii",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Deia Hurn",
+  "corporation_id": 98044747,
+  "alliance_id": 386292982,
+  "corporation_name": "Bikini Bottom Surfer",
+  "alliance_name": "Pandemic Legion"
+}

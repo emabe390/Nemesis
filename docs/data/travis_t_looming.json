@@ -1,0 +1,40 @@
+{
+  "character_id": 2123231787,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 101363971,
+    "name": "WayCharles",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98570127,
+    "alliance_id": null,
+    "corporation_name": "Konflict",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 101363971,
+      "name": "WayCharles",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1917394700,
+      "name": "Renec Kinslayer",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2122551051,
+      "name": "Wilsha Trakoon",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Travis T Looming",
+  "corporation_id": 98797789,
+  "alliance_id": null,
+  "corporation_name": "Yorkin Hour Peanuts",
+  "alliance_name": null
+}

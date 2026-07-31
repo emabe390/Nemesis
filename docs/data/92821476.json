@@ -1,0 +1,40 @@
+{
+  "character_id": 92821476,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 90746389,
+    "name": "Sonny O'neil",
+    "kill_count": 4,
+    "final_blows": 4,
+    "corporation_id": 98180098,
+    "alliance_id": 99001969,
+    "corporation_name": "Special Assault Unit",
+    "alliance_name": "SONS of BANE"
+  },
+  "top_killers": [
+    {
+      "id": 90746389,
+      "name": "Sonny O'neil",
+      "kill_count": 4,
+      "final_blows": 4
+    },
+    {
+      "id": 2114787719,
+      "name": "Belbadon Oumis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2120151433,
+      "name": "Hephaestus Taurus",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Braddic Neckhunter",
+  "corporation_id": 98788951,
+  "alliance_id": 99014547,
+  "corporation_name": "Corsaires Cosmiques Galactiques",
+  "alliance_name": "IP-Org"
+}

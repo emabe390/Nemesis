@@ -1,0 +1,40 @@
+{
+  "character_id": 2121642345,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2116530483,
+    "name": "Character 2116530483",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98674463,
+    "alliance_id": 99012847,
+    "corporation_name": "Hydra The Ancient One",
+    "alliance_name": "GunFam"
+  },
+  "top_killers": [
+    {
+      "id": 2116530483,
+      "name": "Character 2116530483",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123482350,
+      "name": "Blacker Elvis",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124287279,
+      "name": "Z-04 Scourge",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Picklesworth",
+  "corporation_id": 98487467,
+  "alliance_id": 99014668,
+  "corporation_name": "Khanid Propulsion Systems",
+  "alliance_name": "The Ravens' Nest"
+}

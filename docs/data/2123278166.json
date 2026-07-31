@@ -1,0 +1,40 @@
+{
+  "character_id": 2123278166,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2120893024,
+    "name": "Selene Verran",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98754582,
+    "alliance_id": 1900696668,
+    "corporation_name": "Baba Yagas",
+    "alliance_name": "The Initiative."
+  },
+  "top_killers": [
+    {
+      "id": 2120893024,
+      "name": "Selene Verran",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124071322,
+      "name": "Nasty Shrew",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124121128,
+      "name": "Nana Deviluke",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Tae Nuel",
+  "corporation_id": 1000168,
+  "alliance_id": null,
+  "corporation_name": "Federal Navy Academy",
+  "alliance_name": null
+}

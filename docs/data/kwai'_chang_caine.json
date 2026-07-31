@@ -1,0 +1,40 @@
+{
+  "character_id": 2123317932,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 1582804333,
+    "name": "Alethoria",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98656901,
+    "alliance_id": 495729389,
+    "corporation_name": "Ganja Clade",
+    "alliance_name": "Shadow Cartel"
+  },
+  "top_killers": [
+    {
+      "id": 1582804333,
+      "name": "Alethoria",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114015384,
+      "name": "Bri Kato",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121418723,
+      "name": "Sir Francis Doom",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Kwai' Chang Caine",
+  "corporation_id": 98719346,
+  "alliance_id": null,
+  "corporation_name": "Galactic Orebody Acquisition and Trading Syndicate",
+  "alliance_name": null
+}

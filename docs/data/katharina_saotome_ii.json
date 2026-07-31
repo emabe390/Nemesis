@@ -1,0 +1,40 @@
+{
+  "character_id": 2124354202,
+  "total_losses": 6,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2113906997,
+    "name": "Cer Bernarov",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98615927,
+    "alliance_id": 99013519,
+    "corporation_name": "Red Eye Inc.",
+    "alliance_name": "Flower Children"
+  },
+  "top_killers": [
+    {
+      "id": 2113906997,
+      "name": "Cer Bernarov",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 2119087581,
+      "name": "Aubrey Drake Graham",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2123433985,
+      "name": "VoidStranger",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Katharina Saotome II",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

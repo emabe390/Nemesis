@@ -1,0 +1,52 @@
+{
+  "character_id": 2123216970,
+  "total_losses": 9,
+  "unique_killers": 7,
+  "nemesis": {
+    "id": 96478603,
+    "name": "Andrei Geroi",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98628734,
+    "alliance_id": 99011271,
+    "corporation_name": "Sargos Corporation",
+    "alliance_name": "4Crabs Tavern"
+  },
+  "top_killers": [
+    {
+      "id": 96478603,
+      "name": "Andrei Geroi",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90078786,
+      "name": "Character 90078786",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 90525147,
+      "name": "Chikin Thrace",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2112281728,
+      "name": "Verrusk Inkura",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114355374,
+      "name": "EvemanLarry Warp",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "blush1",
+  "corporation_id": 98370861,
+  "alliance_id": 1354830081,
+  "corporation_name": "KarmaFleet",
+  "alliance_name": "Goonswarm Federation"
+}

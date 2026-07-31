@@ -1,0 +1,40 @@
+{
+  "character_id": 2116079069,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 3020074,
+    "name": "Hyleus Tyrannos",
+    "kill_count": 1,
+    "final_blows": 0,
+    "corporation_id": 1000274,
+    "alliance_id": null,
+    "corporation_name": "Vigilant Tyrannos",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 3020074,
+      "name": "Hyleus Tyrannos",
+      "kill_count": 1,
+      "final_blows": 0
+    },
+    {
+      "id": 393635253,
+      "name": "Jyfaala Tragu",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2117050997,
+      "name": "Adrian Telure",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Shaddai Davis",
+  "corporation_id": 98422578,
+  "alliance_id": 99010787,
+  "corporation_name": "Almost Dangerous",
+  "alliance_name": "Wolves Amongst Strangers"
+}

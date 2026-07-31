@@ -1,0 +1,40 @@
+{
+  "character_id": 2123675014,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94178836,
+    "name": "Octane Charante",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98767169,
+    "alliance_id": 99003581,
+    "corporation_name": "Legion Ascending",
+    "alliance_name": "Fraternity."
+  },
+  "top_killers": [
+    {
+      "id": 94178836,
+      "name": "Octane Charante",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 1812589123,
+      "name": "Aldor Kavell",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2113401781,
+      "name": "Yondu Groot",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "UnknownEXP",
+  "corporation_id": 98388312,
+  "alliance_id": 99005338,
+  "corporation_name": "Pandemic Horde Inc.",
+  "alliance_name": "Pandemic Horde"
+}

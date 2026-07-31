@@ -1,0 +1,52 @@
+{
+  "character_id": 2124159355,
+  "total_losses": 65,
+  "unique_killers": 52,
+  "nemesis": {
+    "id": 2124035632,
+    "name": "MAX4C",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98642382,
+    "alliance_id": 1354830081,
+    "corporation_name": "HongLou",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2124035632,
+      "name": "MAX4C",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 90374446,
+      "name": "Draggie Stone",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 91546888,
+      "name": "Anulos",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95651676,
+      "name": "Dobrynia",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 1111413091,
+      "name": "DotaKid",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "MAX3C",
+  "corporation_id": 98642382,
+  "alliance_id": 1354830081,
+  "corporation_name": "HongLou",
+  "alliance_name": "Goonswarm Federation"
+}

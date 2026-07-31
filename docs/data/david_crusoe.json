@@ -1,0 +1,40 @@
+{
+  "character_id": 2124369539,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91912851,
+    "name": "Azuma Misawa",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98435461,
+    "alliance_id": null,
+    "corporation_name": "Herbal Testing Facility",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91912851,
+      "name": "Azuma Misawa",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 96762995,
+      "name": "LittleMiss Can'tBeWrong",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 92941363,
+      "name": "Sam Lafisque",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "David Crusoe",
+  "corporation_id": 1000167,
+  "alliance_id": null,
+  "corporation_name": "State War Academy",
+  "alliance_name": null
+}

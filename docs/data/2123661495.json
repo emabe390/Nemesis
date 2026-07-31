@@ -1,0 +1,40 @@
+{
+  "character_id": 2123661495,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2118413925,
+    "name": "Vadros",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98742708,
+    "alliance_id": 99006728,
+    "corporation_name": "Nyxos Enclave",
+    "alliance_name": "Catastrophic Experiment"
+  },
+  "top_killers": [
+    {
+      "id": 2118413925,
+      "name": "Vadros",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123555804,
+      "name": "Davers ORE",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2123644041,
+      "name": "Simon ORE",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Riki D End",
+  "corporation_id": 98810472,
+  "alliance_id": null,
+  "corporation_name": "Directive Zero",
+  "alliance_name": null
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 2123147436,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2115244185,
+    "name": "Talion Antollare",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98709456,
+    "alliance_id": 99011697,
+    "corporation_name": "Spectre Fleet Ltd.",
+    "alliance_name": "Spectre Fleet Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 2115244185,
+      "name": "Talion Antollare",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 94703147,
+      "name": "Legggga Sha",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114145893,
+      "name": "BradleyX Cooper",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Mataro Mourvedre",
+  "corporation_id": 98798223,
+  "alliance_id": null,
+  "corporation_name": "Ship Sommeliers",
+  "alliance_name": null
+}

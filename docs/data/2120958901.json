@@ -1,0 +1,40 @@
+{
+  "character_id": 2120958901,
+  "total_losses": 5,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 94885982,
+    "name": "scott magna",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98800166,
+    "alliance_id": 99011279,
+    "corporation_name": "Aggressive Optimisim",
+    "alliance_name": "Naval Defence Alliance"
+  },
+  "top_killers": [
+    {
+      "id": 94885982,
+      "name": "scott magna",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 95545355,
+      "name": "Tira Anderson",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2122765067,
+      "name": "Amos Anderson",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Vailen Kasiras",
+  "corporation_id": 98690361,
+  "alliance_id": 1900696668,
+  "corporation_name": "Hold my Bier",
+  "alliance_name": "The Initiative."
+}

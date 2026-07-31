@@ -1,0 +1,52 @@
+{
+  "character_id": 2123714150,
+  "total_losses": 20,
+  "unique_killers": 8,
+  "nemesis": {
+    "id": 2113809279,
+    "name": "H Caulfield",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98600675,
+    "alliance_id": null,
+    "corporation_name": "The Speakeasy",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 2113809279,
+      "name": "H Caulfield",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 1548722773,
+      "name": "doom bug",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112004412,
+      "name": "Manks Crendraven",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2114075567,
+      "name": "Spam Steam",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2118176151,
+      "name": "Saarh",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Michael Robert Rich",
+  "corporation_id": 98451927,
+  "alliance_id": 99011119,
+  "corporation_name": "HALO - United Nations Space Command",
+  "alliance_name": "Absolute Glory"
+}

@@ -1,0 +1,40 @@
+{
+  "character_id": 96859059,
+  "total_losses": 4,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 91546036,
+    "name": "Fudge You",
+    "kill_count": 2,
+    "final_blows": 2,
+    "corporation_id": 98803894,
+    "alliance_id": null,
+    "corporation_name": "Der Verfassungsschutz.",
+    "alliance_name": null
+  },
+  "top_killers": [
+    {
+      "id": 91546036,
+      "name": "Fudge You",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 2112628088,
+      "name": "Jeppezon",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2116839161,
+      "name": "Hank SutanofLore",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "Jaystar Toralen",
+  "corporation_id": 98311406,
+  "alliance_id": 1042504553,
+  "corporation_name": "The Exchange Collective",
+  "alliance_name": "Solyaris Chtonium"
+}

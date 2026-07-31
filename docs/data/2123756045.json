@@ -1,0 +1,52 @@
+{
+  "character_id": 2123756045,
+  "total_losses": 40,
+  "unique_killers": 28,
+  "nemesis": {
+    "id": 97048783,
+    "name": "Working Class Man",
+    "kill_count": 3,
+    "final_blows": 3,
+    "corporation_id": 98514759,
+    "alliance_id": 99014973,
+    "corporation_name": "Meta Zero",
+    "alliance_name": "E-Reptile Disfunction"
+  },
+  "top_killers": [
+    {
+      "id": 97048783,
+      "name": "Working Class Man",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 96815299,
+      "name": "Evel Knieve",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 191810045,
+      "name": "Yiri Yovazi",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 235695799,
+      "name": "Agent 004",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 560468720,
+      "name": "Asbendale Silverblade",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "ACE-888",
+  "corporation_id": 98598862,
+  "alliance_id": 99003581,
+  "corporation_name": "Chaos arbiter",
+  "alliance_name": "Fraternity."
+}

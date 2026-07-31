@@ -1,0 +1,40 @@
+{
+  "character_id": 2124456235,
+  "total_losses": 3,
+  "unique_killers": 3,
+  "nemesis": {
+    "id": 2117265673,
+    "name": "ElfaOmega",
+    "kill_count": 1,
+    "final_blows": 1,
+    "corporation_id": 98546739,
+    "alliance_id": 1354830081,
+    "corporation_name": "Balkan Kings",
+    "alliance_name": "Goonswarm Federation"
+  },
+  "top_killers": [
+    {
+      "id": 2117265673,
+      "name": "ElfaOmega",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2121787886,
+      "name": "Tsundere Minermizer 2",
+      "kill_count": 1,
+      "final_blows": 1
+    },
+    {
+      "id": 2124276334,
+      "name": "Somebody Named Zed",
+      "kill_count": 1,
+      "final_blows": 1
+    }
+  ],
+  "character_name": "HolyBigWookie",
+  "corporation_id": 98836104,
+  "alliance_id": null,
+  "corporation_name": "The Blumkin Brigade",
+  "alliance_name": null
+}

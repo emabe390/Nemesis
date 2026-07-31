@@ -1,0 +1,52 @@
+{
+  "character_id": 2124051235,
+  "total_losses": 37,
+  "unique_killers": 18,
+  "nemesis": {
+    "id": 626390574,
+    "name": "Mareus",
+    "kill_count": 12,
+    "final_blows": 12,
+    "corporation_id": 98814595,
+    "alliance_id": 498125261,
+    "corporation_name": "Akaishi Knowledge Syndicate",
+    "alliance_name": "Test Alliance Please Ignore"
+  },
+  "top_killers": [
+    {
+      "id": 626390574,
+      "name": "Mareus",
+      "kill_count": 12,
+      "final_blows": 12
+    },
+    {
+      "id": 90983472,
+      "name": "Jaime Gomes",
+      "kill_count": 3,
+      "final_blows": 3
+    },
+    {
+      "id": 94526702,
+      "name": "Seven0f Nine",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 144535664,
+      "name": "Snoop",
+      "kill_count": 2,
+      "final_blows": 2
+    },
+    {
+      "id": 795994401,
+      "name": "Gravaton Cleric",
+      "kill_count": 2,
+      "final_blows": 2
+    }
+  ],
+  "character_name": "Kaltarie",
+  "corporation_id": 1000045,
+  "alliance_id": null,
+  "corporation_name": "Science and Trade Institute",
+  "alliance_name": null
+}

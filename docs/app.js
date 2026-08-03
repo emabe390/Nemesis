@@ -188,7 +188,8 @@ async function renderResult(data) {
     const rankInfo = await getNemesisRank(data.character_id);
     const rankEl = document.getElementById('nemesisRank');
     if (rankInfo) {
-        rankEl.innerHTML = `Rank #${rankInfo.rank} Nemesis`;
+        const pageNum = Math.ceil(rankInfo.rank / 10);
+        rankEl.innerHTML = `<a href="top.html#page${pageNum}" class="rank-link">Rank #${rankInfo.rank} Nemesis</a>`;
         rankEl.classList.remove('hidden');
     } else {
         rankEl.classList.add('hidden');
@@ -299,7 +300,8 @@ async function doSearch(pushState = true) {
                 const rankInfo = await getNemesisRank(charId);
                 const rankEl = document.getElementById('nemesisRank');
                 if (rankInfo) {
-                    rankEl.innerHTML = `Rank #${rankInfo.rank} Nemesis`;
+                    const pageNum = Math.ceil(rankInfo.rank / 10);
+                    rankEl.innerHTML = `<a href="top.html#page${pageNum}" class="rank-link">Rank #${rankInfo.rank} Nemesis</a>`;
                     rankEl.classList.remove('hidden');
                 } else {
                     rankEl.classList.add('hidden');

@@ -1,4 +1,7 @@
 const DATA_URL = './data/';
+const PAGE_SIZE = 10;
+
+let allData = [];
 
 function portraitUrl(charId, size = 64) {
     return `https://images.evetech.net/characters/${charId}/portrait?size=${size}`;
@@ -28,24 +31,30 @@ function orgsHtml(entry) {
     return orgs.length ? `<div class="leader-orgs">${orgs.join('')}</div>` : '';
 }
 
-async function loadTopNemesis() {
-    const res = await fetch(DATA_URL + 'top_nemesis.json');
-    if (!res.ok) throw new Error('Failed to load leaderboard');
-    return await res.json();
+function getPageFromHash() {
+    const hash = location.hash.slice(1);
+    const page = parseInt(hash, 10);
+    return isNaN(page) || page < 1 ? 1 : page;
 }
 
-function renderLeaderboard(data) {
+function setPageHash(page) {
+    history.replaceState(null, '', '#page' + page);
+}
+
+function renderLeaderboard(data, page) {
     const el = document.getElementById('leaderboard');
     el.innerHTML = '';
 
-    const top10 = data.slice(0, 10);
+    const start = (page - 1) * PAGE_SIZE;
+    const pageData = data.slice(start, start + PAGE_SIZE);
 
-    top10.forEach((entry, i) => {
+    pageData.forEach((entry, i) => {
+        const globalRank = start + i + 1;
         const row = document.createElement('div');
-        const rankClass = i < 3 ? `top-${i + 1}` : '';
+        const rankClass = globalRank <= 3 ? `top-${globalRank}` : '';
         row.className = `leaderboard-row ${rankClass}`;
 
-        const rankLabel = i === 0 ? '🥇' : i === 1 ? '🥈' : i === 2 ? '🥉' : `#${i + 1}`;
+        const rankLabel = globalRank === 1 ? '🥇' : globalRank === 2 ? '🥈' : globalRank === 3 ? '🥉' : `#${globalRank}`;
 
         row.innerHTML = `
             <div class="rank-badge">${rankLabel}</div>
@@ -62,14 +71,51 @@ function renderLeaderboard(data) {
         el.appendChild(row);
     });
 
+    // Pagination
+    const totalPages = Math.ceil(data.length / PAGE_SIZE);
+    const pagination = document.createElement('div');
+    pagination.className = 'pagination';
+
+    let pagHtml = '';
+    if (page > 1) {
+        pagHtml += `<button class="pag-btn" data-page="${page - 1}">← Previous</button>`;
+    } else {
+        pagHtml += `<button class="pag-btn" disabled>← Previous</button>`;
+    }
+
+    pagHtml += `<span class="pag-info">Page ${page} / ${totalPages}</span>`;
+
+    if (page < totalPages) {
+        pagHtml += `<button class="pag-btn" data-page="${page + 1}">Next →</button>`;
+    } else {
+        pagHtml += `<button class="pag-btn" disabled>Next →</button>`;
+    }
+
+    pagination.innerHTML = pagHtml;
+    el.appendChild(pagination);
+
+    // Bind pagination clicks
+    pagination.querySelectorAll('.pag-btn:not([disabled])').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const newPage = parseInt(btn.dataset.page, 10);
+            setPageHash(newPage);
+            renderLeaderboard(allData, newPage);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    });
+
     document.getElementById('loading').classList.add('hidden');
     el.classList.remove('hidden');
 }
 
 async function init() {
     try {
-        const data = await loadTopNemesis();
-        renderLeaderboard(data);
+        const res = await fetch(DATA_URL + 'top_nemesis.json');
+        if (!res.ok) throw new Error('Failed to load leaderboard');
+        allData = await res.json();
+
+        const page = getPageFromHash();
+        renderLeaderboard(allData, page);
     } catch (e) {
         document.getElementById('loading').classList.add('hidden');
         const err = document.getElementById('error');
@@ -78,5 +124,14 @@ async function init() {
         console.error(e);
     }
 }
+
+// Handle browser back/forward
+window.addEventListener('popstate', () => {
+    if (allData.length) {
+        const page = getPageFromHash();
+        renderLeaderboard(allData, page);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+});
 
 init();

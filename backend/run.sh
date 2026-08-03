@@ -105,10 +105,10 @@ cmd_weekly() {
     "$PYTHON" build_nemesis.py --db "$DB" --export "$OUTPUT" --min-losses "$MIN_LOSSES"
 
     log "Git commit and push..."
-    cd "$(dirname "$OUTPUT")"
+    # Go to repo root (parent of backend/), not the output dir
+    cd "$SCRIPT_DIR/.."
     if [[ -d .git ]]; then
-        # Clean old JSON files that are no longer in the DB
-        git add data/
+        git add docs/data/
         git diff --cached --quiet || {
             git commit -m "weekly nemesis update $(date +%Y-%m-%d)"
             git push

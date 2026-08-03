@@ -45,7 +45,7 @@ async function loadTopNemesis() {
 async function getNemesisRank(charId) {
     const top = await loadTopNemesis();
     const idx = top.findIndex(e => e.id === charId);
-    if (idx >= 0 && idx < 10000) {
+    if (idx >= 0 && idx < 1000) {
         return { rank: idx + 1, data: top[idx] };
     }
     return null;

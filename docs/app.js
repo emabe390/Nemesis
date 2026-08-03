@@ -134,27 +134,44 @@ function nemesisEntityHeader(name, charId, corpId, corpName, allianceId, allianc
     return html;
 }
 
-function renderResult(data) {
-    document.getElementById('victimName').innerHTML = charLink(data.character_name, data.character_id, 64) + zkillLink(data.character_id, 'zKill');
-    const victimOrgs = document.getElementById('victimOrgs');
+function entityBlock(name, charId, corpId, corpName, allianceId, allianceName, portraitSize = 64, isNemesis = false) {
+    let html = `<img src="${portraitUrl(charId, portraitSize)}" class="char-portrait${isNemesis ? ' nemesis-portrait' : ''}" alt="" loading="lazy">`;
+    html += `<div class="entity-details">`;
+    html += `<div class="entity-name-line">`;
+    html += `<a href="javascript:void(0)" class="char-link" data-name="${name.replace(/"/g, '&quot;')}">${name}</a>`;
+    html += zkillLink(charId, 'zKill');
+    html += `</div>`;
     const orgs = [];
-    if (data.corporation_id && data.corporation_name) orgs.push(corpLink(data.corporation_name, data.corporation_id));
-    if (data.alliance_id && data.alliance_name) orgs.push(allianceLink(data.alliance_name, data.alliance_id));
-    victimOrgs.innerHTML = orgs.join('');
-    victimOrgs.style.display = orgs.length ? 'flex' : 'none';
+    if (corpId && corpName) orgs.push(corpLink(corpName, corpId));
+    if (allianceId && allianceName) orgs.push(allianceLink(allianceName, allianceId));
+    if (orgs.length) {
+        html += `<div class="entity-orgs">${orgs.join('')}</div>`;
+    }
+    html += `</div>`;
+    return html;
+}
+
+function renderResult(data) {
+    // Victim block
+    document.getElementById('victimBlock').innerHTML = entityBlock(
+        data.character_name, data.character_id,
+        data.corporation_id, data.corporation_name,
+        data.alliance_id, data.alliance_name,
+        64, false
+    );
     document.getElementById('totalLosses').textContent = data.total_losses;
 
     // Handle characters with no nemesis (0 losses)
     if (data.nemesis && data.nemesis.id) {
-        const nemOrgs = [];
-        if (data.nemesis.corporation_id && data.nemesis.corporation_name) nemOrgs.push(corpLink(data.nemesis.corporation_name, data.nemesis.corporation_id));
-        if (data.nemesis.alliance_id && data.nemesis.alliance_name) nemOrgs.push(allianceLink(data.nemesis.alliance_name, data.nemesis.alliance_id));
-        document.getElementById('nemesisName').innerHTML = charLink(data.nemesis.name, data.nemesis.id, 128) +
-            (nemOrgs.length ? `<div class="entity-orgs">${nemOrgs.join('')}</div>` : '') +
-            zkillLink(data.nemesis.id, 'zKill');
+        document.getElementById('nemesisBlock').innerHTML = entityBlock(
+            data.nemesis.name, data.nemesis.id,
+            data.nemesis.corporation_id, data.nemesis.corporation_name,
+            data.nemesis.alliance_id, data.nemesis.alliance_name,
+            128, true
+        );
         document.getElementById('nemesisKills').textContent = data.nemesis.final_blows;
     } else {
-        document.getElementById('nemesisName').innerHTML = '<span style="color:var(--text-dim)">No recorded losses</span>';
+        document.getElementById('nemesisBlock').innerHTML = '<span style="color:var(--text-dim)">No recorded losses</span>';
         document.getElementById('nemesisKills').textContent = '0';
     }
     document.getElementById('nemesisFinalBlows').textContent = 'final blows';
@@ -244,9 +261,9 @@ async function doSearch(pushState = true) {
             const charId = await resolveCharacterId(name);
             if (charId) {
                 // Show reverse-only view
-                document.getElementById('victimName').textContent = name;
+                document.getElementById('victimBlock').innerHTML = `<span style="font-size:1.5rem;font-weight:600">${name}</span>`;
                 document.getElementById('totalLosses').textContent = '?';
-                document.getElementById('nemesisName').textContent = 'Not tracked';
+                document.getElementById('nemesisBlock').innerHTML = '<span style="color:var(--text-dim)">Not tracked</span>';
                 document.getElementById('nemesisKills').textContent = '?';
                 document.getElementById('nemesisFinalBlows').textContent = 'final blows';
                 document.getElementById('topKillers').innerHTML = '<div class="killer-row"><div class="killer-name" style="color:var(--text-dim)">Character not in tracked database.</div></div>';

@@ -192,6 +192,72 @@ header p {
     flex-wrap: wrap;
 }
 
+/* Entity block layout: portrait left, name/orgs stacked right */
+.entity-block {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.entity-block .char-portrait {
+    flex-shrink: 0;
+}
+
+.entity-block .entity-details {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.entity-block .entity-name-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.entity-block .entity-name-line .char-link {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.entity-block .entity-orgs {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+/* Nemesis specific styling */
+.nemesis-reveal .entity-block .char-portrait.nemesis-portrait {
+    width: 128px;
+    height: 128px;
+    border-radius: 12px;
+    border: 2px solid var(--gold);
+    box-shadow: 0 0 20px rgba(255, 170, 0, 0.2);
+}
+
+.nemesis-reveal .entity-block .entity-name-line .char-link {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--gold);
+    text-shadow: 0 0 30px rgba(255, 170, 0, 0.3);
+}
+
+.nemesis-reveal .entity-block .entity-name-line .char-link:hover {
+    color: var(--accent);
+}
+
+.nemesis-reveal .entity-block .entity-orgs {
+    justify-content: flex-start;
+}
+
+.nemesis-reveal .entity-block .corp-logo,
+.nemesis-reveal .entity-block .alliance-logo {
+    width: 32px;
+    height: 32px;
+}
+
 .zkill-link {
     font-size: 0.75rem;
     color: var(--text-dim);
@@ -556,7 +622,7 @@ header p {
 
 .victim-info .entity-orgs {
     margin-top: 6px;
-    margin-left: 76px;
+    margin-left: 0;
 }
 
 @media (max-width: 600px) {
@@ -586,6 +652,24 @@ header p {
         flex-direction: column;
         gap: 8px;
         text-align: center;
+    }
+
+    .entity-block {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .entity-block .entity-details {
+        align-items: center;
+    }
+
+    .entity-block .entity-orgs {
+        justify-content: center;
+    }
+
+    .nemesis-reveal .entity-block .entity-name-line .char-link {
+        font-size: 1.6rem;
     }
 
     .killer-name .char-portrait {

@@ -64,27 +64,35 @@
             flex: 1;
             display: flex;
             align-items: center;
-            gap: 14px;
+            gap: 12px;
             min-width: 0;
         }
         .leader-info .char-portrait {
             width: 64px;
             height: 64px;
             border-radius: 8px;
+            flex-shrink: 0;
         }
         .leader-name {
             font-size: 1.15rem;
             font-weight: 600;
+            color: var(--text);
+            flex-shrink: 0;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .leader-name:hover {
+            color: var(--gold);
         }
         .leader-orgs {
             display: flex;
             align-items: center;
             gap: 6px;
-            margin-left: 6px;
+            flex-shrink: 0;
         }
         .org-logo {
-            width: 24px;
-            height: 24px;
+            width: 32px;
+            height: 32px;
             border-radius: 4px;
             object-fit: cover;
             border: 1px solid var(--border);
@@ -139,6 +147,10 @@
             }
             .leader-name {
                 font-size: 1rem;
+            }
+            .org-logo {
+                width: 24px;
+                height: 24px;
             }
             .stat-main {
                 font-size: 1.1rem;

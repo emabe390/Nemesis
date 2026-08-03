@@ -234,26 +234,81 @@ def update_db(id_to_name):
     print(f"Updated DB for {len(id_to_name)} characters ({updated} rows affected)")
 
 
+def find_placeholder_ids_in_files(names):
+    """Scan all character JSON files for 'Character {id}' names that have a real name in names.json."""
+    id_to_real_name = {v: k for k, v in names.items() if not k.startswith("Character ")}
+    placeholders_in_files = set()
+
+    for file in DATA_DIR.glob("*.json"):
+        if file.name == "names.json":
+            continue
+        try:
+            with open(file) as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        if not isinstance(data, dict):
+            continue
+
+        # Check nemesis
+        nemesis = data.get("nemesis")
+        if nemesis:
+            name = nemesis.get("name", "")
+            if name.startswith("Character "):
+                try:
+                    cid = int(name.split()[1])
+                    if cid in id_to_real_name:
+                        placeholders_in_files.add(cid)
+                except ValueError:
+                    pass
+
+        # Check top_killers
+        for k in data.get("top_killers", []):
+            name = k.get("name", "")
+            if name.startswith("Character "):
+                try:
+                    cid = int(name.split()[1])
+                    if cid in id_to_real_name:
+                        placeholders_in_files.add(cid)
+                except ValueError:
+                    pass
+
+    return placeholders_in_files, id_to_real_name
+
+
 def main():
     names = load_names()
-    unnamed = find_unnamed(names)
-    print(f"Found {len(unnamed)} unnamed characters")
-    if not unnamed:
-        return
 
-    ids = [u["id"] for u in unnamed]
-    resolved = resolve_names(ids)
-    print(f"Resolved {len(resolved)}/{len(unnamed)} names")
-    if not resolved:
-        return
+    # Phase 1: Fix names.json placeholders via ESI
+    unnamed = find_unnamed(names)
+    print(f"Found {len(unnamed)} unnamed characters in names.json")
 
     rename_map = {}
     id_to_name = {}
-    for u in unnamed:
-        new_name = resolved.get(u["id"])
-        if new_name:
-            rename_map[u["bad_name"]] = new_name
-            id_to_name[u["id"]] = new_name
+
+    if unnamed:
+        ids = [u["id"] for u in unnamed]
+        resolved = resolve_names(ids)
+        print(f"Resolved {len(resolved)}/{len(unnamed)} names via ESI")
+        for u in unnamed:
+            new_name = resolved.get(u["id"])
+            if new_name:
+                rename_map[u["bad_name"]] = new_name
+                id_to_name[u["id"]] = new_name
+
+    # Phase 2: Fix placeholder names in character files that already have real names in names.json
+    placeholder_ids, id_to_real_name = find_placeholder_ids_in_files(names)
+    print(f"Found {len(placeholder_ids)} placeholder IDs in character files with real names in names.json")
+    for cid in placeholder_ids:
+        real_name = id_to_real_name[cid]
+        old_name = f"Character {cid}"
+        if old_name not in rename_map:
+            rename_map[old_name] = real_name
+            id_to_name[cid] = real_name
+
+    if not rename_map:
+        print("Nothing to fix")
+        return
 
     update_json_files(rename_map, id_to_name)
     update_db(id_to_name)

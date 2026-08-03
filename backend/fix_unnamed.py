@@ -93,11 +93,19 @@ def update_json_files(rename_map, id_to_name):
 
     # All character JSON files
     updated = 0
-    for file in DATA_DIR.glob("*.json"):
-        if file.name == "names.json":
-            continue
+    files = [f for f in DATA_DIR.glob("*.json") if f.name != "names.json"]
+    total_files = len(files)
+    for i, file in enumerate(files, 1):
+        if i % 5000 == 0 or i == total_files:
+            pct = 100 * i / total_files
+            bar = "=" * (i * 30 // total_files)
+            print(f"\r  Files: [{bar:<30}] {pct:.1f}% ({i}/{total_files})", end="", flush=True)
+
         with open(file) as f:
             data = json.load(f)
+        # Skip non-character files (arrays or objects without character_name)
+        if not isinstance(data, dict) or "character_name" not in data:
+            continue
         changed = False
 
         if data.get("character_name") in rename_map:
@@ -118,7 +126,7 @@ def update_json_files(rename_map, id_to_name):
             with open(file, "w") as f:
                 json.dump(data, f, indent=2)
             updated += 1
-    print(f"Updated {updated} character files")
+    print(f"\nUpdated {updated} character files")
 
     # index.json
     index_path = DATA_DIR / "index.json"

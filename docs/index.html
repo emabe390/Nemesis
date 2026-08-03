@@ -10,7 +10,7 @@
     <div class="container">
         <header>
             <h1><a href="./" class="site-title">⚔️ EVE Nemesis Tracker</a></h1>
-            <p>Find who kills you the most in New Eden</p>
+            <p>Who's your nemesis?</p>
         </header>
 
         <div class="search-wrap">
@@ -28,7 +28,10 @@
             <div class="nemesis-card">
                 <div class="victim-header">
                     <div class="victim-info entity-block" id="victimBlock"></div>
-                    <span class="losses-badge"><span id="totalLosses"></span> losses tracked</span>
+                    <div class="victim-badges">
+                        <span class="rank-badge hidden" id="nemesisRank"></span>
+                        <span class="losses-badge"><span id="totalLosses"></span> losses tracked</span>
+                    </div>
                 </div>
 
                 <div class="nemesis-reveal">

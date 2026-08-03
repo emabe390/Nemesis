@@ -282,9 +282,26 @@ header p {
     flex-shrink: 0;
 }
 
+.victim-badges {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
 .losses-badge {
     background: rgba(255, 68, 68, 0.15);
     color: var(--accent);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.rank-badge {
+    background: rgba(255, 170, 0, 0.15);
+    color: var(--gold);
     padding: 6px 14px;
     border-radius: 20px;
     font-size: 0.9rem;
@@ -636,6 +653,9 @@ header p {
         flex-direction: column;
         gap: 10px;
         text-align: center;
+    }
+    .victim-badges {
+        justify-content: center;
     }
     .nemesis-name {
         font-size: 1.4rem;

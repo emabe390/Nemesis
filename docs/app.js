@@ -28,6 +28,29 @@ async function loadNames() {
     }
 }
 
+let topNemesisCache = null;
+
+async function loadTopNemesis() {
+    if (topNemesisCache) return topNemesisCache;
+    try {
+        const res = await fetch(DATA_URL + 'top_nemesis.json');
+        if (!res.ok) throw new Error('No top nemesis');
+        topNemesisCache = await res.json();
+        return topNemesisCache;
+    } catch (e) {
+        return [];
+    }
+}
+
+async function getNemesisRank(charId) {
+    const top = await loadTopNemesis();
+    const idx = top.findIndex(e => e.id === charId);
+    if (idx >= 0 && idx < 100) {
+        return { rank: idx + 1, data: top[idx] };
+    }
+    return null;
+}
+
 function slugify(name) {
     return name.toLowerCase().replace(/[\s-]+/g, '_').replace(/[^a-z0-9_]/g, '');
 }
@@ -151,7 +174,7 @@ function entityBlock(name, charId, corpId, corpName, allianceId, allianceName, p
     return html;
 }
 
-function renderResult(data) {
+async function renderResult(data) {
     // Victim block
     document.getElementById('victimBlock').innerHTML = entityBlock(
         data.character_name, data.character_id,
@@ -160,6 +183,16 @@ function renderResult(data) {
         64, false
     );
     document.getElementById('totalLosses').textContent = data.total_losses;
+
+    // Check if this character is a top nemesis (top 100)
+    const rankInfo = await getNemesisRank(data.character_id);
+    const rankEl = document.getElementById('nemesisRank');
+    if (rankInfo) {
+        rankEl.innerHTML = `Rank #${rankInfo.rank} Nemesis`;
+        rankEl.classList.remove('hidden');
+    } else {
+        rankEl.classList.add('hidden');
+    }
 
     // Handle characters with no nemesis (0 losses)
     if (data.nemesis && data.nemesis.id) {
@@ -263,6 +296,14 @@ async function doSearch(pushState = true) {
                 // Show reverse-only view
                 document.getElementById('victimBlock').innerHTML = `<span style="font-size:1.5rem;font-weight:600">${name}</span>`;
                 document.getElementById('totalLosses').textContent = '?';
+                const rankInfo = await getNemesisRank(charId);
+                const rankEl = document.getElementById('nemesisRank');
+                if (rankInfo) {
+                    rankEl.innerHTML = `Rank #${rankInfo.rank} Nemesis`;
+                    rankEl.classList.remove('hidden');
+                } else {
+                    rankEl.classList.add('hidden');
+                }
                 document.getElementById('nemesisBlock').innerHTML = '<span style="color:var(--text-dim)">Not tracked</span>';
                 document.getElementById('nemesisKills').textContent = '?';
                 document.getElementById('nemesisFinalBlows').textContent = 'final blows';

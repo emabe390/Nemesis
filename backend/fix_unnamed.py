@@ -41,6 +41,45 @@ def find_unnamed(names):
     return unnamed
 
 
+def _resolve_batch(batch):
+    """Resolve a single batch, handling 404 by splitting."""
+    resolved = {}
+    for attempt in range(5):
+        try:
+            r = requests.post(ESI_NAMES_URL, json=batch, timeout=30)
+            if r.status_code == 200:
+                for entry in r.json():
+                    eid = entry.get("id")
+                    name = entry.get("name")
+                    if name:
+                        resolved[eid] = name
+                return resolved
+            elif r.status_code == 429:
+                retry_after = int(r.headers.get("retry-after", 2))
+                print(f"\n  Rate limited, waiting {retry_after}s...")
+                time.sleep(retry_after)
+            elif r.status_code == 404:
+                if len(batch) == 1:
+                    print(f"\n    Skipping invalid ID: {batch[0]}")
+                    return resolved
+                # Binary split to find bad IDs
+                mid = len(batch) // 2
+                left = _resolve_batch(batch[:mid])
+                right = _resolve_batch(batch[mid:])
+                left.update(right)
+                return left
+            elif r.status_code >= 500:
+                print(f"\n  ESI error {r.status_code}, retrying...")
+                time.sleep(2 ** attempt)
+            else:
+                print(f"\n  ESI error {r.status_code}: {r.text[:200]}")
+                return resolved
+        except Exception as e:
+            print(f"\n  Error: {e}")
+            time.sleep(2 ** attempt)
+    return resolved
+
+
 def resolve_names(ids):
     resolved = {}
     total = len(ids)
@@ -53,29 +92,8 @@ def resolve_names(ids):
         bar = "=" * (batch_num * 30 // total_batches)
         print(f"\r  ESI: [{bar:<30}] {pct:.1f}% ({batch_num}/{total_batches})", end="", flush=True)
 
-        for attempt in range(5):
-            try:
-                r = requests.post(ESI_NAMES_URL, json=batch, timeout=30)
-                if r.status_code == 200:
-                    for entry in r.json():
-                        eid = entry.get("id")
-                        name = entry.get("name")
-                        if name:
-                            resolved[eid] = name
-                    break
-                elif r.status_code == 429:
-                    retry_after = int(r.headers.get("retry-after", 2))
-                    print(f"\n  Rate limited, waiting {retry_after}s...")
-                    time.sleep(retry_after)
-                elif r.status_code >= 500:
-                    print(f"\n  ESI error {r.status_code}, retrying...")
-                    time.sleep(2 ** attempt)
-                else:
-                    print(f"\n  ESI error {r.status_code}: {r.text[:200]}")
-                    break
-            except Exception as e:
-                print(f"\n  Error: {e}")
-                time.sleep(2 ** attempt)
+        batch_resolved = _resolve_batch(batch)
+        resolved.update(batch_resolved)
         time.sleep(0.1)
     print()
     return resolved

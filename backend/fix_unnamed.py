@@ -103,8 +103,9 @@ def update_json_files(rename_map, id_to_name):
     # names.json
     names = load_names()
     for old_name, new_name in rename_map.items():
-        char_id = names.pop(old_name)
-        names[new_name] = char_id
+        if old_name in names:
+            char_id = names.pop(old_name)
+            names[new_name] = char_id
     with open(DATA_DIR / "names.json", "w") as f:
         json.dump(names, f, indent=2)
     print("Updated names.json")

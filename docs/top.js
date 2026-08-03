@@ -33,7 +33,10 @@ function orgsHtml(entry) {
 
 function getPageFromHash() {
     const hash = location.hash.slice(1);
-    const page = parseInt(hash, 10);
+    // Hash format: "page3" or just "3"
+    const match = hash.match(/^(?:page)?(\d+)$/);
+    if (!match) return 1;
+    const page = parseInt(match[1], 10);
     return isNaN(page) || page < 1 ? 1 : page;
 }
 
